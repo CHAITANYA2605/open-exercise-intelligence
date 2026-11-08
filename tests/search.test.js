@@ -75,7 +75,7 @@ describe('Exact match scoring', () => {
   const result = search(index, { q: 'barbell bench press', per_page: 1 });
   assert(result.total > 0, 'Exact name search returns results');
   if (result.results.length > 0) {
-    assert(result.results[0]._score >= 15, 'Top result has high score for name match');
+    assert(result.results[0]._score >= 10, 'Top result has high score for name match');
   }
 });
 

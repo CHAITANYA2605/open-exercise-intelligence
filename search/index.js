@@ -83,12 +83,14 @@ const SYNONYMS = {
   row: ['rows'],
 };
 
-/** Expand a query string by injecting synonyms for known terms. */
+/** Expand a query string by injecting synonyms for known terms (whole-word match only). */
 function expandSynonyms(query) {
   let expanded = query;
   const lower = query.toLowerCase();
   for (const [term, expansions] of Object.entries(SYNONYMS)) {
-    if (lower.includes(term)) {
+    // Match whole words only: term must be surrounded by word boundaries
+    const re = new RegExp('(?<![a-z0-9])' + term.replace(/[-]/g, '\\-') + '(?![a-z0-9])', 'i');
+    if (re.test(lower)) {
       expanded += ' ' + expansions.join(' ');
     }
   }
