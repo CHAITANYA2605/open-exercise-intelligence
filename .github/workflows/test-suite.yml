@@ -1,0 +1,57 @@
+name: Test Suite
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  taxonomy-tests:
+    name: Taxonomy Regression Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run taxonomy tests
+        run: node tests/taxonomy.test.js
+
+  search-tests:
+    name: Search Engine Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run search tests
+        run: node tests/search.test.js
+
+  contract-tests:
+    name: Dataset Format Contract Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build dataset artifacts
+        run: node scripts/generation/build-dataset.js
+      - name: Run dataset format contract tests
+        run: node tests/contract/dataset-format.test.js
+      - name: Run API contract tests
+        run: node tests/contract/api-contract.test.js
+
+  release-check:
+    name: Release Dry-Run
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Release safety check
+        run: node scripts/release-check.js

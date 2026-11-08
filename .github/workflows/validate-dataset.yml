@@ -1,14 +1,11 @@
 name: Validate Dataset
 
 on:
+  push:
+    branches: [main]
   pull_request:
-    paths:
-      - 'data/exercises/**'
-      - 'data/muscles/**'
-      - 'data/equipment/**'
-      - 'schema/exercise.schema.json'
-      - 'schema/muscle.schema.json'
-      - 'schema/equipment.schema.json'
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
   validate:

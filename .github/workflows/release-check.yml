@@ -3,20 +3,8 @@ name: Release Safety Check
 on:
   push:
     branches: [main]
-    paths:
-      - 'data/exercises/**'
-      - 'data/muscles/**'
-      - 'data/equipment/**'
-      - 'schema/**'
-      - 'scripts/release-check.js'
-      - 'scripts/validate.js'
   pull_request:
     branches: [main]
-    paths:
-      - 'data/exercises/**'
-      - 'data/muscles/**'
-      - 'data/equipment/**'
-      - 'schema/**'
   workflow_dispatch:
 
 jobs:
