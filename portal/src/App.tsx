@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Home from './pages/Home'
 import Docs from './pages/Docs'
 import Explore from './pages/Explore'
+import ExerciseDetail from './pages/ExerciseDetail'
 import Playground from './pages/Playground'
 import MediaContribution from './pages/MediaContribution'
 import Community from './pages/Community'
@@ -17,6 +18,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/docs" element={<Docs />} />
           <Route path="/explore" element={<Explore />} />
+          <Route path="/exercise/:slug" element={<ExerciseDetail />} />
           <Route path="/playground" element={<Playground />} />
           <Route path="/contribute/media" element={<MediaContribution />} />
           <Route path="/community" element={<Community />} />

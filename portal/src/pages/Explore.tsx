@@ -13,6 +13,7 @@ export default function Explore() {
     difficulty_level: '',
     exercise_type: '',
     movement_pattern: '',
+    review_status: '',
   })
   const [page, setPage] = useState(1)
 
@@ -33,6 +34,7 @@ export default function Explore() {
       difficulty_level: filters.difficulty_level || undefined,
       exercise_type: filters.exercise_type || undefined,
       movement_pattern: filters.movement_pattern || undefined,
+      review_status: filters.review_status || undefined,
     },
     page,
     PER_PAGE,

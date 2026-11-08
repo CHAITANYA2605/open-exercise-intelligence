@@ -9,6 +9,7 @@ public class SearchParams {
     private String equipment;
     private String movementPattern;
     private String exerciseType;
+    private String reviewStatus;
     private int page = 1;
     private int perPage = 20;
 
@@ -32,6 +33,9 @@ public class SearchParams {
 
     public String getExerciseType() { return exerciseType; }
     public void setExerciseType(String exerciseType) { this.exerciseType = exerciseType; }
+
+    public String getReviewStatus() { return reviewStatus; }
+    public void setReviewStatus(String reviewStatus) { this.reviewStatus = reviewStatus; }
 
     public int getPage() { return page; }
     public void setPage(int page) { this.page = Math.max(1, page); }

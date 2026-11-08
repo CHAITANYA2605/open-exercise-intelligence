@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom'
+
 interface Muscle {
   muscle_id: string
   muscle_slug: string
@@ -46,7 +48,7 @@ export default function ExerciseCard({ exercise }: ExerciseCardProps) {
   const primaryMuscles = exercise.muscles?.primary?.slice(0, 3) ?? []
 
   return (
-    <div className="bg-slate-800 border border-slate-700 rounded-xl p-4 hover:border-indigo-500 transition-colors cursor-pointer group">
+    <Link to={`/exercise/${exercise.slug}`} className="block bg-slate-800 border border-slate-700 rounded-xl p-4 hover:border-indigo-500 transition-colors cursor-pointer group">
       <div className="flex items-start justify-between gap-2 mb-2">
         <h3 className="text-white font-semibold text-sm group-hover:text-indigo-300 transition-colors leading-tight">
           {exercise.name}
@@ -84,6 +86,6 @@ export default function ExerciseCard({ exercise }: ExerciseCardProps) {
           {exercise.movement_pattern}
         </div>
       )}
-    </div>
+    </Link>
   )
 }

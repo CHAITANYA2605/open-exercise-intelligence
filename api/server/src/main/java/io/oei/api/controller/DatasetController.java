@@ -22,4 +22,10 @@ public class DatasetController {
         }
         return ResponseEntity.ok(meta);
     }
+
+    /** OpenAPI spec path: GET /v1/dataset/versions */
+    @GetMapping("/dataset/versions")
+    public ResponseEntity<DatasetService.DatasetMeta> getDatasetVersions() {
+        return getDatasetVersion();
+    }
 }

@@ -3,6 +3,7 @@ export interface Filters {
   difficulty_level: string
   exercise_type: string
   movement_pattern: string
+  review_status: string
 }
 
 interface FilterPanelProps {
@@ -12,11 +13,12 @@ interface FilterPanelProps {
 
 const categories = ['', 'strength', 'cardio', 'flexibility', 'mobility', 'plyometric', 'power', 'rehabilitation', 'functional', 'stretching']
 const difficulties = ['', 'beginner', 'intermediate', 'advanced', 'expert']
-const exerciseTypes = ['', 'compound', 'isolation', 'calisthenics', 'cardio', 'plyometric', 'strength', 'stretching']
+const exerciseTypes = ['', 'compound', 'isolation', 'cardio', 'stretching', 'plyometric', 'calisthenics']
 const movementPatterns = [
-  '', 'push', 'pull', 'hinge', 'hip-hinge', 'squat', 'lunge', 'carry', 'rotation',
-  'anti-rotation', 'gait', 'overhead', 'bridge', 'plank', 'plyometric', 'balance'
+  '', 'anti-rotation', 'balance', 'bridge', 'carry', 'gait', 'hinge',
+  'lunge', 'overhead', 'plank', 'plyometric', 'pull', 'push', 'rotation', 'squat',
 ]
+const reviewStatuses = ['', 'UNREVIEWED', 'IN_REVIEW', 'NEEDS_REVISION', 'APPROVED', 'REJECTED']
 
 function FilterSelect({
   label,
@@ -47,6 +49,14 @@ function FilterSelect({
   )
 }
 
+const EMPTY_FILTERS: Filters = {
+  category: '',
+  difficulty_level: '',
+  exercise_type: '',
+  movement_pattern: '',
+  review_status: '',
+}
+
 export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
   const set = (key: keyof Filters) => (value: string) => onChange({ ...filters, [key]: value })
 
@@ -58,7 +68,7 @@ export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
         <h3 className="text-sm font-semibold text-white">Filters</h3>
         {hasFilters && (
           <button
-            onClick={() => onChange({ category: '', difficulty_level: '', exercise_type: '', movement_pattern: '' })}
+            onClick={() => onChange(EMPTY_FILTERS)}
             className="text-xs text-indigo-400 hover:text-indigo-300 transition-colors"
           >
             Clear all
@@ -69,6 +79,7 @@ export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
       <FilterSelect label="Difficulty" value={filters.difficulty_level} options={difficulties} onChange={set('difficulty_level')} />
       <FilterSelect label="Type" value={filters.exercise_type} options={exerciseTypes} onChange={set('exercise_type')} />
       <FilterSelect label="Movement" value={filters.movement_pattern} options={movementPatterns} onChange={set('movement_pattern')} />
+      <FilterSelect label="Review Status" value={filters.review_status} options={reviewStatuses} onChange={set('review_status')} />
     </div>
   )
 }

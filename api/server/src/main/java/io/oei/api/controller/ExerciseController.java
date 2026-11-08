@@ -32,6 +32,7 @@ public class ExerciseController {
             @RequestParam(required = false) String equipment,
             @RequestParam(name = "movement_pattern", required = false) String movementPattern,
             @RequestParam(name = "exercise_type", required = false) String exerciseType,
+            @RequestParam(name = "review_status", required = false) String reviewStatus,
             @RequestParam(defaultValue = "1") int page,
             @RequestParam(name = "per_page", defaultValue = "20") int perPage) {
 
@@ -50,6 +51,7 @@ public class ExerciseController {
         params.setEquipment(equipment);
         params.setMovementPattern(movementPattern);
         params.setExerciseType(exerciseType);
+        params.setReviewStatus(reviewStatus);
         params.setPage(page);
         params.setPerPage(perPage);
 

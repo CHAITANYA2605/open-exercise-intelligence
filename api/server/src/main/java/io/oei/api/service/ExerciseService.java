@@ -28,6 +28,7 @@ public class ExerciseService {
                 .filter(e -> matchesEquipment(e, params.getEquipment()))
                 .filter(e -> matchesMovementPattern(e, params.getMovementPattern()))
                 .filter(e -> matchesExerciseType(e, params.getExerciseType()))
+                .filter(e -> matchesReviewStatus(e, params.getReviewStatus()))
                 .collect(Collectors.toList());
 
         int total = results.size();
@@ -186,5 +187,13 @@ public class ExerciseService {
     private boolean matchesExerciseType(Exercise e, String exerciseType) {
         if (exerciseType == null || exerciseType.isBlank()) return true;
         return exerciseType.equalsIgnoreCase(e.getExerciseType());
+    }
+
+    private boolean matchesReviewStatus(Exercise e, String reviewStatus) {
+        if (reviewStatus == null || reviewStatus.isBlank()) return true;
+        Map<String, Object> metadata = e.getMetadata();
+        if (metadata == null) return "UNREVIEWED".equalsIgnoreCase(reviewStatus);
+        Object status = metadata.get("review_status");
+        return reviewStatus.equalsIgnoreCase(status != null ? status.toString() : "UNREVIEWED");
     }
 }
