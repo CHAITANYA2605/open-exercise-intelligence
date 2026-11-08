@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+  "exercise_id": "a9dfea8c-47bd-4b8a-b4a9-46ff5e1450c7",
   "slug": "scapular-pushup",
   "name": "Scapular Push-Up",
-  "alternative_names": ["Scapular Protraction Push-Up", "Serratus Push-Up"],
+  "alternative_names": [
+    "Scapular Protraction Push-Up",
+    "Serratus Push-Up"
+  ],
   "description": "The scapular push-up is a rehabilitation drill that trains serratus anterior strength and scapular protraction control in a push-up position. Unlike a standard push-up, the elbows remain locked throughout and only the shoulder blades move — protracting (spreading apart) and retracting (pinching together). It is prescribed for serratus anterior weakness, scapular winging, and shoulder instability.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,16 +18,27 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "serratus-anterior" }
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "serratus-anterior"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0004-4000-a000-000000000002", "muscle_slug": "lower-trapezius" }
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "lower-trapezius"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a standard push-up position with arms fully extended, hands shoulder-width apart.",
@@ -62,21 +76,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 15, "max_reps": 20 }
+      {
+        "goal": "strength",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 60 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "serratus-anterior", "scapular", "shoulder", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "serratus-anterior",
+      "scapular",
+      "shoulder",
+      "beginner"
+    ]
   }
 }

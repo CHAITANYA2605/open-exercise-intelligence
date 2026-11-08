@@ -1,8 +1,10 @@
 {
-  "exercise_id": "f4a5b6c7-d8e9-4012-f345-a67b89c01234",
+  "exercise_id": "17be9049-3d74-4b63-8f09-7bec2297fe78",
   "slug": "incline-machine-chest-press",
   "name": "Incline Machine Chest Press",
-  "alternative_names": ["Incline Plate-Loaded Chest Press"],
+  "alternative_names": [
+    "Incline Plate-Loaded Chest Press"
+  ],
   "description": "The Incline Machine Chest Press uses a selectorized or plate-loaded machine set at an inclined angle to target the clavicular head of the pectoralis major. The machine guides the press path, reducing stabilization demands and allowing higher training volumes or isolation work at the end of a session when stabilizers are fatigued.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +17,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000032-0000-4000-a000-000000000032"],
+  "equipment_required": [
+    "eq000032-0000-4000-a000-000000000032"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Adjust the seat height so the handles align with the upper chest. Sit back against the pad with feet flat on the floor.",
@@ -53,26 +72,62 @@
       "Squeeze at the top of every rep"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 75, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["upper-chest", "machine", "beginner-friendly"]
+    "tags": [
+      "upper-chest",
+      "machine",
+      "beginner-friendly"
+    ]
   }
 }

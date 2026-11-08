@@ -1,8 +1,11 @@
 {
-  "exercise_id": "f9a0b1c2-d3e4-4f5a-6b7c-8d9e0f1a2b3c",
+  "exercise_id": "4ee5e136-0c39-460c-9e36-1b23bb9432f2",
   "slug": "calf-stretch-wall",
   "name": "Wall Calf Stretch",
-  "alternative_names": ["Standing Calf Stretch", "Wall Gastrocnemius Stretch"],
+  "alternative_names": [
+    "Standing Calf Stretch",
+    "Wall Gastrocnemius Stretch"
+  ],
   "description": "The wall calf stretch uses a wall for support and targets the gastrocnemius with the knee straight and the soleus with the knee bent. With the knee straight, the gastrocnemius — which crosses the knee — is placed on maximal tension as the heel is pressed toward the floor and the foot dorsiflexed. The bent-knee version specifically isolates the soleus, which does not cross the knee joint.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,15 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial" },
-      { "muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral" }
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-lateral"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus" }
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing a wall at arm's length. Place both hands on the wall for support.",
@@ -62,21 +76,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
     ],
-    "rest_periods": { "mobility": 10 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 10
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calf", "gastrocnemius", "soleus", "stretch", "beginner", "ankle"]
+    "tags": [
+      "calf",
+      "gastrocnemius",
+      "soleus",
+      "stretch",
+      "beginner",
+      "ankle"
+    ]
   }
 }

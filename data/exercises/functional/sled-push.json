@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-h006-4000-a000-000000000406",
+  "exercise_id": "c32ef98c-aa53-4479-bec8-9ac87e3fd2f9",
   "slug": "sled-push",
   "name": "Sled Push",
-  "alternative_names": ["Prowler Push", "Weight Sled Push"],
+  "alternative_names": [
+    "Prowler Push",
+    "Weight Sled Push"
+  ],
   "description": "The sled push is a linear strength and conditioning exercise in which the athlete drives a loaded sled forward across a surface by pushing from handles at the rear, maintaining a forward lean with straight arms. The hip extension and leg drive mechanics closely replicate the acceleration phase of sprinting, making it a highly effective training tool for sport-specific linear power, lower body strength development, and high-intensity metabolic conditioning with minimal eccentric muscle damage.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand behind the sled, gripping the upright handles. Lean forward at approximately 45 degrees, arms straight.",
@@ -68,23 +97,57 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 1},
-      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 1
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "endurance", "min_sets": 5, "max_sets": 10}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 5,
+        "max_sets": 10
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 90},
-    "training_goals": ["strength", "power", "endurance"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength",
+      "power",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["functional", "sled", "conditioning", "power", "lower-body"]
+    "tags": [
+      "functional",
+      "sled",
+      "conditioning",
+      "power",
+      "lower-body"
+    ]
   }
 }

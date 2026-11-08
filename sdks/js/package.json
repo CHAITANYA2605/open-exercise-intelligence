@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/open-exercise-intelligence/oei"
+    "url": "https://github.com/CHAITANYA2605/open-exercise-intelligence"
   },
   "devDependencies": {
     "typescript": "^5.0.0"

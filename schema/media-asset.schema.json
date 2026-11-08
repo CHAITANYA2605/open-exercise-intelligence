@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/open-exercise-intelligence/oei/blob/main/schema/media-asset.schema.json",
+  "$id": "https://github.com/CHAITANYA2605/open-exercise-intelligence/blob/main/schema/media-asset.schema.json",
   "title": "MediaAsset",
   "description": "A media asset record with provenance and licensing information",
   "type": "object",

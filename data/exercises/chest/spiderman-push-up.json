@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0012-4000-a000-chest0000012",
+  "exercise_id": "cc5023ec-71a2-4758-80af-798657ecbb1a",
   "slug": "spiderman-push-up",
   "name": "Spiderman Push-Up",
-  "alternative_names": ["Spider-Man Push-Up", "Knee-to-Elbow Push-Up"],
+  "alternative_names": [
+    "Spider-Man Push-Up",
+    "Knee-to-Elbow Push-Up"
+  ],
   "description": "The Spiderman push-up adds a knee-to-elbow hip flexion movement to each rep of a standard push-up, simultaneously training the chest, triceps, and hip flexors while demanding greater core stability and rotational control. The lateral leg movement also improves hip mobility and increases the cardiovascular demand.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a standard high plank position with hands slightly wider than shoulder-width and body in a straight line.",
@@ -53,33 +79,74 @@
     ],
     "range_of_motion_guidance": "Full push-up range combined with the knee moving as far toward the elbow as mobility allows. The goal is simultaneous floor contact of the chest and knee-to-elbow approximation.",
     "tempo_recommendations": "2-0-1-0",
-    "coaching_cues": ["Touch knee to elbow at the bottom", "Keep the hips level — don't let them swing", "One smooth movement: down and knee out, up and leg back"]
+    "coaching_cues": [
+      "Touch knee to elbow at the bottom",
+      "Keep the hips level — don't let them swing",
+      "One smooth movement: down and knee out, up and leg back"
+    ]
   },
   "variants": {
-    "easier": ["push-up"],
-    "harder": ["single-arm-push-up"],
+    "easier": [
+      "push-up"
+    ],
+    "harder": [
+      "single-arm-push-up"
+    ],
     "unilateral": [],
-    "bilateral": ["spiderman-push-up"],
+    "bilateral": [
+      "spiderman-push-up"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 30},
-    "training_goals": ["hypertrophy", "functional_fitness", "mobility"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "functional_fitness",
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "bodyweight", "push-up", "core", "hip-flexor", "dynamic"]
+    "tags": [
+      "chest",
+      "bodyweight",
+      "push-up",
+      "core",
+      "hip-flexor",
+      "dynamic"
+    ]
   }
 }

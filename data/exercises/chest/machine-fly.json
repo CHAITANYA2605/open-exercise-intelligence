@@ -1,8 +1,12 @@
 {
-  "exercise_id": "d0e1f2a3-b4c5-4d6e-7f8a-b9c0d1e2f410",
+  "exercise_id": "660f51b3-74b4-4cb9-b448-cffc586f5579",
   "slug": "machine-fly",
   "name": "Machine Fly",
-  "alternative_names": ["Pec Deck Fly", "Pec Deck", "Pec Deck Machine"],
+  "alternative_names": [
+    "Pec Deck Fly",
+    "Pec Deck",
+    "Pec Deck Machine"
+  ],
   "description": "The machine fly, commonly called the pec deck, is a seated isolation exercise for the pectoralis major. The user pushes two padded arm rests or handles together in a horizontal arc. The machine's guided path removes the need for shoulder stabilization, allowing near-complete focus on pectoral contraction, making it safe and effective for high-rep isolation work.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,16 +19,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000033-0000-4000-a000-000000000033"],
+  "equipment_required": [
+    "eq000033-0000-4000-a000-000000000033"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the pec deck machine with back flat against the pad. Adjust the seat so the arms or handles are at chest level. Place forearms on the pads or grip the handles with elbows slightly bent.",
@@ -55,28 +73,66 @@
     "easier": [],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["cable-fly", "dumbbell-fly"],
-    "equipment_alternatives": ["cable-fly", "dumbbell-fly"]
+    "bilateral": [
+      "cable-fly",
+      "dumbbell-fly"
+    ],
+    "equipment_alternatives": [
+      "cable-fly",
+      "dumbbell-fly"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["pec-deck", "chest", "isolation", "machine", "fly"]
+    "tags": [
+      "pec-deck",
+      "chest",
+      "isolation",
+      "machine",
+      "fly"
+    ]
   }
 }

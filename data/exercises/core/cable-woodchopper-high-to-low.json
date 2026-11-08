@@ -1,8 +1,11 @@
 {
-  "exercise_id": "co000039-0000-4000-a000-000000000039",
+  "exercise_id": "5070307f-ad71-48f9-8a28-4a4bd0f30e50",
   "slug": "cable-woodchopper-high-to-low",
   "name": "High-to-Low Cable Woodchopper",
-  "alternative_names": ["Diagonal Cable Chop High to Low", "Cable Downward Chop"],
+  "alternative_names": [
+    "Diagonal Cable Chop High to Low",
+    "Cable Downward Chop"
+  ],
   "description": "The high-to-low cable woodchopper trains diagonal trunk rotation in a downward arc, emphasizing the external oblique on the pulling side and the contralateral internal oblique. The diagonal movement pattern closely replicates the biomechanics of a downward striking action used in chopping, overhead throwing follow-through, and many racquet-sport movements. The continuous cable tension challenges both the rotational prime movers and the hip stabilizers throughout a large three-dimensional arc.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set the cable pulley to its highest position. Stand side-on to the machine, grasping the handle with both hands above and outside the shoulder closest to the stack.",
@@ -44,20 +67,65 @@
       "Bending the elbows — the movement should originate from the trunk, not the arms",
       "Squatting down instead of rotating — the squat component should be minimal"
     ],
-    "safety_considerations": ["Keep the spine neutral throughout — avoid lateral spinal flexion"],
+    "safety_considerations": [
+      "Keep the spine neutral throughout — avoid lateral spinal flexion"
+    ],
     "range_of_motion_guidance": "Full diagonal arc from high outside one shoulder to low outside the opposite hip.",
     "tempo_recommendations": "2-0-2-0. Powerful pull, controlled return.",
-    "coaching_cues": ["Imagine swinging an axe — the power comes from the whole trunk", "Keep the arms long"]
+    "coaching_cues": [
+      "Imagine swinging an axe — the power comes from the whole trunk",
+      "Keep the arms long"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
-    "recommended_set_ranges": [{"goal": "strength", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"strength": 60},
-    "training_goals": ["strength", "sport"]
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength",
+      "sport"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "rotation", "obliques", "cable", "functional", "sport"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "rotation",
+      "obliques",
+      "cable",
+      "functional",
+      "sport"
+    ]
+  }
 }

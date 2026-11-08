@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sh010026-f3a2-4c1e-9b8d-7e6f5a4c3c07",
+  "exercise_id": "923a8788-08b1-4675-ad34-4e9887084006",
   "slug": "barbell-front-raise",
   "name": "Barbell Front Raise",
-  "alternative_names": ["Barbell Anterior Raise", "BB Front Raise"],
+  "alternative_names": [
+    "Barbell Anterior Raise",
+    "BB Front Raise"
+  ],
   "description": "The barbell front raise targets the anterior deltoid by raising a barbell from the thighs to shoulder height in front of the body. The bilateral nature and pronated grip load both anterior deltoids simultaneously and provide a simple progressive overload path compared to dumbbell variations. It is a straightforward anterior deltoid isolation exercise suitable for adding volume to shoulder training.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,17 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright holding a barbell with a pronated (overhand) grip at approximately shoulder width. The bar hangs at thigh level with arms nearly straight.",
@@ -43,29 +60,64 @@
       "Raising too high — above shoulder level recruits the traps excessively",
       "Bending the elbows too much, turning it into a curl-raise hybrid"
     ],
-    "safety_considerations": ["Keep the lower back neutral — do not hyperextend as the bar rises"],
+    "safety_considerations": [
+      "Keep the lower back neutral — do not hyperextend as the bar rises"
+    ],
     "range_of_motion_guidance": "Thigh level to shoulder height (90 degrees).",
     "tempo_recommendations": "2-0-3-0",
-    "coaching_cues": ["Arms like a robot — controlled arc", "No lean back", "Stop at shoulder height"]
+    "coaching_cues": [
+      "Arms like a robot — controlled arc",
+      "No lean back",
+      "Stop at shoulder height"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 75},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shoulders", "front-raise", "barbell", "anterior-deltoid", "isolation"]
+    "tags": [
+      "shoulders",
+      "front-raise",
+      "barbell",
+      "anterior-deltoid",
+      "isolation"
+    ]
   }
 }

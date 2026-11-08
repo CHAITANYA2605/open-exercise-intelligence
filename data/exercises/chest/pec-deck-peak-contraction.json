@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e5f6a7b8-c9d0-4123-e456-f78a90b12c47",
+  "exercise_id": "575268ab-ba26-46fb-9fd6-7a29cffe69a4",
   "slug": "pec-deck-peak-contraction",
   "name": "Pec Deck Peak Contraction",
-  "alternative_names": ["Pec Deck Isometric Hold", "Machine Fly Peak Hold"],
+  "alternative_names": [
+    "Pec Deck Isometric Hold",
+    "Machine Fly Peak Hold"
+  ],
   "description": "A pec deck flye variation where each repetition includes a deliberate 2–3 second isometric hold at the fully contracted position (arms together in front). This peak contraction technique maximizes tension on the pectoralis major at its shortest length, where the muscle generates a powerful squeeze. The paused technique is used specifically to develop the mind-muscle connection and improve the ability to feel and contract the chest at peak.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,15 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000033-0000-4000-a000-000000000033"],
+  "equipment_required": [
+    "eq000033-0000-4000-a000-000000000033"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in a pec deck machine with the back fully against the pad. Grip the handles or place forearms in the arm pads. Begin with arms open to the sides at shoulder height.",
@@ -51,24 +65,54 @@
       "The hold is not a rest — it is the most important part of each rep"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 75},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["pec-deck", "machine", "isometric", "peak-contraction", "isolation", "chest"]
+    "tags": [
+      "pec-deck",
+      "machine",
+      "isometric",
+      "peak-contraction",
+      "isolation",
+      "chest"
+    ]
   }
 }

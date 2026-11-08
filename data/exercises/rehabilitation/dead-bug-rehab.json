@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
+  "exercise_id": "ecc902db-cfbc-4098-a810-16f20ef0f92b",
   "slug": "dead-bug-rehab",
   "name": "Dead Bug",
-  "alternative_names": ["Supine Dead Bug", "Dead Bug Core Exercise"],
+  "alternative_names": [
+    "Supine Dead Bug",
+    "Dead Bug Core Exercise"
+  ],
   "description": "The dead bug is a supine core stability exercise that challenges the ability to maintain a neutral lumbar spine while simultaneously moving the opposite arm and leg. The key training stimulus is anti-extension — resisting the tendency of the lower back to arch away from the floor as the limbs extend. It is a preferred core exercise in lumbar rehabilitation because it allows full core engagement without spinal loading, making it appropriate in early recovery stages.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,18 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
-      { "muscle_id": "99999999-0001-4000-a000-000000000009", "muscle_slug": "rectus-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0001-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      { "muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "obliques" },
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "obliques"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" }
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the back with the lower back pressed flat against the floor. Arms point straight toward the ceiling. Hips and knees are both bent to 90 degrees (tabletop position).",
@@ -65,21 +85,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 8, "max_reps": 12 }
+      {
+        "goal": "strength",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 60 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "core", "lumbar", "anti-extension", "stability", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "core",
+      "lumbar",
+      "anti-extension",
+      "stability",
+      "beginner"
+    ]
   }
 }

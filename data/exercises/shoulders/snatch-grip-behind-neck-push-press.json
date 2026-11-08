@@ -1,8 +1,11 @@
 {
-  "exercise_id": "f7a8b9c0-e123-4f01-2345-678901234ef0",
+  "exercise_id": "e7ec2f23-31f6-477b-b6e0-71a12752e651",
   "slug": "snatch-grip-behind-neck-push-press",
   "name": "Snatch-Grip Behind-Neck Push-Press",
-  "alternative_names": ["Behind-Neck Snatch Grip Push-Press", "Wide Grip BN Push-Press"],
+  "alternative_names": [
+    "Behind-Neck Snatch Grip Push-Press",
+    "Wide Grip BN Push-Press"
+  ],
   "description": "The snatch-grip behind-neck push-press uses a wide barbell grip (wider than shoulder width, approximating a snatch grip) with the bar starting behind the head on the traps. The push-press component (leg drive) allows heavier loading than a strict press. The wide grip and behind-neck bar position place the shoulder in maximum external rotation, which trains the posterior capsule and rotator cuff while also loading the lateral and posterior deltoid. This movement is primarily used in Olympic weightlifting and strength sport accessory training, requiring above-average shoulder mobility.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" },
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
-      { "muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "gluteus-maximus" }
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "triceps-brachii"
+      },
+      {
+        "muscle_id": "55555555-0003-4000-a000-000000000005",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "33333333-0005-4000-a000-000000000003", "muscle_slug": "infraspinatus" },
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set a barbell on a rack at upper-trap height. Take a wide snatch grip. The bar rests behind the head on the upper traps. Feet shoulder-width apart.",
@@ -66,22 +89,51 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 3, "max_reps": 6 },
-      { "goal": "power", "min_reps": 2, "max_reps": 5 }
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "power",
+        "min_reps": 2,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": { "strength": 240, "power": 300 },
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 240,
+      "power": 300
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["snatch-grip", "behind-neck", "push-press", "olympic-lifting", "advanced"]
+    "tags": [
+      "snatch-grip",
+      "behind-neck",
+      "push-press",
+      "olympic-lifting",
+      "advanced"
+    ]
   }
 }

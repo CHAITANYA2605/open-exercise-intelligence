@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0005-4000-a000-chest0000005",
+  "exercise_id": "9ee695d7-15d4-4afa-b9cf-c915339dd914",
   "slug": "landmine-chest-press",
   "name": "Landmine Single-Arm Chest Press",
-  "alternative_names": ["Landmine Press Chest", "Single-Arm Landmine Press"],
+  "alternative_names": [
+    "Landmine Press Chest",
+    "Single-Arm Landmine Press"
+  ],
   "description": "The landmine single-arm chest press uses one end of a barbell anchored to the floor to create an arcing pressing motion that is gentler on the shoulder joint than a traditional horizontal press. The angled load path recruits the upper and mid pectorals while also engaging the core and serratus anterior for stability.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Anchor one end of a barbell in a landmine attachment or a corner. Stand facing the barbell, holding the free end at shoulder height with one hand, feet shoulder-width apart.",
@@ -52,34 +75,83 @@
     ],
     "range_of_motion_guidance": "Press until the arm is fully extended and the bar is at face height or above. Return until the hand is at chest level.",
     "tempo_recommendations": "2-0-2-0",
-    "coaching_cues": ["Push the bar in an arc, not straight out", "Brace like you're taking a punch", "Feel the upper chest engage on each press"]
+    "coaching_cues": [
+      "Push the bar in an arc, not straight out",
+      "Brace like you're taking a punch",
+      "Feel the upper chest engage on each press"
+    ]
   },
   "variants": {
-    "easier": ["push-up"],
-    "harder": ["dual-landmine-chest-press"],
-    "unilateral": ["landmine-chest-press"],
-    "bilateral": ["dual-landmine-chest-press"],
-    "equipment_alternatives": ["incline-dumbbell-press", "standing-cable-chest-press"]
+    "easier": [
+      "push-up"
+    ],
+    "harder": [
+      "dual-landmine-chest-press"
+    ],
+    "unilateral": [
+      "landmine-chest-press"
+    ],
+    "bilateral": [
+      "dual-landmine-chest-press"
+    ],
+    "equipment_alternatives": [
+      "incline-dumbbell-press",
+      "standing-cable-chest-press"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy", "shoulder_health"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "shoulder_health"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "landmine", "press", "unilateral", "shoulder-friendly"]
+    "tags": [
+      "chest",
+      "landmine",
+      "press",
+      "unilateral",
+      "shoulder-friendly"
+    ]
   }
 }

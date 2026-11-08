@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d8e9f0a1-b2c3-4456-d789-e01f23a45678",
+  "exercise_id": "5654ee7c-f1ac-4760-be68-57a251a477d5",
   "slug": "standing-cable-chest-press",
   "name": "Standing Cable Chest Press",
-  "alternative_names": ["Standing Cable Press", "Bilateral Cable Chest Press"],
+  "alternative_names": [
+    "Standing Cable Press",
+    "Bilateral Cable Chest Press"
+  ],
   "description": "The Standing Cable Chest Press is performed upright with cables set at chest height, pressing both handles forward simultaneously. The standing position engages the core and lower body for stability, while the cables provide continuous tension throughout the entire range of motion — unlike barbells or dumbbells that have varying torque curves. This makes it effective for hypertrophy and functional strength.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
-  "equipment_optional": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
+  "equipment_optional": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "execution": {
     "starting_position": "Set both cable pulleys to chest height. Stand in the center of the cable machine facing away from it. Hold one handle in each hand at chest level, stagger the feet for balance.",
     "setup_instructions": "Set both cable adjustable arms or dual-pulley machine to shoulder/chest height. Attach single handles. Stand in the center facing away, cables taut before pressing.",
@@ -55,26 +83,62 @@
       "Squeeze the chest at peak extension"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 75, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "constant-tension", "functional"]
+    "tags": [
+      "cable",
+      "constant-tension",
+      "functional"
+    ]
   }
 }

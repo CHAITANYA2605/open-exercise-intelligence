@@ -1,8 +1,12 @@
 {
-  "exercise_id": "a1b2c3d4-g005-4000-a000-000000000305",
+  "exercise_id": "859924e4-f69e-41cf-9d1b-ae3d550652ca",
   "slug": "lateral-bound",
   "name": "Lateral Bound",
-  "alternative_names": ["Lateral Hop", "Side Bound", "Speed Skater Jump"],
+  "alternative_names": [
+    "Lateral Hop",
+    "Side Bound",
+    "Speed Skater Jump"
+  ],
   "description": "The lateral bound is a unilateral plyometric exercise in which the athlete pushes off one leg to jump laterally, landing on the opposite leg and absorbing the force through a single-leg deceleration. It trains the lateral power production of the gluteus medius and abductors alongside the hip and knee stability required during single-leg landing, closely replicating the lateral change-of-direction mechanics common in court and field sports.",
   "category": "plyometric",
   "exercise_type": "plyometric",
@@ -15,20 +19,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
-      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand on one leg with the opposite leg slightly raised. Slight forward lean at the hip.",
@@ -67,21 +94,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "power",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"power": 120},
-    "training_goals": ["power"]
+    "rest_periods": {
+      "power": 120
+    },
+    "training_goals": [
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plyometric", "power", "lateral-power", "sport", "unilateral"]
+    "tags": [
+      "plyometric",
+      "power",
+      "lateral-power",
+      "sport",
+      "unilateral"
+    ]
   }
 }

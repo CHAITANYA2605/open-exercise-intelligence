@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g012-4000-a000-000000000312",
+  "exercise_id": "04c29def-b1e5-4cd8-ae0e-fb4f8fa4fea0",
   "slug": "medicine-ball-chest-pass",
   "name": "Medicine Ball Chest Pass",
-  "alternative_names": ["Med Ball Wall Pass", "Medicine Ball Throw"],
+  "alternative_names": [
+    "Med Ball Wall Pass",
+    "Medicine Ball Throw"
+  ],
   "description": "The medicine ball chest pass is a plyometric upper body exercise in which a medicine ball is explosively thrown forward from the chest against a wall or to a partner, then caught and immediately repeated. It trains the explosive pushing power of the pectoral muscles and triceps through a ballistic press pattern, making it a sport-specific power exercise for athletes requiring rapid upper body force generation in sports such as basketball and wrestling.",
   "category": "plyometric",
   "exercise_type": "plyometric",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ]
   },
-  "equipment_required": ["eq000044-0000-4000-a000-000000000044"],
+  "equipment_required": [
+    "eq000044-0000-4000-a000-000000000044"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing a solid wall at an arm's length plus ball distance, or face a partner. Hold the medicine ball at chest height with both hands.",
@@ -65,23 +88,56 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 6, "max_reps": 10},
-      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "power",
+        "min_reps": 6,
+        "max_reps": 10
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"power": 120, "endurance": 60},
-    "training_goals": ["power", "endurance"]
+    "rest_periods": {
+      "power": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "power",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plyometric", "power", "medicine-ball", "upper-body", "chest"]
+    "tags": [
+      "plyometric",
+      "power",
+      "medicine-ball",
+      "upper-body",
+      "chest"
+    ]
   }
 }

@@ -1,8 +1,12 @@
 {
-  "exercise_id": "sm000007-0000-4000-a000-000000000007",
+  "exercise_id": "627ed565-5bf6-4b87-93fd-6bef7a1353d8",
   "slug": "farmers-walk",
   "name": "Farmer's Walk / Farmer's Carry",
-  "alternative_names": ["Farmer's Carry", "Dumbbell Farmer's Walk", "Kettlebell Farmer's Walk"],
+  "alternative_names": [
+    "Farmer's Carry",
+    "Dumbbell Farmer's Walk",
+    "Kettlebell Farmer's Walk"
+  ],
   "description": "The farmer's walk involves gripping a heavy implement in each hand — typically farmer's walk handles, dumbbells, or kettlebells — and walking a prescribed distance under that loaded bilateral carry. It simultaneously trains grip strength, trapezius endurance, core anti-lateral flexion stability, and cardiovascular capacity, making it one of the most efficient total-body strength and conditioning exercises available. The bilateral loaded carry pattern has direct functional carryover to any task requiring the transport of heavy objects.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,24 +19,58 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
-  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "execution": {
     "starting_position": "The implements are placed on the floor on either side of the body. Stand between them in an athletic stance. Hinge at the hips and grip one implement in each hand.",
     "setup_instructions": "Choose a weight that allows an upright walking posture — if the torso is visibly leaning laterally, the weight is too heavy. For farmer's walk handles (competition equipment), load plates evenly on both sides.",
@@ -70,23 +108,56 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 4},
-      {"goal": "endurance", "min_reps": 2, "max_reps": 6}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 4
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 2,
+        "max_reps": 6
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 6},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 6
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 90},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "carry", "grip", "functional", "conditioning"]
+    "tags": [
+      "strongman",
+      "carry",
+      "grip",
+      "functional",
+      "conditioning"
+    ]
   }
 }

@@ -1,8 +1,12 @@
 {
-  "exercise_id": "nk010001-f3a2-4c1e-9b8d-7e6f5a4c3d01",
+  "exercise_id": "9899e55a-145e-4137-a4eb-f0c2db48a649",
   "slug": "neck-curl",
   "name": "Neck Curl",
-  "alternative_names": ["Lying Neck Curl", "Supine Neck Curl", "Neck Flexion"],
+  "alternative_names": [
+    "Lying Neck Curl",
+    "Supine Neck Curl",
+    "Neck Flexion"
+  ],
   "description": "The neck curl is performed lying supine on a bench with the head extending off the edge, using a plate or neck harness to resist cervical flexion. The exercise targets the deep cervical flexors and sternocleidomastoid, building anterior neck strength and stability that supports the cervical spine under load. It is used by combat athletes, football players, and lifters seeking to strengthen the neck musculature for performance and injury prevention.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,13 +19,20 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000022-0000-4000-a000-000000000022"],
-  "equipment_optional": ["eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "execution": {
     "starting_position": "Lie on a flat bench with the head extending off one end. Hold a weight plate against the forehead with both hands, or use a neck harness. Begin with the head in a neutral or slightly extended position.",
     "setup_instructions": "Begin with no additional weight (bodyweight) or a very light plate (2.5-5 lbs). The neck musculature is not accustomed to direct loading and must be progressed extremely slowly.",
@@ -45,26 +56,60 @@
     ],
     "range_of_motion_guidance": "From neutral or slight extension to full cervical flexion (chin to chest).",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Slow and controlled — always", "Build weeks of work before adding weight", "If it hurts — stop"]
+    "coaching_cues": [
+      "Slow and controlled — always",
+      "Build weeks of work before adding weight",
+      "If it hurts — stop"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 10, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 90},
-    "training_goals": ["strength", "rehabilitation"]
+    "rest_periods": {
+      "strength": 90
+    },
+    "training_goals": [
+      "strength",
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["neck", "cervical-flexion", "strength", "combat-sports", "injury-prevention"]
+    "tags": [
+      "neck",
+      "cervical-flexion",
+      "strength",
+      "combat-sports",
+      "injury-prevention"
+    ]
   }
 }

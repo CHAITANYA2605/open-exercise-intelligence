@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sm000009-0000-4000-a000-000000000009",
+  "exercise_id": "9623c56e-b890-4b30-bb07-f32ac0c8434f",
   "slug": "prowler-push-low",
   "name": "Prowler Sled Push — Low Handles",
-  "alternative_names": ["Low Handle Prowler Push", "Sled Push Low"],
+  "alternative_names": [
+    "Low Handle Prowler Push",
+    "Sled Push Low"
+  ],
   "description": "The low-handle prowler push requires the athlete to grip the lower posts of the sled (near ground level), producing a more horizontal body position that places greater demand on the quadriceps and hip extensors through deep knee bend angles. This position resembles a sprint start and trains explosive leg drive at angles highly specific to sprinting acceleration mechanics. Because the sled push involves no eccentric loading phase, it produces minimal muscle damage while still creating a significant training stimulus — making it an ideal tool for high-frequency conditioning or active recovery at light loads.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
@@ -69,22 +99,52 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 4},
-      {"goal": "endurance", "min_reps": 2, "max_reps": 6}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 4
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 2,
+        "max_reps": 6
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 8}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"strength": 120, "endurance": 60},
-    "training_goals": ["strength", "power", "endurance"]
+    "rest_periods": {
+      "strength": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "power",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "sled", "conditioning", "no-eccentric", "speed-strength"]
+    "tags": [
+      "strongman",
+      "sled",
+      "conditioning",
+      "no-eccentric",
+      "speed-strength"
+    ]
   }
 }

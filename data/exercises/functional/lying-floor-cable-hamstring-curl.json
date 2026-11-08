@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50010",
+  "exercise_id": "8ef328f8-85e6-4f85-8681-4624c724c30c",
   "slug": "lying-floor-cable-hamstring-curl",
   "name": "Lying Floor Cable Hamstring Curl",
-  "alternative_names": ["Cable Floor Leg Curl", "Prone Cable Hamstring Curl"],
+  "alternative_names": [
+    "Cable Floor Leg Curl",
+    "Prone Cable Hamstring Curl"
+  ],
   "description": "A hamstring curl performed lying prone on the floor with a cable ankle attachment from a low pulley. Unlike the lying leg curl machine, this variation uses a cable that provides constant tension through the full range, including the lockout position where the machine lever arm would have minimal mechanical advantage. The floor position and cable angle together create a unique hamstring isolation stimulus that complements machine and dumbbell curl variations.",
   "category": "functional",
   "exercise_type": "isolation",
@@ -15,14 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
-      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
-    "secondary": [{"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}],
-    "stabilizers": [{"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}]
+    "secondary": [
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ]
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie prone on the floor facing away from a low cable pulley. Attach an ankle cuff to one ankle and connect it to the cable. Legs are extended with a slight bend in the working knee.",
@@ -34,26 +58,70 @@
       "Step 4: Lower the leg slowly back to the extended starting position. Repeat, then switch legs."
     ],
     "breathing_instructions": "Exhale during the curl. Inhale during the return.",
-    "common_mistakes": ["Lifting the hip off the floor during the curl — the hip must stay flat", "Using a cable tension so high that full range of motion is compromised", "Rushing the eccentric — the slow return is where most of the hypertrophy stimulus occurs"],
-    "safety_considerations": ["Ensure the ankle cuff is securely attached before starting", "If lower back discomfort occurs, place a folded towel under the abdomen to reduce lumbar stress"],
+    "common_mistakes": [
+      "Lifting the hip off the floor during the curl — the hip must stay flat",
+      "Using a cable tension so high that full range of motion is compromised",
+      "Rushing the eccentric — the slow return is where most of the hypertrophy stimulus occurs"
+    ],
+    "safety_considerations": [
+      "Ensure the ankle cuff is securely attached before starting",
+      "If lower back discomfort occurs, place a folded towel under the abdomen to reduce lumbar stress"
+    ],
     "range_of_motion_guidance": "Full extension at the bottom. Maximum knee flexion (heel to glute) at the top.",
     "tempo_recommendations": "2s curl, 1s hold, 3s slow eccentric return.",
-    "coaching_cues": ["Keep the hip flat — do not let it rise during the curl", "Feel the hamstring pull the heel toward the glute — not the glute squeezing the heel up", "Slow on the way down — the cable fights you all the way back to the start"]
+    "coaching_cues": [
+      "Keep the hip flat — do not let it rise during the curl",
+      "Feel the hamstring pull the heel toward the glute — not the glute squeezing the heel up",
+      "Slow on the way down — the cable fights you all the way back to the start"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "hamstring", "leg-curl", "functional", "isolation"]
+    "tags": [
+      "cable",
+      "hamstring",
+      "leg-curl",
+      "functional",
+      "isolation"
+    ]
   }
 }

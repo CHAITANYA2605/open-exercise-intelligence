@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0006-4000-a000-chest0000006",
+  "exercise_id": "aa10ffcf-4087-46e5-bed4-3c20b525b62f",
   "slug": "dual-landmine-chest-press",
   "name": "Dual Landmine Standing Chest Press",
-  "alternative_names": ["Double Landmine Press", "Bilateral Landmine Chest Press"],
+  "alternative_names": [
+    "Double Landmine Press",
+    "Bilateral Landmine Chest Press"
+  ],
   "description": "The dual landmine standing chest press uses two barbells anchored side by side to perform a bilateral pressing motion that mimics the arc of a dumbbell press with the stability benefits of a fixed load path. Standing during the press increases core and hip engagement, making it both a chest and full-body stability exercise.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set up two landmine attachments side by side. Hold the free end of each barbell at chest height, standing with feet shoulder-width apart.",
@@ -52,34 +75,81 @@
     ],
     "range_of_motion_guidance": "Press until both arms are fully extended. Lower until hands return to chest level, keeping the bar ends together as much as possible.",
     "tempo_recommendations": "2-0-2-0",
-    "coaching_cues": ["Press the bars in converging arcs", "Squeeze the chest at the top", "Keep the belly tight and ribs down"]
+    "coaching_cues": [
+      "Press the bars in converging arcs",
+      "Squeeze the chest at the top",
+      "Keep the belly tight and ribs down"
+    ]
   },
   "variants": {
-    "easier": ["landmine-chest-press"],
+    "easier": [
+      "landmine-chest-press"
+    ],
     "harder": [],
-    "unilateral": ["landmine-chest-press"],
-    "bilateral": ["dual-landmine-chest-press"],
-    "equipment_alternatives": ["barbell-bench-press", "dumbbell-bench-press"]
+    "unilateral": [
+      "landmine-chest-press"
+    ],
+    "bilateral": [
+      "dual-landmine-chest-press"
+    ],
+    "equipment_alternatives": [
+      "barbell-bench-press",
+      "dumbbell-bench-press"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "landmine", "press", "bilateral", "standing", "advanced"]
+    "tags": [
+      "chest",
+      "landmine",
+      "press",
+      "bilateral",
+      "standing",
+      "advanced"
+    ]
   }
 }

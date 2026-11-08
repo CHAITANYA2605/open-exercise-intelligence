@@ -1,8 +1,12 @@
 {
-  "exercise_id": "sm000011-0000-4000-a000-000000000011",
+  "exercise_id": "dc1d1a18-b80c-48a9-8e52-b694b3aa6443",
   "slug": "heavy-sled-drag",
   "name": "Heavy Sled Backward Drag",
-  "alternative_names": ["Reverse Sled Drag", "Sled Backward Pull", "Sled Hamstring Drag"],
+  "alternative_names": [
+    "Reverse Sled Drag",
+    "Sled Backward Pull",
+    "Sled Hamstring Drag"
+  ],
   "description": "The backward sled drag involves attaching a harness or straps to a loaded sled and walking backward, pulling the sled along behind. The backward walking motion activates the hamstrings and quadriceps in an unusual anti-gravity pattern and places high demand on the knee extensors throughout the entire range, making it an excellent rehabilitation tool for knee health and an effective conditioning tool for the posterior chain. Unlike forward sled pushing, the backward drag emphasises the hamstrings and gluteus maximus and is particularly effective for VMO (vastus medialis oblique) strengthening.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +19,42 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
@@ -68,21 +96,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 3, "max_reps": 8}
+      {
+        "goal": "endurance",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 4, "max_sets": 8}
+      {
+        "goal": "endurance",
+        "min_sets": 4,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance", "strength"]
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "sled", "hamstrings", "no-eccentric", "rehabilitation"]
+    "tags": [
+      "strongman",
+      "sled",
+      "hamstrings",
+      "no-eccentric",
+      "rehabilitation"
+    ]
   }
 }

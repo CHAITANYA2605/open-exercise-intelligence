@@ -1,8 +1,10 @@
 {
-  "exercise_id": "d6e7f8a9-b0c1-4d2e-3f4a-b5c6d7e8f416",
+  "exercise_id": "301d81f7-a3f4-4e8e-a9d1-a20829f38816",
   "slug": "cable-front-raise",
   "name": "Cable Front Raise",
-  "alternative_names": ["Low Cable Front Raise"],
+  "alternative_names": [
+    "Low Cable Front Raise"
+  ],
   "description": "The cable front raise is a shoulder isolation exercise using a low-pulley cable machine. The cable provides constant tension throughout the raising arc, unlike dumbbells which lose tension at the top of the movement. This makes it effective for targeting the anterior deltoid through the full range of motion, particularly at the top where the shoulder is at greatest challenge.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,20 +17,42 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
-  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "execution": {
     "starting_position": "Stand facing away from a low-pulley cable machine, holding the handle(s) with an overhand grip at hip level. Stand upright with a slight forward lean and core braced.",
     "setup_instructions": "Attach a straight bar or rope or single handle to the low pulley. Stand with enough distance from the machine so the cable is taut at the bottom starting position.",
@@ -57,28 +81,64 @@
     "easier": [],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["front-raise"],
-    "equipment_alternatives": ["front-raise"]
+    "bilateral": [
+      "front-raise"
+    ],
+    "equipment_alternatives": [
+      "front-raise"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "shoulders", "anterior-delt", "isolation", "raise"]
+    "tags": [
+      "cable",
+      "shoulders",
+      "anterior-delt",
+      "isolation",
+      "raise"
+    ]
   }
 }

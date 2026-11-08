@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0032-4000-a000-legs00000032",
+  "exercise_id": "5497ffb9-aab8-4a14-911e-4214b3f67c05",
   "slug": "tibialis-raise",
   "name": "Tibialis Raise",
-  "alternative_names": ["Anterior Tibialis Raise", "Shin Raise"],
+  "alternative_names": [
+    "Anterior Tibialis Raise",
+    "Shin Raise"
+  ],
   "description": "The tibialis raise is a dorsiflexion exercise that targets the tibialis anterior — the muscle on the front of the shin — by raising the forefoot against resistance while keeping the heels fixed. It is the antagonist movement to calf raises and is frequently neglected in training programs. Strengthening the tibialis anterior is associated with reduced risk of shin splints and anterior leg pain in runners, walkers, and athletes.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -15,12 +18,17 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with heels against a wall or on a step edge, with the toes hanging free. The heels are the pivot point. Stand upright with back against the wall.",
@@ -58,21 +66,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 20, "max_reps": 40}
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 40
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"endurance": 30},
-    "training_goals": ["endurance", "rehabilitation"]
+    "rest_periods": {
+      "endurance": 30
+    },
+    "training_goals": [
+      "endurance",
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shin", "tibialis", "prehab", "injury-prevention", "beginner-friendly"]
+    "tags": [
+      "shin",
+      "tibialis",
+      "prehab",
+      "injury-prevention",
+      "beginner-friendly"
+    ]
   }
 }

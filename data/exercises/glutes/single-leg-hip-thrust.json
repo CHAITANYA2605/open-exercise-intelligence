@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0034-4000-a000-glut00000002",
+  "exercise_id": "e5f3401b-9d85-4b6b-b7ff-d9b1fafff415",
   "slug": "single-leg-hip-thrust",
   "name": "Single-Leg Hip Thrust",
-  "alternative_names": ["Unilateral Hip Thrust", "One-Leg Hip Thrust"],
+  "alternative_names": [
+    "Unilateral Hip Thrust",
+    "One-Leg Hip Thrust"
+  ],
   "description": "The single-leg hip thrust is a unilateral variation of the barbell hip thrust in which only one foot is on the floor while the other leg is extended forward. Each glute works independently against the entire bodyweight or added load, significantly increasing the per-side stimulus and reducing the ability of the dominant side to compensate. It is an effective exercise for addressing glute asymmetries and developing single-leg hip extension strength.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,38 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ]
   },
-  "equipment_required": ["eq000015-0000-4000-a000-000000000015"],
-  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "execution": {
     "starting_position": "Position the upper back against a bench. Place one foot flat on the floor, the other leg raised and extended forward at approximately 45°.",
     "setup_instructions": "Same bench setup as the hip thrust. Begin with bodyweight before adding a dumbbell or plate on the working hip.",
@@ -57,33 +79,79 @@
     ]
   },
   "variants": {
-    "easier": ["barbell-hip-thrust", "glute-bridge"],
+    "easier": [
+      "barbell-hip-thrust",
+      "glute-bridge"
+    ],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["barbell-hip-thrust"],
-    "equipment_alternatives": ["barbell-glute-bridge"]
+    "bilateral": [
+      "barbell-hip-thrust"
+    ],
+    "equipment_alternatives": [
+      "barbell-glute-bridge"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute", "unilateral", "hip-extension"]
+    "tags": [
+      "glute",
+      "unilateral",
+      "hip-extension"
+    ]
   }
 }

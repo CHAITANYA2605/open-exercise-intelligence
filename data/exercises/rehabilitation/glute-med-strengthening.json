@@ -1,8 +1,12 @@
 {
-  "exercise_id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+  "exercise_id": "3477772c-7c1f-4c50-9be1-33f37cc01dbc",
   "slug": "glute-med-strengthening",
   "name": "Side-Lying Hip Abduction",
-  "alternative_names": ["Side-Lying Leg Raise", "Hip Abduction Leg Raise", "Glute Med Strengthening"],
+  "alternative_names": [
+    "Side-Lying Leg Raise",
+    "Hip Abduction Leg Raise",
+    "Glute Med Strengthening"
+  ],
   "description": "Side-lying hip abduction is a classic rehabilitation exercise for the gluteus medius and tensor fasciae latae. Performed lying on the side with the top leg raised directly upward in the frontal plane, it provides direct strengthening of the hip abductors without requiring upright balance or complex movement patterns. It is prescribed for IT band syndrome, patellofemoral pain, hip weakness, low back pain, and as a foundational glute exercise for all populations.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,18 +19,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" },
-      { "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus" }
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae" }
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "execution": {
     "starting_position": "Lie on one side with the body in a straight line. The bottom arm extends under the head. The top leg is straight and stacked on the bottom leg.",
     "setup_instructions": "No equipment required. A resistance band loop above the knees may be added for progressive resistance.",
@@ -64,21 +84,46 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 15, "max_reps": 20 }
+      {
+        "goal": "strength",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 60 },
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "glute-med", "hip-abductor", "it-band", "knee-health", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "glute-med",
+      "hip-abductor",
+      "it-band",
+      "knee-health",
+      "beginner"
+    ]
   }
 }

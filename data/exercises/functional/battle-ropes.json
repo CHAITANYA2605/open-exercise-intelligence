@@ -1,8 +1,12 @@
 {
-  "exercise_id": "a1b2c3d4-h005-4000-a000-000000000405",
+  "exercise_id": "0ec5a532-6053-4d1d-8d89-d9c8a6691eeb",
   "slug": "battle-ropes",
   "name": "Battle Ropes",
-  "alternative_names": ["Battling Ropes", "Heavy Ropes", "Rope Slams"],
+  "alternative_names": [
+    "Battling Ropes",
+    "Heavy Ropes",
+    "Rope Slams"
+  ],
   "description": "Battle ropes are a conditioning exercise in which the athlete alternates or simultaneously waves heavy ropes anchored at one end, sustaining powerful arm and shoulder drive patterns for a timed interval. The continuous undulating motion of the ropes requires sustained explosive upper body work while the lower body is maintained in a stable athletic stance, creating high metabolic demand. Battle rope training is used for upper body power endurance, cardiovascular conditioning, and grip strength.",
   "category": "cardio",
   "exercise_type": "cardio",
@@ -15,21 +19,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing the anchor point with feet shoulder-width apart in an athletic squat stance, one rope end in each hand. Slight hip hinge, slight knee bend.",
@@ -68,21 +98,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 5, "max_sets": 8}
+      {
+        "goal": "endurance",
+        "min_sets": 5,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"endurance": 40},
-    "training_goals": ["endurance", "power"]
+    "rest_periods": {
+      "endurance": 40
+    },
+    "training_goals": [
+      "endurance",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["functional", "conditioning", "upper-body", "cardio", "battle-ropes"]
+    "tags": [
+      "functional",
+      "conditioning",
+      "upper-body",
+      "cardio",
+      "battle-ropes"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "b8c9d0e1-f2a3-4b4c-5d6e-f7a8b9c0d438",
+  "exercise_id": "aa3bfab6-cf8a-4907-bb1d-65a6d03b6e62",
   "slug": "single-arm-tricep-pushdown",
   "name": "Single-Arm Tricep Pushdown",
-  "alternative_names": ["Unilateral Tricep Pushdown", "One-Arm Cable Pushdown"],
+  "alternative_names": [
+    "Unilateral Tricep Pushdown",
+    "One-Arm Cable Pushdown"
+  ],
   "description": "The single-arm tricep pushdown is a unilateral cable isolation exercise for the triceps. Training one arm at a time allows independent focus on each triceps, eliminates strength imbalances, and enables a greater range of motion with wrist rotation at the bottom for a more complete tricep contraction. The lateral and medial heads are most active, with the long head contributing based on the grip angle used.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,18 +18,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
-  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
+  "equipment_optional": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "execution": {
     "starting_position": "Attach a single handle to the high pulley of a cable machine. Stand facing the machine, holding the handle in one hand with the elbow bent at 90 degrees and tucked at the side.",
     "setup_instructions": "Set cable to high pulley. Attach a D-ring single handle. Stand close enough to the machine so there is tension on the cable with the elbow at 90 degrees.",
@@ -55,28 +74,65 @@
     "easier": [],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["tricep-pushdown", "cable-rope-pushdown"],
-    "equipment_alternatives": ["tricep-pushdown"]
+    "bilateral": [
+      "tricep-pushdown",
+      "cable-rope-pushdown"
+    ],
+    "equipment_alternatives": [
+      "tricep-pushdown"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "triceps", "isolation", "unilateral", "pushdown"]
+    "tags": [
+      "cable",
+      "triceps",
+      "isolation",
+      "unilateral",
+      "pushdown"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sm000001-0000-4000-a000-000000000001",
+  "exercise_id": "54524281-a244-4f21-aae4-6e5b66b36e63",
   "slug": "yoke-carry",
   "name": "Yoke Carry",
-  "alternative_names": ["Yoke Walk", "Yoke Carry Walk"],
+  "alternative_names": [
+    "Yoke Walk",
+    "Yoke Carry Walk"
+  ],
   "description": "The yoke carry involves hoisting a heavy steel frame (the yoke) across the upper back and trapezius, then walking a prescribed distance as quickly as possible under that extreme load. It is a foundational strongman event and an exceptional developer of total-body strength, postural endurance, and anaerobic conditioning. The yoke imposes unique loading because the implement is wider than a barbell and the load is not secured, requiring constant isometric stabilisation from the trapezius, erector spinae, and core throughout the walk.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,50 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ]
   },
   "equipment_required": [],
@@ -71,22 +104,51 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 1},
-      {"goal": "endurance", "min_reps": 1, "max_reps": 3}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 1
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 240, "endurance": 180},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 240,
+      "endurance": 180
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "carry", "full-body", "competition", "traps"]
+    "tags": [
+      "strongman",
+      "carry",
+      "full-body",
+      "competition",
+      "traps"
+    ]
   }
 }

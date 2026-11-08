@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50003",
+  "exercise_id": "784eadf1-921f-4513-8e09-e42776b01f27",
   "slug": "zercher-deadlift-floor",
   "name": "Zercher Deadlift from Floor",
-  "alternative_names": ["Zercher Pull", "Elbow Crook Deadlift"],
+  "alternative_names": [
+    "Zercher Pull",
+    "Elbow Crook Deadlift"
+  ],
   "description": "The Zercher deadlift is a variation in which the barbell is lifted from the floor using the crooks of the elbows (antecubital fossa) rather than the hands. The lifter squats down, positions the elbows under and around the bar, then stands up with the bar cradled in the bent arms. This unusual loading position places the barbell closer to the body's center of mass than a conventional deadlift and dramatically increases core and upper back demands. It is a full-body strength exercise that is particularly useful for athletes who need to train the hip and knee extension pattern with strong anterior core bracing.",
   "category": "functional",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "The barbell is set on the floor. The lifter squats down and positions the arms under the bar so it rests in the crooks of both elbows (antecubital fossa). The hands may clasp together in front.",
@@ -41,32 +70,81 @@
       "Step 4: Stand to full hip and knee extension. Lower the bar back to the floor under control."
     ],
     "breathing_instructions": "Inhale and brace before the pull. Exhale at the top or in a controlled manner during the descent.",
-    "common_mistakes": ["Rounding the upper back — the elbows must stay high throughout", "Letting the bar swing away from the body", "Using too much weight before the elbow contact is tolerated — progress load gradually"],
-    "safety_considerations": ["The inner elbow contact can be uncomfortable or cause bruising with heavy loads — use bar padding initially", "Avoid if elbow or wrist injuries are present"],
+    "common_mistakes": [
+      "Rounding the upper back — the elbows must stay high throughout",
+      "Letting the bar swing away from the body",
+      "Using too much weight before the elbow contact is tolerated — progress load gradually"
+    ],
+    "safety_considerations": [
+      "The inner elbow contact can be uncomfortable or cause bruising with heavy loads — use bar padding initially",
+      "Avoid if elbow or wrist injuries are present"
+    ],
     "range_of_motion_guidance": "Full deadlift range — floor to full standing extension.",
     "tempo_recommendations": "2s pull, 1s lockout, 3s eccentric lower",
-    "coaching_cues": ["Keep the elbows high — imagine pulling the elbows toward each other under the bar", "Drive the floor away — feel the leg drive as much as the hip hinge", "Brace hard — the core demand in a Zercher is significantly higher than a conventional deadlift"]
+    "coaching_cues": [
+      "Keep the elbows high — imagine pulling the elbows toward each other under the bar",
+      "Drive the floor away — feel the leg drive as much as the hip hinge",
+      "Brace hard — the core demand in a Zercher is significantly higher than a conventional deadlift"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "endurance", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 90},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["deadlift", "functional", "specialty", "core", "full-body"]
+    "tags": [
+      "deadlift",
+      "functional",
+      "specialty",
+      "core",
+      "full-body"
+    ]
   }
 }

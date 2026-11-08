@@ -42,5 +42,5 @@ Dataset versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-[1.0.0]: https://github.com/open-exercise-intelligence/oei/releases/tag/v1.0.0
-[0.1.0]: https://github.com/open-exercise-intelligence/oei/releases/tag/v0.1.0
+[1.0.0]: https://github.com/CHAITANYA2605/open-exercise-intelligence/releases/tag/v1.0.0
+[0.1.0]: https://github.com/CHAITANYA2605/open-exercise-intelligence/releases/tag/v0.1.0

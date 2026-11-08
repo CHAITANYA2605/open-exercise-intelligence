@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-h002-4000-a000-000000000402",
+  "exercise_id": "7c227780-e245-417a-af1a-ab7dbe389b8c",
   "slug": "kettlebell-clean",
   "name": "Kettlebell Clean",
-  "alternative_names": ["KB Clean", "Single Arm Kettlebell Clean"],
+  "alternative_names": [
+    "KB Clean",
+    "Single Arm Kettlebell Clean"
+  ],
   "description": "The kettlebell clean is a single-arm ballistic exercise in which the kettlebell is swung from between the legs to a racked position at the shoulder using a hip hinge and arm pull. Unlike a barbell clean, the kettlebell is guided into the rack by the forearm rather than caught with the hands, requiring specific wrist positioning and elbow control. It trains hip hinge power transfer, shoulder girdle stability in the racked position, and the coordination of the lower and upper body in force transmission.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ]
   },
-  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet shoulder-width apart. Kettlebell on the floor between the feet, hinged forward to grip with one hand.",
@@ -68,23 +97,57 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "endurance", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 120, "endurance": 60},
-    "training_goals": ["strength", "power", "endurance"]
+    "rest_periods": {
+      "strength": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "power",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["functional", "kettlebell", "power", "hinge", "unilateral"]
+    "tags": [
+      "functional",
+      "kettlebell",
+      "power",
+      "hinge",
+      "unilateral"
+    ]
   }
 }

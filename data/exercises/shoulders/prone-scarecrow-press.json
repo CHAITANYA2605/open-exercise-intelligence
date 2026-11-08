@@ -1,8 +1,11 @@
 {
-  "exercise_id": "b3d4e5f6-a789-4bcd-ef01-234567890abc",
+  "exercise_id": "94e7ea52-20e5-440a-b4e5-1f7a52bf04ae",
   "slug": "prone-scarecrow-press",
   "name": "Prone Scarecrow Press",
-  "alternative_names": ["Prone Scarecrow", "Floor Scarecrow External Rotation"],
+  "alternative_names": [
+    "Prone Scarecrow",
+    "Floor Scarecrow External Rotation"
+  ],
   "description": "The prone scarecrow press combines an external rotation at 90 degrees of shoulder abduction with a finishing overhead press, performed lying face-down on a bench. The scarecrow portion (elbows at shoulder height, forearms hanging down) isolates the infraspinatus and teres minor through external rotation in the vulnerable abducted position, then the press completes the movement in the overhead plane. This sequence trains rotator cuff function together with deltoid pressing, making it valuable for shoulder health and athletic development.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -15,17 +18,32 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0005-4000-a000-000000000003", "muscle_slug": "infraspinatus" }
+      {
+        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_slug": "infraspinatus"
+      }
     ],
     "secondary": [
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie face-down on an incline bench (30-45 degrees). Hold light dumbbells. Upper arms abducted to shoulder height, elbows bent 90 degrees, forearms hanging perpendicular to the floor.",
@@ -63,21 +81,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "rehabilitation", "min_reps": 10, "max_reps": 15 }
+      {
+        "goal": "rehabilitation",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "rehabilitation",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "rehabilitation": 60 },
-    "training_goals": ["rehabilitation", "mobility"]
+    "rest_periods": {
+      "rehabilitation": 60
+    },
+    "training_goals": [
+      "rehabilitation",
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["scarecrow", "external-rotation", "prone", "rotator-cuff", "rehabilitation"]
+    "tags": [
+      "scarecrow",
+      "external-rotation",
+      "prone",
+      "rotator-cuff",
+      "rehabilitation"
+    ]
   }
 }

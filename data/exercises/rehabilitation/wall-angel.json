@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+  "exercise_id": "5ad87319-8ba1-4a99-a173-9fefc7e0a2d8",
   "slug": "wall-angel",
   "name": "Wall Angel",
-  "alternative_names": ["Wall Slide", "Standing Wall Angel"],
+  "alternative_names": [
+    "Wall Slide",
+    "Standing Wall Angel"
+  ],
   "description": "The wall angel is a postural rehabilitation drill that trains the ability to elevate the arms overhead while maintaining contact between the head, upper back, and arms with a wall. It simultaneously strengthens the lower trapezius and serratus anterior while stretching the pectoral muscles and improving thoracic extension. It is frequently prescribed for forward head posture, rounded shoulders, and thoracic kyphosis correction.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,18 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0004-4000-a000-000000000002", "muscle_slug": "lower-trapezius" },
-      { "muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "serratus-anterior" }
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "lower-trapezius"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "serratus-anterior"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "middle-trapezius" },
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "middle-trapezius"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with the back flat against a wall, feet approximately 15–30 cm from the base, knees slightly bent. The head, upper back, and both elbows make contact with the wall.",
@@ -65,21 +85,46 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 10, "max_reps": 15 }
+      {
+        "goal": "strength",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 60 },
-    "training_goals": ["mobility", "strength"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "mobility",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "posture", "shoulder", "thoracic", "scapular", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "posture",
+      "shoulder",
+      "thoracic",
+      "scapular",
+      "beginner"
+    ]
   }
 }

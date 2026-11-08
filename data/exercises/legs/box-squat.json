@@ -1,5 +1,5 @@
 {
-  "exercise_id": "a1b2c3d4-0005-4000-a000-legs00000005",
+  "exercise_id": "ff0e2f42-7fc1-43bf-b546-dfc2e2a2f2a8",
   "slug": "box-squat",
   "name": "Box Squat",
   "alternative_names": [],
@@ -15,22 +15,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
-  "equipment_optional": ["eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "equipment_optional": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "execution": {
     "starting_position": "Position a sturdy box or bench of appropriate height (parallel or just below parallel) behind you. Set up as for a back squat with the bar on the upper traps.",
     "setup_instructions": "Choose a box height that positions your hips at or below parallel when seated. Stand close enough to the box that you will sit back onto it at the bottom without having to search for it.",
@@ -60,33 +89,81 @@
     ]
   },
   "variants": {
-    "easier": ["barbell-squat"],
-    "harder": ["pause-squat"],
+    "easier": [
+      "barbell-squat"
+    ],
+    "harder": [
+      "pause-squat"
+    ],
     "unilateral": [],
-    "bilateral": ["barbell-squat"],
-    "equipment_alternatives": ["goblet-squat"]
+    "bilateral": [
+      "barbell-squat"
+    ],
+    "equipment_alternatives": [
+      "goblet-squat"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 2, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 2,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 240, "hypertrophy": 120, "endurance": 60},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["squat", "powerlifting", "glute"]
+    "tags": [
+      "squat",
+      "powerlifting",
+      "glute"
+    ]
   }
 }

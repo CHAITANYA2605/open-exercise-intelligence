@@ -1,8 +1,11 @@
 {
-  "exercise_id": "f8a9b0c1-d2e3-4456-f789-a01b23c45d30",
+  "exercise_id": "5e0d83c5-e03c-4701-9aed-ed3e9db4be1b",
   "slug": "single-arm-floor-dumbbell-glute-bridge-press",
   "name": "Single-Arm Floor Dumbbell Glute Bridge Press",
-  "alternative_names": ["Floor Press Glute Bridge Single Arm", "Single Arm Bridge Press"],
+  "alternative_names": [
+    "Floor Press Glute Bridge Single Arm",
+    "Single Arm Bridge Press"
+  ],
   "description": "A floor press variation combining a unilateral dumbbell press with a simultaneous glute bridge hold. The supine position on the floor limits range of motion naturally, protecting the shoulder, while the bridge demand fully activates the glutes and core. The unilateral load creates rotational forces that the core must resist, integrating anti-rotation stability with the pressing stimulus.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the floor with knees bent, feet flat. Perform a glute bridge and hold the hips elevated. Hold one dumbbell in the working hand at chest level, elbow bent. The opposite hand rests on the floor or on the hip.",
@@ -55,24 +78,55 @@
       "Press from the chest — the body tries to rotate, resist it"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy", "functional"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "functional"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "floor-press", "glute-bridge", "unilateral", "core", "functional"]
+    "tags": [
+      "dumbbell",
+      "floor-press",
+      "glute-bridge",
+      "unilateral",
+      "core",
+      "functional"
+    ]
   }
 }

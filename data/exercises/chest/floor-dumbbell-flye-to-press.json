@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d0e1f2a3-b4c5-4678-d901-e23f45a67b22",
+  "exercise_id": "81bce66a-dfca-4339-988c-fd42a8b07656",
   "slug": "floor-dumbbell-flye-to-press",
   "name": "Floor Dumbbell Flye to Press",
-  "alternative_names": ["Floor Fly to Press", "Dumbbell Flye Press Floor"],
+  "alternative_names": [
+    "Floor Fly to Press",
+    "Dumbbell Flye Press Floor"
+  ],
   "description": "A combination chest exercise performed on the floor that begins as a dumbbell flye and transitions into a press on each repetition. The floor limits elbow travel below shoulder level, reducing shoulder stress while still providing significant chest stretch. The flye-to-press combo increases time under tension and trains both adduction and horizontal pushing in a single movement.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,17 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the floor with knees bent, feet flat. Hold a dumbbell in each hand, arms extended above the chest with palms facing each other.",
@@ -54,24 +71,54 @@
       "Soft elbows on the flye — do not lock the arms straight"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "floor", "flye", "press", "combo", "chest"]
+    "tags": [
+      "dumbbell",
+      "floor",
+      "flye",
+      "press",
+      "combo",
+      "chest"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0018-4000-a000-chest0000018",
+  "exercise_id": "206d671a-b397-4e60-88d4-4d5065008423",
   "slug": "ring-dips",
   "name": "Gymnastic Ring Dips",
-  "alternative_names": ["Ring Dips", "Rings Chest Dip"],
+  "alternative_names": [
+    "Ring Dips",
+    "Rings Chest Dip"
+  ],
   "description": "Ring dips are a highly demanding upper-body compound exercise in which the lifter supports themselves on two suspended gymnastics rings and dips down by bending the elbows. The instability of the rings forces the pectorals, triceps, and stabilizers to work far harder than on static parallel bars, making this a premier chest and triceps developer for calisthenics athletes.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_required": [
+    "eq000042-0000-4000-a000-000000000042"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hang from the rings at arm's length above the floor, rings at hip height. Begin with arms fully extended, rings turned out so the knuckles face outward and elbows locked.",
@@ -54,33 +83,78 @@
     ],
     "range_of_motion_guidance": "Lower until shoulders drop to ring level. Full lockout with rings turned out at the top.",
     "tempo_recommendations": "3-1-2-0",
-    "coaching_cues": ["Rings out at the top — that is the support position", "Lean forward to hit the chest", "Control the descent — the rings will want to wobble"]
+    "coaching_cues": [
+      "Rings out at the top — that is the support position",
+      "Lean forward to hit the chest",
+      "Control the descent — the rings will want to wobble"
+    ]
   },
   "variants": {
-    "easier": ["chest-dip", "ring-push-up"],
-    "harder": ["weighted-dips"],
+    "easier": [
+      "chest-dip",
+      "ring-push-up"
+    ],
+    "harder": [
+      "weighted-dips"
+    ],
     "unilateral": [],
-    "bilateral": ["ring-dips"],
-    "equipment_alternatives": ["chest-dip", "korean-dips"]
+    "bilateral": [
+      "ring-dips"
+    ],
+    "equipment_alternatives": [
+      "chest-dip",
+      "korean-dips"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120},
-    "training_goals": ["strength", "calisthenics", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "calisthenics",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "gymnastics", "rings", "dips", "advanced", "calisthenics"]
+    "tags": [
+      "chest",
+      "gymnastics",
+      "rings",
+      "dips",
+      "advanced",
+      "calisthenics"
+    ]
   }
 }

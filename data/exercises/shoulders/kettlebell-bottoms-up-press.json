@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sh010021-f3a2-4c1e-9b8d-7e6f5a4c3c02",
+  "exercise_id": "1fc393b3-31c4-4109-8fc5-821bf3606487",
   "slug": "kettlebell-bottoms-up-press",
   "name": "Kettlebell Bottoms-Up Press",
-  "alternative_names": ["Inverted Kettlebell Press", "Upside-Down Kettlebell Press"],
+  "alternative_names": [
+    "Inverted Kettlebell Press",
+    "Upside-Down Kettlebell Press"
+  ],
   "description": "The kettlebell bottoms-up press inverts the kettlebell so the bell faces upward above the handle, requiring intense grip and forearm engagement to keep the bell stabilized throughout the press. The unstable inverted position activates the rotator cuff and scapular stabilizers far more than conventional pressing, making it an exceptional shoulder health and stability exercise. The unilateral nature also develops anti-rotation core strength.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hold a kettlebell by the handle with the bell inverted (pointing up), arm at shoulder height. The wrist must be straight and directly under the bell to maintain balance. Begin with a light kettlebell.",
@@ -53,27 +82,66 @@
     ],
     "range_of_motion_guidance": "Shoulder height to full lockout overhead.",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Tight grip — the bell tells you when you're losing it", "Press in a straight line", "Keep your wrist stacked under the bell"]
+    "coaching_cues": [
+      "Tight grip — the bell tells you when you're losing it",
+      "Press in a straight line",
+      "Keep your wrist stacked under the bell"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 150, "hypertrophy": 90},
-    "training_goals": ["strength", "rehabilitation"]
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shoulders", "kettlebell", "stability", "rotator-cuff", "unilateral"]
+    "tags": [
+      "shoulders",
+      "kettlebell",
+      "stability",
+      "rotator-cuff",
+      "unilateral"
+    ]
   }
 }

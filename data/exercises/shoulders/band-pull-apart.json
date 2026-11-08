@@ -1,8 +1,10 @@
 {
-  "exercise_id": "f4a5b6c7-d8e9-4f0a-1b2c-d3e4f5a6b424",
+  "exercise_id": "6771fda0-2818-45af-b8b5-b78f872dfa58",
   "slug": "band-pull-apart",
   "name": "Band Pull-Apart",
-  "alternative_names": ["Resistance Band Pull-Apart"],
+  "alternative_names": [
+    "Resistance Band Pull-Apart"
+  ],
   "description": "The band pull-apart is a simple but highly effective prehabilitation exercise for the posterior shoulder and upper back. Holding a resistance band at arm's length, the exerciser pulls the band apart horizontally until it touches the chest, training the posterior deltoid, rhomboids, and middle trapezius. It is widely used as a warm-up drill, corrective exercise, and high-rep accessory movement for shoulder health.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -15,21 +17,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0004-4000-a000-000000000002", "muscle_slug": "rhomboid-minor"},
-      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-minor"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "teres-minor"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
-  "equipment_optional": ["eq000014-0000-4000-a000-000000000014"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "equipment_optional": [
+    "eq000014-0000-4000-a000-000000000014"
+  ],
   "execution": {
     "starting_position": "Stand upright holding a resistance band at both ends with both arms extended straight in front of the body at approximately shoulder height. Palms face the floor. Hands are slightly wider than shoulder-width.",
     "setup_instructions": "Choose a resistance band light enough to maintain good form for high reps. Choke up on a heavier band to increase resistance, or use a lighter band for more range.",
@@ -58,26 +85,55 @@
     "easier": [],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["cable-rear-delt-fly", "face-pull"],
-    "equipment_alternatives": ["cable-rear-delt-fly"]
+    "bilateral": [
+      "cable-rear-delt-fly",
+      "face-pull"
+    ],
+    "equipment_alternatives": [
+      "cable-rear-delt-fly"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"endurance": 30},
-    "training_goals": ["endurance"]
+    "rest_periods": {
+      "endurance": 30
+    },
+    "training_goals": [
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["band", "rear-delt", "rhomboids", "prehab", "shoulder-health", "warm-up"]
+    "tags": [
+      "band",
+      "rear-delt",
+      "rhomboids",
+      "prehab",
+      "shoulder-health",
+      "warm-up"
+    ]
   }
 }

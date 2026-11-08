@@ -1,8 +1,12 @@
 {
-  "exercise_id": "e8f9a0b1-c2d3-4e4f-5a6b-7c8d9e0f1a2b",
+  "exercise_id": "5ed8971b-15ef-4a18-a60d-55a6b3bf79b0",
   "slug": "figure-four-stretch",
   "name": "Figure-Four Stretch",
-  "alternative_names": ["Supine Pigeon", "Lying Piriformis Stretch", "Thread the Needle"],
+  "alternative_names": [
+    "Supine Pigeon",
+    "Lying Piriformis Stretch",
+    "Thread the Needle"
+  ],
   "description": "The figure-four stretch is a supine alternative to pigeon pose that stretches the hip external rotators and gluteus maximus without the knee torque risk. Lying on the back with one ankle crossed over the opposite knee creates a 'figure four' shape, and pressing the thigh away provides a gentle but effective stretch for the piriformis and deep hip rotators. It is suitable for a wide population including those with knee sensitivity.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,15 +19,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" },
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "secondary": [
-      { "muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus" }
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on your back with knees bent and feet flat on the floor.",
@@ -62,21 +77,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 4 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 4
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
     ],
-    "rest_periods": { "mobility": 10 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 10
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip", "glutes", "stretch", "beginner", "supine", "piriformis"]
+    "tags": [
+      "hip",
+      "glutes",
+      "stretch",
+      "beginner",
+      "supine",
+      "piriformis"
+    ]
   }
 }

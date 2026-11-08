@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0045-4000-a000-glut00000013",
+  "exercise_id": "6882a2d6-80b4-4eff-bedb-86d67f6daef3",
   "slug": "frog-pump",
   "name": "Frog Pump",
-  "alternative_names": ["Frog Glute Bridge", "Butterfly Bridge"],
+  "alternative_names": [
+    "Frog Glute Bridge",
+    "Butterfly Bridge"
+  ],
   "description": "The frog pump is a floor glute bridge variation performed with the soles of the feet pressed together and knees flared outward, resembling a frog's legs. The externally rotated hip position places the hip flexors and adductors in a lengthened state, reducing their contribution and allowing the gluteus maximus to work in a shortened range with high activation. It is often used for glute activation and high-rep pump work at the end of a training session.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,18 +18,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "ffffffff-0001-4000-a000-00000000000f", "muscle_slug": "adductors"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "ffffffff-0001-4000-a000-00000000000f",
+        "muscle_slug": "adductors"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "execution": {
     "starting_position": "Lie on your back with the soles of the feet pressed together and knees fallen outward (externally rotated), forming a diamond shape with the legs. Feet close to the hips.",
     "setup_instructions": "No equipment required. A dumbbell or weight plate can be rested on the hips for added resistance.",
@@ -57,30 +76,72 @@
   },
   "variants": {
     "easier": [],
-    "harder": ["barbell-glute-bridge", "barbell-hip-thrust"],
-    "unilateral": ["single-leg-hip-thrust"],
-    "bilateral": ["barbell-glute-bridge"],
-    "equipment_alternatives": ["barbell-glute-bridge"]
+    "harder": [
+      "barbell-glute-bridge",
+      "barbell-hip-thrust"
+    ],
+    "unilateral": [
+      "single-leg-hip-thrust"
+    ],
+    "bilateral": [
+      "barbell-glute-bridge"
+    ],
+    "equipment_alternatives": [
+      "barbell-glute-bridge"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 30},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 40}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 30
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 40
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 45, "endurance": 30},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 45,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute", "activation", "pump", "beginner", "bodyweight", "hip-extension"]
+    "tags": [
+      "glute",
+      "activation",
+      "pump",
+      "beginner",
+      "bodyweight",
+      "hip-extension"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d5e6f7a8-c901-4def-0123-456789012cde",
+  "exercise_id": "87c3f457-dcf6-48ac-906c-97988bb1e2e2",
   "slug": "band-face-pull-external-rotation-lockout",
   "name": "Band Face Pull with External Rotation Lockout",
-  "alternative_names": ["Band Face Pull ER Lockout", "Resistance Band Face Pull"],
+  "alternative_names": [
+    "Band Face Pull ER Lockout",
+    "Resistance Band Face Pull"
+  ],
   "description": "The band face pull with external rotation lockout adds an end-range external rotation hold to a standard face pull, training the infraspinatus and teres minor through their full available range and at peak contraction. The resistance band provides accommodating resistance — lighter at the start (less stretched) and progressively heavier as the band stretches at end range — which matches the strength curve of the external rotators, applying peak load at peak contraction.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -15,15 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0005-4000-a000-000000000003", "muscle_slug": "infraspinatus" }
+      {
+        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_slug": "infraspinatus"
+      }
     ],
     "secondary": [
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Anchor a resistance band at face height. Grip the band with both hands using an overhand grip, thumbs pointing outward. Step back until there is tension in the band with arms extended.",
@@ -61,21 +75,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "rehabilitation", "min_reps": 15, "max_reps": 30 }
+      {
+        "goal": "rehabilitation",
+        "min_reps": 15,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 4 }
+      {
+        "goal": "rehabilitation",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "rehabilitation": 45 },
-    "training_goals": ["rehabilitation", "mobility"]
+    "rest_periods": {
+      "rehabilitation": 45
+    },
+    "training_goals": [
+      "rehabilitation",
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["band", "face-pull", "external-rotation", "rotator-cuff", "rehabilitation"]
+    "tags": [
+      "band",
+      "face-pull",
+      "external-rotation",
+      "rotator-cuff",
+      "rehabilitation"
+    ]
   }
 }

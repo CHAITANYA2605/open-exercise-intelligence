@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g010-4000-a000-000000000310",
+  "exercise_id": "a0016c22-202a-4457-87e8-c34f462863d7",
   "slug": "plyometric-push-up",
   "name": "Plyometric Push-Up",
-  "alternative_names": ["Clap Push-Up", "Explosive Push-Up"],
+  "alternative_names": [
+    "Clap Push-Up",
+    "Explosive Push-Up"
+  ],
   "description": "The plyometric push-up is an explosive upper body press variation in which the athlete pushes off with enough force to leave the ground, optionally clapping between repetitions. It trains the stretch-shortening cycle of the pectoral muscles and triceps, developing explosive upper body pushing power. The exercise is a staple of athletic conditioning programs targeting sport-specific upper body force production.",
   "category": "plyometric",
   "exercise_type": "plyometric",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a standard push-up position — hands slightly wider than shoulder-width, body in a straight line from head to heels.",
@@ -66,21 +89,43 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 3, "max_reps": 8}
+      {
+        "goal": "power",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"power": 120},
-    "training_goals": ["power"]
+    "rest_periods": {
+      "power": 120
+    },
+    "training_goals": [
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plyometric", "power", "upper-body", "push-up"]
+    "tags": [
+      "plyometric",
+      "power",
+      "upper-body",
+      "push-up"
+    ]
   }
 }

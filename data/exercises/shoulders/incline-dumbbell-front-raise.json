@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sh010038-f3a2-4c1e-9b8d-7e6f5a4c3c19",
+  "exercise_id": "471eee8a-d715-479a-8e60-c53e20f3ca5d",
   "slug": "incline-dumbbell-front-raise",
   "name": "Incline Dumbbell Front Raise",
-  "alternative_names": ["Incline Bench Front Raise", "Prone Incline Front Raise"],
+  "alternative_names": [
+    "Incline Bench Front Raise",
+    "Prone Incline Front Raise"
+  ],
   "description": "The incline dumbbell front raise is performed lying face-down on an incline bench set to 45-60 degrees, raising dumbbells from the hanging position to shoulder height in front of the body. The incline position eliminates torso momentum and places the anterior deltoid under a greater stretch at the start of the movement. This improved bottom-position stretch and strict form requirement make it more effective as a pure anterior deltoid isolation exercise than the standing version.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,14 +18,23 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set an adjustable bench to 45-60 degrees. Lie face-down on the bench with the chest on the pad. Hold dumbbells with an overhand or neutral grip, arms hanging below the bench.",
@@ -39,29 +51,64 @@
       "Not using the full hang at the bottom, missing the stretch",
       "Raising the head to look forward, which strains the neck"
     ],
-    "safety_considerations": ["Keep the head in a neutral position resting on the bench pad"],
+    "safety_considerations": [
+      "Keep the head in a neutral position resting on the bench pad"
+    ],
     "range_of_motion_guidance": "Full hanging position to shoulder height (parallel to the floor).",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Full hang between reps", "Raise forward — not to the side", "Slow and controlled — this is not a strength exercise"]
+    "coaching_cues": [
+      "Full hang between reps",
+      "Raise forward — not to the side",
+      "Slow and controlled — this is not a strength exercise"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shoulders", "front-raise", "dumbbell", "incline", "anterior-deltoid"]
+    "tags": [
+      "shoulders",
+      "front-raise",
+      "dumbbell",
+      "incline",
+      "anterior-deltoid"
+    ]
   }
 }

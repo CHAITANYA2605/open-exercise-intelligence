@@ -1,8 +1,12 @@
 {
-  "exercise_id": "co000045-0000-4000-a000-000000000045",
+  "exercise_id": "ab18c888-e6b1-4970-a290-b70e4ebd526e",
   "slug": "overhead-kettlebell-carry",
   "name": "Overhead Single-Arm Kettlebell Waiter Carry",
-  "alternative_names": ["Overhead Kettlebell Carry", "Waiter Walk", "Single-Arm Overhead Carry"],
+  "alternative_names": [
+    "Overhead Kettlebell Carry",
+    "Waiter Walk",
+    "Single-Arm Overhead Carry"
+  ],
   "description": "The single-arm overhead kettlebell waiter carry challenges the entire lateral and anti-rotation core stabilization system by requiring the athlete to walk while holding a kettlebell locked out overhead in one hand. The overhead unilateral load creates a large lateral flexion and rotational demand on the contralateral core musculature, the shoulder girdle stabilizers, and the thoracic spine extensors simultaneously. It is both a core stability and shoulder integrity exercise that is highly transferable to functional strength tasks.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +19,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ]
   },
-  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Clean and press a kettlebell to full lockout overhead in one hand. Stand tall with the arm straight, elbow locked, bicep beside the ear.",
@@ -46,20 +76,65 @@
       "Allowing the elbow to bend — the arm must remain fully locked out",
       "Laterally flexing the trunk toward the weighted side — the spine should remain perfectly vertical"
     ],
-    "safety_considerations": ["Ensure full shoulder external rotation and scapular depression before beginning — a loose overhead position is a safety risk"],
+    "safety_considerations": [
+      "Ensure full shoulder external rotation and scapular depression before beginning — a loose overhead position is a safety risk"
+    ],
     "range_of_motion_guidance": "Walk with full arm extension maintained. Distance typically 20–40 metres per set.",
     "tempo_recommendations": "Moderate walking pace. Controlled steps.",
-    "coaching_cues": ["Bicep beside the ear — arm is a pillar", "Walk tall — do not lean"]
+    "coaching_cues": [
+      "Bicep beside the ear — arm is a pillar",
+      "Walk tall — do not lean"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 20, "max_reps": 40}
+      {
+        "goal": "strength",
+        "min_reps": 20,
+        "max_reps": 40
+      }
     ],
-    "recommended_set_ranges": [{"goal": "strength", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"strength": 90},
-    "training_goals": ["strength", "sport"]
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 90
+    },
+    "training_goals": [
+      "strength",
+      "sport"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "carry", "kettlebell", "overhead", "functional", "shoulder"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "carry",
+      "kettlebell",
+      "overhead",
+      "functional",
+      "shoulder"
+    ]
+  }
 }

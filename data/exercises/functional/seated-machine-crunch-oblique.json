@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50014",
+  "exercise_id": "0b47b7bb-955b-43ea-af43-27f1c11a3dbf",
   "slug": "seated-machine-crunch-oblique",
   "name": "Seated Machine Crunch — Oblique Rotation",
-  "alternative_names": ["Machine Rotary Crunch", "Oblique Machine Crunch"],
+  "alternative_names": [
+    "Machine Rotary Crunch",
+    "Oblique Machine Crunch"
+  ],
   "description": "A variation of the seated machine crunch in which the torso rotates slightly to one side during the crunch, targeting the oblique muscles on the side toward which the rotation occurs. By crunching and rotating simultaneously, the internal and external obliques are recruited in addition to the rectus abdominis. Used in abdominal training programs to develop rotational core strength alongside the standard flexion-dominant crunch.",
   "category": "functional",
   "exercise_type": "isolation",
@@ -15,14 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
-    "secondary": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the crunch machine with the chest pad positioned correctly. Begin in the upright starting position with the spine tall.",
@@ -34,26 +53,71 @@
       "Step 4: Alternate sides with each repetition, or perform all reps on one side before switching."
     ],
     "breathing_instructions": "Exhale forcefully during the crunch and rotation. Inhale as you return to the start.",
-    "common_mistakes": ["Using the arms and chest pad to push rather than the core to pull", "Rotating from the hips rather than the thoracic spine", "Rushing through the rotation — the oblique contraction requires a controlled squeeze at the end range"],
-    "safety_considerations": ["If the machine does not allow rotational movement, do not force it — this variation may not be possible on all designs", "If neck pain occurs during the crunch, reduce the range or change to a supported crunch variation"],
+    "common_mistakes": [
+      "Using the arms and chest pad to push rather than the core to pull",
+      "Rotating from the hips rather than the thoracic spine",
+      "Rushing through the rotation — the oblique contraction requires a controlled squeeze at the end range"
+    ],
+    "safety_considerations": [
+      "If the machine does not allow rotational movement, do not force it — this variation may not be possible on all designs",
+      "If neck pain occurs during the crunch, reduce the range or change to a supported crunch variation"
+    ],
     "range_of_motion_guidance": "Full flexion with maximum comfortable rotation at the bottom.",
     "tempo_recommendations": "2s crunch and rotate, 1s hold, 3s slow return.",
-    "coaching_cues": ["Bring the right elbow toward the left knee and the left elbow toward the right knee on alternating reps", "The rotation comes from the thorax, not the hips", "Squeeze the oblique hard at the bottom of each rotated crunch"]
+    "coaching_cues": [
+      "Bring the right elbow toward the left knee and the left elbow toward the right knee on alternating reps",
+      "The rotation comes from the thorax, not the hips",
+      "Squeeze the oblique hard at the bottom of each rotated crunch"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 12, "max_reps": 20}],
-    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 4}],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance", "hypertrophy"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["oblique", "core", "machine", "functional", "rotation"]
+    "tags": [
+      "oblique",
+      "core",
+      "machine",
+      "functional",
+      "rotation"
+    ]
   }
 }

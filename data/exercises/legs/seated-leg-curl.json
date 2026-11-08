@@ -1,8 +1,10 @@
 {
-  "exercise_id": "a1b2c3d4-0021-4000-a000-legs00000021",
+  "exercise_id": "86e5d585-f1b8-4ba8-b7e5-d32820de8e0c",
   "slug": "seated-leg-curl",
   "name": "Seated Leg Curl",
-  "alternative_names": ["Seated Hamstring Curl"],
+  "alternative_names": [
+    "Seated Hamstring Curl"
+  ],
   "description": "The seated leg curl trains the hamstrings with the hip in a flexed position, which places the biceps femoris long head — a biarticular muscle — in a greater stretch at the hip while simultaneously training it through knee flexion. This combination of hip flexion and knee flexion produces a unique hamstring stimulus that differs from the prone version and may elicit greater elongation and hypertrophic response in the long head.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,17 +17,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0003-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-short-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
-      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0003-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-short-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000029-0000-4000-a000-000000000029"],
+  "equipment_required": [
+    "eq000029-0000-4000-a000-000000000029"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the machine with the lower back supported. Position the pad on top of the lower calf near the ankle. Grip the handles. Legs begin at full extension.",
@@ -57,32 +76,77 @@
   },
   "variants": {
     "easier": [],
-    "harder": ["nordic-hamstring-curl"],
+    "harder": [
+      "nordic-hamstring-curl"
+    ],
     "unilateral": [],
-    "bilateral": ["stiff-leg-deadlift"],
-    "equipment_alternatives": ["lying-leg-curl"]
+    "bilateral": [
+      "stiff-leg-deadlift"
+    ],
+    "equipment_alternatives": [
+      "lying-leg-curl"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 6, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "strength",
+        "min_reps": 6,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hamstring", "isolation", "machine"]
+    "tags": [
+      "hamstring",
+      "isolation",
+      "machine"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0025-4000-a000-legs00000025",
+  "exercise_id": "54813fed-3363-41e8-882e-20bbd7b9c303",
   "slug": "trap-bar-deadlift",
   "name": "Trap Bar Deadlift",
-  "alternative_names": ["Hex Bar Deadlift", "Trap Bar Pull"],
+  "alternative_names": [
+    "Hex Bar Deadlift",
+    "Trap Bar Pull"
+  ],
   "description": "The trap bar deadlift is performed inside a hexagonal barbell, gripping handles at the sides with a neutral grip. Standing inside the bar shifts the center of mass closer to the body compared to a conventional deadlift, reducing the moment arm at the hip and lumbar spine while increasing the moment arm at the knee. The result is a more quad-dominant pattern than a conventional deadlift, with less spinal stress — making it an effective compound exercise for general strength and power development.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,24 +18,59 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0002-4000-a000-000000000005", "muscle_slug": "iliocostalis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "55555555-0002-4000-a000-000000000005",
+        "muscle_slug": "iliocostalis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
     ]
   },
-  "equipment_required": ["eq000004-0000-4000-a000-000000000004", "eq000022-0000-4000-a000-000000000022"],
-  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "equipment_required": [
+    "eq000004-0000-4000-a000-000000000004",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000050-0000-4000-a000-000000000050"
+  ],
   "execution": {
     "starting_position": "Stand inside the trap bar with feet hip-width apart and the handles beside your hips. Push the hips back and bend the knees to grip the handles.",
     "setup_instructions": "Load the bar with appropriate weight. The high handles on most trap bars reduce the range of motion — use the low handles for a full range similar to a conventional deadlift. Neutral grip is automatic with the trap bar.",
@@ -63,32 +101,79 @@
   },
   "variants": {
     "easier": [],
-    "harder": ["deadlift"],
+    "harder": [
+      "deadlift"
+    ],
     "unilateral": [],
-    "bilateral": ["deadlift"],
-    "equipment_alternatives": ["deadlift"]
+    "bilateral": [
+      "deadlift"
+    ],
+    "equipment_alternatives": [
+      "deadlift"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 240, "hypertrophy": 120, "endurance": 60},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["deadlift", "compound", "back-friendly", "beginner-friendly"]
+    "tags": [
+      "deadlift",
+      "compound",
+      "back-friendly",
+      "beginner-friendly"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50013",
+  "exercise_id": "dece5336-79ed-4484-bc89-6e591c7e4755",
   "slug": "low-cable-rear-delt-flye-crossed",
   "name": "Low Cable Rear Delt Flye — Crossed Cables",
-  "alternative_names": ["Cable Face Pull Rear Delt Crossed", "Cross-Cable Rear Delt Flye"],
+  "alternative_names": [
+    "Cable Face Pull Rear Delt Crossed",
+    "Cross-Cable Rear Delt Flye"
+  ],
   "description": "A posterior deltoid isolation exercise using two low cable pulleys with the cables crossed — the right hand holds the left pulley's handle and the left hand holds the right pulley's handle. This crossing creates a unique starting position where the arms are crossed in front of the body, allowing a greater stretch on the rear deltoid and infraspinatus before each repetition. The cross-cable setup also changes the resistance angle compared to standard cable rear delt flyes, targeting the posterior deltoid through a different force vector.",
   "category": "functional",
   "exercise_type": "isolation",
@@ -15,16 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand between two low cable pulleys facing the cables. Reach across to grip the right handle with the left hand and the left handle with the right hand, so the cables cross at your center. Arms are crossed in front at chest height.",
@@ -36,26 +53,70 @@
       "Step 4: Slowly return the arms to the crossed starting position. Repeat."
     ],
     "breathing_instructions": "Exhale as you pull outward. Inhale as you return to the crossed position.",
-    "common_mistakes": ["Bending the elbows significantly — keep them mostly straight (slight soft bend) throughout", "Using upper traps and shrugging to assist the pull", "Letting the cables snap back — control the return to the crossed position"],
-    "safety_considerations": ["Ensure both pulleys are set to equal weight before starting", "If shoulder impingement occurs during the outward arc, reduce range"],
+    "common_mistakes": [
+      "Bending the elbows significantly — keep them mostly straight (slight soft bend) throughout",
+      "Using upper traps and shrugging to assist the pull",
+      "Letting the cables snap back — control the return to the crossed position"
+    ],
+    "safety_considerations": [
+      "Ensure both pulleys are set to equal weight before starting",
+      "If shoulder impingement occurs during the outward arc, reduce range"
+    ],
     "range_of_motion_guidance": "From cables fully crossed in front to arms out to the sides at approximately 90 degrees.",
     "tempo_recommendations": "2s pull outward, 1s hold, 3s slow return to crossed position.",
-    "coaching_cues": ["Think of trying to show the cables to the wall behind you at the top of the movement", "The rear deltoid is the primary mover — not the upper back", "The crossed starting position gives you a greater stretch — do not rush through it"]
+    "coaching_cues": [
+      "Think of trying to show the cables to the wall behind you at the top of the movement",
+      "The rear deltoid is the primary mover — not the upper back",
+      "The crossed starting position gives you a greater stretch — do not rush through it"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "rear-deltoid", "cross-cable", "functional", "isolation"]
+    "tags": [
+      "cable",
+      "rear-deltoid",
+      "cross-cable",
+      "functional",
+      "isolation"
+    ]
   }
 }

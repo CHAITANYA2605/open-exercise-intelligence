@@ -1,6 +1,6 @@
 # oei-exercise-sdk (Java)
 
-Official Java SDK for the [Open Exercise Intelligence](https://github.com/open-exercise-intelligence/oei) dataset.
+Official Java SDK for the [Open Exercise Intelligence](https://github.com/CHAITANYA2605/open-exercise-intelligence) dataset.
 
 **License:** MIT  
 **Data:** CC0 1.0  

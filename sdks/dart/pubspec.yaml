@@ -1,7 +1,7 @@
 name: oei
 description: Open Exercise Intelligence - Dart/Flutter SDK for the OEI exercise dataset
 version: 1.0.0
-homepage: https://github.com/open-exercise-intelligence/oei
+homepage: https://github.com/CHAITANYA2605/open-exercise-intelligence
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

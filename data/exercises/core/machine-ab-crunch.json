@@ -1,8 +1,11 @@
 {
-  "exercise_id": "co000031-0000-4000-a000-000000000031",
+  "exercise_id": "51940afd-adf6-4d22-8c10-643d5bf54d4a",
   "slug": "machine-ab-crunch",
   "name": "Seated Machine Abdominal Crunch",
-  "alternative_names": ["Ab Crunch Machine", "Seated Crunch Machine"],
+  "alternative_names": [
+    "Ab Crunch Machine",
+    "Seated Crunch Machine"
+  ],
   "description": "The seated abdominal crunch machine guides the torso through a fixed arc of spinal flexion against a selectorized or plate-loaded resistance pad, providing a beginner-friendly way to load the rectus abdominis without requiring hip flexor coordination or balance. The fixed movement path isolates the spinal flexion component effectively, and the machine's adjustable resistance allows precise progressive overload. It is a useful tool for individuals learning abdominal training or those rehabilitating from injuries that limit floor-based core work.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -14,14 +17,27 @@
   "exercise_family": "crunch",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}],
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
     "secondary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000032-0000-4000-a000-000000000032"],
+  "equipment_required": [
+    "eq000032-0000-4000-a000-000000000032"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the machine with the back against the pad and feet secured under the ankle rollers. Grasp the handles above the shoulders. Position the chest pad so it contacts the upper chest.",
@@ -38,21 +54,67 @@
       "Using momentum to swing the torso down rather than contracting the abs",
       "Pulling with the arms on the handles rather than initiating from the abdominals"
     ],
-    "safety_considerations": ["Avoid very heavy loads that force spinal flexion beyond comfortable range"],
+    "safety_considerations": [
+      "Avoid very heavy loads that force spinal flexion beyond comfortable range"
+    ],
     "range_of_motion_guidance": "Full arc of motion as guided by the machine — from spine neutral to full flexion.",
     "tempo_recommendations": "2-1-2-0. Slow and controlled. No momentum.",
-    "coaching_cues": ["Round the lower back — do not just lean forward", "Keep the neck neutral — do not crane forward"]
+    "coaching_cues": [
+      "Round the lower back — do not just lean forward",
+      "Keep the neck neutral — do not crane forward"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "abs", "machine", "beginner"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "abs",
+      "machine",
+      "beginner"
+    ]
+  }
 }

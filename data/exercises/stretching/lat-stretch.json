@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+  "exercise_id": "4f8cfea8-a3ae-4d25-8b49-f5093fd2ea50",
   "slug": "lat-stretch",
   "name": "Lat Stretch",
-  "alternative_names": ["Doorway Lat Stretch", "Overhead Lat Stretch"],
+  "alternative_names": [
+    "Doorway Lat Stretch",
+    "Overhead Lat Stretch"
+  ],
   "description": "The lat stretch lengthens the latissimus dorsi by combining shoulder flexion with lateral trunk flexion, placing the broad back muscle on its full stretch. Because the lats originate from the lumbar spine and iliac crest and insert on the humerus, they are most effectively stretched when the arm is raised overhead and the torso bends away. This stretch directly counteracts the lat tightness that often develops from heavy pulling exercises.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,15 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" },
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand or kneel. For the kneeling version, place hands on a bench or high surface and sit back.",
@@ -62,21 +76,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
     ],
-    "rest_periods": { "mobility": 10 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 10
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["lat", "latissimus-dorsi", "stretch", "beginner", "side-stretch"]
+    "tags": [
+      "lat",
+      "latissimus-dorsi",
+      "stretch",
+      "beginner",
+      "side-stretch"
+    ]
   }
 }

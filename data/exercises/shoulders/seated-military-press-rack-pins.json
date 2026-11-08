@@ -1,8 +1,12 @@
 {
-  "exercise_id": "e2f3a4b5-3678-4456-7890-123456789345",
+  "exercise_id": "b9dcc330-1361-4d3d-af18-3c40299e1e7f",
   "slug": "seated-military-press-rack-pins",
   "name": "Seated Military Press from Rack Pins",
-  "alternative_names": ["Pin Press Overhead", "Seated Pin Military Press", "Partial Range Overhead Press"],
+  "alternative_names": [
+    "Pin Press Overhead",
+    "Seated Pin Military Press",
+    "Partial Range Overhead Press"
+  ],
   "description": "The seated military press from rack pins starts from a dead-stop position with the barbell resting on safety pins set at approximately chin height, eliminating the stretch reflex from the eccentric phase. The lifter must generate maximum force from a full dead stop at the bottom of the press, training rate of force development and pure starting strength in the overhead pressing pattern. It is primarily used to overload the sticking point of the standard seated overhead press and to develop explosive pressing force.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +19,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "triceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on a bench inside a power rack. Set the safety pins at chin height. Rest the barbell on the pins. Grip the bar slightly wider than shoulder width. Feet flat on the floor.",
@@ -64,21 +85,46 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 1, "max_reps": 5 }
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 6 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": { "strength": 300 },
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 300
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["pin-press", "military-press", "overhead", "dead-stop", "strength", "advanced"]
+    "tags": [
+      "pin-press",
+      "military-press",
+      "overhead",
+      "dead-stop",
+      "strength",
+      "advanced"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d6e7f8a9-b0c1-4234-d567-e89f01a23b28",
+  "exercise_id": "cbd26a94-6dfa-4bdd-803b-20a438121ed7",
   "slug": "narrow-grip-decline-barbell-bench-press",
   "name": "Narrow-Grip Decline Barbell Bench Press",
-  "alternative_names": ["Close Grip Decline Press", "Decline Triceps Bench Press"],
+  "alternative_names": [
+    "Close Grip Decline Press",
+    "Decline Triceps Bench Press"
+  ],
   "description": "A decline bench press variation using a close, narrow grip that heavily shifts the emphasis from the pectorals to the triceps. The decline angle combined with the narrow grip maximizes triceps long head activation while still providing meaningful lower pectoralis major loading. Favored by powerlifters for triceps development and by bodybuilders targeting the sternal pec fibers with a triceps-intensive pressing movement.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +18,37 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000016-0000-4000-a000-000000000016", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000016-0000-4000-a000-000000000016",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on a decline bench (15–30 degrees decline) with feet secured. Grip the barbell with hands roughly shoulder-width apart or slightly narrower. Bar above the lower chest.",
@@ -55,26 +77,66 @@
       "Squeeze hard at lockout — the decline + narrow grip puts peak triceps tension at the top"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["barbell", "decline", "narrow-grip", "triceps", "bench-press", "lower-chest"]
+    "tags": [
+      "barbell",
+      "decline",
+      "narrow-grip",
+      "triceps",
+      "bench-press",
+      "lower-chest"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "b7c8d9e0-f1a2-4b3c-4d5e-6f7a8b9c0d1e",
+  "exercise_id": "dbaafba1-00e5-4ede-bd42-00d414d11d7d",
   "slug": "downward-dog",
   "name": "Downward-Facing Dog",
-  "alternative_names": ["Adho Mukha Svanasana", "Downward Dog"],
+  "alternative_names": [
+    "Adho Mukha Svanasana",
+    "Downward Dog"
+  ],
   "description": "Downward-facing dog is a foundational yoga posture that simultaneously stretches the hamstrings, calves, and latissimus dorsi while building shoulder stability and core engagement. With the hips raised into an inverted V shape and heels pressed toward the floor, the entire posterior chain is loaded in a lengthened position. It is used extensively as a transitional movement in yoga, as a warm-up for athletic activities, and as a standalone mobility exercise.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
-      { "muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus" },
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial" },
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a push-up or tabletop position with hands shoulder-width apart and feet hip-width apart.",
@@ -67,21 +93,46 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 4 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 4
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "mobility": 15 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 15
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["yoga", "stretch", "hamstring", "calf", "lat", "beginner", "full-body"]
+    "tags": [
+      "yoga",
+      "stretch",
+      "hamstring",
+      "calf",
+      "lat",
+      "beginner",
+      "full-body"
+    ]
   }
 }

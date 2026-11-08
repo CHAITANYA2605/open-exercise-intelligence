@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50001",
+  "exercise_id": "726fa8e6-9406-4e4c-9c43-fb48565b66e9",
   "slug": "landmine-180-rainbow",
   "name": "Landmine 180 — Rainbow",
-  "alternative_names": ["Landmine Rainbow", "Landmine Arc Press"],
+  "alternative_names": [
+    "Landmine Rainbow",
+    "Landmine Arc Press"
+  ],
   "description": "The landmine 180 (also called the landmine rainbow) is a rotational power exercise in which the barbell end is swung in a large arc from one side of the body to the other, following the path of a rainbow. The movement loads the core in rotation, the shoulders in overhead pressing, and the hips in rotational bracing simultaneously. The continuous arc demands coordinated full-body rotation and is used in rotational power training, sports performance programs, and functional core conditioning.",
   "category": "functional",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Load a barbell in a landmine anchor (or wedge the bar in a corner). Stand facing the barbell end, feet shoulder-width apart. Grasp the barbell end with both hands (overlapping or interlaced) and hold at approximately chest height.",
@@ -40,32 +66,82 @@
       "Step 4: Reverse the arc direction, sweeping the barbell from the left hip upward and over to the right hip. Each full left-to-right-to-left arc equals one repetition."
     ],
     "breathing_instructions": "Exhale forcefully as the bar sweeps overhead. Inhale as it descends to the hip.",
-    "common_mistakes": ["Using too much weight — the arc demands shoulder mobility more than strength", "Bending the elbows instead of using the full arm extension throughout the arc", "Stopping at the top rather than flowing continuously through the arc"],
-    "safety_considerations": ["The overhead arc demands full shoulder mobility — do not force range that is not available", "Ensure the landmine anchor is completely secure before each set"],
+    "common_mistakes": [
+      "Using too much weight — the arc demands shoulder mobility more than strength",
+      "Bending the elbows instead of using the full arm extension throughout the arc",
+      "Stopping at the top rather than flowing continuously through the arc"
+    ],
+    "safety_considerations": [
+      "The overhead arc demands full shoulder mobility — do not force range that is not available",
+      "Ensure the landmine anchor is completely secure before each set"
+    ],
     "range_of_motion_guidance": "The arc should travel from one hip, overhead, to the opposite hip. Full range is the goal.",
     "tempo_recommendations": "Moderate speed — fluid and controlled, not explosive initially. Build speed as technique improves.",
-    "coaching_cues": ["Think of drawing the arc of a rainbow — smooth, continuous, side to side", "Keep the arms extended throughout — do not collapse the elbows", "Let the torso rotate naturally — do not resist the rotation"]
+    "coaching_cues": [
+      "Think of drawing the arc of a rainbow — smooth, continuous, side to side",
+      "Keep the arms extended throughout — do not collapse the elbows",
+      "Let the torso rotate naturally — do not resist the rotation"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 5, "max_reps": 10},
-      {"goal": "strength", "min_reps": 4, "max_reps": 8}
+      {
+        "goal": "endurance",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 60, "strength": 90},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "endurance": 60,
+      "strength": 90
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["landmine", "rotation", "functional", "core", "shoulders"]
+    "tags": [
+      "landmine",
+      "rotation",
+      "functional",
+      "core",
+      "shoulders"
+    ]
   }
 }

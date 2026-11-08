@@ -1,0 +1,2084 @@
+{
+  "migration_id": "uuid-v4-fix-2026-11-08",
+  "created_at": "2026-11-08T00:00:00Z",
+  "description": "Corrected malformed exercise_id values to valid UUID v4. Old IDs were structured sequential values using non-hex characters. New IDs are deterministically derived from slug via SHA-256.",
+  "algorithm": "sha256('oei-v1:' + slug), formatted as UUID v4",
+  "summary": {
+    "total_files": 866,
+    "fixed": 414,
+    "already_valid": 452,
+    "errors": 0
+  },
+  "mappings": [
+    {
+      "slug": "band-triceps-pushdown",
+      "old_id": "ex-band-tri-down-4000-a000-796054187462",
+      "new_id": "91541ab2-cc75-4718-908b-bfe62fe60933"
+    },
+    {
+      "slug": "bench-dips-single-leg-plate",
+      "old_id": "ex-bench-di-late-4000-a000-235508991215",
+      "new_id": "d79837cb-843d-4b6c-b83f-22088a9cef9e"
+    },
+    {
+      "slug": "bench-dips-swiss-ball-weighted-vest",
+      "old_id": "ex-bench-di-vest-4000-a000-590081634187",
+      "new_id": "ecbf1c39-3cce-4a72-b45e-20018e9a03bd"
+    },
+    {
+      "slug": "board-press-close-grip-2board",
+      "old_id": "ex-board-pr-oard-4000-a000-599333857398",
+      "new_id": "6c409788-e563-4da1-8a6b-c20fffb0183b"
+    },
+    {
+      "slug": "bodyweight-skullcrusher-smith",
+      "old_id": "ex-bodyweig-mith-4000-a000-512656834437",
+      "new_id": "ef1d13d1-63eb-4b96-bdea-c1faec31b705"
+    },
+    {
+      "slug": "cable-extension-high-anchor",
+      "old_id": "ex-cable-ex-chor-4000-a000-981265394312",
+      "new_id": "ecc86c0b-18af-4510-8997-1e15aea91fca"
+    },
+    {
+      "slug": "cable-extension-low-pulley",
+      "old_id": "ex-cable-ex-lley-4000-a000-781034387908",
+      "new_id": "19382f9e-f365-4578-b9f5-28e077e617ee"
+    },
+    {
+      "slug": "cable-hammer-curl",
+      "old_id": "c3d4e5f6-a7b8-4c9d-0e1f-a2b3c4d5e433",
+      "new_id": "54e3c293-ee8b-4fa9-b013-35b9f36aa119"
+    },
+    {
+      "slug": "cable-overhead-tricep-extension",
+      "old_id": "f6a7b8c9-d0e1-4f2a-3b4c-d5e6f7a8b436",
+      "new_id": "3d099726-339f-4425-8534-f0269837acab"
+    },
+    {
+      "slug": "cable-rope-pushdown",
+      "old_id": "d0e1f2a3-b4c5-4d6e-7f8a-b9c0d1e2f440",
+      "new_id": "b89f3e20-c0d2-4c55-ad6e-e96b97a9908c"
+    },
+    {
+      "slug": "close-grip-board-press-3board",
+      "old_id": "ex-close-gr-oard-4000-a000-339209450476",
+      "new_id": "5e6c22b5-6cc1-4fb7-9402-9d6f41a66106"
+    },
+    {
+      "slug": "close-grip-push-up-deficit-hands",
+      "old_id": "ex-close-gr-ands-4000-a000-077456208560",
+      "new_id": "6a98149d-dd37-49c0-9043-9e66eaaa7678"
+    },
+    {
+      "slug": "close-grip-push-up-pause-chain",
+      "old_id": "ex-close-gr-hain-4000-a000-425766447605",
+      "new_id": "a7480455-8758-4d23-95cb-95679f5d8931"
+    },
+    {
+      "slug": "cross-body-dumbbell-triceps-extension",
+      "old_id": "ex-cross-bo-sion-4000-a000-126800906780",
+      "new_id": "8e3f9fd5-3d6d-45f2-a8d8-632eff629c8f"
+    },
+    {
+      "slug": "decline-barbell-skullcrusher",
+      "old_id": "ex-decline--sher-4000-a000-911017199790",
+      "new_id": "fd8b227b-1329-428d-a534-8867c6046434"
+    },
+    {
+      "slug": "decline-close-grip-bench-press",
+      "old_id": "ex-decline--ress-4000-a000-616862717431",
+      "new_id": "87e8526b-5886-45da-8e48-5a961774a45a"
+    },
+    {
+      "slug": "decline-dumbbell-skullcrusher",
+      "old_id": "ex-decline--sher-4000-a000-396066245918",
+      "new_id": "3fd31548-57bd-4b7a-9d23-50be3217c33b"
+    },
+    {
+      "slug": "deficit-diamond-push-up",
+      "old_id": "ex-deficit--h-up-4000-a000-527811107212",
+      "new_id": "0e5e77a6-675c-4ae5-b56b-fdd3d0aa16fa"
+    },
+    {
+      "slug": "diamond-push-up-feet-elevated",
+      "old_id": "ex-diamond--ated-4000-a000-923379212343",
+      "new_id": "b9fb0b57-0851-4112-8539-b5eaca0f9311"
+    },
+    {
+      "slug": "floor-barbell-skullcrusher",
+      "old_id": "ex-floor-ba-sher-4000-a000-856468159839",
+      "new_id": "febfb1a1-1d10-4e64-8788-50064709a905"
+    },
+    {
+      "slug": "floor-dumbbell-tate-press",
+      "old_id": "ex-floor-du-ress-4000-a000-958026803365",
+      "new_id": "31f76b2b-55aa-4f14-a29b-79420296fbc8"
+    },
+    {
+      "slug": "floor-press-close-grip-chains",
+      "old_id": "ex-floor-pr-ains-4000-a000-052487334408",
+      "new_id": "45d48bee-4f21-44c2-adfc-8f82c19ed462"
+    },
+    {
+      "slug": "floor-skullcrusher-neutral-grip",
+      "old_id": "ex-floor-sk-grip-4000-a000-949050022965",
+      "new_id": "27820c28-bcfa-4841-96f6-0f91c4e74b5d"
+    },
+    {
+      "slug": "forearm-roller",
+      "old_id": "c5d6e7f8-a9b0-4c1d-2e3f-a4b5c6d7e445",
+      "new_id": "1da92e8e-9094-4068-b0b3-93d11bc75755"
+    },
+    {
+      "slug": "incline-cable-overhead-extension-away",
+      "old_id": "ex-incline--away-4000-a000-674612740116",
+      "new_id": "0bf2aa89-65d8-4b35-b2af-64447f8041f2"
+    },
+    {
+      "slug": "incline-dumbbell-tate-press",
+      "old_id": "ex-incline--ress-4000-a000-197918323658",
+      "new_id": "32f27e08-9625-4fbb-8271-23920348c650"
+    },
+    {
+      "slug": "jm-press-dumbbell-decline",
+      "old_id": "ex-jm-press-line-4000-a000-598873028753",
+      "new_id": "b5102a42-e7af-4b60-93d4-579c5d5288b4"
+    },
+    {
+      "slug": "jm-press-ez-bar-strict",
+      "old_id": "ex-jm-press-rict-4000-a000-463931263702",
+      "new_id": "bf31479d-e042-4451-89a9-0b74795e6fda"
+    },
+    {
+      "slug": "jm-press-smith-machine",
+      "old_id": "ex-jm-press-hine-4000-a000-051805540098",
+      "new_id": "0fd78705-1790-4dbf-b7bf-ceb6b8a88a18"
+    },
+    {
+      "slug": "lying-single-arm-cable-extension",
+      "old_id": "ex-lying-si-sion-4000-a000-333827078024",
+      "new_id": "ffa08800-b109-4709-8a90-609ba9b4c21e"
+    },
+    {
+      "slug": "overhead-cable-straight-bar",
+      "old_id": "ex-overhead--bar-4000-a000-583047814870",
+      "new_id": "369efb21-d37f-4e11-8a4e-c626fdea4b00"
+    },
+    {
+      "slug": "overhead-cable-vbar-extension",
+      "old_id": "ex-overhead-sion-4000-a000-640871021046",
+      "new_id": "efa5c9cb-448a-4668-940d-387467735c7e"
+    },
+    {
+      "slug": "overhead-dumbbell-extension-support-strap",
+      "old_id": "ex-overhead-trap-4000-a000-108527745358",
+      "new_id": "eda1dd8e-dd15-4a26-bb37-ba9cf151a233"
+    },
+    {
+      "slug": "overhead-rope-cable-extension-seated",
+      "old_id": "ex-overhead-ated-4000-a000-982047702562",
+      "new_id": "e5c85f49-e825-4771-925c-1d78580fb692"
+    },
+    {
+      "slug": "reverse-curl",
+      "old_id": "d4e5f6a7-b8c9-4d0e-1f2a-b3c4d5e6f434",
+      "new_id": "1d94bc15-7e53-4f8a-82e1-15f570bbbbef"
+    },
+    {
+      "slug": "reverse-wrist-curl",
+      "old_id": "b4c5d6e7-f8a9-4b0c-1d2e-f3a4b5c6d444",
+      "new_id": "96766cbf-0988-4e09-bc3d-6e90eae07445"
+    },
+    {
+      "slug": "ring-bodyweight-skullcrusher",
+      "old_id": "ex-ring-bod-sher-4000-a000-433606834851",
+      "new_id": "13926bae-3d92-41fe-9ac3-21904267d173"
+    },
+    {
+      "slug": "ring-triceps-extension-false-grip",
+      "old_id": "ex-ring-tri-grip-4000-a000-072607581794",
+      "new_id": "4ad95fda-a3e9-4683-b552-72e12d1cc21b"
+    },
+    {
+      "slug": "ring-triceps-extension",
+      "old_id": "ex-ring-tri-sion-4000-a000-597868441213",
+      "new_id": "5af45949-6dbf-4d0e-afe4-028cc70c9140"
+    },
+    {
+      "slug": "ring-triceps-pushup-incline",
+      "old_id": "ex-ring-tri-line-4000-a000-577240167009",
+      "new_id": "c0ea1845-a9c6-4763-8c54-49e07c2e5877"
+    },
+    {
+      "slug": "seated-barbell-overhead-triceps-extension",
+      "old_id": "ex-seated-b-sion-4000-a000-405961451762",
+      "new_id": "0a4b273a-0e66-4627-8da5-0ec2dfd46ca4"
+    },
+    {
+      "slug": "single-arm-cable-kickback-pause",
+      "old_id": "ex-single-a-ause-4000-a000-411881893234",
+      "new_id": "70a59f2d-e605-42de-896a-78fe5466d8d9"
+    },
+    {
+      "slug": "single-arm-cross-body-cable-extension",
+      "old_id": "ex-single-a-sion-4000-a000-439797358635",
+      "new_id": "a216e5ab-c235-40f3-8012-b7047fa1b78b"
+    },
+    {
+      "slug": "single-arm-dumbbell-tate-press",
+      "old_id": "ex-single-a-ress-4000-a000-748576460213",
+      "new_id": "4c6c428f-4dbb-4553-8366-285a4fd979d4"
+    },
+    {
+      "slug": "single-arm-overhead-rope-extension",
+      "old_id": "ex-single-a-sion-4000-a000-375856614616",
+      "new_id": "98981493-a0fe-4545-a10f-a4d3ead092f7"
+    },
+    {
+      "slug": "single-arm-tricep-pushdown",
+      "old_id": "b8c9d0e1-f2a3-4b4c-5d6e-f7a8b9c0d438",
+      "new_id": "aa3bfab6-cf8a-4907-bb1d-65a6d03b6e62"
+    },
+    {
+      "slug": "skullcrusher-ez-to-chin",
+      "old_id": "ex-skullcru-chin-4000-a000-954215587332",
+      "new_id": "dffda58f-8993-4123-9bf7-31ec0cac7e12"
+    },
+    {
+      "slug": "smith-machine-decline-close-grip",
+      "old_id": "ex-smith-ma-grip-4000-a000-517360353384",
+      "new_id": "59df1aad-53b9-4ca4-8169-98f0552131a5"
+    },
+    {
+      "slug": "standing-cable-kickback-pulley",
+      "old_id": "ex-standing-lley-4000-a000-128847627650",
+      "new_id": "eec61db2-6892-46b8-89c8-7ff60969c707"
+    },
+    {
+      "slug": "swiss-ball-bench-dips",
+      "old_id": "ex-swiss-ba-dips-4000-a000-650592090607",
+      "new_id": "06d85fcb-8824-4567-a454-1c5dae2f503a"
+    },
+    {
+      "slug": "tate-press-heavy-dumbbells",
+      "old_id": "ex-tate-pre-ells-4000-a000-429379547462",
+      "new_id": "cfe16d0b-5c2e-450e-85af-8851b0e872b5"
+    },
+    {
+      "slug": "tiger-bend-push-up",
+      "old_id": "ex-tiger-be-h-up-4000-a000-855764280437",
+      "new_id": "7a3c8d23-9daa-4c86-b8a4-a6f7b08e55c6"
+    },
+    {
+      "slug": "tricep-dips-bench",
+      "old_id": "c9d0e1f2-a3b4-4c5d-6e7f-a8b9c0d1e439",
+      "new_id": "263aff83-dbe3-457d-890c-52419497e492"
+    },
+    {
+      "slug": "tricep-kickback",
+      "old_id": "a7b8c9d0-e1f2-4a3b-4c5d-e6f7a8b9c437",
+      "new_id": "4e80f09f-0fad-479b-936c-38abac4d0d99"
+    },
+    {
+      "slug": "tricep-pushdown-rope-flare",
+      "old_id": "ex-tricep-p-lare-4000-a000-302136513762",
+      "new_id": "990a0228-801a-46a0-84c0-d8cd15629641"
+    },
+    {
+      "slug": "weighted-ring-dips-triceps",
+      "old_id": "ex-weighted-ceps-4000-a000-823112933994",
+      "new_id": "93d13abd-a275-4dbc-bbea-28bd4e06d6a3"
+    },
+    {
+      "slug": "wrist-curl",
+      "old_id": "a3b4c5d6-e7f8-4a9b-0c1d-e2f3a4b5c443",
+      "new_id": "da393aa8-83aa-4724-9cc7-930fd53471fb"
+    },
+    {
+      "slug": "zottmann-curl",
+      "old_id": "e5f6a7b8-c9d0-4e1f-2a3b-c4d5e6f7a435",
+      "new_id": "8ddcff26-2403-4e0d-9702-5ca9a71fc4bb"
+    },
+    {
+      "slug": "archer-pull-up",
+      "old_id": "e0d1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+      "new_id": "a3e1b309-5d8d-4dd4-9f7d-4617612f91f6"
+    },
+    {
+      "slug": "block-pull",
+      "old_id": "a8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+      "new_id": "e5f3a7dd-e59a-40fc-b2ad-3a2a6896897d"
+    },
+    {
+      "slug": "cable-shrug",
+      "old_id": "e6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+      "new_id": "46941e98-115b-4092-9dec-abdddc6dbf36"
+    },
+    {
+      "slug": "chest-supported-row",
+      "old_id": "a6f7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "new_id": "57844703-d610-4fca-9a69-e997d37b50b9"
+    },
+    {
+      "slug": "close-grip-lat-pulldown",
+      "old_id": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "new_id": "fb53beb4-cb59-4caf-82fb-0dd7d184fd38"
+    },
+    {
+      "slug": "hyperextension",
+      "old_id": "b9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
+      "new_id": "8f07e346-e012-4d05-afb0-5a3369db51f9"
+    },
+    {
+      "slug": "incline-dumbbell-row",
+      "old_id": "b7a8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "new_id": "d49de221-fadc-4577-879d-adc6aa888144"
+    },
+    {
+      "slug": "meadows-row",
+      "old_id": "e4d5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "new_id": "2fecee82-5d96-4e4e-a1fc-176566e9198c"
+    },
+    {
+      "slug": "pendlay-row",
+      "old_id": "f5e6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "new_id": "3cc39687-bd40-4f53-bce3-0dc277b3864a"
+    },
+    {
+      "slug": "rack-pull",
+      "old_id": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+      "new_id": "a95aa779-a888-43a2-896e-f93cb985a577"
+    },
+    {
+      "slug": "reverse-hyperextension-back",
+      "old_id": "c0d1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
+      "new_id": "d63605ef-be16-4c2f-8731-e6f851788509"
+    },
+    {
+      "slug": "ring-row",
+      "old_id": "d9c0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "new_id": "43899075-97bb-466e-8939-a844dfb34d89"
+    },
+    {
+      "slug": "seal-row",
+      "old_id": "c8b9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "new_id": "725bdb14-17cd-448a-8e7a-ac96da73c980"
+    },
+    {
+      "slug": "single-arm-cable-row",
+      "old_id": "d3c4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "new_id": "f59f1495-c462-45b0-b295-76e05a8293a1"
+    },
+    {
+      "slug": "single-arm-lat-pulldown",
+      "old_id": "d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+      "new_id": "a2c791eb-eeb9-4b30-8f80-efa450f32b79"
+    },
+    {
+      "slug": "wide-grip-pull-up",
+      "old_id": "b3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+      "new_id": "c3813cea-5444-4e57-b680-aa76ce611fdd"
+    },
+    {
+      "slug": "alternating-dumbbell-press",
+      "old_id": "c5d6e7f8-a9b0-4123-c456-d78e90f12345",
+      "new_id": "73e7ac07-782f-4fc6-a07c-072a4a4775e0"
+    },
+    {
+      "slug": "alternating-incline-dumbbell-press",
+      "old_id": "d6e7f8a9-b0c1-4234-d567-e89f01a23456",
+      "new_id": "dc50846a-f45c-4be5-a619-1e2d6cad4fd7"
+    },
+    {
+      "slug": "archer-push-up",
+      "old_id": "d4e5f6a7-b8c9-4d0e-1f2a-b3c4d5e6f404",
+      "new_id": "a4a03adb-f58f-4664-8fbb-2bcd70387cc6"
+    },
+    {
+      "slug": "band-resisted-dumbbell-bench-press",
+      "old_id": "f6a7b8c9-d0e1-4234-f567-a89b01c23d18",
+      "new_id": "9894838c-2964-485f-a4b1-a33bd39ea24f"
+    },
+    {
+      "slug": "barbell-pullover-chest",
+      "old_id": "a1b2c3d4-0009-4000-a000-chest0000009",
+      "new_id": "fa6512b1-b888-4d49-9473-97559c99fcdf"
+    },
+    {
+      "slug": "cable-bench-fly",
+      "old_id": "a1b2c3d4-0002-4000-a000-chest0000002",
+      "new_id": "1a922874-fe18-4a89-b969-245b985a9bbf"
+    },
+    {
+      "slug": "cable-crossover-seated-bench",
+      "old_id": "c7d8e9f0-a1b2-4345-c678-d90e12f34a39",
+      "new_id": "955367be-d8b7-45ec-80cb-ad9ad1ec8aef"
+    },
+    {
+      "slug": "cable-fly",
+      "old_id": "f6a7b8c9-d0e1-4f2a-3b4c-d5e6f7a8b406",
+      "new_id": "5e1ffdb8-72b8-4cea-b593-39349623a24b"
+    },
+    {
+      "slug": "cable-low-flye-to-press",
+      "old_id": "d4e5f6a7-b8c9-4012-d345-e67f89a01b16",
+      "new_id": "3c1de2d5-03f4-433b-99b1-0cd398a5f422"
+    },
+    {
+      "slug": "cambered-bar-bench-press",
+      "old_id": "d0e1f2a3-b4c5-4678-d901-e23f45a67890",
+      "new_id": "fb64d5a9-472d-4377-9c35-f082a28bd371"
+    },
+    {
+      "slug": "chained-incline-dumbbell-press",
+      "old_id": "e7f8a9b0-c1d2-4345-e678-f90a12b34c29",
+      "new_id": "f03e6f66-61ab-4699-b89e-ecb21a3e97b0"
+    },
+    {
+      "slug": "clap-push-up",
+      "old_id": "a1b2c3d4-0015-4000-a000-chest0000015",
+      "new_id": "340293c8-11c1-442a-b949-2027432d5f13"
+    },
+    {
+      "slug": "cobra-push-up",
+      "old_id": "a1b2c3d4-0014-4000-a000-chest0000014",
+      "new_id": "7a7dfb7f-9a37-4b08-b8aa-b08cba2a7a87"
+    },
+    {
+      "slug": "decline-bench-press-3s-pause",
+      "old_id": "d8e9f0a1-b2c3-4456-d789-e01f23a45b40",
+      "new_id": "e120828a-687e-4d56-8ac4-e42d714ddb5c"
+    },
+    {
+      "slug": "decline-plate-loaded-reverse-grip",
+      "old_id": "d4e5f6a7-b8c9-4012-d345-e67f89a01b46",
+      "new_id": "c96b674a-8f13-40ae-b1b0-f3bd39c56640"
+    },
+    {
+      "slug": "deficit-push-up",
+      "old_id": "a1b2c3d4-0011-4000-a000-chest0000011",
+      "new_id": "1ea37766-df50-43a3-a461-7bc2978aea9f"
+    },
+    {
+      "slug": "diamond-push-up",
+      "old_id": "c3d4e5f6-a7b8-4c9d-0e1f-a2b3c4d5e403",
+      "new_id": "351320e2-3e67-4421-b714-98d23ddafa67"
+    },
+    {
+      "slug": "dual-landmine-chest-press",
+      "old_id": "a1b2c3d4-0006-4000-a000-chest0000006",
+      "new_id": "aa10ffcf-4087-46e5-bed4-3c20b525b62f"
+    },
+    {
+      "slug": "dumbbell-around-the-worlds",
+      "old_id": "a1b2c3d4-0010-4000-a000-chest0000010",
+      "new_id": "d174c655-cdc5-4c9b-adf3-98c5a726634a"
+    },
+    {
+      "slug": "dumbbell-pullover",
+      "old_id": "a1b2c3d4-0008-4000-a000-chest0000008",
+      "new_id": "deff962b-87d7-443d-aa68-bef21b425301"
+    },
+    {
+      "slug": "floor-dumbbell-flye-to-press",
+      "old_id": "d0e1f2a3-b4c5-4678-d901-e23f45a67b22",
+      "new_id": "81bce66a-dfca-4339-988c-fd42a8b07656"
+    },
+    {
+      "slug": "floor-press",
+      "old_id": "b4c5d6e7-f8a9-4b0c-1d2e-f3a4b5c6d414",
+      "new_id": "8efe2d5c-41aa-4106-a652-17ad3215d67c"
+    },
+    {
+      "slug": "guillotine-press",
+      "old_id": "c5d6e7f8-a9b0-4c1d-2e3f-a4b5c6d7e415",
+      "new_id": "494aa0d1-d9d0-400b-ae98-d11e8d005efd"
+    },
+    {
+      "slug": "high-to-low-cable-fly",
+      "old_id": "b8c9d0e1-f2a3-4b4c-5d6e-f7a8b9c0d408",
+      "new_id": "5a3a082f-ff5a-411f-94d2-8d9077605fda"
+    },
+    {
+      "slug": "incline-bench-dumbbell-pullover",
+      "old_id": "f2a3b4c5-d6e7-4890-f123-a45b67c89d24",
+      "new_id": "710ab4ba-c63e-46c2-b014-5cbd3eed92cb"
+    },
+    {
+      "slug": "incline-cable-bench-fly",
+      "old_id": "a1b2c3d4-0003-4000-a000-chest0000003",
+      "new_id": "6e0bc613-a59d-4702-9f23-7c0816230e74"
+    },
+    {
+      "slug": "incline-lever-machine-alternating",
+      "old_id": "c3d4e5f6-a7b8-4901-c234-d56e78f90a45",
+      "new_id": "24e11433-c6c4-4394-b14a-040f8f0097b6"
+    },
+    {
+      "slug": "incline-machine-chest-press",
+      "old_id": "f4a5b6c7-d8e9-4012-f345-a67b89c01234",
+      "new_id": "17be9049-3d74-4b63-8f09-7bec2297fe78"
+    },
+    {
+      "slug": "incline-squeeze-press-chains",
+      "old_id": "f0a1b2c3-d4e5-4678-f901-a23b45c67d42",
+      "new_id": "01aef64b-3db5-4bd6-a46e-83e484574876"
+    },
+    {
+      "slug": "incline-squeeze-press-plate",
+      "old_id": "d2e3f4a5-b6c7-4890-d123-e45f67a89b34",
+      "new_id": "3eec1f18-c735-480a-8660-dbc7b97a51a8"
+    },
+    {
+      "slug": "kneeling-cable-chest-press",
+      "old_id": "e9f0a1b2-c3d4-4567-e890-f12a34b56789",
+      "new_id": "87b67c60-f46a-4d3f-abab-369391785e7a"
+    },
+    {
+      "slug": "korean-dips",
+      "old_id": "a1b2c3d4-0019-4000-a000-chest0000019",
+      "new_id": "b69b6879-2733-491b-85aa-0dd26326b04b"
+    },
+    {
+      "slug": "landmine-chest-press",
+      "old_id": "a1b2c3d4-0005-4000-a000-chest0000005",
+      "new_id": "9ee695d7-15d4-4afa-b9cf-c915339dd914"
+    },
+    {
+      "slug": "low-to-high-cable-fly",
+      "old_id": "a7b8c9d0-e1f2-4a3b-4c5d-e6f7a8b9c407",
+      "new_id": "b3a3e60e-7a2d-455f-befd-18c9db691f65"
+    },
+    {
+      "slug": "lying-svend-press",
+      "old_id": "f8a9b0c1-d2e3-4456-f789-a01b23c45678",
+      "new_id": "e7a8994d-d0f8-4a9d-989b-321fabfe2150"
+    },
+    {
+      "slug": "machine-chest-press",
+      "old_id": "c9d0e1f2-a3b4-4c5d-6e7f-a8b9c0d1e409",
+      "new_id": "d36cb05a-54ff-49f0-802b-6220662ce1ef"
+    },
+    {
+      "slug": "machine-fly",
+      "old_id": "d0e1f2a3-b4c5-4d6e-7f8a-b9c0d1e2f410",
+      "new_id": "660f51b3-74b4-4cb9-b448-cffc586f5579"
+    },
+    {
+      "slug": "narrow-grip-decline-barbell-bench-press",
+      "old_id": "d6e7f8a9-b0c1-4234-d567-e89f01a23b28",
+      "new_id": "cbd26a94-6dfa-4bdd-803b-20a438121ed7"
+    },
+    {
+      "slug": "one-board-press",
+      "old_id": "c3d4e5f6-a7b8-4901-c234-d56e78f90123",
+      "new_id": "e4179e77-e52f-47dc-9d11-b121fd779161"
+    },
+    {
+      "slug": "pec-deck-peak-contraction",
+      "old_id": "e5f6a7b8-c9d0-4123-e456-f78a90b12c47",
+      "new_id": "575268ab-ba26-46fb-9fd6-7a29cffe69a4"
+    },
+    {
+      "slug": "pike-push-up",
+      "old_id": "e5f6a7b8-c9d0-4e1f-2a3b-c4d5e6f7a405",
+      "new_id": "19f6c93e-20e4-4e2e-97d2-c3fee92c1df6"
+    },
+    {
+      "slug": "pin-press",
+      "old_id": "f6a7b8c9-d0e1-4234-f567-a89b01c23456",
+      "new_id": "659b1184-baf7-4f08-a40c-4bf69a24fd8a"
+    },
+    {
+      "slug": "pseudo-planche-push-up",
+      "old_id": "a1b2c3d4-0013-4000-a000-chest0000013",
+      "new_id": "7ebbc8bc-958a-4fb2-98f8-8a8325c2b705"
+    },
+    {
+      "slug": "resistance-band-chest-fly",
+      "old_id": "a1b2c3d4-0004-4000-a000-chest0000004",
+      "new_id": "0cc97e79-69cf-4632-8653-170857221e9f"
+    },
+    {
+      "slug": "reverse-grip-bench-press",
+      "old_id": "f2a3b4c5-d6e7-4890-f123-a45b67c89012",
+      "new_id": "828b6731-6f23-4483-900e-f8435e8f99b1"
+    },
+    {
+      "slug": "ring-dips",
+      "old_id": "a1b2c3d4-0018-4000-a000-chest0000018",
+      "new_id": "206d671a-b397-4e60-88d4-4d5065008423"
+    },
+    {
+      "slug": "ring-push-up-swiss-ball",
+      "old_id": "e3f4a5b6-c7d8-4901-e234-f56a78b90c35",
+      "new_id": "8b1cb15f-231c-49a8-b48f-cf74251858e7"
+    },
+    {
+      "slug": "ring-push-up-weighted-vest",
+      "old_id": "f6a7b8c9-d0e1-4234-f567-a89b01c23d48",
+      "new_id": "c8dff794-0c70-4626-8495-3c21168311ac"
+    },
+    {
+      "slug": "ring-push-up",
+      "old_id": "a1b2c3d4-0017-4000-a000-chest0000017",
+      "new_id": "b687d927-5834-4b29-bae7-49cd7ac1be43"
+    },
+    {
+      "slug": "single-arm-dumbbell-press",
+      "old_id": "a3b4c5d6-e7f8-4a9b-0c1d-e2f3a4b5c413",
+      "new_id": "1eb798eb-8e15-4df2-bdf3-85616bc1a0fe"
+    },
+    {
+      "slug": "single-arm-floor-dumbbell-glute-bridge-press",
+      "old_id": "f8a9b0c1-d2e3-4456-f789-a01b23c45d30",
+      "new_id": "5e0d83c5-e03c-4701-9aed-ed3e9db4be1b"
+    },
+    {
+      "slug": "single-arm-incline-dumbbell-flye",
+      "old_id": "e5f6a7b8-c9d0-4123-e456-f78a90b12c17",
+      "new_id": "26dbe63c-5146-4a4b-a9b5-3c0badfe5a5d"
+    },
+    {
+      "slug": "single-arm-landmine-chest-press-rotation",
+      "old_id": "c9d0e1f2-a3b4-4567-c890-d12e34f56a21",
+      "new_id": "93dc4fda-722a-4411-93da-b0e57bb6017e"
+    },
+    {
+      "slug": "single-arm-machine-chest-press",
+      "old_id": "c7d8e9f0-a1b2-4345-c678-d90e12f34567",
+      "new_id": "b3a5fb58-932a-4d82-93b5-d738dd839fa8"
+    },
+    {
+      "slug": "single-arm-pec-deck",
+      "old_id": "a1b2c3d4-0001-4000-a000-chest0000001",
+      "new_id": "b9e942a3-397b-439c-b3f6-2c02d04d9add"
+    },
+    {
+      "slug": "single-arm-push-up",
+      "old_id": "a1b2c3d4-0016-4000-a000-chest0000016",
+      "new_id": "a2c49beb-e605-4a9c-b0b1-7d728a68faef"
+    },
+    {
+      "slug": "smith-machine-decline-bench-press",
+      "old_id": "c1d2e3f4-a5b6-4789-c012-d34e56f78901",
+      "new_id": "b4cb1b64-2d64-485a-8c53-5e40f2065b48"
+    },
+    {
+      "slug": "smith-machine-floor-press",
+      "old_id": "e3f4a5b6-c7d8-4901-e234-f56a78b90123",
+      "new_id": "c118bb1f-d364-40aa-b9d1-dd6559c99361"
+    },
+    {
+      "slug": "smith-machine-reverse-grip-bench-press",
+      "old_id": "d2e3f4a5-b6c7-4890-d123-e45f67a89012",
+      "new_id": "ba6b07d5-da3c-4ed1-af8e-cbd2f8549be8"
+    },
+    {
+      "slug": "spiderman-push-up",
+      "old_id": "a1b2c3d4-0012-4000-a000-chest0000012",
+      "new_id": "cc5023ec-71a2-4758-80af-798657ecbb1a"
+    },
+    {
+      "slug": "standing-cable-chest-press",
+      "old_id": "d8e9f0a1-b2c3-4456-d789-e01f23a45678",
+      "new_id": "5654ee7c-f1ac-4760-be68-57a251a477d5"
+    },
+    {
+      "slug": "svend-press",
+      "old_id": "e7f8a9b0-c1d2-4345-e678-f90a12b34567",
+      "new_id": "e135e09e-cf5a-4f25-9f63-06f30891721e"
+    },
+    {
+      "slug": "swiss-ball-knees-to-chest-push-up",
+      "old_id": "e9f0a1b2-c3d4-4567-e890-f12a34b56c41",
+      "new_id": "c2747dea-f1f2-4618-b374-324406704608"
+    },
+    {
+      "slug": "swiss-ball-push-up-feet-elevated",
+      "old_id": "e1f2a3b4-c5d6-4789-e012-f34a56b78c23",
+      "new_id": "3df10dce-4481-45e8-ad6e-302f5536d2b2"
+    },
+    {
+      "slug": "swiss-ball-push-up-single-leg",
+      "old_id": "c1d2e3f4-a5b6-4789-c012-d34e56f78a33",
+      "new_id": "efeea954-9914-4035-bfc1-251af35f21ec"
+    },
+    {
+      "slug": "swiss-bar-bench-press",
+      "old_id": "c9d0e1f2-a3b4-4567-c890-d12e34f56789",
+      "new_id": "899de0c9-c57e-44e2-ba54-a76f03813a85"
+    },
+    {
+      "slug": "three-board-press",
+      "old_id": "e5f6a7b8-c9d0-4123-e456-f78a90b12345",
+      "new_id": "2b7a758c-942d-4e90-a654-aec2f2d7480c"
+    },
+    {
+      "slug": "two-board-press",
+      "old_id": "d4e5f6a7-b8c9-4012-d345-e67f89a01234",
+      "new_id": "d4cab1b7-c4a8-4e85-8890-9c2a9d2026f3"
+    },
+    {
+      "slug": "wall-decline-push-up",
+      "old_id": "c3d4e5f6-a7b8-4901-c234-d56e78f90a15",
+      "new_id": "9cb6587d-1cc0-4cc8-ad26-fec91c9ba70a"
+    },
+    {
+      "slug": "weight-plate-pinch-press",
+      "old_id": "a1b2c3d4-0007-4000-a000-chest0000007",
+      "new_id": "2cea82bb-5503-4626-80b2-eacb948f43a2"
+    },
+    {
+      "slug": "weighted-dips",
+      "old_id": "a1b2c3d4-0020-4000-a000-chest0000020",
+      "new_id": "cf0d5da9-7aad-45fc-ac91-1c99148424c3"
+    },
+    {
+      "slug": "wide-grip-bench-press",
+      "old_id": "e1f2a3b4-c5d6-4789-e012-f34a56b78901",
+      "new_id": "4ac6893f-7e94-4555-945d-3ab2771255be"
+    },
+    {
+      "slug": "wide-grip-decline-barbell-bench-press",
+      "old_id": "f4a5b6c7-d8e9-4012-f345-a67b89c01d36",
+      "new_id": "dc9dfb5d-60b0-4e83-8bb3-819f83008691"
+    },
+    {
+      "slug": "wide-grip-incline-barbell-bench-press",
+      "old_id": "c5d6e7f8-a9b0-4123-c456-d78e90f12a27",
+      "new_id": "a5878a4f-e4a1-42f9-8976-642830ee8458"
+    },
+    {
+      "slug": "ab-wheel-rollout-from-feet",
+      "old_id": "ex-ab-wheel-core-4000-a000-861366241005",
+      "new_id": "fc399b41-d3fe-4e89-b9c3-ebbf10b5e72f"
+    },
+    {
+      "slug": "ab-wheel-rollout-pause",
+      "old_id": "ex-ab-wheel-core-4000-a000-757995173180",
+      "new_id": "37bd1bd4-89ab-4786-998c-2ba474c3636a"
+    },
+    {
+      "slug": "ab-wheel-single-leg-extension",
+      "old_id": "ex-ab-wheel-core-4000-a000-652594101367",
+      "new_id": "4bcee1d7-4a0c-4103-afd1-0d4134448e6a"
+    },
+    {
+      "slug": "back-lever-hold",
+      "old_id": "ex-back-lev-core-4000-a000-076684121584",
+      "new_id": "439d43a4-fb00-420c-9cd2-7cf216fa8e9b"
+    },
+    {
+      "slug": "back-lever-pullouts",
+      "old_id": "ex-back-lev-core-4000-a000-312337592650",
+      "new_id": "952f5f14-d570-4dd1-8d83-c0c77a7cfb7c"
+    },
+    {
+      "slug": "bird-dog-row-bench",
+      "old_id": "ex-bird-dog-core-4000-a000-046843017864",
+      "new_id": "579313d0-832b-46c4-881a-03333368d14c"
+    },
+    {
+      "slug": "bird-dog-stability-ball-dumbbell",
+      "old_id": "ex-bird-dog-core-4000-a000-158074907806",
+      "new_id": "1c493663-016b-4510-a252-6d90dcd26930"
+    },
+    {
+      "slug": "cable-anti-rotation-lift-chop",
+      "old_id": "ex-cable-an-core-4000-a000-870340628003",
+      "new_id": "c9a2a08d-7280-4825-a55a-4cb186243e34"
+    },
+    {
+      "slug": "cable-woodchopper-high-speed",
+      "old_id": "ex-cable-wo-core-4000-a000-975853805607",
+      "new_id": "6c349c91-5164-428c-9d90-f13f8ea2826f"
+    },
+    {
+      "slug": "cable-woodchopper-high-to-low",
+      "old_id": "co000039-0000-4000-a000-000000000039",
+      "new_id": "5070307f-ad71-48f9-8a28-4a4bd0f30e50"
+    },
+    {
+      "slug": "cable-woodchopper-horizontal",
+      "old_id": "co000038-0000-4000-a000-000000000038",
+      "new_id": "0af7662f-284e-453c-997d-b636a75d8b75"
+    },
+    {
+      "slug": "cable-woodchopper-low-to-high",
+      "old_id": "co000040-0000-4000-a000-000000000040",
+      "new_id": "af8b7550-3ebe-477d-9fb7-e102f6aa5265"
+    },
+    {
+      "slug": "captains-chair-knee-raise-isometric",
+      "old_id": "ex-captains-core-4000-a000-880176979896",
+      "new_id": "94117ffa-d7aa-433b-a2bb-d75102786623"
+    },
+    {
+      "slug": "captains-chair-knee-raise",
+      "old_id": "co000032-0000-4000-a000-000000000032",
+      "new_id": "699854ee-f8c8-44f7-9494-9f73d60184c9"
+    },
+    {
+      "slug": "captains-chair-leg-raise",
+      "old_id": "co000033-0000-4000-a000-000000000033",
+      "new_id": "605c519d-3a01-4334-ac45-adc4fa3d149e"
+    },
+    {
+      "slug": "copenhagen-plank-hip-dip",
+      "old_id": "ex-copenhag-core-4000-a000-088925471069",
+      "new_id": "643041ea-2b05-4b5c-9da2-048f1b0b97b8"
+    },
+    {
+      "slug": "dead-bug-band-feet-hands",
+      "old_id": "ex-dead-bug-core-4000-a000-411692364897",
+      "new_id": "21ea9f5d-7543-4b1f-993f-524c5ef7678a"
+    },
+    {
+      "slug": "dead-bug-weighted-plate",
+      "old_id": "ex-dead-bug-core-4000-a000-420451701850",
+      "new_id": "b5d81487-3fe5-44d8-8fc9-8705d91535ea"
+    },
+    {
+      "slug": "decline-sit-up",
+      "old_id": "co000034-0000-4000-a000-000000000034",
+      "new_id": "3d06ccb5-7e4e-41b0-84b1-68968cadaa40"
+    },
+    {
+      "slug": "dragon-flag-leg-lowering",
+      "old_id": "ex-dragon-f-core-4000-a000-704380013987",
+      "new_id": "ee4c6487-02ba-4c68-8455-72e99f49631f"
+    },
+    {
+      "slug": "dumbbell-side-bend",
+      "old_id": "co000043-0000-4000-a000-000000000043",
+      "new_id": "80f2d082-7c5b-465e-b374-70634238356d"
+    },
+    {
+      "slug": "dumbbell-windmill",
+      "old_id": "ex-dumbbell-core-4000-a000-084047934164",
+      "new_id": "9fafffd6-f5ff-4caf-a406-0b882317794e"
+    },
+    {
+      "slug": "front-lever-hold",
+      "old_id": "ex-front-le-core-4000-a000-255789342505",
+      "new_id": "864d89cf-49be-41c2-8f4c-38cef82def0e"
+    },
+    {
+      "slug": "front-lever-raises",
+      "old_id": "ex-front-le-core-4000-a000-657272157304",
+      "new_id": "3fd069ff-50fb-4e2d-8928-a99a5b50b8f5"
+    },
+    {
+      "slug": "full-planche-push-up",
+      "old_id": "ex-full-pla-core-4000-a000-220319686720",
+      "new_id": "4d865e56-7c82-417e-8e0d-51ae0a875191"
+    },
+    {
+      "slug": "hanging-dragon-flag",
+      "old_id": "ex-hanging--core-4000-a000-059995729810",
+      "new_id": "2b283ed0-cdc0-4876-8957-ca16f482c393"
+    },
+    {
+      "slug": "hanging-l-sit-pull-up",
+      "old_id": "ex-hanging--core-4000-a000-866348781722",
+      "new_id": "49ae90ba-2d28-41b9-85da-2160919ce944"
+    },
+    {
+      "slug": "hanging-v-sit",
+      "old_id": "ex-hanging--core-4000-a000-239020584943",
+      "new_id": "9427ecfb-0f6c-4e59-b10e-5cdfe0393463"
+    },
+    {
+      "slug": "hanging-windshield-wiper-bent-pause",
+      "old_id": "ex-hanging--core-4000-a000-638885936553",
+      "new_id": "1dcebfa2-9168-4b21-831b-ab8b8185d4aa"
+    },
+    {
+      "slug": "hanging-windshield-wipers-weighted",
+      "old_id": "ex-hanging--core-4000-a000-437790646965",
+      "new_id": "7cc7ec4f-1b18-4036-9b74-438f281a82fc"
+    },
+    {
+      "slug": "high-cable-crunch",
+      "old_id": "co000030-0000-4000-a000-000000000030",
+      "new_id": "e8fa86d5-82d9-4b7c-be3d-76b51dd1d9f1"
+    },
+    {
+      "slug": "high-plank",
+      "old_id": "co000048-0000-4000-a000-000000000048",
+      "new_id": "574f6d76-5d55-4adf-a1d7-326630b8673f"
+    },
+    {
+      "slug": "hollow-body-rock-weighted",
+      "old_id": "ex-hollow-b-core-4000-a000-695425422824",
+      "new_id": "806b7e99-669c-431c-a993-0b5660e10c80"
+    },
+    {
+      "slug": "human-flag-pull-ups",
+      "old_id": "ex-human-fl-core-4000-a000-768756693948",
+      "new_id": "7b5b7f82-1263-4dc9-99e8-0f6f401debeb"
+    },
+    {
+      "slug": "human-flag",
+      "old_id": "ex-human-fl-core-4000-a000-101209558006",
+      "new_id": "be7d4a0a-6664-4b77-834d-8a3a8dbbd48f"
+    },
+    {
+      "slug": "iron-cross-hold",
+      "old_id": "ex-iron-cro-core-4000-a000-522852782744",
+      "new_id": "472447e1-31ec-433f-baeb-d7852e43e98c"
+    },
+    {
+      "slug": "jackknife-sit-up",
+      "old_id": "co000042-0000-4000-a000-000000000042",
+      "new_id": "6b8d93cc-4255-4b0d-b70d-4062566c50b0"
+    },
+    {
+      "slug": "kettlebell-windmill",
+      "old_id": "ex-kettlebe-core-4000-a000-253368639000",
+      "new_id": "c275f112-3c63-4529-a7a2-53946bf88833"
+    },
+    {
+      "slug": "kneeling-ab-rollout",
+      "old_id": "co000037-0000-4000-a000-000000000037",
+      "new_id": "58770112-7fb6-47d3-ac69-4bdedea6e4ab"
+    },
+    {
+      "slug": "kneeling-cable-crunch-twist",
+      "old_id": "ex-kneeling-core-4000-a000-614498671418",
+      "new_id": "d4e3dad8-c163-4800-a3e2-dda5def54a9a"
+    },
+    {
+      "slug": "l-sit-parallel-bars-press-up",
+      "old_id": "ex-l-sit-pa-core-4000-a000-606420830331",
+      "new_id": "2aa848f8-96ec-4861-9cf0-a808943efb15"
+    },
+    {
+      "slug": "landmine-rainbow",
+      "old_id": "ex-landmine-core-4000-a000-331454981263",
+      "new_id": "aa9fcdb0-7de7-4873-bbf9-e52ace2163e9"
+    },
+    {
+      "slug": "landmine-rotation",
+      "old_id": "co000041-0000-4000-a000-000000000041",
+      "new_id": "840ca0f3-6781-4661-bf36-285d8111420c"
+    },
+    {
+      "slug": "machine-ab-crunch",
+      "old_id": "co000031-0000-4000-a000-000000000031",
+      "new_id": "51940afd-adf6-4d22-8c10-643d5bf54d4a"
+    },
+    {
+      "slug": "maltese-press",
+      "old_id": "ex-maltese--core-4000-a000-593418317431",
+      "new_id": "57c33495-11be-4c7f-8187-a8f126073653"
+    },
+    {
+      "slug": "medicine-ball-wall-ball-shot",
+      "old_id": "ex-medicine-core-4000-a000-861978265571",
+      "new_id": "d53e9631-16e1-45f2-bf1c-74760de06ee6"
+    },
+    {
+      "slug": "overhead-barbell-carry",
+      "old_id": "ex-overhead-core-4000-a000-349889157152",
+      "new_id": "e121cb6c-8be8-46fa-92fc-1a8f72627792"
+    },
+    {
+      "slug": "overhead-kettlebell-carry",
+      "old_id": "co000045-0000-4000-a000-000000000045",
+      "new_id": "ab18c888-e6b1-4970-a290-b70e4ebd526e"
+    },
+    {
+      "slug": "pallof-press-overhead",
+      "old_id": "co000044-0000-4000-a000-000000000044",
+      "new_id": "6625a397-4b5a-4ea1-8fc8-2d0c27332837"
+    },
+    {
+      "slug": "pallof-press-rotation-step",
+      "old_id": "ex-pallof-p-core-4000-a000-022722098017",
+      "new_id": "b836a458-4c5d-4edc-aac1-c15cb021234f"
+    },
+    {
+      "slug": "planche-hold",
+      "old_id": "ex-planche--core-4000-a000-836047569798",
+      "new_id": "b59816ba-d683-4a11-9a87-b57116694446"
+    },
+    {
+      "slug": "planche-lean-parallettes",
+      "old_id": "ex-planche--core-4000-a000-423081374558",
+      "new_id": "2e4c16b0-bde8-4c50-855d-5645d2e59db1"
+    },
+    {
+      "slug": "reverse-crunch-incline",
+      "old_id": "co000046-0000-4000-a000-000000000046",
+      "new_id": "4b150e7b-44ca-40e0-91a2-f9713e41b9a0"
+    },
+    {
+      "slug": "ring-knees-to-elbows",
+      "old_id": "ex-ring-kne-core-4000-a000-384648055058",
+      "new_id": "a6e13f2c-bc0e-4816-9cee-cd3bb908de70"
+    },
+    {
+      "slug": "ring-muscle-up-false-grip",
+      "old_id": "ex-ring-mus-core-4000-a000-362077125530",
+      "new_id": "e7b0f381-92aa-430f-a480-442b1514d2d8"
+    },
+    {
+      "slug": "side-plank-leg-raise",
+      "old_id": "ex-side-pla-core-4000-a000-157036931893",
+      "new_id": "0d9c1438-087b-4b61-9e1a-e6f66564d158"
+    },
+    {
+      "slug": "side-plank-top-leg-pulse",
+      "old_id": "ex-side-pla-core-4000-a000-680353792542",
+      "new_id": "11dd5933-7b0a-474d-ad07-244b2d21548c"
+    },
+    {
+      "slug": "single-arm-front-lever-negative",
+      "old_id": "ex-single-a-core-4000-a000-310923573577",
+      "new_id": "4e01b35d-9013-40fd-9156-d2d72191b1d6"
+    },
+    {
+      "slug": "single-arm-plank",
+      "old_id": "co000047-0000-4000-a000-000000000047",
+      "new_id": "96b3449a-44d1-4275-a40d-0d2d38b979c3"
+    },
+    {
+      "slug": "single-leg-cable-pallof-press",
+      "old_id": "ex-single-l-core-4000-a000-006514370034",
+      "new_id": "8a021eb0-a4c6-466c-9247-9c8f77e50852"
+    },
+    {
+      "slug": "standing-ab-rollout",
+      "old_id": "co000036-0000-4000-a000-000000000036",
+      "new_id": "ff85a404-ff50-4b6a-afb1-98f1d4f4a3b4"
+    },
+    {
+      "slug": "suitcase-deadlift-isometric",
+      "old_id": "ex-suitcase-core-4000-a000-341383237522",
+      "new_id": "404b1295-7607-4e65-9a70-9e4274f33f84"
+    },
+    {
+      "slug": "turkish-get-up-pause",
+      "old_id": "ex-turkish--core-4000-a000-622053418140",
+      "new_id": "29d1d5ca-d4f8-4f01-8e5e-4c0e45eaf843"
+    },
+    {
+      "slug": "typewriter-pull-up-core",
+      "old_id": "ex-typewrit-core-4000-a000-896093962218",
+      "new_id": "b018cd64-2b9c-4042-86ac-166333a4ab45"
+    },
+    {
+      "slug": "victorian-cross-hold",
+      "old_id": "ex-victoria-core-4000-a000-949321437575",
+      "new_id": "f3ed3521-eaf6-42a3-a83f-70d84e656f11"
+    },
+    {
+      "slug": "weighted-decline-sit-up",
+      "old_id": "co000035-0000-4000-a000-000000000035",
+      "new_id": "57c78d76-3df2-4135-8d6d-000e5aa772ec"
+    },
+    {
+      "slug": "weighted-side-plank-hip-lift",
+      "old_id": "ex-weighted-core-4000-a000-058393363548",
+      "new_id": "54c5998d-fad7-48df-bdf0-dd5f537ccbb4"
+    },
+    {
+      "slug": "windshield-wipers-rings",
+      "old_id": "ex-windshie-core-4000-a000-032504533181",
+      "new_id": "e28711fb-183f-44c8-b15b-89df11f0e50e"
+    },
+    {
+      "slug": "battle-ropes",
+      "old_id": "a1b2c3d4-h005-4000-a000-000000000405",
+      "new_id": "0ec5a532-6053-4d1d-8d89-d9c8a6691eeb"
+    },
+    {
+      "slug": "bear-crawl",
+      "old_id": "a1b2c3d4-h010-4000-a000-000000000410",
+      "new_id": "f919c073-f28e-4668-985e-e00cc2fad7a4"
+    },
+    {
+      "slug": "cambered-bar-squat-deep",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50005",
+      "new_id": "77d9735b-a98f-4332-8bc9-9e3b42e7e94a"
+    },
+    {
+      "slug": "crawling-pattern",
+      "old_id": "a1b2c3d4-h011-4000-a000-000000000411",
+      "new_id": "9806b765-ef4a-4b60-a3d8-b882086bce59"
+    },
+    {
+      "slug": "earthquake-bar-bench-press",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50004",
+      "new_id": "d9f63f41-a960-4735-b5f4-37ab58aa2faa"
+    },
+    {
+      "slug": "fat-bar-bent-over-row",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50017",
+      "new_id": "237e7a34-4463-450e-8f37-40d446995bf6"
+    },
+    {
+      "slug": "high-cable-triceps-extension-kneeling-drop",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50011",
+      "new_id": "296ebdd7-6b73-48e6-a035-ce150ef75924"
+    },
+    {
+      "slug": "inchworm",
+      "old_id": "a1b2c3d4-h012-4000-a000-000000000412",
+      "new_id": "afee3463-c8b5-4850-b0b9-880ef48c8ed1"
+    },
+    {
+      "slug": "incline-bench-cable-flye-drop-set",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50015",
+      "new_id": "7acfc91c-3a5b-417c-9bea-a5a67f046791"
+    },
+    {
+      "slug": "jefferson-deadlift-alternating-grips",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50002",
+      "new_id": "4ecd3e3c-73d6-48f0-9341-d0f7d07209ca"
+    },
+    {
+      "slug": "kettlebell-clean",
+      "old_id": "a1b2c3d4-h002-4000-a000-000000000402",
+      "new_id": "7c227780-e245-417a-af1a-ab7dbe389b8c"
+    },
+    {
+      "slug": "kettlebell-press",
+      "old_id": "a1b2c3d4-h004-4000-a000-000000000404",
+      "new_id": "3fa858cb-2552-4f5b-9f4e-1bdcfa1bb415"
+    },
+    {
+      "slug": "kettlebell-snatch",
+      "old_id": "a1b2c3d4-h003-4000-a000-000000000403",
+      "new_id": "b9b8eee4-e07a-4aa6-8c46-dd5375381b77"
+    },
+    {
+      "slug": "landmine-180-rainbow",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50001",
+      "new_id": "726fa8e6-9406-4e4c-9c43-fb48565b66e9"
+    },
+    {
+      "slug": "low-cable-rear-delt-flye-crossed",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50013",
+      "new_id": "dece5336-79ed-4484-bc89-6e591c7e4755"
+    },
+    {
+      "slug": "lying-cable-chest-press",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50009",
+      "new_id": "a79456b7-17d8-4c94-a001-193df7c8a318"
+    },
+    {
+      "slug": "lying-floor-cable-hamstring-curl",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50010",
+      "new_id": "8ef328f8-85e6-4f85-8681-4624c724c30c"
+    },
+    {
+      "slug": "man-maker",
+      "old_id": "a1b2c3d4-h013-4000-a000-000000000413",
+      "new_id": "698c4dca-1c91-4317-9776-8e5b2209467c"
+    },
+    {
+      "slug": "seated-cable-lat-pulldown-facing-away",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50008",
+      "new_id": "4b145845-701c-4340-b0bc-eb0a1bbf499f"
+    },
+    {
+      "slug": "seated-machine-crunch-oblique",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50014",
+      "new_id": "0b47b7bb-955b-43ea-af43-27f1c11a3dbf"
+    },
+    {
+      "slug": "single-arm-cable-biceps-curl-supine",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50016",
+      "new_id": "b26ed8ab-af56-4e1e-a177-a7395b92fe87"
+    },
+    {
+      "slug": "single-arm-cable-high-row-dual-crossover",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50018",
+      "new_id": "25d957a8-51c7-40aa-b700-b3a9c9c7825b"
+    },
+    {
+      "slug": "sled-pull",
+      "old_id": "a1b2c3d4-h007-4000-a000-000000000407",
+      "new_id": "7ac37a12-dce2-49ca-a18c-911700f62b92"
+    },
+    {
+      "slug": "sled-push",
+      "old_id": "a1b2c3d4-h006-4000-a000-000000000406",
+      "new_id": "c32ef98c-aa53-4479-bec8-9ac87e3fd2f9"
+    },
+    {
+      "slug": "ssb-good-morning-pause-pins",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50007",
+      "new_id": "bc5c138c-5ab6-4ab4-b0db-4e973c3c286b"
+    },
+    {
+      "slug": "standing-cable-hip-abduction-lean",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50012",
+      "new_id": "dfeee757-1450-405d-a580-53e0af0289d5"
+    },
+    {
+      "slug": "trap-bar-deadlift-band-torso",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50006",
+      "new_id": "d628908d-3427-48a5-8ae3-198460e6d822"
+    },
+    {
+      "slug": "turkish-get-up",
+      "old_id": "a1b2c3d4-h001-4000-a000-000000000401",
+      "new_id": "b59fa829-dda0-4794-81b8-1d9044e3247a"
+    },
+    {
+      "slug": "wall-ball",
+      "old_id": "a1b2c3d4-h009-4000-a000-000000000409",
+      "new_id": "a6a85dba-d93c-4819-bbe7-2d9aceb6254b"
+    },
+    {
+      "slug": "zercher-deadlift-floor",
+      "old_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50003",
+      "new_id": "784eadf1-921f-4513-8e09-e42776b01f27"
+    },
+    {
+      "slug": "banded-squat-walk",
+      "old_id": "a1b2c3d4-0040-4000-a000-glut00000008",
+      "new_id": "bb9c7295-afc1-41b3-a32e-63f0e4bec4c7"
+    },
+    {
+      "slug": "barbell-glute-bridge",
+      "old_id": "a1b2c3d4-0033-4000-a000-glut00000001",
+      "new_id": "adbbec0c-398f-4e0a-8b7b-a327c5988841"
+    },
+    {
+      "slug": "cable-kickback",
+      "old_id": "a1b2c3d4-0035-4000-a000-glut00000003",
+      "new_id": "607466b7-7a97-4e5e-90d0-61cc13187226"
+    },
+    {
+      "slug": "clamshell",
+      "old_id": "a1b2c3d4-0038-4000-a000-glut00000006",
+      "new_id": "ec4bf7e5-8085-4024-9c9d-e4293a8d3620"
+    },
+    {
+      "slug": "donkey-kick",
+      "old_id": "a1b2c3d4-0036-4000-a000-glut00000004",
+      "new_id": "d37dd3f9-1072-4a77-b180-99f3408eb2d3"
+    },
+    {
+      "slug": "fire-hydrant",
+      "old_id": "a1b2c3d4-0037-4000-a000-glut00000005",
+      "new_id": "948afa65-0be2-4ded-93ec-84312d629b92"
+    },
+    {
+      "slug": "frog-pump",
+      "old_id": "a1b2c3d4-0045-4000-a000-glut00000013",
+      "new_id": "6882a2d6-80b4-4eff-bedb-86d67f6daef3"
+    },
+    {
+      "slug": "hip-abduction-machine",
+      "old_id": "a1b2c3d4-0042-4000-a000-glut00000010",
+      "new_id": "5dcb5d91-3c3d-4d31-a4a8-362f966241bc"
+    },
+    {
+      "slug": "hip-adduction-machine",
+      "old_id": "a1b2c3d4-0043-4000-a000-glut00000011",
+      "new_id": "d4147d85-968b-4e30-a6b0-05e5eb8357fc"
+    },
+    {
+      "slug": "reverse-hyperextension",
+      "old_id": "a1b2c3d4-0041-4000-a000-glut00000009",
+      "new_id": "f85808fd-8349-4a1c-b41d-a5e8438ea72e"
+    },
+    {
+      "slug": "side-lying-abduction",
+      "old_id": "a1b2c3d4-0039-4000-a000-glut00000007",
+      "new_id": "f61ff9da-8d4d-44fd-9df4-f909b52f6d1b"
+    },
+    {
+      "slug": "single-leg-hip-thrust",
+      "old_id": "a1b2c3d4-0034-4000-a000-glut00000002",
+      "new_id": "e5f3401b-9d85-4b6b-b7ff-d9b1fafff415"
+    },
+    {
+      "slug": "sumo-deadlift-high-pull",
+      "old_id": "a1b2c3d4-0044-4000-a000-glut00000012",
+      "new_id": "f72940ad-c2fe-4fb3-a780-6d2d962d15fe"
+    },
+    {
+      "slug": "box-squat",
+      "old_id": "a1b2c3d4-0005-4000-a000-legs00000005",
+      "new_id": "ff0e2f42-7fc1-43bf-b546-dfc2e2a2f2a8"
+    },
+    {
+      "slug": "curtsy-lunge",
+      "old_id": "a1b2c3d4-0014-4000-a000-legs00000014",
+      "new_id": "68e6617b-fb91-4ebe-b00e-7d03c031c99a"
+    },
+    {
+      "slug": "donkey-calf-raise",
+      "old_id": "a1b2c3d4-0030-4000-a000-legs00000030",
+      "new_id": "4bf17179-2ed8-41d9-beca-3b78460dac4d"
+    },
+    {
+      "slug": "front-squat",
+      "old_id": "a1b2c3d4-0001-4000-a000-legs00000001",
+      "new_id": "f73f317f-d158-4d67-93d6-3fed681ebb79"
+    },
+    {
+      "slug": "goblet-squat-pause",
+      "old_id": "a1b2c3d4-0027-4000-a000-legs00000027",
+      "new_id": "2327c10c-071b-475a-a51d-87579eb9be65"
+    },
+    {
+      "slug": "good-morning",
+      "old_id": "a1b2c3d4-0016-4000-a000-legs00000016",
+      "new_id": "76a942dd-4504-4c4d-af1e-a2975e032f8f"
+    },
+    {
+      "slug": "jump-lunge",
+      "old_id": "a1b2c3d4-0015-4000-a000-legs00000015",
+      "new_id": "a366fb64-866f-4373-83e6-ffc0be93d61e"
+    },
+    {
+      "slug": "kettlebell-swing",
+      "old_id": "a1b2c3d4-0024-4000-a000-legs00000024",
+      "new_id": "89123ed3-ceb2-4496-8a61-ae269bc3cfd4"
+    },
+    {
+      "slug": "kneeling-leg-curl",
+      "old_id": "a1b2c3d4-0022-4000-a000-legs00000022",
+      "new_id": "00358f21-5208-433c-af0b-7759f1ca0162"
+    },
+    {
+      "slug": "landmine-squat",
+      "old_id": "a1b2c3d4-0007-4000-a000-legs00000007",
+      "new_id": "52f8c061-3ad4-41b1-a8b7-0ff43819ae53"
+    },
+    {
+      "slug": "lateral-lunge",
+      "old_id": "a1b2c3d4-0013-4000-a000-legs00000013",
+      "new_id": "d90c6bd0-ccd2-44e5-bc2b-bbcd2dea7628"
+    },
+    {
+      "slug": "lying-leg-curl",
+      "old_id": "a1b2c3d4-0020-4000-a000-legs00000020",
+      "new_id": "9e5e2207-756f-4a9d-8fc4-9d8911f851a0"
+    },
+    {
+      "slug": "pause-squat",
+      "old_id": "a1b2c3d4-0004-4000-a000-legs00000004",
+      "new_id": "d7152f66-bf5d-41ee-8cb6-b495ca128ccc"
+    },
+    {
+      "slug": "reverse-lunge",
+      "old_id": "a1b2c3d4-0012-4000-a000-legs00000012",
+      "new_id": "9c28f64e-7d09-491d-835e-ad535c7d6e48"
+    },
+    {
+      "slug": "reverse-nordics",
+      "old_id": "a1b2c3d4-0029-4000-a000-legs00000029",
+      "new_id": "7091ce5d-2256-4dbe-abb5-d10dc7138581"
+    },
+    {
+      "slug": "safety-bar-squat",
+      "old_id": "a1b2c3d4-0006-4000-a000-legs00000006",
+      "new_id": "85b27acb-3a14-4ea2-ac4f-a4537ab95362"
+    },
+    {
+      "slug": "seated-leg-curl",
+      "old_id": "a1b2c3d4-0021-4000-a000-legs00000021",
+      "new_id": "86e5d585-f1b8-4ba8-b7e5-d32820de8e0c"
+    },
+    {
+      "slug": "single-leg-calf-raise",
+      "old_id": "a1b2c3d4-0031-4000-a000-legs00000031",
+      "new_id": "72bb2eca-2c7a-4beb-b0c6-531aaaf8522b"
+    },
+    {
+      "slug": "single-leg-romanian-deadlift",
+      "old_id": "a1b2c3d4-0018-4000-a000-legs00000018",
+      "new_id": "db6f7e70-2bc8-42a7-8dfd-a80a2e51832b"
+    },
+    {
+      "slug": "single-leg-squat",
+      "old_id": "a1b2c3d4-0008-4000-a000-legs00000008",
+      "new_id": "86b40061-6057-4f86-8a27-de39e53be173"
+    },
+    {
+      "slug": "sissy-squat",
+      "old_id": "a1b2c3d4-0009-4000-a000-legs00000009",
+      "new_id": "db91d569-89a4-4d09-9871-5bb4967d25bf"
+    },
+    {
+      "slug": "split-squat",
+      "old_id": "a1b2c3d4-0028-4000-a000-legs00000028",
+      "new_id": "68e5945a-5577-4013-89ad-e6823bba7754"
+    },
+    {
+      "slug": "step-up",
+      "old_id": "a1b2c3d4-0011-4000-a000-legs00000011",
+      "new_id": "b2fc5ad5-84fa-43ff-837e-0b6179ccd631"
+    },
+    {
+      "slug": "stiff-leg-deadlift",
+      "old_id": "a1b2c3d4-0017-4000-a000-legs00000017",
+      "new_id": "86e75624-428b-422d-b39b-c702878cab8b"
+    },
+    {
+      "slug": "sumo-squat",
+      "old_id": "a1b2c3d4-0026-4000-a000-legs00000026",
+      "new_id": "10e1aa6a-ed8f-4be2-802c-2318a114b782"
+    },
+    {
+      "slug": "tibialis-raise",
+      "old_id": "a1b2c3d4-0032-4000-a000-legs00000032",
+      "new_id": "5497ffb9-aab8-4a14-911e-4214b3f67c05"
+    },
+    {
+      "slug": "trap-bar-deadlift",
+      "old_id": "a1b2c3d4-0025-4000-a000-legs00000025",
+      "new_id": "54813fed-3363-41e8-882e-20bbd7b9c303"
+    },
+    {
+      "slug": "wall-sit",
+      "old_id": "a1b2c3d4-0010-4000-a000-legs00000010",
+      "new_id": "9aaff381-fc66-498d-aee8-06553fbfbeea"
+    },
+    {
+      "slug": "zercher-squat",
+      "old_id": "a1b2c3d4-0003-4000-a000-legs00000003",
+      "new_id": "580f75b5-11be-47cd-a090-0f4c3a1ba72a"
+    },
+    {
+      "slug": "neck-curl",
+      "old_id": "nk010001-f3a2-4c1e-9b8d-7e6f5a4c3d01",
+      "new_id": "9899e55a-145e-4137-a4eb-f0c2db48a649"
+    },
+    {
+      "slug": "neck-extension-prone",
+      "old_id": "nk010002-f3a2-4c1e-9b8d-7e6f5a4c3d02",
+      "new_id": "9734cc7e-207f-448b-b289-5b15c82ad462"
+    },
+    {
+      "slug": "neck-harness-extension",
+      "old_id": "nk010003-f3a2-4c1e-9b8d-7e6f5a4c3d03",
+      "new_id": "ce26d905-3355-45f5-bd08-94e1f4f76cde"
+    },
+    {
+      "slug": "prone-neck-bridge",
+      "old_id": "nk010004-f3a2-4c1e-9b8d-7e6f5a4c3d04",
+      "new_id": "23e6e956-1118-4959-a4c8-f81d2b932339"
+    },
+    {
+      "slug": "supine-neck-bridge",
+      "old_id": "nk010005-f3a2-4c1e-9b8d-7e6f5a4c3d05",
+      "new_id": "611252cb-547f-4863-80bb-ac96774e1b7d"
+    },
+    {
+      "slug": "alternate-leg-bound",
+      "old_id": "a1b2c3d4-g007-4000-a000-000000000307",
+      "new_id": "93ed0bef-2ead-44f5-809b-fcd1b92b0e2c"
+    },
+    {
+      "slug": "box-jump",
+      "old_id": "a1b2c3d4-g001-4000-a000-000000000301",
+      "new_id": "bbfa357d-aba0-41c8-854e-9bbdd4755b99"
+    },
+    {
+      "slug": "broad-jump",
+      "old_id": "a1b2c3d4-g003-4000-a000-000000000303",
+      "new_id": "5702e329-0f40-4998-b417-b0c73b8525d3"
+    },
+    {
+      "slug": "burpee-box-jump",
+      "old_id": "a1b2c3d4-g015-4000-a000-000000000315",
+      "new_id": "92dbea02-6c32-485d-b333-1493d46b652d"
+    },
+    {
+      "slug": "burpee",
+      "old_id": "a1b2c3d4-g014-4000-a000-000000000314",
+      "new_id": "9e575b40-6fc4-4bd6-bf63-8b2d9ba5f3ee"
+    },
+    {
+      "slug": "depth-jump",
+      "old_id": "a1b2c3d4-g002-4000-a000-000000000302",
+      "new_id": "8c5aadb6-d0c0-488d-9e8a-502d46281dc6"
+    },
+    {
+      "slug": "double-under",
+      "old_id": "a1b2c3d4-g017-4000-a000-000000000317",
+      "new_id": "aad8b1e9-cafa-42d1-8de1-405f0694821a"
+    },
+    {
+      "slug": "jump-lunge-plyometric",
+      "old_id": "a1b2c3d4-g013-4000-a000-000000000313",
+      "new_id": "f16ab3aa-36dd-4d8a-a0b1-224f8c37cc9f"
+    },
+    {
+      "slug": "jump-rope",
+      "old_id": "a1b2c3d4-g016-4000-a000-000000000316",
+      "new_id": "a800cd21-0e2e-4c24-9df5-178962445eba"
+    },
+    {
+      "slug": "lateral-bound",
+      "old_id": "a1b2c3d4-g005-4000-a000-000000000305",
+      "new_id": "859924e4-f69e-41cf-9d1b-ae3d550652ca"
+    },
+    {
+      "slug": "medicine-ball-chest-pass",
+      "old_id": "a1b2c3d4-g012-4000-a000-000000000312",
+      "new_id": "04c29def-b1e5-4cd8-ae0e-fb4f8fa4fea0"
+    },
+    {
+      "slug": "medicine-ball-slam",
+      "old_id": "a1b2c3d4-g011-4000-a000-000000000311",
+      "new_id": "ca5520bc-9b69-41a4-b12c-9cb3e82f6e10"
+    },
+    {
+      "slug": "plyometric-push-up",
+      "old_id": "a1b2c3d4-g010-4000-a000-000000000310",
+      "new_id": "a0016c22-202a-4457-87e8-c34f462863d7"
+    },
+    {
+      "slug": "single-leg-hop",
+      "old_id": "a1b2c3d4-g006-4000-a000-000000000306",
+      "new_id": "4b6149c7-0783-408d-bf9d-c28305b755cb"
+    },
+    {
+      "slug": "split-jump",
+      "old_id": "a1b2c3d4-g009-4000-a000-000000000309",
+      "new_id": "65575c04-86cf-4370-8843-5b347571df93"
+    },
+    {
+      "slug": "squat-jump",
+      "old_id": "a1b2c3d4-g008-4000-a000-000000000308",
+      "new_id": "e752b644-e003-429b-aadc-4f76fa160449"
+    },
+    {
+      "slug": "tuck-jump",
+      "old_id": "a1b2c3d4-g004-4000-a000-000000000304",
+      "new_id": "5d4aea20-1391-4005-a0f0-e92a403bca7c"
+    },
+    {
+      "slug": "copenhagen-adduction",
+      "old_id": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8e",
+      "new_id": "46552923-bd05-4e7d-aad2-f40d9eb7c217"
+    },
+    {
+      "slug": "dead-bug-rehab",
+      "old_id": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
+      "new_id": "ecc902db-cfbc-4098-a810-16f20ef0f92b"
+    },
+    {
+      "slug": "face-pull-rehab",
+      "old_id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "new_id": "af748922-d587-48aa-b6e1-8c0023157ed2"
+    },
+    {
+      "slug": "glute-med-strengthening",
+      "old_id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+      "new_id": "3477772c-7c1f-4c50-9be1-33f37cc01dbc"
+    },
+    {
+      "slug": "nordic-hamstring-eccentric",
+      "old_id": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
+      "new_id": "bdd10b43-fb46-42c4-b56a-ffa4d72dba6c"
+    },
+    {
+      "slug": "pallof-press-rehab",
+      "old_id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "new_id": "8452c2af-bc08-4795-96a0-9184a909a9ba"
+    },
+    {
+      "slug": "prone-y-t-w",
+      "old_id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "new_id": "ab58d30d-1722-41e0-9cc4-2d6dc1431b56"
+    },
+    {
+      "slug": "scapular-pushup",
+      "old_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "new_id": "a9dfea8c-47bd-4b8a-b4a9-46ff5e1450c7"
+    },
+    {
+      "slug": "single-leg-balance",
+      "old_id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "new_id": "82a784dc-cd7d-46a5-b0f9-eb9c02af935c"
+    },
+    {
+      "slug": "terminal-knee-extension",
+      "old_id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "new_id": "6c60c3c6-07a8-4605-962b-5f1cdd95b08d"
+    },
+    {
+      "slug": "wall-angel",
+      "old_id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "new_id": "5ad87319-8ba1-4a99-a173-9fefc7e0a2d8"
+    },
+    {
+      "slug": "alternating-dumbbell-shoulder-press",
+      "old_id": "sh010035-f3a2-4c1e-9b8d-7e6f5a4c3c16",
+      "new_id": "32e933e1-b314-4196-ad16-aa076868e35c"
+    },
+    {
+      "slug": "band-face-pull-external-rotation-lockout",
+      "old_id": "d5e6f7a8-c901-4def-0123-456789012cde",
+      "new_id": "87c3f457-dcf6-48ac-906c-97988bb1e2e2"
+    },
+    {
+      "slug": "band-pull-apart-underhand",
+      "old_id": "sh010032-f3a2-4c1e-9b8d-7e6f5a4c3c13",
+      "new_id": "2c4597e1-049d-42c8-9139-870a0bac4d2b"
+    },
+    {
+      "slug": "band-pull-apart",
+      "old_id": "f4a5b6c7-d8e9-4f0a-1b2c-d3e4f5a6b424",
+      "new_id": "6771fda0-2818-45af-b8b5-b78f872dfa58"
+    },
+    {
+      "slug": "barbell-front-raise",
+      "old_id": "sh010026-f3a2-4c1e-9b8d-7e6f5a4c3c07",
+      "new_id": "923a8788-08b1-4675-ad34-4e9887084006"
+    },
+    {
+      "slug": "behind-the-neck-press",
+      "old_id": "a9b0c1d2-e3f4-4a5b-6c7d-e8f9a0b1c419",
+      "new_id": "c8f3fb83-301b-4f1b-ab46-0c193148c0ad"
+    },
+    {
+      "slug": "cable-front-raise",
+      "old_id": "d6e7f8a9-b0c1-4d2e-3f4a-b5c6d7e8f416",
+      "new_id": "301d81f7-a3f4-4e8e-a9d1-a20829f38816"
+    },
+    {
+      "slug": "cable-rear-delt-fly",
+      "old_id": "e7f8a9b0-c1d2-4e3f-4a5b-c6d7e8f9a417",
+      "new_id": "0a7eb213-e208-4584-ba86-6a2681ea2491"
+    },
+    {
+      "slug": "cross-cable-rear-delt-row",
+      "old_id": "c4d5e6f7-b890-4cde-f012-345678901bcd",
+      "new_id": "b3ca60ba-48d2-49b0-a2ae-bf0e4e770ad0"
+    },
+    {
+      "slug": "cuban-press",
+      "old_id": "sh010029-f3a2-4c1e-9b8d-7e6f5a4c3c10",
+      "new_id": "18c48d9a-4b6c-4d8a-bfd3-b82b319130fb"
+    },
+    {
+      "slug": "dual-kettlebell-press",
+      "old_id": "sh010034-f3a2-4c1e-9b8d-7e6f5a4c3c15",
+      "new_id": "5d41cfac-3735-4c84-87ee-335bd1f48cc2"
+    },
+    {
+      "slug": "dumbbell-shrug",
+      "old_id": "f0a1b2c3-d4e5-4f6a-7b8c-d9e0f1a2b430",
+      "new_id": "8fa3d32c-7d69-4db6-aa52-0157c529ddd3"
+    },
+    {
+      "slug": "external-rotation-cable",
+      "old_id": "sh010030-f3a2-4c1e-9b8d-7e6f5a4c3c11",
+      "new_id": "2f6994c9-03e2-4a89-bf37-41f428c1096a"
+    },
+    {
+      "slug": "external-rotation-lying",
+      "old_id": "sh010039-f3a2-4c1e-9b8d-7e6f5a4c3c20",
+      "new_id": "6ffe5548-9c66-4687-b7fb-51dec0a43787"
+    },
+    {
+      "slug": "face-pull-with-external-rotation",
+      "old_id": "a5b6c7d8-e9f0-4a1b-2c3d-e4f5a6b7c425",
+      "new_id": "a3952c17-bc5a-44b2-a16a-bf3b2bae909c"
+    },
+    {
+      "slug": "high-cable-rear-delt-fly",
+      "old_id": "sh010036-f3a2-4c1e-9b8d-7e6f5a4c3c17",
+      "new_id": "22f6ea73-bff1-4791-9b7f-ca62d07521ee"
+    },
+    {
+      "slug": "incline-dumbbell-front-raise",
+      "old_id": "sh010038-f3a2-4c1e-9b8d-7e6f5a4c3c19",
+      "new_id": "471eee8a-d715-479a-8e60-c53e20f3ca5d"
+    },
+    {
+      "slug": "internal-rotation-cable",
+      "old_id": "sh010031-f3a2-4c1e-9b8d-7e6f5a4c3c12",
+      "new_id": "7cd9a31c-4188-4757-835d-642b0dd626fc"
+    },
+    {
+      "slug": "kettlebell-bottoms-up-carry",
+      "old_id": "d1e2f3a4-2567-4345-6789-012345678234",
+      "new_id": "5543600a-d294-4edf-a61c-3d995ff37e7f"
+    },
+    {
+      "slug": "kettlebell-bottoms-up-press",
+      "old_id": "sh010021-f3a2-4c1e-9b8d-7e6f5a4c3c02",
+      "new_id": "1fc393b3-31c4-4109-8fc5-821bf3606487"
+    },
+    {
+      "slug": "landmine-press",
+      "old_id": "b6c7d8e9-f0a1-4b2c-3d4e-f5a6b7c8d426",
+      "new_id": "3c53dd97-9989-4194-87f3-a07878df0982"
+    },
+    {
+      "slug": "leaning-lateral-raise",
+      "old_id": "sh010024-f3a2-4c1e-9b8d-7e6f5a4c3c05",
+      "new_id": "b0928902-6d43-4eaf-9294-9a05cf9886ae"
+    },
+    {
+      "slug": "low-to-high-cable-lateral-raise",
+      "old_id": "sh010037-f3a2-4c1e-9b8d-7e6f5a4c3c18",
+      "new_id": "72f564d4-5d85-4c1d-9af0-3a0a133da00d"
+    },
+    {
+      "slug": "lu-raises",
+      "old_id": "b0c1d2e3-f4a5-4b6c-7d8e-f9a0b1c2d420",
+      "new_id": "343fc305-0f43-4120-9069-f524dc0924f5"
+    },
+    {
+      "slug": "machine-lateral-raise",
+      "old_id": "sh010025-f3a2-4c1e-9b8d-7e6f5a4c3c06",
+      "new_id": "f6e8c7da-d95f-4f72-a0e4-65a2e23da261"
+    },
+    {
+      "slug": "machine-shoulder-press",
+      "old_id": "f8a9b0c1-d2e3-4f4a-5b6c-d7e8f9a0b418",
+      "new_id": "32925a5b-9458-4cb2-b86d-6d9e82343c5e"
+    },
+    {
+      "slug": "overhead-farmers-walk-bottoms-up-kb",
+      "old_id": "c0d1e2f3-1456-4234-5678-901234567123",
+      "new_id": "9443f912-aa5d-4d68-88b5-2878b2430dac"
+    },
+    {
+      "slug": "plate-front-raise",
+      "old_id": "sh010027-f3a2-4c1e-9b8d-7e6f5a4c3c08",
+      "new_id": "691807c9-f8b4-4a8c-be2b-2881943bd55d"
+    },
+    {
+      "slug": "plate-loaded-viking-press",
+      "old_id": "a8b9c0d1-f234-4012-3456-789012345f01",
+      "new_id": "0447b23b-5916-4405-ad30-1c0e821a9940"
+    },
+    {
+      "slug": "prone-scarecrow-press",
+      "old_id": "b3d4e5f6-a789-4bcd-ef01-234567890abc",
+      "new_id": "94e7ea52-20e5-440a-b4e5-1f7a52bf04ae"
+    },
+    {
+      "slug": "prone-t-raise",
+      "old_id": "e3f4a5b6-c7d8-4e9f-0a1b-c2d3e4f5a423",
+      "new_id": "2c0053c8-46e3-446c-8115-92c98b23dc42"
+    },
+    {
+      "slug": "push-press",
+      "old_id": "c7d8e9f0-a1b2-4c3d-4e5f-a6b7c8d9e427",
+      "new_id": "047d1de0-7249-4504-a7cd-934a6b1278f5"
+    },
+    {
+      "slug": "resistance-band-lateral-raise",
+      "old_id": "sh010033-f3a2-4c1e-9b8d-7e6f5a4c3c14",
+      "new_id": "d940a609-20c0-4653-bad0-358ce0baaa97"
+    },
+    {
+      "slug": "reverse-pec-deck",
+      "old_id": "sh010028-f3a2-4c1e-9b8d-7e6f5a4c3c09",
+      "new_id": "6c12b462-1cab-4ec6-ba52-4842a26e1b05"
+    },
+    {
+      "slug": "seated-lateral-raise",
+      "old_id": "sh010023-f3a2-4c1e-9b8d-7e6f5a4c3c04",
+      "new_id": "84240384-9f7a-4159-94a3-35f92215bf48"
+    },
+    {
+      "slug": "seated-military-press-rack-pins",
+      "old_id": "e2f3a4b5-3678-4456-7890-123456789345",
+      "new_id": "b9dcc330-1361-4d3d-af18-3c40299e1e7f"
+    },
+    {
+      "slug": "single-arm-cable-lateral-raise",
+      "old_id": "e9f0a1b2-c3d4-4e5f-6a7b-c8d9e0f1a429",
+      "new_id": "8d6e481e-212d-46fd-ac61-865b6323d2d1"
+    },
+    {
+      "slug": "single-arm-overhead-farmers-walk-toes",
+      "old_id": "b9c0d1e2-0345-4123-4567-890123456012",
+      "new_id": "ac064950-5c12-4825-9583-71f4e6e14eba"
+    },
+    {
+      "slug": "snatch-grip-behind-neck-push-press",
+      "old_id": "f7a8b9c0-e123-4f01-2345-678901234ef0",
+      "new_id": "e7ec2f23-31f6-477b-b6e0-71a12752e651"
+    },
+    {
+      "slug": "swiss-bar-overhead-press",
+      "old_id": "e6f7a8b9-d012-4ef0-1234-567890123def",
+      "new_id": "d80cfdbe-f81f-4151-adc1-02dfb886b547"
+    },
+    {
+      "slug": "thruster",
+      "old_id": "d8e9f0a1-b2c3-4d4e-5f6a-b7c8d9e0f428",
+      "new_id": "4ccf6807-0fd6-45c3-9119-42ea53393d75"
+    },
+    {
+      "slug": "z-press",
+      "old_id": "sh010020-f3a2-4c1e-9b8d-7e6f5a4c3c01",
+      "new_id": "e68f4ecd-0270-4d51-86c3-8b088fd74269"
+    },
+    {
+      "slug": "90-90-hip-stretch",
+      "old_id": "d9e0f1a2-b3c4-4d5e-6f7a-8b9c0d1e2f3a",
+      "new_id": "8f8a0741-7e3f-469c-baa0-b214861b8f0e"
+    },
+    {
+      "slug": "calf-stretch-wall",
+      "old_id": "f9a0b1c2-d3e4-4f5a-6b7c-8d9e0f1a2b3c",
+      "new_id": "4ee5e136-0c39-460c-9e36-1b23bb9432f2"
+    },
+    {
+      "slug": "cat-cow",
+      "old_id": "f5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7a8b9c",
+      "new_id": "9547ae58-9fec-48b8-aff5-e8649b0aba63"
+    },
+    {
+      "slug": "chest-doorway-stretch",
+      "old_id": "a0b1c2d3-e4f5-4a6b-7c8d-9e0f1a2b3c4d",
+      "new_id": "497a77e0-f000-4219-aac3-71ab5bc7b3b6"
+    },
+    {
+      "slug": "childs-pose",
+      "old_id": "a6b7c8d9-e0f1-4a2b-3c4d-5e6f7a8b9c0d",
+      "new_id": "e1054557-0bbd-4ad0-bfa0-eadbe6ba5139"
+    },
+    {
+      "slug": "couch-stretch",
+      "old_id": "e0f1a2b3-c4d5-4e6f-7a8b-9c0d1e2f3a4b",
+      "new_id": "5389f269-f192-4a4b-b235-24cc6b8f6589"
+    },
+    {
+      "slug": "downward-dog",
+      "old_id": "b7c8d9e0-f1a2-4b3c-4d5e-6f7a8b9c0d1e",
+      "new_id": "dbaafba1-00e5-4ede-bd42-00d414d11d7d"
+    },
+    {
+      "slug": "figure-four-stretch",
+      "old_id": "e8f9a0b1-c2d3-4e4f-5a6b-7c8d9e0f1a2b",
+      "new_id": "5ed8971b-15ef-4a18-a60d-55a6b3bf79b0"
+    },
+    {
+      "slug": "hamstring-stretch",
+      "old_id": "b5c6d7e8-f9a0-4b1c-2d3e-4f5a6b7c8d9e",
+      "new_id": "88caeaca-070b-4554-b258-ecb1e888d7d6"
+    },
+    {
+      "slug": "hip-flexor-stretch",
+      "old_id": "f3a4b5c6-d7e8-4f9a-0b1c-2d3e4f5a6b7c",
+      "new_id": "bdd49c62-f51e-4f3c-b78f-ca52d656d96c"
+    },
+    {
+      "slug": "lat-stretch",
+      "old_id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+      "new_id": "4f8cfea8-a3ae-4d25-8b49-f5093fd2ea50"
+    },
+    {
+      "slug": "pigeon-pose",
+      "old_id": "d7e8f9a0-b1c2-4d3e-4f5a-6b7c8d9e0f1a",
+      "new_id": "319c28a9-69c6-402d-a817-1e132c4fb1b7"
+    },
+    {
+      "slug": "quad-stretch",
+      "old_id": "a4b5c6d7-e8f9-4a0b-1c2d-3e4f5a6b7c8d",
+      "new_id": "107d6440-6f0d-4d36-ab67-ac59b26259ea"
+    },
+    {
+      "slug": "seated-hamstring-stretch",
+      "old_id": "c6d7e8f9-a0b1-4c2d-3e4f-5a6b7c8d9e0f",
+      "new_id": "9dc0383b-967e-4404-bf97-f659f5e94e6a"
+    },
+    {
+      "slug": "thoracic-rotation-stretch",
+      "old_id": "e4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7a8b",
+      "new_id": "3d8f6305-548f-443c-9e16-f5d4a6cd45b2"
+    },
+    {
+      "slug": "world-greatest-stretch",
+      "old_id": "c8d9e0f1-a2b3-4c4d-5e6f-7a8b9c0d1e2f",
+      "new_id": "050e3a53-44f9-4743-9f12-3cff918193aa"
+    },
+    {
+      "slug": "atlas-stone-lift",
+      "old_id": "sm000004-0000-4000-a000-000000000004",
+      "new_id": "9506e135-72f8-44f6-977b-714e419025ee"
+    },
+    {
+      "slug": "atlas-stone-over-bar",
+      "old_id": "ex-atlas-st-smn-4000-a000-729887000361",
+      "new_id": "aaf21401-6c3a-4717-a8c4-68166606bed8"
+    },
+    {
+      "slug": "axle-bar-deadlift",
+      "old_id": "sm000006-0000-4000-a000-000000000006",
+      "new_id": "3fb89fc9-da3d-4e4c-997f-659ce1de7d9f"
+    },
+    {
+      "slug": "backward-sled-drag",
+      "old_id": "ex-backward-smn-4000-a000-260192859172",
+      "new_id": "16318d33-5cc5-4977-abbe-a2514a898540"
+    },
+    {
+      "slug": "block-clean-and-jerk",
+      "old_id": "ex-block-cl-smn-4000-a000-833264520763",
+      "new_id": "05e078fb-a781-4620-b26f-c3d33124b327"
+    },
+    {
+      "slug": "circus-dumbbell-clean-press",
+      "old_id": "ex-circus-d-smn-4000-a000-773255843725",
+      "new_id": "d5ed4a95-4cb1-42a9-a2c2-f6a7b33c1bcf"
+    },
+    {
+      "slug": "duck-walk-chain",
+      "old_id": "ex-duck-wal-smn-4000-a000-061710889594",
+      "new_id": "94749938-3b0f-489d-8d48-9b68b6c0027e"
+    },
+    {
+      "slug": "farmers-walk-barbell-axle-hanging-plates",
+      "old_id": "ex-farmers--smn-4000-a000-536443875673",
+      "new_id": "ef0881c6-7cd5-4156-8bdb-e28b01652a7d"
+    },
+    {
+      "slug": "farmers-walk",
+      "old_id": "sm000007-0000-4000-a000-000000000007",
+      "new_id": "627ed565-5bf6-4b87-93fd-6bef7a1353d8"
+    },
+    {
+      "slug": "heavy-sled-drag",
+      "old_id": "sm000011-0000-4000-a000-000000000011",
+      "new_id": "dc1d1a18-b80c-48a9-8e52-b694b3aa6443"
+    },
+    {
+      "slug": "husafell-stone-carry",
+      "old_id": "ex-husafell-smn-4000-a000-698596295189",
+      "new_id": "c398a2a5-7fa4-415f-811e-75762079ee40"
+    },
+    {
+      "slug": "hussafel-stone-carry-incline",
+      "old_id": "ex-hussafel-smn-4000-a000-449464570560",
+      "new_id": "0b8fce8b-75e1-452a-b73d-053646ae781a"
+    },
+    {
+      "slug": "keg-toss",
+      "old_id": "ex-keg-toss-smn-4000-a000-969715115293",
+      "new_id": "e76dda56-f13c-457b-ba2c-1af0a2b677d3"
+    },
+    {
+      "slug": "log-press",
+      "old_id": "sm000005-0000-4000-a000-000000000005",
+      "new_id": "eed626a7-d722-49e0-89c1-2f23eaf3b775"
+    },
+    {
+      "slug": "monkey-bar-traverse",
+      "old_id": "ex-monkey-b-smn-4000-a000-073729021122",
+      "new_id": "d68820fa-6c1d-4f84-a90d-d054e86d497b"
+    },
+    {
+      "slug": "natural-stone-shoulder",
+      "old_id": "ex-natural--smn-4000-a000-524727864423",
+      "new_id": "6c54e172-ff67-47c6-9ae0-aa40c2118f22"
+    },
+    {
+      "slug": "overhead-yoke-carry",
+      "old_id": "ex-overhead-smn-4000-a000-469677145702",
+      "new_id": "913521f4-81f0-40b3-a661-cb8be2854f0c"
+    },
+    {
+      "slug": "parallel-bar-l-sit-walk",
+      "old_id": "ex-parallel-smn-4000-a000-594518742519",
+      "new_id": "1ea7fea6-9b61-4369-a165-f4bc844b58c2"
+    },
+    {
+      "slug": "pegboard-climb",
+      "old_id": "ex-pegboard-smn-4000-a000-516432645762",
+      "new_id": "67be1adf-82bc-4628-9abc-33f1fadf0855"
+    },
+    {
+      "slug": "prowler-push-high",
+      "old_id": "sm000010-0000-4000-a000-000000000010",
+      "new_id": "48882490-59d7-4121-91e3-d2deea48c2e6"
+    },
+    {
+      "slug": "prowler-push-low",
+      "old_id": "sm000009-0000-4000-a000-000000000009",
+      "new_id": "9623c56e-b890-4b30-bb07-f32ac0c8434f"
+    },
+    {
+      "slug": "rope-climb-legless",
+      "old_id": "ex-rope-cli-smn-4000-a000-075713224802",
+      "new_id": "105acdb3-3030-42d9-a1da-c055e3b737d7"
+    },
+    {
+      "slug": "sandbag-bear-hug-carry",
+      "old_id": "ex-sandbag--smn-4000-a000-667594016061",
+      "new_id": "a440b0cc-4f96-4cda-9548-0a372bb4c4bc"
+    },
+    {
+      "slug": "sandbag-carry",
+      "old_id": "sm000002-0000-4000-a000-000000000002",
+      "new_id": "93ecfd36-fdb9-4092-aced-1cdfe1718ad1"
+    },
+    {
+      "slug": "sandbag-clean",
+      "old_id": "sm000003-0000-4000-a000-000000000003",
+      "new_id": "14b7102e-850a-41db-a157-1b42aed52c7e"
+    },
+    {
+      "slug": "sandbag-ground-to-overhead",
+      "old_id": "ex-sandbag--smn-4000-a000-840999176891",
+      "new_id": "45fbdbfa-94ac-4015-a915-77fc39ee2d68"
+    },
+    {
+      "slug": "sandbag-loading-platform",
+      "old_id": "ex-sandbag--smn-4000-a000-525099523825",
+      "new_id": "b2801623-5139-4491-90b9-5e13d8db9cf5"
+    },
+    {
+      "slug": "single-leg-box-jump",
+      "old_id": "ex-single-l-smn-4000-a000-405290670075",
+      "new_id": "fdf8cfa8-aff4-44f2-920a-13e716bcd1ed"
+    },
+    {
+      "slug": "tire-flip-sprint",
+      "old_id": "ex-tire-fli-smn-4000-a000-913226501302",
+      "new_id": "9655c36d-d15a-4f82-b471-2da3f39dc46f"
+    },
+    {
+      "slug": "tire-flip",
+      "old_id": "sm000012-0000-4000-a000-000000000012",
+      "new_id": "f35fafdc-0d98-4f2c-8448-aac621eb03ab"
+    },
+    {
+      "slug": "trap-bar-farmers-carry",
+      "old_id": "sm000008-0000-4000-a000-000000000008",
+      "new_id": "edc64881-bad7-480f-96e7-a6924d830baa"
+    },
+    {
+      "slug": "yoke-carry",
+      "old_id": "sm000001-0000-4000-a000-000000000001",
+      "new_id": "54524281-a244-4f21-aae4-6e5b66b36e63"
+    },
+    {
+      "slug": "zercher-carry-strongman",
+      "old_id": "ex-zercher--smn-4000-a000-841923143383",
+      "new_id": "0c53b628-847a-49ff-a561-25d6cf10c76a"
+    },
+    {
+      "slug": "zercher-yoke-walk-chains",
+      "old_id": "ex-zercher--smn-4000-a000-634764986475",
+      "new_id": "ef8e8836-60c1-4eac-a5c6-8e4c435904b2"
+    },
+    {
+      "slug": "zercher-yoke-walk",
+      "old_id": "ex-zercher--smn-4000-a000-658441700913",
+      "new_id": "b004f661-616a-43f4-96c7-8009b0ca4e43"
+    }
+  ]
+}

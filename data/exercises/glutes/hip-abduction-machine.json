@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0042-4000-a000-glut00000010",
+  "exercise_id": "5dcb5d91-3c3d-4d31-a4a8-362f966241bc",
   "slug": "hip-abduction-machine",
   "name": "Hip Abduction Machine",
-  "alternative_names": ["Seated Hip Abduction", "Outer Thigh Machine"],
+  "alternative_names": [
+    "Seated Hip Abduction",
+    "Outer Thigh Machine"
+  ],
   "description": "The hip abduction machine provides seated, bilateral hip abduction against a weight stack, targeting the gluteus medius, gluteus minimus, and tensor fasciae latae. The seated position eliminates balance demands and allows the abductors to be loaded in isolation through a full controlled range of motion. It is a popular machine exercise for developing lateral hip width and stability.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,17 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"}
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000036-0000-4000-a000-000000000036"],
+  "equipment_required": [
+    "eq000036-0000-4000-a000-000000000036"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the hip abduction machine with back against the pad, knees against the inner pads, and feet on the footrests. Adjust the pads to a comfortable starting position.",
@@ -56,31 +73,69 @@
     ]
   },
   "variants": {
-    "easier": ["clamshell", "fire-hydrant", "side-lying-abduction"],
+    "easier": [
+      "clamshell",
+      "fire-hydrant",
+      "side-lying-abduction"
+    ],
     "harder": [],
     "unilateral": [],
     "bilateral": [],
-    "equipment_alternatives": ["side-lying-abduction", "banded-squat-walk"]
+    "equipment_alternatives": [
+      "side-lying-abduction",
+      "banded-squat-walk"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute-medius", "abduction", "machine", "bilateral"]
+    "tags": [
+      "glute-medius",
+      "abduction",
+      "machine",
+      "bilateral"
+    ]
   }
 }

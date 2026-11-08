@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-h013-4000-a000-000000000413",
+  "exercise_id": "698c4dca-1c91-4317-9776-8e5b2209467c",
   "slug": "man-maker",
   "name": "Man Maker",
-  "alternative_names": ["Dumbbell Man Maker", "Man-Maker Complex"],
+  "alternative_names": [
+    "Dumbbell Man Maker",
+    "Man-Maker Complex"
+  ],
   "description": "The man maker is a multi-movement dumbbell complex in which the athlete performs a push-up, a renegade row on each arm, a squat clean, and an overhead press — all in a single continuous sequence without putting the dumbbells down. It demands upper body pushing and pulling strength, anti-rotation core stability during the row, and total body power during the clean, making it one of the most comprehensive single-exercise conditioning movements available. It is used in advanced circuit training and high-intensity conditioning programs.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,24 +18,59 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with dumbbells on the floor, shoulder-width apart. Begin by hinging down to grip the dumbbells in a push-up starting position.",
@@ -71,21 +109,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 3, "max_reps": 8}
+      {
+        "goal": "endurance",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"endurance": 180},
-    "training_goals": ["strength", "endurance", "power"]
+    "rest_periods": {
+      "endurance": 180
+    },
+    "training_goals": [
+      "strength",
+      "endurance",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["functional", "complex", "dumbbell", "full-body", "conditioning", "advanced"]
+    "tags": [
+      "functional",
+      "complex",
+      "dumbbell",
+      "full-body",
+      "conditioning",
+      "advanced"
+    ]
   }
 }

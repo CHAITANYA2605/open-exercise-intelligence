@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0013-4000-a000-chest0000013",
+  "exercise_id": "7ebbc8bc-958a-4fb2-98f8-8a8325c2b705",
   "slug": "pseudo-planche-push-up",
   "name": "Pseudo Planche Push-Up",
-  "alternative_names": ["Leaning Push-Up", "Forward Push-Up"],
+  "alternative_names": [
+    "Leaning Push-Up",
+    "Forward Push-Up"
+  ],
   "description": "The pseudo planche push-up shifts the body's weight far forward over the hands by rotating the wrists outward and leaning the torso ahead of the arms. This altered geometry dramatically increases the load on the pectorals and anterior deltoids compared to a standard push-up and builds the foundational strength required for a full planche.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a push-up position with hands placed beside the hips rather than the shoulders. Rotate the wrists so fingertips point toward the feet or sideways. Lean the shoulders significantly forward over the hands.",
@@ -52,33 +75,74 @@
     ],
     "range_of_motion_guidance": "Lower until the nose or chest nearly touches the floor. The forward lean must be maintained at all points in the movement.",
     "tempo_recommendations": "3-1-2-0",
-    "coaching_cues": ["Push the floor away from you, don't push yourself away from the floor", "Keep the lean — that's the whole exercise", "Squeeze the glutes to keep the hips from piking"]
+    "coaching_cues": [
+      "Push the floor away from you, don't push yourself away from the floor",
+      "Keep the lean — that's the whole exercise",
+      "Squeeze the glutes to keep the hips from piking"
+    ]
   },
   "variants": {
-    "easier": ["deficit-push-up"],
-    "harder": ["single-arm-push-up"],
+    "easier": [
+      "deficit-push-up"
+    ],
+    "harder": [
+      "single-arm-push-up"
+    ],
     "unilateral": [],
-    "bilateral": ["pseudo-planche-push-up"],
+    "bilateral": [
+      "pseudo-planche-push-up"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90},
-    "training_goals": ["strength", "calisthenics", "planche_progression"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "calisthenics",
+      "planche_progression"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "bodyweight", "push-up", "calisthenics", "advanced", "planche"]
+    "tags": [
+      "chest",
+      "bodyweight",
+      "push-up",
+      "calisthenics",
+      "advanced",
+      "planche"
+    ]
   }
 }

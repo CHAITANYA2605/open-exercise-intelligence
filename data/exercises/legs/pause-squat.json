@@ -1,8 +1,10 @@
 {
-  "exercise_id": "a1b2c3d4-0004-4000-a000-legs00000004",
+  "exercise_id": "d7152f66-bf5d-41ee-8cb6-b495ca128ccc",
   "slug": "pause-squat",
   "name": "Pause Squat",
-  "alternative_names": ["Pause Back Squat"],
+  "alternative_names": [
+    "Pause Back Squat"
+  ],
   "description": "The pause squat is a barbell back squat variation where the lifter pauses motionless at the bottom of the movement for a prescribed duration, typically two to five seconds, before driving back to the top. The pause eliminates the stretch-shortening reflex that assists normal squatting, forcing the muscles to generate force from a dead stop. This builds positional strength, reinforces technique, and identifies mobility or stability weaknesses.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +17,52 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Same setup as a standard barbell back squat: bar on upper traps, feet shoulder-width apart, toes pointed slightly outward.",
@@ -61,33 +93,80 @@
     ]
   },
   "variants": {
-    "easier": ["barbell-squat"],
-    "harder": ["front-squat"],
+    "easier": [
+      "barbell-squat"
+    ],
+    "harder": [
+      "front-squat"
+    ],
     "unilateral": [],
-    "bilateral": ["barbell-squat"],
-    "equipment_alternatives": ["goblet-squat"]
+    "bilateral": [
+      "barbell-squat"
+    ],
+    "equipment_alternatives": [
+      "goblet-squat"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 2, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 4, "max_reps": 8},
-      {"goal": "endurance", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 2,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 240, "hypertrophy": 120, "endurance": 90},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["squat", "technique", "powerlifting-accessory"]
+    "tags": [
+      "squat",
+      "technique",
+      "powerlifting-accessory"
+    ]
   }
 }

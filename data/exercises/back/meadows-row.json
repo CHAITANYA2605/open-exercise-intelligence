@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e4d5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+  "exercise_id": "2fecee82-5d96-4e4e-a1fc-176566e9198c",
   "slug": "meadows-row",
   "name": "Meadows Row",
-  "alternative_names": ["Landmine Row", "John Meadows Row"],
+  "alternative_names": [
+    "Landmine Row",
+    "John Meadows Row"
+  ],
   "description": "The Meadows row is a unilateral landmine row variation where one end of a barbell is fixed in a corner or landmine attachment and the lifter rows the loaded end with one hand using a neutral, staggered grip. The unique angled line of pull emphasizes the outer portion of the latissimus dorsi and teres major more than horizontal cable rows, while also loading the upper back through scapular retraction.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
-      { "muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis" }
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
-  "equipment_optional": ["eq000039-0000-4000-a000-000000000039"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000039-0000-4000-a000-000000000039"
+  ],
   "execution": {
     "starting_position": "Wedge one end of a barbell into a corner or landmine attachment. Load the other end with plates. Stand perpendicular to the bar and stagger the feet (lead foot on the same side as the working arm). Hinge at the hips to approximately 45 degrees and grasp the end of the bar with one hand.",
     "setup_instructions": "Secure the barbell in a landmine unit or corner. Keep a collar on the loaded end. Stand close enough that the bar end is at approximately knee height when hinged. Use chalk or a towel for grip on the smooth end of the bar if needed.",
@@ -67,23 +95,55 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 5, "max_reps": 8 },
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 4, "max_sets": 5 },
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "strength": 150, "hypertrophy": 90 },
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["landmine", "unilateral", "row", "lat"]
+    "tags": [
+      "landmine",
+      "unilateral",
+      "row",
+      "lat"
+    ]
   }
 }

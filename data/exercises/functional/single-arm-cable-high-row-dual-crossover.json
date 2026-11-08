@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50018",
+  "exercise_id": "25d957a8-51c7-40aa-b700-b3a9c9c7825b",
   "slug": "single-arm-cable-high-row-dual-crossover",
   "name": "Single-Arm Cable High Row — Dual Crossover",
-  "alternative_names": ["Single-Arm High Cable Row Crossover", "Unilateral High Row Cable Cross"],
+  "alternative_names": [
+    "Single-Arm High Cable Row Crossover",
+    "Unilateral High Row Cable Cross"
+  ],
   "description": "A single-arm back row performed from a high-pulley dual cable crossover station. With one cable set to the highest position, the exerciser rows downward and inward in a diagonal arc, pulling the handle from an elevated position (above and to the side) toward the hip. This diagonal downward pull engages the latissimus dorsi through its full functional range — from shoulder flexion to extension — with an unusually long range of motion compared to standard lat pulldowns or rows. The unilateral setup allows each side to be trained independently, correcting asymmetries, while the high cable angle specifically targets the lower fibers of the latissimus dorsi.",
   "category": "functional",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set one side of a dual cable crossover to the highest pulley position. Stand perpendicular to or slightly angled away from the working cable, with the working arm extended upward and to the side toward the pulley. The arm is in a fully stretched overhead position.",
@@ -40,26 +66,72 @@
       "Step 4: Slowly return the arm to the overhead stretched position. Complete all reps, then switch sides."
     ],
     "breathing_instructions": "Exhale as you row downward. Inhale as you return to the stretched position.",
-    "common_mistakes": ["Using the biceps to pull rather than initiating the movement with the lat", "Not fully extending the arm at the top — the stretch position is a key part of the exercise", "Leaning the torso excessively to gain range — keep the torso relatively stable"],
-    "safety_considerations": ["The overhead starting position should feel like a lat stretch, not a shoulder impingement — adjust body angle if the shoulder is uncomfortable", "Avoid excessive weight that causes the torso to collapse toward the cable on the return"],
+    "common_mistakes": [
+      "Using the biceps to pull rather than initiating the movement with the lat",
+      "Not fully extending the arm at the top — the stretch position is a key part of the exercise",
+      "Leaning the torso excessively to gain range — keep the torso relatively stable"
+    ],
+    "safety_considerations": [
+      "The overhead starting position should feel like a lat stretch, not a shoulder impingement — adjust body angle if the shoulder is uncomfortable",
+      "Avoid excessive weight that causes the torso to collapse toward the cable on the return"
+    ],
     "range_of_motion_guidance": "From full overhead arm extension (lat in a stretched position) to elbow at or below hip (lat fully contracted).",
     "tempo_recommendations": "1s initiation, 2s controlled pull, 2s hold at bottom, 4s slow return to full stretch.",
-    "coaching_cues": ["Feel the lat stretch at the top — this is the unique advantage of the high cable angle", "Drive the elbow toward the hip, not the hand", "Think of pulling your elbow into your back pocket at the bottom of the rep"]
+    "coaching_cues": [
+      "Feel the lat stretch at the top — this is the unique advantage of the high cable angle",
+      "Drive the elbow toward the hip, not the hand",
+      "Think of pulling your elbow into your back pocket at the bottom of the rep"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 75},
-    "training_goals": ["hypertrophy", "strength"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "row", "lat", "unilateral", "high-cable", "crossover"]
+    "tags": [
+      "cable",
+      "row",
+      "lat",
+      "unilateral",
+      "high-cable",
+      "crossover"
+    ]
   }
 }

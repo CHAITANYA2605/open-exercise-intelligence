@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50005",
+  "exercise_id": "77d9735b-a98f-4332-8bc9-9e3b42e7e94a",
   "slug": "cambered-bar-squat-deep",
   "name": "Cambered Bar Deep Squat",
-  "alternative_names": ["Bow Bar Squat", "Arched Bar Squat"],
+  "alternative_names": [
+    "Bow Bar Squat",
+    "Arched Bar Squat"
+  ],
   "description": "A barbell squat variation using a cambered (arched or bowed) bar. The cambered bar hangs the weight below the axis of the bar, lowering the center of mass and creating greater stability demands as the suspended weight shifts during the squat. The bar's shape also allows the torso to remain more upright compared to a straight bar squat, reducing lower back stress while maintaining high quadriceps and glute demand. This is used by powerlifters and strength athletes as a variation squat to develop stability and work around shoulder limitations.",
   "category": "functional",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ]
   },
-  "equipment_required": ["eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Position the cambered bar across the upper back (high or low bar position) in a power rack. The bow of the bar hangs below the loaded sleeves. Step out and assume a standard squat stance.",
@@ -41,32 +70,83 @@
       "Step 4: Re-rack after completing the set."
     ],
     "breathing_instructions": "Inhale and brace before descent. Exhale at the top or in a controlled Valsalva throughout.",
-    "common_mistakes": ["Using too much weight without first adapting to the cambered bar's stability demands", "Allowing the suspended load to swing anteriorly during descent", "Collapsing the knees inward during the ascent"],
-    "safety_considerations": ["The suspended load shifts the balance challenge — reduce weight compared to straight bar squat and build progressively", "Use safeties in the rack at all times", "Learn the barbell squat and standard specialty bar variations before the cambered bar"],
+    "common_mistakes": [
+      "Using too much weight without first adapting to the cambered bar's stability demands",
+      "Allowing the suspended load to swing anteriorly during descent",
+      "Collapsing the knees inward during the ascent"
+    ],
+    "safety_considerations": [
+      "The suspended load shifts the balance challenge — reduce weight compared to straight bar squat and build progressively",
+      "Use safeties in the rack at all times",
+      "Learn the barbell squat and standard specialty bar variations before the cambered bar"
+    ],
     "range_of_motion_guidance": "Below parallel (hip crease below knee) is the standard target. Full depth if mobility allows.",
     "tempo_recommendations": "3s eccentric, 1s pause at bottom optional, 2s concentric ascent",
-    "coaching_cues": ["The bar hangs lower — feel the difference in balance point compared to a standard bar", "Keep the chest up — the cambered bar encourages a more upright torso", "Control the descent — the swinging load amplifies any forward lean"]
+    "coaching_cues": [
+      "The bar hangs lower — feel the difference in balance point compared to a standard bar",
+      "Keep the chest up — the cambered bar encourages a more upright torso",
+      "Control the descent — the swinging load amplifies any forward lean"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 2, "max_reps": 5},
-      {"goal": "endurance", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 2,
+        "max_reps": 5
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 120},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["squat", "cambered-bar", "functional", "specialty", "powerlifting"]
+    "tags": [
+      "squat",
+      "cambered-bar",
+      "functional",
+      "specialty",
+      "powerlifting"
+    ]
   }
 }

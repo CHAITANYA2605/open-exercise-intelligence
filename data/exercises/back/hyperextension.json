@@ -1,8 +1,11 @@
 {
-  "exercise_id": "b9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
+  "exercise_id": "8f07e346-e012-4d05-afb0-5a3369db51f9",
   "slug": "hyperextension",
   "name": "Back Extension (45-Degree Hyperextension)",
-  "alternative_names": ["Hyperextension", "45-Degree Back Extension"],
+  "alternative_names": [
+    "Hyperextension",
+    "45-Degree Back Extension"
+  ],
   "description": "The 45-degree back extension is performed on a hyperextension bench and trains hip extension and spinal erector function simultaneously. The lifter flexes forward at the hip and spine under gravity then extends back to neutral or slightly beyond, challenging the erector spinae, gluteus maximus, and hamstrings through a moderate range of motion. This exercise is a primary developer of the posterior chain when performed with controlled technique.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,38 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
-      { "muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus" }
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000040-0000-4000-a000-000000000040"],
-  "equipment_optional": ["eq000041-0000-4000-a000-000000000041"],
+  "equipment_required": [
+    "eq000040-0000-4000-a000-000000000040"
+  ],
+  "equipment_optional": [
+    "eq000041-0000-4000-a000-000000000041"
+  ],
   "execution": {
     "starting_position": "Position yourself on the 45-degree hyperextension bench with the front of the thighs resting on the pads. Hook the ankles behind the foot supports. Cross arms over the chest or place hands behind the head. The body should form a straight line in the starting position.",
     "setup_instructions": "Adjust the bench pad height so the hip crease is just above or at the top of the pad — this allows full range of hip flexion. Secure the ankles firmly.",
@@ -66,25 +88,67 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 8, "max_reps": 12 },
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 },
-      { "goal": "endurance", "min_reps": 20, "max_reps": 30 }
+      {
+        "goal": "strength",
+        "min_reps": 8,
+        "max_reps": 12
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 4 },
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 },
-      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 90, "hypertrophy": 60, "endurance": 30 },
-    "training_goals": ["strength", "hypertrophy", "endurance"]
+    "rest_periods": {
+      "strength": 90,
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["erector-spinae", "glutes", "back-extension", "posterior-chain"]
+    "tags": [
+      "erector-spinae",
+      "glutes",
+      "back-extension",
+      "posterior-chain"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a6f7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+  "exercise_id": "57844703-d610-4fca-9a69-e997d37b50b9",
   "slug": "chest-supported-row",
   "name": "Chest-Supported Dumbbell Row",
-  "alternative_names": ["Incline Bench Row", "Chest-Supported Row"],
+  "alternative_names": [
+    "Incline Bench Row",
+    "Chest-Supported Row"
+  ],
   "description": "The chest-supported dumbbell row eliminates lower back involvement by bracing the chest on an inclined bench, allowing complete isolation of the upper back musculature. Because the spine is supported, there is no temptation to extend the torso to generate momentum, making this one of the most reliable exercises for targeting the rhomboids, middle trapezius, and rear deltoids independently.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,48 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" },
-      { "muscle_id": "66666666-0003-4000-a000-000000000006", "muscle_slug": "biceps-brachii-short-head" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus" },
-      { "muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor" }
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "teres-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set an adjustable bench to a 30–45 degree incline. Lie prone (face down) on the bench with the chest and stomach resting on the pad. Let both arms hang straight down toward the floor, each holding a dumbbell with a neutral or pronated grip.",
@@ -68,23 +98,56 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 },
-      { "goal": "endurance", "min_reps": 15, "max_reps": 20 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 },
-      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "hypertrophy": 75, "endurance": 45 },
-    "training_goals": ["hypertrophy", "endurance"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "row", "upper-back", "rhomboids", "supported"]
+    "tags": [
+      "dumbbell",
+      "row",
+      "upper-back",
+      "rhomboids",
+      "supported"
+    ]
   }
 }

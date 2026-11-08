@@ -21,7 +21,7 @@
 ### Run the REST API with Docker
 
 ```bash
-git clone https://github.com/open-exercise-intelligence/oei.git
+git clone https://github.com/CHAITANYA2605/open-exercise-intelligence.git
 cd oei
 
 # Build and start the Spring Boot API on port 8080
@@ -111,7 +111,7 @@ Add to `pubspec.yaml`:
 dependencies:
   oei:
     git:
-      url: https://github.com/open-exercise-intelligence/oei.git
+      url: https://github.com/CHAITANYA2605/open-exercise-intelligence.git
       path: sdks/dart
 ```
 
@@ -206,7 +206,7 @@ See [LICENSING.md](LICENSING.md) for a full explanation.
 
 OEI is built by the community. Contributions of all kinds are welcome: new exercises, corrections, original illustrations, SDK improvements, and documentation.
 
-**GitHub:** [https://github.com/open-exercise-intelligence/oei](https://github.com/open-exercise-intelligence/oei)
+**GitHub:** [https://github.com/CHAITANYA2605/open-exercise-intelligence](https://github.com/CHAITANYA2605/open-exercise-intelligence)
 
 ### How to contribute
 

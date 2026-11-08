@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50009",
+  "exercise_id": "a79456b7-17d8-4c94-a001-193df7c8a318",
   "slug": "lying-cable-chest-press",
   "name": "Lying Cable Chest Press",
-  "alternative_names": ["Floor Cable Press", "Supine Cable Chest Press"],
+  "alternative_names": [
+    "Floor Cable Press",
+    "Supine Cable Chest Press"
+  ],
   "description": "A chest press performed lying on the floor or a flat bench with cable machines positioned at floor level on each side. Unlike dumbbell or barbell pressing, the cable provides constant resistance throughout the full range of motion, including at full extension where free weights would have zero loading. The lying position limits the range (the floor prevents the elbows from dropping below body level) but the cable tension at lockout provides a unique stimulus at the top of the press that free weights cannot replicate.",
   "category": "functional",
   "exercise_type": "compound",
@@ -15,19 +18,38 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ]
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
-  "equipment_optional": ["eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "execution": {
     "starting_position": "Lie on the floor or a flat bench positioned between two low cable pulleys. Hold the D-handles of the cables with hands at chest level, elbows bent at approximately 90 degrees.",
     "setup_instructions": "Position the bench between two cable stacks with the cables at their lowest setting. Adjust so the cables come from low and to the sides, pulling the handles outward and downward at the bottom of the press.",
@@ -38,26 +60,70 @@
       "Step 4: Lower under control back to the start. Repeat."
     ],
     "breathing_instructions": "Inhale as you lower. Exhale during the press.",
-    "common_mistakes": ["Cables positioned too high, reducing the loading at the bottom", "Losing scapular retraction at lockout — maintain shoulder blade position throughout", "Pressing one side faster than the other, creating rotation"],
-    "safety_considerations": ["Ensure both cable stacks are at the same weight", "If using the floor, the elbows cannot go below body level — this limits ROM but reduces shoulder stress"],
+    "common_mistakes": [
+      "Cables positioned too high, reducing the loading at the bottom",
+      "Losing scapular retraction at lockout — maintain shoulder blade position throughout",
+      "Pressing one side faster than the other, creating rotation"
+    ],
+    "safety_considerations": [
+      "Ensure both cable stacks are at the same weight",
+      "If using the floor, the elbows cannot go below body level — this limits ROM but reduces shoulder stress"
+    ],
     "range_of_motion_guidance": "Full elbow extension at the top. For floor press: elbows to floor level at the bottom.",
     "tempo_recommendations": "3s eccentric, 1s bottom pause, 2s press.",
-    "coaching_cues": ["Feel the cable pulling inward at the top — squeeze the chest hard to control it", "Keep the shoulder blades retracted on the bench throughout the press", "Equal weight on both sides — do not let one arm lead"]
+    "coaching_cues": [
+      "Feel the cable pulling inward at the top — squeeze the chest hard to control it",
+      "Keep the shoulder blades retracted on the bench throughout the press",
+      "Equal weight on both sides — do not let one arm lead"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "chest", "press", "functional", "lying"]
+    "tags": [
+      "cable",
+      "chest",
+      "press",
+      "functional",
+      "lying"
+    ]
   }
 }

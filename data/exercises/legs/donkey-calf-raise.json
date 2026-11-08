@@ -1,8 +1,10 @@
 {
-  "exercise_id": "a1b2c3d4-0030-4000-a000-legs00000030",
+  "exercise_id": "4bf17179-2ed8-41d9-beca-3b78460dac4d",
   "slug": "donkey-calf-raise",
   "name": "Donkey Calf Raise",
-  "alternative_names": ["Bent-Over Calf Raise"],
+  "alternative_names": [
+    "Bent-Over Calf Raise"
+  ],
   "description": "The donkey calf raise is performed with the torso bent forward at approximately 90° with the hips flexed, which places the gastrocnemius under a greater stretch at the hip than a standing calf raise. Because the gastrocnemius is a biarticular muscle crossing both the knee and hip, the hip-flexed position elongates it, increasing the range of motion and stretch on the gastrocnemius medial and lateral heads. It was popularized as a mass-building calf exercise and can be loaded by having a training partner sit on the hips.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,14 +17,25 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-lateral"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hinge at the hips and brace the hands on a bench, barbell, or wall at hip height. Keep the knees very slightly bent. Stand with the balls of the feet on a raised surface (step edge or plate).",
@@ -53,33 +66,81 @@
     ]
   },
   "variants": {
-    "easier": ["standing-calf-raise"],
+    "easier": [
+      "standing-calf-raise"
+    ],
     "harder": [],
-    "unilateral": ["single-leg-calf-raise"],
-    "bilateral": ["standing-calf-raise"],
-    "equipment_alternatives": ["standing-calf-raise"]
+    "unilateral": [
+      "single-leg-calf-raise"
+    ],
+    "bilateral": [
+      "standing-calf-raise"
+    ],
+    "equipment_alternatives": [
+      "standing-calf-raise"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 8, "max_reps": 15},
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "strength",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 30},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "strength": 90,
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calf", "gastrocnemius", "isolation", "bodyweight"]
+    "tags": [
+      "calf",
+      "gastrocnemius",
+      "isolation",
+      "bodyweight"
+    ]
   }
 }

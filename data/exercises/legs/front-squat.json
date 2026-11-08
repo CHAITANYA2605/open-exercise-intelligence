@@ -1,8 +1,10 @@
 {
-  "exercise_id": "a1b2c3d4-0001-4000-a000-legs00000001",
+  "exercise_id": "f73f317f-d158-4d67-93d6-3fed681ebb79",
   "slug": "front-squat",
   "name": "Front Squat",
-  "alternative_names": ["Barbell Front Squat"],
+  "alternative_names": [
+    "Barbell Front Squat"
+  ],
   "description": "The front squat places the barbell across the front deltoids and clavicles, requiring a markedly more upright torso than the back squat. This positioning shifts loading emphasis toward the quadriceps and demands significant thoracic extension and wrist mobility. It is a staple of Olympic weightlifting and an effective tool for quad-dominant lower body development.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +17,55 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
-  "equipment_optional": ["eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "equipment_optional": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "execution": {
     "starting_position": "Stand inside the rack with the bar set at collarbone height. Step under the bar and push your elbows forward and up until they are parallel to the floor, allowing the bar to rest across your front deltoids and clavicles. Your fingertips can rest on the bar with a loose grip or cross your arms in a clean grip. Stand tall, brace your core, and unrack the bar.",
     "setup_instructions": "Set the barbell on the rack at collarbone height. Use either a clean grip (elbows high, bar resting on fingertips) or a crossed-arm grip. Position feet shoulder-width apart with toes turned slightly outward.",
@@ -63,33 +97,84 @@
     ]
   },
   "variants": {
-    "easier": ["goblet-squat"],
-    "harder": ["overhead-squat"],
-    "unilateral": ["single-leg-squat"],
-    "bilateral": ["barbell-squat"],
-    "equipment_alternatives": ["goblet-squat", "hack-squat"]
+    "easier": [
+      "goblet-squat"
+    ],
+    "harder": [
+      "overhead-squat"
+    ],
+    "unilateral": [
+      "single-leg-squat"
+    ],
+    "bilateral": [
+      "barbell-squat"
+    ],
+    "equipment_alternatives": [
+      "goblet-squat",
+      "hack-squat"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10},
-      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 10
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 240, "hypertrophy": 90, "endurance": 60},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic-lifting", "quad-dominant", "squat"]
+    "tags": [
+      "olympic-lifting",
+      "quad-dominant",
+      "squat"
+    ]
   }
 }

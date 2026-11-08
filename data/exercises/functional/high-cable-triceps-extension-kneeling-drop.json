@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50011",
+  "exercise_id": "296ebdd7-6b73-48e6-a035-ce150ef75924",
   "slug": "high-cable-triceps-extension-kneeling-drop",
   "name": "High Cable Triceps Extension — Kneeling Drop Set",
-  "alternative_names": ["Kneeling Cable Triceps Extension Drop", "High Pulley Tri Extension Drop"],
+  "alternative_names": [
+    "Kneeling Cable Triceps Extension Drop",
+    "High Pulley Tri Extension Drop"
+  ],
   "description": "A triceps overhead cable extension performed from the kneeling position facing away from a high pulley, executed as a drop set where the weight is immediately reduced after reaching failure and the exerciser continues the set. The kneeling position provides a stable base, the high cable angle stretches the long head of the triceps maximally, and the drop set structure maximizes time-under-tension and metabolic stress for triceps hypertrophy.",
   "category": "functional",
   "exercise_type": "isolation",
@@ -15,14 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [],
-    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel on the floor facing away from a high cable pulley. Hold a rope attachment behind the head with both hands, elbows pointing upward and slightly forward.",
@@ -34,26 +53,70 @@
       "Step 4: Immediately reduce the weight (drop) and continue the set for additional reps to secondary failure."
     ],
     "breathing_instructions": "Exhale during the extension (press). Inhale during the return.",
-    "common_mistakes": ["Flaring the elbows wide — keep them in line with the head, not splayed out", "Moving the upper arm during the extension — only the forearms should move", "Allowing the torso to lean excessively forward to assist the press"],
-    "safety_considerations": ["Ensure quick weight reduction is possible before beginning — plan the drop logistics first", "Avoid excessive neck strain — the rope attachment should not press on the neck"],
+    "common_mistakes": [
+      "Flaring the elbows wide — keep them in line with the head, not splayed out",
+      "Moving the upper arm during the extension — only the forearms should move",
+      "Allowing the torso to lean excessively forward to assist the press"
+    ],
+    "safety_considerations": [
+      "Ensure quick weight reduction is possible before beginning — plan the drop logistics first",
+      "Avoid excessive neck strain — the rope attachment should not press on the neck"
+    ],
     "range_of_motion_guidance": "Full elbow extension at the bottom. Full elbow flexion (rope behind head) at the top.",
     "tempo_recommendations": "2s extension, 1s lockout, 3s eccentric return. Full ROM on each rep of both the initial and drop set.",
-    "coaching_cues": ["Keep the elbows tight — do not let them flare during the press", "Squeeze the triceps at lockout — the constant tension from the high cable makes this very effective", "The drop set should be a smooth transition — have the lighter weight ready to go immediately"]
+    "coaching_cues": [
+      "Keep the elbows tight — do not let them flare during the press",
+      "Squeeze the triceps at lockout — the constant tension from the high cable makes this very effective",
+      "The drop set should be a smooth transition — have the lighter weight ready to go immediately"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "triceps", "extension", "drop-set", "kneeling"]
+    "tags": [
+      "cable",
+      "triceps",
+      "extension",
+      "drop-set",
+      "kneeling"
+    ]
   }
 }

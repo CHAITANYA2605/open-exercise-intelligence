@@ -1,8 +1,12 @@
 {
-  "exercise_id": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
+  "exercise_id": "bdd10b43-fb46-42c4-b56a-ffa4d72dba6c",
   "slug": "nordic-hamstring-eccentric",
   "name": "Nordic Hamstring Curl Eccentric",
-  "alternative_names": ["Nordic Curl", "Natural Leg Curl", "Nordic Lower"],
+  "alternative_names": [
+    "Nordic Curl",
+    "Natural Leg Curl",
+    "Nordic Lower"
+  ],
   "description": "The Nordic hamstring curl eccentric is a high-load hamstring exercise in which the exerciser slowly lowers the body forward from a kneeling position while the hamstrings eccentrically resist. It produces the highest eccentric hamstring forces of any bodyweight exercise and is extensively supported by research for reducing hamstring strain injury rates. It is used in both injury prevention programs and hamstring rehabilitation after strain.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,16 +19,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
-      { "muscle_id": "dddddddd-0003-4000-a000-00000000000d", "muscle_slug": "semitendinosus" },
-      { "muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semimembranosus" }
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0003-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "secondary": [],
     "stabilizers": [
-      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" }
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel on a mat with the ankles secured under a fixed object (a loaded barbell, a partner holding the ankles, or under a GHD pad). The body is upright with hips fully extended.",
@@ -64,21 +82,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 3, "max_reps": 10 }
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 120 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "hamstring", "eccentric", "injury-prevention", "advanced", "nordic"]
+    "tags": [
+      "rehabilitation",
+      "hamstring",
+      "eccentric",
+      "injury-prevention",
+      "advanced",
+      "nordic"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e0f1a2b3-c4d5-4e6f-7a8b-9c0d1e2f3a4b",
+  "exercise_id": "5389f269-f192-4a4b-b235-24cc6b8f6589",
   "slug": "couch-stretch",
   "name": "Couch Stretch",
-  "alternative_names": ["Wall Hip Flexor Stretch", "Rear Foot Elevated Hip Flexor Stretch"],
+  "alternative_names": [
+    "Wall Hip Flexor Stretch",
+    "Rear Foot Elevated Hip Flexor Stretch"
+  ],
   "description": "The couch stretch is an aggressive hip flexor and quadriceps stretch performed with the rear foot elevated against a wall, couch, or rack, placing the hip into deep extension and the knee into deep flexion simultaneously. This creates maximal lengthening of the iliopsoas, rectus femoris, and other quad muscles and is considered one of the most effective stretches for hip flexor mobility. It is particularly valued for addressing the stiffness that develops from repeated squatting and from prolonged sitting.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" },
-      { "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus" },
-      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" }
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "secondary": [
-      { "muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis" },
-      { "muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae" }
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel near a wall or couch. Place the rear shin and foot against the wall so the ankle is against the baseboard and the knee is on the floor just in front of the wall.",
@@ -66,21 +89,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "mobility": 15 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 15
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip-flexor", "quad", "stretch", "intermediate", "mobility", "iliopsoas"]
+    "tags": [
+      "hip-flexor",
+      "quad",
+      "stretch",
+      "intermediate",
+      "mobility",
+      "iliopsoas"
+    ]
   }
 }

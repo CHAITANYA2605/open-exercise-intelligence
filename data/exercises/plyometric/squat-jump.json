@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g008-4000-a000-000000000308",
+  "exercise_id": "e752b644-e003-429b-aadc-4f76fa160449",
   "slug": "squat-jump",
   "name": "Squat Jump",
-  "alternative_names": ["Jump Squat", "Vertical Jump"],
+  "alternative_names": [
+    "Jump Squat",
+    "Vertical Jump"
+  ],
   "description": "The squat jump is a bilateral plyometric exercise in which the athlete descends to a quarter or half squat and then jumps as high as possible, focusing on maximum vertical displacement. Unlike the box jump, the squat jump lands back on the same surface, making it a continuous or repeated power exercise. It directly trains the explosive leg drive mechanics and vertical power output of the quadriceps, glutes, and calves, and is a foundational drill for athletes requiring vertical power.",
   "category": "plyometric",
   "exercise_type": "plyometric",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet shoulder-width apart. Arms at sides or hands behind the head.",
@@ -68,23 +97,55 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 3, "max_reps": 8},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 20}
+      {
+        "goal": "power",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"power": 120, "endurance": 60},
-    "training_goals": ["power", "endurance"]
+    "rest_periods": {
+      "power": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "power",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plyometric", "power", "beginner", "vertical-jump"]
+    "tags": [
+      "plyometric",
+      "power",
+      "beginner",
+      "vertical-jump"
+    ]
   }
 }

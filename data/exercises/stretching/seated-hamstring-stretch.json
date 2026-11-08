@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c6d7e8f9-a0b1-4c2d-3e4f-5a6b7c8d9e0f",
+  "exercise_id": "9dc0383b-967e-4404-bf97-f659f5e94e6a",
   "slug": "seated-hamstring-stretch",
   "name": "Seated Hamstring Stretch",
-  "alternative_names": ["Seated Forward Fold", "Long Sit Hamstring Stretch"],
+  "alternative_names": [
+    "Seated Forward Fold",
+    "Long Sit Hamstring Stretch"
+  ],
   "description": "The seated hamstring stretch is performed with both legs extended on the floor in a long-sitting position, then hinging the torso forward over the legs. The seated position provides a stable base and allows the lower back to relax, making this variation accessible and suitable for people who struggle to balance during the standing version. The stretch targets the entire hamstring group as well as the calf muscles when the feet are dorsiflexed.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,16 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
-      { "muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus" },
-      { "muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus" }
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus" }
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the floor with both legs extended straight in front of you and feet hip-width apart. Sit up tall with spine neutral.",
@@ -63,21 +80,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 4 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 4
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "mobility": 15 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 15
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hamstring", "stretch", "seated", "beginner", "mobility"]
+    "tags": [
+      "hamstring",
+      "stretch",
+      "seated",
+      "beginner",
+      "mobility"
+    ]
   }
 }

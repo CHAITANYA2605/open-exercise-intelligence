@@ -1,8 +1,11 @@
 {
-  "exercise_id": "f6a7b8c9-d0e1-4234-f567-a89b01c23456",
+  "exercise_id": "659b1184-baf7-4f08-a40c-4bf69a24fd8a",
   "slug": "pin-press",
   "name": "Pin Press / Anderson Bench Press",
-  "alternative_names": ["Anderson Bench Press", "Safety Pin Bench Press"],
+  "alternative_names": [
+    "Anderson Bench Press",
+    "Safety Pin Bench Press"
+  ],
   "description": "The Pin Press starts with the barbell resting on the safety pins of a power rack at a predetermined height, eliminating the eccentric phase and any stretch-shortening cycle contribution. Each repetition begins from a dead stop, training maximal concentric pressing force from the most difficult position in the range of motion.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,44 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set the safety pins inside a power rack so the bar rests at the desired starting height (chest level, mid-ROM, or near lockout). Lie under the bar and position yourself as for a bench press.",
@@ -55,24 +82,52 @@
       "Pull the bar apart and try to bend it before you press"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"strength": 240},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 240
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["powerlifting", "dead-stop", "concentric", "sticking-point"]
+    "tags": [
+      "powerlifting",
+      "dead-stop",
+      "concentric",
+      "sticking-point"
+    ]
   }
 }

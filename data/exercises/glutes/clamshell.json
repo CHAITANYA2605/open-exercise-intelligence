@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0038-4000-a000-glut00000006",
+  "exercise_id": "ec4bf7e5-8085-4024-9c9d-e4293a8d3620",
   "slug": "clamshell",
   "name": "Clamshell",
-  "alternative_names": ["Hip External Rotation", "Side-Lying Clamshell"],
+  "alternative_names": [
+    "Hip External Rotation",
+    "Side-Lying Clamshell"
+  ],
   "description": "The clamshell is a side-lying hip external rotation exercise in which the feet remain stacked and together while the top knee is raised toward the ceiling, mimicking the opening of a clamshell. It isolates the gluteus medius with a focus on external rotation and abduction, making it one of the most prescribed exercises in physical therapy for hip, knee, and lower back rehabilitation. A resistance band above the knees increases the load.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,19 +18,38 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "execution": {
     "starting_position": "Lie on one side with hips stacked, knees bent to approximately 45°, and feet together. The head rests on the lower arm.",
     "setup_instructions": "No equipment needed for bodyweight. Place a mini loop band just above the knees for added resistance.",
@@ -58,30 +80,70 @@
   },
   "variants": {
     "easier": [],
-    "harder": ["fire-hydrant", "side-lying-abduction", "hip-abduction-machine"],
+    "harder": [
+      "fire-hydrant",
+      "side-lying-abduction",
+      "hip-abduction-machine"
+    ],
     "unilateral": [],
     "bilateral": [],
-    "equipment_alternatives": ["fire-hydrant"]
+    "equipment_alternatives": [
+      "fire-hydrant"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 45, "endurance": 30},
-    "training_goals": ["hypertrophy", "rehabilitation"]
+    "rest_periods": {
+      "hypertrophy": 45,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute-medius", "abduction", "beginner", "rehab", "bodyweight", "physical-therapy"]
+    "tags": [
+      "glute-medius",
+      "abduction",
+      "beginner",
+      "rehab",
+      "bodyweight",
+      "physical-therapy"
+    ]
   }
 }

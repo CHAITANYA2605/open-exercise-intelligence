@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sh010031-f3a2-4c1e-9b8d-7e6f5a4c3c12",
+  "exercise_id": "7cd9a31c-4188-4757-835d-642b0dd626fc",
   "slug": "internal-rotation-cable",
   "name": "Cable Internal Rotation",
-  "alternative_names": ["Cable IR", "Standing Cable Internal Rotation"],
+  "alternative_names": [
+    "Cable IR",
+    "Standing Cable Internal Rotation"
+  ],
   "description": "The cable internal rotation targets the subscapularis — the primary internal rotator of the shoulder — using a cable at elbow height. The subscapularis is often undertrained despite being the largest rotator cuff muscle, and weakness in internal rotation can contribute to shoulder impingement and dysfunction. The cable provides consistent resistance through the full range, making it superior to band-based alternatives for precise loading.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -15,14 +18,22 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"}
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand beside a cable machine with the pulley set at elbow height. Grip the handle with the outside hand. Elbow bent to 90 degrees, forearm pointing toward the cable machine (externally rotated position).",
@@ -39,29 +50,65 @@
       "Allowing the elbow to move away from the side during rotation",
       "Using weight that causes body rotation instead of isolated shoulder rotation"
     ],
-    "safety_considerations": ["Very light loads only — the subscapularis is targeted for health, not hypertrophy"],
+    "safety_considerations": [
+      "Very light loads only — the subscapularis is targeted for health, not hypertrophy"
+    ],
     "range_of_motion_guidance": "From external rotation (forearm toward cable) to internal rotation (forearm across the body).",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Elbow stays anchored — only the forearm moves", "Rotate from the shoulder joint", "Think subscapularis — the front of the rotator cuff"]
+    "coaching_cues": [
+      "Elbow stays anchored — only the forearm moves",
+      "Rotate from the shoulder joint",
+      "Think subscapularis — the front of the rotator cuff"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 60},
-    "training_goals": ["rehabilitation"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shoulders", "rotator-cuff", "internal-rotation", "rehabilitation", "cable", "subscapularis"]
+    "tags": [
+      "shoulders",
+      "rotator-cuff",
+      "internal-rotation",
+      "rehabilitation",
+      "cable",
+      "subscapularis"
+    ]
   }
 }

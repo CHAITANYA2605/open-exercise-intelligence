@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50015",
+  "exercise_id": "7acfc91c-3a5b-417c-9bea-a5a67f046791",
   "slug": "incline-bench-cable-flye-drop-set",
   "name": "Incline Bench Cable Flye — Drop Set",
-  "alternative_names": ["Incline Cable Flye Drop", "High Cable Incline Flye Drop Set"],
+  "alternative_names": [
+    "Incline Cable Flye Drop",
+    "High Cable Incline Flye Drop Set"
+  ],
   "description": "An incline cable flye performed on an adjustable bench set between two cable stacks, executed as a drop set. The incline position targets the clavicular (upper) portion of the pectoralis major, and the cable provides constant tension through the entire arc — unlike dumbbells which lose tension at the top. The drop set structure allows training past initial failure, maximizing upper chest hypertrophy stimulus. The cable's constant tension through the stretch (bottom) and squeeze (top) positions makes this a superior flye variation for complete fiber recruitment.",
   "category": "functional",
   "exercise_type": "isolation",
@@ -15,17 +18,32 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ]
   },
-  "equipment_required": ["eq000016-0000-4000-a000-000000000016", "eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000016-0000-4000-a000-000000000016",
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set an adjustable bench to 30-45 degrees incline and position it between two cable stacks with the cables at the lowest setting. Lie on the incline bench and hold the low-cable D-handles with arms extended above the chest.",
@@ -37,26 +55,70 @@
       "Step 4: Immediately drop to the lighter weight and continue for additional reps to secondary failure."
     ],
     "breathing_instructions": "Inhale as the arms lower outward. Exhale as you bring them together.",
-    "common_mistakes": ["Excessively bending the elbows, converting the flye into a press — maintain a slight fixed elbow bend throughout", "Allowing the cable to pull the arms too far back, causing shoulder stress at the bottom stretch position", "Rushing the transition during the drop — ensure a safe, quick change"],
-    "safety_considerations": ["The bottom stretch position with cable tension can stress the anterior shoulder — do not go beyond a comfortable stretch", "Have the lighter weight ready before beginning the initial set"],
+    "common_mistakes": [
+      "Excessively bending the elbows, converting the flye into a press — maintain a slight fixed elbow bend throughout",
+      "Allowing the cable to pull the arms too far back, causing shoulder stress at the bottom stretch position",
+      "Rushing the transition during the drop — ensure a safe, quick change"
+    ],
+    "safety_considerations": [
+      "The bottom stretch position with cable tension can stress the anterior shoulder — do not go beyond a comfortable stretch",
+      "Have the lighter weight ready before beginning the initial set"
+    ],
     "range_of_motion_guidance": "From cables together above chest to a wide arc where the hands are at approximately shoulder height with a full upper chest stretch.",
     "tempo_recommendations": "3s eccentric (open), 1s stretch, 2s press back together. Full ROM on all reps.",
-    "coaching_cues": ["Think of hugging a barrel — the arms maintain the same slight bend throughout the entire arc", "Feel the upper chest stretch at the bottom — the cable maintains tension even here", "Squeeze the hands toward each other at the top — not just touching, but pressing"]
+    "coaching_cues": [
+      "Think of hugging a barrel — the arms maintain the same slight bend throughout the entire arc",
+      "Feel the upper chest stretch at the bottom — the cable maintains tension even here",
+      "Squeeze the hands toward each other at the top — not just touching, but pressing"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "chest", "flye", "incline", "drop-set"]
+    "tags": [
+      "cable",
+      "chest",
+      "flye",
+      "incline",
+      "drop-set"
+    ]
   }
 }

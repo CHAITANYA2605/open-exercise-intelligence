@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e9f0a1b2-c3d4-4e5f-6a7b-c8d9e0f1a429",
+  "exercise_id": "8d6e481e-212d-46fd-ac61-865b6323d2d1",
   "slug": "single-arm-cable-lateral-raise",
   "name": "Single-Arm Cable Lateral Raise",
-  "alternative_names": ["Unilateral Cable Lateral Raise", "Cable Side Raise"],
+  "alternative_names": [
+    "Unilateral Cable Lateral Raise",
+    "Cable Side Raise"
+  ],
   "description": "The single-arm cable lateral raise is a unilateral shoulder isolation exercise using a low-pulley cable. With the cable running across the body from the opposite side, constant tension is maintained on the lateral deltoid throughout the entire arc — including at the top where dumbbell lateral raises lose tension. This makes it mechanically superior for lateral deltoid isolation compared to free-weight raises.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,20 +18,42 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
-  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "execution": {
     "starting_position": "Stand beside a low-pulley cable machine, holding the handle in the hand furthest from the machine (the cable crosses in front of the body). The working arm begins at the side, slightly in front of the hip.",
     "setup_instructions": "Set the cable pulley to the lowest position and attach a single-handle D-ring. Stand perpendicular to the cable stack. Hold the handle in the hand on the opposite side from the machine.",
@@ -57,28 +82,65 @@
     "easier": [],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["lateral-raise", "cable-lateral-raise"],
-    "equipment_alternatives": ["lateral-raise"]
+    "bilateral": [
+      "lateral-raise",
+      "cable-lateral-raise"
+    ],
+    "equipment_alternatives": [
+      "lateral-raise"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "lateral-delt", "shoulders", "isolation", "unilateral"]
+    "tags": [
+      "cable",
+      "lateral-delt",
+      "shoulders",
+      "isolation",
+      "unilateral"
+    ]
   }
 }

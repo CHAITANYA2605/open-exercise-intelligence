@@ -1,6 +1,6 @@
 # @oei/exercise-sdk
 
-Official JavaScript / TypeScript SDK for the [Open Exercise Intelligence](https://github.com/open-exercise-intelligence/oei) dataset.
+Official JavaScript / TypeScript SDK for the [Open Exercise Intelligence](https://github.com/CHAITANYA2605/open-exercise-intelligence) dataset.
 
 **License:** MIT  
 **Data:** CC0 1.0

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sm000003-0000-4000-a000-000000000003",
+  "exercise_id": "14b7102e-850a-41db-a157-1b42aed52c7e",
   "slug": "sandbag-clean",
   "name": "Sandbag Clean",
-  "alternative_names": ["Sandbag Power Clean", "Sandbag Lap Clean"],
+  "alternative_names": [
+    "Sandbag Power Clean",
+    "Sandbag Lap Clean"
+  ],
   "description": "The sandbag clean is an explosive hip-extension movement that drives a heavy sandbag from the floor to the shoulder or chest, training the same posterior chain muscles as the barbell power clean but with an awkward, shifting implement that demands superior grip strength and core stability. The unstable load prevents the precise bar path of Olympic lifting, instead requiring the athlete to adapt dynamically throughout each repetition. It is an excellent power development tool for athletes and tactical populations who need to handle irregular loads.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
   "equipment_required": [],
@@ -69,23 +99,56 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 5},
-      {"goal": "endurance", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 5
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 6},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 6
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 90},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "clean", "power", "sandbag", "functional"]
+    "tags": [
+      "strongman",
+      "clean",
+      "power",
+      "sandbag",
+      "functional"
+    ]
   }
 }

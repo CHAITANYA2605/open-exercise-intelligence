@@ -1,8 +1,11 @@
 {
-  "exercise_id": "co000036-0000-4000-a000-000000000036",
+  "exercise_id": "ff85a404-ff50-4b6a-afb1-98f1d4f4a3b4",
   "slug": "standing-ab-rollout",
   "name": "Standing Ab Wheel Rollout",
-  "alternative_names": ["Standing Rollout", "Ab Wheel Standing Rollout"],
+  "alternative_names": [
+    "Standing Rollout",
+    "Ab Wheel Standing Rollout"
+  ],
   "description": "The standing ab wheel rollout is an advanced progression of the kneeling rollout that starts with the athlete fully upright, dramatically increasing the moment arm at the shoulder and hip. The exercise demands elite levels of anti-extension core stiffness, shoulder stability, and lat engagement to prevent collapse of the lumbar spine as the wheel rolls forward. It represents one of the highest anti-extension challenges achievable with minimal equipment and should only be attempted after mastering the kneeling variation.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ]
   },
-  "equipment_required": ["eq000048-0000-4000-a000-000000000048"],
+  "equipment_required": [
+    "eq000048-0000-4000-a000-000000000048"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright holding the ab wheel handles with both hands, wheel on the floor just in front of the feet.",
@@ -45,20 +71,63 @@
       "Lumbar hyperextension at the bottom — indicates insufficient core strength for this variation",
       "Failing to engage the lats on the return — the pullback is lat-driven, not just abs"
     ],
-    "safety_considerations": ["Stop immediately if lower-back pain occurs — regress to kneeling rollout"],
+    "safety_considerations": [
+      "Stop immediately if lower-back pain occurs — regress to kneeling rollout"
+    ],
     "range_of_motion_guidance": "Roll out as far as can be controlled without lumbar collapse. Full return to standing upright.",
     "tempo_recommendations": "3-1-3-0. Each repetition should be fully deliberate and controlled.",
-    "coaching_cues": ["Ribs to hips — hollow position always", "Pull the floor toward you on the way back"]
+    "coaching_cues": [
+      "Ribs to hips — hollow position always",
+      "Pull the floor toward you on the way back"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
-    "recommended_set_ranges": [{"goal": "strength", "min_sets": 3, "max_sets": 5}],
-    "rest_periods": {"strength": 120},
-    "training_goals": ["strength"]
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "anti-extension", "advanced", "ab-wheel", "expert"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "anti-extension",
+      "advanced",
+      "ab-wheel",
+      "expert"
+    ]
+  }
 }

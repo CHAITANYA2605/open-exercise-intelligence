@@ -1,8 +1,12 @@
 {
-  "exercise_id": "d8e9f0a1-b2c3-4d4e-5f6a-b7c8d9e0f428",
+  "exercise_id": "4ccf6807-0fd6-45c3-9119-42ea53393d75",
   "slug": "thruster",
   "name": "Thruster",
-  "alternative_names": ["Front Squat Thruster", "DB Thruster", "Barbell Thruster"],
+  "alternative_names": [
+    "Front Squat Thruster",
+    "DB Thruster",
+    "Barbell Thruster"
+  ],
   "description": "The thruster is a full-body compound exercise that combines a front squat with an overhead press in one continuous movement. As the lifter rises from the squat, the momentum is used to drive the bar or dumbbells overhead to lockout. It is widely used in CrossFit and conditioning programs for its exceptional metabolic demand and full-body recruitment, training the quadriceps, glutes, shoulders, and triceps simultaneously.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,27 +19,70 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0002-4000-a000-000000000005", "muscle_slug": "iliocostalis"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0002-4000-a000-000000000005",
+        "muscle_slug": "iliocostalis"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
-  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "execution": {
     "starting_position": "Hold the barbell in a front rack position (or dumbbells at shoulder height). Feet are shoulder-width apart. This is also the bottom starting position of the front squat.",
     "setup_instructions": "Clean the bar to the front rack position or take from a rack. Ensure adequate ceiling clearance for the overhead lockout. Dumbbells are easier to manage for beginners.",
@@ -62,33 +109,81 @@
     ]
   },
   "variants": {
-    "easier": ["push-press", "barbell-squat"],
+    "easier": [
+      "push-press",
+      "barbell-squat"
+    ],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["push-press"],
+    "bilateral": [
+      "push-press"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 21}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 21
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90, "endurance": 60},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["barbell", "full-body", "conditioning", "squat", "press", "crossfit"]
+    "tags": [
+      "barbell",
+      "full-body",
+      "conditioning",
+      "squat",
+      "press",
+      "crossfit"
+    ]
   }
 }

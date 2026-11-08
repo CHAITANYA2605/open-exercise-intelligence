@@ -1,8 +1,11 @@
 {
-  "exercise_id": "co000042-0000-4000-a000-000000000042",
+  "exercise_id": "6b8d93cc-4255-4b0d-b70d-4062566c50b0",
   "slug": "jackknife-sit-up",
   "name": "Jackknife Sit-Up — Swiss Ball",
-  "alternative_names": ["Swiss Ball Jackknife", "Stability Ball Jackknife Sit-Up"],
+  "alternative_names": [
+    "Swiss Ball Jackknife",
+    "Stability Ball Jackknife Sit-Up"
+  ],
   "description": "The Swiss ball jackknife sit-up combines simultaneous hip flexion and spinal flexion by having the athlete curl both the lower body (rolling the ball forward) and the upper body upward to meet in the middle in a folding or jackknife motion. The unstable surface of the Swiss ball challenges core stability throughout the movement, while the simultaneous recruitment of the upper and lower rectus abdominis creates a unique peak-contraction stimulus. The movement requires significant hip flexor and abdominal coordination.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000046-0000-4000-a000-000000000046"],
+  "equipment_required": [
+    "eq000046-0000-4000-a000-000000000046"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie back on the Swiss ball with the ball under the lower to mid-back, feet flat on the floor. Arms can be extended back overhead or crossed at the chest.",
@@ -45,20 +71,63 @@
       "Only performing the upper-body crunch without bringing the knees up",
       "Losing balance on the ball — start with feet slightly wider for stability"
     ],
-    "safety_considerations": ["Ensure the ball is on a non-slip surface and correctly sized"],
+    "safety_considerations": [
+      "Ensure the ball is on a non-slip surface and correctly sized"
+    ],
     "range_of_motion_guidance": "Full extension draped over the ball to full jackknife with knees and chest meeting.",
     "tempo_recommendations": "2-1-2-0. Fully controlled — the ball challenges coordination.",
-    "coaching_cues": ["Bring the knees and chest to meet each other", "Control both directions equally"]
+    "coaching_cues": [
+      "Bring the knees and chest to meet each other",
+      "Control both directions equally"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "abs", "swiss-ball", "jackknife", "advanced"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "abs",
+      "swiss-ball",
+      "jackknife",
+      "advanced"
+    ]
+  }
 }

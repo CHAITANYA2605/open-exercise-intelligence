@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g001-4000-a000-000000000301",
+  "exercise_id": "bbfa357d-aba0-41c8-854e-9bbdd4755b99",
   "slug": "box-jump",
   "name": "Box Jump",
-  "alternative_names": ["Box Jumps", "Plyo Box Jump"],
+  "alternative_names": [
+    "Box Jumps",
+    "Plyo Box Jump"
+  ],
   "description": "The box jump is a foundational plyometric exercise in which the athlete jumps from the floor onto an elevated box or platform, training explosive lower body power through rapid force production in the quadriceps, glutes, and calves. The landing should be controlled and soft — absorbing the impact through the entire lower limb — to protect the joints and train the deceleration pattern. Box jumps are widely used in sport conditioning, athletic development, and high-intensity interval training.",
   "category": "plyometric",
   "exercise_type": "plyometric",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing a sturdy box or platform at a comfortable height (begin at 30–50 cm). Feet shoulder-width apart.",
@@ -69,21 +98,43 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 3, "max_reps": 8}
+      {
+        "goal": "power",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"power": 120},
-    "training_goals": ["power"]
+    "rest_periods": {
+      "power": 120
+    },
+    "training_goals": [
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plyometric", "power", "lower-body", "jumping"]
+    "tags": [
+      "plyometric",
+      "power",
+      "lower-body",
+      "jumping"
+    ]
   }
 }

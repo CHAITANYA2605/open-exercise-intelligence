@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e3f4a5b6-c7d8-4901-e234-f56a78b90c35",
+  "exercise_id": "8b1cb15f-231c-49a8-b48f-cf74251858e7",
   "slug": "ring-push-up-swiss-ball",
   "name": "Ring Push-Up with Feet on Swiss Ball",
-  "alternative_names": ["Rings and Ball Push-Up", "Triple Instability Push-Up"],
+  "alternative_names": [
+    "Rings and Ball Push-Up",
+    "Triple Instability Push-Up"
+  ],
   "description": "An extreme instability push-up variation combining gymnastic rings for the hands and a swiss ball for the feet. Both surfaces are unstable, requiring the entire kinetic chain — from wrist through shoulder, core, hip, and ankle — to continuously stabilize while executing the pressing movement. This creates maximal demand on stabilizer muscles across the full body while still loading the pectoralis major through the pressing range.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +18,52 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000042-0000-4000-a000-000000000042", "eq000046-0000-4000-a000-000000000046"],
+  "equipment_required": [
+    "eq000042-0000-4000-a000-000000000042",
+    "eq000046-0000-4000-a000-000000000046"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set rings low (push-up position height). Place a swiss ball behind the rings. Get into push-up position with hands in the rings and feet resting on the swiss ball. Establish full-body stability before the first rep.",
@@ -59,24 +92,55 @@
       "Every rep is a new challenge — reset mentally before each descent"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 2, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 2,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 240},
-    "training_goals": ["strength", "functional"]
+    "rest_periods": {
+      "strength": 240
+    },
+    "training_goals": [
+      "strength",
+      "functional"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rings", "swiss-ball", "push-up", "expert", "instability", "chest"]
+    "tags": [
+      "rings",
+      "swiss-ball",
+      "push-up",
+      "expert",
+      "instability",
+      "chest"
+    ]
   }
 }

@@ -1,8 +1,12 @@
 {
-  "exercise_id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+  "exercise_id": "6c60c3c6-07a8-4605-962b-5f1cdd95b08d",
   "slug": "terminal-knee-extension",
   "name": "Terminal Knee Extension",
-  "alternative_names": ["TKE", "Band Terminal Knee Extension", "Short Arc Quad"],
+  "alternative_names": [
+    "TKE",
+    "Band Terminal Knee Extension",
+    "Short Arc Quad"
+  ],
   "description": "Terminal knee extension (TKE) is a rehabilitation exercise that strengthens the quadriceps specifically in the final degrees of knee extension (from about 30 degrees to full extension). Using a resistance band anchored behind the knee, the exercise targets the VMO (vastus medialis oblique) and the final-range quad strength that is critical for knee stability. It is a standard exercise in ACL rehabilitation, patellar tendinopathy management, and post-surgical knee recovery.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,17 +19,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" },
-      { "muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis" }
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
     ],
     "secondary": [
-      { "muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis" }
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Anchor the resistance band loop at knee height behind you. Loop the band around the back of one knee. Stand facing away from the anchor with the band behind the working knee.",
@@ -64,21 +82,46 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 15, "max_reps": 20 }
+      {
+        "goal": "strength",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 60 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "knee", "quadriceps", "VMO", "ACL", "band", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "knee",
+      "quadriceps",
+      "VMO",
+      "ACL",
+      "band",
+      "beginner"
+    ]
   }
 }

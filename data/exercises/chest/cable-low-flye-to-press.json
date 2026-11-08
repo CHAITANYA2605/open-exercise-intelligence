@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d4e5f6a7-b8c9-4012-d345-e67f89a01b16",
+  "exercise_id": "3c1de2d5-03f4-433b-99b1-0cd398a5f422",
   "slug": "cable-low-flye-to-press",
   "name": "Cable Low Flye to Press",
-  "alternative_names": ["Cable Flye Press Combo", "Low Cable Flye and Press"],
+  "alternative_names": [
+    "Cable Flye Press Combo",
+    "Low Cable Flye and Press"
+  ],
   "description": "A combination movement that begins as a low-to-high cable flye targeting the upper pectoralis major, then transitions into a press motion at the top of the arc to fully extend the arms and further load the chest. This two-phase movement recruits both the isolation benefits of the flye and the loading capacity of the press in a single continuous rep.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ]
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand between two low cable pulleys. Hold one handle in each hand, cables running from low pulleys below hip level. Stand tall with a slight forward lean, arms extended down and to the sides.",
@@ -55,24 +75,54 @@
       "Lead with the chest, not the arms, on the upward sweep"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "flye", "press", "combo", "chest", "upper-chest"]
+    "tags": [
+      "cable",
+      "flye",
+      "press",
+      "combo",
+      "chest",
+      "upper-chest"
+    ]
   }
 }

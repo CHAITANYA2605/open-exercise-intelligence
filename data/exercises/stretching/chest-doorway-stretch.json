@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a0b1c2d3-e4f5-4a6b-7c8d-9e0f1a2b3c4d",
+  "exercise_id": "497a77e0-f000-4219-aac3-71ab5bc7b3b6",
   "slug": "chest-doorway-stretch",
   "name": "Doorway Chest Stretch",
-  "alternative_names": ["Pectoral Doorway Stretch", "Door Frame Chest Stretch"],
+  "alternative_names": [
+    "Pectoral Doorway Stretch",
+    "Door Frame Chest Stretch"
+  ],
   "description": "The doorway chest stretch uses a door frame to passively stretch the pectoral muscles and anterior deltoids into horizontal abduction, which is the antagonist movement to pushing and pressing. Regular stretching of the anterior chest is associated with improved shoulder posture, reduced risk of rounded shoulders, and better overhead shoulder mobility. The arm position can be adjusted to target the clavicular or sternal head of the pectoralis major.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,17 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal" },
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular" }
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand in an open doorway. Raise both arms to form a 90-degree angle at the elbow with forearms resting on the door frame.",
@@ -64,21 +81,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
     ],
-    "rest_periods": { "mobility": 10 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 10
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "pectoral", "stretch", "beginner", "posture", "shoulder"]
+    "tags": [
+      "chest",
+      "pectoral",
+      "stretch",
+      "beginner",
+      "posture",
+      "shoulder"
+    ]
   }
 }

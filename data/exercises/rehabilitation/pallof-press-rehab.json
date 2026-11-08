@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+  "exercise_id": "8452c2af-bc08-4795-96a0-9184a909a9ba",
   "slug": "pallof-press-rehab",
   "name": "Pallof Press",
-  "alternative_names": ["Anti-Rotation Press", "Cable Anti-Rotation Press"],
+  "alternative_names": [
+    "Anti-Rotation Press",
+    "Cable Anti-Rotation Press"
+  ],
   "description": "The Pallof press is an anti-rotation core stability exercise that challenges the ability to resist rotational forces rather than produce them. Performed with a resistance band or cable anchored to the side, the exerciser extends the arms in front of the chest and holds against the pull — requiring the entire core to contract isometrically to prevent rotation. It is a cornerstone of lumbar rehabilitation, athletic performance, and functional core training.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,18 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
-      { "muscle_id": "99999999-0001-4000-a000-000000000009", "muscle_slug": "rectus-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0001-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      { "muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "obliques" },
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "obliques"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Anchor a resistance band at chest height. Stand perpendicular to the anchor, far enough away to create tension. Hold the band with both hands at the chest.",
@@ -65,21 +85,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 10, "max_reps": 15 }
+      {
+        "goal": "strength",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 60 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "core", "anti-rotation", "lumbar", "stability", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "core",
+      "anti-rotation",
+      "lumbar",
+      "stability",
+      "beginner"
+    ]
   }
 }

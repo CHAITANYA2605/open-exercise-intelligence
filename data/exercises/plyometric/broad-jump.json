@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g003-4000-a000-000000000303",
+  "exercise_id": "5702e329-0f40-4998-b417-b0c73b8525d3",
   "slug": "broad-jump",
   "name": "Broad Jump",
-  "alternative_names": ["Standing Long Jump", "Horizontal Jump"],
+  "alternative_names": [
+    "Standing Long Jump",
+    "Horizontal Jump"
+  ],
   "description": "The broad jump is a horizontal plyometric exercise in which the athlete uses an explosive two-legged takeoff to cover maximum horizontal distance. Unlike the vertical box jump, the broad jump trains the ability to project force at an angle, which closely mirrors the acceleration mechanics of sprinting and many field sport movements. It is used as both a training exercise and a standard assessment of lower body explosive power in sport science settings.",
   "category": "plyometric",
   "exercise_type": "plyometric",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet shoulder-width apart behind a takeoff line. Arms extended down at the sides.",
@@ -68,21 +97,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 3, "max_reps": 6}
+      {
+        "goal": "power",
+        "min_reps": 3,
+        "max_reps": 6
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"power": 120},
-    "training_goals": ["power"]
+    "rest_periods": {
+      "power": 120
+    },
+    "training_goals": [
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plyometric", "power", "horizontal-power", "sport", "assessment"]
+    "tags": [
+      "plyometric",
+      "power",
+      "horizontal-power",
+      "sport",
+      "assessment"
+    ]
   }
 }

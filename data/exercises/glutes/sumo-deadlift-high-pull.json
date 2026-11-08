@@ -1,8 +1,10 @@
 {
-  "exercise_id": "a1b2c3d4-0044-4000-a000-glut00000012",
+  "exercise_id": "f72940ad-c2fe-4fb3-a780-6d2d962d15fe",
   "slug": "sumo-deadlift-high-pull",
   "name": "Sumo Deadlift High Pull",
-  "alternative_names": ["SDHP"],
+  "alternative_names": [
+    "SDHP"
+  ],
   "description": "The sumo deadlift high pull is a combination movement that begins with a wide-stance deadlift and transitions into an upright row as the bar passes the waist, pulling it up to chin height. It trains the posterior chain through the lower phase and the upper back and shoulders through the pull. The wide stance emphasizes the glutes and inner thighs more than a conventional stance, and the explosive transition between phases develops full-body power. It is a staple movement in CrossFit and functional fitness programming.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +17,54 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0001-4000-a000-00000000000d",
+        "muscle_slug": "hamstrings"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "secondary": [
-      {"muscle_id": "ffffffff-0001-4000-a000-00000000000f", "muscle_slug": "adductors"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"},
-      {"muscle_id": "66666666-0001-4000-a000-000000000006", "muscle_slug": "biceps"}
+      {
+        "muscle_id": "ffffffff-0001-4000-a000-00000000000f",
+        "muscle_slug": "adductors"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "66666666-0001-4000-a000-000000000006",
+        "muscle_slug": "biceps"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "cccccccc-0001-4000-a000-00000000000c", "muscle_slug": "quadriceps"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "cccccccc-0001-4000-a000-00000000000c",
+        "muscle_slug": "quadriceps"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
-  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "execution": {
     "starting_position": "Stand with feet wider than shoulder-width, toes turned out 30–45°. Barbell over mid-foot. Hinge at the hips and grip the bar with a shoulder-width overhand grip inside the legs.",
     "setup_instructions": "Set up like a sumo deadlift — wide stance, bar over mid-foot, hips above knees, chest up. Use a barbell or kettlebell.",
@@ -61,33 +94,81 @@
     ]
   },
   "variants": {
-    "easier": ["sumo-deadlift"],
+    "easier": [
+      "sumo-deadlift"
+    ],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["sumo-deadlift"],
-    "equipment_alternatives": ["kettlebell-swing"]
+    "bilateral": [
+      "sumo-deadlift"
+    ],
+    "equipment_alternatives": [
+      "kettlebell-swing"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 3, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12},
-      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "power",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"power": 180, "hypertrophy": 90, "endurance": 60},
-    "training_goals": ["power", "hypertrophy"]
+    "rest_periods": {
+      "power": 180,
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "power",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute", "posterior-chain", "power", "crossfit", "full-body"]
+    "tags": [
+      "glute",
+      "posterior-chain",
+      "power",
+      "crossfit",
+      "full-body"
+    ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/open-exercise-intelligence/oei/blob/main/schema/exercise.schema.json",
+  "$id": "https://github.com/CHAITANYA2605/open-exercise-intelligence/blob/main/schema/exercise.schema.json",
   "title": "Exercise",
   "description": "A single exercise record in the Open Exercise Intelligence dataset",
   "type": "object",

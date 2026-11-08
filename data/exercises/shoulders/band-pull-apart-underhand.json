@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sh010032-f3a2-4c1e-9b8d-7e6f5a4c3c13",
+  "exercise_id": "2c4597e1-049d-42c8-9139-870a0bac4d2b",
   "slug": "band-pull-apart-underhand",
   "name": "Band Pull-Apart (Underhand Grip)",
-  "alternative_names": ["Supinated Band Pull-Apart", "Reverse Grip Band Pull-Apart"],
+  "alternative_names": [
+    "Supinated Band Pull-Apart",
+    "Reverse Grip Band Pull-Apart"
+  ],
   "description": "The underhand (supinated) grip band pull-apart shifts emphasis from the overhand version toward the lower trapezius and posterior deltoid, while also incorporating greater biceps tendon stress and external rotation. The supinated grip forces the humeral head into a more externally rotated position throughout the movement, which can be both a corrective exercise cue for those with internally rotated posture and a tool for targeting slightly different scapular retractor fibers than the standard overhand pull-apart.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,17 +18,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hold a resistance band with an underhand (supinated) grip, hands shoulder-width apart, arms extended in front at shoulder height. Palms face the ceiling.",
@@ -42,29 +62,65 @@
       "Letting the grip rotate to neutral or pronated during the pull",
       "Using a band that is too heavy, causing the elbows to bend excessively"
     ],
-    "safety_considerations": ["Ensure the band is in good condition before use — worn bands can snap"],
+    "safety_considerations": [
+      "Ensure the band is in good condition before use — worn bands can snap"
+    ],
     "range_of_motion_guidance": "Band starts at shoulder height with arms forward, pulled to chest-contact at the rear.",
     "tempo_recommendations": "2-1-2-0",
-    "coaching_cues": ["Palms face up the whole time", "Pull through the rear deltoid", "Feel the scapulae squeeze at the end"]
+    "coaching_cues": [
+      "Palms face up the whole time",
+      "Pull through the rear deltoid",
+      "Feel the scapulae squeeze at the end"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 45},
-    "training_goals": ["rehabilitation", "hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 45
+    },
+    "training_goals": [
+      "rehabilitation",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shoulders", "rear-delt", "band", "corrective", "external-rotation"]
+    "tags": [
+      "shoulders",
+      "rear-delt",
+      "band",
+      "corrective",
+      "external-rotation"
+    ]
   }
 }

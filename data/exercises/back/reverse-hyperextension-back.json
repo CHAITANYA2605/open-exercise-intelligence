@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c0d1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
+  "exercise_id": "d63605ef-be16-4c2f-8731-e6f851788509",
   "slug": "reverse-hyperextension-back",
   "name": "Reverse Hyperextension",
-  "alternative_names": ["Reverse Hyper", "Reverse Back Extension"],
+  "alternative_names": [
+    "Reverse Hyper",
+    "Reverse Back Extension"
+  ],
   "description": "The reverse hyperextension trains the posterior chain with the opposite movement pattern from a standard back extension — the torso is fixed and the legs swing posteriorly. This arrangement decompresses the lumbar spine on each lowering phase while loading the glutes and hamstrings concentrically on the ascent. It is considered a low-spinal-load alternative for posterior chain development.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" },
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
-      { "muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus" }
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ]
   },
-  "equipment_required": ["eq000040-0000-4000-a000-000000000040"],
+  "equipment_required": [
+    "eq000040-0000-4000-a000-000000000040"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie face down on a hyperextension bench with the hips at the edge of the pad and the torso supported on the bench. Grip the handles or sides of the bench firmly. Let the legs hang down toward the floor.",
@@ -66,23 +89,56 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 },
-      { "goal": "endurance", "min_reps": 20, "max_reps": 30 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 },
-      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "hypertrophy": 60, "endurance": 30 },
-    "training_goals": ["hypertrophy", "endurance"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glutes", "hamstrings", "back-extension", "posterior-chain", "decompression"]
+    "tags": [
+      "glutes",
+      "hamstrings",
+      "back-extension",
+      "posterior-chain",
+      "decompression"
+    ]
   }
 }

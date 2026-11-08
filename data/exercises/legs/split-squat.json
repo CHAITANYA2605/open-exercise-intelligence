@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0028-4000-a000-legs00000028",
+  "exercise_id": "68e5945a-5577-4013-89ad-e6823bba7754",
   "slug": "split-squat",
   "name": "Split Squat",
-  "alternative_names": ["Stationary Lunge", "Static Lunge"],
+  "alternative_names": [
+    "Stationary Lunge",
+    "Static Lunge"
+  ],
   "description": "The split squat is a stationary lunge variation where the feet remain fixed in a staggered stance throughout the set. Unlike a walking or reverse lunge, there is no stepping involved — the lifter descends and ascends repeatedly from the same foot position. This makes it an excellent tool for single-leg strength development with greater stability than other lunge variations and a valuable precursor to the Bulgarian split squat.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +18,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000007-0000-4000-a000-000000000007", "eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "execution": {
     "starting_position": "Take a lunge stride and hold it — one foot forward, one foot back. The rear foot rests on its toes. The torso is upright.",
     "setup_instructions": "Adjust stride length so the front shin is roughly vertical when the rear knee is near the floor. Hold dumbbells at the sides or use a barbell on the traps for load.",
@@ -60,33 +92,79 @@
     ]
   },
   "variants": {
-    "easier": ["reverse-lunge"],
-    "harder": ["bulgarian-split-squat"],
+    "easier": [
+      "reverse-lunge"
+    ],
+    "harder": [
+      "bulgarian-split-squat"
+    ],
     "unilateral": [],
-    "bilateral": ["barbell-squat"],
+    "bilateral": [
+      "barbell-squat"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["lunge", "unilateral", "beginner-friendly"]
+    "tags": [
+      "lunge",
+      "unilateral",
+      "beginner-friendly"
+    ]
   }
 }

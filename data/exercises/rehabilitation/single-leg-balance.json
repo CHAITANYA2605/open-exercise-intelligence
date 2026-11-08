@@ -1,8 +1,11 @@
 {
-  "exercise_id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+  "exercise_id": "82a784dc-cd7d-46a5-b0f9-eb9c02af935c",
   "slug": "single-leg-balance",
   "name": "Single-Leg Balance",
-  "alternative_names": ["Unilateral Stance", "Single-Leg Stand"],
+  "alternative_names": [
+    "Unilateral Stance",
+    "Single-Leg Stand"
+  ],
   "description": "Single-leg balance is a foundational proprioception and balance rehabilitation exercise. Standing on one leg challenges the ankle stabilizers, peroneals, gluteus medius, and the entire proprioceptive chain from foot to hip. It is a standard initial exercise in ankle sprain rehabilitation, ACL reconstruction recovery, and fall prevention programs. Progressions include eyes closed, unstable surfaces, and reaching tasks.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" },
-      { "muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus" }
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial" },
-      { "muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior" }
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand tall near a wall or support for safety. Lift one foot slightly off the ground.",
@@ -66,21 +89,46 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 3, "max_reps": 5 }
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 30 },
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 30
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "balance", "proprioception", "ankle", "glute-med", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "balance",
+      "proprioception",
+      "ankle",
+      "glute-med",
+      "beginner"
+    ]
   }
 }

@@ -1,8 +1,12 @@
 {
-  "exercise_id": "sm000006-0000-4000-a000-000000000006",
+  "exercise_id": "3fb89fc9-da3d-4e4c-997f-659ce1de7d9f",
   "slug": "axle-bar-deadlift",
   "name": "Axle Bar Deadlift",
-  "alternative_names": ["Axle Deadlift", "Thick Bar Deadlift", "2-Inch Bar Deadlift"],
+  "alternative_names": [
+    "Axle Deadlift",
+    "Thick Bar Deadlift",
+    "2-Inch Bar Deadlift"
+  ],
   "description": "The axle bar deadlift uses a straight steel bar with a diameter of approximately 50 mm (2 inches) compared to the standard 28–32 mm Olympic barbell, which increases grip demand dramatically due to the larger circumference that the hand must span. The movement pattern is identical to a conventional barbell deadlift in terms of posterior chain loading, but the grip becomes the primary limiting factor at heavy loads, making it an effective training tool for grip strength development. It is a contested lift in strongman competition alongside the standard deadlift.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +19,55 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ]
   },
-  "equipment_required": ["eq000004-0000-4000-a000-000000000004"],
+  "equipment_required": [
+    "eq000004-0000-4000-a000-000000000004"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet hip-width apart, toes pointing forward or slightly out. The axle bar rests at mid-shin. Grip the bar with a double-overhand grip (straps are permitted in training but not all competitions). Push hips back, chest up, neutral spine.",
@@ -70,22 +106,50 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 3, "max_reps": 8}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 6}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"strength": 300, "hypertrophy": 180},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 300,
+      "hypertrophy": 180
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "deadlift", "grip", "axle-bar", "posterior-chain"]
+    "tags": [
+      "strongman",
+      "deadlift",
+      "grip",
+      "axle-bar",
+      "posterior-chain"
+    ]
   }
 }

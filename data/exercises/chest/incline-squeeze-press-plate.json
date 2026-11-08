@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d2e3f4a5-b6c7-4890-d123-e45f67a89b34",
+  "exercise_id": "3eec1f18-c735-480a-8660-dbc7b97a51a8",
   "slug": "incline-squeeze-press-plate",
   "name": "Incline Squeeze Press with Plate",
-  "alternative_names": ["Incline Plate Press Squeeze", "Plate Squeeze Press Incline"],
+  "alternative_names": [
+    "Incline Plate Press Squeeze",
+    "Plate Squeeze Press Incline"
+  ],
   "description": "An incline pressing variation where both palms press against opposite sides of a weight plate, maintaining continuous adduction force throughout the movement. The incline angle targets the clavicular pectoralis major while the sustained lateral squeeze on the plate creates constant isometric adduction that significantly increases medial pectoral fiber activation.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,16 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000022-0000-4000-a000-000000000022", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000022-0000-4000-a000-000000000022",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on an incline bench (30–45 degrees). Hold a weight plate with both palms pressing inward against its flat sides. Begin with arms extended above the upper chest.",
@@ -52,24 +70,54 @@
       "Think of crushing the plate: that internal force activates the medial pecs"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 75},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plate", "incline", "squeeze", "press", "upper-chest", "adduction"]
+    "tags": [
+      "plate",
+      "incline",
+      "squeeze",
+      "press",
+      "upper-chest",
+      "adduction"
+    ]
   }
 }

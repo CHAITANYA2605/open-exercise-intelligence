@@ -1,8 +1,12 @@
 {
-  "exercise_id": "b8c9d0e1-f2a3-4b4c-5d6e-f7a8b9c0d408",
+  "exercise_id": "5a3a082f-ff5a-411f-94d2-8d9077605fda",
   "slug": "high-to-low-cable-fly",
   "name": "High-to-Low Cable Fly",
-  "alternative_names": ["High Cable Fly", "Cable Fly (High Pulley)", "Decline Cable Fly"],
+  "alternative_names": [
+    "High Cable Fly",
+    "Cable Fly (High Pulley)",
+    "Decline Cable Fly"
+  ],
   "description": "The high-to-low cable fly is performed with the cable pulleys set at the highest position, with the arms arcing downward and inward. This downward adduction path matches the line of pull of the sternal (lower) pectoralis major fibers, making this variation particularly effective for lower chest development. Constant cable tension provides loading through the full range of motion.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,20 +19,42 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
     ]
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
-  "equipment_optional": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
+  "equipment_optional": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "execution": {
     "starting_position": "Set both cable pulleys to the highest position. Grasp the handles and step forward so the cables pull from above. Stand tall or stagger your stance slightly. Arms begin high and wide with a slight elbow bend.",
     "setup_instructions": "Set both cable pulleys to the topmost position. Attach single-handle D-ring attachments. Stand between the stacks and step forward far enough to feel tension from above.",
@@ -58,28 +84,65 @@
     "easier": [],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["cable-fly", "low-to-high-cable-fly"],
-    "equipment_alternatives": ["dumbbell-fly", "decline-barbell-bench-press"]
+    "bilateral": [
+      "cable-fly",
+      "low-to-high-cable-fly"
+    ],
+    "equipment_alternatives": [
+      "dumbbell-fly",
+      "decline-barbell-bench-press"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "lower-chest", "isolation", "fly"]
+    "tags": [
+      "cable",
+      "lower-chest",
+      "isolation",
+      "fly"
+    ]
   }
 }

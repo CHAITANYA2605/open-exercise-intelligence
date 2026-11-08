@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50006",
+  "exercise_id": "d628908d-3427-48a5-8ae3-198460e6d822",
   "slug": "trap-bar-deadlift-band-torso",
   "name": "Trap Bar Deadlift with Band Around Torso",
-  "alternative_names": ["Hex Bar Deadlift Band Torso", "Banded Hip Distraction Trap Bar"],
+  "alternative_names": [
+    "Hex Bar Deadlift Band Torso",
+    "Banded Hip Distraction Trap Bar"
+  ],
   "description": "A trap bar deadlift variation in which a resistance band is looped around the hips and anchored behind the lifter, creating a horizontal pulling force that challenges anti-flexion stability and hip hinge mechanics simultaneously. The band pulls the hips backward during the lift, forcing the lifter to actively resist the band by driving the hips forward through the top of the movement. This provides instant proprioceptive feedback for hip extension completion and is used in both strength training and deadlift technique correction.",
   "category": "functional",
   "exercise_type": "compound",
@@ -15,19 +18,40 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000004-0000-4000-a000-000000000004", "eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000004-0000-4000-a000-000000000004",
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Loop a resistance band around the hips and anchor the other end to a fixed point behind the lifter at approximately hip height. Stand inside a trap bar loaded with weight. The band should provide meaningful horizontal tension when standing.",
@@ -39,32 +63,81 @@
       "Step 4: At lockout, fully extend the hips and push through the band tension. Lower under control."
     ],
     "breathing_instructions": "Inhale and brace before the pull. Exhale forcefully at lockout as you drive the hips forward.",
-    "common_mistakes": ["Not fully extending the hips at lockout — the band should be maximally tensioned at the top", "Using a band anchor that is too low, creating a downward rather than horizontal pull", "Using a band that is too light to provide meaningful resistance at lockout"],
-    "safety_considerations": ["Ensure the band anchor is completely secure before lifting", "If the band causes balance issues, reduce the bar weight until the movement pattern is stabilized"],
+    "common_mistakes": [
+      "Not fully extending the hips at lockout — the band should be maximally tensioned at the top",
+      "Using a band anchor that is too low, creating a downward rather than horizontal pull",
+      "Using a band that is too light to provide meaningful resistance at lockout"
+    ],
+    "safety_considerations": [
+      "Ensure the band anchor is completely secure before lifting",
+      "If the band causes balance issues, reduce the bar weight until the movement pattern is stabilized"
+    ],
     "range_of_motion_guidance": "Full deadlift range — floor to full hip extension against the band.",
     "tempo_recommendations": "2s pull, 1s lockout hold against band, 3s eccentric lower",
-    "coaching_cues": ["Drive the hips through the band at the top — it should feel like you are pushing forward against resistance at lockout", "Feel the difference in glute activation at lockout compared to a standard trap bar deadlift", "The band teaches you to complete the hip extension — do not stop at 90% of the way up"]
+    "coaching_cues": [
+      "Drive the hips through the band at the top — it should feel like you are pushing forward against resistance at lockout",
+      "Feel the difference in glute activation at lockout compared to a standard trap bar deadlift",
+      "The band teaches you to complete the hip extension — do not stop at 90% of the way up"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "endurance", "min_reps": 5, "max_reps": 8}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 5,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 90},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["deadlift", "trap-bar", "functional", "band", "hip-extension"]
+    "tags": [
+      "deadlift",
+      "trap-bar",
+      "functional",
+      "band",
+      "hip-extension"
+    ]
   }
 }

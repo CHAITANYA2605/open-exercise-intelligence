@@ -1,8 +1,12 @@
 {
-  "exercise_id": "c9d0e1f2-a3b4-4c5d-6e7f-a8b9c0d1e439",
+  "exercise_id": "263aff83-dbe3-457d-890c-52419497e492",
   "slug": "tricep-dips-bench",
   "name": "Bench Tricep Dips",
-  "alternative_names": ["Bench Dips", "Chair Dips", "Seated Dips"],
+  "alternative_names": [
+    "Bench Dips",
+    "Chair Dips",
+    "Seated Dips"
+  ],
   "description": "Bench tricep dips are a bodyweight exercise where the hands are placed on a bench behind the body with the hips off the edge, and the body is lowered by bending the elbows. The triceps are the primary movers during elbow extension, while the anterior deltoid and pectoralis minor assist. Placing the feet flat on the floor makes this easier; elevating the feet increases difficulty.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,18 +19,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
     ]
   },
-  "equipment_required": ["eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the edge of a flat bench. Place hands beside the hips on the bench edge, fingers pointing forward. Slide the hips off the edge so the torso is suspended, feet flat on the floor.",
@@ -55,32 +76,79 @@
   },
   "variants": {
     "easier": [],
-    "harder": ["dips"],
+    "harder": [
+      "dips"
+    ],
     "unilateral": [],
-    "bilateral": ["dips", "close-grip-bench-press"],
+    "bilateral": [
+      "dips",
+      "close-grip-bench-press"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 30},
-    "training_goals": ["hypertrophy", "endurance"]
+    "rest_periods": {
+      "strength": 90,
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["bodyweight", "triceps", "beginner", "bench", "dip"]
+    "tags": [
+      "bodyweight",
+      "triceps",
+      "beginner",
+      "bench",
+      "dip"
+    ]
   }
 }

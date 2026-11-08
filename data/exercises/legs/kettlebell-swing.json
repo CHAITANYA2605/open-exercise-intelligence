@@ -1,8 +1,12 @@
 {
-  "exercise_id": "a1b2c3d4-0024-4000-a000-legs00000024",
+  "exercise_id": "89123ed3-ceb2-4496-8a61-ae269bc3cfd4",
   "slug": "kettlebell-swing",
   "name": "Kettlebell Swing",
-  "alternative_names": ["KB Swing", "Russian Kettlebell Swing", "American Kettlebell Swing"],
+  "alternative_names": [
+    "KB Swing",
+    "Russian Kettlebell Swing",
+    "American Kettlebell Swing"
+  ],
   "description": "The kettlebell swing is a ballistic hip-hinge exercise in which the kettlebell is swung from between the knees to chest height (Russian) or overhead (American) using explosive hip extension. Despite the apparent arm movement, the swing is fundamentally a posterior chain exercise — the glutes and hamstrings generate the force that propels the kettlebell, while the arms merely guide it. It develops explosive hip power, posterior chain endurance, and cardiovascular conditioning simultaneously.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +19,55 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
-      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0002-4000-a000-000000000005", "muscle_slug": "iliocostalis"},
-      {"muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "longissimus"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "55555555-0002-4000-a000-000000000005",
+        "muscle_slug": "iliocostalis"
+      },
+      {
+        "muscle_id": "55555555-0003-4000-a000-000000000005",
+        "muscle_slug": "longissimus"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet slightly wider than shoulder-width with the kettlebell on the floor just in front. Hinge at the hip to grip the kettlebell with both hands, tilting it toward you.",
@@ -63,33 +99,81 @@
     ]
   },
   "variants": {
-    "easier": ["cable-pull-through"],
+    "easier": [
+      "cable-pull-through"
+    ],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["barbell-romanian-deadlift"],
-    "equipment_alternatives": ["cable-pull-through"]
+    "bilateral": [
+      "barbell-romanian-deadlift"
+    ],
+    "equipment_alternatives": [
+      "cable-pull-through"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 50}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 50
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 6}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 30},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hinge", "glute", "conditioning", "kettlebell", "ballistic"]
+    "tags": [
+      "hinge",
+      "glute",
+      "conditioning",
+      "kettlebell",
+      "ballistic"
+    ]
   }
 }

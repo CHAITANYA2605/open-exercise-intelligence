@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-h012-4000-a000-000000000412",
+  "exercise_id": "afee3463-c8b5-4850-b0b9-880ef48c8ed1",
   "slug": "inchworm",
   "name": "Inchworm",
-  "alternative_names": ["Inchworm Walk-Out", "Walk Out Push-Up"],
+  "alternative_names": [
+    "Inchworm Walk-Out",
+    "Walk Out Push-Up"
+  ],
   "description": "The inchworm is a dynamic warm-up and functional movement exercise in which the athlete bends forward to place the hands on the floor and walks the hands out to a push-up plank position, then walks the feet back toward the hands to return upright. It simultaneously provides a hamstring stretch during the foot-walk phase, shoulder and chest warm-up in the plank phase, and an optional push-up for further activation. The inchworm is a highly efficient all-in-one mobility and activation drill used globally as a warm-up.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright with feet hip-width apart.",
@@ -67,21 +93,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"mobility": 30},
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 30
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["functional", "warm-up", "mobility", "hamstring", "bodyweight"]
+    "tags": [
+      "functional",
+      "warm-up",
+      "mobility",
+      "hamstring",
+      "bodyweight"
+    ]
   }
 }

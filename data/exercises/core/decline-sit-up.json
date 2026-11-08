@@ -1,8 +1,11 @@
 {
-  "exercise_id": "co000034-0000-4000-a000-000000000034",
+  "exercise_id": "3d06ccb5-7e4e-41b0-84b1-68968cadaa40",
   "slug": "decline-sit-up",
   "name": "Decline Sit-Up",
-  "alternative_names": ["Decline Bench Sit-Up", "Incline Sit-Up"],
+  "alternative_names": [
+    "Decline Bench Sit-Up",
+    "Incline Sit-Up"
+  ],
   "description": "The decline sit-up is performed on a decline bench with the feet secured at the high end, increasing the range of motion and gravitational challenge compared to a flat-surface sit-up. The decline angle lengthens the rectus abdominis at the starting position, providing a greater stretch-to-contraction range that is not achievable on a flat surface. Hip flexors contribute significantly at the lower portion of the movement, while the rectus abdominis dominates during the final degrees of spinal flexion at the top.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ]
   },
-  "equipment_required": ["eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the decline bench with feet secured under the ankle pads, knees bent. Cross arms over the chest or place fingertips behind the ears.",
@@ -44,21 +67,68 @@
       "Pulling the neck with the hands behind the head — this compresses the cervical spine",
       "Using a momentum bounce at the bottom rather than a controlled eccentric"
     ],
-    "safety_considerations": ["Those with lower-back issues should consult a clinician before performing decline sit-ups due to substantial lumbar loading"],
+    "safety_considerations": [
+      "Those with lower-back issues should consult a clinician before performing decline sit-ups due to substantial lumbar loading"
+    ],
     "range_of_motion_guidance": "Full extension at the bottom to full upright (or slightly forward) at the top.",
     "tempo_recommendations": "2-1-2-0. Slow and controlled. No bouncing at the bottom.",
-    "coaching_cues": ["Lead with the chest, not the neck", "Control the way down — don't drop"]
+    "coaching_cues": [
+      "Lead with the chest, not the neck",
+      "Control the way down — don't drop"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy", "endurance"]
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "abs", "sit-up", "decline"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "abs",
+      "sit-up",
+      "decline"
+    ]
+  }
 }

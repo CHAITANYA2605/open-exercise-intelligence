@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0037-4000-a000-glut00000005",
+  "exercise_id": "948afa65-0be2-4ded-93ec-84312d629b92",
   "slug": "fire-hydrant",
   "name": "Fire Hydrant",
-  "alternative_names": ["Hip Abduction on All Fours", "Quadruped Hip Abduction"],
+  "alternative_names": [
+    "Hip Abduction on All Fours",
+    "Quadruped Hip Abduction"
+  ],
   "description": "The fire hydrant is performed on all fours by raising one bent knee out to the side, training hip abduction while the torso is stabilized on the hands and opposite knee. The movement targets the gluteus medius and tensor fasciae latae — muscles critical for pelvic stability, lateral movement, and injury prevention. The name comes from the resemblance to a dog approaching a fire hydrant.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,20 +18,42 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "execution": {
     "starting_position": "Begin on hands and knees with wrists under shoulders and knees under hips. Spine is neutral.",
     "setup_instructions": "Bodyweight is sufficient. A mini resistance band around the thighs just above the knees adds progressive load.",
@@ -59,30 +84,68 @@
   },
   "variants": {
     "easier": [],
-    "harder": ["side-lying-abduction", "hip-abduction-machine"],
+    "harder": [
+      "side-lying-abduction",
+      "hip-abduction-machine"
+    ],
     "unilateral": [],
     "bilateral": [],
-    "equipment_alternatives": ["side-lying-abduction"]
+    "equipment_alternatives": [
+      "side-lying-abduction"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 45, "endurance": 30},
-    "training_goals": ["hypertrophy", "rehabilitation"]
+    "rest_periods": {
+      "hypertrophy": 45,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute-medius", "abduction", "beginner", "rehab", "bodyweight"]
+    "tags": [
+      "glute-medius",
+      "abduction",
+      "beginner",
+      "rehab",
+      "bodyweight"
+    ]
   }
 }

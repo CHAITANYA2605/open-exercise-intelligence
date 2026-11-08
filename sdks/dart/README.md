@@ -1,6 +1,6 @@
 # OEI Dart/Flutter SDK
 
-Official Dart and Flutter SDK for the [Open Exercise Intelligence](https://github.com/open-exercise-intelligence/oei) dataset.
+Official Dart and Flutter SDK for the [Open Exercise Intelligence](https://github.com/CHAITANYA2605/open-exercise-intelligence) dataset.
 
 Supports two modes:
 - **Offline / Flutter asset** — load the 3 MB dataset from a bundled asset, zero network required
@@ -16,7 +16,7 @@ Add to your `pubspec.yaml`:
 dependencies:
   oei:
     git:
-      url: https://github.com/open-exercise-intelligence/oei.git
+      url: https://github.com/CHAITANYA2605/open-exercise-intelligence.git
       path: sdks/dart
 ```
 

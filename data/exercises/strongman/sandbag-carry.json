@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sm000002-0000-4000-a000-000000000002",
+  "exercise_id": "93ecfd36-fdb9-4092-aced-1cdfe1718ad1",
   "slug": "sandbag-carry",
   "name": "Weighted Sandbag Shoulder Carry",
-  "alternative_names": ["Sandbag Bear Hug Carry", "Sandbag Shoulder Walk"],
+  "alternative_names": [
+    "Sandbag Bear Hug Carry",
+    "Sandbag Shoulder Walk"
+  ],
   "description": "The sandbag shoulder carry involves hoisting a heavy sandbag onto one shoulder and walking a prescribed distance, then alternating shoulders. The shifting, unstable load of the sandbag demands continuous core engagement to prevent lateral trunk collapse, making it a highly effective functional strength and conditioning tool that transfers directly to athletic and occupational performance. Unlike rigid implements, the sandbag's shifting contents require constant neuromuscular adjustments that challenge stabilizing muscles far more than a comparable barbell load.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
@@ -69,22 +99,51 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 4},
-      {"goal": "endurance", "min_reps": 2, "max_reps": 6}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 4
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 2,
+        "max_reps": 6
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 120},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 120
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "carry", "functional", "sandbag", "core"]
+    "tags": [
+      "strongman",
+      "carry",
+      "functional",
+      "sandbag",
+      "core"
+    ]
   }
 }

@@ -13,7 +13,7 @@ info:
     search engine in `search/index.js`.
   contact:
     name: OEI Contributors
-    url: https://github.com/open-exercise-intelligence/oei
+    url: https://github.com/CHAITANYA2605/open-exercise-intelligence
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -29,6 +29,8 @@ tags:
     description: Muscle taxonomy
   - name: equipment
     description: Equipment taxonomy
+  - name: media
+    description: Media assets linked to exercises
   - name: meta
     description: Dataset metadata
 
@@ -260,6 +262,102 @@ paths:
                   total:
                     type: integer
 
+  /media:
+    get:
+      operationId: listMedia
+      tags: [media]
+      summary: List all approved media assets (paginated)
+      parameters:
+        - name: page
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            default: 1
+        - name: per_page
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+      responses:
+        "200":
+          description: Paginated media asset list
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/MediaAssetListResponse"
+
+  /media/stats:
+    get:
+      operationId: getMediaStats
+      tags: [media]
+      summary: Get media asset counts by type, license, and status
+      responses:
+        "200":
+          description: Media statistics
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/MediaStats"
+
+  /media/{assetId}:
+    get:
+      operationId: getMediaAsset
+      tags: [media]
+      summary: Get a single media asset by UUID
+      parameters:
+        - name: assetId
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        "200":
+          description: Media asset detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/MediaAsset"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /exercises/{idOrSlug}/media:
+    get:
+      operationId: getExerciseMedia
+      tags: [media]
+      summary: Get all approved media assets for an exercise
+      parameters:
+        - name: idOrSlug
+          in: path
+          required: true
+          schema:
+            type: string
+          example: barbell-bench-press
+      responses:
+        "200":
+          description: Media assets for the exercise
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  exercise_id:
+                    type: string
+                    format: uuid
+                  slug:
+                    type: string
+                  media:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/MediaAsset"
+                  total:
+                    type: integer
+        "404":
+          $ref: "#/components/responses/NotFound"
+
   /dataset-version:
     get:
       operationId: getDatasetVersion
@@ -482,6 +580,135 @@ components:
       properties:
         error: { type: string }
         message: { type: string }
+
+    MediaLicense:
+      type: object
+      properties:
+        spdx:
+          type: string
+          description: SPDX license identifier (e.g. CC-BY-4.0, CC0-1.0)
+          example: CC-BY-4.0
+        url:
+          type: string
+          format: uri
+          description: URL to the full license text
+        attribution_required:
+          type: boolean
+
+    MediaProvenance:
+      type: object
+      properties:
+        source_url:
+          type: string
+          format: uri
+          description: Original URL where the asset was obtained
+        author:
+          type: string
+          description: Original creator or uploader name
+        author_url:
+          type: string
+          format: uri
+        retrieved_at:
+          type: string
+          format: date-time
+
+    MediaAsset:
+      type: object
+      required: [asset_id, exercise_id, media_type, url, status]
+      properties:
+        asset_id:
+          type: string
+          format: uuid
+          description: Unique identifier for the media asset
+        exercise_id:
+          type: string
+          format: uuid
+          description: UUID of the associated exercise
+        exercise_slug:
+          type: string
+          description: Slug of the associated exercise
+        media_type:
+          type: string
+          enum: [image, video, gif, diagram, animation]
+          description: Type of media
+        url:
+          type: string
+          format: uri
+          description: URL to access the media asset
+        thumbnail_url:
+          type: string
+          format: uri
+          description: URL to a smaller thumbnail version (images/videos)
+        alt_text:
+          type: string
+          description: Accessibility description of the asset
+        caption:
+          type: string
+        width_px:
+          type: integer
+          description: Width in pixels (images/video)
+        height_px:
+          type: integer
+          description: Height in pixels (images/video)
+        duration_seconds:
+          type: number
+          description: Duration in seconds (video/gif)
+        file_size_bytes:
+          type: integer
+        mime_type:
+          type: string
+          example: image/jpeg
+        status:
+          type: string
+          enum: [pending, approved, rejected, flagged]
+        license:
+          $ref: "#/components/schemas/MediaLicense"
+        provenance:
+          $ref: "#/components/schemas/MediaProvenance"
+        created_at:
+          type: string
+          format: date-time
+        updated_at:
+          type: string
+          format: date-time
+
+    MediaAssetListResponse:
+      type: object
+      required: [results, total, page, per_page, total_pages]
+      properties:
+        results:
+          type: array
+          items:
+            $ref: "#/components/schemas/MediaAsset"
+        total:
+          type: integer
+        page:
+          type: integer
+        per_page:
+          type: integer
+        total_pages:
+          type: integer
+
+    MediaStats:
+      type: object
+      properties:
+        by_type:
+          type: object
+          additionalProperties:
+            type: integer
+          description: Count of assets keyed by media_type
+        by_license:
+          type: object
+          additionalProperties:
+            type: integer
+          description: Count of assets keyed by license SPDX identifier
+        by_status:
+          type: object
+          additionalProperties:
+            type: integer
+          description: Count of assets keyed by status
+        total:
+          type: integer
 
   responses:
     NotFound:

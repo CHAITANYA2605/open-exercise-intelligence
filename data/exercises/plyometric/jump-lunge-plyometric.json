@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g013-4000-a000-000000000313",
+  "exercise_id": "f16ab3aa-36dd-4d8a-a0b1-224f8c37cc9f",
   "slug": "jump-lunge-plyometric",
   "name": "Plyometric Jump Lunge",
-  "alternative_names": ["Jump Lunge", "Explosive Lunge Jump"],
+  "alternative_names": [
+    "Jump Lunge",
+    "Explosive Lunge Jump"
+  ],
   "description": "The plyometric jump lunge combines a reverse lunge with a vertical jump, in which the athlete lunges down and then explosively jumps from the lunge position, landing softly back into the same lunge before repeating. Unlike the split jump, the athlete does not switch legs mid-air, making it a true unilateral explosive exercise per leg. It develops single-leg explosive power and lunge-pattern deceleration strength, and is an effective conditioning tool for lower body power endurance.",
   "category": "plyometric",
   "exercise_type": "plyometric",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright with feet together. Step one foot back into a reverse lunge to begin.",
@@ -67,23 +93,55 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 5, "max_reps": 8},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "power",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"power": 120, "endurance": 60},
-    "training_goals": ["power", "endurance"]
+    "rest_periods": {
+      "power": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "power",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["plyometric", "power", "lunge", "unilateral"]
+    "tags": [
+      "plyometric",
+      "power",
+      "lunge",
+      "unilateral"
+    ]
   }
 }

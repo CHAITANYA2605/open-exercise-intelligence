@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sm000008-0000-4000-a000-000000000008",
+  "exercise_id": "edc64881-bad7-480f-96e7-a6924d830baa",
   "slug": "trap-bar-farmers-carry",
   "name": "Trap Bar Heavy Farmer's Carry",
-  "alternative_names": ["Hex Bar Farmer's Carry", "Trap Bar Walk"],
+  "alternative_names": [
+    "Hex Bar Farmer's Carry",
+    "Trap Bar Walk"
+  ],
   "description": "The trap bar farmer's carry uses a hexagonal trap bar as the carrying implement, loading very heavy weights while keeping the load centred at the body's midline rather than hanging at the sides. The trap bar's neutral-grip handles and frame allow heavier loads than standard farmer's handles for most athletes, while the centred load distribution reduces spinal lateral flexion demands and allows trainees to overload the grip and trapezius safely. It is a staple in strength and conditioning programmes for developing absolute carry strength and grip endurance.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000004-0000-4000-a000-000000000004"],
+  "equipment_required": [
+    "eq000004-0000-4000-a000-000000000004"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "The trap bar is on the floor. Step inside the frame, feet hip-width apart. Grip the high handles. Hinge at the hips to reach the handles, back flat.",
@@ -67,22 +96,51 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 3},
-      {"goal": "endurance", "min_reps": 2, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 3
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 2,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 6}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 90},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "carry", "trap-bar", "grip", "functional"]
+    "tags": [
+      "strongman",
+      "carry",
+      "trap-bar",
+      "grip",
+      "functional"
+    ]
   }
 }

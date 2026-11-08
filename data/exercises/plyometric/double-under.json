@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g017-4000-a000-000000000317",
+  "exercise_id": "aad8b1e9-cafa-42d1-8de1-405f0694821a",
   "slug": "double-under",
   "name": "Double-Under",
-  "alternative_names": ["Double Under", "Double Jump Rope"],
+  "alternative_names": [
+    "Double Under",
+    "Double Jump Rope"
+  ],
   "description": "The double-under is an advanced jump rope skill in which the rope passes under the feet twice in a single jump, requiring a higher jump and faster rope rotation than a standard single-under. It significantly elevates the cardiovascular demand over single-unders, while also training rope timing, wrist speed, and the explosive ankle and calf plantarflexion needed to achieve sufficient jump height. Double-unders are a standard exercise in competitive functional fitness.",
   "category": "cardio",
   "exercise_type": "cardio",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright with the jump rope behind the heels, one handle in each hand.",
@@ -66,21 +89,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 20, "max_reps": 100}
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 100
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 3, "max_sets": 8}
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance"]
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cardio", "conditioning", "jump-rope", "advanced-skill", "coordination"]
+    "tags": [
+      "cardio",
+      "conditioning",
+      "jump-rope",
+      "advanced-skill",
+      "coordination"
+    ]
   }
 }

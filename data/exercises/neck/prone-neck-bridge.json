@@ -1,8 +1,11 @@
 {
-  "exercise_id": "nk010004-f3a2-4c1e-9b8d-7e6f5a4c3d04",
+  "exercise_id": "23e6e956-1118-4959-a4c8-f81d2b932339",
   "slug": "prone-neck-bridge",
   "name": "Prone Neck Bridge",
-  "alternative_names": ["Front Neck Bridge", "Wrestler's Front Bridge"],
+  "alternative_names": [
+    "Front Neck Bridge",
+    "Wrestler's Front Bridge"
+  ],
   "description": "The prone neck bridge is a gymnastics and wrestling exercise where the body is supported on the forehead or top of the head with the body arched and feet on the floor, loading the anterior cervical musculature with a significant portion of bodyweight. It develops exceptional cervical and spinal stability through an isometric hold against the entire bodyweight. Used extensively in wrestling, judo, and gymnastics conditioning, it represents the highest intensity isometric load a neck curl progression leads toward.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,17 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie face-down on a mat. Place the top of the forehead on the mat. Feet on the floor behind. Push up with the hands to begin, then lower to a supported position on the forehead only.",
@@ -51,26 +68,60 @@
     ],
     "range_of_motion_guidance": "Isometric hold — no movement through range. The goal is to maintain the bridge position.",
     "tempo_recommendations": "Isometric hold: 10-30 seconds",
-    "coaching_cues": ["Hands assist as needed — don't be a hero", "Progressive — work up over months", "Any pain = stop immediately"]
+    "coaching_cues": [
+      "Hands assist as needed — don't be a hero",
+      "Progressive — work up over months",
+      "Any pain = stop immediately"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 3}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["neck", "bridge", "isometric", "wrestling", "expert", "bodyweight"]
+    "tags": [
+      "neck",
+      "bridge",
+      "isometric",
+      "wrestling",
+      "expert",
+      "bodyweight"
+    ]
   }
 }

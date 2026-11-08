@@ -1,8 +1,12 @@
 {
-  "exercise_id": "a1b2c3d4-0015-4000-a000-chest0000015",
+  "exercise_id": "340293c8-11c1-442a-b949-2027432d5f13",
   "slug": "clap-push-up",
   "name": "Clap / Plyometric Push-Up",
-  "alternative_names": ["Plyometric Push-Up", "Explosive Push-Up", "Clapping Push-Up"],
+  "alternative_names": [
+    "Plyometric Push-Up",
+    "Explosive Push-Up",
+    "Clapping Push-Up"
+  ],
   "description": "The clap push-up is a plyometric variation in which the pressing phase is explosive enough to launch the hands off the floor, allowing a clap before landing. This develops upper-body power, rate-of-force development, and reactive strength in the chest, triceps, and anterior deltoids through a true stretch-shortening cycle.",
   "category": "power",
   "exercise_type": "compound",
@@ -15,18 +19,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a standard push-up position with hands shoulder-width apart and body in a straight line.",
@@ -52,32 +73,68 @@
     ],
     "range_of_motion_guidance": "Full depth on the descent. The press must be explosive enough to generate meaningful air time.",
     "tempo_recommendations": "2-0-X-0",
-    "coaching_cues": ["Push the floor through the Earth", "Land soft — absorb with the elbows", "Quality over quantity — explosive intent every rep"]
+    "coaching_cues": [
+      "Push the floor through the Earth",
+      "Land soft — absorb with the elbows",
+      "Quality over quantity — explosive intent every rep"
+    ]
   },
   "variants": {
-    "easier": ["push-up"],
-    "harder": ["single-arm-push-up"],
+    "easier": [
+      "push-up"
+    ],
+    "harder": [
+      "single-arm-push-up"
+    ],
     "unilateral": [],
-    "bilateral": ["clap-push-up"],
+    "bilateral": [
+      "clap-push-up"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 3, "max_reps": 8}
+      {
+        "goal": "power",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"power": 180},
-    "training_goals": ["power", "athletic_performance", "sport_specific"]
+    "rest_periods": {
+      "power": 180
+    },
+    "training_goals": [
+      "power",
+      "athletic_performance",
+      "sport_specific"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "bodyweight", "push-up", "plyometric", "power", "explosive"]
+    "tags": [
+      "chest",
+      "bodyweight",
+      "push-up",
+      "plyometric",
+      "power",
+      "explosive"
+    ]
   }
 }

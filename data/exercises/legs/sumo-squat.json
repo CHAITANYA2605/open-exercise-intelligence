@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0026-4000-a000-legs00000026",
+  "exercise_id": "10e1aa6a-ed8f-4be2-802c-2318a114b782",
   "slug": "sumo-squat",
   "name": "Sumo Squat",
-  "alternative_names": ["Wide-Stance Squat", "Plie Squat"],
+  "alternative_names": [
+    "Wide-Stance Squat",
+    "Plie Squat"
+  ],
   "description": "The sumo squat uses a significantly wider stance than a conventional squat with the toes pointed outward at approximately 45°. The wide stance shifts the loading emphasis toward the inner thigh adductors and gluteus maximus, while reducing the range of motion required at the ankle. It is accessible to those with limited ankle dorsiflexion and provides a unique adductor stimulus absent from standard squatting variations. It can be performed with a dumbbell, kettlebell, or barbell.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +18,55 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
-      {"muscle_id": "ffffffff-0003-4000-a000-00000000000f", "muscle_slug": "adductor-longus"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "ffffffff-0003-4000-a000-00000000000f",
+        "muscle_slug": "adductor-longus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000007-0000-4000-a000-000000000007", "eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "execution": {
     "starting_position": "Stand with feet much wider than shoulder-width, toes pointed out 30–45°. Hold a dumbbell or kettlebell vertically with both hands between the legs if adding load.",
     "setup_instructions": "Foot width depends on hip structure and mobility — start with feet twice shoulder-width and adjust. Toes should point in the same direction as the knees.",
@@ -62,32 +97,79 @@
   },
   "variants": {
     "easier": [],
-    "harder": ["barbell-squat"],
-    "unilateral": ["lateral-lunge"],
-    "bilateral": ["barbell-squat"],
+    "harder": [
+      "barbell-squat"
+    ],
+    "unilateral": [
+      "lateral-lunge"
+    ],
+    "bilateral": [
+      "barbell-squat"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["squat", "adductor", "beginner-friendly", "wide-stance"]
+    "tags": [
+      "squat",
+      "adductor",
+      "beginner-friendly",
+      "wide-stance"
+    ]
   }
 }

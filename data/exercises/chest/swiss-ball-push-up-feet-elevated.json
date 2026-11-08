@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e1f2a3b4-c5d6-4789-e012-f34a56b78c23",
+  "exercise_id": "3df10dce-4481-45e8-ad6e-302f5536d2b2",
   "slug": "swiss-ball-push-up-feet-elevated",
   "name": "Swiss Ball Push-Up with Feet Elevated",
-  "alternative_names": ["Elevated Feet Swiss Ball Push-Up", "Decline Swiss Ball Push-Up"],
+  "alternative_names": [
+    "Elevated Feet Swiss Ball Push-Up",
+    "Decline Swiss Ball Push-Up"
+  ],
   "description": "An advanced push-up variation combining both hands on a swiss ball with feet elevated on a bench or box. The simultaneous unstable hand surface and decline body angle increases upper chest activation and dramatically elevates the demand on rotator cuff and serratus anterior stabilizers. This combination requires high levels of shoulder stability, core rigidity, and proprioceptive control.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,48 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000046-0000-4000-a000-000000000046", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000046-0000-4000-a000-000000000046",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Place both hands on a fully inflated swiss ball and walk feet back onto a bench, creating a decline position. Arms extended, body in a straight line from feet to shoulders.",
@@ -58,25 +88,61 @@
       "Think of the ball as frozen in place — your job is to keep it there"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10},
-      {"goal": "strength", "min_reps": 3, "max_reps": 6}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90, "strength": 180},
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "hypertrophy": 90,
+      "strength": 180
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["push-up", "swiss-ball", "elevated-feet", "advanced", "upper-chest", "stability"]
+    "tags": [
+      "push-up",
+      "swiss-ball",
+      "elevated-feet",
+      "advanced",
+      "upper-chest",
+      "stability"
+    ]
   }
 }

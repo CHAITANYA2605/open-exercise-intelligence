@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a3b4c5d6-e7f8-4a9b-0c1d-e2f3a4b5c413",
+  "exercise_id": "1eb798eb-8e15-4df2-bdf3-85616bc1a0fe",
   "slug": "single-arm-dumbbell-press",
   "name": "Single-Arm Dumbbell Press",
-  "alternative_names": ["One-Arm Dumbbell Bench Press", "Unilateral Dumbbell Press"],
+  "alternative_names": [
+    "One-Arm Dumbbell Bench Press",
+    "Unilateral Dumbbell Press"
+  ],
   "description": "The single-arm dumbbell press is a unilateral pressing exercise performed lying on a bench with one dumbbell at a time. Because only one side is loaded, the core and obliques must work hard to prevent the torso from rotating, adding a significant anti-rotation stability demand on top of the standard pectoralis and triceps pressing stimulus.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +18,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
-  "equipment_optional": ["eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "execution": {
     "starting_position": "Lie on a flat bench holding a single dumbbell in one hand at chest level. The opposite arm can rest on the torso or be held out for balance. Feet are flat on the floor.",
     "setup_instructions": "Select a dumbbell lighter than you would use for a bilateral press. Lie on a flat bench and position the dumbbell at chest level before beginning.",
@@ -57,33 +89,80 @@
     ]
   },
   "variants": {
-    "easier": ["dumbbell-bench-press"],
+    "easier": [
+      "dumbbell-bench-press"
+    ],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["dumbbell-bench-press", "barbell-bench-press"],
+    "bilateral": [
+      "dumbbell-bench-press",
+      "barbell-bench-press"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 150, "hypertrophy": 90, "endurance": 45},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["unilateral", "chest", "dumbbell", "core", "anti-rotation"]
+    "tags": [
+      "unilateral",
+      "chest",
+      "dumbbell",
+      "core",
+      "anti-rotation"
+    ]
   }
 }

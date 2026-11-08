@@ -1,8 +1,11 @@
 {
-  "exercise_id": "e6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+  "exercise_id": "46941e98-115b-4092-9dec-abdddc6dbf36",
   "slug": "cable-shrug",
   "name": "Cable Shrug",
-  "alternative_names": ["Low-Cable Shrug", "Cable Trapezius Shrug"],
+  "alternative_names": [
+    "Low-Cable Shrug",
+    "Cable Trapezius Shrug"
+  ],
   "description": "The cable shrug is a trapezius isolation exercise using a low-pulley cable, which provides constant tension throughout the range of motion unlike a barbell or dumbbell shrug. The cable angle also allows a slight forward lean that can increase the stretch on the upper trapezius at the bottom of the movement, potentially improving hypertrophy stimulus.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,18 +18,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "secondary": [
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
-      { "muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "longissimus" }
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "55555555-0003-4000-a000-000000000005",
+        "muscle_slug": "longissimus"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis" }
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
     ]
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
-  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [
+    "eq000050-0000-4000-a000-000000000050"
+  ],
   "execution": {
     "starting_position": "Stand facing a low-pulley cable machine. Attach a straight bar or rope. Grasp the attachment and step back so the cable pulls the arms slightly forward with arms hanging at the sides.",
     "setup_instructions": "Attach a straight bar to the low pulley. Stand close enough to maintain slight cable tension at the bottom of the shrug. Use a shoulder-width overhand grip.",
@@ -64,23 +83,54 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 },
-      { "goal": "endurance", "min_reps": 15, "max_reps": 25 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 },
-      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "hypertrophy": 60, "endurance": 30 },
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["trapezius", "shrug", "cable", "isolation"]
+    "tags": [
+      "trapezius",
+      "shrug",
+      "cable",
+      "isolation"
+    ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/open-exercise-intelligence/oei/blob/main/schema/muscle.schema.json",
+  "$id": "https://github.com/CHAITANYA2605/open-exercise-intelligence/blob/main/schema/muscle.schema.json",
   "title": "Muscle",
   "description": "A muscle or muscle group entry in the OEI muscle taxonomy",
   "type": "object",

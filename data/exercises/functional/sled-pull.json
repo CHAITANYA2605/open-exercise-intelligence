@@ -1,8 +1,12 @@
 {
-  "exercise_id": "a1b2c3d4-h007-4000-a000-000000000407",
+  "exercise_id": "7ac37a12-dce2-49ca-a18c-911700f62b92",
   "slug": "sled-pull",
   "name": "Sled Pull",
-  "alternative_names": ["Sled Row", "Sled Drag", "Rope Sled Pull"],
+  "alternative_names": [
+    "Sled Row",
+    "Sled Drag",
+    "Rope Sled Pull"
+  ],
   "description": "The sled pull is a functional pulling exercise in which a loaded sled is dragged toward the athlete using a rope or straps in a hand-over-hand pulling motion, or pulled while walking backward. It develops upper body pulling strength, grip endurance, and posterior chain conditioning through sustained, resisted pulling mechanics. The backward walking variation also trains hip extension and hamstring strength in a closed-chain pattern that is distinct from conventional rows.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +19,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit or stand facing the loaded sled at a distance, holding a rope or straps attached to the sled.",
@@ -67,23 +94,56 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 1},
-      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 1
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 4, "max_sets": 8}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 4,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"strength": 180, "endurance": 90},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["functional", "sled", "pull", "conditioning", "back"]
+    "tags": [
+      "functional",
+      "sled",
+      "pull",
+      "conditioning",
+      "back"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50012",
+  "exercise_id": "dfeee757-1450-405d-a580-53e0af0289d5",
   "slug": "standing-cable-hip-abduction-lean",
   "name": "Standing Cable Hip Abduction — Lateral Lean",
-  "alternative_names": ["Cable Hip Abduction Leaning", "Side Lean Cable Abduction"],
+  "alternative_names": [
+    "Cable Hip Abduction Leaning",
+    "Side Lean Cable Abduction"
+  ],
   "description": "A hip abduction exercise using a low cable pulley in which the exerciser leans laterally away from the working leg to increase the hip abduction arc and change the angle of the resistance relative to the hip joint. The lean position shifts more of the load onto the gluteus medius and reduces tensor fasciae latae contribution compared to the standard upright cable abduction. Used in gluteus medius isolation programming and hip abductor rehabilitation.",
   "category": "functional",
   "exercise_type": "isolation",
@@ -15,16 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      }
     ],
-    "secondary": [{"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}],
+    "secondary": [
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
+    ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Attach an ankle cuff to the right ankle and connect to the left low cable pulley. Stand facing the cable stack with the right ankle crossing over or beside the left. Lean the torso slightly to the right (away from the working leg).",
@@ -36,26 +58,70 @@
       "Step 4: Lower slowly under control. Repeat, then switch sides."
     ],
     "breathing_instructions": "Exhale as you raise the leg. Inhale as you lower.",
-    "common_mistakes": ["Using the lean to gain extra range rather than to change the resistance angle — the lean should be modest and stable", "Swinging the leg with momentum — controlled lift only", "Using too much weight that forces compensation through the lower back"],
-    "safety_considerations": ["The lean requires lateral trunk stability — do not lean so far that balance is compromised", "If lower back pain occurs during the leaned position, reduce the lean angle or perform the standard upright version"],
+    "common_mistakes": [
+      "Using the lean to gain extra range rather than to change the resistance angle — the lean should be modest and stable",
+      "Swinging the leg with momentum — controlled lift only",
+      "Using too much weight that forces compensation through the lower back"
+    ],
+    "safety_considerations": [
+      "The lean requires lateral trunk stability — do not lean so far that balance is compromised",
+      "If lower back pain occurs during the leaned position, reduce the lean angle or perform the standard upright version"
+    ],
     "range_of_motion_guidance": "Raise to the point where hip abduction ends — approximately 30-45 degrees from midline.",
     "tempo_recommendations": "2s lift, 2s hold, 3s lower.",
-    "coaching_cues": ["Feel the outer glute contracting — not the hip flexors or IT band", "The lean should feel like it stretches the glute of the working leg", "Slow the return — the eccentric loading through the cable is constant all the way down"]
+    "coaching_cues": [
+      "Feel the outer glute contracting — not the hip flexors or IT band",
+      "The lean should feel like it stretches the glute of the working leg",
+      "Slow the return — the eccentric loading through the cable is constant all the way down"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "hip-abduction", "gluteus-medius", "functional", "lean"]
+    "tags": [
+      "cable",
+      "hip-abduction",
+      "gluteus-medius",
+      "functional",
+      "lean"
+    ]
   }
 }

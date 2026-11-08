@@ -1,8 +1,11 @@
 {
-  "exercise_id": "co000046-0000-4000-a000-000000000046",
+  "exercise_id": "4b150e7b-44ca-40e0-91a2-f9713e41b9a0",
   "slug": "reverse-crunch-incline",
   "name": "Reverse Crunch on Incline Bench",
-  "alternative_names": ["Incline Reverse Crunch", "Decline Reverse Crunch"],
+  "alternative_names": [
+    "Incline Reverse Crunch",
+    "Decline Reverse Crunch"
+  ],
   "description": "The reverse crunch performed on an incline bench elevates the head end above the hip end, adding gravitational load to the lower abdominal region throughout the movement compared to the flat-bench version. The athlete grasps the bench behind the head, extends the legs below horizontal, and pulls the knees toward the chest by posteriorly tilting the pelvis — a movement almost exclusively controlled by the lower rectus abdominis. The incline increases both the eccentric and concentric challenge.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,18 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the incline bench with the head at the high end. Grasp the bench behind the head. Legs are extended, lowered below the hip level.",
@@ -43,20 +63,63 @@
       "Using momentum from the legs rather than initiating with posterior pelvic tilt",
       "Not lifting the lower back off the bench at the top — full contraction requires this"
     ],
-    "safety_considerations": ["If grip fatigue limits reps before the core does, use wrist straps"],
+    "safety_considerations": [
+      "If grip fatigue limits reps before the core does, use wrist straps"
+    ],
     "range_of_motion_guidance": "Legs from full extension below horizontal to knees drawn to chest with lower back lifted.",
     "tempo_recommendations": "2-1-3-0. Slow eccentric is essential on the incline version.",
-    "coaching_cues": ["Pull with the abs, not the hip flexors", "Curl the tailbone up — do not just swing the legs"]
+    "coaching_cues": [
+      "Pull with the abs, not the hip flexors",
+      "Curl the tailbone up — do not just swing the legs"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "abs", "reverse-crunch", "incline", "lower-abs"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "abs",
+      "reverse-crunch",
+      "incline",
+      "lower-abs"
+    ]
+  }
 }

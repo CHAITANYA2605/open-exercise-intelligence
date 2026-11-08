@@ -1,8 +1,11 @@
 {
-  "exercise_id": "d7e8f9a0-b1c2-4d3e-4f5a-6b7c8d9e0f1a",
+  "exercise_id": "319c28a9-69c6-402d-a817-1e132c4fb1b7",
   "slug": "pigeon-pose",
   "name": "Pigeon Pose",
-  "alternative_names": ["Half Pigeon", "Hip External Rotator Stretch"],
+  "alternative_names": [
+    "Half Pigeon",
+    "Hip External Rotator Stretch"
+  ],
   "description": "Pigeon pose is a yoga-derived hip stretch that places the front leg in external rotation and the rear leg in extension, creating a simultaneous stretch for the hip external rotators and piriformis of the front leg and the hip flexors of the rear leg. It is widely regarded as one of the most effective static stretches for deep hip external rotator tightness and is commonly used by athletes and desk workers alike.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,18 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" },
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "secondary": [
-      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" },
-      { "muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus" }
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a tabletop position on hands and knees. Slide one knee forward toward the opposite hand and lower the shin to the floor at an angle. The rear leg extends straight back. The front shin may be more or less perpendicular to the torso depending on flexibility.",
@@ -65,21 +85,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
     ],
-    "rest_periods": { "mobility": 15 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 15
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip", "stretch", "glutes", "yoga", "mobility", "external-rotation"]
+    "tags": [
+      "hip",
+      "stretch",
+      "glutes",
+      "yoga",
+      "mobility",
+      "external-rotation"
+    ]
   }
 }

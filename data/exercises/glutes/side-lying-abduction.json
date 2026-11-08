@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0039-4000-a000-glut00000007",
+  "exercise_id": "f61ff9da-8d4d-44fd-9df4-f909b52f6d1b",
   "slug": "side-lying-abduction",
   "name": "Side-Lying Hip Abduction",
-  "alternative_names": ["Side-Lying Leg Raise", "Lateral Leg Raise"],
+  "alternative_names": [
+    "Side-Lying Leg Raise",
+    "Lateral Leg Raise"
+  ],
   "description": "Side-lying hip abduction is performed lying on one side and raising the top leg toward the ceiling with a straight knee, working the hip abductors through a longer lever than the clamshell. The gluteus medius and tensor fasciae latae are the primary movers, and the exercise is a staple of both rehabilitation programs and general glute training. A resistance band above the ankles or a cable at the ankle increases the load.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,19 +18,38 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"}
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "execution": {
     "starting_position": "Lie on one side with hips stacked and legs straight. Bottom arm extended under the head. Body in a straight line.",
     "setup_instructions": "Use bodyweight or add a mini loop band above the ankles for added resistance.",
@@ -57,31 +79,70 @@
     ]
   },
   "variants": {
-    "easier": ["clamshell"],
-    "harder": ["hip-abduction-machine"],
+    "easier": [
+      "clamshell"
+    ],
+    "harder": [
+      "hip-abduction-machine"
+    ],
     "unilateral": [],
     "bilateral": [],
-    "equipment_alternatives": ["fire-hydrant"]
+    "equipment_alternatives": [
+      "fire-hydrant"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 45, "endurance": 30},
-    "training_goals": ["hypertrophy", "rehabilitation"]
+    "rest_periods": {
+      "hypertrophy": 45,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute-medius", "abduction", "beginner", "rehab", "bodyweight"]
+    "tags": [
+      "glute-medius",
+      "abduction",
+      "beginner",
+      "rehab",
+      "bodyweight"
+    ]
   }
 }

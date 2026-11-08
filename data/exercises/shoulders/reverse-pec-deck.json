@@ -1,8 +1,12 @@
 {
-  "exercise_id": "sh010028-f3a2-4c1e-9b8d-7e6f5a4c3c09",
+  "exercise_id": "6c12b462-1cab-4ec6-ba52-4842a26e1b05",
   "slug": "reverse-pec-deck",
   "name": "Reverse Pec Deck",
-  "alternative_names": ["Pec Deck Rear Delt Fly", "Rear Delt Machine", "Butterfly Machine Reverse Fly"],
+  "alternative_names": [
+    "Pec Deck Rear Delt Fly",
+    "Rear Delt Machine",
+    "Butterfly Machine Reverse Fly"
+  ],
   "description": "The reverse pec deck uses the pec deck or butterfly machine in reverse — facing the pad rather than away from it — to perform a rear deltoid fly motion. The machine provides a guided movement path and consistent resistance throughout the arc, making it an effective and low-skill option for targeting the posterior deltoid and scapular retractors. It is widely used in hypertrophy programs as a finishing or high-rep accessory exercise for rear deltoid development.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,18 +19,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "teres-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000033-0000-4000-a000-000000000033"],
+  "equipment_required": [
+    "eq000033-0000-4000-a000-000000000033"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Face the pec deck machine (reverse of the normal setup). Grip the handles with arms in front of the body at shoulder height. Adjust the seat so the handles are at shoulder height.",
@@ -43,29 +64,64 @@
       "Letting the shoulder blades slide forward on the return — maintain upper back position",
       "Using too heavy a load, causing the traps to dominate instead of the rear delts"
     ],
-    "safety_considerations": ["Keep the neck neutral — do not crane forward toward the machine"],
+    "safety_considerations": [
+      "Keep the neck neutral — do not crane forward toward the machine"
+    ],
     "range_of_motion_guidance": "Arms start forward (closed position) and open to T (arms in line with shoulders).",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Think rear delt squeeze, not elbow drive", "Slow and controlled on the return", "Shoulder blades stay back"]
+    "coaching_cues": [
+      "Think rear delt squeeze, not elbow drive",
+      "Slow and controlled on the return",
+      "Shoulder blades stay back"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shoulders", "rear-delt", "machine", "isolation", "pec-deck"]
+    "tags": [
+      "shoulders",
+      "rear-delt",
+      "machine",
+      "isolation",
+      "pec-deck"
+    ]
   }
 }

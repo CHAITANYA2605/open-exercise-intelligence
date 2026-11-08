@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0029-4000-a000-legs00000029",
+  "exercise_id": "7091ce5d-2256-4dbe-abb5-d10dc7138581",
   "slug": "reverse-nordics",
   "name": "Reverse Nordic Curl",
-  "alternative_names": ["Reverse Nordic", "Quad Nordic"],
+  "alternative_names": [
+    "Reverse Nordic",
+    "Quad Nordic"
+  ],
   "description": "The reverse Nordic curl is an eccentric quadriceps exercise in which the knees are on a padded surface, the feet are anchored, and the torso leans backward — the opposite direction of the Nordic hamstring curl. The rectus femoris is loaded eccentrically in its stretched position (hip extended, knee flexed) with the bodyweight acting as the resistance. It is one of the few exercises that trains the rectus femoris under hip-extension load with significant knee flexion, complementing the knee-extension exercises commonly used for quad training.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel on a padded surface with feet anchored behind (partner or weighted barbell). Start upright on the knees with hips extended.",
@@ -60,33 +86,81 @@
     ]
   },
   "variants": {
-    "easier": ["leg-extension", "sissy-squat"],
+    "easier": [
+      "leg-extension",
+      "sissy-squat"
+    ],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["sissy-squat"],
-    "equipment_alternatives": ["leg-extension"]
+    "bilateral": [
+      "sissy-squat"
+    ],
+    "equipment_alternatives": [
+      "leg-extension"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 12},
-      {"goal": "endurance", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120, "endurance": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120,
+      "endurance": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["quad", "eccentric", "advanced", "calisthenics"]
+    "tags": [
+      "quad",
+      "eccentric",
+      "advanced",
+      "calisthenics"
+    ]
   }
 }

@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0001-4000-a000-chest0000001",
+  "exercise_id": "b9e942a3-397b-439c-b3f6-2c02d04d9add",
   "slug": "single-arm-pec-deck",
   "name": "Single-Arm Pec-Deck Flye",
-  "alternative_names": ["Unilateral Pec Deck", "One-Arm Butterfly Machine"],
+  "alternative_names": [
+    "Unilateral Pec Deck",
+    "One-Arm Butterfly Machine"
+  ],
   "description": "The single-arm pec-deck flye isolates one side of the chest at a time, allowing you to address muscular imbalances and achieve a deep stretch through the pectorals. By removing bilateral compensation, each side must work independently through the full arc of motion.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,17 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000033-0000-4000-a000-000000000033"],
+  "equipment_required": [
+    "eq000033-0000-4000-a000-000000000033"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the pec-deck machine and grasp one handle with a single hand. Adjust the seat so your elbow is at shoulder height and your upper arm is parallel to the floor.",
@@ -50,33 +67,75 @@
     ],
     "range_of_motion_guidance": "Move through the full available arc without torso rotation. Allow a comfortable stretch at the start and a firm squeeze at the end.",
     "tempo_recommendations": "2-1-2-0",
-    "coaching_cues": ["Arc the hand like you're hugging a tree", "Keep the shoulder blade anchored to the pad", "Squeeze and hold for a beat at peak contraction"]
+    "coaching_cues": [
+      "Arc the hand like you're hugging a tree",
+      "Keep the shoulder blade anchored to the pad",
+      "Squeeze and hold for a beat at peak contraction"
+    ]
   },
   "variants": {
-    "easier": ["machine-fly"],
+    "easier": [
+      "machine-fly"
+    ],
     "harder": [],
-    "unilateral": ["single-arm-pec-deck"],
-    "bilateral": ["machine-fly"],
-    "equipment_alternatives": ["cable-fly", "dumbbell-fly"]
+    "unilateral": [
+      "single-arm-pec-deck"
+    ],
+    "bilateral": [
+      "machine-fly"
+    ],
+    "equipment_alternatives": [
+      "cable-fly",
+      "dumbbell-fly"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy", "muscle_symmetry"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "muscle_symmetry"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "isolation", "machine", "unilateral", "pec-deck"]
+    "tags": [
+      "chest",
+      "isolation",
+      "machine",
+      "unilateral",
+      "pec-deck"
+    ]
   }
 }

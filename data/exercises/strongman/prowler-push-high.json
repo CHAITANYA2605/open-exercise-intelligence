@@ -1,8 +1,12 @@
 {
-  "exercise_id": "sm000010-0000-4000-a000-000000000010",
+  "exercise_id": "48882490-59d7-4121-91e3-d2deea48c2e6",
   "slug": "prowler-push-high",
   "name": "Prowler Sled Push — High Handles",
-  "alternative_names": ["High Handle Prowler Push", "Sled Push High", "Upright Sled Push"],
+  "alternative_names": [
+    "High Handle Prowler Push",
+    "Sled Push High",
+    "Upright Sled Push"
+  ],
   "description": "The high-handle prowler push uses the tall vertical posts of the sled, allowing a more upright body position that shifts the primary demand from the quadriceps toward the deltoids and triceps, with the leg drive producing hip extension more than knee extension. The more vertical trunk angle resembles the mid-stride body position of running rather than the acceleration phase, making it an excellent tool for developing sport-specific pushing power and cardiovascular capacity. The high-handle position also makes this variation more accessible for individuals with limited hip flexion or lower back issues.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +19,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
@@ -68,21 +99,45 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 2, "max_reps": 8}
+      {
+        "goal": "endurance",
+        "min_reps": 2,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 4, "max_sets": 8}
+      {
+        "goal": "endurance",
+        "min_sets": 4,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"endurance": 90},
-    "training_goals": ["endurance", "strength"]
+    "rest_periods": {
+      "endurance": 90
+    },
+    "training_goals": [
+      "endurance",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["strongman", "sled", "conditioning", "no-eccentric", "functional"]
+    "tags": [
+      "strongman",
+      "sled",
+      "conditioning",
+      "no-eccentric",
+      "functional"
+    ]
   }
 }

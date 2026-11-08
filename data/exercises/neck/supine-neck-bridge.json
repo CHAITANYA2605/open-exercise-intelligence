@@ -1,8 +1,12 @@
 {
-  "exercise_id": "nk010005-f3a2-4c1e-9b8d-7e6f5a4c3d05",
+  "exercise_id": "611252cb-547f-4863-80bb-ac96774e1b7d",
   "slug": "supine-neck-bridge",
   "name": "Supine Neck Bridge",
-  "alternative_names": ["Back Neck Bridge", "Wrestler's Back Bridge", "Rear Neck Bridge"],
+  "alternative_names": [
+    "Back Neck Bridge",
+    "Wrestler's Back Bridge",
+    "Rear Neck Bridge"
+  ],
   "description": "The supine neck bridge is performed face-up with the back of the head on the floor, body arched so that the weight is supported through the head and feet, loading the posterior cervical musculature and spinal erectors with significant bodyweight force. It develops exceptional posterior neck strength and spinal flexibility through the held arc position. The supine bridge is a staple conditioning exercise in wrestling, judo, and gymnastics and represents a high-level isometric training stimulus for posterior cervical strength.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +19,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0001-4000-a000-00000000000d",
+        "muscle_slug": "hamstrings"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie flat on the back on a mat with knees bent. Place the back of the head flat on the mat. Drive through the feet and the back of the head to push the hips and torso into an arched bridge position.",
@@ -52,26 +73,60 @@
     ],
     "range_of_motion_guidance": "Isometric bridge hold — no movement through range.",
     "tempo_recommendations": "Isometric hold: 10-30 seconds with hand assistance as needed",
-    "coaching_cues": ["Use your hands as much as you need — build the neck first", "Hips high — don't sag", "Any neck pain = done for the day"]
+    "coaching_cues": [
+      "Use your hands as much as you need — build the neck first",
+      "Hips high — don't sag",
+      "Any neck pain = done for the day"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 3}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["neck", "bridge", "isometric", "wrestling", "expert", "bodyweight"]
+    "tags": [
+      "neck",
+      "bridge",
+      "isometric",
+      "wrestling",
+      "expert",
+      "bodyweight"
+    ]
   }
 }

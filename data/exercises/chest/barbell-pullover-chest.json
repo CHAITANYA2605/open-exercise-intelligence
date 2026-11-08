@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-0009-4000-a000-chest0000009",
+  "exercise_id": "fa6512b1-b888-4d49-9473-97559c99fcdf",
   "slug": "barbell-pullover-chest",
   "name": "Barbell Pullover",
-  "alternative_names": ["Straight-Arm Barbell Pullover", "Barbell Chest Pullover"],
+  "alternative_names": [
+    "Straight-Arm Barbell Pullover",
+    "Barbell Chest Pullover"
+  ],
   "description": "The barbell pullover is a classic strength and hypertrophy exercise that challenges the chest and lats through a sweeping arc from above the chest to behind the head. The barbell allows for heavier loading than a dumbbell version and provides a bilateral symmetrical grip, making it a staple for developing chest thickness and upper-body flexibility.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
-  "equipment_optional": ["eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "execution": {
     "starting_position": "Lie along or across a flat bench with upper back and shoulders supported. Grip the barbell with an overhand, shoulder-width grip, holding it above the chest with arms extended.",
     "setup_instructions": "Have a training partner hand you the bar, or lift it from the floor into position before lying back. Use a close grip to minimize stress on the shoulder at the extended position.",
@@ -51,32 +74,66 @@
     ],
     "range_of_motion_guidance": "Lower the bar behind the head to a point of deep stretch without discomfort. Full extension of arms is the goal, but slight elbow bend is acceptable for joint safety.",
     "tempo_recommendations": "3-1-2-0",
-    "coaching_cues": ["Let the chest open wide on the way down", "Think about moving the bar in an arc, not a straight line", "Exhale powerfully on the way back up"]
+    "coaching_cues": [
+      "Let the chest open wide on the way down",
+      "Think about moving the bar in an arc, not a straight line",
+      "Exhale powerfully on the way back up"
+    ]
   },
   "variants": {
-    "easier": ["dumbbell-pullover"],
+    "easier": [
+      "dumbbell-pullover"
+    ],
     "harder": [],
     "unilateral": [],
-    "bilateral": ["barbell-pullover-chest"],
-    "equipment_alternatives": ["dumbbell-pullover"]
+    "bilateral": [
+      "barbell-pullover-chest"
+    ],
+    "equipment_alternatives": [
+      "dumbbell-pullover"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy", "chest_expansion"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "chest_expansion"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "barbell", "pullover", "classic", "compound"]
+    "tags": [
+      "chest",
+      "barbell",
+      "pullover",
+      "classic",
+      "compound"
+    ]
   }
 }

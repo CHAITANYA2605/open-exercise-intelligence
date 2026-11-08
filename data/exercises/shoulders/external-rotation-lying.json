@@ -1,8 +1,11 @@
 {
-  "exercise_id": "sh010039-f3a2-4c1e-9b8d-7e6f5a4c3c20",
+  "exercise_id": "6ffe5548-9c66-4687-b7fb-51dec0a43787",
   "slug": "external-rotation-lying",
   "name": "Side-Lying External Rotation",
-  "alternative_names": ["Lying Dumbbell External Rotation", "Side-Lying ER"],
+  "alternative_names": [
+    "Lying Dumbbell External Rotation",
+    "Side-Lying ER"
+  ],
   "description": "The side-lying dumbbell external rotation is a classic rotator cuff exercise performed lying on one side, rotating a dumbbell upward from a position of internal rotation to external rotation with the elbow bent to 90 degrees. The gravity-resisted motion precisely isolates the infraspinatus and teres minor throughout the full range, as the body position eliminates most compensatory movements. It is widely prescribed for rotator cuff rehabilitation and shoulder health maintenance.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -15,13 +18,21 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "teres-minor"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on one side with the bottom arm supporting the head. Hold a light dumbbell in the top hand with the elbow bent to 90 degrees and the forearm pointing toward the floor (internally rotated position).",
@@ -38,29 +49,64 @@
       "Using too heavy a dumbbell — technique breaks down immediately",
       "Letting the elbow drift away from the body during rotation"
     ],
-    "safety_considerations": ["If there is any pain in the shoulder, stop immediately and consult a healthcare professional"],
+    "safety_considerations": [
+      "If there is any pain in the shoulder, stop immediately and consult a healthcare professional"
+    ],
     "range_of_motion_guidance": "From internal rotation (forearm toward floor) to external rotation (forearm toward ceiling, up to 90 degrees of rotation).",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Elbow stays at your side — only the forearm moves", "Rotate up slowly", "This is rehab work — quality over load"]
+    "coaching_cues": [
+      "Elbow stays at your side — only the forearm moves",
+      "Rotate up slowly",
+      "This is rehab work — quality over load"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 60},
-    "training_goals": ["rehabilitation"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "rehabilitation"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["shoulders", "rotator-cuff", "external-rotation", "rehabilitation", "dumbbell"]
+    "tags": [
+      "shoulders",
+      "rotator-cuff",
+      "external-rotation",
+      "rehabilitation",
+      "dumbbell"
+    ]
   }
 }

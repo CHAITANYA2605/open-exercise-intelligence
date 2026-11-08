@@ -1,8 +1,12 @@
 {
-  "exercise_id": "a1b2c3d4-0018-4000-a000-legs00000018",
+  "exercise_id": "db6f7e70-2bc8-42a7-8dfd-a80a2e51832b",
   "slug": "single-leg-romanian-deadlift",
   "name": "Single-Leg Romanian Deadlift",
-  "alternative_names": ["SLRDL", "Single-Leg RDL", "Unilateral RDL"],
+  "alternative_names": [
+    "SLRDL",
+    "Single-Leg RDL",
+    "Unilateral RDL"
+  ],
   "description": "The single-leg Romanian deadlift is a unilateral hip-hinge exercise performed standing on one leg while the opposite leg extends behind for counterbalance as the torso hinges forward. It provides all the hamstring and gluteus maximus benefits of the bilateral Romanian deadlift while adding a significant demand for hip and core stability through the single-leg stance. It is excellent for identifying and correcting left-right asymmetries.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +19,55 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
-      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0002-4000-a000-000000000005", "muscle_slug": "iliocostalis"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "55555555-0002-4000-a000-000000000005",
+        "muscle_slug": "iliocostalis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000007-0000-4000-a000-000000000007", "eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "execution": {
     "starting_position": "Stand on one foot. Hold a dumbbell or kettlebell in one or both hands (or no weight for a bodyweight version). The free leg extends slightly behind you.",
     "setup_instructions": "Begin with bodyweight to establish the balance and hip hinge pattern. Hold a dumbbell in the opposite hand to the working leg for a 'suitcase' loading style that improves stability, or hold weights in both hands.",
@@ -61,33 +97,82 @@
     ]
   },
   "variants": {
-    "easier": ["barbell-romanian-deadlift"],
-    "harder": ["single-leg-squat"],
+    "easier": [
+      "barbell-romanian-deadlift"
+    ],
+    "harder": [
+      "single-leg-squat"
+    ],
     "unilateral": [],
-    "bilateral": ["barbell-romanian-deadlift", "deadlift"],
+    "bilateral": [
+      "barbell-romanian-deadlift",
+      "deadlift"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 75, "endurance": 45},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hinge", "unilateral", "hamstring", "glute", "balance"]
+    "tags": [
+      "hinge",
+      "unilateral",
+      "hamstring",
+      "glute",
+      "balance"
+    ]
   }
 }

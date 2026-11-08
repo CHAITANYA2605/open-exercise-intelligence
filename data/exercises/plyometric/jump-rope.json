@@ -1,8 +1,11 @@
 {
-  "exercise_id": "a1b2c3d4-g016-4000-a000-000000000316",
+  "exercise_id": "a800cd21-0e2e-4c24-9df5-178962445eba",
   "slug": "jump-rope",
   "name": "Jump Rope",
-  "alternative_names": ["Skipping Rope", "Single-Under Jump Rope"],
+  "alternative_names": [
+    "Skipping Rope",
+    "Single-Under Jump Rope"
+  ],
   "description": "Jump rope is a rhythmic cardiovascular and plyometric exercise in which a rope is swung overhead in a continuous arc as the athlete hops over it with both feet on each revolution. It simultaneously trains cardiovascular fitness, ankle and calf elasticity, timing, coordination, and foot speed, making it one of the most efficient conditioning tools available. Single-under jump rope — one revolution per jump — is the standard entry point before progressing to double-unders.",
   "category": "cardio",
   "exercise_type": "cardio",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright holding one handle of the jump rope in each hand, rope behind the heels.",
@@ -66,21 +89,44 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 50, "max_reps": 200}
+      {
+        "goal": "endurance",
+        "min_reps": 50,
+        "max_reps": 200
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 3, "max_sets": 10}
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 10
+      }
     ],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance"]
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cardio", "conditioning", "jump-rope", "calf", "coordination"]
+    "tags": [
+      "cardio",
+      "conditioning",
+      "jump-rope",
+      "calf",
+      "coordination"
+    ]
   }
 }

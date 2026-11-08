@@ -1,8 +1,11 @@
 {
-  "exercise_id": "co000032-0000-4000-a000-000000000032",
+  "exercise_id": "699854ee-f8c8-44f7-9494-9f73d60184c9",
   "slug": "captains-chair-knee-raise",
   "name": "Captain's Chair Knee Raise",
-  "alternative_names": ["Roman Chair Knee Raise", "Knee Raise on Dip Station"],
+  "alternative_names": [
+    "Roman Chair Knee Raise",
+    "Knee Raise on Dip Station"
+  ],
   "description": "The captain's chair knee raise is performed on a vertical knee-raise station where the athlete supports their body weight on forearm pads and raises the knees toward the chest. The bent-knee position reduces the lever arm compared to a straight-leg raise, making this more accessible and placing greater relative demand on the rectus abdominis through hip flexion rather than purely the hip flexors. It is a highly effective mid-section exercise that also challenges the shoulder girdle isometrically as it supports the bodyweight.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000021-0000-4000-a000-000000000021"],
+  "equipment_required": [
+    "eq000021-0000-4000-a000-000000000021"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Mount the captain's chair station by gripping the handles and resting forearms on the pads. The back rests against the back pad. Legs hang straight below.",
@@ -45,21 +71,67 @@
       "Swinging the legs up with momentum rather than using slow, controlled ab contraction",
       "Not curling the pelvis at the top, which limits rectus abdominis involvement"
     ],
-    "safety_considerations": ["Avoid if shoulder or elbow pain is present — the forearm support places demand on the shoulder girdle"],
+    "safety_considerations": [
+      "Avoid if shoulder or elbow pain is present — the forearm support places demand on the shoulder girdle"
+    ],
     "range_of_motion_guidance": "Knees travel from straight hanging to above hip level — ideally with the thighs at or above horizontal.",
     "tempo_recommendations": "2-1-2-0. Controlled throughout. No swinging.",
-    "coaching_cues": ["Curl the pelvis under at the top", "No swinging — control the descent"]
+    "coaching_cues": [
+      "Curl the pelvis under at the top",
+      "No swinging — control the descent"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
-    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
-  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "abs", "hip-flexors", "bodyweight"]}
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "abs",
+      "hip-flexors",
+      "bodyweight"
+    ]
+  }
 }
