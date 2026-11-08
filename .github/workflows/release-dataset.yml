@@ -44,12 +44,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/oei-dataset.json data/oei-index.json data/dataset-version.json
+          git add data/generated/oei-dataset-all.json data/generated/oei-index-all.json data/dataset-version.json
           git diff --cached --quiet || git commit -m "chore: release dataset v${{ inputs.version }}"
 
       - name: Generate SHA-256 checksums
         run: |
-          sha256sum data/oei-dataset.json data/oei-index.json data/dataset-version.json data/muscles/muscles.json data/equipment/equipment.json > data/checksums.sha256
+          sha256sum data/generated/oei-dataset-all.json data/generated/oei-index-all.json data/dataset-version.json data/muscles/muscles.json data/equipment/equipment.json > data/checksums.sha256
           cat data/checksums.sha256
           git add data/checksums.sha256
           git diff --cached --quiet || git commit -m "chore: add checksums for v${{ inputs.version }}"
@@ -65,7 +65,7 @@ jobs:
           gh release create "v${{ inputs.version }}" \
             --title "Dataset v${{ inputs.version }}" \
             --notes "${NOTES}" \
-            data/oei-dataset.json \
-            data/oei-index.json \
+            data/generated/oei-dataset-all.json \
+            data/generated/oei-index-all.json \
             data/dataset-version.json \
             data/checksums.sha256

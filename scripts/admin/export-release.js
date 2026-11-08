@@ -6,8 +6,8 @@
  *   node scripts/admin/export-release.js [--version 1.x.x]
  *
  * - Runs full dataset validation
- * - Regenerates data/oei-dataset.json (flat JSON array of all exercises)
- * - Regenerates data/oei-index.json (lightweight index)
+ * - Regenerates data/generated/oei-dataset-all.json (flat JSON array of all exercises)
+ * - Regenerates data/generated/oei-index-all.json (lightweight index)
  * - Updates data/dataset-version.json with count + timestamp
  * - Prints release summary
  *
@@ -25,8 +25,8 @@ const DATA_DIR = path.join(ROOT, 'data');
 const EXERCISES_DIR = path.join(DATA_DIR, 'exercises');
 const MUSCLES_FILE = path.join(DATA_DIR, 'muscles', 'muscles.json');
 const EQUIPMENT_FILE = path.join(DATA_DIR, 'equipment', 'equipment.json');
-const DATASET_FILE = path.join(DATA_DIR, 'oei-dataset.json');
-const INDEX_FILE = path.join(DATA_DIR, 'oei-index.json');
+const DATASET_FILE = path.join(DATA_DIR, 'generated', 'oei-dataset-all.json');
+const INDEX_FILE = path.join(DATA_DIR, 'generated', 'oei-index-all.json');
 const VERSION_FILE = path.join(DATA_DIR, 'dataset-version.json');
 
 // ---------------------------------------------------------------------------
@@ -159,7 +159,7 @@ function main() {
   exercises.sort((a, b) => a.slug.localeCompare(b.slug));
 
   // 3. Write oei-dataset.json
-  console.log('\n[3/5] Writing data/oei-dataset.json...');
+  console.log('\n[3/5] Writing data/generated/oei-dataset-all.json...');
   const datasetJson = JSON.stringify(exercises, null, 2) + '\n';
   fs.writeFileSync(DATASET_FILE, datasetJson);
   const datasetSize = Buffer.byteLength(datasetJson, 'utf8');
@@ -168,7 +168,7 @@ function main() {
   console.log(`      SHA-256: ${datasetChecksum}`);
 
   // 4. Write oei-index.json
-  console.log('\n[4/5] Writing data/oei-index.json...');
+  console.log('\n[4/5] Writing data/generated/oei-index-all.json...');
   const index = exercises.map(ex => ({
     slug: ex.slug,
     name: ex.name,
@@ -221,8 +221,8 @@ function main() {
   Object.entries(catCounts)
     .sort((a, b) => b[1] - a[1])
     .forEach(([cat, count]) => console.log(`  ${cat.padEnd(20)} ${count}`));
-  console.log(`Dataset file:    data/oei-dataset.json (${(datasetSize / 1024 / 1024).toFixed(2)} MB)`);
-  console.log(`Index file:      data/oei-index.json`);
+  console.log(`Dataset file:    data/generated/oei-dataset-all.json (${(datasetSize / 1024 / 1024).toFixed(2)} MB)`);
+  console.log(`Index file:      data/generated/oei-index-all.json`);
   console.log(`SHA-256:         ${datasetChecksum}`);
   console.log('='.repeat(60));
   console.log('\nRelease export complete.');

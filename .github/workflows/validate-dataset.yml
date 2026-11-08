@@ -27,8 +27,14 @@ jobs:
       - name: Validate exercise schema and data integrity
         run: node scripts/validate.js
 
+      - name: Run taxonomy regression tests
+        run: node tests/taxonomy.test.js
+
       - name: Run dataset health checks
         run: node scripts/check-dataset.js
+
+      - name: Build dataset artifacts
+        run: node scripts/generation/build-dataset.js
 
       - name: Print dataset statistics
         run: node scripts/admin/stats.js

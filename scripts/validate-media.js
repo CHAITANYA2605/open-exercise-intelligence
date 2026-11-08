@@ -5,7 +5,7 @@
  * Usage: node scripts/validate-media.js [--verbose]
  *
  * Validates data/media/registry.json against required fields, allowed SPDX
- * identifiers, and known exercise slugs from data/oei-index.json.
+ * identifiers, and known exercise slugs from data/generated/oei-index-all.json.
  * Exits with code 1 if any errors are found.
  */
 

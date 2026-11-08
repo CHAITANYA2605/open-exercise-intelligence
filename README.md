@@ -120,7 +120,7 @@ results = client.search(query="deadlift", difficulty="intermediate")
 ```
 
 ```java
-OEIClient client = new OEIClient("data/oei-dataset.json");
+OEIClient client = new OEIClient("data/generated/oei-dataset-all.json");
 SearchResult result = client.search(new SearchParams().query("bench press").category("strength"));
 ```
 
@@ -226,7 +226,7 @@ npm run analytics
 | Component | License |
 |---|---|
 | **Source code** (API, SDKs, portal, scripts) | [MIT](LICENSE) — use freely in any project, commercial or open source |
-| **Exercise data** (`data/exercises/`, `data/oei-dataset.json`, etc.) | [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — public domain, no attribution required |
+| **Exercise data** (`data/exercises/`, `data/generated/oei-dataset-all.json`, etc.) | [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — public domain, no attribution required |
 | **Documentation** (CONTRIBUTING, GOVERNANCE, architecture docs) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share with attribution |
 | **Third-party assets** | See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) |
 
@@ -331,7 +331,6 @@ oei/
 |---|---|---|
 | `scripts/validate.js` | `node scripts/validate.js` | Validates all exercise files against JSON Schema |
 | `scripts/check-dataset.js` | `node scripts/check-dataset.js` | Dataset integrity checks (slugs, IDs, references) |
-| `scripts/export-flat-json.js` | `node scripts/export-flat-json.js` | Regenerates `data/oei-dataset.json` |
 | `scripts/export-csv.js` | `node scripts/export-csv.js` | Exports dataset as CSV |
 | `scripts/import-csv.js` | `node scripts/import-csv.js` | Imports exercises from CSV |
 | `scripts/validate-media.js` | `node scripts/validate-media.js` | Validates `data/media/registry.json` |

@@ -16,7 +16,7 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..', '..');
 const DATA_DIR = path.join(ROOT, 'data');
 const EXERCISES_DIR = path.join(DATA_DIR, 'exercises');
-const DATASET_FILE = path.join(DATA_DIR, 'oei-dataset.json');
+const DATASET_FILE = path.join(DATA_DIR, 'generated', 'oei-dataset-all.json');
 const VERSION_FILE = path.join(DATA_DIR, 'dataset-version.json');
 
 // ---------------------------------------------------------------------------

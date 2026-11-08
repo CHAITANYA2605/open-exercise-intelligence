@@ -32,7 +32,7 @@ Bundle the dataset with your app, then load it at runtime:
 ```yaml
 flutter:
   assets:
-    - assets/oei-dataset.json   # copy from data/oei-dataset.json
+    - assets/oei-dataset.json   # copy from data/generated/oei-dataset-all.json
 ```
 
 **Dart code**
@@ -87,7 +87,7 @@ print(facets['category']); // {strength: 312, cardio: 45, ...}
 import 'dart:io';
 import 'package:oei/oei.dart';
 
-final jsonString = File('data/oei-dataset.json').readAsStringSync();
+final jsonString = File('data/generated/oei-dataset-all.json').readAsStringSync();
 final client = OEIClient.fromJsonString(jsonString);
 ```
 
@@ -140,7 +140,7 @@ final client = await FlutterAssetLoader.loadFromBundle(bundle, 'assets/oei-datas
 
 ## Flutter Setup
 
-1. Copy `data/oei-dataset.json` into your Flutter project's `assets/` folder.
+1. Copy `data/generated/oei-dataset-all.json` into your Flutter project's `assets/` folder.
 2. Declare the asset in `pubspec.yaml`:
    ```yaml
    flutter:
@@ -165,7 +165,7 @@ cd example
 flutter pub get
 # Copy the dataset:
 mkdir -p assets
-cp ../../../data/oei-dataset.json assets/
+cp ../../../data/generated/oei-dataset-all.json assets/
 flutter run
 ```
 
