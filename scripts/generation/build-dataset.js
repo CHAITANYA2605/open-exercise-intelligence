@@ -94,23 +94,31 @@ function main() {
     };
   }
 
-  function buildIndex(exList) {
-    return exList.map(e => ({
-      exercise_id: e.exercise_id,
-      slug: e.slug,
-      name: e.name,
-      category: e.category,
-      difficulty_level: e.difficulty_level,
-      movement_pattern: e.movement_pattern,
-      laterality: e.laterality,
-      review_status: e.metadata?.review_status || null,
-    }));
+  function buildIndex(exList, reviewPolicy) {
+    return {
+      dataset: 'Open Exercise Intelligence',
+      version: versionInfo.version || '0.9.0-beta',
+      schema_version: versionInfo.schema_version || '1.1.0',
+      generated_at: generatedAt,
+      review_policy: reviewPolicy,
+      exercise_count: exList.length,
+      exercises: exList.map(e => ({
+        exercise_id: e.exercise_id,
+        slug: e.slug,
+        name: e.name,
+        category: e.category,
+        difficulty_level: e.difficulty_level,
+        movement_pattern: e.movement_pattern,
+        laterality: e.laterality,
+        review_status: e.metadata?.review_status || null,
+      })),
+    };
   }
 
   const allWrapper = buildWrapper(exercises, 'all');
   const approvedWrapper = buildWrapper(approvedExercises, 'approved-only');
-  const allIndex = buildIndex(exercises);
-  const approvedIndex = buildIndex(approvedExercises);
+  const allIndex = buildIndex(exercises, 'all');
+  const approvedIndex = buildIndex(approvedExercises, 'approved-only');
 
   writeOutput(path.join(OUTPUT_DIR, 'oei-dataset-all.json'), JSON.stringify(allWrapper, null, 2));
   writeOutput(path.join(OUTPUT_DIR, 'oei-dataset-approved.json'), JSON.stringify(approvedWrapper, null, 2));
