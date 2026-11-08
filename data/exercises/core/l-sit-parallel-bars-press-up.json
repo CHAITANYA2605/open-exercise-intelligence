@@ -123,6 +123,9 @@
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,10 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50014",
   "slug": "cossack-squat-kettlebell-shift",
   "name": "Cossack Squat with Kettlebell Counterbalance",
-  "alternative_names": ["Goblet Cossack Squat", "Counterbalance Lateral Squat"],
+  "alternative_names": [
+    "Goblet Cossack Squat",
+    "Counterbalance Lateral Squat"
+  ],
   "description": "A cossack squat performed holding a kettlebell at chest height (goblet position) as a counterbalance. The forward weight of the kettlebell acts as a counterbalance, allowing a more upright torso and deeper squat depth than the unloaded version for many people. This makes the goblet cossack an effective teaching tool for those who lack the mobility to perform an upright unloaded cossack squat, while simultaneously providing a strength stimulus for the deep lateral squat pattern.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,17 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
-    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
   },
-  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hold a kettlebell at chest height in the goblet position (bell up, hands around the horns, elbows pointing down). Stand with feet 2-2.5 times shoulder-width, toes slightly out.",
@@ -37,26 +62,73 @@
       "Step 4: Drive through the right foot to shift to the left side, descending into the left cossack. Alternate sides in a continuous flow."
     ],
     "breathing_instructions": "Exhale as you descend. Breathe at the bottom. Inhale as you transition through center.",
-    "common_mistakes": ["Letting the kettlebell drift too far forward (pressing it rather than holding it at chest)", "Heel of the squatting leg lifting off the floor — the counterbalance should help prevent this", "Moving too quickly without pausing at the bottom of each side"],
-    "safety_considerations": ["If the goblet hold creates shoulder discomfort, switch to the unloaded cossack or the overhead plate version", "Start with a lighter kettlebell to feel the counterbalance effect before increasing load"],
+    "common_mistakes": [
+      "Letting the kettlebell drift too far forward (pressing it rather than holding it at chest)",
+      "Heel of the squatting leg lifting off the floor \u2014 the counterbalance should help prevent this",
+      "Moving too quickly without pausing at the bottom of each side"
+    ],
+    "safety_considerations": [
+      "If the goblet hold creates shoulder discomfort, switch to the unloaded cossack or the overhead plate version",
+      "Start with a lighter kettlebell to feel the counterbalance effect before increasing load"
+    ],
     "range_of_motion_guidance": "Full depth lateral squat with heel flat. The kettlebell counterbalance should allow greater depth than unloaded.",
     "tempo_recommendations": "3-5s hold at each bottom position.",
-    "coaching_cues": ["Let the kettlebell pull you upright — do not fight it", "Drive the squat heel into the floor", "Feel deeper into the stretch at the bottom than you can in the unloaded version"]
+    "coaching_cues": [
+      "Let the kettlebell pull you upright \u2014 do not fight it",
+      "Drive the squat heel into the floor",
+      "Feel deeper into the stretch at the bottom than you can in the unloaded version"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "mobility", "min_reps": 5, "max_reps": 10}],
-    "recommended_set_ranges": [{"goal": "mobility", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"mobility": 60},
-    "training_goals": ["mobility"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cossack", "kettlebell", "mobility", "hip-adductor", "counterbalance"]
+    "tags": [
+      "cossack",
+      "kettlebell",
+      "mobility",
+      "hip-adductor",
+      "counterbalance"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -58,25 +58,25 @@
     "steps": [
       "Step 1: Place the rear shin flat against the wall, knee close to the base of the wall.",
       "Step 2: Step the front foot forward into a lunge position with front foot flat on the floor.",
-      "Step 3: Squeeze the glute of the rear leg and tuck the pelvis posteriorly — this is the key technique point.",
+      "Step 3: Squeeze the glute of the rear leg and tuck the pelvis posteriorly \u2014 this is the key technique point.",
       "Step 4: Bring the torso upright as tolerated. The more upright the torso, the more intense the hip flexor stretch.",
-      "Step 5: Hold 60–120 seconds per side."
+      "Step 5: Hold 60\u2013120 seconds per side."
     ],
     "breathing_instructions": "Breathe deeply and steadily. The sensation should be intense but tolerable.",
     "common_mistakes": [
-      "Not squeezing the glute of the rear leg — this is essential for maximizing the iliopsoas stretch",
+      "Not squeezing the glute of the rear leg \u2014 this is essential for maximizing the iliopsoas stretch",
       "Anterior pelvic tilt rather than posterior tilt, which decreases the stretch",
       "Being too far from the wall so the shin angle is insufficient"
     ],
     "safety_considerations": [
-      "Knee discomfort under the rear knee is common — use padding",
-      "The intensity of this stretch can be very high — start with 20–30 seconds and build tolerance progressively"
+      "Knee discomfort under the rear knee is common \u2014 use padding",
+      "The intensity of this stretch can be very high \u2014 start with 20\u201330 seconds and build tolerance progressively"
     ],
     "range_of_motion_guidance": "Work toward an upright torso with the rear shin fully against the wall. This is a very advanced position for many people.",
-    "tempo_recommendations": "Hold 60–120 seconds per side. 2–3 rounds.",
+    "tempo_recommendations": "Hold 60\u2013120 seconds per side. 2\u20133 rounds.",
     "coaching_cues": [
       "Squeeze the glute of the leg with the foot on the wall",
-      "Tuck the tailbone under — do not arch the lower back",
+      "Tuck the tailbone under \u2014 do not arch the lower back",
       "Breathe through the tension"
     ]
   },
@@ -128,6 +128,9 @@
       "intermediate",
       "mobility",
       "iliopsoas"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

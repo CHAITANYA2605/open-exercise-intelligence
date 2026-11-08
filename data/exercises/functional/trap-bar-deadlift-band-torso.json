@@ -64,7 +64,7 @@
     ],
     "breathing_instructions": "Inhale and brace before the pull. Exhale forcefully at lockout as you drive the hips forward.",
     "common_mistakes": [
-      "Not fully extending the hips at lockout — the band should be maximally tensioned at the top",
+      "Not fully extending the hips at lockout \u2014 the band should be maximally tensioned at the top",
       "Using a band anchor that is too low, creating a downward rather than horizontal pull",
       "Using a band that is too light to provide meaningful resistance at lockout"
     ],
@@ -72,12 +72,12 @@
       "Ensure the band anchor is completely secure before lifting",
       "If the band causes balance issues, reduce the bar weight until the movement pattern is stabilized"
     ],
-    "range_of_motion_guidance": "Full deadlift range — floor to full hip extension against the band.",
+    "range_of_motion_guidance": "Full deadlift range \u2014 floor to full hip extension against the band.",
     "tempo_recommendations": "2s pull, 1s lockout hold against band, 3s eccentric lower",
     "coaching_cues": [
-      "Drive the hips through the band at the top — it should feel like you are pushing forward against resistance at lockout",
+      "Drive the hips through the band at the top \u2014 it should feel like you are pushing forward against resistance at lockout",
       "Feel the difference in glute activation at lockout compared to a standard trap bar deadlift",
-      "The band teaches you to complete the hip extension — do not stop at 90% of the way up"
+      "The band teaches you to complete the hip extension \u2014 do not stop at 90% of the way up"
     ]
   },
   "variants": {
@@ -138,6 +138,9 @@
       "functional",
       "band",
       "hip-extension"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

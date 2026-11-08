@@ -63,7 +63,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Place both hands on a fully inflated swiss ball and walk feet back onto a bench, creating a decline position. Arms extended, body in a straight line from feet to shoulders.",
-    "setup_instructions": "Position the bench behind and the swiss ball in front. The decline angle should be 15–30 degrees. Fully inflate the ball for maximum stability.",
+    "setup_instructions": "Position the bench behind and the swiss ball in front. The decline angle should be 15\u201330 degrees. Fully inflate the ball for maximum stability.",
     "steps": [
       "Step 1: Establish the starting plank position with hands on ball, feet elevated on bench.",
       "Step 2: Slowly lower the chest toward the ball, keeping the ball as still as possible.",
@@ -74,18 +74,18 @@
     "common_mistakes": [
       "Attempting before mastering flat swiss ball push-ups",
       "Allowing the ball to roll due to uneven hand pressure",
-      "Hips rising in a pike — maintain the straight declining line"
+      "Hips rising in a pike \u2014 maintain the straight declining line"
     ],
     "safety_considerations": [
       "Have a stable bench of appropriate height; too high creates excessive shoulder stress",
       "Ensure ball is on a non-slip surface",
-      "Master each progression (flat floor push-up → swiss ball push-up → elevated feet) before combining"
+      "Master each progression (flat floor push-up \u2192 swiss ball push-up \u2192 elevated feet) before combining"
     ],
     "range_of_motion_guidance": "Full depth to near-chest-on-ball, full lockout at top.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
       "Squeeze the ball inward to stabilize it and activate the serratus",
-      "Think of the ball as frozen in place — your job is to keep it there"
+      "Think of the ball as frozen in place \u2014 your job is to keep it there"
     ]
   },
   "variants": {
@@ -143,6 +143,9 @@
       "advanced",
       "upper-chest",
       "stability"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

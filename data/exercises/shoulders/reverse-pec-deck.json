@@ -7,7 +7,7 @@
     "Rear Delt Machine",
     "Butterfly Machine Reverse Fly"
   ],
-  "description": "The reverse pec deck uses the pec deck or butterfly machine in reverse — facing the pad rather than away from it — to perform a rear deltoid fly motion. The machine provides a guided movement path and consistent resistance throughout the arc, making it an effective and low-skill option for targeting the posterior deltoid and scapular retractors. It is widely used in hypertrophy programs as a finishing or high-rep accessory exercise for rear deltoid development.",
+  "description": "The reverse pec deck uses the pec deck or butterfly machine in reverse \u2014 facing the pad rather than away from it \u2014 to perform a rear deltoid fly motion. The machine provides a guided movement path and consistent resistance throughout the arc, making it an effective and low-skill option for targeting the posterior deltoid and scapular retractors. It is widely used in hypertrophy programs as a finishing or high-rep accessory exercise for rear deltoid development.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -61,11 +61,11 @@
     ],
     "breathing_instructions": "Exhale on the opening (fly) motion, inhale on the return.",
     "common_mistakes": [
-      "Letting the shoulder blades slide forward on the return — maintain upper back position",
+      "Letting the shoulder blades slide forward on the return \u2014 maintain upper back position",
       "Using too heavy a load, causing the traps to dominate instead of the rear delts"
     ],
     "safety_considerations": [
-      "Keep the neck neutral — do not crane forward toward the machine"
+      "Keep the neck neutral \u2014 do not crane forward toward the machine"
     ],
     "range_of_motion_guidance": "Arms start forward (closed position) and open to T (arms in line with shoulders).",
     "tempo_recommendations": "2-1-3-0",
@@ -122,6 +122,9 @@
       "machine",
       "isolation",
       "pec-deck"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

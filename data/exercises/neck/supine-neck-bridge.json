@@ -71,11 +71,11 @@
       "Always use significant hand assistance initially",
       "Any pain = immediately return to the floor"
     ],
-    "range_of_motion_guidance": "Isometric bridge hold — no movement through range.",
+    "range_of_motion_guidance": "Isometric bridge hold \u2014 no movement through range.",
     "tempo_recommendations": "Isometric hold: 10-30 seconds with hand assistance as needed",
     "coaching_cues": [
-      "Use your hands as much as you need — build the neck first",
-      "Hips high — don't sag",
+      "Use your hands as much as you need \u2014 build the neck first",
+      "Hips high \u2014 don't sag",
       "Any neck pain = done for the day"
     ]
   },
@@ -127,6 +127,9 @@
       "wrestling",
       "expert",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

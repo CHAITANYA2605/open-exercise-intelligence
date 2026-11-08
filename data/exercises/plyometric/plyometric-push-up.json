@@ -53,31 +53,31 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Begin in a standard push-up position — hands slightly wider than shoulder-width, body in a straight line from head to heels.",
+    "starting_position": "Begin in a standard push-up position \u2014 hands slightly wider than shoulder-width, body in a straight line from head to heels.",
     "setup_instructions": "No equipment required. Ensure adequate floor space and a non-slip surface.",
     "steps": [
       "Step 1: Begin in push-up position with the body in a straight plank line.",
       "Step 2: Lower the chest to the floor under control.",
-      "Step 3: Press explosively with maximum effort — drive the hands into the floor to generate enough force to lift the hands off the ground.",
+      "Step 3: Press explosively with maximum effort \u2014 drive the hands into the floor to generate enough force to lift the hands off the ground.",
       "Step 4: Optionally clap while airborne, then catch the fall by landing with slightly bent elbows.",
       "Step 5: Absorb the landing and immediately lower into the next repetition."
     ],
     "breathing_instructions": "Inhale on the descent. Exhale sharply and forcefully at the moment of push-off.",
     "common_mistakes": [
-      "Letting the hips sag — the body must remain rigid throughout",
-      "Insufficient pressing force — the hands must fully leave the ground",
-      "Catching with locked elbows — this places severe strain on the elbow joint"
+      "Letting the hips sag \u2014 the body must remain rigid throughout",
+      "Insufficient pressing force \u2014 the hands must fully leave the ground",
+      "Catching with locked elbows \u2014 this places severe strain on the elbow joint"
     ],
     "safety_considerations": [
       "Master standard push-ups before attempting plyometric variations.",
       "Land with soft elbows, never locked out."
     ],
-    "range_of_motion_guidance": "Full push-up depth — chest to floor or near it. Full extension (hands off ground) at top.",
-    "tempo_recommendations": "Maximum effort on each rep. 5–10 reps per set for power. Rest fully between sets.",
+    "range_of_motion_guidance": "Full push-up depth \u2014 chest to floor or near it. Full extension (hands off ground) at top.",
+    "tempo_recommendations": "Maximum effort on each rep. 5\u201310 reps per set for power. Rest fully between sets.",
     "coaching_cues": [
       "Push the floor away as hard as possible",
-      "Tight core throughout — no hip sag",
-      "Catch soft — bend the elbows on landing"
+      "Tight core throughout \u2014 no hip sag",
+      "Catch soft \u2014 bend the elbows on landing"
     ]
   },
   "variants": {
@@ -126,6 +126,9 @@
       "power",
       "upper-body",
       "push-up"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

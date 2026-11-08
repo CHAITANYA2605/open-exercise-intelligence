@@ -75,10 +75,10 @@
       "Only perform this variation if you can complete standard push-ups with solid form",
       "Avoid if you have shoulder instability or rotator cuff issues"
     ],
-    "range_of_motion_guidance": "Descend until the chest drops 2–4 inches below the hand level for a meaningful deficit. Full elbow extension at the top.",
+    "range_of_motion_guidance": "Descend until the chest drops 2\u20134 inches below the hand level for a meaningful deficit. Full elbow extension at the top.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Chest drops below the hands — that's the whole point",
+      "Chest drops below the hands \u2014 that's the whole point",
       "Keep the body rigid from heels to crown",
       "Press hard through the platforms on the way up"
     ]
@@ -154,6 +154,9 @@
       "push-up",
       "deficit",
       "range-of-motion"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

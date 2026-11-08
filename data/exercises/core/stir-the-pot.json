@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e017-4000-a000-000000000117",
   "slug": "stir-the-pot",
   "name": "Stir the Pot",
-  "alternative_names": ["Swiss Ball Stir the Pot", "Stability Ball Plank Circles"],
+  "alternative_names": [
+    "Swiss Ball Stir the Pot",
+    "Stability Ball Plank Circles"
+  ],
   "description": "Stir the pot is a Swiss ball core stability exercise developed by Dr. Stuart McGill in which the athlete maintains a plank position with forearms on the ball and moves the ball in circles, creating a combined anti-extension and anti-rotation core demand. The unstable surface of the ball dramatically increases muscle activation compared to a floor plank, while the circular motion forces the core to resist motion in multiple planes simultaneously. It is a highly effective anti-movement core exercise for athletes and advanced fitness populations.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ]
   },
-  "equipment_required": ["eq000046-0000-4000-a000-000000000046"],
+  "equipment_required": [
+    "eq000046-0000-4000-a000-000000000046"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel behind a Swiss ball and place both forearms on the top of the ball, making fists or clasping hands. Walk the feet back until the body is in a straight plank line from head to feet.",
@@ -44,17 +73,17 @@
     "breathing_instructions": "Breathe continuously throughout. Maintain the core brace without holding the breath.",
     "common_mistakes": [
       "Allowing the hips to sag or pike during the circular motion",
-      "Making circles that are too large — start small and increase diameter as strength improves",
+      "Making circles that are too large \u2014 start small and increase diameter as strength improves",
       "Rotating the torso rather than keeping it rigid throughout"
     ],
     "safety_considerations": [
       "Ensure the ball is on a non-slip surface to prevent it rolling away.",
       "Regress to a standard forearm plank if unable to maintain spinal neutrality."
     ],
-    "range_of_motion_guidance": "Start with small circles (20–30 cm diameter) and progress to larger circles as core strength improves.",
-    "tempo_recommendations": "2–3 seconds per circle. Perform 5–10 circles per direction per set.",
+    "range_of_motion_guidance": "Start with small circles (20\u201330 cm diameter) and progress to larger circles as core strength improves.",
+    "tempo_recommendations": "2\u20133 seconds per circle. Perform 5\u201310 circles per direction per set.",
     "coaching_cues": [
-      "Hips stay level — no rocking",
+      "Hips stay level \u2014 no rocking",
       "Rigid from shoulders to heels",
       "Small, controlled circles first"
     ]
@@ -68,23 +97,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 90, "endurance": 60},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "stability", "anti-rotation", "swiss-ball", "mcgill"]
+    "tags": [
+      "core",
+      "stability",
+      "anti-rotation",
+      "swiss-ball",
+      "mcgill"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -6,7 +6,7 @@
     "90/90 Hip Mobility",
     "Seated Hip Rotation Stretch"
   ],
-  "description": "The 90-90 hip stretch is a seated floor position in which both hips are bent to 90 degrees in different planes — one leg in external rotation in front and one in internal rotation behind. This position simultaneously loads the internal rotators of the front hip and the external rotators of the rear hip, making it one of the most comprehensive hip mobility exercises available. It addresses the full hip rotation spectrum in a single position.",
+  "description": "The 90-90 hip stretch is a seated floor position in which both hips are bent to 90 degrees in different planes \u2014 one leg in external rotation in front and one in internal rotation behind. This position simultaneously loads the internal rotators of the front hip and the external rotators of the rear hip, making it one of the most comprehensive hip mobility exercises available. It addresses the full hip rotation spectrum in a single position.",
   "category": "flexibility",
   "exercise_type": "stretching",
   "difficulty_level": "intermediate",
@@ -60,7 +60,7 @@
       "Step 2: Sit tall with the spine upright. Both hips should ideally be in contact with the floor, though the rear hip will be elevated for many beginners.",
       "Step 3: To stretch the front hip (internal rotation side): hinge the torso forward over the front shin, maintaining a long spine.",
       "Step 4: To stretch the rear hip (external rotation side): lean toward the rear leg's shin.",
-      "Step 5: Hold each direction 30–90 seconds, then switch sides."
+      "Step 5: Hold each direction 30\u201390 seconds, then switch sides."
     ],
     "breathing_instructions": "Breathe deeply. Each exhale allows the hips to relax further toward the floor.",
     "common_mistakes": [
@@ -70,12 +70,12 @@
     ],
     "safety_considerations": [
       "If knee discomfort occurs, adjust the degree of hip rotation or avoid if symptomatic",
-      "Do not force either hip to the floor — work at the available range"
+      "Do not force either hip to the floor \u2014 work at the available range"
     ],
     "range_of_motion_guidance": "The goal is for both hip bones to eventually touch the floor. This may take weeks to months of consistent practice.",
-    "tempo_recommendations": "Hold 30–90 seconds per position per side. 2–3 rounds.",
+    "tempo_recommendations": "Hold 30\u201390 seconds per position per side. 2\u20133 rounds.",
     "coaching_cues": [
-      "Sit tall first — then lean",
+      "Sit tall first \u2014 then lean",
       "Press both hip bones toward the floor",
       "Breathe wide into the hip that is working"
     ]
@@ -128,6 +128,9 @@
       "glutes",
       "intermediate",
       "90-90"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

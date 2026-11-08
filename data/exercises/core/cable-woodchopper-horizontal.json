@@ -6,7 +6,7 @@
     "Horizontal Cable Chop",
     "Rotational Cable Chop"
   ],
-  "description": "The standing cable horizontal woodchopper trains transverse-plane rotation of the trunk by pulling a cable handle from one side of the body to the other at chest height, challenging the obliques, transverse abdominis, and hip rotators in a movement pattern directly applicable to throwing, striking, and swinging sports. The cable provides consistent tension throughout the rotation in both directions — unlike medicine ball throws — allowing controlled loading at all points in the arc.",
+  "description": "The standing cable horizontal woodchopper trains transverse-plane rotation of the trunk by pulling a cable handle from one side of the body to the other at chest height, challenging the obliques, transverse abdominis, and hip rotators in a movement pattern directly applicable to throwing, striking, and swinging sports. The cable provides consistent tension throughout the rotation in both directions \u2014 unlike medicine ball throws \u2014 allowing controlled loading at all points in the arc.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -68,12 +68,12 @@
       "Rotating from the hips only without engaging the trunk rotators"
     ],
     "safety_considerations": [
-      "Keep the spine neutral — do not laterally flex toward the cable"
+      "Keep the spine neutral \u2014 do not laterally flex toward the cable"
     ],
     "range_of_motion_guidance": "Shoulder-to-shoulder rotation arc. Keep the spine tall throughout.",
     "tempo_recommendations": "2-1-2-0. Controlled pull and controlled return.",
     "coaching_cues": [
-      "Keep the arms straight — this is a torso rotation",
+      "Keep the arms straight \u2014 this is a torso rotation",
       "Drive with the far hip to initiate the rotation"
     ]
   },
@@ -131,6 +131,9 @@
       "obliques",
       "cable",
       "functional"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

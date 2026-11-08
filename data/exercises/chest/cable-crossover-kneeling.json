@@ -2,7 +2,10 @@
   "exercise_id": "a9b0c1d2-e3f4-4567-a890-b12c34d56e31",
   "slug": "cable-crossover-kneeling",
   "name": "Kneeling Cable Crossover",
-  "alternative_names": ["Cable Fly Kneeling", "Kneeling Cable Fly"],
+  "alternative_names": [
+    "Cable Fly Kneeling",
+    "Kneeling Cable Fly"
+  ],
   "description": "A cable crossover performed in a kneeling position rather than standing. Kneeling eliminates the ability to use leg drive or hip momentum, ensuring the work is isolated to the chest and shoulders. It also changes the cable angle relative to the torso, shifting the tension vector to better align with horizontal chest fiber recruitment.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,30 +18,44 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel centered between two cable stacks with both pulleys set to high or shoulder height relative to the kneeling position. Hold one handle in each hand with arms extended to the sides.",
     "setup_instructions": "Set pulleys to approximately shoulder height when kneeling. Kneel on a mat for comfort. Have handles already attached before kneeling.",
     "steps": [
       "Step 1: Kneel upright between the stacks. Arms extended out to the sides with a slight elbow bend, cables taught.",
-      "Step 2: Bring both handles together in front of the chest in a sweeping arc — the crossover motion.",
+      "Step 2: Bring both handles together in front of the chest in a sweeping arc \u2014 the crossover motion.",
       "Step 3: At the midpoint, hands cross slightly (crossover) and squeeze the chest.",
       "Step 4: Return under control, letting the handles sweep back to the starting position. Alternate which hand crosses on top."
     ],
     "breathing_instructions": "Exhale on the crossover contraction, inhale on the return.",
     "common_mistakes": [
-      "Leaning forward excessively from the hips — stay upright",
+      "Leaning forward excessively from the hips \u2014 stay upright",
       "Bending elbows too much and turning it into a press",
       "Cables pulling the arms too far back past the torso plane"
     ],
@@ -49,29 +66,65 @@
     "range_of_motion_guidance": "Full sweep from arms extended sideways to full crossover in front. Avoid letting cables pull arms behind the torso plane.",
     "tempo_recommendations": "2-1-2-1 (2s sweep in, 1s cross squeeze, 2s return, 1s reset)",
     "coaching_cues": [
-      "Lead with the elbows, not the hands — this keeps the chest driving the motion",
-      "Stay tall through the knees — do not lean forward"
+      "Lead with the elbows, not the hands \u2014 this keeps the chest driving the motion",
+      "Stay tall through the knees \u2014 do not lean forward"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 75},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "crossover", "kneeling", "isolation", "chest"]
+    "tags": [
+      "cable",
+      "crossover",
+      "kneeling",
+      "isolation",
+      "chest"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

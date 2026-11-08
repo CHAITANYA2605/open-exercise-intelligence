@@ -6,7 +6,7 @@
     "Rings and Ball Push-Up",
     "Triple Instability Push-Up"
   ],
-  "description": "An extreme instability push-up variation combining gymnastic rings for the hands and a swiss ball for the feet. Both surfaces are unstable, requiring the entire kinetic chain — from wrist through shoulder, core, hip, and ankle — to continuously stabilize while executing the pressing movement. This creates maximal demand on stabilizer muscles across the full body while still loading the pectoralis major through the pressing range.",
+  "description": "An extreme instability push-up variation combining gymnastic rings for the hands and a swiss ball for the feet. Both surfaces are unstable, requiring the entire kinetic chain \u2014 from wrist through shoulder, core, hip, and ankle \u2014 to continuously stabilize while executing the pressing movement. This creates maximal demand on stabilizer muscles across the full body while still loading the pectoralis major through the pressing range.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "expert",
@@ -67,18 +67,18 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set rings low (push-up position height). Place a swiss ball behind the rings. Get into push-up position with hands in the rings and feet resting on the swiss ball. Establish full-body stability before the first rep.",
-    "setup_instructions": "Set rings at appropriate height for push-ups. Fully inflate the ball. Position ball directly behind rings. Getting into position requires care — have a training partner assist initially.",
+    "setup_instructions": "Set rings at appropriate height for push-ups. Fully inflate the ball. Position ball directly behind rings. Getting into position requires care \u2014 have a training partner assist initially.",
     "steps": [
       "Step 1: Establish a controlled plank with hands in rings and feet on swiss ball. Take several breaths to find balance.",
       "Step 2: Slowly lower the chest toward the ring level, managing ring rotation and ball roll simultaneously.",
-      "Step 3: Descend until chest is at ring level — this is a very challenging position to maintain.",
+      "Step 3: Descend until chest is at ring level \u2014 this is a very challenging position to maintain.",
       "Step 4: Press back to the starting position with full control. Reset between each rep if needed."
     ],
     "breathing_instructions": "Inhale before descent, exhale on press. Breathing is controlled and deliberate.",
     "common_mistakes": [
       "Attempting without mastering ring push-ups and elevated-feet push-ups separately first",
-      "Moving too fast — this exercise requires slow, deliberate movement",
-      "Ball positioned too far back — it should be close enough that feet don't have to reach"
+      "Moving too fast \u2014 this exercise requires slow, deliberate movement",
+      "Ball positioned too far back \u2014 it should be close enough that feet don't have to reach"
     ],
     "safety_considerations": [
       "Have a training partner present for safety on the first several attempts",
@@ -88,8 +88,8 @@
     "range_of_motion_guidance": "Full push-up range is the goal, but partial range with full control is acceptable while mastering the exercise.",
     "tempo_recommendations": "4-2-3-0 (slow and controlled throughout)",
     "coaching_cues": [
-      "Squeeze the rings and the ball simultaneously — pressure in both directions creates stability",
-      "Every rep is a new challenge — reset mentally before each descent"
+      "Squeeze the rings and the ball simultaneously \u2014 pressure in both directions creates stability",
+      "Every rep is a new challenge \u2014 reset mentally before each descent"
     ]
   },
   "variants": {
@@ -141,6 +141,9 @@
       "expert",
       "instability",
       "chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

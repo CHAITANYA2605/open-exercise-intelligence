@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50005",
   "slug": "single-leg-balance-reach",
   "name": "Standing Single-Leg Balance Reach",
-  "alternative_names": ["Star Excursion Balance Reach", "Single-Leg Reach"],
+  "alternative_names": [
+    "Star Excursion Balance Reach",
+    "Single-Leg Reach"
+  ],
   "description": "The single-leg balance reach challenges proprioception and neuromuscular control by requiring the exerciser to stand on one leg and reach the free leg in multiple directions. This exercise rehabilitates ankle and knee instability, improves dynamic balance, and strengthens the hip stabilizers under real-world perturbation. It is widely used in return-to-sport protocols following lower limb injuries.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -14,17 +17,36 @@
   "exercise_family": "rehab",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}],
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
     "secondary": [
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand on one foot with the support knee slightly bent. The free leg is held off the floor. Arms can be used for minimal balance assistance at first.",
@@ -36,32 +58,85 @@
       "Step 4: Repeat the reach in the posteromedial and posterolateral directions. Complete all reps then switch legs."
     ],
     "breathing_instructions": "Breathe naturally and controlled throughout. Avoid breath-holding during the reach.",
-    "common_mistakes": ["Allowing the support knee to collapse inward on each reach", "Dropping the hip of the reaching side (Trendelenburg sign)", "Placing full weight on the reaching foot instead of a light touch"],
-    "safety_considerations": ["Begin with a supported version near a wall if balance is compromised", "Consult a physiotherapist for use following ACL reconstruction or ankle sprain rehabilitation"],
+    "common_mistakes": [
+      "Allowing the support knee to collapse inward on each reach",
+      "Dropping the hip of the reaching side (Trendelenburg sign)",
+      "Placing full weight on the reaching foot instead of a light touch"
+    ],
+    "safety_considerations": [
+      "Begin with a supported version near a wall if balance is compromised",
+      "Consult a physiotherapist for use following ACL reconstruction or ankle sprain rehabilitation"
+    ],
     "range_of_motion_guidance": "Reach as far as control allows in each direction without compromising the stability of the support leg.",
-    "tempo_recommendations": "2 seconds for each reach, 2 seconds to return — controlled throughout",
-    "coaching_cues": ["Keep the support knee tracking over the second toe", "Do not let the hip of the reaching leg drop", "Maintain a tall spine — do not round forward to reach further"]
+    "tempo_recommendations": "2 seconds for each reach, 2 seconds to return \u2014 controlled throughout",
+    "coaching_cues": [
+      "Keep the support knee tracking over the second toe",
+      "Do not let the hip of the reaching leg drop",
+      "Maintain a tall spine \u2014 do not round forward to reach further"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 5, "max_reps": 10},
-      {"goal": "mobility", "min_reps": 3, "max_reps": 6}
+      {
+        "goal": "endurance",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "mobility",
+        "min_reps": 3,
+        "max_reps": 6
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 60, "mobility": 60},
-    "training_goals": ["mobility", "endurance"]
+    "rest_periods": {
+      "endurance": 60,
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["balance", "proprioception", "ankle", "knee", "rehabilitation"]
+    "tags": [
+      "balance",
+      "proprioception",
+      "ankle",
+      "knee",
+      "rehabilitation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

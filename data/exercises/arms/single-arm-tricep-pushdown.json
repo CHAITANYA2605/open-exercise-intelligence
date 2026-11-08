@@ -51,7 +51,7 @@
     "setup_instructions": "Set cable to high pulley. Attach a D-ring single handle. Stand close enough to the machine so there is tension on the cable with the elbow at 90 degrees.",
     "steps": [
       "Step 1: Hold the single handle with one hand, elbow tucked at the side at 90 degrees.",
-      "Step 2: Keep the upper arm stationary throughout — only the forearm moves.",
+      "Step 2: Keep the upper arm stationary throughout \u2014 only the forearm moves.",
       "Step 3: Exhale and push the handle downward by extending the elbow until the arm is fully straight.",
       "Step 4: Hold the lockout, then inhale and return the forearm to 90 degrees."
     ],
@@ -61,13 +61,13 @@
       "Rotating the torso toward the working arm"
     ],
     "safety_considerations": [
-      "Keep the wrist in a neutral position — do not flex the wrist at the bottom"
+      "Keep the wrist in a neutral position \u2014 do not flex the wrist at the bottom"
     ],
     "range_of_motion_guidance": "Full extension at the bottom; return to 90-degree elbow bend at the top.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Elbow stays glued to your side — it is the pivot point",
-      "Straighten all the way — do not stop short of full lockout"
+      "Elbow stays glued to your side \u2014 it is the pivot point",
+      "Straighten all the way \u2014 do not stop short of full lockout"
     ]
   },
   "variants": {
@@ -133,6 +133,9 @@
       "isolation",
       "unilateral",
       "pushdown"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -41,7 +41,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand beside an upright support (rack post, cable column). Grip the support with the inside hand. Lean the body away from the support, creating a straight angled line from feet to head. Hold a dumbbell in the outside hand with arm hanging down.",
-    "setup_instructions": "The lean angle determines the bottom stretch — a greater lean creates a greater stretch. Begin with a moderate lean of 15-20 degrees.",
+    "setup_instructions": "The lean angle determines the bottom stretch \u2014 a greater lean creates a greater stretch. Begin with a moderate lean of 15-20 degrees.",
     "steps": [
       "Step 1: Hold the support, lean away, dumbbell at the side.",
       "Step 2: Raise the dumbbell laterally in an arc from the hanging position.",
@@ -51,7 +51,7 @@
     ],
     "breathing_instructions": "Exhale on the raise, inhale on the lowering.",
     "common_mistakes": [
-      "Not using the full hang at the bottom — the stretch is a key advantage of this variation",
+      "Not using the full hang at the bottom \u2014 the stretch is a key advantage of this variation",
       "Excessive trap shrug at the top"
     ],
     "safety_considerations": [
@@ -62,7 +62,7 @@
     "coaching_cues": [
       "Let it hang fully at the bottom",
       "Raise from the elbow, not the wrist",
-      "Feel the stretch — that's the point"
+      "Feel the stretch \u2014 that's the point"
     ]
   },
   "variants": {
@@ -112,6 +112,9 @@
       "dumbbell",
       "unilateral",
       "stretch"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

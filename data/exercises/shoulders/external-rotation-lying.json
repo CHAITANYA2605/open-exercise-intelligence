@@ -36,17 +36,17 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on one side with the bottom arm supporting the head. Hold a light dumbbell in the top hand with the elbow bent to 90 degrees and the forearm pointing toward the floor (internally rotated position).",
-    "setup_instructions": "Use extremely light dumbbells — 2.5-5 lbs is typically sufficient. A small rolled towel under the elbow can help maintain proper positioning.",
+    "setup_instructions": "Use extremely light dumbbells \u2014 2.5-5 lbs is typically sufficient. A small rolled towel under the elbow can help maintain proper positioning.",
     "steps": [
       "Step 1: Lie on your side, top elbow bent at 90 degrees, forearm pointing to the floor.",
       "Step 2: Keep the elbow against the side of the torso throughout.",
       "Step 3: Rotate the forearm upward toward the ceiling (external rotation).",
-      "Step 4: Rotate as far as comfortable — typically until the forearm is perpendicular to the floor or slightly past.",
+      "Step 4: Rotate as far as comfortable \u2014 typically until the forearm is perpendicular to the floor or slightly past.",
       "Step 5: Lower slowly back to the starting position."
     ],
-    "breathing_instructions": "Breathe naturally throughout — this is a low-load exercise.",
+    "breathing_instructions": "Breathe naturally throughout \u2014 this is a low-load exercise.",
     "common_mistakes": [
-      "Using too heavy a dumbbell — technique breaks down immediately",
+      "Using too heavy a dumbbell \u2014 technique breaks down immediately",
       "Letting the elbow drift away from the body during rotation"
     ],
     "safety_considerations": [
@@ -55,9 +55,9 @@
     "range_of_motion_guidance": "From internal rotation (forearm toward floor) to external rotation (forearm toward ceiling, up to 90 degrees of rotation).",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
-      "Elbow stays at your side — only the forearm moves",
+      "Elbow stays at your side \u2014 only the forearm moves",
       "Rotate up slowly",
-      "This is rehab work — quality over load"
+      "This is rehab work \u2014 quality over load"
     ]
   },
   "variants": {
@@ -107,6 +107,9 @@
       "external-rotation",
       "rehabilitation",
       "dumbbell"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

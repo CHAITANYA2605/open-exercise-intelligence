@@ -83,7 +83,7 @@
     "range_of_motion_guidance": "Full arm extension; return to chest-level start.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Hips stay neutral — don't let them shift",
+      "Hips stay neutral \u2014 don't let them shift",
       "Squeeze the chest and think about pressing through the target, not just extending the arm"
     ]
   },
@@ -134,6 +134,9 @@
       "anti-rotation",
       "functional",
       "cable"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

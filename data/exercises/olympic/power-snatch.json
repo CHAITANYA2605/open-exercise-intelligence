@@ -2,8 +2,10 @@
   "exercise_id": "a1b2c3d4-f002-4000-a000-000000000202",
   "slug": "power-snatch",
   "name": "Power Snatch",
-  "alternative_names": ["Power Snatch"],
-  "description": "The power snatch is a variation of the Olympic snatch in which the bar is received above parallel — the athlete catches the bar in a partial squat rather than a full overhead squat. The higher catch position requires greater bar height and more explosive power than the full snatch, making it an effective power development tool and a useful teaching progression. It is widely used in sport conditioning, CrossFit, and as an Olympic lifting warm-up.",
+  "alternative_names": [
+    "Power Snatch"
+  ],
+  "description": "The power snatch is a variation of the Olympic snatch in which the bar is received above parallel \u2014 the athlete catches the bar in a partial squat rather than a full overhead squat. The higher catch position requires greater bar height and more explosive power than the full snatch, making it an effective power development tool and a useful teaching progression. It is widely used in sport conditioning, CrossFit, and as an Olympic lifting warm-up.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -15,37 +17,70 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Same as the full snatch — bar over mid-foot, wide snatch grip, flat back, hips between shoulders and knees.",
-    "setup_instructions": "Use bumper plates. The power snatch requires the same setup and pulling mechanics as the full snatch — the distinction is in the catch height.",
+    "starting_position": "Same as the full snatch \u2014 bar over mid-foot, wide snatch grip, flat back, hips between shoulders and knees.",
+    "setup_instructions": "Use bumper plates. The power snatch requires the same setup and pulling mechanics as the full snatch \u2014 the distinction is in the catch height.",
     "steps": [
       "Step 1: Set the starting position with a wide snatch grip.",
-      "Step 2: First pull — push the floor away and keep the bar close to the body.",
-      "Step 3: Second pull — extend the hips explosively as the bar passes the hip crease, using maximum power.",
+      "Step 2: First pull \u2014 push the floor away and keep the bar close to the body.",
+      "Step 3: Second pull \u2014 extend the hips explosively as the bar passes the hip crease, using maximum power.",
       "Step 4: Shrug and pull the elbows high and outside to generate maximal bar elevation.",
       "Step 5: Catch the bar overhead with elbows locked in a squat above parallel (thighs above horizontal), then stand fully."
     ],
     "breathing_instructions": "Brace before initiating. Hold through the pull. Exhale after securing the overhead catch.",
     "common_mistakes": [
-      "Catching too deep (this becomes a full snatch — above parallel is the power snatch standard)",
+      "Catching too deep (this becomes a full snatch \u2014 above parallel is the power snatch standard)",
       "Relaxing the bar path and letting it drift forward",
       "Early arm bend"
     ],
@@ -57,7 +92,7 @@
     "tempo_recommendations": "Explosive. Maximum bar speed is the objective. No tempo prescription.",
     "coaching_cues": [
       "Pull the bar as high as possible before turning over",
-      "Catch above parallel — not in a full squat",
+      "Catch above parallel \u2014 not in a full squat",
       "Punch the hands up and lock the elbows fast"
     ]
   },
@@ -70,23 +105,58 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 1, "max_reps": 3},
-      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 3
+      },
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 4, "max_sets": 8},
-      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+      {
+        "goal": "power",
+        "min_sets": 4,
+        "max_sets": 8
+      },
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"power": 180, "strength": 240},
-    "training_goals": ["power", "strength"]
+    "rest_periods": {
+      "power": 180,
+      "strength": 240
+    },
+    "training_goals": [
+      "power",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic", "weightlifting", "power", "advanced"]
+    "tags": [
+      "olympic",
+      "weightlifting",
+      "power",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

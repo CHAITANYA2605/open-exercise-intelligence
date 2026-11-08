@@ -15,19 +15,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000032-0000-4000-a000-000000000032"],
+  "equipment_required": [
+    "eq000032-0000-4000-a000-000000000032"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the decline machine with the seat adjusted so handles are at lower chest level. Secure feet if the machine provides ankle support.",
@@ -44,8 +64,8 @@
       "Rushing the eccentric phase"
     ],
     "safety_considerations": [
-      "Secure feet in the ankle holds if provided — especially important at a decline angle",
-      "Adjust weight incrementally — machine weight stacks feel different from free weights at decline angles"
+      "Secure feet in the ankle holds if provided \u2014 especially important at a decline angle",
+      "Adjust weight incrementally \u2014 machine weight stacks feel different from free weights at decline angles"
     ],
     "range_of_motion_guidance": "Full extension at the front; full return to deep stretch without discomfort.",
     "tempo_recommendations": "3-1-2-0",
@@ -54,26 +74,65 @@
       "Keep the shoulder blades retracted"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 75, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["lower-chest", "machine", "decline"]
+    "tags": [
+      "lower-chest",
+      "machine",
+      "decline"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

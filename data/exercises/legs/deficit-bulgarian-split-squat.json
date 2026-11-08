@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0013-4000-a000-100000000013",
   "slug": "deficit-bulgarian-split-squat",
   "name": "Deficit Bulgarian Split Squat",
-  "alternative_names": ["Front-Foot Elevated Bulgarian Split Squat", "Elevated RFESS"],
+  "alternative_names": [
+    "Front-Foot Elevated Bulgarian Split Squat",
+    "Elevated RFESS"
+  ],
   "description": "The deficit Bulgarian split squat elevates the front foot on a plate or platform in addition to the rear foot being elevated on a bench. This creates a greater range of motion at the hip and knee of the working leg, increasing the stretch on the quadriceps and hip flexors at the bottom of the movement. It is an advanced variation that places significantly higher demands on flexibility and strength through a longer range of motion.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,49 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Place a weight plate or low platform under the front foot. Rear foot on a bench. Stand tall holding dumbbells. Ensure the front foot elevation is 1-3 inches high.",
@@ -37,36 +68,88 @@
     "steps": [
       "Step 1: Brace and control the descent, bending the front knee and dropping the rear knee.",
       "Step 2: Due to the front foot elevation, descend deeper than a standard RFESS.",
-      "Step 3: Reach the greatest depth you can with control — this is significantly deeper than a standard split squat.",
+      "Step 3: Reach the greatest depth you can with control \u2014 this is significantly deeper than a standard split squat.",
       "Step 4: Drive through the front foot to return to standing."
     ],
     "breathing_instructions": "Inhale on the descent, exhale on the ascent.",
-    "common_mistakes": ["Collapsing into the bottom without control", "Front knee caving inward", "Excessive forward torso lean"],
-    "safety_considerations": ["Requires significant hip flexor and quad flexibility — develop standard Bulgarian split squat first", "Ensure front foot elevation is stable"],
+    "common_mistakes": [
+      "Collapsing into the bottom without control",
+      "Front knee caving inward",
+      "Excessive forward torso lean"
+    ],
+    "safety_considerations": [
+      "Requires significant hip flexor and quad flexibility \u2014 develop standard Bulgarian split squat first",
+      "Ensure front foot elevation is stable"
+    ],
     "range_of_motion_guidance": "Rear knee should travel well below the front foot level due to the deficit. Greater ROM than standard RFESS.",
     "tempo_recommendations": "3-1-2-0 (slow, controlled, pause at bottom)",
-    "coaching_cues": ["Sink into the stretch", "Control the bottom", "Front knee tracks over second toe"]
+    "coaching_cues": [
+      "Sink into the stretch",
+      "Control the bottom",
+      "Front knee tracks over second toe"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 4, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["unilateral", "advanced", "split-squat", "deficit"]
+    "tags": [
+      "unilateral",
+      "advanced",
+      "split-squat",
+      "deficit"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

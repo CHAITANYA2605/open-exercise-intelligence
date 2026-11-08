@@ -66,7 +66,7 @@
     "tempo_recommendations": "2-1-2-0 (squeeze for 1 second at peak contraction)",
     "coaching_cues": [
       "Lead with your elbows, not your hands, as you squeeze inward",
-      "Feel the chest doing the work — not the shoulders or arms"
+      "Feel the chest doing the work \u2014 not the shoulders or arms"
     ]
   },
   "variants": {
@@ -133,6 +133,9 @@
       "isolation",
       "machine",
       "fly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

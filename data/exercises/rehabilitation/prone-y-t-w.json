@@ -7,7 +7,7 @@
     "YTW Exercise",
     "Scapular YTW"
   ],
-  "description": "The prone YTW is a scapular stability and lower trapezius rehabilitation exercise performed face-down on a bench or floor. Three arm positions — Y (overhead diagonal), T (horizontal), and W (elbows bent at sides) — collectively target the lower, middle, and upper trapezius as well as the rhomboids and posterior deltoid. It is prescribed for scapular dyskinesis, shoulder impingement, and postural correction programs.",
+  "description": "The prone YTW is a scapular stability and lower trapezius rehabilitation exercise performed face-down on a bench or floor. Three arm positions \u2014 Y (overhead diagonal), T (horizontal), and W (elbows bent at sides) \u2014 collectively target the lower, middle, and upper trapezius as well as the rhomboids and posterior deltoid. It is prescribed for scapular dyskinesis, shoulder impingement, and postural correction programs.",
   "category": "rehabilitation",
   "exercise_type": "strength",
   "difficulty_level": "beginner",
@@ -51,25 +51,25 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie face-down on a bench or mat with arms hanging relaxed at the sides or slightly off a bench edge.",
-    "setup_instructions": "No equipment required. Light dumbbells (0.5–2 kg) may be added when bodyweight is mastered.",
+    "setup_instructions": "No equipment required. Light dumbbells (0.5\u20132 kg) may be added when bodyweight is mastered.",
     "steps": [
-      "Step 1 — Y position: Raise both arms overhead in a Y shape (diagonal, thumbs up). Squeeze the shoulder blades down and together. Hold 2 seconds, lower.",
-      "Step 2 — T position: Raise both arms out to the sides in a T shape (horizontal, thumbs up). Retract and depress the scapulae. Hold 2 seconds, lower.",
-      "Step 3 — W position: Bend the elbows and raise them to shoulder height, pulling the elbows back as if doing a row, hands near the ears forming a W. Hold 2 seconds, lower.",
-      "Step 4: Perform 8–12 repetitions of each position in sequence as one set."
+      "Step 1 \u2014 Y position: Raise both arms overhead in a Y shape (diagonal, thumbs up). Squeeze the shoulder blades down and together. Hold 2 seconds, lower.",
+      "Step 2 \u2014 T position: Raise both arms out to the sides in a T shape (horizontal, thumbs up). Retract and depress the scapulae. Hold 2 seconds, lower.",
+      "Step 3 \u2014 W position: Bend the elbows and raise them to shoulder height, pulling the elbows back as if doing a row, hands near the ears forming a W. Hold 2 seconds, lower.",
+      "Step 4: Perform 8\u201312 repetitions of each position in sequence as one set."
     ],
     "breathing_instructions": "Exhale on each lift. Inhale when lowering.",
     "common_mistakes": [
-      "Shrugging the shoulders upward — focus on depressing the shoulder blades, not elevating",
+      "Shrugging the shoulders upward \u2014 focus on depressing the shoulder blades, not elevating",
       "Using momentum rather than deliberate scapular retraction and depression",
-      "Lifting the head and craning the neck — keep the neck in neutral"
+      "Lifting the head and craning the neck \u2014 keep the neck in neutral"
     ],
     "safety_considerations": [
       "If shoulder pain occurs, reduce the range of motion",
-      "This is a low-load exercise — the goal is neuromuscular control, not strength"
+      "This is a low-load exercise \u2014 the goal is neuromuscular control, not strength"
     ],
     "range_of_motion_guidance": "Lift arms only as high as the shoulder blade can maintain depression. Quality of scapular position matters more than height.",
-    "tempo_recommendations": "2-second lift, 2-second hold, 2-second lower. 8–12 reps each position, 2–3 sets.",
+    "tempo_recommendations": "2-second lift, 2-second hold, 2-second lower. 8\u201312 reps each position, 2\u20133 sets.",
     "coaching_cues": [
       "Pull your shoulder blades into your back pockets",
       "Thumbs point up in all three positions",
@@ -125,6 +125,9 @@
       "shoulder",
       "posture",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

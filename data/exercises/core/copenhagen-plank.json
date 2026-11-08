@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e016-4000-a000-000000000116",
   "slug": "copenhagen-plank",
   "name": "Copenhagen Plank",
-  "alternative_names": ["Copenhagen Side Plank", "Adductor Side Plank"],
+  "alternative_names": [
+    "Copenhagen Side Plank",
+    "Adductor Side Plank"
+  ],
   "description": "The Copenhagen plank is an advanced side plank variation in which the top leg is supported on a bench or box while the bottom leg hangs or is adducted upward. It is one of the most effective exercises for training the hip adductors under a high-force isometric demand while simultaneously loading the lateral core. Research has demonstrated its effectiveness in both adductor strengthening and groin injury prevention in sports athletes.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,26 +18,57 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
-      {"muscle_id": "ffffffff-0003-4000-a000-00000000000f", "muscle_slug": "adductor-longus"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "ffffffff-0003-4000-a000-00000000000f",
+        "muscle_slug": "adductor-longus"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "ffffffff-0005-4000-a000-00000000000f", "muscle_slug": "gracilis"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "ffffffff-0005-4000-a000-00000000000f",
+        "muscle_slug": "gracilis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ]
   },
-  "equipment_required": ["eq000015-0000-4000-a000-000000000015"],
-  "equipment_optional": ["eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "execution": {
     "starting_position": "Position a flat bench alongside you. Rest the top ankle or shin on the bench edge in a side plank position with the forearm on the floor. The bottom leg hangs beneath the bench.",
-    "setup_instructions": "Set a bench at a height that challenges the adductors — typically 40–50 cm. The top leg should be supported at the ankle for maximum leverage.",
+    "setup_instructions": "Set a bench at a height that challenges the adductors \u2014 typically 40\u201350 cm. The top leg should be supported at the ankle for maximum leverage.",
     "steps": [
       "Step 1: Set up with the top ankle or shin on the bench, bottom forearm on the floor, and body in a straight side-plank line.",
       "Step 2: Drive the top leg down into the bench and simultaneously lift the hips off the floor to form a straight plank line.",
@@ -46,17 +80,17 @@
     "common_mistakes": [
       "Allowing the hips to drop, reducing adductor tension",
       "Rotating the torso forward or backward",
-      "Using the ankle — placing the foot on the bench instead of the ankle/shin reduces adductor leverage"
+      "Using the ankle \u2014 placing the foot on the bench instead of the ankle/shin reduces adductor leverage"
     ],
     "safety_considerations": [
-      "Groin soreness in the days following initial training is normal — progress load conservatively.",
+      "Groin soreness in the days following initial training is normal \u2014 progress load conservatively.",
       "If experiencing groin pain, regress to a short-lever Copenhagen plank with the knee on the bench."
     ],
     "range_of_motion_guidance": "Full isometric hold with hips elevated and body straight. Progress from short-lever (knee on bench) to long-lever (ankle on bench).",
-    "tempo_recommendations": "Hold for 10–30 seconds. Progress duration before adding dynamic repetitions.",
+    "tempo_recommendations": "Hold for 10\u201330 seconds. Progress duration before adding dynamic repetitions.",
     "coaching_cues": [
       "Drive the top leg into the bench",
-      "Keep your hips tall — no sagging",
+      "Keep your hips tall \u2014 no sagging",
       "Straight line from shoulder to ankle"
     ]
   },
@@ -69,21 +103,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 90},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 90
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "adductors", "injury-prevention", "advanced", "groin"]
+    "tags": [
+      "core",
+      "adductors",
+      "injury-prevention",
+      "advanced",
+      "groin"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

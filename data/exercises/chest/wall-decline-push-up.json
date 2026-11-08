@@ -47,18 +47,18 @@
   "equipment_required": [],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Begin in a plank position facing away from a wall. Walk the feet up the wall to a comfortable decline angle (30–60 degrees). Hands on the floor, arms extended.",
+    "starting_position": "Begin in a plank position facing away from a wall. Walk the feet up the wall to a comfortable decline angle (30\u201360 degrees). Hands on the floor, arms extended.",
     "setup_instructions": "Use a solid wall with a non-slip floor. Wear shoes for better traction against the wall. Start at a lower decline and progress steeper as strength improves.",
     "steps": [
       "Step 1: Position feet on the wall at a comfortable height. Establish a rigid plank position with arms extended.",
       "Step 2: Bend elbows and lower the chest toward the floor in a controlled descent.",
-      "Step 3: Descend until chest is 2–3 cm from the floor or as far as shoulder health allows.",
+      "Step 3: Descend until chest is 2\u20133 cm from the floor or as far as shoulder health allows.",
       "Step 4: Press powerfully back to the starting position, maintaining the plank through the entire set."
     ],
     "breathing_instructions": "Inhale on descent, exhale on the press.",
     "common_mistakes": [
-      "Feet slipping down the wall mid-set — push actively into the wall with the feet",
-      "Hips sagging or piking — maintain a strict plank",
+      "Feet slipping down the wall mid-set \u2014 push actively into the wall with the feet",
+      "Hips sagging or piking \u2014 maintain a strict plank",
       "Hands placed too wide, stressing the shoulders"
     ],
     "safety_considerations": [
@@ -69,7 +69,7 @@
     "range_of_motion_guidance": "Full push-up range, chest to near-floor at the bottom, full arm extension at the top.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "Press your feet into the wall — this keeps you stable and activates the lower body",
+      "Press your feet into the wall \u2014 this keeps you stable and activates the lower body",
       "Squeeze the glutes to keep the plank rigid"
     ]
   },
@@ -126,6 +126,9 @@
       "decline",
       "lower-chest",
       "no-equipment"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

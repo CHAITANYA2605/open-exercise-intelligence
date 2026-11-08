@@ -2,7 +2,10 @@
   "exercise_id": "aa14fd63-bd58-47fb-8d62-c9771f0a8fb1",
   "slug": "arnold-press-2s-hold-top",
   "name": "Arnold Press with 2-Second Hold at Top",
-  "alternative_names": ["Top Pause Arnold Press", "Arnold Press Lockout Hold"],
+  "alternative_names": [
+    "Top Pause Arnold Press",
+    "Arnold Press Lockout Hold"
+  ],
   "description": "The Arnold press with 2-second hold at the top pauses in the fully overhead, fully pronated lockout position before descending, training the ability to stabilize and generate force from the locked-out shoulder position. The pause increases time under tension through the overhead range, challenges the upper trapezius and serratus anterior in their most shortened position, and builds confidence and strength in the full overhead lockout.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,44 +18,61 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "triceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Seated with dumbbells at shoulder height, palms facing the body, elbows forward — standard Arnold press starting position.",
-    "setup_instructions": "Moderate weight — the lockout hold requires sustained overhead stability.",
+    "starting_position": "Seated with dumbbells at shoulder height, palms facing the body, elbows forward \u2014 standard Arnold press starting position.",
+    "setup_instructions": "Moderate weight \u2014 the lockout hold requires sustained overhead stability.",
     "steps": [
       "Step 1: Press the dumbbells overhead while rotating the wrists to pronated.",
       "Step 2: At full lockout, hold for 2 full seconds.",
-      "Step 3: During the hold, actively press through the traps — shrug slightly into the hold.",
+      "Step 3: During the hold, actively press through the traps \u2014 shrug slightly into the hold.",
       "Step 4: Lower under control, reversing the rotation.",
       "Step 5: Return to the starting position and repeat."
     ],
     "breathing_instructions": "Exhale pressing. Hold breath briefly at lockout. Exhale during descent.",
     "common_mistakes": [
-      "Not maintaining active overhead pressing tension during the hold — stay engaged",
-      "Using too heavy a weight — the hold becomes impossible"
+      "Not maintaining active overhead pressing tension during the hold \u2014 stay engaged",
+      "Using too heavy a weight \u2014 the hold becomes impossible"
     ],
     "safety_considerations": [
-      "Ensure elbows are locked before the hold — no hyperextension, just full extension",
+      "Ensure elbows are locked before the hold \u2014 no hyperextension, just full extension",
       "Avoid if shoulder impingement occurs at overhead lockout"
     ],
     "range_of_motion_guidance": "Full supinated start to overhead pronated lockout with 2s hold.",
     "tempo_recommendations": "2-2 hold-2-0",
     "coaching_cues": [
-      "Press up through the hold — stay active",
+      "Press up through the hold \u2014 stay active",
       "Squeeze the traps at the lockout",
-      "2 full seconds at the top — not a quick bounce"
+      "2 full seconds at the top \u2014 not a quick bounce"
     ]
   },
   "variants": {
@@ -64,21 +84,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90 },
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "arnold-press", "lockout", "hold", "deltoid"]
+    "tags": [
+      "dumbbell",
+      "arnold-press",
+      "lockout",
+      "hold",
+      "deltoid"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

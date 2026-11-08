@@ -65,12 +65,12 @@
       "Step 2: Rotate the trunk and swing the barbell end to one side, keeping the arms relatively straight and pivoting the trailing foot.",
       "Step 3: Allow the barbell to arc to roughly hip height on one side.",
       "Step 4: Return through center and continue to the opposite side in a continuous pendulum motion.",
-      "Step 5: Drive the rotation from the hips and trunk — not the arms."
+      "Step 5: Drive the rotation from the hips and trunk \u2014 not the arms."
     ],
     "breathing_instructions": "Exhale forcefully at each end of the rotation. Inhale at center.",
     "common_mistakes": [
-      "Using too much arm movement — this is a trunk rotation exercise",
-      "Using such heavy load that rotation range is restricted — keep load moderate"
+      "Using too much arm movement \u2014 this is a trunk rotation exercise",
+      "Using such heavy load that rotation range is restricted \u2014 keep load moderate"
     ],
     "safety_considerations": [
       "Pivot the rear foot to protect the knee during rotation"
@@ -130,6 +130,9 @@
       "obliques",
       "landmine",
       "functional"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

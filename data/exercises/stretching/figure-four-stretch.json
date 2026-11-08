@@ -48,12 +48,12 @@
       "Step 2: Cross the left ankle over the right knee, creating a figure-four shape with the legs.",
       "Step 3: Flex the left foot to protect the knee joint.",
       "Step 4: Reach through or around the legs and grasp the right thigh, drawing it toward the chest.",
-      "Step 5: Hold 30–90 seconds, then switch sides."
+      "Step 5: Hold 30\u201390 seconds, then switch sides."
     ],
     "breathing_instructions": "Breathe slowly throughout. Each exhale allows greater relaxation into the stretch.",
     "common_mistakes": [
-      "Dropping the foot — keep the top ankle flexed to protect the knee",
-      "Pulling the bottom leg too aggressively — a gentle pull is sufficient",
+      "Dropping the foot \u2014 keep the top ankle flexed to protect the knee",
+      "Pulling the bottom leg too aggressively \u2014 a gentle pull is sufficient",
       "Holding the breath, which creates tension and reduces stretch effectiveness"
     ],
     "safety_considerations": [
@@ -61,11 +61,11 @@
       "If the stretch is felt in the knee rather than the hip, adjust ankle position"
     ],
     "range_of_motion_guidance": "Draw the bottom thigh toward the chest until a stretch is felt in the outer hip of the crossed leg.",
-    "tempo_recommendations": "Hold 30–90 seconds. 2–4 rounds per side.",
+    "tempo_recommendations": "Hold 30\u201390 seconds. 2\u20134 rounds per side.",
     "coaching_cues": [
       "Push the crossed knee away from your chest to deepen the stretch",
-      "Keep your foot flexed — this protects your knee",
-      "Let gravity help you — relax into the floor"
+      "Keep your foot flexed \u2014 this protects your knee",
+      "Let gravity help you \u2014 relax into the floor"
     ]
   },
   "variants": {
@@ -116,6 +116,9 @@
       "beginner",
       "supine",
       "piriformis"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

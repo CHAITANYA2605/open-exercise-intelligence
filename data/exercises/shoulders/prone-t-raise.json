@@ -56,20 +56,20 @@
   ],
   "execution": {
     "starting_position": "Lie face down on the floor or an incline bench with arms extended directly to the sides, perpendicular to the torso, forming a T. Thumbs point toward the ceiling.",
-    "setup_instructions": "No equipment needed for bodyweight. Add light dumbbells (1–3 kg) for increased load. Can be done over an incline bench for greater range of motion.",
+    "setup_instructions": "No equipment needed for bodyweight. Add light dumbbells (1\u20133 kg) for increased load. Can be done over an incline bench for greater range of motion.",
     "steps": [
       "Step 1: Lie face down with arms extended to the sides in a T shape. Thumbs point up.",
       "Step 2: Depress and retract the shoulder blades.",
       "Step 3: Exhale and raise both arms toward the ceiling, squeezing the middle traps and rear delts.",
-      "Step 4: Hold at the top 1–2 seconds, then inhale and lower back to the floor."
+      "Step 4: Hold at the top 1\u20132 seconds, then inhale and lower back to the floor."
     ],
     "breathing_instructions": "Exhale on the raise; inhale on the return.",
     "common_mistakes": [
-      "Letting the shoulder blades wing outward — actively retract them during the raise",
+      "Letting the shoulder blades wing outward \u2014 actively retract them during the raise",
       "Using upper trap shrugging instead of mid-trap retraction"
     ],
     "safety_considerations": [
-      "Very light load only — this is a corrective and endurance exercise"
+      "Very light load only \u2014 this is a corrective and endurance exercise"
     ],
     "range_of_motion_guidance": "Raise arms until middle traps are maximally contracted; they will not go very high.",
     "tempo_recommendations": "2-2-2-0",
@@ -134,6 +134,9 @@
       "rehab",
       "posture",
       "prehab"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

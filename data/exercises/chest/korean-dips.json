@@ -82,7 +82,7 @@
     "coaching_cues": [
       "Warm up the shoulders extensively before this",
       "Feel the chest open as you lower",
-      "Respect your flexibility — this is a long-term progression"
+      "Respect your flexibility \u2014 this is a long-term progression"
     ]
   },
   "variants": {
@@ -148,6 +148,9 @@
       "advanced",
       "calisthenics",
       "flexibility"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

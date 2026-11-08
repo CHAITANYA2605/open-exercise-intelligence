@@ -64,25 +64,25 @@
     "starting_position": "Begin in swiss ball push-up position (both hands on ball, both feet on floor, body in a plank). Lift one foot off the floor before beginning.",
     "setup_instructions": "Fully inflate the ball. Place it on a non-slip surface. Master two-leg swiss ball push-ups before attempting this variation.",
     "steps": [
-      "Step 1: Establish the swiss ball plank with one foot lifted — the lifted leg is held straight and slightly elevated.",
+      "Step 1: Establish the swiss ball plank with one foot lifted \u2014 the lifted leg is held straight and slightly elevated.",
       "Step 2: Lower the chest toward the ball top, maintaining body control.",
       "Step 3: Descend until the chest nearly touches the ball.",
       "Step 4: Press back to the starting position. Maintain the single-leg balance throughout. Complete all reps then switch which leg is raised."
     ],
     "breathing_instructions": "Inhale on descent, exhale on press.",
     "common_mistakes": [
-      "Hips rotating toward the lifted leg — keep them square",
+      "Hips rotating toward the lifted leg \u2014 keep them square",
       "Attempting before mastering two-leg swiss ball push-ups",
-      "Placing the hands too far apart on the ball — keep them central on the ball top"
+      "Placing the hands too far apart on the ball \u2014 keep them central on the ball top"
     ],
     "safety_considerations": [
-      "Fully inflate the ball — a soft ball deforms unpredictably under single-leg load",
+      "Fully inflate the ball \u2014 a soft ball deforms unpredictably under single-leg load",
       "Have the ball against a wall as a stop if needed during learning"
     ],
     "range_of_motion_guidance": "Full push-up range, same as two-leg version.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "The lifted leg is held still — do not let it swing or sway",
+      "The lifted leg is held still \u2014 do not let it swing or sway",
       "Squeeze the ball inward with both hands to maximize shoulder stability"
     ]
   },
@@ -135,6 +135,9 @@
       "advanced",
       "stability",
       "core"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

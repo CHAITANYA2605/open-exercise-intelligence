@@ -1,12 +1,12 @@
 {
   "exercise_id": "7acfc91c-3a5b-417c-9bea-a5a67f046791",
   "slug": "incline-bench-cable-flye-drop-set",
-  "name": "Incline Bench Cable Flye — Drop Set",
+  "name": "Incline Bench Cable Flye \u2014 Drop Set",
   "alternative_names": [
     "Incline Cable Flye Drop",
     "High Cable Incline Flye Drop Set"
   ],
-  "description": "An incline cable flye performed on an adjustable bench set between two cable stacks, executed as a drop set. The incline position targets the clavicular (upper) portion of the pectoralis major, and the cable provides constant tension through the entire arc — unlike dumbbells which lose tension at the top. The drop set structure allows training past initial failure, maximizing upper chest hypertrophy stimulus. The cable's constant tension through the stretch (bottom) and squeeze (top) positions makes this a superior flye variation for complete fiber recruitment.",
+  "description": "An incline cable flye performed on an adjustable bench set between two cable stacks, executed as a drop set. The incline position targets the clavicular (upper) portion of the pectoralis major, and the cable provides constant tension through the entire arc \u2014 unlike dumbbells which lose tension at the top. The drop set structure allows training past initial failure, maximizing upper chest hypertrophy stimulus. The cable's constant tension through the stretch (bottom) and squeeze (top) positions makes this a superior flye variation for complete fiber recruitment.",
   "category": "functional",
   "exercise_type": "isolation",
   "difficulty_level": "intermediate",
@@ -56,20 +56,20 @@
     ],
     "breathing_instructions": "Inhale as the arms lower outward. Exhale as you bring them together.",
     "common_mistakes": [
-      "Excessively bending the elbows, converting the flye into a press — maintain a slight fixed elbow bend throughout",
+      "Excessively bending the elbows, converting the flye into a press \u2014 maintain a slight fixed elbow bend throughout",
       "Allowing the cable to pull the arms too far back, causing shoulder stress at the bottom stretch position",
-      "Rushing the transition during the drop — ensure a safe, quick change"
+      "Rushing the transition during the drop \u2014 ensure a safe, quick change"
     ],
     "safety_considerations": [
-      "The bottom stretch position with cable tension can stress the anterior shoulder — do not go beyond a comfortable stretch",
+      "The bottom stretch position with cable tension can stress the anterior shoulder \u2014 do not go beyond a comfortable stretch",
       "Have the lighter weight ready before beginning the initial set"
     ],
     "range_of_motion_guidance": "From cables together above chest to a wide arc where the hands are at approximately shoulder height with a full upper chest stretch.",
     "tempo_recommendations": "3s eccentric (open), 1s stretch, 2s press back together. Full ROM on all reps.",
     "coaching_cues": [
-      "Think of hugging a barrel — the arms maintain the same slight bend throughout the entire arc",
-      "Feel the upper chest stretch at the bottom — the cable maintains tension even here",
-      "Squeeze the hands toward each other at the top — not just touching, but pressing"
+      "Think of hugging a barrel \u2014 the arms maintain the same slight bend throughout the entire arc",
+      "Feel the upper chest stretch at the bottom \u2014 the cable maintains tension even here",
+      "Squeeze the hands toward each other at the top \u2014 not just touching, but pressing"
     ]
   },
   "variants": {
@@ -119,6 +119,9 @@
       "flye",
       "incline",
       "drop-set"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -7,8 +7,15 @@ Official JavaScript / TypeScript SDK for the [Open Exercise Intelligence](https:
 
 ## Installation
 
+> **Package not yet published to registry — see local installation below.**
+
 ```bash
-npm install @oei/exercise-sdk
+# Clone the repository and use the SDK from source:
+git clone https://github.com/CHAITANYA2605/open-exercise-intelligence.git
+cd open-exercise-intelligence
+# Reference sdks/js from your project:
+# In your package.json: "dependencies": { "@oei/exercise-sdk": "file:./path/to/sdks/js" }
+npm install
 ```
 
 ## Quick Start (Node.js)

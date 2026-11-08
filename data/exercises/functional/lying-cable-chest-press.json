@@ -56,25 +56,25 @@
     "steps": [
       "Step 1: Lie with handles at chest level, elbows bent and in contact with the floor (floor press) or just above chest level (bench).",
       "Step 2: Press both handles upward and together, extending the elbows and squeezing the pecs at the top.",
-      "Step 3: Hold at full extension with the handles together — the cable tension remains at lockout.",
+      "Step 3: Hold at full extension with the handles together \u2014 the cable tension remains at lockout.",
       "Step 4: Lower under control back to the start. Repeat."
     ],
     "breathing_instructions": "Inhale as you lower. Exhale during the press.",
     "common_mistakes": [
       "Cables positioned too high, reducing the loading at the bottom",
-      "Losing scapular retraction at lockout — maintain shoulder blade position throughout",
+      "Losing scapular retraction at lockout \u2014 maintain shoulder blade position throughout",
       "Pressing one side faster than the other, creating rotation"
     ],
     "safety_considerations": [
       "Ensure both cable stacks are at the same weight",
-      "If using the floor, the elbows cannot go below body level — this limits ROM but reduces shoulder stress"
+      "If using the floor, the elbows cannot go below body level \u2014 this limits ROM but reduces shoulder stress"
     ],
     "range_of_motion_guidance": "Full elbow extension at the top. For floor press: elbows to floor level at the bottom.",
     "tempo_recommendations": "3s eccentric, 1s bottom pause, 2s press.",
     "coaching_cues": [
-      "Feel the cable pulling inward at the top — squeeze the chest hard to control it",
+      "Feel the cable pulling inward at the top \u2014 squeeze the chest hard to control it",
       "Keep the shoulder blades retracted on the bench throughout the press",
-      "Equal weight on both sides — do not let one arm lead"
+      "Equal weight on both sides \u2014 do not let one arm lead"
     ]
   },
   "variants": {
@@ -124,6 +124,9 @@
       "press",
       "functional",
       "lying"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

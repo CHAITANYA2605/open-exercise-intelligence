@@ -63,8 +63,8 @@
     ],
     "breathing_instructions": "Inhale before the press, exhale during the pressing movement.",
     "common_mistakes": [
-      "Wrist discomfort due to forcing a supinated grip on a machine not designed for it — stop if wrists hurt",
-      "Using the same weight as standard grip — the supinated position typically requires 10–20% less load",
+      "Wrist discomfort due to forcing a supinated grip on a machine not designed for it \u2014 stop if wrists hurt",
+      "Using the same weight as standard grip \u2014 the supinated position typically requires 10\u201320% less load",
       "Rotating forearms mid-rep back to a neutral position"
     ],
     "safety_considerations": [
@@ -75,8 +75,8 @@
     "range_of_motion_guidance": "Full range of the machine from fully loaded to full extension.",
     "tempo_recommendations": "3-1-2-1",
     "coaching_cues": [
-      "Palms face up the entire time — the supinated grip is what makes this unique",
-      "Press from the chest, not the arms — the biceps stabilize but the pecs drive"
+      "Palms face up the entire time \u2014 the supinated grip is what makes this unique",
+      "Press from the chest, not the arms \u2014 the biceps stabilize but the pecs drive"
     ]
   },
   "variants": {
@@ -127,6 +127,9 @@
       "supinated",
       "chest",
       "variation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

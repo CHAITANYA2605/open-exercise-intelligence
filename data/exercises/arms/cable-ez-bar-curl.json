@@ -2,8 +2,10 @@
   "exercise_id": "a1b2c3d4-0116-4000-a000-100000000116",
   "slug": "cable-ez-bar-curl",
   "name": "Cable EZ-Bar Curl",
-  "alternative_names": ["Cable Curl EZ-Bar"],
-  "description": "The cable EZ-bar curl attaches an EZ-curl bar to a low cable pulley and performs a bilateral curl. The cable maintains constant tension throughout the full arc — unlike free weight EZ-bar curls which go slack at the bottom — while the EZ-bar's angled grip reduces wrist stress. This combination provides constant tension with wrist-friendly positioning, making it a highly effective and comfortable hypertrophy exercise.",
+  "alternative_names": [
+    "Cable Curl EZ-Bar"
+  ],
+  "description": "The cable EZ-bar curl attaches an EZ-curl bar to a low cable pulley and performs a bilateral curl. The cable maintains constant tension throughout the full arc \u2014 unlike free weight EZ-bar curls which go slack at the bottom \u2014 while the EZ-bar's angled grip reduces wrist stress. This combination provides constant tension with wrist-friendly positioning, making it a highly effective and comfortable hypertrophy exercise.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -15,16 +17,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "66666666-0003-4000-a000-000000000006", "muscle_slug": "biceps-brachii-short-head"}
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"},
-      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"}
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      },
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000011-0000-4000-a000-000000000011", "eq000003-0000-4000-a000-000000000003"],
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011",
+    "eq000003-0000-4000-a000-000000000003"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Attach an EZ-bar to the low cable pulley. Stand facing the cable machine. Grasp the EZ-bar with a semi-supinated grip. Arms extended toward the pulley.",
@@ -36,30 +53,71 @@
       "Step 4: Return slowly to the starting position."
     ],
     "breathing_instructions": "Exhale on the curl, inhale on the return.",
-    "common_mistakes": ["Swinging the torso", "Elbows drifting forward", "Moving too fast"],
-    "safety_considerations": ["Ensure the EZ-bar attachment is secure before beginning"],
+    "common_mistakes": [
+      "Swinging the torso",
+      "Elbows drifting forward",
+      "Moving too fast"
+    ],
+    "safety_considerations": [
+      "Ensure the EZ-bar attachment is secure before beginning"
+    ],
     "range_of_motion_guidance": "Full extension to full flexion with constant cable tension throughout.",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Feel the tension at the bottom", "Elbows stay at the sides", "Squeeze at the peak"]
+    "coaching_cues": [
+      "Feel the tension at the bottom",
+      "Elbows stay at the sides",
+      "Squeeze at the peak"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["bicep", "isolation", "cable", "ez-bar"]
+    "tags": [
+      "bicep",
+      "isolation",
+      "cable",
+      "ez-bar"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

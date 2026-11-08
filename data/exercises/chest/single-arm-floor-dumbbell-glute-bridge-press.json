@@ -63,19 +63,19 @@
     ],
     "breathing_instructions": "Exhale on the press, inhale on the return. Continue breathing steadily throughout the bridge hold.",
     "common_mistakes": [
-      "Hips dropping during the press — the bridge must be maintained throughout all reps",
-      "Rotating the torso toward the working arm — stay square",
+      "Hips dropping during the press \u2014 the bridge must be maintained throughout all reps",
+      "Rotating the torso toward the working arm \u2014 stay square",
       "Using too heavy a dumbbell that causes the hip to drop for balance"
     ],
     "safety_considerations": [
       "If unable to maintain both the bridge and the press form simultaneously, reduce the dumbbell weight",
-      "Ensure the floor is comfortable — a mat is recommended"
+      "Ensure the floor is comfortable \u2014 a mat is recommended"
     ],
     "range_of_motion_guidance": "Floor contact limits elbow travel naturally. Press from that stop to full arm extension.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Squeeze the glutes to keep the hips up — they should not move during the press",
-      "Press from the chest — the body tries to rotate, resist it"
+      "Squeeze the glutes to keep the hips up \u2014 they should not move during the press",
+      "Press from the chest \u2014 the body tries to rotate, resist it"
     ]
   },
   "variants": {
@@ -127,6 +127,9 @@
       "unilateral",
       "core",
       "functional"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

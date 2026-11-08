@@ -72,11 +72,11 @@
       "Not controlling the descent, which skips the eccentric stimulus"
     ],
     "safety_considerations": [
-      "This is an advanced exercise — only attempt after achieving 10+ strict pull-ups with ease",
+      "This is an advanced exercise \u2014 only attempt after achieving 10+ strict pull-ups with ease",
       "Ensure grip is secure before each rep"
     ],
     "range_of_motion_guidance": "Full dead hang at the bottom to chin above working hand at the top.",
-    "tempo_recommendations": "Controlled concentric (2–3s), 1s hold, 3s eccentric",
+    "tempo_recommendations": "Controlled concentric (2\u20133s), 1s hold, 3s eccentric",
     "coaching_cues": [
       "Think of it as a one-arm pull-up with a training wheel on the other side",
       "The extended arm should feel like it is barely helping",
@@ -130,6 +130,9 @@
       "pull-up",
       "advanced",
       "one-arm-progression"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

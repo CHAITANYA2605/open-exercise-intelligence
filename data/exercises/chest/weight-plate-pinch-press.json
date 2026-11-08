@@ -61,7 +61,7 @@
     ],
     "safety_considerations": [
       "Use smooth-faced steel plates, not bumper plates with raised lips",
-      "Do not use this exercise to failure — dropping the plates could cause injury",
+      "Do not use this exercise to failure \u2014 dropping the plates could cause injury",
       "Start with lighter plates until the pinch coordination feels stable"
     ],
     "range_of_motion_guidance": "Press to full arm extension, maintaining the inward squeeze the entire time. Lower under control.",
@@ -69,7 +69,7 @@
     "coaching_cues": [
       "Squeeze the plates like your life depends on it",
       "Feel the sternum compress on the press",
-      "Don't let the squeeze go — that IS the exercise"
+      "Don't let the squeeze go \u2014 that IS the exercise"
     ]
   },
   "variants": {
@@ -134,6 +134,9 @@
       "plates",
       "inner-chest",
       "squeeze"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e006-4000-a000-000000000106",
   "slug": "windshield-wipers",
   "name": "Windshield Wipers",
-  "alternative_names": ["Hanging Windshield Wipers", "Rotating Leg Raises"],
+  "alternative_names": [
+    "Hanging Windshield Wipers",
+    "Rotating Leg Raises"
+  ],
   "description": "Windshield wipers are an advanced hanging core exercise performed from a pull-up bar in which the athlete raises both legs to horizontal or above, then rotates them side to side like windshield wipers. The exercise heavily loads the obliques as they both decelerate and produce trunk rotation under a large external moment arm. It also demands significant lat and grip strength to remain stable on the bar throughout.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,22 +18,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
     ]
   },
-  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
-  "equipment_optional": ["eq000019-0000-4000-a000-000000000019", "eq000020-0000-4000-a000-000000000020"],
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [
+    "eq000019-0000-4000-a000-000000000019",
+    "eq000020-0000-4000-a000-000000000020"
+  ],
   "execution": {
     "starting_position": "Hang from a pull-up bar with an overhand grip, hands shoulder-width or slightly wider apart. Arms fully extended, body hanging straight.",
     "setup_instructions": "Use a sturdy pull-up bar capable of supporting dynamic swinging loads. Chalk or straps may be used for grip.",
@@ -38,25 +70,25 @@
       "Step 1: Hang from the bar with straight arms in a dead hang position.",
       "Step 2: Raise both legs simultaneously until they are perpendicular to the torso (horizontal or above).",
       "Step 3: Keeping legs together and straight, rotate the legs to one side as far as controllable, ideally toward the bar.",
-      "Step 4: Return through center and rotate to the opposite side — one complete repetition.",
+      "Step 4: Return through center and rotate to the opposite side \u2014 one complete repetition.",
       "Step 5: Continue alternating sides for the prescribed reps, controlling the rotation throughout."
     ],
     "breathing_instructions": "Exhale as you rotate to each side. Inhale as you return through center.",
     "common_mistakes": [
-      "Bending the knees to reduce the lever arm — this reduces core demand significantly",
+      "Bending the knees to reduce the lever arm \u2014 this reduces core demand significantly",
       "Using hip flexor swing momentum rather than oblique-driven rotation",
       "Letting the body swing and rotate as a whole, losing bar stability"
     ],
     "safety_considerations": [
       "Requires strong hanging and core prerequisites. Train toes-to-bar first.",
-      "Grip failure is a risk — use chalk or straps if needed."
+      "Grip failure is a risk \u2014 use chalk or straps if needed."
     ],
     "range_of_motion_guidance": "Legs should ideally reach toward the bar at the top position. Rotation should bring the legs toward the bar on each side.",
-    "tempo_recommendations": "2–3 seconds per rotation side. Control is essential — never use swing momentum.",
+    "tempo_recommendations": "2\u20133 seconds per rotation side. Control is essential \u2014 never use swing momentum.",
     "coaching_cues": [
       "Legs stay locked together and straight",
       "Drive the rotation from your obliques, not your hips swinging",
-      "Return to center before each rotation — no rebounding"
+      "Return to center before each rotation \u2014 no rebounding"
     ]
   },
   "variants": {
@@ -68,21 +100,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "obliques", "calisthenics", "advanced", "hanging"]
+    "tags": [
+      "core",
+      "obliques",
+      "calisthenics",
+      "advanced",
+      "hanging"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

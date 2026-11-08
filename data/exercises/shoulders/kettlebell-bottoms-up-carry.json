@@ -19,7 +19,7 @@
   "muscles": {
     "primary": [
       {
-        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
         "muscle_slug": "infraspinatus"
       }
     ],
@@ -40,7 +40,7 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Hold a kettlebell in the bottoms-up position at chest height — handle pointing down, bell balanced on top of the fist at shoulder level. Elbow bent approximately 90 degrees.",
+    "starting_position": "Hold a kettlebell in the bottoms-up position at chest height \u2014 handle pointing down, bell balanced on top of the fist at shoulder level. Elbow bent approximately 90 degrees.",
     "setup_instructions": "Begin with a very light kettlebell. The rack version is easier than overhead, but still requires significant grip strength and rotator cuff activation.",
     "steps": [
       "Step 1: Hold the inverted kettlebell at chest/rack height. Squeeze the handle.",
@@ -51,7 +51,7 @@
     ],
     "breathing_instructions": "Breathe freely. Brace the core throughout.",
     "common_mistakes": [
-      "Too heavy — the bell will tip; much lighter than expected is appropriate",
+      "Too heavy \u2014 the bell will tip; much lighter than expected is appropriate",
       "Rotating the torso toward the loaded side"
     ],
     "safety_considerations": [
@@ -61,9 +61,9 @@
     "range_of_motion_guidance": "Maintained bottoms-up rack position for the full walking distance.",
     "tempo_recommendations": "Continuous controlled walking",
     "coaching_cues": [
-      "Squeeze the handle — continuous grip",
+      "Squeeze the handle \u2014 continuous grip",
       "Wrist stacked above elbow",
-      "Tall and vertical — no rotation"
+      "Tall and vertical \u2014 no rotation"
     ]
   },
   "variants": {
@@ -115,6 +115,9 @@
       "rotator-cuff",
       "stability",
       "rehabilitation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

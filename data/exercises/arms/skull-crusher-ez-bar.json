@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0131-4000-a000-100000000131",
   "slug": "skull-crusher-ez-bar",
   "name": "EZ-Bar Skull Crusher",
-  "alternative_names": ["EZ Lying Tricep Extension", "EZ Nose Breaker"],
+  "alternative_names": [
+    "EZ Lying Tricep Extension",
+    "EZ Nose Breaker"
+  ],
   "description": "The EZ-bar skull crusher replaces the straight bar with an EZ-curl bar, reducing wrist and elbow stress while maintaining tricep loading similar to the barbell version. The angled grip positions of the EZ-bar allow a more natural hand angle during the movement. It is the most common skull crusher variation for high-volume training due to its superior comfort and reduced injury risk over straight bar versions.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,14 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000003-0000-4000-a000-000000000003", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000003-0000-4000-a000-000000000003",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on a flat bench, EZ-bar pressed to full extension above the chest. Grip the inner handles.",
@@ -34,32 +49,81 @@
       "Step 4: Extend the elbows to return to the starting position."
     ],
     "breathing_instructions": "Inhale on the descent, exhale on the press.",
-    "common_mistakes": ["Upper arms drifting forward or backward during the movement", "Excessive elbow flare"],
-    "safety_considerations": ["EZ-bar still requires careful attention at the bottom — do not go to failure without a spotter"],
+    "common_mistakes": [
+      "Upper arms drifting forward or backward during the movement",
+      "Excessive elbow flare"
+    ],
+    "safety_considerations": [
+      "EZ-bar still requires careful attention at the bottom \u2014 do not go to failure without a spotter"
+    ],
     "range_of_motion_guidance": "Full extension to bar just above the forehead.",
     "tempo_recommendations": "2-0-2-0",
-    "coaching_cues": ["Upper arms pinned — only elbows move", "Lower to the forehead", "Squeeze the triceps at lockout"]
+    "coaching_cues": [
+      "Upper arms pinned \u2014 only elbows move",
+      "Lower to the forehead",
+      "Squeeze the triceps at lockout"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 6, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 6,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 150, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "isolation", "ez-bar"]
+    "tags": [
+      "tricep",
+      "isolation",
+      "ez-bar"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

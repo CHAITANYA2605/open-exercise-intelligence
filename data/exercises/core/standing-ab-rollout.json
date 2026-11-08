@@ -61,23 +61,23 @@
     "setup_instructions": "Only attempt after achieving 15+ controlled kneeling rollouts with full range of motion. Use a non-slip surface.",
     "steps": [
       "Step 1: Brace the core maximally. Begin to roll the wheel forward while simultaneously hinging at the hips.",
-      "Step 2: Lower the torso toward the floor under strict anti-extension control — do not allow the lumbar spine to hyperextend.",
-      "Step 3: Extend forward as far as can be controlled — ideally until the body is nearly horizontal.",
+      "Step 2: Lower the torso toward the floor under strict anti-extension control \u2014 do not allow the lumbar spine to hyperextend.",
+      "Step 3: Extend forward as far as can be controlled \u2014 ideally until the body is nearly horizontal.",
       "Step 4: Pull the wheel back toward the feet by engaging the lats and abs simultaneously, returning to upright.",
-      "Step 5: Maintain a hollow-body position throughout — ribs down, pelvis neutral."
+      "Step 5: Maintain a hollow-body position throughout \u2014 ribs down, pelvis neutral."
     ],
     "breathing_instructions": "Inhale and brace before rolling out. Exhale sharply on the return.",
     "common_mistakes": [
-      "Lumbar hyperextension at the bottom — indicates insufficient core strength for this variation",
-      "Failing to engage the lats on the return — the pullback is lat-driven, not just abs"
+      "Lumbar hyperextension at the bottom \u2014 indicates insufficient core strength for this variation",
+      "Failing to engage the lats on the return \u2014 the pullback is lat-driven, not just abs"
     ],
     "safety_considerations": [
-      "Stop immediately if lower-back pain occurs — regress to kneeling rollout"
+      "Stop immediately if lower-back pain occurs \u2014 regress to kneeling rollout"
     ],
     "range_of_motion_guidance": "Roll out as far as can be controlled without lumbar collapse. Full return to standing upright.",
     "tempo_recommendations": "3-1-3-0. Each repetition should be fully deliberate and controlled.",
     "coaching_cues": [
-      "Ribs to hips — hollow position always",
+      "Ribs to hips \u2014 hollow position always",
       "Pull the floor toward you on the way back"
     ]
   },
@@ -128,6 +128,9 @@
       "advanced",
       "ab-wheel",
       "expert"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

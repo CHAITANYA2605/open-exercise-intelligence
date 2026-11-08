@@ -77,10 +77,10 @@
       "Ensure single-leg landing stability before progressing to continuous hopping."
     ],
     "range_of_motion_guidance": "Maximize hop distance or height. Full foot landing on a balanced single-leg stance.",
-    "tempo_recommendations": "For power: maximal distance per hop, 3–5 hops per set. For conditioning: continuous hops for 20–30 meters.",
+    "tempo_recommendations": "For power: maximal distance per hop, 3\u20135 hops per set. For conditioning: continuous hops for 20\u201330 meters.",
     "coaching_cues": [
-      "Drive off a stiff ankle — push the floor away",
-      "Land with the hip sitting back — not knee over toe collapse",
+      "Drive off a stiff ankle \u2014 push the floor away",
+      "Land with the hip sitting back \u2014 not knee over toe collapse",
       "Equal effort and landing on both legs"
     ]
   },
@@ -131,6 +131,9 @@
       "unilateral",
       "rehabilitation",
       "assessment"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

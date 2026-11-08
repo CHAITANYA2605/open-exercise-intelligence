@@ -6,7 +6,7 @@
     "Straight-Leg Deadlift",
     "SLDL"
   ],
-  "description": "The stiff-leg deadlift is a hip-hinge movement performed with the knees kept nearly fully extended throughout. Unlike the Romanian deadlift — which maintains a consistent slight knee bend — the stiff-leg deadlift allows the bar to travel to the floor, requiring greater lumbar flexion and placing an extreme stretch on the hamstrings. It delivers a powerful hamstring and erector spinae stimulus but demands significant flexibility and careful attention to spinal position.",
+  "description": "The stiff-leg deadlift is a hip-hinge movement performed with the knees kept nearly fully extended throughout. Unlike the Romanian deadlift \u2014 which maintains a consistent slight knee bend \u2014 the stiff-leg deadlift allows the bar to travel to the floor, requiring greater lumbar flexion and placing an extreme stretch on the hamstrings. It delivers a powerful hamstring and erector spinae stimulus but demands significant flexibility and careful attention to spinal position.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -70,20 +70,20 @@
     ],
     "breathing_instructions": "Inhale and brace before descent. Hold through the stretch. Exhale as you return to standing.",
     "common_mistakes": [
-      "Fully locking the knees (hyperextending) — a micro-bend protects the posterior joint",
+      "Fully locking the knees (hyperextending) \u2014 a micro-bend protects the posterior joint",
       "Losing control of the lower back rounding too early in the range (should occur only near the floor)",
       "Rounding the upper back significantly, transferring excessive load to the spine"
     ],
     "safety_considerations": [
-      "This exercise is not appropriate for those with insufficient hamstring flexibility — the Romanian deadlift is a safer alternative",
-      "Use moderate loads — the extreme stretch position is mechanically disadvantaged and high-risk under heavy load"
+      "This exercise is not appropriate for those with insufficient hamstring flexibility \u2014 the Romanian deadlift is a safer alternative",
+      "Use moderate loads \u2014 the extreme stretch position is mechanically disadvantaged and high-risk under heavy load"
     ],
     "range_of_motion_guidance": "Lower the bar until hamstring flexibility limits further range or the bar touches the floor, whichever comes first while maintaining acceptable spinal position.",
-    "tempo_recommendations": "3-1-1-0 — a slow controlled descent to maximize the hamstring stimulus",
+    "tempo_recommendations": "3-1-1-0 \u2014 a slow controlled descent to maximize the hamstring stimulus",
     "coaching_cues": [
-      "Slight knee bend throughout — never lock the knees",
+      "Slight knee bend throughout \u2014 never lock the knees",
       "Bar stays close to the legs on the way down",
-      "Feel the stretch — don't let the low back take over"
+      "Feel the stretch \u2014 don't let the low back take over"
     ]
   },
   "variants": {
@@ -161,6 +161,9 @@
       "hinge",
       "hamstring",
       "deadlift-variation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

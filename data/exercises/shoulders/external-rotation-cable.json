@@ -7,7 +7,7 @@
     "Side-Lying External Rotation Cable",
     "Standing Cable External Rotation"
   ],
-  "description": "The cable external rotation targets the external rotators of the shoulder — primarily the infraspinatus and teres minor — using a cable machine at elbow height. The cable maintains continuous tension through the full arc of motion unlike rubber bands or manual resistance, providing a consistent training stimulus to the rotator cuff throughout the range. It is a cornerstone exercise for rotator cuff health, shoulder injury prevention, and rehabilitation.",
+  "description": "The cable external rotation targets the external rotators of the shoulder \u2014 primarily the infraspinatus and teres minor \u2014 using a cable machine at elbow height. The cable maintains continuous tension through the full arc of motion unlike rubber bands or manual resistance, providing a consistent training stimulus to the rotator cuff throughout the range. It is a cornerstone exercise for rotator cuff health, shoulder injury prevention, and rehabilitation.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -50,20 +50,20 @@
       "Step 4: Rotate until the forearm is pointing forward or slightly past neutral.",
       "Step 5: Return under full control to the starting position."
     ],
-    "breathing_instructions": "Breathe naturally throughout — this is a low-load exercise.",
+    "breathing_instructions": "Breathe naturally throughout \u2014 this is a low-load exercise.",
     "common_mistakes": [
-      "Allowing the elbow to lift away from the side — the upper arm must remain still",
+      "Allowing the elbow to lift away from the side \u2014 the upper arm must remain still",
       "Using too heavy a weight, which causes shoulder shrugging or body rotation"
     ],
     "safety_considerations": [
-      "Very light loads only — this is a targeted rotator cuff exercise, not a strength movement"
+      "Very light loads only \u2014 this is a targeted rotator cuff exercise, not a strength movement"
     ],
     "range_of_motion_guidance": "From internal rotation (forearm toward cable) to external rotation (forearm pointing forward or beyond neutral).",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
       "Elbow stays glued to your side",
       "Rotate from the shoulder only",
-      "Light and controlled — rotator cuff work"
+      "Light and controlled \u2014 rotator cuff work"
     ]
   },
   "variants": {
@@ -113,6 +113,9 @@
       "external-rotation",
       "rehabilitation",
       "cable"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -73,13 +73,13 @@
       "Letting the boards shift position during the set"
     ],
     "safety_considerations": [
-      "Loads used should be greater than full ROM max — ensure spotter awareness",
+      "Loads used should be greater than full ROM max \u2014 ensure spotter awareness",
       "Partner must hold boards securely throughout the set"
     ],
     "range_of_motion_guidance": "Bar to board surface only. Full elbow lockout at top.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "Treat the board like the floor — press explosively off it",
+      "Treat the board like the floor \u2014 press explosively off it",
       "Keep tension in the lats throughout"
     ]
   },
@@ -129,6 +129,9 @@
       "partial-rom",
       "board-press",
       "triceps"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

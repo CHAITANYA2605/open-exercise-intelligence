@@ -46,10 +46,10 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with heels slightly elevated (on a small plate or the edge of a step) and hold onto an upright support for balance. Feet are hip-width apart.",
-    "setup_instructions": "Have a fixed support nearby (rack upright or door frame) to hold during the movement. Heel elevation (1–2 inches) makes the exercise more accessible and reduces ankle mobility demands.",
+    "setup_instructions": "Have a fixed support nearby (rack upright or door frame) to hold during the movement. Heel elevation (1\u20132 inches) makes the exercise more accessible and reduces ankle mobility demands.",
     "steps": [
-      "Step 1: Stand tall, holding the support lightly for balance. Begin to lean backward as a unit from the knees — the ankle plantar-flexes and the knee flexes.",
-      "Step 2: Continue leaning backward while allowing the knees to travel far forward. The hips remain relatively extended throughout — do not flex at the hip.",
+      "Step 1: Stand tall, holding the support lightly for balance. Begin to lean backward as a unit from the knees \u2014 the ankle plantar-flexes and the knee flexes.",
+      "Step 2: Continue leaning backward while allowing the knees to travel far forward. The hips remain relatively extended throughout \u2014 do not flex at the hip.",
       "Step 3: Descend until the thighs are as close to vertical as possible (nearly parallel to the torso, which is leaning far back).",
       "Step 4: Reverse the motion by contracting the quadriceps powerfully to pull the torso back to vertical.",
       "Step 5: Return to full standing extension."
@@ -57,18 +57,18 @@
     "breathing_instructions": "Inhale during the descent. Exhale on the return to standing.",
     "common_mistakes": [
       "Hinging at the hip (like a squat) instead of maintaining hip extension throughout",
-      "Moving too fast through the eccentric portion — the sissy squat's value is in its slow, controlled range",
-      "Attempting without sufficient quad strength — high patellar tendon stress makes unpreparedness risky"
+      "Moving too fast through the eccentric portion \u2014 the sissy squat's value is in its slow, controlled range",
+      "Attempting without sufficient quad strength \u2014 high patellar tendon stress makes unpreparedness risky"
     ],
     "safety_considerations": [
-      "High patellar tendon load — those with patellar tendinopathy should consult a clinician before performing",
+      "High patellar tendon load \u2014 those with patellar tendinopathy should consult a clinician before performing",
       "Avoid the loaded version until bodyweight is controlled comfortably",
       "Heel elevation reduces the ankle dorsiflexion requirement and reduces risk of balance loss"
     ],
     "range_of_motion_guidance": "Maximize the backward lean while keeping hips extended and feet planted. The more range, the greater the quad stretch.",
-    "tempo_recommendations": "4-1-2-0 — slow eccentric is essential",
+    "tempo_recommendations": "4-1-2-0 \u2014 slow eccentric is essential",
     "coaching_cues": [
-      "Keep the hips long — do not fold at the hip",
+      "Keep the hips long \u2014 do not fold at the hip",
       "Lean back as one rigid plank from knee to shoulder",
       "Squeeze the quads to pull yourself back up"
     ]
@@ -144,6 +144,9 @@
       "quad-isolation",
       "calisthenics",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

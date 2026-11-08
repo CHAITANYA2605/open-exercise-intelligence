@@ -54,31 +54,31 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Place a loop resistance band above the knees (easier) or around the ankles (harder). Stand with feet shoulder-width apart and descend into a partial squat — roughly quarter to half squat depth.",
+    "starting_position": "Place a loop resistance band above the knees (easier) or around the ankles (harder). Stand with feet shoulder-width apart and descend into a partial squat \u2014 roughly quarter to half squat depth.",
     "setup_instructions": "Choose band tension based on ability. Heavier bands around the knees provide more resistance; lighter bands around the ankles increase range.",
     "steps": [
       "Step 1: Place the band above knees or around ankles. Assume a partial squat with feet shoulder-width apart, chest up, core braced.",
       "Step 2: Step one foot laterally to widen the stance beyond shoulder width, maintaining the squat depth.",
-      "Step 3: Bring the trailing foot to follow, returning to shoulder-width stance — still in squat.",
+      "Step 3: Bring the trailing foot to follow, returning to shoulder-width stance \u2014 still in squat.",
       "Step 4: Continue walking in the same direction for the prescribed distance or steps.",
       "Step 5: Repeat in the opposite direction."
     ],
-    "breathing_instructions": "Breathe rhythmically throughout — exhale with each step.",
+    "breathing_instructions": "Breathe rhythmically throughout \u2014 exhale with each step.",
     "common_mistakes": [
-      "Standing up out of the squat between steps — maintain depth throughout",
-      "Letting the knees cave inward — push knees out against the band",
+      "Standing up out of the squat between steps \u2014 maintain depth throughout",
+      "Letting the knees cave inward \u2014 push knees out against the band",
       "Taking too large a step, which compromises squat position"
     ],
     "safety_considerations": [
       "Low risk exercise; common as a warm-up before squats and deadlifts",
-      "Avoid if the band causes knee pain — use a lighter band or adjust position"
+      "Avoid if the band causes knee pain \u2014 use a lighter band or adjust position"
     ],
-    "range_of_motion_guidance": "Steps of 30–45 cm per stride. Stay in a consistent partial squat throughout.",
-    "tempo_recommendations": "Controlled step pace — roughly 1 step per second.",
+    "range_of_motion_guidance": "Steps of 30\u201345 cm per stride. Stay in a consistent partial squat throughout.",
+    "tempo_recommendations": "Controlled step pace \u2014 roughly 1 step per second.",
     "coaching_cues": [
-      "Stay low — don't pop up between steps",
-      "Push knees out — fight the band",
-      "Keep toes forward — don't let feet turn out excessively"
+      "Stay low \u2014 don't pop up between steps",
+      "Push knees out \u2014 fight the band",
+      "Keep toes forward \u2014 don't let feet turn out excessively"
     ]
   },
   "variants": {
@@ -145,6 +145,9 @@
       "band",
       "warm-up",
       "lateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

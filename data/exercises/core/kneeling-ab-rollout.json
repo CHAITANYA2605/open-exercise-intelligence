@@ -1,12 +1,12 @@
 {
   "exercise_id": "58770112-7fb6-47d3-ac69-4bdedea6e4ab",
   "slug": "kneeling-ab-rollout",
-  "name": "Ab Wheel Rollout — Kneeling",
+  "name": "Ab Wheel Rollout \u2014 Kneeling",
   "alternative_names": [
     "Kneeling Ab Rollout",
     "Ab Wheel Kneeling Rollout"
   ],
-  "description": "The kneeling ab wheel rollout is a highly effective anti-extension core exercise in which the athlete rolls a wheel forward from a kneeling position while resisting lumbar hyperextension through maximal core bracing. The movement recruits the transverse abdominis, rectus abdominis, and latissimus dorsi isometrically and eccentrically in a coordinated chain, training the core's ability to resist spinal extension forces — a fundamental quality for athletic performance and injury prevention.",
+  "description": "The kneeling ab wheel rollout is a highly effective anti-extension core exercise in which the athlete rolls a wheel forward from a kneeling position while resisting lumbar hyperextension through maximal core bracing. The movement recruits the transverse abdominis, rectus abdominis, and latissimus dorsi isometrically and eccentrically in a coordinated chain, training the core's ability to resist spinal extension forces \u2014 a fundamental quality for athletic performance and injury prevention.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -54,7 +54,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel on the floor with knees hip-width apart. Grip the ab wheel handles and position the wheel directly under the shoulders.",
-    "setup_instructions": "Place a mat under the knees for comfort. Keep the hips at roughly a 90° angle to start.",
+    "setup_instructions": "Place a mat under the knees for comfort. Keep the hips at roughly a 90\u00b0 angle to start.",
     "steps": [
       "Step 1: Brace the core fully. Begin rolling the wheel forward slowly.",
       "Step 2: Extend the arms overhead as the torso lowers toward the floor, maintaining a straight line from knees through hips to shoulders.",
@@ -65,16 +65,16 @@
     "breathing_instructions": "Inhale and brace before rolling out. Exhale on the return.",
     "common_mistakes": [
       "Allowing the hips to drop and the lumbar spine to hyperextend during the rollout",
-      "Not engaging the lats on the pullback — leads to arm-only return"
+      "Not engaging the lats on the pullback \u2014 leads to arm-only return"
     ],
     "safety_considerations": [
       "Regress to a shorter range of motion if back pain occurs"
     ],
-    "range_of_motion_guidance": "Roll out until hips begin to drop — that is the individual limit. Build range gradually.",
+    "range_of_motion_guidance": "Roll out until hips begin to drop \u2014 that is the individual limit. Build range gradually.",
     "tempo_recommendations": "3-0-2-0. Slow rollout, deliberate return.",
     "coaching_cues": [
       "Squeeze the abs like you're about to be punched",
-      "Pull the wheel back with your lats — elbows to hips"
+      "Pull the wheel back with your lats \u2014 elbows to hips"
     ]
   },
   "variants": {
@@ -123,6 +123,9 @@
       "anti-extension",
       "ab-wheel",
       "intermediate"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

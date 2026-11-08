@@ -69,14 +69,14 @@
       "Master push-ups with a minimum of 20 consecutive reps before attempting plyometric variation",
       "Land with bent elbows to absorb impact",
       "Perform on a padded or non-slip surface",
-      "Do not perform to failure — stop well before form breaks"
+      "Do not perform to failure \u2014 stop well before form breaks"
     ],
     "range_of_motion_guidance": "Full depth on the descent. The press must be explosive enough to generate meaningful air time.",
     "tempo_recommendations": "2-0-X-0",
     "coaching_cues": [
       "Push the floor through the Earth",
-      "Land soft — absorb with the elbows",
-      "Quality over quantity — explosive intent every rep"
+      "Land soft \u2014 absorb with the elbows",
+      "Quality over quantity \u2014 explosive intent every rep"
     ]
   },
   "variants": {
@@ -135,6 +135,9 @@
       "plyometric",
       "power",
       "explosive"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -73,7 +73,7 @@
     "range_of_motion_guidance": "Return fully to feel a chest stretch on each rep; press to near full extension without hyperextending.",
     "tempo_recommendations": "2-0-2-0",
     "coaching_cues": [
-      "Press your back into the seat throughout — don't let it peel away",
+      "Press your back into the seat throughout \u2014 don't let it peel away",
       "Think about squeezing the pecs together as you extend"
     ]
   },
@@ -156,6 +156,9 @@
       "press",
       "beginner",
       "compound"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

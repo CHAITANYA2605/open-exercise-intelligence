@@ -54,25 +54,25 @@
       "Step 1: Step the right foot forward into a large lunge. Lower the left knee to the floor if needed.",
       "Step 2: Place the right hand on the ground just inside the right foot.",
       "Step 3: Reach the left arm up and open the chest, rotating the thoracic spine toward the ceiling.",
-      "Step 4: Hold the rotation for 2–3 breaths, feeling the stretch across the chest, hip flexor, and thoracic spine.",
+      "Step 4: Hold the rotation for 2\u20133 breaths, feeling the stretch across the chest, hip flexor, and thoracic spine.",
       "Step 5: Return the left hand to the floor, then stand up and alternate sides."
     ],
     "breathing_instructions": "Inhale into the rotation. Exhale and sink slightly deeper on each breath.",
     "common_mistakes": [
       "Rotating from the lower back rather than the thoracic spine",
-      "Front knee caving inward — keep it tracking over the second toe",
+      "Front knee caving inward \u2014 keep it tracking over the second toe",
       "Moving too quickly through the rotation, skipping the breathing component"
     ],
     "safety_considerations": [
       "If wrist discomfort occurs, make a fist for the supporting hand",
-      "Take it slowly — this is a preparatory movement, not a loaded exercise"
+      "Take it slowly \u2014 this is a preparatory movement, not a loaded exercise"
     ],
     "range_of_motion_guidance": "Rotate the upper arm as high as the thoracic spine allows. Hips stay square.",
-    "tempo_recommendations": "2–3 breaths per side, 5 reps per side, 1–2 rounds.",
+    "tempo_recommendations": "2\u20133 breaths per side, 5 reps per side, 1\u20132 rounds.",
     "coaching_cues": [
       "Let your eyes follow your hand to encourage the rotation",
       "Press the front knee outward with the inside of your elbow as you rotate",
-      "Think tall — reach for the ceiling, not just open to the side"
+      "Think tall \u2014 reach for the ceiling, not just open to the side"
     ]
   },
   "variants": {
@@ -123,6 +123,9 @@
       "compound",
       "thoracic",
       "hip-flexor"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

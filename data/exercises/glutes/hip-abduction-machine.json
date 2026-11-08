@@ -49,7 +49,7 @@
     "setup_instructions": "Adjust the seat and pad width to a comfortable range. Set weight stack to a load that allows full range motion with control.",
     "steps": [
       "Step 1: Sit in the machine with back flat against the pad. Place knees against the inner surfaces of the pads.",
-      "Step 2: Push both knees apart — abducting the hips — against the pad resistance.",
+      "Step 2: Push both knees apart \u2014 abducting the hips \u2014 against the pad resistance.",
       "Step 3: Push until the pads reach the end of range or until maximum comfortable abduction.",
       "Step 4: Hold the peak position briefly.",
       "Step 5: Return the knees inward under control to the starting position."
@@ -57,7 +57,7 @@
     "breathing_instructions": "Exhale as you push the knees apart. Inhale as you bring them back.",
     "common_mistakes": [
       "Using too much weight, which causes the torso to lean or the lower back to arch",
-      "Releasing the tension too quickly on the return — control the eccentric",
+      "Releasing the tension too quickly on the return \u2014 control the eccentric",
       "Not adjusting the pad to a comfortable starting range"
     ],
     "safety_considerations": [
@@ -67,8 +67,8 @@
     "range_of_motion_guidance": "Push the knees as far apart as the machine allows or until comfortable. Full excursion of the pads.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Push through the outer knees — not just the thighs",
-      "Control the return — don't let the weight snap back",
+      "Push through the outer knees \u2014 not just the thighs",
+      "Control the return \u2014 don't let the weight snap back",
       "Keep the back flat against the pad"
     ]
   },
@@ -136,6 +136,9 @@
       "abduction",
       "machine",
       "bilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

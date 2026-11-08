@@ -1,7 +1,7 @@
 {
   "exercise_id": "726fa8e6-9406-4e4c-9c43-fb48565b66e9",
   "slug": "landmine-180-rainbow",
-  "name": "Landmine 180 — Rainbow",
+  "name": "Landmine 180 \u2014 Rainbow",
   "alternative_names": [
     "Landmine Rainbow",
     "Landmine Arc Press"
@@ -58,7 +58,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Load a barbell in a landmine anchor (or wedge the bar in a corner). Stand facing the barbell end, feet shoulder-width apart. Grasp the barbell end with both hands (overlapping or interlaced) and hold at approximately chest height.",
-    "setup_instructions": "Begin with a very light load — the arc is long and the shoulder demand is significant. The landmine anchor must be secure.",
+    "setup_instructions": "Begin with a very light load \u2014 the arc is long and the shoulder demand is significant. The landmine anchor must be secure.",
     "steps": [
       "Step 1: Begin with the barbell end at the right hip, arms extended to the right side.",
       "Step 2: Swing the barbell end upward and across the body in a smooth arc, rotating the torso to the left.",
@@ -67,20 +67,20 @@
     ],
     "breathing_instructions": "Exhale forcefully as the bar sweeps overhead. Inhale as it descends to the hip.",
     "common_mistakes": [
-      "Using too much weight — the arc demands shoulder mobility more than strength",
+      "Using too much weight \u2014 the arc demands shoulder mobility more than strength",
       "Bending the elbows instead of using the full arm extension throughout the arc",
       "Stopping at the top rather than flowing continuously through the arc"
     ],
     "safety_considerations": [
-      "The overhead arc demands full shoulder mobility — do not force range that is not available",
+      "The overhead arc demands full shoulder mobility \u2014 do not force range that is not available",
       "Ensure the landmine anchor is completely secure before each set"
     ],
     "range_of_motion_guidance": "The arc should travel from one hip, overhead, to the opposite hip. Full range is the goal.",
-    "tempo_recommendations": "Moderate speed — fluid and controlled, not explosive initially. Build speed as technique improves.",
+    "tempo_recommendations": "Moderate speed \u2014 fluid and controlled, not explosive initially. Build speed as technique improves.",
     "coaching_cues": [
-      "Think of drawing the arc of a rainbow — smooth, continuous, side to side",
-      "Keep the arms extended throughout — do not collapse the elbows",
-      "Let the torso rotate naturally — do not resist the rotation"
+      "Think of drawing the arc of a rainbow \u2014 smooth, continuous, side to side",
+      "Keep the arms extended throughout \u2014 do not collapse the elbows",
+      "Let the torso rotate naturally \u2014 do not resist the rotation"
     ]
   },
   "variants": {
@@ -142,6 +142,9 @@
       "functional",
       "core",
       "shoulders"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

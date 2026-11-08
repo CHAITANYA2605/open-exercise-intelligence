@@ -50,13 +50,13 @@
       "Step 1: Sit tall with legs extended and feet flexed (toes pointing toward the ceiling).",
       "Step 2: Take a breath and elongate the spine.",
       "Step 3: Hinge forward from the hips, reaching the hands toward the feet or shins.",
-      "Step 4: When a hamstring stretch is felt, stop and hold — do not round the spine aggressively.",
-      "Step 5: Hold 30–90 seconds, breathing slowly."
+      "Step 4: When a hamstring stretch is felt, stop and hold \u2014 do not round the spine aggressively.",
+      "Step 5: Hold 30\u201390 seconds, breathing slowly."
     ],
     "breathing_instructions": "Breathe slowly and deeply. Exhale and gently extend further on each breath out.",
     "common_mistakes": [
-      "Rounding the spine to reach further — this reduces hamstring stretch and loads the lumbar discs",
-      "Forcing the legs flat if the hamstrings are very tight — slight knee bend is acceptable for tight individuals",
+      "Rounding the spine to reach further \u2014 this reduces hamstring stretch and loads the lumbar discs",
+      "Forcing the legs flat if the hamstrings are very tight \u2014 slight knee bend is acceptable for tight individuals",
       "Holding tension in the neck and shoulders"
     ],
     "safety_considerations": [
@@ -64,10 +64,10 @@
       "Avoid if experiencing acute hamstring strain"
     ],
     "range_of_motion_guidance": "Hinge as far forward from the hips as the hamstrings allow while keeping the spine relatively long.",
-    "tempo_recommendations": "Hold 30–90 seconds. 2–4 rounds.",
+    "tempo_recommendations": "Hold 30\u201390 seconds. 2\u20134 rounds.",
     "coaching_cues": [
       "Lead with the chest, not the hands",
-      "Flex the feet — this increases the calf and hamstring stretch",
+      "Flex the feet \u2014 this increases the calf and hamstring stretch",
       "Think of moving your belly button toward your thighs, not your head toward your knees"
     ]
   },
@@ -118,6 +118,9 @@
       "seated",
       "beginner",
       "mobility"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

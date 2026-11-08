@@ -70,7 +70,7 @@
       "Leaning excessively forward to generate momentum"
     ],
     "safety_considerations": [
-      "Maintain a slight, consistent elbow bend — keep the shoulder in a safe range",
+      "Maintain a slight, consistent elbow bend \u2014 keep the shoulder in a safe range",
       "Do not cross the hands aggressively past the midline if shoulder impingement is present"
     ],
     "range_of_motion_guidance": "Open wide to feel the stretch at the top; bring hands to meet at or slightly below waist level for maximum lower pec contraction.",
@@ -143,6 +143,9 @@
       "lower-chest",
       "isolation",
       "fly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

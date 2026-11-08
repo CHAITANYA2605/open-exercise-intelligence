@@ -65,7 +65,7 @@
     "setup_instructions": "Set the rack hooks to accommodate the cambered bar's height. Due to the bar drop, hooks will need to be set higher than for a standard bench press. Test the swing of the bar before loading heavily.",
     "steps": [
       "Step 1: Unrack and control the pendulum sway of the bar.",
-      "Step 2: Lower under control — the elbows drop below the bench level, creating deep pectoral stretch.",
+      "Step 2: Lower under control \u2014 the elbows drop below the bench level, creating deep pectoral stretch.",
       "Step 3: Press up from the deep stretched position.",
       "Step 4: Reach full lockout, controlling bar sway throughout."
     ],
@@ -75,13 +75,13 @@
       "Not adjusting rack height to account for the dropped sleeve position"
     ],
     "safety_considerations": [
-      "The swinging of the loaded sleeves creates unpredictable movement — reduce load significantly from your standard bench max",
+      "The swinging of the loaded sleeves creates unpredictable movement \u2014 reduce load significantly from your standard bench max",
       "Use a power rack with spotter arms"
     ],
     "range_of_motion_guidance": "Deeper than a standard bench press. Allow elbows to descend fully below the bench surface.",
     "tempo_recommendations": "4-1-1-0 (slow eccentric to control swing)",
     "coaching_cues": [
-      "Fight the swing — stay tight",
+      "Fight the swing \u2014 stay tight",
       "Feel the deep pec stretch at the bottom before pressing"
     ]
   },
@@ -142,6 +142,9 @@
       "specialty-bar",
       "deep-stretch",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

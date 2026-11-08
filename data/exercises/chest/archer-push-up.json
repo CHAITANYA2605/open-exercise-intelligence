@@ -70,18 +70,18 @@
     ],
     "breathing_instructions": "Inhale as you lower to one side; exhale as you press back to center.",
     "common_mistakes": [
-      "Rotating the hips as the body shifts — keep the pelvis square",
+      "Rotating the hips as the body shifts \u2014 keep the pelvis square",
       "Bending the extended arm excessively, which reduces unilateral loading"
     ],
     "safety_considerations": [
       "Build prerequisite strength with standard and wide push-ups before attempting this variation",
-      "Stop if you feel shoulder joint pain — this movement demands significant shoulder stability"
+      "Stop if you feel shoulder joint pain \u2014 this movement demands significant shoulder stability"
     ],
     "range_of_motion_guidance": "Lower until the chest is at hand level on the working side, then press back to the top.",
     "tempo_recommendations": "3-0-1-0",
     "coaching_cues": [
       "Shift your center of mass directly over the working arm",
-      "Keep hips level — no rotation as you move side to side"
+      "Keep hips level \u2014 no rotation as you move side to side"
     ]
   },
   "variants": {
@@ -159,6 +159,9 @@
       "advanced",
       "bodyweight",
       "chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

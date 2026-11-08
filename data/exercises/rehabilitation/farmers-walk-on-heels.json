@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50032",
   "slug": "farmers-walk-on-heels",
   "name": "Farmer's Walk on Heels",
-  "alternative_names": ["Heel Walk Carry", "Dorsiflexion Farmer's Carry"],
+  "alternative_names": [
+    "Heel Walk Carry",
+    "Dorsiflexion Farmer's Carry"
+  ],
   "description": "A farmer's carry variation performed entirely on the heels, with the forefoot elevated off the floor throughout the walk. This unusual position forces sustained contraction of the tibialis anterior and ankle dorsiflexors while simultaneously loading the grip and core through the weighted carry. Used in tibialis anterior rehabilitation, shin splint prevention, anterior compartment strengthening, and foot drop recovery programs. The loaded walking component adds cardiovascular and grip demand to the tibialis training.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -14,18 +17,39 @@
   "exercise_family": "carry",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}],
+    "primary": [
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      }
+    ],
     "secondary": [
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
-  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "execution": {
     "starting_position": "Pick up a dumbbell or kettlebell in each hand. Rise onto the heels by pulling the toes and forefoot up into dorsiflexion, lifting the forefoot entirely off the floor.",
     "setup_instructions": "Begin unloaded to practice the heel-walking gait before adding implements. Choose a weight that allows heel-only contact for the entire carry distance.",
@@ -35,31 +59,75 @@
       "Step 3: Keep the shoulders packed, core braced, and gaze forward.",
       "Step 4: Walk the prescribed distance, then lower the forefeet back to the floor safely before setting the weights down."
     ],
-    "breathing_instructions": "Breathe rhythmically throughout. The effort is sustained — do not hold your breath.",
-    "common_mistakes": ["Allowing the forefoot to contact the floor during the walk — the dorsiflexion must be sustained the entire distance", "Using too heavy a weight that makes maintaining the heel-only position impossible", "Leaning backward excessively to shift weight onto the heels"],
-    "safety_considerations": ["This exercise requires good ankle dorsiflexion range — assess range before loading", "Avoid on slippery surfaces", "For foot drop rehabilitation, begin without weights and shorter distances"],
+    "breathing_instructions": "Breathe rhythmically throughout. The effort is sustained \u2014 do not hold your breath.",
+    "common_mistakes": [
+      "Allowing the forefoot to contact the floor during the walk \u2014 the dorsiflexion must be sustained the entire distance",
+      "Using too heavy a weight that makes maintaining the heel-only position impossible",
+      "Leaning backward excessively to shift weight onto the heels"
+    ],
+    "safety_considerations": [
+      "This exercise requires good ankle dorsiflexion range \u2014 assess range before loading",
+      "Avoid on slippery surfaces",
+      "For foot drop rehabilitation, begin without weights and shorter distances"
+    ],
     "range_of_motion_guidance": "Maximum dorsiflexion sustained throughout the carry. No forefoot contact.",
     "tempo_recommendations": "Walk at approximately 1 step per second. Focus on maintaining dorsiflexion over speed.",
-    "coaching_cues": ["Pull the toes up hard and keep them up — the forefoot never touches the floor", "Walk tall — do not lean back excessively to put weight on the heels", "Feel the outer shin burning — that is the tibialis anterior at work"]
+    "coaching_cues": [
+      "Pull the toes up hard and keep them up \u2014 the forefoot never touches the floor",
+      "Walk tall \u2014 do not lean back excessively to put weight on the heels",
+      "Feel the outer shin burning \u2014 that is the tibialis anterior at work"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 1, "max_reps": 4}
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 4
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance"]
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tibialis-anterior", "shin", "carry", "rehabilitation", "dorsiflexion"]
+    "tags": [
+      "tibialis-anterior",
+      "shin",
+      "carry",
+      "rehabilitation",
+      "dorsiflexion"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

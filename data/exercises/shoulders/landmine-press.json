@@ -75,7 +75,7 @@
     ],
     "breathing_instructions": "Exhale on the press; inhale on the descent.",
     "common_mistakes": [
-      "Letting the torso rotate as you press — brace to resist rotation",
+      "Letting the torso rotate as you press \u2014 brace to resist rotation",
       "Pressing straight up rather than allowing the barbell to follow its natural arc"
     ],
     "safety_considerations": [
@@ -84,7 +84,7 @@
     "range_of_motion_guidance": "Press to full arm extension along the arc; return to shoulder height.",
     "tempo_recommendations": "2-0-2-0",
     "coaching_cues": [
-      "Let the bar's natural arc guide your press — don't fight it",
+      "Let the bar's natural arc guide your press \u2014 don't fight it",
       "Squeeze your core like a vise throughout the movement"
     ]
   },
@@ -167,6 +167,9 @@
       "overhead",
       "unilateral",
       "shoulder-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

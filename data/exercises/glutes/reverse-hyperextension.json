@@ -6,7 +6,7 @@
     "Reverse Hyper",
     "Prone Hip Extension on Table"
   ],
-  "description": "The reverse hyperextension is performed face-down on an elevated surface — a reverse hyper machine, a high bench, or a GHD — with the legs hanging free. The legs are swung rearward and upward to full hip extension using gluteus maximus and hamstring strength. Unlike most hip hinge exercises, the spine decompresses during the descent phase, making this exercise popular for simultaneously training the posterior chain and rehabilitating lower back issues.",
+  "description": "The reverse hyperextension is performed face-down on an elevated surface \u2014 a reverse hyper machine, a high bench, or a GHD \u2014 with the legs hanging free. The legs are swung rearward and upward to full hip extension using gluteus maximus and hamstring strength. Unlike most hip hinge exercises, the spine decompresses during the descent phase, making this exercise popular for simultaneously training the posterior chain and rehabilitating lower back issues.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -53,27 +53,27 @@
     "setup_instructions": "Position the hips at or just past the pad edge so the legs can hang freely. Grip the bench or handles firmly. For added load, hold a dumbbell between the feet.",
     "steps": [
       "Step 1: Lie prone on the bench with hips at the edge, legs hanging down. Hold the bench firmly.",
-      "Step 2: With control, raise both legs backward and upward by extending the hips — squeeze the glutes.",
-      "Step 3: Raise until the legs are parallel to the floor or slightly above — no hyperextension of the lumbar spine.",
+      "Step 2: With control, raise both legs backward and upward by extending the hips \u2014 squeeze the glutes.",
+      "Step 3: Raise until the legs are parallel to the floor or slightly above \u2014 no hyperextension of the lumbar spine.",
       "Step 4: Hold briefly at the top.",
       "Step 5: Lower the legs slowly under control, allowing the spine to gently decompress at the bottom."
     ],
     "breathing_instructions": "Exhale as you raise the legs. Inhale as you lower.",
     "common_mistakes": [
-      "Swinging the legs with momentum — the movement should be controlled, not ballistic",
-      "Hyperextending the lumbar spine at the top — stop when the legs are parallel",
-      "Not holding the bench firmly — the torso must be anchored"
+      "Swinging the legs with momentum \u2014 the movement should be controlled, not ballistic",
+      "Hyperextending the lumbar spine at the top \u2014 stop when the legs are parallel",
+      "Not holding the bench firmly \u2014 the torso must be anchored"
     ],
     "safety_considerations": [
       "Avoid excessive lumbar hyperextension at the top",
       "If you have acute lower back pain, consult a professional before performing this exercise"
     ],
-    "range_of_motion_guidance": "Legs hang toward the floor at the bottom. Raise to parallel with the floor at the top — not higher.",
+    "range_of_motion_guidance": "Legs hang toward the floor at the bottom. Raise to parallel with the floor at the top \u2014 not higher.",
     "tempo_recommendations": "2-1-3-0 (slow, controlled lowering)",
     "coaching_cues": [
-      "Squeeze the glutes — not the lower back — at the top",
-      "Let the legs drop slowly — don't just fall",
-      "Control the movement — no swinging"
+      "Squeeze the glutes \u2014 not the lower back \u2014 at the top",
+      "Let the legs drop slowly \u2014 don't just fall",
+      "Control the movement \u2014 no swinging"
     ]
   },
   "variants": {
@@ -153,6 +153,9 @@
       "posterior-chain",
       "rehab",
       "spinal-decompression"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

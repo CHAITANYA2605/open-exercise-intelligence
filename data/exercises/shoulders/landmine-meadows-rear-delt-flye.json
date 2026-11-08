@@ -2,7 +2,10 @@
   "exercise_id": "a17bbe52-e465-4312-912c-7cb1d8edadad",
   "slug": "landmine-meadows-rear-delt-flye",
   "name": "Landmine Meadows Rear Delt Flye",
-  "alternative_names": ["Landmine Rear Delt Flye", "Meadows Rear Delt Raise"],
+  "alternative_names": [
+    "Landmine Rear Delt Flye",
+    "Meadows Rear Delt Raise"
+  ],
   "description": "The landmine Meadows rear delt flye uses the bar end of a landmine setup and a staggered stance to perform a rear delt fly with a fixed arc of motion determined by the pivot of the barbell. Unlike dumbbell reverse flyes, the landmine provides a constant and smoothly changing resistance curve, and the bar's weight progression is more granular, making it excellent for systematically building rear deltoid strength.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,21 +18,37 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ],
     "secondary": [
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000040-0000-4000-a000-000000000040"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000040-0000-4000-a000-000000000040"
+  ],
   "execution": {
     "starting_position": "Secure a barbell in a landmine unit. Stand perpendicular to the bar in a staggered stance, hinge forward at the hips. Grasp the bar end with one hand, arm hanging below the shoulder.",
-    "setup_instructions": "Hinge to approximately 45-70 degrees forward so the bar end hangs naturally. Use lighter loading than a Meadows row — rear delts are smaller than lats.",
+    "setup_instructions": "Hinge to approximately 45-70 degrees forward so the bar end hangs naturally. Use lighter loading than a Meadows row \u2014 rear delts are smaller than lats.",
     "steps": [
       "Step 1: Begin hinged with bar end hanging in the working hand.",
       "Step 2: Raise the working arm out to the side in a lateral arc, keeping the elbow slightly bent.",
@@ -39,17 +58,17 @@
     ],
     "breathing_instructions": "Exhale raising. Inhale lowering.",
     "common_mistakes": [
-      "Bending the elbow too much — this becomes a row, not a fly",
+      "Bending the elbow too much \u2014 this becomes a row, not a fly",
       "Excessive torso rotation to assist the raise"
     ],
     "safety_considerations": [
-      "Light loads — rear delt is a small muscle group",
+      "Light loads \u2014 rear delt is a small muscle group",
       "Maintain stable hinge position throughout"
     ],
     "range_of_motion_guidance": "Arm hanging to shoulder height lateral position.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Lead with the elbow — slight bend throughout",
+      "Lead with the elbow \u2014 slight bend throughout",
       "Think of pulling the arm upward like opening a wing",
       "Feel the back of the shoulder contract at the top"
     ]
@@ -63,21 +82,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 60 },
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["landmine", "rear-delt", "flye", "unilateral", "shoulder"]
+    "tags": [
+      "landmine",
+      "rear-delt",
+      "flye",
+      "unilateral",
+      "shoulder"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

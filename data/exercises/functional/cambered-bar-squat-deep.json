@@ -76,16 +76,16 @@
       "Collapsing the knees inward during the ascent"
     ],
     "safety_considerations": [
-      "The suspended load shifts the balance challenge — reduce weight compared to straight bar squat and build progressively",
+      "The suspended load shifts the balance challenge \u2014 reduce weight compared to straight bar squat and build progressively",
       "Use safeties in the rack at all times",
       "Learn the barbell squat and standard specialty bar variations before the cambered bar"
     ],
     "range_of_motion_guidance": "Below parallel (hip crease below knee) is the standard target. Full depth if mobility allows.",
     "tempo_recommendations": "3s eccentric, 1s pause at bottom optional, 2s concentric ascent",
     "coaching_cues": [
-      "The bar hangs lower — feel the difference in balance point compared to a standard bar",
-      "Keep the chest up — the cambered bar encourages a more upright torso",
-      "Control the descent — the swinging load amplifies any forward lean"
+      "The bar hangs lower \u2014 feel the difference in balance point compared to a standard bar",
+      "Keep the chest up \u2014 the cambered bar encourages a more upright torso",
+      "Control the descent \u2014 the swinging load amplifies any forward lean"
     ]
   },
   "variants": {
@@ -147,6 +147,9 @@
       "functional",
       "specialty",
       "powerlifting"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

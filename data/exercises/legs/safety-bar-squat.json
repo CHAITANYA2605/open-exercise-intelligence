@@ -63,28 +63,28 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Position the safety squat bar on the rack at the appropriate height. Step under it and settle the padded yokes onto your traps. Grip the handles in front of you. Stand up to unrack.",
-    "setup_instructions": "Set the rack height so the bar is at mid-chest level. Adjust safety bars. The SSB tends to pitch the torso forward — actively fight this by pulling the handles down and back.",
+    "setup_instructions": "Set the rack height so the bar is at mid-chest level. Adjust safety bars. The SSB tends to pitch the torso forward \u2014 actively fight this by pulling the handles down and back.",
     "steps": [
       "Step 1: Unrack and step back. Set feet shoulder-width apart with toes out. Brace the core hard.",
       "Step 2: Initiate the squat by pushing the knees outward and sitting the hips back and down simultaneously.",
-      "Step 3: Descend to at least parallel. The bar's camber will try to pull you forward — actively fight it by keeping the chest tall and pulling down on the handles.",
+      "Step 3: Descend to at least parallel. The bar's camber will try to pull you forward \u2014 actively fight it by keeping the chest tall and pulling down on the handles.",
       "Step 4: Drive through the full foot explosively to return to standing.",
       "Step 5: Exhale at the top and reset for the next rep."
     ],
     "breathing_instructions": "Inhale and brace before descent. Hold through the ascent. Exhale at the top.",
     "common_mistakes": [
       "Letting the torso pitch excessively forward due to the bar's camber",
-      "Gripping the handles loosely — an active grip helps maintain tension",
+      "Gripping the handles loosely \u2014 an active grip helps maintain tension",
       "Not squatting to depth due to unfamiliarity with the bar"
     ],
     "safety_considerations": [
-      "The SSB is heavier than a standard barbell — account for bar weight (typically 60–70 lbs)",
+      "The SSB is heavier than a standard barbell \u2014 account for bar weight (typically 60\u201370 lbs)",
       "Learn to bail safely: the bar can be pushed forward and dropped"
     ],
     "range_of_motion_guidance": "Aim for parallel or below. The SSB makes the squat harder to maintain position in, so use reduced load compared to back squat.",
     "tempo_recommendations": "3-0-1-0",
     "coaching_cues": [
-      "Pull the handles down — fight the forward pitch",
+      "Pull the handles down \u2014 fight the forward pitch",
       "Chest up, elbows down",
       "Sit between your knees"
     ]
@@ -166,6 +166,9 @@
       "squat",
       "specialty-bar",
       "shoulder-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

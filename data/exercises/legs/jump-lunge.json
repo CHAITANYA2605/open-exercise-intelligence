@@ -68,25 +68,25 @@
       "Step 1: Start in the bottom of a lunge with one foot forward, back knee near the floor.",
       "Step 2: Swing the arms explosively and drive through both feet to jump vertically off the ground.",
       "Step 3: While airborne, switch the position of the legs so that the previously rear leg is now forward.",
-      "Step 4: Land softly by absorbing through the toes, then ball of foot, then heel — landing back in a lunge position.",
+      "Step 4: Land softly by absorbing through the toes, then ball of foot, then heel \u2014 landing back in a lunge position.",
       "Step 5: Immediately upon landing, absorb and spring back up into the next jump."
     ],
-    "breathing_instructions": "Breathe rhythmically — exhale sharply at takeoff, inhale during flight, absorb on landing.",
+    "breathing_instructions": "Breathe rhythmically \u2014 exhale sharply at takeoff, inhale during flight, absorb on landing.",
     "common_mistakes": [
-      "Landing stiff-legged instead of absorbing through the hip and knee — high injury risk",
+      "Landing stiff-legged instead of absorbing through the hip and knee \u2014 high injury risk",
       "Landing with the feet too close together, reducing stability",
       "Using too shallow a lunge on landing, reducing the eccentric braking benefit"
     ],
     "safety_considerations": [
-      "Land softly — impact forces during plyometric landing can be 3–5 times bodyweight",
+      "Land softly \u2014 impact forces during plyometric landing can be 3\u20135 times bodyweight",
       "Develop adequate single-leg strength before performing jump lunges",
-      "Avoid on hard surfaces — rubber flooring or grass is preferable"
+      "Avoid on hard surfaces \u2014 rubber flooring or grass is preferable"
     ],
     "range_of_motion_guidance": "Lunge depth at both takeoff and landing should be near the bottom of a standard lunge.",
-    "tempo_recommendations": "Performed for time (20–60 seconds) or for reps with maximal effort on each jump",
+    "tempo_recommendations": "Performed for time (20\u201360 seconds) or for reps with maximal effort on each jump",
     "coaching_cues": [
-      "Use your arms — they help drive the jump height",
-      "Land soft like a feather — quiet feet",
+      "Use your arms \u2014 they help drive the jump height",
+      "Land soft like a feather \u2014 quiet feet",
       "Deep lunge on landing before you launch again"
     ]
   },
@@ -162,6 +162,9 @@
       "conditioning",
       "advanced",
       "lunge"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -65,18 +65,18 @@
     ],
     "breathing_instructions": "Exhale as each arm presses. Inhale as it returns.",
     "common_mistakes": [
-      "Steep angle (>45°) turning the movement into a shoulder press",
+      "Steep angle (>45\u00b0) turning the movement into a shoulder press",
       "Torso rotation toward the pressing arm"
     ],
     "safety_considerations": [
-      "Keep the stationary dumbbell secure — do not let it drift",
+      "Keep the stationary dumbbell secure \u2014 do not let it drift",
       "Use a lighter load than bilateral incline press"
     ],
     "range_of_motion_guidance": "Full extension per arm. Stationary arm at 90 degrees of elbow flexion.",
     "tempo_recommendations": "2-1-2-0 per arm",
     "coaching_cues": [
       "Hips and shoulders stay square to the ceiling",
-      "The resting arm is under constant isometric load — treat it seriously"
+      "The resting arm is under constant isometric load \u2014 treat it seriously"
     ]
   },
   "variants": {
@@ -124,6 +124,9 @@
       "upper-chest",
       "anti-rotation",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

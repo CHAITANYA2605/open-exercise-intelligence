@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e08",
   "slug": "band-resisted-push-up",
   "name": "Band-Resisted Push-Up",
-  "alternative_names": ["Resistance Band Push-Up", "Banded Push-Up"],
+  "alternative_names": [
+    "Resistance Band Push-Up",
+    "Banded Push-Up"
+  ],
   "description": "A push-up variation where a resistance band is looped across the upper back and secured under both hands, adding accommodating resistance that increases toward the top of the press. Because band resistance is proportional to stretch, the lockout position receives the most resistance, training the pectorals and triceps through a fuller strength curve than bodyweight alone provides.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,33 +18,56 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Loop a resistance band around your upper back at shoulder blade level. Grasp each end of the band under the corresponding hand in a standard push-up position. Hands are shoulder-width apart.",
-    "setup_instructions": "Choose a band tension that makes the last 2–3 reps of each set challenging. The band should have moderate tension even at the bottom position.",
+    "setup_instructions": "Choose a band tension that makes the last 2\u20133 reps of each set challenging. The band should have moderate tension even at the bottom position.",
     "steps": [
       "Step 1: Begin in a high plank with the band looped across your upper back and held under palms. Body is straight from head to heels.",
       "Step 2: Lower your chest to the floor, keeping elbows at a 45-degree angle from the torso. Band tension decreases at the bottom.",
-      "Step 3: Press powerfully back up — band tension increases as you rise toward lockout.",
+      "Step 3: Press powerfully back up \u2014 band tension increases as you rise toward lockout.",
       "Step 4: Fully extend the arms at the top, feeling maximum band resistance. Repeat."
     ],
     "breathing_instructions": "Inhale on the descent, exhale on the press upward.",
     "common_mistakes": [
-      "Band sliding up to the neck during the set — reposition before starting",
+      "Band sliding up to the neck during the set \u2014 reposition before starting",
       "Choosing a band so heavy it compromises depth",
       "Sagging at the hips, reducing core engagement"
     ],
@@ -52,30 +78,71 @@
     "range_of_motion_guidance": "Full range from chest to floor to full arm extension. Accommodating resistance rewards full lockout.",
     "tempo_recommendations": "2-0-1-0 (2s descent, explosive press)",
     "coaching_cues": [
-      "Accelerate through the top — the band gets harder, so push harder",
+      "Accelerate through the top \u2014 the band gets harder, so push harder",
       "Keep wrists stacked under elbows throughout"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 75},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["push-up", "band", "accommodating-resistance", "chest"]
+    "tags": [
+      "push-up",
+      "band",
+      "accommodating-resistance",
+      "chest"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

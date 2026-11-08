@@ -61,31 +61,31 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Begin on hands and knees (quadruped) with the knees lifted to hover approximately 2–5 cm above the floor. Wrists under shoulders, knees under hips.",
+    "starting_position": "Begin on hands and knees (quadruped) with the knees lifted to hover approximately 2\u20135 cm above the floor. Wrists under shoulders, knees under hips.",
     "setup_instructions": "No equipment required. Adequate floor space needed for crawling distance.",
     "steps": [
-      "Step 1: Begin in the hovering quadruped position with knees 2–5 cm off the floor.",
+      "Step 1: Begin in the hovering quadruped position with knees 2\u20135 cm off the floor.",
       "Step 2: Move the right hand and left foot forward simultaneously, maintaining a flat back.",
       "Step 3: Follow with the left hand and right foot (contralateral pattern).",
-      "Step 4: Keep the hips level — do not let them rise or rotate as you move.",
+      "Step 4: Keep the hips level \u2014 do not let them rise or rotate as you move.",
       "Step 5: Continue crawling forward for the prescribed distance while maintaining form throughout."
     ],
     "breathing_instructions": "Breathe continuously throughout. Do not hold breath.",
     "common_mistakes": [
-      "Letting the hips rise — the torso and hips should remain at a consistent, level height",
-      "Moving ipsilateral limbs (same-side hand and foot) — the pattern must be contralateral",
+      "Letting the hips rise \u2014 the torso and hips should remain at a consistent, level height",
+      "Moving ipsilateral limbs (same-side hand and foot) \u2014 the pattern must be contralateral",
       "Dropping the knees to the floor between steps"
     ],
     "safety_considerations": [
-      "Wrist discomfort is common for those with limited wrist extension — use fist position or push-up handles if needed.",
+      "Wrist discomfort is common for those with limited wrist extension \u2014 use fist position or push-up handles if needed.",
       "Start with slow, deliberate movement before increasing pace."
     ],
     "range_of_motion_guidance": "Consistent knee hover. Full forward reach on each hand step.",
-    "tempo_recommendations": "Typically 10–20 meters per set. Slow for quality, faster for conditioning.",
+    "tempo_recommendations": "Typically 10\u201320 meters per set. Slow for quality, faster for conditioning.",
     "coaching_cues": [
-      "Hips level — no rotation",
+      "Hips level \u2014 no rotation",
       "Opposite arm and leg together",
-      "Knees hover — don't touch"
+      "Knees hover \u2014 don't touch"
     ]
   },
   "variants": {
@@ -136,6 +136,9 @@
       "core",
       "coordination",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

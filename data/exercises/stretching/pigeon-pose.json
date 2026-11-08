@@ -56,24 +56,24 @@
       "Step 2: Lower the shin and ankle to the floor, with the foot closer to or further from the groin depending on comfort.",
       "Step 3: Extend the rear leg straight behind you, keeping the hip square to the floor.",
       "Step 4: Lower the torso forward over the front shin, resting on forearms or forehead on the floor.",
-      "Step 5: Breathe deeply and hold 60–120 seconds. Gently push back up and switch sides."
+      "Step 5: Breathe deeply and hold 60\u2013120 seconds. Gently push back up and switch sides."
     ],
     "breathing_instructions": "Breathe slowly and deeply. Allow each exhale to release tension in the hip.",
     "common_mistakes": [
       "Letting the hip of the front leg collapse to the floor excessively, reducing the stretch",
-      "Front shin perpendicular to the torso when hip flexibility does not allow it — the ankle should be closer to the groin initially",
+      "Front shin perpendicular to the torso when hip flexibility does not allow it \u2014 the ankle should be closer to the groin initially",
       "Collapsing the torso to one side rather than squaring the hips"
     ],
     "safety_considerations": [
-      "Avoid if there is knee pain or medial knee discomfort — consider using the figure-four stretch on the back as an alternative",
-      "Ensure the knee is not being torqued — the stretch sensation should be in the hip, not the knee"
+      "Avoid if there is knee pain or medial knee discomfort \u2014 consider using the figure-four stretch on the back as an alternative",
+      "Ensure the knee is not being torqued \u2014 the stretch sensation should be in the hip, not the knee"
     ],
-    "range_of_motion_guidance": "The front shin should be at the angle the hip allows — do not force a wider angle. Hold comfortably in the deepest position achievable without knee discomfort.",
-    "tempo_recommendations": "Hold 60–120 seconds per side. 2–3 rounds.",
+    "range_of_motion_guidance": "The front shin should be at the angle the hip allows \u2014 do not force a wider angle. Hold comfortably in the deepest position achievable without knee discomfort.",
+    "tempo_recommendations": "Hold 60\u2013120 seconds per side. 2\u20133 rounds.",
     "coaching_cues": [
       "Press both hips equally toward the floor",
       "If the front hip is floating, place a prop underneath it",
-      "Melt into the floor — do not fight the sensation"
+      "Melt into the floor \u2014 do not fight the sensation"
     ]
   },
   "variants": {
@@ -124,6 +124,9 @@
       "yoga",
       "mobility",
       "external-rotation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

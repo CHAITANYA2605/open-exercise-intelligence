@@ -5,7 +5,7 @@
   "alternative_names": [
     "Wall Squat Hold"
   ],
-  "description": "The wall sit is an isometric lower body exercise in which the lifter holds a squat position with the back flat against a wall, thighs parallel to the floor, and knees at 90°. Because it requires no movement, it trains muscular endurance and time-under-tension of the quadriceps. It is used for rehabilitation, athletic conditioning, and as a simple test of quad endurance.",
+  "description": "The wall sit is an isometric lower body exercise in which the lifter holds a squat position with the back flat against a wall, thighs parallel to the floor, and knees at 90\u00b0. Because it requires no movement, it trains muscular endurance and time-under-tension of the quadriceps. It is used for rehabilitation, athletic conditioning, and as a simple test of quad endurance.",
   "category": "strength",
   "exercise_type": "calisthenics",
   "difficulty_level": "beginner",
@@ -56,31 +56,31 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Stand with your back flat against a smooth wall. Walk your feet forward until they are approximately 60–90 cm from the wall.",
+    "starting_position": "Stand with your back flat against a smooth wall. Walk your feet forward until they are approximately 60\u201390 cm from the wall.",
     "setup_instructions": "Find a smooth, flat wall. Wear shoes with grip. The feet should be shoulder-width apart and directly below the knees when in position.",
     "steps": [
-      "Step 1: Slide your back down the wall until your thighs are parallel to the floor and your knees are at 90°.",
-      "Step 2: Ensure your knees are directly over your ankles — not in front of them.",
+      "Step 1: Slide your back down the wall until your thighs are parallel to the floor and your knees are at 90\u00b0.",
+      "Step 2: Ensure your knees are directly over your ankles \u2014 not in front of them.",
       "Step 3: Keep your back flat against the wall throughout. Do not lean forward.",
       "Step 4: Hold the position for the target duration while breathing steadily.",
       "Step 5: To exit, slide back up the wall to standing or step forward."
     ],
-    "breathing_instructions": "Breathe steadily throughout the hold. Do not hold the breath for extended durations — this increases blood pressure unnecessarily.",
+    "breathing_instructions": "Breathe steadily throughout the hold. Do not hold the breath for extended durations \u2014 this increases blood pressure unnecessarily.",
     "common_mistakes": [
       "Knees extending past the toes due to feet placed too close to the wall",
       "Back peeling away from the wall due to core fatigue",
-      "Thighs not reaching parallel — reduces quad demand significantly"
+      "Thighs not reaching parallel \u2014 reduces quad demand significantly"
     ],
     "safety_considerations": [
       "Those with knee pain should check that knees track over toes and that feet are positioned appropriately",
       "Avoid performing to failure on a slippery floor"
     ],
     "range_of_motion_guidance": "Thighs must reach parallel to the floor. Anything shallower significantly reduces the training stimulus.",
-    "tempo_recommendations": "Isometric hold — measure in seconds or minutes rather than reps",
+    "tempo_recommendations": "Isometric hold \u2014 measure in seconds or minutes rather than reps",
     "coaching_cues": [
-      "Thighs parallel — don't cheat with a shallow squat",
+      "Thighs parallel \u2014 don't cheat with a shallow squat",
       "Back flat to the wall at all times",
-      "Breathe steadily — don't hold your breath"
+      "Breathe steadily \u2014 don't hold your breath"
     ]
   },
   "variants": {
@@ -134,6 +134,9 @@
       "beginner",
       "rehab",
       "quad"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -69,17 +69,17 @@
     "breathing_instructions": "Exhale sharply at takeoff. Inhale as you descend into the lunge.",
     "common_mistakes": [
       "Landing with the front knee caving inward",
-      "Insufficient depth — the rear knee should approach the floor",
-      "Using the rear leg to push off — the front leg does the work"
+      "Insufficient depth \u2014 the rear knee should approach the floor",
+      "Using the rear leg to push off \u2014 the front leg does the work"
     ],
     "safety_considerations": [
-      "High demand on the front knee — ensure solid lunge mechanics before adding the jump.",
+      "High demand on the front knee \u2014 ensure solid lunge mechanics before adding the jump.",
       "Progress from walking lunges and reverse lunges before this variation."
     ],
-    "range_of_motion_guidance": "Full lunge depth — rear knee approaching the floor. Full extension at takeoff.",
-    "tempo_recommendations": "6–10 explosive reps per leg for power. Up to 15 for conditioning.",
+    "range_of_motion_guidance": "Full lunge depth \u2014 rear knee approaching the floor. Full extension at takeoff.",
+    "tempo_recommendations": "6\u201310 explosive reps per leg for power. Up to 15 for conditioning.",
     "coaching_cues": [
-      "Drive off the front foot — not the back",
+      "Drive off the front foot \u2014 not the back",
       "Land quiet and deep",
       "Front knee over the toes at all times"
     ]
@@ -142,6 +142,9 @@
       "power",
       "lunge",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

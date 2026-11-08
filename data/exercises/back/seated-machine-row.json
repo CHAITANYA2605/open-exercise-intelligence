@@ -2,7 +2,10 @@
   "exercise_id": "ba010019-f3a2-4c1e-9b8d-7e6f5a4c3b42",
   "slug": "seated-machine-row",
   "name": "Seated Machine Row",
-  "alternative_names": ["Pin-Loaded Row Machine", "Selectorized Row Machine"],
+  "alternative_names": [
+    "Pin-Loaded Row Machine",
+    "Selectorized Row Machine"
+  ],
   "description": "The seated machine row uses a selectorized or pin-loaded machine where the user sits facing a chest pad and pulls handles toward the torso. The guided movement path removes the need for spinal stabilization, making it accessible for beginners and useful for high-volume hypertrophy training with reduced injury risk. Available in neutral, pronated, and wide-grip handle configurations targeting slightly different back musculature.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"},
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ]
   },
-  "equipment_required": ["eq000031-0000-4000-a000-000000000031"],
+  "equipment_required": [
+    "eq000031-0000-4000-a000-000000000031"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Adjust the seat height so the handles are at mid-chest level. Sit with the chest against the pad and grip the handles with arms extended.",
@@ -44,31 +67,77 @@
       "Not protracting the scapulae at the start of each rep, missing the full ROM",
       "Pulling with the arms rather than initiating with the scapulae"
     ],
-    "safety_considerations": ["Adjust seat and pad before adding heavy weight to ensure proper biomechanical alignment"],
+    "safety_considerations": [
+      "Adjust seat and pad before adding heavy weight to ensure proper biomechanical alignment"
+    ],
     "range_of_motion_guidance": "Full scapular protraction at the start, full retraction at the end.",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Let your shoulder blades spread apart at the start", "Initiate with the elbows, not the hands", "Full retraction at the end of every rep"]
+    "coaching_cues": [
+      "Let your shoulder blades spread apart at the start",
+      "Initiate with the elbows, not the hands",
+      "Full retraction at the end of every rep"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 8, "max_reps": 12},
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 8,
+        "max_reps": 12
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 90, "hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "strength": 90,
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "row", "machine", "beginner"]
+    "tags": [
+      "back",
+      "row",
+      "machine",
+      "beginner"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -51,8 +51,8 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on a decline bench (15–30 degrees decline) with feet secured. Grip the barbell with hands roughly shoulder-width apart or slightly narrower. Bar above the lower chest.",
-    "setup_instructions": "Set the decline bench at 15–30 degrees. Ensure the rack height is appropriate. Secure feet. The grip should be shoulder-width — not so narrow that it stresses the wrists.",
+    "starting_position": "Lie on a decline bench (15\u201330 degrees decline) with feet secured. Grip the barbell with hands roughly shoulder-width apart or slightly narrower. Bar above the lower chest.",
+    "setup_instructions": "Set the decline bench at 15\u201330 degrees. Ensure the rack height is appropriate. Secure feet. The grip should be shoulder-width \u2014 not so narrow that it stresses the wrists.",
     "steps": [
       "Step 1: Unrack the bar and position it above the lower chest, arms extended.",
       "Step 2: Lower the bar to the lower chest keeping elbows relatively tucked (not flared) due to the narrow grip.",
@@ -61,20 +61,20 @@
     ],
     "breathing_instructions": "Inhale before descent, exhale forcefully on the press.",
     "common_mistakes": [
-      "Grip too narrow — hands closer than shoulder width causes excessive wrist stress",
+      "Grip too narrow \u2014 hands closer than shoulder width causes excessive wrist stress",
       "Letting elbows flare wide, reducing triceps contribution",
       "Feet unsecured on the decline bench"
     ],
     "safety_considerations": [
       "Secure feet firmly on the decline; feet unsecured is a safety risk",
       "Use a spotter for heavier sets",
-      "Avoid grips inside shoulder-width — wrist pain is a common result"
+      "Avoid grips inside shoulder-width \u2014 wrist pain is a common result"
     ],
     "range_of_motion_guidance": "Full range from lower chest to full elbow lockout. The narrow grip actually lengthens the range of motion at the elbow.",
     "tempo_recommendations": "3-1-2-1",
     "coaching_cues": [
-      "Tuck the elbows to work the triceps — flaring negates the grip advantage",
-      "Squeeze hard at lockout — the decline + narrow grip puts peak triceps tension at the top"
+      "Tuck the elbows to work the triceps \u2014 flaring negates the grip advantage",
+      "Squeeze hard at lockout \u2014 the decline + narrow grip puts peak triceps tension at the top"
     ]
   },
   "variants": {
@@ -137,6 +137,9 @@
       "triceps",
       "bench-press",
       "lower-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

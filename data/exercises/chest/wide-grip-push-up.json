@@ -128,6 +128,9 @@
       "bodyweight",
       "push-up",
       "wide-grip"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -66,31 +66,31 @@
     "eq000009-0000-4000-a000-000000000009"
   ],
   "execution": {
-    "starting_position": "Stand with feet wider than shoulder-width, toes turned out 30–45°. Barbell over mid-foot. Hinge at the hips and grip the bar with a shoulder-width overhand grip inside the legs.",
-    "setup_instructions": "Set up like a sumo deadlift — wide stance, bar over mid-foot, hips above knees, chest up. Use a barbell or kettlebell.",
+    "starting_position": "Stand with feet wider than shoulder-width, toes turned out 30\u201345\u00b0. Barbell over mid-foot. Hinge at the hips and grip the bar with a shoulder-width overhand grip inside the legs.",
+    "setup_instructions": "Set up like a sumo deadlift \u2014 wide stance, bar over mid-foot, hips above knees, chest up. Use a barbell or kettlebell.",
     "steps": [
-      "Step 1: Set up in a sumo deadlift position — wide stance, overhand grip shoulder-width inside the legs, hips high, chest up.",
-      "Step 2: Drive through the floor to initiate the lift — extend the hips and knees simultaneously.",
-      "Step 3: As the bar passes the knees and hips reach extension, use the momentum to pull the bar upward in a high pull — elbows flare out and rise above the bar.",
+      "Step 1: Set up in a sumo deadlift position \u2014 wide stance, overhand grip shoulder-width inside the legs, hips high, chest up.",
+      "Step 2: Drive through the floor to initiate the lift \u2014 extend the hips and knees simultaneously.",
+      "Step 3: As the bar passes the knees and hips reach extension, use the momentum to pull the bar upward in a high pull \u2014 elbows flare out and rise above the bar.",
       "Step 4: Pull the bar up to chin height with elbows high and wide.",
       "Step 5: Lower the bar under control back to the starting position."
     ],
     "breathing_instructions": "Inhale and brace before the pull. Exhale at the top or during the controlled descent.",
     "common_mistakes": [
-      "Initiating the high pull too early — the hip extension phase must be completed first",
-      "Pulling the bar too far from the body — keep it close throughout",
+      "Initiating the high pull too early \u2014 the hip extension phase must be completed first",
+      "Pulling the bar too far from the body \u2014 keep it close throughout",
       "Rounding the lower back at the start"
     ],
     "safety_considerations": [
       "Requires hip hinge and upright row proficiency before combining",
-      "Use moderate loads — the explosive transition limits the weight appropriate for this movement"
+      "Use moderate loads \u2014 the explosive transition limits the weight appropriate for this movement"
     ],
     "range_of_motion_guidance": "Full hip extension at mid-phase. Bar reaches chin height at the top.",
     "tempo_recommendations": "Explosive pull phase; controlled lower.",
     "coaching_cues": [
-      "Push the floor away first — then pull",
+      "Push the floor away first \u2014 then pull",
       "Elbows high and wide at the top",
-      "Keep the bar close — it should travel straight up"
+      "Keep the bar close \u2014 it should travel straight up"
     ]
   },
   "variants": {
@@ -169,6 +169,9 @@
       "power",
       "crossfit",
       "full-body"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

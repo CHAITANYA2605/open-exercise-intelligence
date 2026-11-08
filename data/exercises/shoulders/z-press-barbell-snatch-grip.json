@@ -2,7 +2,10 @@
   "exercise_id": "667e04d5-9ebe-474f-a401-3f2797912ac4",
   "slug": "z-press-barbell-snatch-grip",
   "name": "Z-Press with Barbell (Snatch Grip)",
-  "alternative_names": ["Snatch Grip Floor Press Overhead", "Z-Press Wide Grip"],
+  "alternative_names": [
+    "Snatch Grip Floor Press Overhead",
+    "Z-Press Wide Grip"
+  ],
   "description": "The snatch-grip Z-press uses an extra-wide overhand grip on the barbell while seated on the floor, requiring the bar to travel overhead with the wide grip that characterizes the snatch lift. This variation trains the deltoids and trapezius through a wide-grip pressing pattern while the floor position eliminates leg drive, making it an effective strength quality exercise for Olympic lifters and overhead athletes seeking to develop overhead stability with snatch-width grip.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "triceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the floor with legs extended. Grip the barbell in snatch-width grip (at the outer knurling marks). Hold at shoulder height.",
@@ -37,22 +60,22 @@
       "Step 2: Press the barbell straight overhead.",
       "Step 3: At lockout, the wide grip means the bar is directly above and slightly behind the head.",
       "Step 4: Lower under control to shoulder level.",
-      "Step 5: Maintain upright torso — no lean."
+      "Step 5: Maintain upright torso \u2014 no lean."
     ],
     "breathing_instructions": "Exhale pressing. Inhale descending.",
     "common_mistakes": [
-      "Grip narrower than true snatch width — defeats the purpose",
-      "Leaning back — requires core strength and hamstring flexibility to stay upright"
+      "Grip narrower than true snatch width \u2014 defeats the purpose",
+      "Leaning back \u2014 requires core strength and hamstring flexibility to stay upright"
     ],
     "safety_considerations": [
       "Assess shoulder external rotation range before attempting snatch grip overhead work",
-      "Light loads only — the wide grip is mechanically disadvantaged"
+      "Light loads only \u2014 the wide grip is mechanically disadvantaged"
     ],
     "range_of_motion_guidance": "Shoulder height to full snatch-grip overhead lockout.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Grip at snatch width — hands on the outer knurling",
-      "Upright torso — legs stay flat",
+      "Grip at snatch width \u2014 hands on the outer knurling",
+      "Upright torso \u2014 legs stay flat",
       "Elbows fully locked at the top"
     ]
   },
@@ -65,21 +88,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 3, "max_reps": 8 }
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": { "strength": 180 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 180
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["z-press", "barbell", "snatch-grip", "advanced", "overhead-press"]
+    "tags": [
+      "z-press",
+      "barbell",
+      "snatch-grip",
+      "advanced",
+      "overhead-press"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

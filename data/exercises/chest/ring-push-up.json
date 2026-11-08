@@ -71,19 +71,19 @@
     "breathing_instructions": "Inhale as you lower. Exhale as you press up and rotate the rings.",
     "common_mistakes": [
       "Allowing the rings to drift far out to the sides, losing stability",
-      "Not turning the rings outward at the top — this reduces pec activation",
+      "Not turning the rings outward at the top \u2014 this reduces pec activation",
       "Setting the rings too low without adequate strength"
     ],
     "safety_considerations": [
       "Establish solid floor push-up form before progressing to rings",
-      "Adjust ring height to begin — higher rings = less body weight on arms",
+      "Adjust ring height to begin \u2014 higher rings = less body weight on arms",
       "Ensure ring straps and anchor point can support bodyweight"
     ],
     "range_of_motion_guidance": "Full depth to 90 degrees elbow flexion or below. Full lockout at the top with external ring rotation.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
       "Turn the rings out at the top like you're trying to show your thumbs to the ceiling",
-      "Control the rings — don't let them control you",
+      "Control the rings \u2014 don't let them control you",
       "Tight body from heels to crown"
     ]
   },
@@ -158,6 +158,9 @@
       "push-up",
       "instability",
       "calisthenics"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,10 @@
   "exercise_id": "b2c3d4e5-f6a7-4890-b123-c45d67e89f44",
   "slug": "standing-cable-chest-press-band",
   "name": "Standing Cable Chest Press with Band",
-  "alternative_names": ["Cable Press Band Combo", "Cable and Band Chest Press"],
+  "alternative_names": [
+    "Cable Press Band Combo",
+    "Cable and Band Chest Press"
+  ],
   "description": "A standing cable chest press with an additional resistance band looped around the user's back and held in both hands alongside the cable handles. The cable provides constant tension throughout the range while the band adds accommodating resistance that increases toward full extension. This dual-resistance combination produces an ascending load curve from the start through the lockout, maximizing stimulus across the entire pressing range simultaneously.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,40 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012", "eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012",
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Face away from a cable machine with both cables at chest height. Loop a resistance band around your mid-back and hold both ends alongside the cable handles. Stand in a split stance for stability.",
@@ -40,40 +64,80 @@
     ],
     "breathing_instructions": "Exhale on the press, inhale on the controlled return.",
     "common_mistakes": [
-      "Band that is too heavy — the cable already provides significant load; the band is an accent, not the primary load",
+      "Band that is too heavy \u2014 the cable already provides significant load; the band is an accent, not the primary load",
       "Leaning forward to escape the combined resistance",
       "Cables set at wrong height for the target muscle angle"
     ],
     "safety_considerations": [
-      "Ensure the band is securely positioned around the back before pressing — a slipped band can cause sudden load change",
+      "Ensure the band is securely positioned around the back before pressing \u2014 a slipped band can cause sudden load change",
       "Start with a light band and assess the combined resistance before increasing"
     ],
     "range_of_motion_guidance": "Full elbow extension at the top. At the bottom, hands are at chest level with elbows behind the torso plane.",
     "tempo_recommendations": "2-0-2-1",
     "coaching_cues": [
-      "Press hard all the way to lockout — both resistances combine at the top",
-      "Control the return — the double resistance on the way back is significant"
+      "Press hard all the way to lockout \u2014 both resistances combine at the top",
+      "Control the return \u2014 the double resistance on the way back is significant"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120},
-    "training_goals": ["strength", "hypertrophy", "power"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "band", "standing", "press", "accommodating-resistance", "advanced"]
+    "tags": [
+      "cable",
+      "band",
+      "standing",
+      "press",
+      "accommodating-resistance",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

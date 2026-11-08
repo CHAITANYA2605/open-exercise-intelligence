@@ -73,7 +73,7 @@
       "Failing to reach full elbow lockout"
     ],
     "safety_considerations": [
-      "Very heavy loads are possible — trained spotters are mandatory",
+      "Very heavy loads are possible \u2014 trained spotters are mandatory",
       "Do not attempt without reliable partner support"
     ],
     "range_of_motion_guidance": "Top 5-6 inches of pressing ROM only. Full lockout required.",
@@ -129,6 +129,9 @@
       "lockout",
       "triceps",
       "board-press"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

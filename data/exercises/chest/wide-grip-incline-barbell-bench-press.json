@@ -50,8 +50,8 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on an incline bench (30–45 degrees) under a racked barbell. Grip the bar with hands outside the standard bench press grip — typically with pinkies near the outer ring marks on most bars.",
-    "setup_instructions": "Set incline to 30–45 degrees. Rack height should allow unracking with slightly bent arms. Use collars on the barbell.",
+    "starting_position": "Lie on an incline bench (30\u201345 degrees) under a racked barbell. Grip the bar with hands outside the standard bench press grip \u2014 typically with pinkies near the outer ring marks on most bars.",
+    "setup_instructions": "Set incline to 30\u201345 degrees. Rack height should allow unracking with slightly bent arms. Use collars on the barbell.",
     "steps": [
       "Step 1: Unrack the bar with a wide grip and position it above the upper chest.",
       "Step 2: Lower the bar to the upper chest, allowing the elbows to flare wider than a standard grip would permit.",
@@ -60,20 +60,20 @@
     ],
     "breathing_instructions": "Inhale before descent, exhale through the press.",
     "common_mistakes": [
-      "Grip too wide — beyond the outer ring marks places excessive stress on the wrists and shoulders",
+      "Grip too wide \u2014 beyond the outer ring marks places excessive stress on the wrists and shoulders",
       "Excessive elbow flare that strains the shoulder joint",
-      "Bar drifting toward the belly during the press — maintain the vertical bar path"
+      "Bar drifting toward the belly during the press \u2014 maintain the vertical bar path"
     ],
     "safety_considerations": [
-      "Wide grip incline pressing places greater shoulder stress — start with less weight than standard grip",
+      "Wide grip incline pressing places greater shoulder stress \u2014 start with less weight than standard grip",
       "Use a spotter, particularly when the grip is wider and control may be compromised",
-      "Avoid taking the grip to the extreme — 1–2 finger widths outside standard grip is sufficient"
+      "Avoid taking the grip to the extreme \u2014 1\u20132 finger widths outside standard grip is sufficient"
     ],
     "range_of_motion_guidance": "Full range from chest contact to lockout. The wide grip slightly reduces the range of motion needed at the elbow.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
       "Lead the bar with the chest, not the elbows",
-      "Keep the shoulder blades pulled together — this protects the shoulder in the wide grip position"
+      "Keep the shoulder blades pulled together \u2014 this protects the shoulder in the wide grip position"
     ]
   },
   "variants": {
@@ -135,6 +135,9 @@
       "wide-grip",
       "bench-press",
       "upper-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -6,7 +6,7 @@
     "Quadruped Hip Extension",
     "All-Fours Kickback"
   ],
-  "description": "The donkey kick is performed on all fours, kicking one leg backward and upward with the knee bent at 90° to extend the hip. The all-fours position allows the gluteus maximus to work through hip extension with the torso stabilized, isolating the glute from most other muscles. It is a beginner-friendly and low-impact exercise commonly used in rehabilitation, general fitness, and glute activation protocols. Resistance bands or ankle weights can add load.",
+  "description": "The donkey kick is performed on all fours, kicking one leg backward and upward with the knee bent at 90\u00b0 to extend the hip. The all-fours position allows the gluteus maximus to work through hip extension with the torso stabilized, isolating the glute from most other muscles. It is a beginner-friendly and low-impact exercise commonly used in rehabilitation, general fitness, and glute activation protocols. Resistance bands or ankle weights can add load.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -55,27 +55,27 @@
     "setup_instructions": "No equipment required. A resistance band looped around both legs just above the knee adds progressive resistance.",
     "steps": [
       "Step 1: Begin on all fours with a neutral spine. Keep the core braced.",
-      "Step 2: Keeping the knee bent at 90°, raise one leg backward and upward by extending the hip.",
+      "Step 2: Keeping the knee bent at 90\u00b0, raise one leg backward and upward by extending the hip.",
       "Step 3: Drive the foot toward the ceiling until the thigh is parallel to the floor and the knee is fully extended at the hip (hip is extended, not hyperextended at the spine).",
       "Step 4: Hold the peak position briefly and squeeze the glute.",
       "Step 5: Lower the knee back to the starting position. Complete all reps, then switch legs."
     ],
     "breathing_instructions": "Exhale as you kick back. Inhale as you lower.",
     "common_mistakes": [
-      "Rotating the hip open toward the ceiling — keep the pelvis level and facing down",
-      "Extending the lower back to increase range — the hip should extend, not the spine",
-      "Letting the core sag — the spine stays neutral throughout"
+      "Rotating the hip open toward the ceiling \u2014 keep the pelvis level and facing down",
+      "Extending the lower back to increase range \u2014 the hip should extend, not the spine",
+      "Letting the core sag \u2014 the spine stays neutral throughout"
     ],
     "safety_considerations": [
       "Wrist discomfort can be reduced by making fists or using push-up handles",
       "Very low risk exercise suitable for beginners and those in rehabilitation"
     ],
-    "range_of_motion_guidance": "Extend the hip until the thigh is parallel to the floor. No higher — additional range comes from lumbar extension, not hip extension.",
+    "range_of_motion_guidance": "Extend the hip until the thigh is parallel to the floor. No higher \u2014 additional range comes from lumbar extension, not hip extension.",
     "tempo_recommendations": "1-1-2-0",
     "coaching_cues": [
-      "Kick back and up — not just back",
-      "Keep the hip facing down — no rotation",
-      "Brace the core — no spine sagging"
+      "Kick back and up \u2014 not just back",
+      "Keep the hip facing down \u2014 no rotation",
+      "Brace the core \u2014 no spine sagging"
     ]
   },
   "variants": {
@@ -144,6 +144,9 @@
       "beginner",
       "rehab",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

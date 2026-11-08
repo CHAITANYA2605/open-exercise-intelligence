@@ -6,7 +6,7 @@
     "Reverse Hyper",
     "Reverse Back Extension"
   ],
-  "description": "The reverse hyperextension trains the posterior chain with the opposite movement pattern from a standard back extension — the torso is fixed and the legs swing posteriorly. This arrangement decompresses the lumbar spine on each lowering phase while loading the glutes and hamstrings concentrically on the ascent. It is considered a low-spinal-load alternative for posterior chain development.",
+  "description": "The reverse hyperextension trains the posterior chain with the opposite movement pattern from a standard back extension \u2014 the torso is fixed and the legs swing posteriorly. This arrangement decompresses the lumbar spine on each lowering phase while loading the glutes and hamstrings concentrically on the ascent. It is considered a low-spinal-load alternative for posterior chain development.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -65,19 +65,19 @@
     "breathing_instructions": "Exhale as the legs rise. Inhale as they lower.",
     "common_mistakes": [
       "Using momentum and swinging the legs rather than muscle contraction",
-      "Raising the legs far above horizontal — this compresses the lumbar spine rather than decompressing it",
+      "Raising the legs far above horizontal \u2014 this compresses the lumbar spine rather than decompressing it",
       "Failing to grip the bench firmly, allowing the torso to slide"
     ],
     "safety_considerations": [
-      "Keep the range of motion controlled — stop when legs are roughly parallel to the floor",
+      "Keep the range of motion controlled \u2014 stop when legs are roughly parallel to the floor",
       "This exercise is often cited for its decompressive benefit; however, it should still be performed with control"
     ],
     "range_of_motion_guidance": "Legs should travel from hanging below the bench up to roughly horizontal or just above. Avoid excessive range.",
     "tempo_recommendations": "1-1-2-0 (1s concentric, 1s hold, 2s eccentric)",
     "coaching_cues": [
-      "Squeeze the glutes to initiate the lift — do not lead with the knees",
+      "Squeeze the glutes to initiate the lift \u2014 do not lead with the knees",
       "Think of trying to touch the ceiling with your heels",
-      "Let gravity do the work on the way down — stay controlled"
+      "Let gravity do the work on the way down \u2014 stay controlled"
     ]
   },
   "variants": {
@@ -139,6 +139,9 @@
       "back-extension",
       "posterior-chain",
       "decompression"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

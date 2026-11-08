@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0018-4000-a000-100000000018",
   "slug": "barbell-step-up",
   "name": "Step-Up with Barbell",
-  "alternative_names": ["Barbell Step-Up", "Loaded Step-Up"],
+  "alternative_names": [
+    "Barbell Step-Up",
+    "Loaded Step-Up"
+  ],
   "description": "The barbell step-up is a unilateral lower body exercise performed with a barbell across the traps, stepping onto a box or bench. The added load of the barbell dramatically increases the difficulty compared to dumbbell step-ups and challenges the quadriceps, glutes, and hip extensors of the working leg. The box height determines the range of motion and muscle emphasis.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Unrack the barbell and position it across the upper traps. Stand facing a sturdy box or bench at knee height.",
@@ -41,32 +70,84 @@
       "Step 4: Lower the trail foot back to the floor in a controlled manner and repeat."
     ],
     "breathing_instructions": "Exhale on the step up, inhale on the controlled descent.",
-    "common_mistakes": ["Pushing off the floor foot, reducing working leg demand", "Box too low — insufficient ROM", "Leaning heavily with the torso"],
-    "safety_considerations": ["Ensure the box is completely stable and can safely support the loaded barbell weight", "Develop with dumbbell step-ups before using a barbell"],
+    "common_mistakes": [
+      "Pushing off the floor foot, reducing working leg demand",
+      "Box too low \u2014 insufficient ROM",
+      "Leaning heavily with the torso"
+    ],
+    "safety_considerations": [
+      "Ensure the box is completely stable and can safely support the loaded barbell weight",
+      "Develop with dumbbell step-ups before using a barbell"
+    ],
     "range_of_motion_guidance": "Full extension at the top of the box. Full descent to both feet on the floor.",
     "tempo_recommendations": "1-0-2-0 (drive up quickly, control the descent)",
-    "coaching_cues": ["Drive through the heel on the box", "Floor foot is a passenger", "Stand tall at the top"]
+    "coaching_cues": [
+      "Drive through the heel on the box",
+      "Floor foot is a passenger",
+      "Stand tall at the top"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["barbell", "step-up", "unilateral", "compound"]
+    "tags": [
+      "barbell",
+      "step-up",
+      "unilateral",
+      "compound"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -53,15 +53,15 @@
     "setup_instructions": "Use a mat for comfort on the knees and wrists.",
     "steps": [
       "Step 1: Begin in a neutral tabletop with spine parallel to the floor.",
-      "Step 2: CAT — Exhale and round the spine toward the ceiling, tucking the tailbone under and dropping the head. Hold 2 seconds.",
+      "Step 2: CAT \u2014 Exhale and round the spine toward the ceiling, tucking the tailbone under and dropping the head. Hold 2 seconds.",
       "Step 3: Return slowly through neutral.",
-      "Step 4: COW — Inhale and allow the spine to extend, letting the belly drop toward the floor while lifting the head and tailbone. Hold 2 seconds.",
-      "Step 5: Return to neutral. Repeat the cycle 10–15 times."
+      "Step 4: COW \u2014 Inhale and allow the spine to extend, letting the belly drop toward the floor while lifting the head and tailbone. Hold 2 seconds.",
+      "Step 5: Return to neutral. Repeat the cycle 10\u201315 times."
     ],
     "breathing_instructions": "Exhale into the cat (flexion) position. Inhale into the cow (extension) position. Let the breath drive the movement.",
     "common_mistakes": [
-      "Only moving in the lumbar spine — try to distribute the motion through the thoracic and cervical spine as well",
-      "Moving too quickly — this is a slow, mindful mobilization",
+      "Only moving in the lumbar spine \u2014 try to distribute the motion through the thoracic and cervical spine as well",
+      "Moving too quickly \u2014 this is a slow, mindful mobilization",
       "Not reaching full range in both directions"
     ],
     "safety_considerations": [
@@ -69,9 +69,9 @@
       "Those with severe spinal pathology should consult a clinician before performing flexion-based movements"
     ],
     "range_of_motion_guidance": "Aim for full spinal flexion in cat and full extension in cow. Move through as much range as is comfortable.",
-    "tempo_recommendations": "2–3 seconds per position, 10–15 cycles.",
+    "tempo_recommendations": "2\u20133 seconds per position, 10\u201315 cycles.",
     "coaching_cues": [
-      "Start from the tailbone — curl the pelvis first, then move segment by segment up the spine",
+      "Start from the tailbone \u2014 curl the pelvis first, then move segment by segment up the spine",
       "In cow, imagine filling your belly with air as you drop it toward the floor",
       "In cat, press the floor away with your hands to maximize the spinal flexion"
     ]
@@ -124,6 +124,9 @@
       "dynamic-stretch",
       "beginner",
       "warm-up"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

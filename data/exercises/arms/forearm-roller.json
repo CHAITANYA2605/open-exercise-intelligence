@@ -48,27 +48,27 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hold the roller handle with both hands using an overhand grip, arms extended straight out in front at shoulder height. The weight hangs from the rope beneath the roller.",
-    "setup_instructions": "A forearm roller is a short bar or cylinder with a rope through its center attached to a weight plate. Begin with a very light plate (2.5–5 kg) as the sustained tension is significantly more challenging than it appears.",
+    "setup_instructions": "A forearm roller is a short bar or cylinder with a rope through its center attached to a weight plate. Begin with a very light plate (2.5\u20135 kg) as the sustained tension is significantly more challenging than it appears.",
     "steps": [
       "Step 1: Hold the roller at arm's length in front of the body at shoulder height. Weight hangs beneath on the rope.",
       "Step 2: Alternate wrist flexion on each hand to wind the rope upward, lifting the weight toward the bar.",
       "Step 3: Continue winding until the weight reaches the bar (rope fully wound).",
       "Step 4: Reverse the direction, alternating wrist extension on each hand to lower the weight back to the starting position in a controlled manner."
     ],
-    "breathing_instructions": "Breathe continuously — do not hold the breath. Use short rhythmic breaths throughout the extended set.",
+    "breathing_instructions": "Breathe continuously \u2014 do not hold the breath. Use short rhythmic breaths throughout the extended set.",
     "common_mistakes": [
-      "Starting with too much weight — the sustained isometric hold fatigues the shoulders and forearms very quickly",
+      "Starting with too much weight \u2014 the sustained isometric hold fatigues the shoulders and forearms very quickly",
       "Letting the arms drop below shoulder height partway through the set, reducing forearm engagement"
     ],
     "safety_considerations": [
-      "Keep the arms at shoulder height throughout — if they drop significantly, the set is over",
+      "Keep the arms at shoulder height throughout \u2014 if they drop significantly, the set is over",
       "Stop if sharp elbow or wrist pain is felt"
     ],
     "range_of_motion_guidance": "Wind fully upward until the weight touches the bar; unwind fully downward until the rope is extended.",
-    "tempo_recommendations": "Continuous alternating motion — no specific tempo; controlled throughout",
+    "tempo_recommendations": "Continuous alternating motion \u2014 no specific tempo; controlled throughout",
     "coaching_cues": [
-      "Arms stay straight out — your shoulders will burn too, and that is part of the work",
-      "Wind all the way up and all the way down — no shortcuts"
+      "Arms stay straight out \u2014 your shoulders will burn too, and that is part of the work",
+      "Wind all the way up and all the way down \u2014 no shortcuts"
     ]
   },
   "variants": {
@@ -126,6 +126,9 @@
       "grip",
       "roller",
       "endurance"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

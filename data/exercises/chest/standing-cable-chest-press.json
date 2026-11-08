@@ -6,7 +6,7 @@
     "Standing Cable Press",
     "Bilateral Cable Chest Press"
   ],
-  "description": "The Standing Cable Chest Press is performed upright with cables set at chest height, pressing both handles forward simultaneously. The standing position engages the core and lower body for stability, while the cables provide continuous tension throughout the entire range of motion — unlike barbells or dumbbells that have varying torque curves. This makes it effective for hypertrophy and functional strength.",
+  "description": "The Standing Cable Chest Press is performed upright with cables set at chest height, pressing both handles forward simultaneously. The standing position engages the core and lower body for stability, while the cables provide continuous tension throughout the entire range of motion \u2014 unlike barbells or dumbbells that have varying torque curves. This makes it effective for hypertrophy and functional strength.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -139,6 +139,9 @@
       "cable",
       "constant-tension",
       "functional"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

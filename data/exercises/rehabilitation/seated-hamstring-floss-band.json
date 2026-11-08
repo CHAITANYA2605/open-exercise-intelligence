@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50021",
   "slug": "seated-hamstring-floss-band",
   "name": "Seated Hamstring Neural Flossing with Band",
-  "alternative_names": ["Neural Flossing Hamstring", "Sciatic Nerve Floss Seated"],
+  "alternative_names": [
+    "Neural Flossing Hamstring",
+    "Sciatic Nerve Floss Seated"
+  ],
   "description": "Neural flossing (also called neural gliding) is a gentle mobilization technique that moves the sciatic nerve through its neural canal by alternating tension on opposite ends of the nerve. In the seated hamstring version, the exerciser alternately extends the knee (tensioning the sciatic nerve distally) and flexes the ankle into dorsiflexion while the hip remains flexed. This rhythmic 'flossing' improves neural mobility and reduces pain associated with sciatic nerve tension, hamstring injuries, or disc herniations causing radiculopathy.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -15,50 +18,113 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "execution": {
-    "starting_position": "Sit upright in a chair with both feet flat on the floor. Ensure a neutral or slightly extended spine — do not slump. Cross the working ankle over the resting thigh or simply let it hang, depending on the technique variant being used.",
-    "setup_instructions": "No equipment needed. A chair that allows the foot to hang freely is ideal. The technique must be very gentle — neural flossing is NOT a stretching exercise and should never produce sharp, radiating, or electrical pain.",
+    "starting_position": "Sit upright in a chair with both feet flat on the floor. Ensure a neutral or slightly extended spine \u2014 do not slump. Cross the working ankle over the resting thigh or simply let it hang, depending on the technique variant being used.",
+    "setup_instructions": "No equipment needed. A chair that allows the foot to hang freely is ideal. The technique must be very gentle \u2014 neural flossing is NOT a stretching exercise and should never produce sharp, radiating, or electrical pain.",
     "steps": [
-      "Step 1: Sit tall in a chair. Extend one knee to straighten the leg as much as comfortable — this tensions the sciatic nerve.",
+      "Step 1: Sit tall in a chair. Extend one knee to straighten the leg as much as comfortable \u2014 this tensions the sciatic nerve.",
       "Step 2: Simultaneously point the toes (plantarflex the ankle) to reduce the neural tension slightly.",
       "Step 3: Bend the knee back to roughly 90 degrees while simultaneously dorsiflexing the ankle (pull toes toward shin).",
-      "Step 4: Alternate between these two positions rhythmically — extend knee/plantarflex toes, then bend knee/dorsiflex toes. This is the flossing motion."
+      "Step 4: Alternate between these two positions rhythmically \u2014 extend knee/plantarflex toes, then bend knee/dorsiflex toes. This is the flossing motion."
     ],
     "breathing_instructions": "Breathe continuously throughout. The movement should feel like gentle mobilization, not a stretch.",
-    "common_mistakes": ["Forcing range that creates sharp, electrical, or radiating pain — stop immediately if this occurs", "Performing the exercise too aggressively — neural flossing should feel like a mild tension, not a hamstring stretch", "Holding the extended position rather than keeping the motion fluid and rhythmic"],
-    "safety_considerations": ["CRITICAL: If the exercise produces sharp, shooting, or electric pain radiating down the leg, stop immediately and consult a physiotherapist", "Neural flossing should produce only mild tension — no pain", "Not suitable for anyone with known spinal instability or acute disc herniation without physiotherapy supervision"],
+    "common_mistakes": [
+      "Forcing range that creates sharp, electrical, or radiating pain \u2014 stop immediately if this occurs",
+      "Performing the exercise too aggressively \u2014 neural flossing should feel like a mild tension, not a hamstring stretch",
+      "Holding the extended position rather than keeping the motion fluid and rhythmic"
+    ],
+    "safety_considerations": [
+      "CRITICAL: If the exercise produces sharp, shooting, or electric pain radiating down the leg, stop immediately and consult a physiotherapist",
+      "Neural flossing should produce only mild tension \u2014 no pain",
+      "Not suitable for anyone with known spinal instability or acute disc herniation without physiotherapy supervision"
+    ],
     "range_of_motion_guidance": "Work only within the range that produces gentle tension and no pain. This range will improve as neural mobility increases.",
-    "tempo_recommendations": "1 repetition = 1 full cycle (extend + return). Perform at a steady rhythm — approximately 1 second per position.",
-    "coaching_cues": ["This is a gliding exercise, not a stretch — the movement should be fluid and gentle", "Mild tension is correct. Any sharp, electrical, or radiating sensation means you should stop", "Consistency over intensity — daily gentle flossing outperforms aggressive weekly sessions"]
+    "tempo_recommendations": "1 repetition = 1 full cycle (extend + return). Perform at a steady rhythm \u2014 approximately 1 second per position.",
+    "coaching_cues": [
+      "This is a gliding exercise, not a stretch \u2014 the movement should be fluid and gentle",
+      "Mild tension is correct. Any sharp, electrical, or radiating sensation means you should stop",
+      "Consistency over intensity \u2014 daily gentle flossing outperforms aggressive weekly sessions"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "mobility", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "mobility",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"mobility": 60, "endurance": 60},
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 60,
+      "endurance": 60
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hamstring", "neural-flossing", "sciatic", "rehabilitation", "mobility"]
+    "tags": [
+      "hamstring",
+      "neural-flossing",
+      "sciatic",
+      "rehabilitation",
+      "mobility"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

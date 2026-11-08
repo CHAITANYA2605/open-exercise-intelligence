@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50013",
   "slug": "supine-bridge-march",
   "name": "Supine Bridge March",
-  "alternative_names": ["Glute Bridge March", "Hip Bridge Marching"],
+  "alternative_names": [
+    "Glute Bridge March",
+    "Hip Bridge Marching"
+  ],
   "description": "The supine bridge march builds on the standard glute bridge by adding a single-leg marching component. While maintaining a bridge position with both hips elevated, one foot is lifted from the floor and the knee drawn toward the chest, then returned before alternating sides. This challenges the stance-side glute maximally as a hip stabilizer against rotational and lateral forces, making it a critical rehabilitation exercise for hip, knee, and lower back programs.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on your back with knees bent and feet flat on the floor hip-width apart. Drive through both heels to raise the hips into a standard bridge position, with a straight line from knees through hips to shoulders.",
@@ -39,32 +62,85 @@
       "Step 4: Alternate sides. Each knee lift equals one repetition."
     ],
     "breathing_instructions": "Exhale as you lift the knee. Inhale as you return the foot to the floor.",
-    "common_mistakes": ["Letting the hips drop or rotate when one foot leaves the floor — the bridge must stay level", "Lifting the foot too fast and losing core bracing", "Hyperextending the lower back instead of maintaining neutral spine in the bridge"],
-    "safety_considerations": ["If the lower back arches excessively, reduce the bridge height or practice the standard bridge first", "Avoid if single-leg hip loading is contraindicated — consult a physiotherapist"],
+    "common_mistakes": [
+      "Letting the hips drop or rotate when one foot leaves the floor \u2014 the bridge must stay level",
+      "Lifting the foot too fast and losing core bracing",
+      "Hyperextending the lower back instead of maintaining neutral spine in the bridge"
+    ],
+    "safety_considerations": [
+      "If the lower back arches excessively, reduce the bridge height or practice the standard bridge first",
+      "Avoid if single-leg hip loading is contraindicated \u2014 consult a physiotherapist"
+    ],
     "range_of_motion_guidance": "The marching knee should reach 80-90 degrees of hip flexion. The hips must remain level throughout.",
     "tempo_recommendations": "2s lift, 1s hold, 2s lower. Alternate sides with no rest between.",
-    "coaching_cues": ["Keep the hips level — imagine a glass of water on each hip bone that cannot spill", "Press the standing foot into the floor to maximize glute activation on the stance side", "Brace the core before you lift the foot — do not let the back arch"]
+    "coaching_cues": [
+      "Keep the hips level \u2014 imagine a glass of water on each hip bone that cannot spill",
+      "Press the standing foot into the floor to maximize glute activation on the stance side",
+      "Brace the core before you lift the foot \u2014 do not let the back arch"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 10, "max_reps": 20},
-      {"goal": "mobility", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "mobility",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 45, "mobility": 60},
-    "training_goals": ["endurance", "mobility"]
+    "rest_periods": {
+      "endurance": 45,
+      "mobility": 60
+    },
+    "training_goals": [
+      "endurance",
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glutes", "hip", "rehabilitation", "bridge", "stability"]
+    "tags": [
+      "glutes",
+      "hip",
+      "rehabilitation",
+      "bridge",
+      "stability"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

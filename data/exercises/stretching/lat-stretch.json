@@ -45,24 +45,24 @@
     "steps": [
       "Step 1: Raise one arm overhead and grip a fixed surface (doorway, rack post) or simply raise the arm.",
       "Step 2: Allow the torso to bend away from the raised arm, creating a lateral lean.",
-      "Step 3: Breathe into the side of the ribcage on the raised-arm side — this increases the lat stretch.",
-      "Step 4: Hold 30–60 seconds until the stretch is felt running from the outer hip up to the armpit.",
+      "Step 3: Breathe into the side of the ribcage on the raised-arm side \u2014 this increases the lat stretch.",
+      "Step 4: Hold 30\u201360 seconds until the stretch is felt running from the outer hip up to the armpit.",
       "Step 5: Return to neutral and switch sides."
     ],
-    "breathing_instructions": "Inhale into the side being stretched — this uses the ribcage expansion to increase tension on the lat.",
+    "breathing_instructions": "Inhale into the side being stretched \u2014 this uses the ribcage expansion to increase tension on the lat.",
     "common_mistakes": [
-      "Not leaning laterally enough — many people only raise the arm without getting the lateral trunk component",
+      "Not leaning laterally enough \u2014 many people only raise the arm without getting the lateral trunk component",
       "Holding the breath rather than breathing into the stretch",
       "Rotating the torso rather than pure lateral lean"
     ],
     "safety_considerations": [
-      "Avoid if there is shoulder impingement — the overhead position may aggravate it",
+      "Avoid if there is shoulder impingement \u2014 the overhead position may aggravate it",
       "Support the grip with a stable surface to avoid loading the spine under stretch"
     ],
     "range_of_motion_guidance": "Lean until a clear stretch is felt running from the hip along the side of the torso to the armpit.",
-    "tempo_recommendations": "Hold 30–60 seconds. 2–3 rounds per side.",
+    "tempo_recommendations": "Hold 30\u201360 seconds. 2\u20133 rounds per side.",
     "coaching_cues": [
-      "Breathe into your armpit — expand that side of the ribcage",
+      "Breathe into your armpit \u2014 expand that side of the ribcage",
       "Think of making yourself as tall as possible on the stretched side",
       "Let the hip slide away from the raised arm"
     ]
@@ -114,6 +114,9 @@
       "stretch",
       "beginner",
       "side-stretch"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

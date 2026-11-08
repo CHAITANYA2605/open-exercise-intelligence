@@ -1,8 +1,11 @@
 {
   "exercise_id": "a1b2c3d4-0017-4000-a000-100000000017",
   "slug": "barbell-lunge",
-  "name": "Forward Walking Lunges — Barbell",
-  "alternative_names": ["Barbell Walking Lunge", "Barbell Forward Lunge"],
+  "name": "Forward Walking Lunges \u2014 Barbell",
+  "alternative_names": [
+    "Barbell Walking Lunge",
+    "Barbell Forward Lunge"
+  ],
   "description": "Barbell walking lunges are a compound unilateral exercise performed with a barbell across the upper traps. The lifter steps forward continuously, alternating legs for a set distance or rep count. The barbell adds significantly more load than dumbbells and challenges core stability and balance throughout the movement. The alternating nature trains dynamic single-leg strength and hip flexor flexibility.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,59 +18,140 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Unrack the barbell from a power rack and position it across the upper traps (similar to a high-bar squat). Stand with feet hip-width apart at the edge of an open space.",
-    "setup_instructions": "Set the barbell at an appropriate weight — significantly less than a barbell squat. Ensure you have enough open floor space for the number of lunges planned.",
+    "setup_instructions": "Set the barbell at an appropriate weight \u2014 significantly less than a barbell squat. Ensure you have enough open floor space for the number of lunges planned.",
     "steps": [
       "Step 1: Step one foot forward into a lunge stance, bending both knees simultaneously.",
       "Step 2: Lower the rear knee to near the floor while keeping the front shin nearly vertical.",
       "Step 3: Drive through the front heel to bring the rear foot forward past the front foot, completing one step.",
       "Step 4: Immediately step the new leading foot forward and repeat on the opposite side."
     ],
-    "breathing_instructions": "Breathe rhythmically — exhale on each drive up.",
-    "common_mistakes": ["Step length too short, causing the front shin to angle too far forward", "Leaning the torso to one side under barbell load", "Rear knee crashing to the floor"],
-    "safety_considerations": ["Requires open floor space — ensure the path is clear", "High demand on balance with a barbell — develop with dumbbells first"],
+    "breathing_instructions": "Breathe rhythmically \u2014 exhale on each drive up.",
+    "common_mistakes": [
+      "Step length too short, causing the front shin to angle too far forward",
+      "Leaning the torso to one side under barbell load",
+      "Rear knee crashing to the floor"
+    ],
+    "safety_considerations": [
+      "Requires open floor space \u2014 ensure the path is clear",
+      "High demand on balance with a barbell \u2014 develop with dumbbells first"
+    ],
     "range_of_motion_guidance": "Rear knee to approximately 1-2 inches from the floor each step.",
-    "tempo_recommendations": "Controlled stepping pace — not rushed",
-    "coaching_cues": ["Long step, vertical front shin", "Rear knee drops, don't crash it", "Stand tall with the barbell"]
+    "tempo_recommendations": "Controlled stepping pace \u2014 not rushed",
+    "coaching_cues": [
+      "Long step, vertical front shin",
+      "Rear knee drops, don't crash it",
+      "Stand tall with the barbell"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["barbell", "lunge", "walking", "alternating"]
+    "tags": [
+      "barbell",
+      "lunge",
+      "walking",
+      "alternating"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,8 +2,10 @@
   "exercise_id": "a7b8c9d0-e1f2-4345-a678-b90c12d34567",
   "slug": "chain-bench-press",
   "name": "Chain-Loaded Barbell Bench Press",
-  "alternative_names": ["Bench Press with Chains"],
-  "description": "The Chain-Loaded Bench Press attaches heavy chains to each end of the barbell so that more chain links rest on the floor at the bottom of the movement (reducing effective load) and more links are suspended off the floor at lockout (increasing effective load). This accommodating resistance technique matches the natural strength curve of the press — lighter where you are weakest at the bottom, heavier where you are strongest at the top.",
+  "alternative_names": [
+    "Bench Press with Chains"
+  ],
+  "description": "The Chain-Loaded Bench Press attaches heavy chains to each end of the barbell so that more chain links rest on the floor at the bottom of the movement (reducing effective load) and more links are suspended off the floor at lockout (increasing effective load). This accommodating resistance technique matches the natural strength curve of the press \u2014 lighter where you are weakest at the bottom, heavier where you are strongest at the top.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -15,20 +17,44 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Attach chains to each sleeve of the barbell using a small pilot chain looped over the sleeve. Chains should partially deload to the floor at the bottom of the rep. Lie on the bench and grip normally.",
@@ -45,36 +71,77 @@
       "Chains too long so they never fully lift off the floor at lockout"
     ],
     "safety_considerations": [
-      "Account for chain weight when calculating barbell load — reduce plate weight accordingly",
+      "Account for chain weight when calculating barbell load \u2014 reduce plate weight accordingly",
       "Use a power rack with safety bars"
     ],
     "range_of_motion_guidance": "Full ROM from chest-touch to lockout, same as standard bench press.",
     "tempo_recommendations": "3-0-X-0 (explosive concentric to maximize accommodating resistance benefit)",
     "coaching_cues": [
-      "Press as fast as you can — speed overcomes the increasing chain weight",
+      "Press as fast as you can \u2014 speed overcomes the increasing chain weight",
       "Stay tight; the swinging chains create additional stabilization demands"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 8}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 240, "hypertrophy": 120},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["powerlifting", "accommodating-resistance", "chains", "advanced"]
+    "tags": [
+      "powerlifting",
+      "accommodating-resistance",
+      "chains",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

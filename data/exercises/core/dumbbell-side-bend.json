@@ -46,7 +46,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright holding a dumbbell in one hand at the side, feet shoulder-width apart, free hand placed lightly behind the head or on the hip.",
-    "setup_instructions": "Choose a moderate weight — excessive load encourages compensation through the hips rather than pure lateral spinal flexion.",
+    "setup_instructions": "Choose a moderate weight \u2014 excessive load encourages compensation through the hips rather than pure lateral spinal flexion.",
     "steps": [
       "Step 1: Stand tall with the dumbbell at the side, spine neutral.",
       "Step 2: Laterally flex the spine toward the dumbbell side, lowering the weight along the outer thigh.",
@@ -57,15 +57,15 @@
     "breathing_instructions": "Inhale at neutral. Exhale as returning to upright.",
     "common_mistakes": [
       "Bending forward or backward instead of purely laterally",
-      "Rotating the torso — the movement should be in the frontal plane only"
+      "Rotating the torso \u2014 the movement should be in the frontal plane only"
     ],
     "safety_considerations": [
-      "Use controlled movement — avoid lateral flexion under load with momentum"
+      "Use controlled movement \u2014 avoid lateral flexion under load with momentum"
     ],
     "range_of_motion_guidance": "Full comfortable lateral flexion range on each side. Quality of movement over depth.",
     "tempo_recommendations": "2-1-2-0. Controlled in both directions.",
     "coaching_cues": [
-      "Slide the dumbbell down the leg — no rotation",
+      "Slide the dumbbell down the leg \u2014 no rotation",
       "Think of your spine as a hinge opening sideways"
     ]
   },
@@ -115,6 +115,9 @@
       "obliques",
       "lateral-flexion",
       "dumbbell"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

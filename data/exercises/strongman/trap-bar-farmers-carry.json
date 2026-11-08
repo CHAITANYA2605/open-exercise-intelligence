@@ -62,11 +62,11 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "The trap bar is on the floor. Step inside the frame, feet hip-width apart. Grip the high handles. Hinge at the hips to reach the handles, back flat.",
-    "setup_instructions": "Use the high handles for most carry work — they reduce the range of motion of the initial deadlift and allow heavier loading. Ensure plates are secured with collars before walking.",
+    "setup_instructions": "Use the high handles for most carry work \u2014 they reduce the range of motion of the initial deadlift and allow heavier loading. Ensure plates are secured with collars before walking.",
     "steps": [
       "Step 1: Deadlift the trap bar from the floor: hinge, brace, stand up with hips and knees extending simultaneously.",
-      "Step 2: Once standing, adjust posture — tall, shoulders back, core braced firmly.",
-      "Step 3: Walk with short, quick steps. Keep the frame of the bar travelling straight — do not let it swing or sway forward.",
+      "Step 2: Once standing, adjust posture \u2014 tall, shoulders back, core braced firmly.",
+      "Step 3: Walk with short, quick steps. Keep the frame of the bar travelling straight \u2014 do not let it swing or sway forward.",
       "Step 4: Maintain upright posture throughout the walk. Keep the gaze forward.",
       "Step 5: At the end of the distance, reduce pace and lower the bar by hinging at the hips."
     ],
@@ -76,15 +76,15 @@
       "Overstriding, which creates instability and reduces walking speed"
     ],
     "safety_considerations": [
-      "Ensure collars are tight before carrying — a shifting plate inside the trap bar frame is a serious hazard",
+      "Ensure collars are tight before carrying \u2014 a shifting plate inside the trap bar frame is a serious hazard",
       "Walk a clear, unobstructed path"
     ],
-    "range_of_motion_guidance": "Walk 20–40 metres per set at heavy loads. At moderate loads, 40–60 metres.",
-    "tempo_recommendations": "Strength: 20–30m at 1.5–2× bodyweight × 4–5 sets. Rest 2–3 minutes. Conditioning: 40m at bodyweight × 5–6 sets with 60–90 seconds rest.",
+    "range_of_motion_guidance": "Walk 20\u201340 metres per set at heavy loads. At moderate loads, 40\u201360 metres.",
+    "tempo_recommendations": "Strength: 20\u201330m at 1.5\u20132\u00d7 bodyweight \u00d7 4\u20135 sets. Rest 2\u20133 minutes. Conditioning: 40m at bodyweight \u00d7 5\u20136 sets with 60\u201390 seconds rest.",
     "coaching_cues": [
       "Stand tall inside the frame",
       "Short steps, high turnover",
-      "Crush the handles — do not relax the grip"
+      "Crush the handles \u2014 do not relax the grip"
     ]
   },
   "variants": {
@@ -141,6 +141,9 @@
       "trap-bar",
       "grip",
       "functional"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

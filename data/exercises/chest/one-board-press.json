@@ -79,7 +79,7 @@
     "range_of_motion_guidance": "Bar travels to the board surface only. Full lockout at top.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Touch and go off the board — no bouncing",
+      "Touch and go off the board \u2014 no bouncing",
       "Stay tight and control the descent as you would a full ROM press"
     ]
   },
@@ -128,6 +128,9 @@
       "powerlifting",
       "partial-rom",
       "board-press"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

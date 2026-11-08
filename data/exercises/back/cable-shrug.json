@@ -52,26 +52,26 @@
     "steps": [
       "Step 1: Begin standing with arms extended at the sides, allowing the upper traps to stretch slightly downward with the cable pulling forward.",
       "Step 2: Elevate the shoulders straight up toward the ears without bending the elbows.",
-      "Step 3: Hold the top position for 1–2 seconds, fully contracting the upper trapezius.",
+      "Step 3: Hold the top position for 1\u20132 seconds, fully contracting the upper trapezius.",
       "Step 4: Lower the shoulders slowly back to the starting position, allowing a full stretch.",
       "Step 5: Repeat without rolling the shoulders or rotating through the movement."
     ],
     "breathing_instructions": "Exhale as you shrug up. Inhale as you lower.",
     "common_mistakes": [
-      "Rolling the shoulders forward or backward — shrug strictly vertically",
+      "Rolling the shoulders forward or backward \u2014 shrug strictly vertically",
       "Bending the elbows to assist the movement",
       "Using a quick bouncing motion without achieving a full contraction at the top"
     ],
     "safety_considerations": [
       "Avoid excessive loading that causes cervical spine compression",
-      "Do not roll the shoulders — this adds no benefit and may stress the AC joint"
+      "Do not roll the shoulders \u2014 this adds no benefit and may stress the AC joint"
     ],
     "range_of_motion_guidance": "Full depression of shoulders at the bottom to maximum elevation at the top.",
     "tempo_recommendations": "1-2-2-0 (1s up, 2s hold, 2s down)",
     "coaching_cues": [
       "Try to touch your shoulders to your ears",
-      "Keep the arms straight — elbows locked",
-      "Move only the shoulders — nothing else moves"
+      "Keep the arms straight \u2014 elbows locked",
+      "Move only the shoulders \u2014 nothing else moves"
     ]
   },
   "variants": {
@@ -131,6 +131,9 @@
       "shrug",
       "cable",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

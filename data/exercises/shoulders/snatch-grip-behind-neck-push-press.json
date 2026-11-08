@@ -39,7 +39,7 @@
     ],
     "stabilizers": [
       {
-        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
         "muscle_slug": "infraspinatus"
       },
       {
@@ -64,20 +64,20 @@
     ],
     "breathing_instructions": "Inhale and brace. Exhale through the drive and press.",
     "common_mistakes": [
-      "Attempting this without adequate shoulder mobility — always screen mobility before loading",
-      "Narrow grip — the snatch grip width is what distributes the shoulder load"
+      "Attempting this without adequate shoulder mobility \u2014 always screen mobility before loading",
+      "Narrow grip \u2014 the snatch grip width is what distributes the shoulder load"
     ],
     "safety_considerations": [
       "Requires excellent shoulder external rotation and thoracic extension mobility",
-      "Do not perform if any shoulder pain occurs — the behind-neck position is not appropriate for all athletes",
+      "Do not perform if any shoulder pain occurs \u2014 the behind-neck position is not appropriate for all athletes",
       "Must be learned and practiced with an empty bar before loading"
     ],
     "range_of_motion_guidance": "Upper trap level to full overhead lockout.",
     "tempo_recommendations": "Explosive drive, 2s lower",
     "coaching_cues": [
-      "Wide grip — snatch width",
+      "Wide grip \u2014 snatch width",
       "Bar on the traps, not the neck",
-      "Dip straight — drive straight — press straight"
+      "Dip straight \u2014 drive straight \u2014 press straight"
     ]
   },
   "variants": {
@@ -134,6 +134,9 @@
       "push-press",
       "olympic-lifting",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

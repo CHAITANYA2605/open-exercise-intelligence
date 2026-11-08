@@ -58,7 +58,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Load a fat bar or axle bar and position it on the floor or in a rack at a pulling height. Hinge at the hips to 45-70 degrees torso inclination with the bar hanging at arm's length.",
-    "setup_instructions": "No straps — the entire point of the fat bar variation is grip development. Expect to use less weight than a standard barbell row. The thicker bar requires a more open hand position.",
+    "setup_instructions": "No straps \u2014 the entire point of the fat bar variation is grip development. Expect to use less weight than a standard barbell row. The thicker bar requires a more open hand position.",
     "steps": [
       "Step 1: Grip the fat bar with an overhand or underhand grip, hands just outside hip width. Hinge to the rowing position with a neutral spine.",
       "Step 2: Row the bar toward the lower sternum or navel by driving the elbows back and squeezing the shoulder blades.",
@@ -67,20 +67,20 @@
     ],
     "breathing_instructions": "Brace the core and inhale before initiating the row. Exhale forcefully at the top. Inhale as you lower the bar.",
     "common_mistakes": [
-      "Using straps — this negates the purpose of the fat bar",
-      "Gripping with just the fingers instead of the full hand — wrap the whole hand around the bar",
-      "Rounding the lower back due to the grip failing — reduce weight before this occurs"
+      "Using straps \u2014 this negates the purpose of the fat bar",
+      "Gripping with just the fingers instead of the full hand \u2014 wrap the whole hand around the bar",
+      "Rounding the lower back due to the grip failing \u2014 reduce weight before this occurs"
     ],
     "safety_considerations": [
-      "The grip will fatigue faster than the back — stop the set when grip fails rather than compromising spinal position",
+      "The grip will fatigue faster than the back \u2014 stop the set when grip fails rather than compromising spinal position",
       "Ensure the bar has consistent knurling or texture to maintain grip safety"
     ],
     "range_of_motion_guidance": "Full elbow extension at the bottom. Bar touches or nearly touches the torso at the top.",
     "tempo_recommendations": "1s pull, 1s hold at top, 3s controlled eccentric.",
     "coaching_cues": [
-      "Squeeze the bar as hard as possible — the fat diameter requires maximum grip tension",
+      "Squeeze the bar as hard as possible \u2014 the fat diameter requires maximum grip tension",
       "Lead with the elbows, not the hands",
-      "Think chest to the bar, not bar to the chest — keep the torso still"
+      "Think chest to the bar, not bar to the chest \u2014 keep the torso still"
     ]
   },
   "variants": {
@@ -143,6 +143,9 @@
       "grip",
       "back",
       "strongman"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

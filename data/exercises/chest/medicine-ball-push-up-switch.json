@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e12",
   "slug": "medicine-ball-push-up-switch",
   "name": "Medicine Ball Push-Up Switch",
-  "alternative_names": ["Rolling Medicine Ball Push-Up"],
+  "alternative_names": [
+    "Rolling Medicine Ball Push-Up"
+  ],
   "description": "A dynamic push-up variation where one hand rests on a medicine ball while the other is on the floor. After each repetition, the ball is rolled to the opposite hand, alternating which arm receives the elevated unstable position. This creates a lateral shifting load pattern that trains unilateral pressing strength, shoulder stability, and anti-rotation core control in an alternating fashion.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +17,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000044-0000-4000-a000-000000000044"],
+  "equipment_required": [
+    "eq000044-0000-4000-a000-000000000044"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a high plank with one hand on a medicine ball and the other on the floor, hands roughly shoulder-width apart in total.",
@@ -46,36 +71,77 @@
       "Using a ball that is too large, making the hand-to-floor height difference too great"
     ],
     "safety_considerations": [
-      "Ensure the ball does not roll away rapidly — keep one hand on it at all times",
+      "Ensure the ball does not roll away rapidly \u2014 keep one hand on it at all times",
       "On slippery floors, place ball against a wall to limit travel"
     ],
     "range_of_motion_guidance": "Full push-up range on each side. The ball-side hand gets a greater stretch depth due to elevation.",
     "tempo_recommendations": "2-0-1-1 (2s descent, 1s press, 1s ball transfer)",
     "coaching_cues": [
-      "Control the ball roll — do not let it get away from you",
+      "Control the ball roll \u2014 do not let it get away from you",
       "Keep hips square and level during the lateral transfer"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 16},
-      {"goal": "endurance", "min_reps": 16, "max_reps": 24}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 16
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 16,
+        "max_reps": 24
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 75, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["push-up", "medicine-ball", "alternating", "unilateral", "chest"]
+    "tags": [
+      "push-up",
+      "medicine-ball",
+      "alternating",
+      "unilateral",
+      "chest"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

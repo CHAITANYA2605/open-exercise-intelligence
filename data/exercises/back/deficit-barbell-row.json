@@ -2,7 +2,10 @@
   "exercise_id": "ba010010-f3a2-4c1e-9b8d-7e6f5a4c3b33",
   "slug": "deficit-barbell-row",
   "name": "Deficit Barbell Bent-Over Row",
-  "alternative_names": ["Elevated Barbell Row", "Platform Row"],
+  "alternative_names": [
+    "Elevated Barbell Row",
+    "Platform Row"
+  ],
   "description": "The deficit barbell row is performed with the lifter standing on elevated plates or a platform, allowing the barbell to descend lower than floor level. This increased range of motion provides a greater lat stretch at the bottom of each repetition and may enhance muscle fiber recruitment through the extended pull. The exercise requires superior hamstring flexibility and hip hinge mechanics compared to a standard barbell row.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "dddddddd-0001-4000-a000-00000000000d",
+        "muscle_slug": "hamstrings"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
-  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000050-0000-4000-a000-000000000050"
+  ],
   "execution": {
     "starting_position": "Stand on 2-4 bumper plates or a low platform (2-4 inches elevation). Position the barbell over the mid-foot. Hinge at the hips to approximately parallel with the floor.",
     "setup_instructions": "Stack plates or use a wooden platform. Ensure the surface is stable and will not shift. The deficit increases the bottom ROM of each rep.",
@@ -47,34 +76,80 @@
       "Insufficient hamstring flexibility causing the hips to rise"
     ],
     "safety_considerations": [
-      "Requires good hamstring flexibility — do not force depth beyond what neutral spine allows",
+      "Requires good hamstring flexibility \u2014 do not force depth beyond what neutral spine allows",
       "Use a stable, non-slip platform only",
       "Reduce weight relative to your standard barbell row"
     ],
     "range_of_motion_guidance": "Bar descends below platform level at the bottom, pulled to lower sternum at the top.",
     "tempo_recommendations": "3-1-2-0",
-    "coaching_cues": ["Let the bar drop below the platform", "Spine stays neutral even at the extended bottom position", "Pull with the elbows, not the hands"]
+    "coaching_cues": [
+      "Let the bar drop below the platform",
+      "Spine stays neutral even at the extended bottom position",
+      "Pull with the elbows, not the hands"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 4, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "row", "barbell", "advanced", "deficit"]
+    "tags": [
+      "back",
+      "row",
+      "barbell",
+      "advanced",
+      "deficit"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

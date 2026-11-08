@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-f001-4000-a000-000000000201",
   "slug": "barbell-snatch",
   "name": "Barbell Snatch",
-  "alternative_names": ["Snatch", "Olympic Snatch"],
+  "alternative_names": [
+    "Snatch",
+    "Olympic Snatch"
+  ],
   "description": "The barbell snatch is one of the two Olympic weightlifting competition lifts, in which the athlete lifts the barbell from the floor to a locked-out overhead position in a single continuous movement, catching it in an overhead squat. The lift demands exceptional full-body power production, bar speed, coordination, shoulder mobility, and hip flexibility. It is among the most technically complex and physically demanding exercises in strength sports and develops explosive power, coordination, and total body strength simultaneously.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,31 +18,72 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
-  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "execution": {
     "starting_position": "Stand with the barbell over the mid-foot. Take a wide snatch grip (outside the knees), feet hip-width apart. Bar is touching the shins, hips above knees, shoulders above the bar, back flat.",
-    "setup_instructions": "Use bumper plates and a lifting platform. The snatch grip width is determined by holding the bar in the hip crease with arms extended — the bar should contact the hip crease on extension. Warm up thoroughly.",
+    "setup_instructions": "Use bumper plates and a lifting platform. The snatch grip width is determined by holding the bar in the hip crease with arms extended \u2014 the bar should contact the hip crease on extension. Warm up thoroughly.",
     "steps": [
-      "Step 1: Set the starting position — bar over mid-foot, wide grip, flat back, hips between shoulders and knees.",
+      "Step 1: Set the starting position \u2014 bar over mid-foot, wide grip, flat back, hips between shoulders and knees.",
       "Step 2: First pull (floor to knee): drive legs into the floor to separate the bar from the ground, keeping the back angle constant and bar close to the body.",
       "Step 3: Second pull (knee to hip): as the bar passes the knee, accelerate the legs further and open the hip powerfully while keeping the bar close to the thigh.",
       "Step 4: Third pull (extension and turnover): at full hip extension, shrug the traps and pull the elbows high and outside. As the bar travels upward, pull yourself under the bar and rotate the hands into the overhead position.",
@@ -55,13 +99,13 @@
     "safety_considerations": [
       "Requires extensive technical coaching before loading significantly.",
       "Always use bumper plates and a lifting platform for safe drops.",
-      "Never train to failure — drop the bar if the catch is compromised."
+      "Never train to failure \u2014 drop the bar if the catch is compromised."
     ],
     "range_of_motion_guidance": "The bar travels from floor to fully locked overhead in an overhead squat catch. Full hip extension at the second pull is essential.",
-    "tempo_recommendations": "Explosive — the entire lift should be completed in under 2 seconds once initiated. There is no tempo prescription; maximum bar speed is the goal.",
+    "tempo_recommendations": "Explosive \u2014 the entire lift should be completed in under 2 seconds once initiated. There is no tempo prescription; maximum bar speed is the goal.",
     "coaching_cues": [
-      "Lats on — keep the bar close",
-      "Hips through — open explosively at the top",
+      "Lats on \u2014 keep the bar close",
+      "Hips through \u2014 open explosively at the top",
       "Punch up and pull under"
     ]
   },
@@ -74,23 +118,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 3},
-      {"goal": "power", "min_reps": 1, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 3
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 8},
-      {"goal": "power", "min_sets": 4, "max_sets": 8}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 8
+      },
+      {
+        "goal": "power",
+        "min_sets": 4,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"strength": 240, "power": 180},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 240,
+      "power": 180
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic", "weightlifting", "power", "expert", "full-body"]
+    "tags": [
+      "olympic",
+      "weightlifting",
+      "power",
+      "expert",
+      "full-body"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

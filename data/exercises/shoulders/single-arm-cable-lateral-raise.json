@@ -6,7 +6,7 @@
     "Unilateral Cable Lateral Raise",
     "Cable Side Raise"
   ],
-  "description": "The single-arm cable lateral raise is a unilateral shoulder isolation exercise using a low-pulley cable. With the cable running across the body from the opposite side, constant tension is maintained on the lateral deltoid throughout the entire arc — including at the top where dumbbell lateral raises lose tension. This makes it mechanically superior for lateral deltoid isolation compared to free-weight raises.",
+  "description": "The single-arm cable lateral raise is a unilateral shoulder isolation exercise using a low-pulley cable. With the cable running across the body from the opposite side, constant tension is maintained on the lateral deltoid throughout the entire arc \u2014 including at the top where dumbbell lateral raises lose tension. This makes it mechanically superior for lateral deltoid isolation compared to free-weight raises.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -65,7 +65,7 @@
     ],
     "breathing_instructions": "Exhale as you raise; inhale as you lower.",
     "common_mistakes": [
-      "Shrugging the traps as the arm rises — consciously depress the shoulder during the raise",
+      "Shrugging the traps as the arm rises \u2014 consciously depress the shoulder during the raise",
       "Raising too far above shoulder height into impingement range"
     ],
     "safety_considerations": [
@@ -74,8 +74,8 @@
     "range_of_motion_guidance": "Raise from hip/side to shoulder height; return controlled.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Lead with the elbow, not the hand — keep the elbow slightly higher than the wrist",
-      "Think about pouring water from a jug at the top — slight internal rotation keeps the shoulder safe"
+      "Lead with the elbow, not the hand \u2014 keep the elbow slightly higher than the wrist",
+      "Think about pouring water from a jug at the top \u2014 slight internal rotation keeps the shoulder safe"
     ]
   },
   "variants": {
@@ -141,6 +141,9 @@
       "shoulders",
       "isolation",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

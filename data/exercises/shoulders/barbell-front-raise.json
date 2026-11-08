@@ -46,7 +46,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright holding a barbell with a pronated (overhand) grip at approximately shoulder width. The bar hangs at thigh level with arms nearly straight.",
-    "setup_instructions": "Use a relatively light load. The anterior deltoid is already heavily stressed from pressing — treat this as supplemental volume work.",
+    "setup_instructions": "Use a relatively light load. The anterior deltoid is already heavily stressed from pressing \u2014 treat this as supplemental volume work.",
     "steps": [
       "Step 1: Hold the bar at thigh level with an overhand grip.",
       "Step 2: Keeping the arms nearly straight (slight elbow bend), raise the bar in front of the body.",
@@ -57,16 +57,16 @@
     "breathing_instructions": "Exhale as you raise, inhale as you lower.",
     "common_mistakes": [
       "Using body momentum by leaning back or rocking",
-      "Raising too high — above shoulder level recruits the traps excessively",
+      "Raising too high \u2014 above shoulder level recruits the traps excessively",
       "Bending the elbows too much, turning it into a curl-raise hybrid"
     ],
     "safety_considerations": [
-      "Keep the lower back neutral — do not hyperextend as the bar rises"
+      "Keep the lower back neutral \u2014 do not hyperextend as the bar rises"
     ],
     "range_of_motion_guidance": "Thigh level to shoulder height (90 degrees).",
     "tempo_recommendations": "2-0-3-0",
     "coaching_cues": [
-      "Arms like a robot — controlled arc",
+      "Arms like a robot \u2014 controlled arc",
       "No lean back",
       "Stop at shoulder height"
     ]
@@ -118,6 +118,9 @@
       "barbell",
       "anterior-deltoid",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

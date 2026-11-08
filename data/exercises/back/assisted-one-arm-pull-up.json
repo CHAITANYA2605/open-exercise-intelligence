@@ -2,7 +2,10 @@
   "exercise_id": "0fdc0f78-b9a5-4d07-bd43-848fb66c998e",
   "slug": "assisted-one-arm-pull-up",
   "name": "Assisted One-Arm Pull-Up",
-  "alternative_names": ["Band Assisted Single-Arm Pull-Up", "One-Arm Assisted Chin-Up"],
+  "alternative_names": [
+    "Band Assisted Single-Arm Pull-Up",
+    "One-Arm Assisted Chin-Up"
+  ],
   "description": "The assisted one-arm pull-up uses a band or the free hand lightly touching the working arm's wrist to reduce the load while training the full range of motion required for a strict one-arm pull-up. It develops the extreme lat, biceps, and forearm strength needed for one of the most demanding upper-body pulling movements in calisthenics.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,45 +18,67 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
-      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000006-0000-4000-a000-000000000006"],
-  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000006-0000-4000-a000-000000000006"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "execution": {
     "starting_position": "Grip the bar with one hand in the center. The free hand can lightly grip the working wrist or a looped band is placed under the working knee/foot. Begin in a dead hang.",
-    "setup_instructions": "Method 1: Loop a thin band around the bar and place one foot in it — provides variable resistance assistance. Method 2: Lightly touch the working arm's wrist with the fingertips of the free hand. Use only minimal assistance.",
+    "setup_instructions": "Method 1: Loop a thin band around the bar and place one foot in it \u2014 provides variable resistance assistance. Method 2: Lightly touch the working arm's wrist with the fingertips of the free hand. Use only minimal assistance.",
     "steps": [
       "Step 1: Begin hanging from one arm, opposite hand providing minimal assistance.",
       "Step 2: Depress and retract the working shoulder blade.",
       "Step 3: Pull the chest toward the bar by driving the working elbow down.",
       "Step 4: Continue until the chin clears the bar.",
-      "Step 5: Lower under control — the eccentric is as valuable as the concentric."
+      "Step 5: Lower under control \u2014 the eccentric is as valuable as the concentric."
     ],
     "breathing_instructions": "Exhale aggressively on the pull. Inhale on the controlled descent.",
     "common_mistakes": [
-      "Applying too much assistance — use the minimum needed to complete clean reps",
-      "Skipping negatives — the eccentric is essential for strength development"
+      "Applying too much assistance \u2014 use the minimum needed to complete clean reps",
+      "Skipping negatives \u2014 the eccentric is essential for strength development"
     ],
     "safety_considerations": [
       "Prerequisites: 15+ unassisted pull-ups. Progress extremely slowly.",
-      "High risk of elbow tendinopathy if volume is excessive — limit to 3-5 reps per side per session"
+      "High risk of elbow tendinopathy if volume is excessive \u2014 limit to 3-5 reps per side per session"
     ],
     "range_of_motion_guidance": "Full dead hang to chin above bar.",
     "tempo_recommendations": "Explosive concentric, 5s eccentric",
     "coaching_cues": [
       "Use only a fingertip's worth of assistance",
       "Own every inch of the descent",
-      "Keep the free arm close — do not reach across the body"
+      "Keep the free arm close \u2014 do not reach across the body"
     ]
   },
   "variants": {
@@ -65,21 +90,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 1, "max_reps": 5 }
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": { "strength": 240 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 240
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calisthenics", "advanced", "one-arm", "pull-up", "unilateral"]
+    "tags": [
+      "calisthenics",
+      "advanced",
+      "one-arm",
+      "pull-up",
+      "unilateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

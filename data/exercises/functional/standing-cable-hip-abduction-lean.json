@@ -1,7 +1,7 @@
 {
   "exercise_id": "dfeee757-1450-405d-a580-53e0af0289d5",
   "slug": "standing-cable-hip-abduction-lean",
-  "name": "Standing Cable Hip Abduction — Lateral Lean",
+  "name": "Standing Cable Hip Abduction \u2014 Lateral Lean",
   "alternative_names": [
     "Cable Hip Abduction Leaning",
     "Side Lean Cable Abduction"
@@ -59,20 +59,20 @@
     ],
     "breathing_instructions": "Exhale as you raise the leg. Inhale as you lower.",
     "common_mistakes": [
-      "Using the lean to gain extra range rather than to change the resistance angle — the lean should be modest and stable",
-      "Swinging the leg with momentum — controlled lift only",
+      "Using the lean to gain extra range rather than to change the resistance angle \u2014 the lean should be modest and stable",
+      "Swinging the leg with momentum \u2014 controlled lift only",
       "Using too much weight that forces compensation through the lower back"
     ],
     "safety_considerations": [
-      "The lean requires lateral trunk stability — do not lean so far that balance is compromised",
+      "The lean requires lateral trunk stability \u2014 do not lean so far that balance is compromised",
       "If lower back pain occurs during the leaned position, reduce the lean angle or perform the standard upright version"
     ],
-    "range_of_motion_guidance": "Raise to the point where hip abduction ends — approximately 30-45 degrees from midline.",
+    "range_of_motion_guidance": "Raise to the point where hip abduction ends \u2014 approximately 30-45 degrees from midline.",
     "tempo_recommendations": "2s lift, 2s hold, 3s lower.",
     "coaching_cues": [
-      "Feel the outer glute contracting — not the hip flexors or IT band",
+      "Feel the outer glute contracting \u2014 not the hip flexors or IT band",
       "The lean should feel like it stretches the glute of the working leg",
-      "Slow the return — the eccentric loading through the cable is constant all the way down"
+      "Slow the return \u2014 the eccentric loading through the cable is constant all the way down"
     ]
   },
   "variants": {
@@ -122,6 +122,9 @@
       "gluteus-medius",
       "functional",
       "lean"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

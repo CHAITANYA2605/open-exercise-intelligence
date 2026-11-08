@@ -47,20 +47,20 @@
     "breathing_instructions": "Exhale on the extension upward, inhale on the descent.",
     "common_mistakes": [
       "Using too much weight before the neck musculature is conditioned",
-      "Extending too far back — work to a comfortable, not maximum, range",
-      "Using jerky movement — controlled motion is essential"
+      "Extending too far back \u2014 work to a comfortable, not maximum, range",
+      "Using jerky movement \u2014 controlled motion is essential"
     ],
     "safety_considerations": [
-      "The neck harness must fit properly before loading — a poor fit can create dangerous force distribution",
+      "The neck harness must fit properly before loading \u2014 a poor fit can create dangerous force distribution",
       "Contraindicated with any cervical pathology",
-      "Build very slowly — weeks of unloaded neck work before adding harness resistance"
+      "Build very slowly \u2014 weeks of unloaded neck work before adding harness resistance"
     ],
     "range_of_motion_guidance": "Comfortable cervical flexion at the bottom to comfortable extension at the top.",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
       "Fit the harness correctly first",
       "Slow controlled movement always",
-      "Don't force range — work to comfortable extension"
+      "Don't force range \u2014 work to comfortable extension"
     ]
   },
   "variants": {
@@ -110,6 +110,9 @@
       "cervical-extension",
       "combat-sports",
       "strength"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

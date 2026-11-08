@@ -61,7 +61,7 @@
     "starting_position": "Stand with feet together, hands on hips or holding dumbbells at the sides.",
     "setup_instructions": "No equipment needed for bodyweight version. Dumbbells add load. Perform slowly and with control, especially as a beginner.",
     "steps": [
-      "Step 1: Take a large step backward and across the midline with one foot — as though performing a curtsy.",
+      "Step 1: Take a large step backward and across the midline with one foot \u2014 as though performing a curtsy.",
       "Step 2: Lower the rear knee toward the floor while keeping the front knee tracking over the front foot.",
       "Step 3: The front knee should track slightly to the outside as the hip of the front leg works against the adducted position of the rear foot.",
       "Step 4: Drive through the front heel to return to standing.",
@@ -74,7 +74,7 @@
       "Placing excessive bodyweight on the rear toes instead of using the front leg"
     ],
     "safety_considerations": [
-      "The crossed position can stress the knee ligaments if the knee tracks medially — ensure the front knee stays in line with or outside the foot",
+      "The crossed position can stress the knee ligaments if the knee tracks medially \u2014 ensure the front knee stays in line with or outside the foot",
       "Reduce stride width if balance is compromised"
     ],
     "range_of_motion_guidance": "Rear knee descends to just above the floor. Front shin remains mostly vertical.",
@@ -157,6 +157,9 @@
       "lunge",
       "glute-medius",
       "lateral-hip"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

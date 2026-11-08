@@ -62,15 +62,15 @@
     "setup_instructions": "Same as the goblet squat setup. The weight held at the chest acts as a counterbalance, promoting a more upright torso.",
     "steps": [
       "Step 1: Hold the weight at chest height. Core braced. Push the knees out over the toes.",
-      "Step 2: Descend to full depth — hips below knees if possible.",
-      "Step 3: Hold the bottom position for 2–5 seconds. Use the elbows to gently push the knees outward at the bottom. Breathe steadily.",
+      "Step 2: Descend to full depth \u2014 hips below knees if possible.",
+      "Step 3: Hold the bottom position for 2\u20135 seconds. Use the elbows to gently push the knees outward at the bottom. Breathe steadily.",
       "Step 4: Drive through the entire foot to return to standing.",
       "Step 5: Exhale at the top."
     ],
     "breathing_instructions": "Inhale before descent, breathe steadily through the pause, exhale on the ascent.",
     "common_mistakes": [
-      "Heels rising at the bottom — caused by insufficient ankle dorsiflexion",
-      "Lumbar rounding at depth — reduce weight or elevate heels slightly",
+      "Heels rising at the bottom \u2014 caused by insufficient ankle dorsiflexion",
+      "Lumbar rounding at depth \u2014 reduce weight or elevate heels slightly",
       "Relaxing the knees inward during the pause"
     ],
     "safety_considerations": [
@@ -81,7 +81,7 @@
     "tempo_recommendations": "3-3-1-0 (3s descent, 3s pause, 1s ascent)",
     "coaching_cues": [
       "Elbows push knees apart at the bottom",
-      "Stay tight in the pause — don't sit and relax",
+      "Stay tight in the pause \u2014 don't sit and relax",
       "Drive up with your legs, not by leaning forward"
     ]
   },
@@ -161,6 +161,9 @@
       "beginner-friendly",
       "mobility",
       "technique"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

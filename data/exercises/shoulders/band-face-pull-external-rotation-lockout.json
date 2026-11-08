@@ -6,7 +6,7 @@
     "Band Face Pull ER Lockout",
     "Resistance Band Face Pull"
   ],
-  "description": "The band face pull with external rotation lockout adds an end-range external rotation hold to a standard face pull, training the infraspinatus and teres minor through their full available range and at peak contraction. The resistance band provides accommodating resistance — lighter at the start (less stretched) and progressively heavier as the band stretches at end range — which matches the strength curve of the external rotators, applying peak load at peak contraction.",
+  "description": "The band face pull with external rotation lockout adds an end-range external rotation hold to a standard face pull, training the infraspinatus and teres minor through their full available range and at peak contraction. The resistance band provides accommodating resistance \u2014 lighter at the start (less stretched) and progressively heavier as the band stretches at end range \u2014 which matches the strength curve of the external rotators, applying peak load at peak contraction.",
   "category": "rehabilitation",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -19,7 +19,7 @@
   "muscles": {
     "primary": [
       {
-        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
         "muscle_slug": "infraspinatus"
       }
     ],
@@ -45,25 +45,25 @@
     "steps": [
       "Step 1: Begin with arms extended, band under tension.",
       "Step 2: Pull the band toward the face, leading with the elbows flaring outward and upward to shoulder height.",
-      "Step 3: As the hands reach the face, externally rotate the shoulders — thumbs point behind you, hands above elbows.",
+      "Step 3: As the hands reach the face, externally rotate the shoulders \u2014 thumbs point behind you, hands above elbows.",
       "Step 4: Hold the lockout position (full external rotation) for 2-3 seconds.",
       "Step 5: Reverse to the starting position under control."
     ],
     "breathing_instructions": "Exhale pulling and rotating. Inhale returning.",
     "common_mistakes": [
-      "Skipping the external rotation — just pulling to the face without the ER misses the key benefit",
+      "Skipping the external rotation \u2014 just pulling to the face without the ER misses the key benefit",
       "Elbows dropping below shoulder height during the pull"
     ],
     "safety_considerations": [
-      "Light band resistance — this is a posture and rotator cuff health exercise",
+      "Light band resistance \u2014 this is a posture and rotator cuff health exercise",
       "High volume is safe and appropriate for warm-up sets (20-30 reps)"
     ],
     "range_of_motion_guidance": "Full band extension to full external rotation lockout at face height.",
     "tempo_recommendations": "2-3-2-0",
     "coaching_cues": [
-      "Pull to your nose — not your chin or forehead",
+      "Pull to your nose \u2014 not your chin or forehead",
       "Thumbs behind you at the lockout",
-      "Hold it — 2-3 seconds of external rotation"
+      "Hold it \u2014 2-3 seconds of external rotation"
     ]
   },
   "variants": {
@@ -114,6 +114,9 @@
       "external-rotation",
       "rotator-cuff",
       "rehabilitation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -6,6 +6,23 @@
 [![Data: CC0](https://img.shields.io/badge/Data-CC0_1.0-green.svg)](LICENSING.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+> **v0.9.0-beta** — All 866 exercises are AI-generated and unreviewed. Suitable for development and prototyping. See [RELEASE-GATE-v1.0.0.md](RELEASE-GATE-v1.0.0.md) for the path to a production-ready v1.0.0 release.
+
+---
+
+## Release Status
+
+| Version | Status | Dataset | SDKs |
+|---|---|---|---|
+| **v0.9.0-beta** | ✅ Current | 866 AI-generated, UNREVIEWED | Local use only |
+| v0.9.5-beta | Planned | ≥200 APPROVED exercises | Local use only |
+| v1.0.0-rc | Planned | ≥500 APPROVED exercises | npm + PyPI published |
+| v1.0.0 | Target | All P0 gates passed | All SDKs verified |
+
+- Release gate checklist: [RELEASE-GATE-v1.0.0.md](RELEASE-GATE-v1.0.0.md)
+- Known variant cycle issues: [docs/variant-cycles.md](docs/variant-cycles.md)
+- Release notes: [RELEASE-NOTES-0.9.0-beta.md](RELEASE-NOTES-0.9.0-beta.md)
+
 ---
 
 ## Introduction

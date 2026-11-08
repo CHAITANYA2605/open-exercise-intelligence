@@ -80,7 +80,7 @@
     "range_of_motion_guidance": "Full depth to where the chest nearly touches the floor, full lockout at the top. No torso rotation at any point.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "Keep the hip square — don't twist",
+      "Keep the hip square \u2014 don't twist",
       "Press straight down through the floor",
       "Wider feet = easier; use to build up"
     ]
@@ -152,6 +152,9 @@
       "unilateral",
       "advanced",
       "calisthenics"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

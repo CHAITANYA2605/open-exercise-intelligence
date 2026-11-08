@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e007-4000-a000-000000000107",
   "slug": "toes-to-bar",
   "name": "Toes to Bar",
-  "alternative_names": ["Toes-to-Bar", "TTB"],
+  "alternative_names": [
+    "Toes-to-Bar",
+    "TTB"
+  ],
   "description": "Toes to bar is a hanging core exercise performed from a pull-up bar in which the athlete raises both legs simultaneously until the toes make contact with the bar. The movement demands strong hip flexor force production, full rectus abdominis tension to posteriorly tilt the pelvis, and sufficient lat engagement to stabilize the shoulder girdle against the upward leg drive. It is a staple exercise in CrossFit and gymnastics conditioning programs.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,22 +18,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
-  "equipment_optional": ["eq000019-0000-4000-a000-000000000019", "eq000020-0000-4000-a000-000000000020"],
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [
+    "eq000019-0000-4000-a000-000000000019",
+    "eq000020-0000-4000-a000-000000000020"
+  ],
   "execution": {
     "starting_position": "Hang from a pull-up bar with an overhand grip at shoulder-width or slightly wider. Arms fully extended, body in a controlled dead hang.",
     "setup_instructions": "Use a secure pull-up bar. Chalk improves grip. Begin with hanging knee raises if unable to perform the full movement.",
@@ -45,18 +77,18 @@
     "common_mistakes": [
       "Using excessive kipping (swinging momentum) which reduces core demand",
       "Bending the knees to reach the bar instead of using straight-leg form",
-      "Failing to engage the lats — the shoulders should not shrug to the ears"
+      "Failing to engage the lats \u2014 the shoulders should not shrug to the ears"
     ],
     "safety_considerations": [
-      "Grip failure can cause falls — use chalk and ensure the bar is secure.",
+      "Grip failure can cause falls \u2014 use chalk and ensure the bar is secure.",
       "Build from hanging knee raises and hanging leg raises progressively."
     ],
     "range_of_motion_guidance": "Full range requires the toes to touch the bar. Partial range (legs to 90 degrees) is an acceptable progression.",
-    "tempo_recommendations": "1–2 second concentric, 2 second eccentric. Avoid uncontrolled bouncing at the bottom.",
+    "tempo_recommendations": "1\u20132 second concentric, 2 second eccentric. Avoid uncontrolled bouncing at the bottom.",
     "coaching_cues": [
       "Squeeze the bar hard and pull lats down",
-      "Curl the tailbone up — not just the legs",
-      "Toes reach for the bar — do not let the bar come down to your toes"
+      "Curl the tailbone up \u2014 not just the legs",
+      "Toes reach for the bar \u2014 do not let the bar come down to your toes"
     ]
   },
   "variants": {
@@ -68,23 +100,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 12},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 120, "endurance": 60},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "hanging", "calisthenics", "advanced", "crossfit"]
+    "tags": [
+      "core",
+      "hanging",
+      "calisthenics",
+      "advanced",
+      "crossfit"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

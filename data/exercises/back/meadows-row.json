@@ -70,13 +70,13 @@
     ],
     "breathing_instructions": "Exhale forcefully as you row the bar up. Inhale as you lower it.",
     "common_mistakes": [
-      "Allowing the torso to rotate excessively — it should be relatively stable",
+      "Allowing the torso to rotate excessively \u2014 it should be relatively stable",
       "Pulling toward the chest rather than the hip, losing lat emphasis",
       "Using too much momentum from the lower body to initiate the row"
     ],
     "safety_considerations": [
       "Ensure the barbell is securely wedged to prevent slipping during the movement",
-      "Maintain a braced core and neutral spine throughout — the hip hinge position taxes the lower back"
+      "Maintain a braced core and neutral spine throughout \u2014 the hip hinge position taxes the lower back"
     ],
     "range_of_motion_guidance": "Full arm extension at the start to elbow above torso level at the top. Maximize scapular excursion.",
     "tempo_recommendations": "1-1-2-0 (1s pull, 1s hold, 2s eccentric)",
@@ -144,6 +144,9 @@
       "unilateral",
       "row",
       "lat"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,10 @@
   "exercise_id": "7f791e92-238d-4807-b015-8f6244ab8716",
   "slug": "towel-grip-cable-seated-row",
   "name": "Towel-Grip Cable Seated Row",
-  "alternative_names": ["Towel Cable Row", "Rope Towel Seated Row"],
+  "alternative_names": [
+    "Towel Cable Row",
+    "Rope Towel Seated Row"
+  ],
   "description": "The towel-grip cable seated row loops a gym towel through the cable attachment and grips both ends, dramatically increasing grip and forearm activation compared to standard handles. The towel's unstable, compressible surface requires constant grip force throughout each rep, adding a significant forearm training stimulus to the standard lat and upper back benefits of the seated cable row.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Loop a gym towel through the cable carabiner. Sit at the cable row station, feet on the footplate. Grip both ends of the towel. Lean back slightly, arms extended.",
-    "setup_instructions": "Use a hand towel or wrist-sized rope for the grip. Ensure the towel is threaded securely through the attachment. Set weight lower than a standard handle row — the grip will fatigue earlier.",
+    "setup_instructions": "Use a hand towel or wrist-sized rope for the grip. Ensure the towel is threaded securely through the attachment. Set weight lower than a standard handle row \u2014 the grip will fatigue earlier.",
     "steps": [
       "Step 1: Sit tall and grip both towel ends firmly.",
       "Step 2: Depress and retract the shoulder blades to initiate.",
@@ -40,11 +60,11 @@
     ],
     "breathing_instructions": "Exhale on the row. Inhale returning.",
     "common_mistakes": [
-      "Grip loosening mid-set — squeeze the towel continuously",
-      "Not using the towel's instability as a training stimulus — it should feel different from a standard handle"
+      "Grip loosening mid-set \u2014 squeeze the towel continuously",
+      "Not using the towel's instability as a training stimulus \u2014 it should feel different from a standard handle"
     ],
     "safety_considerations": [
-      "Inspect the towel for fraying — a torn towel snapping under load can cause injury",
+      "Inspect the towel for fraying \u2014 a torn towel snapping under load can cause injury",
       "Use a durable gym towel, not a thin household towel"
     ],
     "range_of_motion_guidance": "Full arm extension to elbows behind torso.",
@@ -64,21 +84,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 8, "max_reps": 12 }
+      {
+        "goal": "strength",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "strength": 90 },
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "row", "towel-grip", "forearm", "grip-strength"]
+    "tags": [
+      "cable",
+      "row",
+      "towel-grip",
+      "forearm",
+      "grip-strength"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

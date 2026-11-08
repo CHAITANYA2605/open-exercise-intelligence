@@ -61,17 +61,17 @@
     "breathing_instructions": "Exhale as the bottom leg lifts. Inhale on the return.",
     "common_mistakes": [
       "Using momentum or hip flexion rather than pure adduction",
-      "Not controlling the eccentric — the lowering phase is where the injury-prevention benefit occurs",
+      "Not controlling the eccentric \u2014 the lowering phase is where the injury-prevention benefit occurs",
       "Bench set too high, which reduces the adductor load"
     ],
     "safety_considerations": [
-      "High load exercise — begin with isometric holds before the dynamic version",
+      "High load exercise \u2014 begin with isometric holds before the dynamic version",
       "In acute adductor strain, start very conservatively and progress by clinical guidance"
     ],
     "range_of_motion_guidance": "Lift the bottom leg from hanging below the bench to meeting the top leg. The key is the eccentric control on the way down.",
-    "tempo_recommendations": "2-second lift, 2-second hold, 3-second lower. 8–12 reps × 2–3 sets per side.",
+    "tempo_recommendations": "2-second lift, 2-second hold, 3-second lower. 8\u201312 reps \u00d7 2\u20133 sets per side.",
     "coaching_cues": [
-      "Focus on the slow, controlled lowering — that is the key training stimulus",
+      "Focus on the slow, controlled lowering \u2014 that is the key training stimulus",
       "Do not let the bottom leg just drop",
       "Think about squeezing the inner thighs together"
     ]
@@ -124,6 +124,9 @@
       "hip",
       "intermediate",
       "injury-prevention"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -71,16 +71,16 @@
     ],
     "breathing_instructions": "Breathe regularly throughout the drag. Short, rhythmic breathing with each backward step.",
     "common_mistakes": [
-      "Allowing the straps to go slack between steps — this loses the continuous tension that makes the exercise effective",
-      "Walking with very short shuffle steps — full backward strides produce more hip and hamstring demand",
+      "Allowing the straps to go slack between steps \u2014 this loses the continuous tension that makes the exercise effective",
+      "Walking with very short shuffle steps \u2014 full backward strides produce more hip and hamstring demand",
       "Looking down rather than forward/backward, which disrupts posture and balance"
     ],
     "safety_considerations": [
       "Glance over the shoulder regularly to check for obstacles in the backward path",
       "Use this exercise on a clear, flat surface"
     ],
-    "range_of_motion_guidance": "Walk 20–40 metres per set. Full stride length backward. Continuous strap tension.",
-    "tempo_recommendations": "Rehabilitation/prehab: light load, 30–40m × 4–6 sets with 60 seconds rest. Conditioning: moderate load, 20m × 6–8 sets with 60–90 seconds rest.",
+    "range_of_motion_guidance": "Walk 20\u201340 metres per set. Full stride length backward. Continuous strap tension.",
+    "tempo_recommendations": "Rehabilitation/prehab: light load, 30\u201340m \u00d7 4\u20136 sets with 60 seconds rest. Conditioning: moderate load, 20m \u00d7 6\u20138 sets with 60\u201390 seconds rest.",
     "coaching_cues": [
       "Keep the straps taut at all times",
       "Take big backward strides",
@@ -135,6 +135,9 @@
       "hamstrings",
       "no-eccentric",
       "rehabilitation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -6,7 +6,7 @@
     "Crossover Cable Rear Delt Row",
     "X-Cable Rear Delt Pull"
   ],
-  "description": "The cross-cable rear delt row uses a cable crossover station with the cables set at upper chest height and crossed (right hand grips left cable, left hand grips right cable). The crossed configuration creates a unique pulling vector that emphasizes horizontal abduction with an adducted scapular endpoint, maximally loading the posterior deltoid and rhomboids through the full range of motion. The cable tension remains constant through the entire pull — unlike dumbbells, which lose tension at the beginning of the movement.",
+  "description": "The cross-cable rear delt row uses a cable crossover station with the cables set at upper chest height and crossed (right hand grips left cable, left hand grips right cable). The crossed configuration creates a unique pulling vector that emphasizes horizontal abduction with an adducted scapular endpoint, maximally loading the posterior deltoid and rhomboids through the full range of motion. The cable tension remains constant through the entire pull \u2014 unlike dumbbells, which lose tension at the beginning of the movement.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "intermediate",
@@ -35,7 +35,7 @@
     ],
     "stabilizers": [
       {
-        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
         "muscle_slug": "infraspinatus"
       }
     ]
@@ -45,7 +45,7 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Stand in the center of a cable crossover machine. Set both pulleys to upper chest height. Cross the cables — grip the right cable handle with the left hand and the left cable handle with the right hand. Arms extended forward at chest height.",
+    "starting_position": "Stand in the center of a cable crossover machine. Set both pulleys to upper chest height. Cross the cables \u2014 grip the right cable handle with the left hand and the left cable handle with the right hand. Arms extended forward at chest height.",
     "setup_instructions": "Moderate weight on each stack. Stand with feet staggered slightly for balance.",
     "steps": [
       "Step 1: Begin with arms extended forward, cables crossed at chest height.",
@@ -56,17 +56,17 @@
     ],
     "breathing_instructions": "Exhale pulling back. Inhale returning.",
     "common_mistakes": [
-      "Elbows dropping below shoulder level — keep them at shoulder height throughout",
+      "Elbows dropping below shoulder level \u2014 keep them at shoulder height throughout",
       "Using torso rotation to generate momentum"
     ],
     "safety_considerations": [
-      "Moderate load — the constant cable tension accumulates quickly",
+      "Moderate load \u2014 the constant cable tension accumulates quickly",
       "Keep the core braced to avoid torso rotation"
     ],
     "range_of_motion_guidance": "Full extension (cables crossed at chest) to full horizontal abduction (hands at sides).",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Elbows at shoulder height — not dropping",
+      "Elbows at shoulder height \u2014 not dropping",
       "Pull apart like you're opening a door wide",
       "Squeeze the rear delts at the endpoint"
     ]
@@ -118,6 +118,9 @@
       "crossover",
       "row",
       "posterior-deltoid"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

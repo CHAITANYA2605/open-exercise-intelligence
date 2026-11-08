@@ -37,7 +37,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Adjust the seat height so the pivot of the machine aligns with the shoulder joint. Sit upright and position the arms against the pads (elbows bent to 90 degrees or arms straight depending on machine type).",
-    "setup_instructions": "Pivot alignment is critical — align the machine's axis of rotation with your shoulder joint before each set.",
+    "setup_instructions": "Pivot alignment is critical \u2014 align the machine's axis of rotation with your shoulder joint before each set.",
     "steps": [
       "Step 1: Sit with correct seat height; elbows or wrists positioned against the pads.",
       "Step 2: Starting from a lowered position, raise the arms out to the sides.",
@@ -47,7 +47,7 @@
     ],
     "breathing_instructions": "Exhale on the raise, inhale on the descent.",
     "common_mistakes": [
-      "Incorrect seat height — misalignment reduces effectiveness and can irritate the shoulder",
+      "Incorrect seat height \u2014 misalignment reduces effectiveness and can irritate the shoulder",
       "Using momentum to initiate the movement",
       "Not lowering fully between reps"
     ],
@@ -58,7 +58,7 @@
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
       "Align the pivot point with your shoulder first",
-      "Slow and controlled — especially on the way down",
+      "Slow and controlled \u2014 especially on the way down",
       "No shrugging"
     ]
   },
@@ -109,6 +109,9 @@
       "machine",
       "isolation",
       "medial-deltoid"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

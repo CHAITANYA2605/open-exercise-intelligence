@@ -53,7 +53,7 @@
   ],
   "execution": {
     "starting_position": "Lie on a flat bench holding a light dumbbell in each hand, arms at the sides of the body near the hips, palms facing up.",
-    "setup_instructions": "Use a very light dumbbell — far lighter than you would for a dumbbell fly. Lie flat with arms alongside the body.",
+    "setup_instructions": "Use a very light dumbbell \u2014 far lighter than you would for a dumbbell fly. Lie flat with arms alongside the body.",
     "steps": [
       "Step 1: Begin with the dumbbells at the sides of your hips, palms facing upward.",
       "Step 2: Sweep both arms out to the sides in a wide arc, keeping them close to the bench surface.",
@@ -68,7 +68,7 @@
       "Bending the elbows significantly"
     ],
     "safety_considerations": [
-      "Keep weights very light — this is a mobility and isolation exercise, not a loading exercise",
+      "Keep weights very light \u2014 this is a mobility and isolation exercise, not a loading exercise",
       "Avoid this exercise if you have shoulder impingement",
       "Perform slowly and with full control"
     ],
@@ -142,6 +142,9 @@
       "mobility",
       "light",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

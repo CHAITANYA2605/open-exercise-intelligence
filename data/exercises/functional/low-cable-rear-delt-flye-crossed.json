@@ -1,12 +1,12 @@
 {
   "exercise_id": "dece5336-79ed-4484-bc89-6e591c7e4755",
   "slug": "low-cable-rear-delt-flye-crossed",
-  "name": "Low Cable Rear Delt Flye — Crossed Cables",
+  "name": "Low Cable Rear Delt Flye \u2014 Crossed Cables",
   "alternative_names": [
     "Cable Face Pull Rear Delt Crossed",
     "Cross-Cable Rear Delt Flye"
   ],
-  "description": "A posterior deltoid isolation exercise using two low cable pulleys with the cables crossed — the right hand holds the left pulley's handle and the left hand holds the right pulley's handle. This crossing creates a unique starting position where the arms are crossed in front of the body, allowing a greater stretch on the rear deltoid and infraspinatus before each repetition. The cross-cable setup also changes the resistance angle compared to standard cable rear delt flyes, targeting the posterior deltoid through a different force vector.",
+  "description": "A posterior deltoid isolation exercise using two low cable pulleys with the cables crossed \u2014 the right hand holds the left pulley's handle and the left hand holds the right pulley's handle. This crossing creates a unique starting position where the arms are crossed in front of the body, allowing a greater stretch on the rear deltoid and infraspinatus before each repetition. The cross-cable setup also changes the resistance angle compared to standard cable rear delt flyes, targeting the posterior deltoid through a different force vector.",
   "category": "functional",
   "exercise_type": "isolation",
   "difficulty_level": "intermediate",
@@ -54,9 +54,9 @@
     ],
     "breathing_instructions": "Exhale as you pull outward. Inhale as you return to the crossed position.",
     "common_mistakes": [
-      "Bending the elbows significantly — keep them mostly straight (slight soft bend) throughout",
+      "Bending the elbows significantly \u2014 keep them mostly straight (slight soft bend) throughout",
       "Using upper traps and shrugging to assist the pull",
-      "Letting the cables snap back — control the return to the crossed position"
+      "Letting the cables snap back \u2014 control the return to the crossed position"
     ],
     "safety_considerations": [
       "Ensure both pulleys are set to equal weight before starting",
@@ -66,8 +66,8 @@
     "tempo_recommendations": "2s pull outward, 1s hold, 3s slow return to crossed position.",
     "coaching_cues": [
       "Think of trying to show the cables to the wall behind you at the top of the movement",
-      "The rear deltoid is the primary mover — not the upper back",
-      "The crossed starting position gives you a greater stretch — do not rush through it"
+      "The rear deltoid is the primary mover \u2014 not the upper back",
+      "The crossed starting position gives you a greater stretch \u2014 do not rush through it"
     ]
   },
   "variants": {
@@ -117,6 +117,9 @@
       "cross-cable",
       "functional",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

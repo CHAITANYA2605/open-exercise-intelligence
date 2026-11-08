@@ -7,6 +7,27 @@ Dataset versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.9.0-beta] - 2026-11-08
+### Added
+- 866 CC0 exercise records (AI-generated, unreviewed) across 9 categories
+- Muscle taxonomy (75 muscles), equipment registry (50 items)
+- Full-text search engine with partial match, muscle aliases, relevance scoring
+- JavaScript/TypeScript, Python, Java, Dart/Flutter SDKs
+- Spring Boot REST API (Java 21) with 11 endpoints
+- React developer portal (Vite + Tailwind)
+- GitHub Actions CI (validate-dataset, validate-media, build-api, test-search)
+- Exercise review workflow infrastructure
+- 4-dimension dataset health scoring
+- UUID v4 migration (414 exercises corrected)
+- Category taxonomy unification (9 canonical categories)
+
+### Known limitations
+- All exercises are UNREVIEWED — requires human expert review for v1.0.0
+- JS and Python SDKs not yet published to npm/PyPI
+- 3 variant cycle relationships need human resolution
+
+---
+
 ## [1.0.0] — 2026-11-08
 
 ### Added

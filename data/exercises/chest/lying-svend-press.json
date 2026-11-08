@@ -61,13 +61,13 @@
       "Flaring the elbows wide rather than keeping them somewhat tucked"
     ],
     "safety_considerations": [
-      "Light loads only — this is a finishing or isolation exercise",
-      "If using round dumbbells, they may slip — hex preferred"
+      "Light loads only \u2014 this is a finishing or isolation exercise",
+      "If using round dumbbells, they may slip \u2014 hex preferred"
     ],
     "range_of_motion_guidance": "Full arm extension at top; controlled return to chest.",
     "tempo_recommendations": "2-1-2-1",
     "coaching_cues": [
-      "Constant squeeze — no relaxation between reps",
+      "Constant squeeze \u2014 no relaxation between reps",
       "Feel the inner chest working"
     ]
   },
@@ -116,6 +116,9 @@
       "inner-chest",
       "finisher",
       "adduction"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

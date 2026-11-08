@@ -7,7 +7,7 @@
     "Dumbbell Farmer's Walk",
     "Kettlebell Farmer's Walk"
   ],
-  "description": "The farmer's walk involves gripping a heavy implement in each hand — typically farmer's walk handles, dumbbells, or kettlebells — and walking a prescribed distance under that loaded bilateral carry. It simultaneously trains grip strength, trapezius endurance, core anti-lateral flexion stability, and cardiovascular capacity, making it one of the most efficient total-body strength and conditioning exercises available. The bilateral loaded carry pattern has direct functional carryover to any task requiring the transport of heavy objects.",
+  "description": "The farmer's walk involves gripping a heavy implement in each hand \u2014 typically farmer's walk handles, dumbbells, or kettlebells \u2014 and walking a prescribed distance under that loaded bilateral carry. It simultaneously trains grip strength, trapezius endurance, core anti-lateral flexion stability, and cardiovascular capacity, making it one of the most efficient total-body strength and conditioning exercises available. The bilateral loaded carry pattern has direct functional carryover to any task requiring the transport of heavy objects.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -73,7 +73,7 @@
   ],
   "execution": {
     "starting_position": "The implements are placed on the floor on either side of the body. Stand between them in an athletic stance. Hinge at the hips and grip one implement in each hand.",
-    "setup_instructions": "Choose a weight that allows an upright walking posture — if the torso is visibly leaning laterally, the weight is too heavy. For farmer's walk handles (competition equipment), load plates evenly on both sides.",
+    "setup_instructions": "Choose a weight that allows an upright walking posture \u2014 if the torso is visibly leaning laterally, the weight is too heavy. For farmer's walk handles (competition equipment), load plates evenly on both sides.",
     "steps": [
       "Step 1: Deadlift both implements from the floor simultaneously. Stand tall with the implements hanging at the sides.",
       "Step 2: Brace the core, retract the shoulder blades, and begin walking with controlled, quick steps.",
@@ -81,20 +81,20 @@
       "Step 4: Keep the gaze forward and walk at a brisk pace for the target distance.",
       "Step 5: At the end of the distance, slow down, then hinge at the hips to lower the implements to the floor safely."
     ],
-    "breathing_instructions": "Breathe short and regularly throughout the carry. Do not hold the breath for extended durations — take controlled breaths every 2–3 steps.",
+    "breathing_instructions": "Breathe short and regularly throughout the carry. Do not hold the breath for extended durations \u2014 take controlled breaths every 2\u20133 steps.",
     "common_mistakes": [
       "Letting the shoulders round forward and down, which loses trap tension and can strain the shoulder girdle",
-      "Walking with long, slow strides — shorter, quicker steps are more stable and efficient",
+      "Walking with long, slow strides \u2014 shorter, quicker steps are more stable and efficient",
       "Looking down, which causes spinal flexion and balance disruption"
     ],
     "safety_considerations": [
-      "If the grip fails during the walk, let the implements drop to the sides — do not attempt to catch them awkwardly",
-      "Clear the walking path before beginning — trip hazards are especially dangerous under heavy bilateral loading"
+      "If the grip fails during the walk, let the implements drop to the sides \u2014 do not attempt to catch them awkwardly",
+      "Clear the walking path before beginning \u2014 trip hazards are especially dangerous under heavy bilateral loading"
     ],
-    "range_of_motion_guidance": "Walk 20–50 metres per set for training. Competition distances vary (15–25 metres for single lengths). Grip the implement firmly throughout.",
-    "tempo_recommendations": "Strength carry: 20–30m × 4–6 sets at heavy load. Conditioning carry: 40–60m at moderate load × 4–6 sets. Rest 90–120 seconds between sets.",
+    "range_of_motion_guidance": "Walk 20\u201350 metres per set for training. Competition distances vary (15\u201325 metres for single lengths). Grip the implement firmly throughout.",
+    "tempo_recommendations": "Strength carry: 20\u201330m \u00d7 4\u20136 sets at heavy load. Conditioning carry: 40\u201360m at moderate load \u00d7 4\u20136 sets. Rest 90\u2013120 seconds between sets.",
     "coaching_cues": [
-      "Stand tall — imagine a rod through the spine",
+      "Stand tall \u2014 imagine a rod through the spine",
       "Quick feet, not big strides",
       "Crush the handles and retract the shoulder blades"
     ]
@@ -158,6 +158,9 @@
       "grip",
       "functional",
       "conditioning"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

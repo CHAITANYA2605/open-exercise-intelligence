@@ -59,9 +59,9 @@
     ],
     "breathing_instructions": "Exhale during the curl. Inhale during the return.",
     "common_mistakes": [
-      "Lifting the hip off the floor during the curl — the hip must stay flat",
+      "Lifting the hip off the floor during the curl \u2014 the hip must stay flat",
       "Using a cable tension so high that full range of motion is compromised",
-      "Rushing the eccentric — the slow return is where most of the hypertrophy stimulus occurs"
+      "Rushing the eccentric \u2014 the slow return is where most of the hypertrophy stimulus occurs"
     ],
     "safety_considerations": [
       "Ensure the ankle cuff is securely attached before starting",
@@ -70,9 +70,9 @@
     "range_of_motion_guidance": "Full extension at the bottom. Maximum knee flexion (heel to glute) at the top.",
     "tempo_recommendations": "2s curl, 1s hold, 3s slow eccentric return.",
     "coaching_cues": [
-      "Keep the hip flat — do not let it rise during the curl",
-      "Feel the hamstring pull the heel toward the glute — not the glute squeezing the heel up",
-      "Slow on the way down — the cable fights you all the way back to the start"
+      "Keep the hip flat \u2014 do not let it rise during the curl",
+      "Feel the hamstring pull the heel toward the glute \u2014 not the glute squeezing the heel up",
+      "Slow on the way down \u2014 the cable fights you all the way back to the start"
     ]
   },
   "variants": {
@@ -122,6 +122,9 @@
       "leg-curl",
       "functional",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

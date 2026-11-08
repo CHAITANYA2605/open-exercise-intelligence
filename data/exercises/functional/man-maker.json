@@ -6,7 +6,7 @@
     "Dumbbell Man Maker",
     "Man-Maker Complex"
   ],
-  "description": "The man maker is a multi-movement dumbbell complex in which the athlete performs a push-up, a renegade row on each arm, a squat clean, and an overhead press — all in a single continuous sequence without putting the dumbbells down. It demands upper body pushing and pulling strength, anti-rotation core stability during the row, and total body power during the clean, making it one of the most comprehensive single-exercise conditioning movements available. It is used in advanced circuit training and high-intensity conditioning programs.",
+  "description": "The man maker is a multi-movement dumbbell complex in which the athlete performs a push-up, a renegade row on each arm, a squat clean, and an overhead press \u2014 all in a single continuous sequence without putting the dumbbells down. It demands upper body pushing and pulling strength, anti-rotation core stability during the row, and total body power during the clean, making it one of the most comprehensive single-exercise conditioning movements available. It is used in advanced circuit training and high-intensity conditioning programs.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -77,26 +77,26 @@
     "setup_instructions": "Use matching fixed dumbbells of moderate weight. Ensure adequate floor space.",
     "steps": [
       "Step 1: Begin in a push-up position gripping both dumbbells on the floor.",
-      "Step 2: Perform one push-up — lower the chest to the floor and press back up.",
-      "Step 3: Perform a renegade row with the right arm — pull the right dumbbell to the hip while balancing on the left.",
+      "Step 2: Perform one push-up \u2014 lower the chest to the floor and press back up.",
+      "Step 3: Perform a renegade row with the right arm \u2014 pull the right dumbbell to the hip while balancing on the left.",
       "Step 4: Perform a renegade row with the left arm.",
       "Step 5: Jump or step the feet forward to a squat position, clean the dumbbells to shoulder height, then press them overhead. That is one full rep."
     ],
     "breathing_instructions": "Exhale on each push phase (push-up, row pull, press). Inhale between movements.",
     "common_mistakes": [
-      "Rotating the hips during the renegade row — the hips must remain square to the floor",
+      "Rotating the hips during the renegade row \u2014 the hips must remain square to the floor",
       "Using momentum rather than strength during the row phase",
-      "Rushing the transitions between movements — control each phase"
+      "Rushing the transitions between movements \u2014 control each phase"
     ],
     "safety_considerations": [
-      "Very high demand on the shoulder girdle and core — a prerequisite of proficiency in all component movements.",
+      "Very high demand on the shoulder girdle and core \u2014 a prerequisite of proficiency in all component movements.",
       "Wrist neutral grip (dumbbells parallel to the body) reduces wrist stress in the push-up phase."
     ],
     "range_of_motion_guidance": "Full push-up range. Full row elbow retraction. Full overhead lockout on the press.",
-    "tempo_recommendations": "3–8 reps per set. Full recovery between sets — this is a maximal-effort complex.",
+    "tempo_recommendations": "3\u20138 reps per set. Full recovery between sets \u2014 this is a maximal-effort complex.",
     "coaching_cues": [
       "Hips square during the row",
-      "Clean up — don't swing",
+      "Clean up \u2014 don't swing",
       "Lock out the press fully overhead"
     ]
   },
@@ -150,6 +150,9 @@
       "full-body",
       "conditioning",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

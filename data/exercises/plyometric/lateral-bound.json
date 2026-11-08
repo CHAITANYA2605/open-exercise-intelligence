@@ -69,19 +69,19 @@
     ],
     "breathing_instructions": "Exhale on each bound takeoff. Breathe during the momentary pause between bounds.",
     "common_mistakes": [
-      "Landing with the knee caving inward (valgus collapse) — the hip must actively control alignment",
+      "Landing with the knee caving inward (valgus collapse) \u2014 the hip must actively control alignment",
       "Not pausing to stabilize on landing before rebounding",
-      "Pushing off with both feet — this must be a single-leg drive"
+      "Pushing off with both feet \u2014 this must be a single-leg drive"
     ],
     "safety_considerations": [
-      "Single-leg landing requires good hip and knee stability — regress to split-stance jumps if unable to control the single-leg landing.",
+      "Single-leg landing requires good hip and knee stability \u2014 regress to split-stance jumps if unable to control the single-leg landing.",
       "Ankle sprains risk on uneven or slippery surfaces."
     ],
     "range_of_motion_guidance": "Maximize lateral distance while maintaining control of the single-leg landing.",
-    "tempo_recommendations": "Explosive drive. Brief stable pause on landing. 6–10 bounds per set.",
+    "tempo_recommendations": "Explosive drive. Brief stable pause on landing. 6\u201310 bounds per set.",
     "coaching_cues": [
-      "One foot takeoff — drive to the side",
-      "Stick the landing — balance before you bound again",
+      "One foot takeoff \u2014 drive to the side",
+      "Stick the landing \u2014 balance before you bound again",
       "Knee stays over the toes on landing"
     ]
   },
@@ -132,6 +132,9 @@
       "lateral-power",
       "sport",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

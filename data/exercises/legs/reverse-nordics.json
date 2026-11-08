@@ -6,7 +6,7 @@
     "Reverse Nordic",
     "Quad Nordic"
   ],
-  "description": "The reverse Nordic curl is an eccentric quadriceps exercise in which the knees are on a padded surface, the feet are anchored, and the torso leans backward — the opposite direction of the Nordic hamstring curl. The rectus femoris is loaded eccentrically in its stretched position (hip extended, knee flexed) with the bodyweight acting as the resistance. It is one of the few exercises that trains the rectus femoris under hip-extension load with significant knee flexion, complementing the knee-extension exercises commonly used for quad training.",
+  "description": "The reverse Nordic curl is an eccentric quadriceps exercise in which the knees are on a padded surface, the feet are anchored, and the torso leans backward \u2014 the opposite direction of the Nordic hamstring curl. The rectus femoris is loaded eccentrically in its stretched position (hip extended, knee flexed) with the bodyweight acting as the resistance. It is one of the few exercises that trains the rectus femoris under hip-extension load with significant knee flexion, complementing the knee-extension exercises commonly used for quad training.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -61,7 +61,7 @@
     "setup_instructions": "Ankle anchoring is required. Use a partner holding the heels or secure the feet under a barbell. Generous knee padding is essential.",
     "steps": [
       "Step 1: Kneel upright with feet secured and hips fully extended. Hold the arms across the chest or overhead for progression.",
-      "Step 2: Begin to lean backward by allowing the knees to flex — the body leans away from the anchored feet.",
+      "Step 2: Begin to lean backward by allowing the knees to flex \u2014 the body leans away from the anchored feet.",
       "Step 3: The quadriceps eccentrically control the backward lean. Lower as far as quad strength allows.",
       "Step 4: Return to the upright kneeling position using the quadriceps concentrically, or use the hands to push off the floor if needed.",
       "Step 5: Complete the prescribed reps."
@@ -73,16 +73,16 @@
       "Not using knee padding, making the exercise unpleasant and unsustainable"
     ],
     "safety_considerations": [
-      "Severe DOMS is likely after first exposure — start with 2–3 short-range reps",
-      "Avoid if experiencing patellar tendinopathy — consult a clinician",
+      "Severe DOMS is likely after first exposure \u2014 start with 2\u20133 short-range reps",
+      "Avoid if experiencing patellar tendinopathy \u2014 consult a clinician",
       "If unable to control even a minimal backward lean, build quad strength with leg extensions before attempting"
     ],
-    "range_of_motion_guidance": "Lean as far back as quad strength controls. Begin with minimal range (10–20°) and build progressively.",
-    "tempo_recommendations": "5-0-1-0 — the eccentric (leaning back) is the entire stimulus; control it maximally",
+    "range_of_motion_guidance": "Lean as far back as quad strength controls. Begin with minimal range (10\u201320\u00b0) and build progressively.",
+    "tempo_recommendations": "5-0-1-0 \u2014 the eccentric (leaning back) is the entire stimulus; control it maximally",
     "coaching_cues": [
-      "Lean back as one unit — don't fold at the hip",
-      "Quads on — squeeze them to slow the fall",
-      "Catch with hands if needed — that's normal for beginners"
+      "Lean back as one unit \u2014 don't fold at the hip",
+      "Quads on \u2014 squeeze them to slow the fall",
+      "Catch with hands if needed \u2014 that's normal for beginners"
     ]
   },
   "variants": {
@@ -161,6 +161,9 @@
       "eccentric",
       "advanced",
       "calisthenics"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

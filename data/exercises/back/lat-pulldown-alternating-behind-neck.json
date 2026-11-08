@@ -2,7 +2,10 @@
   "exercise_id": "9bfae774-0082-4cc9-aacc-12c1aa333db4",
   "slug": "lat-pulldown-alternating-behind-neck",
   "name": "Alternating Lat Pulldown Behind Neck",
-  "alternative_names": ["Alternating Behind-Neck Pulldown", "Behind-Neck Alternating Pulldown"],
+  "alternative_names": [
+    "Alternating Behind-Neck Pulldown",
+    "Behind-Neck Alternating Pulldown"
+  ],
   "description": "The alternating behind-neck pulldown alternates each rep between pulling to the front (standard) and pulling behind the neck, targeting the lats and trapezius from slightly different angles within a single set. The behind-neck portion challenges the lower traps and upper rhomboids through a downward-angled scapular depression that the front pulldown angle does not fully replicate.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,42 +18,56 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Seated at a lat pulldown station with a wide grip bar. Arms extended overhead gripping the bar.",
-    "setup_instructions": "Use lighter weight than usual — behind-neck pulldowns have a shorter range of motion and require careful neck positioning.",
+    "setup_instructions": "Use lighter weight than usual \u2014 behind-neck pulldowns have a shorter range of motion and require careful neck positioning.",
     "steps": [
       "Step 1: Pull rep 1 to the front of the chest (standard pulldown).",
       "Step 2: Return to full extension.",
-      "Step 3: Pull rep 2 behind the neck — tilt the head forward slightly to avoid contact.",
+      "Step 3: Pull rep 2 behind the neck \u2014 tilt the head forward slightly to avoid contact.",
       "Step 4: Return to full extension.",
       "Step 5: Alternate front and behind-neck for the duration of the set."
     ],
     "breathing_instructions": "Exhale on each pull. Inhale on each return.",
     "common_mistakes": [
-      "Not tilting the head forward for the behind-neck pull — risks cervical spine impingement",
-      "Using heavy weight for the behind-neck portion — this is a moderate-load variation"
+      "Not tilting the head forward for the behind-neck pull \u2014 risks cervical spine impingement",
+      "Using heavy weight for the behind-neck portion \u2014 this is a moderate-load variation"
     ],
     "safety_considerations": [
       "The behind-neck pulldown is contraindicated for those with cervical spine issues",
-      "Always tilt the head forward — never pull the bar into the neck"
+      "Always tilt the head forward \u2014 never pull the bar into the neck"
     ],
     "range_of_motion_guidance": "Full arm extension to full lat contraction on each variation.",
     "tempo_recommendations": "2-1-2-0 each rep",
     "coaching_cues": [
       "Chin forward on behind-neck reps",
       "Same lat drive regardless of direction",
-      "Control the bar path — do not let it pull back up"
+      "Control the bar path \u2014 do not let it pull back up"
     ]
   },
   "variants": {
@@ -62,21 +79,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90 },
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["pulldown", "alternating", "behind-neck", "lat", "upper-back"]
+    "tags": [
+      "pulldown",
+      "alternating",
+      "behind-neck",
+      "lat",
+      "upper-back"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

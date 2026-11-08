@@ -19,7 +19,7 @@
   "muscles": {
     "primary": [
       {
-        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
         "muscle_slug": "infraspinatus"
       }
     ],
@@ -47,18 +47,18 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie face-down on an incline bench (30-45 degrees). Hold light dumbbells. Upper arms abducted to shoulder height, elbows bent 90 degrees, forearms hanging perpendicular to the floor.",
-    "setup_instructions": "Very light weight — 2-5 kg. This is a rotator cuff and shoulder health exercise.",
+    "setup_instructions": "Very light weight \u2014 2-5 kg. This is a rotator cuff and shoulder health exercise.",
     "steps": [
-      "Step 1: Begin in the scarecrow position — elbows at shoulder height, forearms hanging down.",
+      "Step 1: Begin in the scarecrow position \u2014 elbows at shoulder height, forearms hanging down.",
       "Step 2: Externally rotate both shoulders, raising the forearms until they are parallel to the floor (forearms now pointing forward).",
       "Step 3: From this horizontally extended position, press the dumbbells overhead to full arm extension.",
-      "Step 4: Reverse the sequence — lower overhead to horizontal, then internally rotate back to the scarecrow hang.",
+      "Step 4: Reverse the sequence \u2014 lower overhead to horizontal, then internally rotate back to the scarecrow hang.",
       "Step 5: Repeat."
     ],
     "breathing_instructions": "Exhale through the external rotation and press. Inhale on the return.",
     "common_mistakes": [
-      "Using too much weight — reduces the external rotation range of motion",
-      "Skipping the external rotation — pressing directly from the hang misses the rehabilitation benefit"
+      "Using too much weight \u2014 reduces the external rotation range of motion",
+      "Skipping the external rotation \u2014 pressing directly from the hang misses the rehabilitation benefit"
     ],
     "safety_considerations": [
       "Very light loads only",
@@ -67,9 +67,9 @@
     "range_of_motion_guidance": "Full external rotation range before pressing overhead.",
     "tempo_recommendations": "2-1-2-1",
     "coaching_cues": [
-      "Scarecrow arms first — elbows at shoulder height",
+      "Scarecrow arms first \u2014 elbows at shoulder height",
       "Rotate the forearms up before pressing",
-      "Reverse it on the way back — press down, then rotate the forearms back down"
+      "Reverse it on the way back \u2014 press down, then rotate the forearms back down"
     ]
   },
   "variants": {
@@ -120,6 +120,9 @@
       "prone",
       "rotator-cuff",
       "rehabilitation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

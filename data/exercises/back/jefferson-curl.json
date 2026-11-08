@@ -2,7 +2,10 @@
   "exercise_id": "e2f3a4b5-c6d7-4e8f-9a0b-1c2d3e4f5a6b",
   "slug": "jefferson-curl",
   "name": "Jefferson Curl",
-  "alternative_names": ["Loaded Spinal Flexion", "Jefferson Deadlift Stretch"],
+  "alternative_names": [
+    "Loaded Spinal Flexion",
+    "Jefferson Deadlift Stretch"
+  ],
   "description": "The Jefferson curl is a slow, controlled weighted spinal flexion exercise in which the lifter intentionally rounds the spine segment by segment from the neck downward while holding a light load. It is used in strength sports and gymnastics for building spinal flexion strength and hamstring flexibility under load. This exercise is controversial and is generally restricted to experienced trainees with no history of spinal disc pathology.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,32 +18,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
-      { "muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus" },
-      { "muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus" }
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
-  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "execution": {
     "starting_position": "Stand on a box or elevated surface with feet together and knees soft but mostly straight. Hold a very light dumbbell or kettlebell in both hands in front of the thighs.",
-    "setup_instructions": "Use a very light load — 5–15 kg is typically sufficient. Stand on a box so the hands can travel below foot level. Knees remain soft throughout.",
+    "setup_instructions": "Use a very light load \u2014 5\u201315 kg is typically sufficient. Stand on a box so the hands can travel below foot level. Knees remain soft throughout.",
     "steps": [
       "Step 1: Begin standing with the weight held in front. Take a breath.",
-      "Step 2: Tuck the chin to chest and begin to curl the spine downward, one vertebra at a time — start at the neck, then upper thoracic, mid thoracic, lumbar.",
+      "Step 2: Tuck the chin to chest and begin to curl the spine downward, one vertebra at a time \u2014 start at the neck, then upper thoracic, mid thoracic, lumbar.",
       "Step 3: Continue curling until the hands are as far toward the floor as possible, allowing a full spinal flexion stretch.",
       "Step 4: Pause at the bottom, breathing naturally.",
-      "Step 5: Reverse the movement in the opposite order — start by uncurling the lumbar, then thoracic, then cervical, returning to standing upright."
+      "Step 5: Reverse the movement in the opposite order \u2014 start by uncurling the lumbar, then thoracic, then cervical, returning to standing upright."
     ],
     "breathing_instructions": "Breathe naturally throughout. Do not hold the breath during flexion.",
     "common_mistakes": [
-      "Using too much weight — this is a flexibility exercise, not a strength exercise",
+      "Using too much weight \u2014 this is a flexibility exercise, not a strength exercise",
       "Performing with straight knees and tight hamstrings before adequate flexibility has been developed",
       "Rushing through the movement rather than moving slowly segment by segment"
     ],
@@ -51,11 +73,11 @@
       "Stop immediately if any sharp or radiating pain occurs"
     ],
     "range_of_motion_guidance": "The goal is maximum spinal flexion through the full range, with the hands reaching as far below the feet as possible. Build this range gradually over months.",
-    "tempo_recommendations": "Very slow — 5–10 seconds to descend, 10–30 second hold at the bottom, 5–10 seconds to ascend.",
+    "tempo_recommendations": "Very slow \u2014 5\u201310 seconds to descend, 10\u201330 second hold at the bottom, 5\u201310 seconds to ascend.",
     "coaching_cues": [
-      "Melt from the top down — start from the neck, not the lower back",
+      "Melt from the top down \u2014 start from the neck, not the lower back",
       "Think of your spine as a string of pearls uncurling one at a time",
-      "The weight is a guide, not resistance — it should be almost nothing"
+      "The weight is a guide, not resistance \u2014 it should be almost nothing"
     ]
   },
   "variants": {
@@ -67,21 +89,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 3, "max_reps": 5 }
+      {
+        "goal": "mobility",
+        "min_reps": 3,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "mobility": 60 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["mobility", "flexibility", "spine", "advanced", "controversial", "weighted-stretch"]
+    "tags": [
+      "mobility",
+      "flexibility",
+      "spine",
+      "advanced",
+      "controversial",
+      "weighted-stretch"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

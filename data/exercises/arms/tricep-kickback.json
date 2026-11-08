@@ -61,17 +61,17 @@
     ],
     "breathing_instructions": "Exhale as you extend backward; inhale as you return.",
     "common_mistakes": [
-      "Dropping the upper arm during the movement — it must stay parallel to the floor",
+      "Dropping the upper arm during the movement \u2014 it must stay parallel to the floor",
       "Using too heavy a dumbbell, causing the torso to rotate"
     ],
     "safety_considerations": [
-      "Keep the spine neutral — do not round the lower back when hinging"
+      "Keep the spine neutral \u2014 do not round the lower back when hinging"
     ],
     "range_of_motion_guidance": "Full elbow extension at the back; return to 90 degrees elbow bend at the front.",
     "tempo_recommendations": "1-2-2-0 (hold 2 seconds at peak extension)",
     "coaching_cues": [
       "Pin your elbow to your side like you're holding something under your armpit",
-      "Full lockout at the back — straighten the arm completely"
+      "Full lockout at the back \u2014 straighten the arm completely"
     ]
   },
   "variants": {
@@ -137,6 +137,9 @@
       "isolation",
       "kickback",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

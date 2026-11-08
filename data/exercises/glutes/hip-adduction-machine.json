@@ -57,27 +57,27 @@
     "setup_instructions": "Adjust seat height and pad width for a comfortable starting stretch. Use a weight that allows full range of motion.",
     "steps": [
       "Step 1: Sit in the machine with back flat, legs on outer sides of pads. Begin with pads in the wide starting position.",
-      "Step 2: Press both legs inward — adducting the hips — by squeezing the inner thighs.",
+      "Step 2: Press both legs inward \u2014 adducting the hips \u2014 by squeezing the inner thighs.",
       "Step 3: Press until the pads are as close together as the machine allows.",
       "Step 4: Hold the peak contraction briefly.",
       "Step 5: Return slowly to the wide starting position under control."
     ],
     "breathing_instructions": "Exhale as you press the legs together. Inhale as you open.",
     "common_mistakes": [
-      "Using momentum — slow, controlled movement throughout",
-      "Not controlling the eccentric — the opening phase should be slow",
+      "Using momentum \u2014 slow, controlled movement throughout",
+      "Not controlling the eccentric \u2014 the opening phase should be slow",
       "Rounding the lower back against the pad"
     ],
     "safety_considerations": [
-      "Avoid if the exercise causes groin strain — reduce range or weight",
-      "Start conservatively — the adductors can be strained if loaded aggressively without warm-up"
+      "Avoid if the exercise causes groin strain \u2014 reduce range or weight",
+      "Start conservatively \u2014 the adductors can be strained if loaded aggressively without warm-up"
     ],
     "range_of_motion_guidance": "Open to a comfortable stretch at the start. Close fully at the end.",
     "tempo_recommendations": "2-1-3-0 (slow eccentric return)",
     "coaching_cues": [
-      "Squeeze the inner thighs — not the glutes",
-      "Control the opening — resist the pads on the way out",
-      "Keep the back flat — don't lean forward"
+      "Squeeze the inner thighs \u2014 not the glutes",
+      "Control the opening \u2014 resist the pads on the way out",
+      "Keep the back flat \u2014 don't lean forward"
     ]
   },
   "variants": {
@@ -140,6 +140,9 @@
       "inner-thigh",
       "machine",
       "bilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

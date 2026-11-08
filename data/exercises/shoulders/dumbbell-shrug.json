@@ -61,16 +61,16 @@
     ],
     "breathing_instructions": "Exhale on the shrug upward; inhale on the return.",
     "common_mistakes": [
-      "Rolling the shoulders forward or backward — shrug straight up, not in a circle",
-      "Using heavy weight that reduces range of motion — prioritize full elevation"
+      "Rolling the shoulders forward or backward \u2014 shrug straight up, not in a circle",
+      "Using heavy weight that reduces range of motion \u2014 prioritize full elevation"
     ],
     "safety_considerations": [
-      "Keep the neck long — do not let the head jut forward as the shoulders rise"
+      "Keep the neck long \u2014 do not let the head jut forward as the shoulders rise"
     ],
     "range_of_motion_guidance": "Elevate fully to the ears; return to fully depressed and neutral position.",
     "tempo_recommendations": "1-1-2-0 (hold 1 second at top, 2-second return)",
     "coaching_cues": [
-      "Shrug straight up — not forward, not back, not in a circle",
+      "Shrug straight up \u2014 not forward, not back, not in a circle",
       "Feel the traps 'peaking' at the top of each rep"
     ]
   },
@@ -150,6 +150,9 @@
       "upper-trap",
       "isolation",
       "shoulders"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -84,9 +84,9 @@
     "range_of_motion_guidance": "Lower until shoulders drop to ring level. Full lockout with rings turned out at the top.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "Rings out at the top — that is the support position",
+      "Rings out at the top \u2014 that is the support position",
       "Lean forward to hit the chest",
-      "Control the descent — the rings will want to wobble"
+      "Control the descent \u2014 the rings will want to wobble"
     ]
   },
   "variants": {
@@ -155,6 +155,9 @@
       "dips",
       "advanced",
       "calisthenics"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

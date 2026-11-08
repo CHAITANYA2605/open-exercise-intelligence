@@ -51,7 +51,7 @@
     "setup_instructions": "Set the cable to the highest position. Attach a rope handle. Grip the knots at each end of the rope. Stand close enough that the cable is taut at the starting position.",
     "steps": [
       "Step 1: Grip the rope ends, elbows bent at approximately 90 degrees and pinned at the sides.",
-      "Step 2: Keep the upper arms stationary throughout — only the forearms move.",
+      "Step 2: Keep the upper arms stationary throughout \u2014 only the forearms move.",
       "Step 3: Exhale and press the rope downward by extending the elbows. As the arms approach full extension, spread the rope ends outward and slightly apart.",
       "Step 4: Hold the peak contraction with the arms fully extended and the rope spread, then inhale and return to the starting position."
     ],
@@ -61,13 +61,13 @@
       "Letting the elbows drift forward away from the sides during the movement"
     ],
     "safety_considerations": [
-      "Keep wrists neutral throughout — do not flex or hyperextend them under load"
+      "Keep wrists neutral throughout \u2014 do not flex or hyperextend them under load"
     ],
     "range_of_motion_guidance": "Full extension with rope spread at the bottom; elbows at 90 degrees at the top.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
       "Spread the rope ends at the bottom like you are trying to touch each hip",
-      "Elbows stay pinned to your sides — they are the fulcrum, not the driver"
+      "Elbows stay pinned to your sides \u2014 they are the fulcrum, not the driver"
     ]
   },
   "variants": {
@@ -135,6 +135,9 @@
       "triceps",
       "isolation",
       "pushdown"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

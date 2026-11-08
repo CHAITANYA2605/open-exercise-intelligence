@@ -68,7 +68,7 @@
     "eq000023-0000-4000-a000-000000000023"
   ],
   "execution": {
-    "starting_position": "Set the barbell in a rack at mid-torso height. Squat under the bar and position it in the crooks of your elbows by bending your arms to 90°. Clasp your hands together in front. Stand to unrack, then step back.",
+    "starting_position": "Set the barbell in a rack at mid-torso height. Squat under the bar and position it in the crooks of your elbows by bending your arms to 90\u00b0. Clasp your hands together in front. Stand to unrack, then step back.",
     "setup_instructions": "Set the safety bars at a height allowing you to get the bar into your elbow crooks easily. Padding on the bar or wearing long sleeves reduces discomfort on the forearms and inner elbows.",
     "steps": [
       "Step 1: Stand with feet shoulder-width apart, toes pointed out, holding the bar in your elbow crooks with arms bent and clasped together.",
@@ -84,14 +84,14 @@
       "Using excessively heavy weight before adapting to the discomfort of the bar on the arms"
     ],
     "safety_considerations": [
-      "The bar can be dropped forward in a failed rep — use bumper plates when training alone",
+      "The bar can be dropped forward in a failed rep \u2014 use bumper plates when training alone",
       "Start with light weight to acclimate to the bar position on the forearms",
       "Elbow padding or a bar pad reduces bruising during adaptation"
     ],
     "range_of_motion_guidance": "Aim for parallel or below while maintaining an upright torso without lumbar rounding.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Keep your elbows pointing forward — don't let them drop to your sides",
+      "Keep your elbows pointing forward \u2014 don't let them drop to your sides",
       "Chest up, sit between your knees",
       "Drive through your heels and midfoot equally"
     ]
@@ -172,6 +172,9 @@
       "squat",
       "core",
       "powerlifting-accessory"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

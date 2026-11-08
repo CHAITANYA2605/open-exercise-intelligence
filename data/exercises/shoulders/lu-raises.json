@@ -63,12 +63,12 @@
     "eq000007-0000-4000-a000-000000000007"
   ],
   "execution": {
-    "starting_position": "Stand upright holding a weight plate (or light dumbbells) in front of the thighs with arms extended. Use a very light load — this is a conditioning and mobility drill.",
-    "setup_instructions": "Select a very light plate (5–10 kg maximum for most lifters) or light dumbbells. The movement is primarily for shoulder conditioning, not maximal load.",
+    "starting_position": "Stand upright holding a weight plate (or light dumbbells) in front of the thighs with arms extended. Use a very light load \u2014 this is a conditioning and mobility drill.",
+    "setup_instructions": "Select a very light plate (5\u201310 kg maximum for most lifters) or light dumbbells. The movement is primarily for shoulder conditioning, not maximal load.",
     "steps": [
       "Step 1: Hold the plate in front of the thighs at arm's length.",
       "Step 2: Raise the plate in a wide arc upward and to the sides (lateral raise pattern) until it reaches overhead.",
-      "Step 3: Lower back down by reversing the same arc — out to the sides and back down in front.",
+      "Step 3: Lower back down by reversing the same arc \u2014 out to the sides and back down in front.",
       "Step 4: Alternatively, raise the plate forward (front raise) and then out to the sides and overhead in a continuous sweep."
     ],
     "breathing_instructions": "Breathe naturally; exhale on the upward arcs.",
@@ -77,11 +77,11 @@
       "Shrugging the traps excessively at the top"
     ],
     "safety_considerations": [
-      "Keep the weight very light — this is a shoulder health and coordination drill",
+      "Keep the weight very light \u2014 this is a shoulder health and coordination drill",
       "If pain is felt in the shoulder at any angle, reduce load or stop"
     ],
     "range_of_motion_guidance": "Full arc from thighs to fully overhead in a smooth, controlled sweep.",
-    "tempo_recommendations": "Smooth and continuous — not tempo-counted",
+    "tempo_recommendations": "Smooth and continuous \u2014 not tempo-counted",
     "coaching_cues": [
       "Think about painting a wide rainbow arc with the plate",
       "Keep the elbows slightly bent throughout the full movement"
@@ -140,6 +140,9 @@
       "mobility",
       "raise",
       "weightlifting"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

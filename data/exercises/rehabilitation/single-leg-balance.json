@@ -59,24 +59,24 @@
       "Step 1: Stand tall with feet together, holding a fixed object lightly for safety if needed.",
       "Step 2: Lift one foot off the floor, bending the knee to approximately 90 degrees.",
       "Step 3: Balance on the standing leg, keeping the hip level (do not let the lifted-side hip drop).",
-      "Step 4: Hold for 20–60 seconds.",
+      "Step 4: Hold for 20\u201360 seconds.",
       "Step 5: Switch sides. Progress to eyes closed when 30+ seconds with eyes open is easy."
     ],
     "breathing_instructions": "Breathe normally and steadily throughout.",
     "common_mistakes": [
-      "The stance hip drops toward the lifted side — the gluteus medius must work to prevent this (Trendelenburg sign)",
+      "The stance hip drops toward the lifted side \u2014 the gluteus medius must work to prevent this (Trendelenburg sign)",
       "Grabbing the support heavily rather than using it as a safety touch only",
-      "Looking at the feet — fix a point at eye level for best balance"
+      "Looking at the feet \u2014 fix a point at eye level for best balance"
     ],
     "safety_considerations": [
-      "Always stand near a fixed support — balance challenges can result in falls",
+      "Always stand near a fixed support \u2014 balance challenges can result in falls",
       "In acute ankle sprain rehab, begin on a firm surface with eyes open before progressing"
     ],
     "range_of_motion_guidance": "Upright stance, standing knee very slightly bent, stance hip level.",
-    "tempo_recommendations": "Hold 20–60 seconds × 3 sets per side.",
+    "tempo_recommendations": "Hold 20\u201360 seconds \u00d7 3 sets per side.",
     "coaching_cues": [
       "Find a fixed point at eye level and stare at it",
-      "Keep the hip of the standing leg level — do not let it drop",
+      "Keep the hip of the standing leg level \u2014 do not let it drop",
       "Grip the floor with your toes for extra stability"
     ]
   },
@@ -129,6 +129,9 @@
       "ankle",
       "glute-med",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -53,27 +53,27 @@
     "setup_instructions": "Set the pulley at the lowest position. Attach the ankle cuff to the working leg. Stand close enough to the machine that the cable is taut at the starting position.",
     "steps": [
       "Step 1: Face the cable machine, holding the frame with both hands. Stand on the non-working leg with a soft knee.",
-      "Step 2: With the working leg slightly bent, extend the hip backward — kick the leg rearward while contracting the glute.",
+      "Step 2: With the working leg slightly bent, extend the hip backward \u2014 kick the leg rearward while contracting the glute.",
       "Step 3: Extend until the hip is fully extended or the cable limits further range.",
       "Step 4: Hold the peak contraction briefly with the glute fully squeezed.",
       "Step 5: Return the leg to the starting position under control. Complete all reps then switch."
     ],
     "breathing_instructions": "Exhale as you extend. Inhale as you return.",
     "common_mistakes": [
-      "Swinging the leg — the movement should be controlled, not momentum-driven",
+      "Swinging the leg \u2014 the movement should be controlled, not momentum-driven",
       "Hyperextending the lower back to increase the range, compensating for limited glute activation",
       "Using too much weight, which causes the hip to flex during the movement"
     ],
     "safety_considerations": [
       "Keep the core braced to protect the lower back from excessive extension",
-      "Avoid if the cuff irritates the ankle — use an alternative setup"
+      "Avoid if the cuff irritates the ankle \u2014 use an alternative setup"
     ],
     "range_of_motion_guidance": "Hip extends from neutral to maximum extension without lumbar hyperextension.",
     "tempo_recommendations": "1-1-2-0",
     "coaching_cues": [
-      "Squeeze the glute — make the glute do the work",
-      "Don't arch the lower back — the motion comes from the hip",
-      "Control the return — don't let the cable snap the leg forward"
+      "Squeeze the glute \u2014 make the glute do the work",
+      "Don't arch the lower back \u2014 the motion comes from the hip",
+      "Control the return \u2014 don't let the cable snap the leg forward"
     ]
   },
   "variants": {
@@ -139,6 +139,9 @@
       "isolation",
       "cable",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

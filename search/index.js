@@ -25,7 +25,9 @@ function loadExercises(exerciseDir) {
         try {
           const ex = JSON.parse(fs.readFileSync(full, 'utf8'));
           exercises.push(ex);
-        } catch (_) {}
+        } catch (e) {
+          console.error(`PARSE ERROR: ${full}: ${e.message}`);
+        }
       }
     }
   }
@@ -45,8 +47,10 @@ function buildSearchTokens(ex) {
     ...(ex.muscles && ex.muscles.primary || []).map(m => m.muscle_slug || ''),
     ...(ex.muscles && ex.muscles.secondary || []).map(m => m.muscle_slug || ''),
     ...(ex.muscles && ex.muscles.stabilizers || []).map(m => m.muscle_slug || ''),
+    ...(ex.equipment_required || []),
+    ...(ex.equipment_optional || []),
   ];
-  return parts.join(' ').toLowerCase().replace(/[^a-z0-9 -]/g, ' ');
+  return normalizeAccents(parts.join(' ').toLowerCase()).replace(/[^a-z0-9 -]/g, ' ');
 }
 
 function buildIndex(exercises) {
@@ -57,22 +61,69 @@ function buildIndex(exercises) {
 }
 
 // ---------------------------------------------------------------------------
+// Accent normalization
+// ---------------------------------------------------------------------------
+
+function normalizeAccents(str) {
+  return str.normalize('NFD').replace(/[̀-ͯ]/g, '');
+}
+
+// ---------------------------------------------------------------------------
+// Muscle slug aliases — common name -> muscle slug substring(s)
+// ---------------------------------------------------------------------------
+
+const MUSCLE_ALIASES = {
+  chest: ['pectoralis', 'pec'],
+  back: ['latissimus', 'rhomboid', 'trapezius', 'erector'],
+  shoulders: ['deltoid'],
+  delts: ['deltoid'],
+  biceps: ['bicep'],
+  triceps: ['tricep'],
+  quads: ['quadricep', 'rectus_femoris', 'vastus'],
+  hamstrings: ['hamstring', 'biceps_femoris'],
+  glutes: ['gluteus', 'glute'],
+  calves: ['gastrocnemius', 'soleus'],
+  abs: ['rectus_abdominis', 'abdominal'],
+  core: ['rectus_abdominis', 'oblique', 'transverse'],
+  lats: ['latissimus'],
+  traps: ['trapezius'],
+};
+
+function getMuscleAliasTokens(query) {
+  const lower = normalizeAccents(query.toLowerCase());
+  for (const [alias, slugParts] of Object.entries(MUSCLE_ALIASES)) {
+    if (lower.includes(alias)) return slugParts;
+  }
+  return null;
+}
+
+// ---------------------------------------------------------------------------
 // Query parser
 // ---------------------------------------------------------------------------
 
 function tokenize(query) {
-  return query.toLowerCase().replace(/[^a-z0-9 -]/g, ' ').split(/\s+/).filter(Boolean);
+  return normalizeAccents(query.toLowerCase()).replace(/[^a-z0-9 -]/g, ' ').split(/\s+/).filter(Boolean);
 }
 
 function scoreDoc(doc, tokens) {
   if (tokens.length === 0) return 1;
   let score = 0;
+  const nameLower = normalizeAccents((doc.exercise.name || '').toLowerCase());
+  const altNamesLower = (doc.exercise.alternative_names || []).map(n => normalizeAccents(n.toLowerCase()));
+
   for (const token of tokens) {
     const idx = doc.searchText.indexOf(token);
     if (idx === -1) return 0; // AND semantics — all tokens must match
-    // Weight: name matches score higher than description
-    const nameLower = (doc.exercise.name || '').toLowerCase();
-    if (nameLower.includes(token)) score += 10;
+
+    // Exact name match (whole string equals token)
+    if (nameLower === token) score += 20;
+    // Name starts with token
+    else if (nameLower.startsWith(token)) score += 15;
+    // Name contains token
+    else if (nameLower.includes(token)) score += 10;
+    // Alternative names contain token
+    else if (altNamesLower.some(n => n.includes(token))) score += 7;
+    // Description / other fields
     else score += 1;
   }
   return score;
@@ -136,8 +187,10 @@ function sortResults(results, sortBy, sortOrder) {
     if (sortBy === 'score') return dir * (b.score - a.score);
     if (sortBy === 'name') return dir * (a.exercise.name || '').localeCompare(b.exercise.name || '');
     if (sortBy === 'difficulty') {
-      const order = { beginner: 0, intermediate: 1, advanced: 2 };
-      return dir * ((order[a.exercise.difficulty_level] || 0) - (order[b.exercise.difficulty_level] || 0));
+      const order = { beginner: 0, intermediate: 1, advanced: 2, expert: 3 };
+      const aOrd = order[a.exercise.difficulty_level] !== undefined ? order[a.exercise.difficulty_level] : 99;
+      const bOrd = order[b.exercise.difficulty_level] !== undefined ? order[b.exercise.difficulty_level] : 99;
+      return dir * (aOrd - bOrd);
     }
     return 0;
   });
@@ -205,11 +258,25 @@ function search(index, params = {}) {
   const perPage = Math.min(Math.max(1, per_page), 100);
   const pageNum = Math.max(1, page);
 
+  // Resolve muscle aliases: if query looks like a muscle group name, inject a filter
+  const muscleAliasParts = q ? getMuscleAliasTokens(q) : null;
+
   // Filter then score
   let matched = index
     .filter(doc => matchesFilter(doc.exercise, filters))
+    .filter(doc => {
+      if (!muscleAliasParts) return true;
+      // Check if any muscle slug contains one of the alias parts
+      const allMuscles = [
+        ...(doc.exercise.muscles && doc.exercise.muscles.primary || []),
+        ...(doc.exercise.muscles && doc.exercise.muscles.secondary || []),
+        ...(doc.exercise.muscles && doc.exercise.muscles.stabilizers || []),
+      ].map(m => (m.muscle_slug || '').toLowerCase());
+      return muscleAliasParts.some(part => allMuscles.some(slug => slug.includes(part)));
+    })
     .map(doc => ({ ...doc, score: scoreDoc(doc, tokens) }))
-    .filter(doc => doc.score > 0);
+    .filter(doc => doc.score > 0 || (muscleAliasParts && doc.score === 0 && tokens.length === 0))
+    .map(doc => muscleAliasParts && doc.score === 0 ? { ...doc, score: 1 } : doc);
 
   // Sort
   const sorted = sortResults(matched, sort_by, sort_order);
@@ -278,6 +345,19 @@ if (require.main === module) {
   const exercises = loadExercises(exerciseDir);
   const index = buildIndex(exercises);
   console.log(`Index built: ${exercises.length} exercises loaded.`);
+
+  // Smoke tests
+  const benchResults = search(index, { q: 'bench', per_page: 5 });
+  console.log(`\nSmoke test — search "bench": ${benchResults.total} results`);
+  for (const r of benchResults.results) {
+    console.log(`  [${r.difficulty_level}] ${r.name} (score: ${r._score})`);
+  }
+
+  const chestResults = search(index, { q: 'chest', per_page: 5 });
+  console.log(`\nSmoke test — search "chest" (muscle alias): ${chestResults.total} results`);
+  for (const r of chestResults.results) {
+    console.log(`  [${r.difficulty_level}] ${r.name} (score: ${r._score})`);
+  }
 
   // Simple CLI demo
   const args = process.argv.slice(2);

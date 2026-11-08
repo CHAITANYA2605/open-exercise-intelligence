@@ -64,19 +64,19 @@
     ],
     "breathing_instructions": "Breathe continuously. The higher metabolic demand requires efficient breathing rhythm.",
     "common_mistakes": [
-      "Piking the hips — kicking the heels back instead of jumping straight up",
-      "Moving the arms wide to slow the rope — wrists should do the work",
-      "Panicking and breaking rhythm — stay composed and consistent"
+      "Piking the hips \u2014 kicking the heels back instead of jumping straight up",
+      "Moving the arms wide to slow the rope \u2014 wrists should do the work",
+      "Panicking and breaking rhythm \u2014 stay composed and consistent"
     ],
     "safety_considerations": [
-      "High Achilles and calf demand — do not progress volume too rapidly.",
+      "High Achilles and calf demand \u2014 do not progress volume too rapidly.",
       "Master single-unders and consistent rhythm before attempting."
     ],
-    "range_of_motion_guidance": "Enough jump height for the rope to pass twice — typically 10–15 cm off the floor.",
-    "tempo_recommendations": "Typically programmed in sets of 50–100 reps unbroken, or for time intervals.",
+    "range_of_motion_guidance": "Enough jump height for the rope to pass twice \u2014 typically 10\u201315 cm off the floor.",
+    "tempo_recommendations": "Typically programmed in sets of 50\u2013100 reps unbroken, or for time intervals.",
     "coaching_cues": [
-      "Jump straight — no piking",
-      "Flick the wrist fast — not the arms",
+      "Jump straight \u2014 no piking",
+      "Flick the wrist fast \u2014 not the arms",
       "Stay relaxed and trust the rhythm"
     ]
   },
@@ -127,6 +127,9 @@
       "jump-rope",
       "advanced-skill",
       "coordination"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

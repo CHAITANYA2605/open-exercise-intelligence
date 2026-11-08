@@ -1,8 +1,12 @@
 {
   "exercise_id": "a1b2c3d4-0004-4000-a000-100000000004",
   "slug": "cyclist-squat",
-  "name": "Cyclist Squat — Heel-Elevated Narrow Stance",
-  "alternative_names": ["Heel-Elevated Squat", "Quad Squat", "High-Heel Squat"],
+  "name": "Cyclist Squat \u2014 Heel-Elevated Narrow Stance",
+  "alternative_names": [
+    "Heel-Elevated Squat",
+    "Quad Squat",
+    "High-Heel Squat"
+  ],
   "description": "The cyclist squat uses a narrow stance with significant heel elevation, achieved by placing the heels on plates or a wedge. This combination of foot positioning and heel elevation allows the knees to travel far forward, maximizing quadriceps recruitment while minimizing hip and glute involvement. The name reflects its popularity among cyclists and those seeking maximal quadriceps isolation.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +19,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000022-0000-4000-a000-000000000022"],
-  "equipment_optional": ["eq000002-0000-4000-a000-000000000002", "eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "execution": {
     "starting_position": "Stand with heels elevated 2-4 inches on weight plates or a squat wedge. Feet hip-width or narrower, toes pointing forward or slightly out. Hold a dumbbell or kettlebell at the chest for resistance, or use a barbell on the back.",
     "setup_instructions": "Position two weight plates flat on the floor for heel elevation. Ensure they are stable and will not shift. Begin with bodyweight or light load.",
@@ -40,34 +70,95 @@
       "Step 4: Drive through the heels (which are elevated) to extend the knees and return to the starting position."
     ],
     "breathing_instructions": "Inhale at the top, exhale on the drive up.",
-    "common_mistakes": ["Heels not elevated enough to allow knee travel", "Allowing the torso to lean excessively forward", "Insufficient depth, reducing quad stretch"],
-    "safety_considerations": ["High patellar tendon load — progress gradually if you have knee sensitivity", "Ensure heel elevation surface is stable"],
+    "common_mistakes": [
+      "Heels not elevated enough to allow knee travel",
+      "Allowing the torso to lean excessively forward",
+      "Insufficient depth, reducing quad stretch"
+    ],
+    "safety_considerations": [
+      "High patellar tendon load \u2014 progress gradually if you have knee sensitivity",
+      "Ensure heel elevation surface is stable"
+    ],
     "range_of_motion_guidance": "Aim for thighs parallel or below. The heel elevation enables much greater depth for most people.",
     "tempo_recommendations": "3-1-1-0 (slow descent, brief pause at bottom, controlled ascent)",
-    "coaching_cues": ["Knees forward over the toes", "Sit tall, don't lean", "Feel the quad stretch at the bottom"]
+    "coaching_cues": [
+      "Knees forward over the toes",
+      "Sit tall, don't lean",
+      "Feel the quad stretch at the bottom"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90, "endurance": 45},
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["quad-dominant", "squat", "heel-elevated", "isolation"]
+    "tags": [
+      "quad-dominant",
+      "squat",
+      "heel-elevated",
+      "isolation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

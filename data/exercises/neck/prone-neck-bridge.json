@@ -66,11 +66,11 @@
       "Always use hand-assisted variations before full bodyweight",
       "Have a spotter when attempting for the first time"
     ],
-    "range_of_motion_guidance": "Isometric hold — no movement through range. The goal is to maintain the bridge position.",
+    "range_of_motion_guidance": "Isometric hold \u2014 no movement through range. The goal is to maintain the bridge position.",
     "tempo_recommendations": "Isometric hold: 10-30 seconds",
     "coaching_cues": [
-      "Hands assist as needed — don't be a hero",
-      "Progressive — work up over months",
+      "Hands assist as needed \u2014 don't be a hero",
+      "Progressive \u2014 work up over months",
       "Any pain = stop immediately"
     ]
   },
@@ -122,6 +122,9 @@
       "wrestling",
       "expert",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

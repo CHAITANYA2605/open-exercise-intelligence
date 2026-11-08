@@ -2,7 +2,10 @@
   "exercise_id": "ba010011-f3a2-4c1e-9b8d-7e6f5a4c3b34",
   "slug": "kroc-row",
   "name": "Kroc Row",
-  "alternative_names": ["Heavy Dumbbell Row", "High-Rep Unilateral Dumbbell Row"],
+  "alternative_names": [
+    "Heavy Dumbbell Row",
+    "High-Rep Unilateral Dumbbell Row"
+  ],
   "description": "The Kroc Row is a heavy, high-repetition unilateral dumbbell row popularized by powerlifter Janae Marie Kroc. Unlike a strict dumbbell row, controlled body rotation is intentionally used on the concentric phase to allow heavier loading and more complete lat contraction, while the eccentric remains deliberate. The result is a unique combination of raw back strength and muscular endurance that bridges bodybuilding and strength sport.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,65 +18,136 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
-  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000050-0000-4000-a000-000000000050"
+  ],
   "execution": {
     "starting_position": "Support one hand on a bench or rack. Hold a heavy dumbbell in the other hand, arm extended toward the floor. Stagger the feet for a stable base.",
-    "setup_instructions": "Select a heavier dumbbell than you would use for a strict row — the controlled cheat on the concentric allows for greater load. Use lifting straps to remove grip as the limiting factor.",
+    "setup_instructions": "Select a heavier dumbbell than you would use for a strict row \u2014 the controlled cheat on the concentric allows for greater load. Use lifting straps to remove grip as the limiting factor.",
     "steps": [
       "Step 1: Begin with the dumbbell hanging at arm's length, non-working hand on support.",
       "Step 2: Initiate a controlled pull by driving the elbow upward and back.",
       "Step 3: Allow the torso to rotate slightly toward the working side to maximize lat contraction at the top.",
       "Step 4: At peak contraction, the elbow is well above the torso and the lat is fully shortened.",
-      "Step 5: Lower the dumbbell under strict control — the eccentric should be deliberate and slow."
+      "Step 5: Lower the dumbbell under strict control \u2014 the eccentric should be deliberate and slow."
     ],
     "breathing_instructions": "Exhale forcefully on the row, inhale on the descent.",
     "common_mistakes": [
       "Using so much body swing that the row becomes a deadlift rather than a back exercise",
-      "Rushing the eccentric — the slow descent is critical to the exercise's effectiveness",
+      "Rushing the eccentric \u2014 the slow descent is critical to the exercise's effectiveness",
       "Not using straps, allowing grip to limit the target muscle's training"
     ],
     "safety_considerations": [
       "The controlled cheat on the concentric is intentional, but should not degrade into uncontrolled momentum",
-      "High rep sets with heavy weight create significant fatigue — use a spotter or rack for safety"
+      "High rep sets with heavy weight create significant fatigue \u2014 use a spotter or rack for safety"
     ],
     "range_of_motion_guidance": "Full arm extension at the bottom, elbow driven well above the torso at the top.",
     "tempo_recommendations": "1-0-3-0 (explosive concentric, 3s eccentric)",
-    "coaching_cues": ["Use the torso rotation to your advantage", "Slow it down on the way down", "Straps on — grip is not the target here"]
+    "coaching_cues": [
+      "Use the torso rotation to your advantage",
+      "Slow it down on the way down",
+      "Straps on \u2014 grip is not the target here"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 10, "max_reps": 20},
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "strength",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3},
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "row", "dumbbell", "advanced", "unilateral"]
+    "tags": [
+      "back",
+      "row",
+      "dumbbell",
+      "advanced",
+      "unilateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -48,7 +48,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright holding dumbbells at the sides with a supinated (underhand) grip. Arms fully extended, feet shoulder-width apart.",
-    "setup_instructions": "Select moderate dumbbells — lighter than your standard curl weight since you will be controlling the eccentric in a pronated position.",
+    "setup_instructions": "Select moderate dumbbells \u2014 lighter than your standard curl weight since you will be controlling the eccentric in a pronated position.",
     "steps": [
       "Step 1: Hold dumbbells at the sides with a supinated grip. Stand tall, upper arms at the sides.",
       "Step 2: Exhale and curl the dumbbells upward with a supinated grip (biceps curl) to full contraction at shoulder level.",
@@ -57,17 +57,17 @@
     ],
     "breathing_instructions": "Exhale on the curl up; inhale on the pronated lowering.",
     "common_mistakes": [
-      "Rushing the rotation at the top — perform it deliberately and smoothly",
-      "Lowering too quickly in the pronated position — the eccentric is where the forearm work happens"
+      "Rushing the rotation at the top \u2014 perform it deliberately and smoothly",
+      "Lowering too quickly in the pronated position \u2014 the eccentric is where the forearm work happens"
     ],
     "safety_considerations": [
-      "Avoid excessive wrist pronation if pain is felt in the elbow — use lighter weight"
+      "Avoid excessive wrist pronation if pain is felt in the elbow \u2014 use lighter weight"
     ],
     "range_of_motion_guidance": "Full extension at start; full curl at top; full controlled descent in pronated grip.",
     "tempo_recommendations": "2-0-3-0 (3-second pronated eccentric)",
     "coaching_cues": [
-      "Biceps up, reverse grip down — that is the cue for the two-phase movement",
-      "Make the rotation at the top smooth — your forearms rotate, not your whole arm"
+      "Biceps up, reverse grip down \u2014 that is the cue for the two-phase movement",
+      "Make the rotation at the top smooth \u2014 your forearms rotate, not your whole arm"
     ]
   },
   "variants": {
@@ -135,6 +135,9 @@
       "curl",
       "supination",
       "pronation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

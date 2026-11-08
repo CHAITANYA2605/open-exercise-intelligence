@@ -2,7 +2,10 @@
   "exercise_id": "3f7c01de-0833-4e3d-a603-540b936e860f",
   "slug": "leaning-cable-lateral-raise-foot-forward",
   "name": "Leaning Cable Lateral Raise (Foot Forward Stance)",
-  "alternative_names": ["Lunge-Stance Leaning Cable Lateral Raise", "Split-Stance Cable Lateral Raise"],
+  "alternative_names": [
+    "Lunge-Stance Leaning Cable Lateral Raise",
+    "Split-Stance Cable Lateral Raise"
+  ],
   "description": "The leaning cable lateral raise with foot forward stance uses a split/lunge stance with the same-side foot as the working arm placed forward, stabilizing the lean angle differently than the common same-side foot braced on the cable unit. This stance variation allows a more consistent lean angle throughout the set and provides a stable base from which to isolate the lateral deltoid through a fuller range than the standard leaning version.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,19 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "secondary": [
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Stand beside a low cable pulley. Take a split stance — the foot closer to the cable goes forward. Hold the low cable handle with the far hand, leaning slightly away from the cable.",
+    "starting_position": "Stand beside a low cable pulley. Take a split stance \u2014 the foot closer to the cable goes forward. Hold the low cable handle with the far hand, leaning slightly away from the cable.",
     "setup_instructions": "Foot forward on the working-arm side provides stable counterbalance to the lean. Set the cable to the lowest position.",
     "steps": [
       "Step 1: Establish the split-stance lean, working hand holding the cable below hip level.",
@@ -38,18 +52,18 @@
     ],
     "breathing_instructions": "Exhale raising. Inhale lowering.",
     "common_mistakes": [
-      "Shifting the torso during the raise — the lean angle is fixed",
+      "Shifting the torso during the raise \u2014 the lean angle is fixed",
       "Using the non-working hand to assist balance inappropriately"
     ],
     "safety_considerations": [
-      "Light load — isolation exercise for medial deltoid development",
+      "Light load \u2014 isolation exercise for medial deltoid development",
       "Ensure the foot placement gives stable balance before beginning"
     ],
     "range_of_motion_guidance": "Arm at side to shoulder height.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Lean is set before you start — don't drift",
-      "Raise to shoulder height — stop there",
+      "Lean is set before you start \u2014 don't drift",
+      "Raise to shoulder height \u2014 stop there",
       "Elbow leads the movement"
     ]
   },
@@ -62,21 +76,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 60 },
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "lateral-raise", "leaning", "split-stance", "deltoid"]
+    "tags": [
+      "cable",
+      "lateral-raise",
+      "leaning",
+      "split-stance",
+      "deltoid"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

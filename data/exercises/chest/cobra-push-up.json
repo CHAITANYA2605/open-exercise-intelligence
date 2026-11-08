@@ -69,7 +69,7 @@
       "Not opening the chest fully at the top"
     ],
     "safety_considerations": [
-      "Avoid if you have lumbar spine issues — the cobra extension loads the low back",
+      "Avoid if you have lumbar spine issues \u2014 the cobra extension loads the low back",
       "Warm up wrists and shoulders before performing",
       "Progress from a modified version if thoracic mobility is limited"
     ],
@@ -144,6 +144,9 @@
       "mobility",
       "full-body",
       "yoga-inspired"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

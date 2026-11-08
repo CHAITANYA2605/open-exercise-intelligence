@@ -2,8 +2,11 @@
   "exercise_id": "ca000001-0000-4000-a000-000000000001",
   "slug": "treadmill-incline-walk",
   "name": "Treadmill Incline Power Walk",
-  "alternative_names": ["Incline Treadmill Walk", "Uphill Treadmill Walk"],
-  "description": "Treadmill incline power walking places the treadmill at an elevated grade — typically 10–15% — and maintains a brisk walking pace to maximise cardiovascular demand without the joint impact of running. The steep angle shifts the primary load from the calves and hip flexors toward the gluteus maximus, hamstrings, and soleus while simultaneously elevating heart rate into aerobic training zones. It is a low-impact, sustainable conditioning tool well suited to active recovery sessions, fat-loss protocols, and individuals managing joint pain.",
+  "alternative_names": [
+    "Incline Treadmill Walk",
+    "Uphill Treadmill Walk"
+  ],
+  "description": "Treadmill incline power walking places the treadmill at an elevated grade \u2014 typically 10\u201315% \u2014 and maintains a brisk walking pace to maximise cardiovascular demand without the joint impact of running. The steep angle shifts the primary load from the calves and hip flexors toward the gluteus maximus, hamstrings, and soleus while simultaneously elevating heart rate into aerobic training zones. It is a low-impact, sustainable conditioning tool well suited to active recovery sessions, fat-loss protocols, and individuals managing joint pain.",
   "category": "cardio",
   "exercise_type": "cardio",
   "difficulty_level": "beginner",
@@ -15,30 +18,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Stand on the treadmill belt with feet hip-width apart. Set the incline to 10–15% and the speed to a brisk walking pace (3–4 mph / 5–6.5 km/h). Hold the handles lightly only for balance, not to support body weight.",
+    "starting_position": "Stand on the treadmill belt with feet hip-width apart. Set the incline to 10\u201315% and the speed to a brisk walking pace (3\u20134 mph / 5\u20136.5 km/h). Hold the handles lightly only for balance, not to support body weight.",
     "setup_instructions": "Set the treadmill incline first, then gradually increase speed. Do not grip the handles tightly as this reduces caloric expenditure and alters posture.",
     "steps": [
-      "Step 1: Set incline to 10–15% and speed to 3–4 mph. Step onto the moving belt carefully.",
-      "Step 2: Walk with a tall, upright posture — chest open, shoulders back, gaze forward. Avoid leaning forward excessively.",
+      "Step 1: Set incline to 10\u201315% and speed to 3\u20134 mph. Step onto the moving belt carefully.",
+      "Step 2: Walk with a tall, upright posture \u2014 chest open, shoulders back, gaze forward. Avoid leaning forward excessively.",
       "Step 3: Drive each stride from the glutes, pushing through the heel as the foot strikes the belt.",
       "Step 4: Swing the arms naturally at your sides in opposition to the leg movement.",
-      "Step 5: Maintain the pace for the target duration, typically 20–45 minutes."
+      "Step 5: Maintain the pace for the target duration, typically 20\u201345 minutes."
     ],
     "breathing_instructions": "Breathe naturally and rhythmically through the nose and mouth. Aim to maintain a pace at which you can still hold a conversation (Zone 2 aerobic).",
     "common_mistakes": [
@@ -47,13 +71,13 @@
       "Using too high a speed that forces a jogging gait rather than a walking stride"
     ],
     "safety_considerations": [
-      "Step off carefully by straddling the belt if you need to stop suddenly — do not jump off a moving belt",
+      "Step off carefully by straddling the belt if you need to stop suddenly \u2014 do not jump off a moving belt",
       "Reduce incline gradually before stopping to avoid lightheadedness from abrupt postural change"
     ],
     "range_of_motion_guidance": "Full hip extension on each stride is the goal. Focus on pushing through the rear leg rather than pulling with the front leg.",
-    "tempo_recommendations": "Sustained steady-state: 20–45 minutes at 3–4 mph, 10–15% incline. Interval option: 2 minutes at 15%, 1 minute at 5%, repeated 8–12 times.",
+    "tempo_recommendations": "Sustained steady-state: 20\u201345 minutes at 3\u20134 mph, 10\u201315% incline. Interval option: 2 minutes at 15%, 1 minute at 5%, repeated 8\u201312 times.",
     "coaching_cues": [
-      "Walk tall — imagine a string pulling the top of your head toward the ceiling",
+      "Walk tall \u2014 imagine a string pulling the top of your head toward the ceiling",
       "Drive from the glute, not the hip flexor",
       "Let go of the handles"
     ]
@@ -67,21 +91,46 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 1, "max_sets": 1}
+      {
+        "goal": "endurance",
+        "min_sets": 1,
+        "max_sets": 1
+      }
     ],
-    "rest_periods": {"endurance": 0},
-    "training_goals": ["endurance"]
+    "rest_periods": {
+      "endurance": 0
+    },
+    "training_goals": [
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cardio", "low-impact", "treadmill", "incline"]
+    "tags": [
+      "cardio",
+      "low-impact",
+      "treadmill",
+      "incline"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

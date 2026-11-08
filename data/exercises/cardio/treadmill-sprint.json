@@ -2,7 +2,10 @@
   "exercise_id": "ca000002-0000-4000-a000-000000000002",
   "slug": "treadmill-sprint",
   "name": "Treadmill Sprint Intervals",
-  "alternative_names": ["Treadmill HIIT", "Treadmill Speed Intervals"],
+  "alternative_names": [
+    "Treadmill HIIT",
+    "Treadmill Speed Intervals"
+  ],
   "description": "Treadmill sprint intervals alternate short bursts of maximal or near-maximal running speed with active recovery periods at a slow jog or walk. The repeated acceleration and deceleration demands high power output from the quadriceps, hamstrings, and gluteus maximus while imposing strong cardiovascular stress. Sprint intervals are time-efficient for improving both aerobic capacity and anaerobic power, and produce a significant post-exercise calorie burn through excess post-exercise oxygen consumption (EPOC).",
   "category": "cardio",
   "exercise_type": "cardio",
@@ -15,49 +18,73 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
   "equipment_required": [],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Begin with a 5-minute warm-up walk at 3–4 mph, gradually increasing to a light jog. Stand on the treadmill with feet straddling the belt, then step on when the belt reaches sprint speed — or accelerate from the jog speed.",
+    "starting_position": "Begin with a 5-minute warm-up walk at 3\u20134 mph, gradually increasing to a light jog. Stand on the treadmill with feet straddling the belt, then step on when the belt reaches sprint speed \u2014 or accelerate from the jog speed.",
     "setup_instructions": "Set the sprint speed before the interval begins. For safety on a treadmill, pre-set the target sprint speed, then straddle the belt and step on when it reaches that speed, rather than accelerating mid-stride. Alternatively, build up from a jog.",
     "steps": [
       "Step 1: Warm up for 5 minutes with a walk progressing to an easy jog.",
-      "Step 2: Increase belt speed to sprint pace (8–12 mph / 13–19 km/h depending on fitness). Sprint for 20–30 seconds.",
-      "Step 3: Reduce speed immediately to walk or slow jog (3–4 mph). Recover for 60–90 seconds.",
-      "Step 4: Repeat the sprint-recovery cycle 6–10 times.",
+      "Step 2: Increase belt speed to sprint pace (8\u201312 mph / 13\u201319 km/h depending on fitness). Sprint for 20\u201330 seconds.",
+      "Step 3: Reduce speed immediately to walk or slow jog (3\u20134 mph). Recover for 60\u201390 seconds.",
+      "Step 4: Repeat the sprint-recovery cycle 6\u201310 times.",
       "Step 5: Cool down with a 5-minute walk, gradually reducing speed."
     ],
-    "breathing_instructions": "During sprints, breathe as forcefully as needed — do not try to control breathing rhythm. During recovery, focus on deep, controlled exhalations to lower heart rate faster.",
+    "breathing_instructions": "During sprints, breathe as forcefully as needed \u2014 do not try to control breathing rhythm. During recovery, focus on deep, controlled exhalations to lower heart rate faster.",
     "common_mistakes": [
       "Holding the handrails during the sprint, which completely changes the biomechanics and reduces the training stimulus",
       "Setting the sprint speed too high before building a base, increasing fall risk",
       "Skipping the warm-up, which raises injury risk for hamstrings and hip flexors"
     ],
     "safety_considerations": [
-      "Never jump onto a treadmill moving at sprint speed from a standing start — accelerate progressively",
+      "Never jump onto a treadmill moving at sprint speed from a standing start \u2014 accelerate progressively",
       "Know how to emergency-stop the machine before beginning sprints",
       "Clip the safety key to your clothing"
     ],
     "range_of_motion_guidance": "Full hip extension behind the body during the push-off phase is the goal. Knee drive upward should bring the thigh roughly parallel to the ground during the swing phase.",
-    "tempo_recommendations": "Classic protocol: 20–30 seconds sprint / 90 seconds recovery × 8 rounds. Tabata variation: 20 seconds sprint / 10 seconds walk × 8 rounds.",
+    "tempo_recommendations": "Classic protocol: 20\u201330 seconds sprint / 90 seconds recovery \u00d7 8 rounds. Tabata variation: 20 seconds sprint / 10 seconds walk \u00d7 8 rounds.",
     "coaching_cues": [
-      "Drive the elbows back forcefully — arm drive powers the legs",
+      "Drive the elbows back forcefully \u2014 arm drive powers the legs",
       "Stay on the balls of the feet, not the heels",
-      "Push the belt away behind you — attack each stride"
+      "Push the belt away behind you \u2014 attack each stride"
     ]
   },
   "variants": {
@@ -69,21 +96,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 6, "max_reps": 10}
+      {
+        "goal": "endurance",
+        "min_reps": 6,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 1, "max_sets": 1}
+      {
+        "goal": "endurance",
+        "min_sets": 1,
+        "max_sets": 1
+      }
     ],
-    "rest_periods": {"endurance": 90},
-    "training_goals": ["endurance", "power"]
+    "rest_periods": {
+      "endurance": 90
+    },
+    "training_goals": [
+      "endurance",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cardio", "HIIT", "sprints", "treadmill", "intervals"]
+    "tags": [
+      "cardio",
+      "HIIT",
+      "sprints",
+      "treadmill",
+      "intervals"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

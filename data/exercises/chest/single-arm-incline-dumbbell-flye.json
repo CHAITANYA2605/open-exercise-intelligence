@@ -49,8 +49,8 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on an incline bench set to 30–45 degrees. Hold one dumbbell in the working hand above the upper chest with a slight bend in the elbow. The opposite hand grips the bench edge for stability.",
-    "setup_instructions": "Set the incline to 30–45 degrees. Select a dumbbell lighter than you would use for a bilateral flye since there is no counterbalancing load on the other side.",
+    "starting_position": "Lie on an incline bench set to 30\u201345 degrees. Hold one dumbbell in the working hand above the upper chest with a slight bend in the elbow. The opposite hand grips the bench edge for stability.",
+    "setup_instructions": "Set the incline to 30\u201345 degrees. Select a dumbbell lighter than you would use for a bilateral flye since there is no counterbalancing load on the other side.",
     "steps": [
       "Step 1: Begin with the working arm extended above the upper chest, palm facing inward.",
       "Step 2: Lower the dumbbell out to the side in a wide arc, maintaining the fixed elbow bend. Feel the deep stretch across the upper chest.",
@@ -60,18 +60,18 @@
     "breathing_instructions": "Inhale as you lower the dumbbell. Exhale as you bring it back up.",
     "common_mistakes": [
       "Letting the elbow bend excessively during the movement, turning it into a press",
-      "Rotating the torso toward the working arm — keep hips and shoulders flat on the bench",
+      "Rotating the torso toward the working arm \u2014 keep hips and shoulders flat on the bench",
       "Using too heavy a dumbbell, compromising shoulder stability"
     ],
     "safety_considerations": [
       "Use a spotter or place the non-working hand on the bench edge for stability",
-      "Control the descent carefully — the shoulder is vulnerable at end-range with single-arm load"
+      "Control the descent carefully \u2014 the shoulder is vulnerable at end-range with single-arm load"
     ],
-    "range_of_motion_guidance": "Open to the furthest comfortable stretch — typically when the upper arm is parallel to the bench surface or slightly below.",
+    "range_of_motion_guidance": "Open to the furthest comfortable stretch \u2014 typically when the upper arm is parallel to the bench surface or slightly below.",
     "tempo_recommendations": "3-1-2-1 (3s down, 1s stretch, 2s up, 1s squeeze)",
     "coaching_cues": [
-      "Lead with the elbow, not the hand — keep the arc wide",
-      "Think of hugging a barrel with one arm — the motion is a sweep, not a curl"
+      "Lead with the elbow, not the hand \u2014 keep the arc wide",
+      "Think of hugging a barrel with one arm \u2014 the motion is a sweep, not a curl"
     ]
   },
   "variants": {
@@ -122,6 +122,9 @@
       "unilateral",
       "upper-chest",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

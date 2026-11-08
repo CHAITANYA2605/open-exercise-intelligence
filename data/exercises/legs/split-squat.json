@@ -6,7 +6,7 @@
     "Stationary Lunge",
     "Static Lunge"
   ],
-  "description": "The split squat is a stationary lunge variation where the feet remain fixed in a staggered stance throughout the set. Unlike a walking or reverse lunge, there is no stepping involved — the lifter descends and ascends repeatedly from the same foot position. This makes it an excellent tool for single-leg strength development with greater stability than other lunge variations and a valuable precursor to the Bulgarian split squat.",
+  "description": "The split squat is a stationary lunge variation where the feet remain fixed in a staggered stance throughout the set. Unlike a walking or reverse lunge, there is no stepping involved \u2014 the lifter descends and ascends repeatedly from the same foot position. This makes it an excellent tool for single-leg strength development with greater stability than other lunge variations and a valuable precursor to the Bulgarian split squat.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -64,30 +64,30 @@
     "eq000002-0000-4000-a000-000000000002"
   ],
   "execution": {
-    "starting_position": "Take a lunge stride and hold it — one foot forward, one foot back. The rear foot rests on its toes. The torso is upright.",
+    "starting_position": "Take a lunge stride and hold it \u2014 one foot forward, one foot back. The rear foot rests on its toes. The torso is upright.",
     "setup_instructions": "Adjust stride length so the front shin is roughly vertical when the rear knee is near the floor. Hold dumbbells at the sides or use a barbell on the traps for load.",
     "steps": [
       "Step 1: Position the feet in a staggered stance with enough stride length that the front shin stays close to vertical at the bottom.",
       "Step 2: Brace the core. Lower the rear knee toward the floor by bending both the front and rear knee simultaneously.",
-      "Step 3: Descend until the rear knee is 1–2 cm above the floor.",
-      "Step 4: Drive through the front foot — heel and midfoot — to return to the starting position.",
+      "Step 3: Descend until the rear knee is 1\u20132 cm above the floor.",
+      "Step 4: Drive through the front foot \u2014 heel and midfoot \u2014 to return to the starting position.",
       "Step 5: Complete all reps on one leg before switching."
     ],
     "breathing_instructions": "Inhale as you lower. Exhale as you return to standing.",
     "common_mistakes": [
-      "Stride too short — front knee drifts far over the toe",
-      "Leaning forward excessively — keep the torso upright",
+      "Stride too short \u2014 front knee drifts far over the toe",
+      "Leaning forward excessively \u2014 keep the torso upright",
       "Pushing off the rear toes instead of emphasizing the front leg"
     ],
     "safety_considerations": [
       "Establish balance before adding load",
       "If the front knee is painful, check foot position and reduce stride length"
     ],
-    "range_of_motion_guidance": "Rear knee to within 1–2 cm of floor. Full standing extension at the top.",
+    "range_of_motion_guidance": "Rear knee to within 1\u20132 cm of floor. Full standing extension at the top.",
     "tempo_recommendations": "2-0-1-0",
     "coaching_cues": [
       "Drop the rear knee straight down",
-      "Front foot drives the work — not the rear",
+      "Front foot drives the work \u2014 not the rear",
       "Keep the torso tall throughout"
     ]
   },
@@ -165,6 +165,9 @@
       "lunge",
       "unilateral",
       "beginner-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

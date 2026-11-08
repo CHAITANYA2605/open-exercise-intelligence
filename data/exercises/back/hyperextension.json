@@ -52,31 +52,31 @@
   ],
   "execution": {
     "starting_position": "Position yourself on the 45-degree hyperextension bench with the front of the thighs resting on the pads. Hook the ankles behind the foot supports. Cross arms over the chest or place hands behind the head. The body should form a straight line in the starting position.",
-    "setup_instructions": "Adjust the bench pad height so the hip crease is just above or at the top of the pad — this allows full range of hip flexion. Secure the ankles firmly.",
+    "setup_instructions": "Adjust the bench pad height so the hip crease is just above or at the top of the pad \u2014 this allows full range of hip flexion. Secure the ankles firmly.",
     "steps": [
-      "Step 1: Begin in the neutral starting position — body in a straight line from head to hips.",
+      "Step 1: Begin in the neutral starting position \u2014 body in a straight line from head to hips.",
       "Step 2: Slowly lower the torso toward the floor by hinging at the hips, allowing the spine to flex slightly.",
       "Step 3: Lower until a full stretch is felt in the glutes and hamstrings, or the torso is roughly perpendicular to the floor.",
       "Step 4: Drive the hips into extension and raise the torso back to neutral by contracting the glutes and erectors.",
-      "Step 5: At the top, the body should return to a neutral straight line — do not hyperextend the lumbar spine aggressively."
+      "Step 5: At the top, the body should return to a neutral straight line \u2014 do not hyperextend the lumbar spine aggressively."
     ],
     "breathing_instructions": "Inhale as you lower the torso. Exhale as you extend back to neutral.",
     "common_mistakes": [
-      "Hyperextending the lumbar spine aggressively at the top — stop at neutral or just slightly above",
+      "Hyperextending the lumbar spine aggressively at the top \u2014 stop at neutral or just slightly above",
       "Rounding the upper back excessively at the bottom, which may stress the thoracic spine",
       "Using momentum to swing up rather than controlled muscle contraction"
     ],
     "safety_considerations": [
-      "Avoid excessive spinal hyperextension at the top — this loads the facet joints unnecessarily",
+      "Avoid excessive spinal hyperextension at the top \u2014 this loads the facet joints unnecessarily",
       "If using added weight, hold it at the chest rather than behind the head to reduce cervical strain",
       "Those with existing lower back issues should consult a healthcare professional before performing this exercise"
     ],
-    "range_of_motion_guidance": "From torso perpendicular to the floor at the bottom to neutral body alignment at the top. Some lifters may extend slightly past neutral — avoid aggressive lumbar hyperextension.",
+    "range_of_motion_guidance": "From torso perpendicular to the floor at the bottom to neutral body alignment at the top. Some lifters may extend slightly past neutral \u2014 avoid aggressive lumbar hyperextension.",
     "tempo_recommendations": "2-0-2-1 (2s lower, 2s raise, 1s hold at top)",
     "coaching_cues": [
-      "Squeeze the glutes at the top — this cues hip extension rather than lower back arching",
+      "Squeeze the glutes at the top \u2014 this cues hip extension rather than lower back arching",
       "Think of your body as a pendulum hinging at the hip",
-      "Stop when your body is straight — do not arch further"
+      "Stop when your body is straight \u2014 do not arch further"
     ]
   },
   "variants": {
@@ -149,6 +149,9 @@
       "glutes",
       "back-extension",
       "posterior-chain"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

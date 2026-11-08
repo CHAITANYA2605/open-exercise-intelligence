@@ -1,7 +1,7 @@
 {
   "exercise_id": "6b8d93cc-4255-4b0d-b70d-4062566c50b0",
   "slug": "jackknife-sit-up",
-  "name": "Jackknife Sit-Up — Swiss Ball",
+  "name": "Jackknife Sit-Up \u2014 Swiss Ball",
   "alternative_names": [
     "Swiss Ball Jackknife",
     "Stability Ball Jackknife Sit-Up"
@@ -62,20 +62,20 @@
     "steps": [
       "Step 1: Begin draped over the ball, spine extended, arms overhead or at chest.",
       "Step 2: Simultaneously curl the upper body upward (spinal flexion) while drawing the knees toward the chest by rolling the feet back.",
-      "Step 3: Both the upper and lower body converge at the top of the movement — the knees and chest meet over the top of the ball.",
+      "Step 3: Both the upper and lower body converge at the top of the movement \u2014 the knees and chest meet over the top of the ball.",
       "Step 4: Extend back out in a controlled manner, letting both the upper and lower body lower simultaneously.",
       "Step 5: Return to full extension and repeat."
     ],
     "breathing_instructions": "Exhale on the jackknife. Inhale on the controlled extension.",
     "common_mistakes": [
       "Only performing the upper-body crunch without bringing the knees up",
-      "Losing balance on the ball — start with feet slightly wider for stability"
+      "Losing balance on the ball \u2014 start with feet slightly wider for stability"
     ],
     "safety_considerations": [
       "Ensure the ball is on a non-slip surface and correctly sized"
     ],
     "range_of_motion_guidance": "Full extension draped over the ball to full jackknife with knees and chest meeting.",
-    "tempo_recommendations": "2-1-2-0. Fully controlled — the ball challenges coordination.",
+    "tempo_recommendations": "2-1-2-0. Fully controlled \u2014 the ball challenges coordination.",
     "coaching_cues": [
       "Bring the knees and chest to meet each other",
       "Control both directions equally"
@@ -128,6 +128,9 @@
       "swiss-ball",
       "jackknife",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

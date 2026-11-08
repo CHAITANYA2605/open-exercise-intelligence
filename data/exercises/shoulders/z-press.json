@@ -70,7 +70,7 @@
     ],
     "breathing_instructions": "Exhale as you press, inhale on the descent.",
     "common_mistakes": [
-      "Leaning backward during the press — the torso must remain vertical throughout",
+      "Leaning backward during the press \u2014 the torso must remain vertical throughout",
       "Failing to lock out at the top",
       "Insufficient hip flexor mobility causing the legs to come off the floor"
     ],
@@ -81,7 +81,7 @@
     "range_of_motion_guidance": "Full lockout overhead. Barbell returns to shoulder level on the descent.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Sit up straight — imagine a wall behind you",
+      "Sit up straight \u2014 imagine a wall behind you",
       "No lean back during the press",
       "Legs stay flat on the floor"
     ]
@@ -140,6 +140,9 @@
       "advanced",
       "core",
       "barbell"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

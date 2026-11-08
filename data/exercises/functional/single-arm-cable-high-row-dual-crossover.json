@@ -1,12 +1,12 @@
 {
   "exercise_id": "25d957a8-51c7-40aa-b700-b3a9c9c7825b",
   "slug": "single-arm-cable-high-row-dual-crossover",
-  "name": "Single-Arm Cable High Row — Dual Crossover",
+  "name": "Single-Arm Cable High Row \u2014 Dual Crossover",
   "alternative_names": [
     "Single-Arm High Cable Row Crossover",
     "Unilateral High Row Cable Cross"
   ],
-  "description": "A single-arm back row performed from a high-pulley dual cable crossover station. With one cable set to the highest position, the exerciser rows downward and inward in a diagonal arc, pulling the handle from an elevated position (above and to the side) toward the hip. This diagonal downward pull engages the latissimus dorsi through its full functional range — from shoulder flexion to extension — with an unusually long range of motion compared to standard lat pulldowns or rows. The unilateral setup allows each side to be trained independently, correcting asymmetries, while the high cable angle specifically targets the lower fibers of the latissimus dorsi.",
+  "description": "A single-arm back row performed from a high-pulley dual cable crossover station. With one cable set to the highest position, the exerciser rows downward and inward in a diagonal arc, pulling the handle from an elevated position (above and to the side) toward the hip. This diagonal downward pull engages the latissimus dorsi through its full functional range \u2014 from shoulder flexion to extension \u2014 with an unusually long range of motion compared to standard lat pulldowns or rows. The unilateral setup allows each side to be trained independently, correcting asymmetries, while the high cable angle specifically targets the lower fibers of the latissimus dorsi.",
   "category": "functional",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -68,17 +68,17 @@
     "breathing_instructions": "Exhale as you row downward. Inhale as you return to the stretched position.",
     "common_mistakes": [
       "Using the biceps to pull rather than initiating the movement with the lat",
-      "Not fully extending the arm at the top — the stretch position is a key part of the exercise",
-      "Leaning the torso excessively to gain range — keep the torso relatively stable"
+      "Not fully extending the arm at the top \u2014 the stretch position is a key part of the exercise",
+      "Leaning the torso excessively to gain range \u2014 keep the torso relatively stable"
     ],
     "safety_considerations": [
-      "The overhead starting position should feel like a lat stretch, not a shoulder impingement — adjust body angle if the shoulder is uncomfortable",
+      "The overhead starting position should feel like a lat stretch, not a shoulder impingement \u2014 adjust body angle if the shoulder is uncomfortable",
       "Avoid excessive weight that causes the torso to collapse toward the cable on the return"
     ],
     "range_of_motion_guidance": "From full overhead arm extension (lat in a stretched position) to elbow at or below hip (lat fully contracted).",
     "tempo_recommendations": "1s initiation, 2s controlled pull, 2s hold at bottom, 4s slow return to full stretch.",
     "coaching_cues": [
-      "Feel the lat stretch at the top — this is the unique advantage of the high cable angle",
+      "Feel the lat stretch at the top \u2014 this is the unique advantage of the high cable angle",
       "Drive the elbow toward the hip, not the hand",
       "Think of pulling your elbow into your back pocket at the bottom of the rep"
     ]
@@ -132,6 +132,9 @@
       "unilateral",
       "high-cable",
       "crossover"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

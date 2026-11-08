@@ -64,13 +64,13 @@
       "Setting the bar height too low, making unracking difficult"
     ],
     "safety_considerations": [
-      "The floor catches the bar if grip fails — this is a self-spotting exercise",
+      "The floor catches the bar if grip fails \u2014 this is a self-spotting exercise",
       "Set the bar height precisely before lying down"
     ],
     "range_of_motion_guidance": "Elbows touch the floor at the bottom; full extension at top. Shorter ROM than bench press.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Let the floor stop you — don't relax tension when you touch",
+      "Let the floor stop you \u2014 don't relax tension when you touch",
       "Pause and press with intent"
     ]
   },
@@ -132,6 +132,9 @@
       "triceps",
       "partial-rom",
       "smith-machine"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

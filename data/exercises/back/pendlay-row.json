@@ -79,15 +79,15 @@
       "Not reaching full scapular retraction at the top of each rep"
     ],
     "safety_considerations": [
-      "The strict horizontal torso position places significant demand on the erector spinae — do not perform when lower back is fatigued",
+      "The strict horizontal torso position places significant demand on the erector spinae \u2014 do not perform when lower back is fatigued",
       "Use bumper plates if possible to protect the floor and bar"
     ],
     "range_of_motion_guidance": "Full dead-stop at the bottom to full scapular retraction at the top. No partial reps.",
     "tempo_recommendations": "Explosive concentric (as fast as possible under control), controlled 2s eccentric, full stop between reps.",
     "coaching_cues": [
-      "Torso parallel to the floor the entire set — if it rises, the weight is too heavy",
+      "Torso parallel to the floor the entire set \u2014 if it rises, the weight is too heavy",
       "Think of the row as a 'jump' for your upper back",
-      "Every rep starts from zero — no rebound"
+      "Every rep starts from zero \u2014 no rebound"
     ]
   },
   "variants": {
@@ -149,6 +149,9 @@
       "row",
       "dead-stop",
       "upper-back"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -60,10 +60,12 @@
         "strength",
         "cardio",
         "flexibility",
-        "balance",
+        "functional",
         "plyometric",
-        "sport",
-        "rehabilitation"
+        "power",
+        "mobility",
+        "rehabilitation",
+        "stretching"
       ],
       "description": "The primary training category."
     },
@@ -397,6 +399,37 @@
             "maxLength": 50
           },
           "uniqueItems": true
+        },
+        "review_status": {
+          "type": "string",
+          "enum": [
+            "UNREVIEWED",
+            "IN_REVIEW",
+            "APPROVED",
+            "REJECTED"
+          ],
+          "description": "Review lifecycle status. UNREVIEWED = generated or submitted, awaiting review. IN_REVIEW = currently being checked by a maintainer. APPROVED = reviewed and suitable for release. REJECTED = incorrect, unsafe, duplicated, or unsuitable."
+        },
+        "contributor_attestation": {
+          "type": "string",
+          "enum": [
+            "original-cc0",
+            "ai-generated-unreviewed"
+          ],
+          "description": "original-cc0 = human-written original content released as CC0. ai-generated-unreviewed = AI-generated, not yet human-verified."
+        },
+        "approved_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp when this exercise was approved."
+        },
+        "approved_by": {
+          "type": "string",
+          "description": "Identifier of the maintainer who approved this exercise."
+        },
+        "rejected_reason": {
+          "type": "string",
+          "description": "Reason this exercise was rejected."
         }
       }
     }

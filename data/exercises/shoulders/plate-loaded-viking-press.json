@@ -64,8 +64,8 @@
     ],
     "breathing_instructions": "Inhale and brace before pressing. Exhale through the press.",
     "common_mistakes": [
-      "Fighting the arc — the fixed bar path is an advantage; follow it rather than trying to press straight",
-      "Locking the elbows aggressively — control the lockout"
+      "Fighting the arc \u2014 the fixed bar path is an advantage; follow it rather than trying to press straight",
+      "Locking the elbows aggressively \u2014 control the lockout"
     ],
     "safety_considerations": [
       "The arcing pressing path is gentler on the shoulder than a straight barbell",
@@ -74,7 +74,7 @@
     "range_of_motion_guidance": "Shoulder height to full overhead lockout along the machine's arc.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Follow the arc — don't fight it",
+      "Follow the arc \u2014 don't fight it",
       "Neutral grip throughout",
       "Full lockout at the top"
     ]
@@ -138,6 +138,9 @@
       "overhead-press",
       "neutral-grip",
       "strength"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

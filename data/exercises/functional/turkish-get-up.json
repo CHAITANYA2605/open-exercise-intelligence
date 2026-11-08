@@ -82,19 +82,19 @@
     ],
     "breathing_instructions": "Breathe at each transition point. Do not hold breath during any single phase.",
     "common_mistakes": [
-      "Bending the locked elbow — the overhead arm must remain fully extended throughout",
-      "Watching the floor instead of the kettlebell — eyes on the bell at all times",
-      "Rushing transitions — each phase should be controlled and deliberate"
+      "Bending the locked elbow \u2014 the overhead arm must remain fully extended throughout",
+      "Watching the floor instead of the kettlebell \u2014 eyes on the bell at all times",
+      "Rushing transitions \u2014 each phase should be controlled and deliberate"
     ],
     "safety_considerations": [
       "Shoulder instability contraindicates this exercise until corrected.",
       "Learn each phase segment in isolation before combining."
     ],
     "range_of_motion_guidance": "Full lying to full standing, reversed to full lying again. Arm locked throughout.",
-    "tempo_recommendations": "Slow and deliberate. 2–5 reps per side. Quality over speed.",
+    "tempo_recommendations": "Slow and deliberate. 2\u20135 reps per side. Quality over speed.",
     "coaching_cues": [
-      "Eyes on the bell — always",
-      "Arm locked — straight elbow throughout",
+      "Eyes on the bell \u2014 always",
+      "Arm locked \u2014 straight elbow throughout",
       "Pause at each transition"
     ]
   },
@@ -146,6 +146,9 @@
       "shoulder-stability",
       "mobility",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

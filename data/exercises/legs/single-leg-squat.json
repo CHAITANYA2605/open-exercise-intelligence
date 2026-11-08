@@ -75,7 +75,7 @@
       "Step 1: Stand on the working leg with arms extended forward. Extend the free leg in front at approximately hip height.",
       "Step 2: Brace your core and begin the descent by pushing the hips back and bending the knee over the toes.",
       "Step 3: Descend until the hip is at or below knee height. The free leg stays extended forward throughout. Use the arms for counterbalance.",
-      "Step 4: Drive through the entire working foot — heel, midfoot, and ball — to return to full standing extension.",
+      "Step 4: Drive through the entire working foot \u2014 heel, midfoot, and ball \u2014 to return to full standing extension.",
       "Step 5: Complete all reps on one side, then switch."
     ],
     "breathing_instructions": "Inhale before descent. Exhale at the top of each rep.",
@@ -86,20 +86,19 @@
     ],
     "safety_considerations": [
       "Progress through regressions (box squat single-leg, assisted pistol) before attempting a full pistol squat",
-      "Ankle dorsiflexion is often the limiting factor — address with mobility work before loading"
+      "Ankle dorsiflexion is often the limiting factor \u2014 address with mobility work before loading"
     ],
     "range_of_motion_guidance": "Full depth: hip at or below knee of the working leg. Free leg remains straight and elevated throughout.",
-    "tempo_recommendations": "3-0-1-0 — control the descent; a slow eccentric is excellent for building strength",
+    "tempo_recommendations": "3-0-1-0 \u2014 control the descent; a slow eccentric is excellent for building strength",
     "coaching_cues": [
       "Reach forward with both arms to counterbalance",
       "Hips back first, then bend the knee",
-      "Drive through the heel — don't let the foot roll in"
+      "Drive through the heel \u2014 don't let the foot roll in"
     ]
   },
   "variants": {
     "easier": [
-      "bulgarian-split-squat",
-      "single-leg squat to box"
+      "bulgarian-split-squat"
     ],
     "harder": [],
     "unilateral": [],
@@ -171,6 +170,9 @@
       "unilateral",
       "advanced",
       "squat"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

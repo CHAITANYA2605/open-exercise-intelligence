@@ -56,42 +56,39 @@
     "setup_instructions": "Adjust the machine so the pivot point aligns with the knee joint. The pad should contact just above the heel cord. Set a resistance appropriate for controlled full-range movement.",
     "steps": [
       "Step 1: Lie prone, grip the handles, and position the pad on the lower calf near the ankle.",
-      "Step 2: Curl the pad upward by flexing the knees as far as the machine allows — ideally to 120–140° of knee flexion.",
+      "Step 2: Curl the pad upward by flexing the knees as far as the machine allows \u2014 ideally to 120\u2013140\u00b0 of knee flexion.",
       "Step 3: Hold briefly at the top with the hamstrings fully contracted.",
-      "Step 4: Lower the weight under control back to full knee extension — do not let the weight stack crash.",
+      "Step 4: Lower the weight under control back to full knee extension \u2014 do not let the weight stack crash.",
       "Step 5: Repeat for the prescribed number of reps."
     ],
     "breathing_instructions": "Exhale as you curl up. Inhale as you lower.",
     "common_mistakes": [
-      "Using momentum — the hips should not rise off the pad during the curl",
+      "Using momentum \u2014 the hips should not rise off the pad during the curl",
       "Using a range that stops short of full extension, reducing the hamstring stretch",
       "Letting the weight stack crash at the bottom, which loses the eccentric stimulus"
     ],
     "safety_considerations": [
-      "If hip flexors are tight, the hip will flex during the curl — this reduces stimulus and can cause low back discomfort",
-      "Avoid this machine if you have posterior knee issues — discuss with a clinician"
+      "If hip flexors are tight, the hip will flex during the curl \u2014 this reduces stimulus and can cause low back discomfort",
+      "Avoid this machine if you have posterior knee issues \u2014 discuss with a clinician"
     ],
     "range_of_motion_guidance": "Full extension at the bottom to full available flexion at the top. The hamstrings should be under load through the entire range.",
-    "tempo_recommendations": "2-1-3-0 — a slow eccentric (3 seconds) maximizes time under tension",
+    "tempo_recommendations": "2-1-3-0 \u2014 a slow eccentric (3 seconds) maximizes time under tension",
     "coaching_cues": [
-      "Don't let the hips leave the pad — keep them pressed down",
-      "Control the weight all the way down — no crashing",
+      "Don't let the hips leave the pad \u2014 keep them pressed down",
+      "Control the weight all the way down \u2014 no crashing",
       "Squeeze the hamstrings at the top of each rep"
     ]
   },
   "variants": {
     "easier": [],
-    "harder": [
-      "nordic-hamstring-curl"
-    ],
+    "harder": [],
     "unilateral": [],
     "bilateral": [
       "stiff-leg-deadlift",
       "barbell-romanian-deadlift"
     ],
     "equipment_alternatives": [
-      "seated-leg-curl",
-      "nordic-hamstring-curl"
+      "seated-leg-curl"
     ]
   },
   "training_parameters": {
@@ -155,6 +152,9 @@
       "isolation",
       "machine",
       "beginner-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

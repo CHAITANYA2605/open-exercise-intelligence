@@ -2,7 +2,10 @@
   "exercise_id": "b8c9d0e1-f2a3-4456-b789-c01d23e45678",
   "slug": "banded-bench-press",
   "name": "Banded Resistance Barbell Bench Press",
-  "alternative_names": ["Bench Press with Bands", "Band-Resisted Bench Press"],
+  "alternative_names": [
+    "Bench Press with Bands",
+    "Band-Resisted Bench Press"
+  ],
   "description": "The Banded Bench Press attaches resistance bands to the barbell and anchors them below the bench, creating accommodating resistance that increases as the bar approaches lockout. The bands also create an overspeed eccentric on the way down, demanding greater eccentric control. This tool trains explosive pressing intent and lockout strength simultaneously.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,66 +18,132 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023", "eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023",
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Loop bands around the barbell sleeves and anchor them under the bench feet or to the base of a power rack. Lie on the bench and grip the bar as for a standard bench press.",
     "setup_instructions": "Secure bands symmetrically on both sides with equal tension. Reduce barbell plate load to account for band tension at lockout. The total load at lockout equals barbell weight plus band tension.",
     "steps": [
       "Step 1: Unrack the bar; feel the band tension pulling the bar downward.",
-      "Step 2: Lower under full control — the bands create an overspeed eccentric pull.",
+      "Step 2: Lower under full control \u2014 the bands create an overspeed eccentric pull.",
       "Step 3: Touch the chest and immediately press with maximal intent.",
       "Step 4: Drive to lockout against the increasing band resistance."
     ],
     "breathing_instructions": "Inhale and brace before the eccentric. Exhale through lockout.",
     "common_mistakes": [
       "Using bands that are too heavy, turning the eccentric into an uncontrollable drop",
-      "Overloading the barbell — total load at lockout should not exceed your true max"
+      "Overloading the barbell \u2014 total load at lockout should not exceed your true max"
     ],
     "safety_considerations": [
-      "Bands can slip if not anchored correctly — double-check anchor points",
+      "Bands can slip if not anchored correctly \u2014 double-check anchor points",
       "Always use a power rack with safety bars"
     ],
-    "range_of_motion_guidance": "Full ROM — chest to lockout. Same as standard bench press.",
+    "range_of_motion_guidance": "Full ROM \u2014 chest to lockout. Same as standard bench press.",
     "tempo_recommendations": "3-0-X-0",
     "coaching_cues": [
       "Fight the bands down and explode up",
-      "Press as fast as possible — your intent drives the adaptation"
+      "Press as fast as possible \u2014 your intent drives the adaptation"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "power", "min_reps": 2, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 2,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "power", "min_sets": 4, "max_sets": 8}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "power",
+        "min_sets": 4,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"strength": 240, "power": 180},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 240,
+      "power": 180
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["powerlifting", "accommodating-resistance", "bands", "speed-work"]
+    "tags": [
+      "powerlifting",
+      "accommodating-resistance",
+      "bands",
+      "speed-work"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

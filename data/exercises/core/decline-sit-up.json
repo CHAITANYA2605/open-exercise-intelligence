@@ -54,7 +54,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the decline bench with feet secured under the ankle pads, knees bent. Cross arms over the chest or place fingertips behind the ears.",
-    "setup_instructions": "Set the bench to a moderate decline (20–40°). Ensure the ankle pads firmly hold the feet without causing ankle discomfort.",
+    "setup_instructions": "Set the bench to a moderate decline (20\u201340\u00b0). Ensure the ankle pads firmly hold the feet without causing ankle discomfort.",
     "steps": [
       "Step 1: Begin lying fully extended on the bench. Engage the core.",
       "Step 2: Curl the chin toward the chest, then lift the torso by sequentially contracting the abs and flexing the spine.",
@@ -64,7 +64,7 @@
     ],
     "breathing_instructions": "Exhale on the way up. Inhale on the controlled descent.",
     "common_mistakes": [
-      "Pulling the neck with the hands behind the head — this compresses the cervical spine",
+      "Pulling the neck with the hands behind the head \u2014 this compresses the cervical spine",
       "Using a momentum bounce at the bottom rather than a controlled eccentric"
     ],
     "safety_considerations": [
@@ -74,7 +74,7 @@
     "tempo_recommendations": "2-1-2-0. Slow and controlled. No bouncing at the bottom.",
     "coaching_cues": [
       "Lead with the chest, not the neck",
-      "Control the way down — don't drop"
+      "Control the way down \u2014 don't drop"
     ]
   },
   "variants": {
@@ -129,6 +129,9 @@
       "abs",
       "sit-up",
       "decline"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

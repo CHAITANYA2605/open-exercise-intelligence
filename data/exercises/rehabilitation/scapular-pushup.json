@@ -6,7 +6,7 @@
     "Scapular Protraction Push-Up",
     "Serratus Push-Up"
   ],
-  "description": "The scapular push-up is a rehabilitation drill that trains serratus anterior strength and scapular protraction control in a push-up position. Unlike a standard push-up, the elbows remain locked throughout and only the shoulder blades move — protracting (spreading apart) and retracting (pinching together). It is prescribed for serratus anterior weakness, scapular winging, and shoulder instability.",
+  "description": "The scapular push-up is a rehabilitation drill that trains serratus anterior strength and scapular protraction control in a push-up position. Unlike a standard push-up, the elbows remain locked throughout and only the shoulder blades move \u2014 protracting (spreading apart) and retracting (pinching together). It is prescribed for serratus anterior weakness, scapular winging, and shoulder instability.",
   "category": "rehabilitation",
   "exercise_type": "strength",
   "difficulty_level": "beginner",
@@ -52,17 +52,17 @@
     ],
     "breathing_instructions": "Exhale on protraction (spreading apart). Inhale on retraction.",
     "common_mistakes": [
-      "Bending the elbows — the elbows stay locked throughout",
+      "Bending the elbows \u2014 the elbows stay locked throughout",
       "Moving the hips or lower back rather than isolating the shoulder blades",
       "Not achieving full protraction at the top"
     ],
     "safety_considerations": [
       "Appropriate for most populations including early post-operative shoulder patients when cleared by a clinician"
     ],
-    "range_of_motion_guidance": "Full retraction to full protraction. The range is typically 2–5 cm of vertical body travel.",
-    "tempo_recommendations": "2 seconds retract, 2 seconds protract. 15–20 reps × 2–3 sets.",
+    "range_of_motion_guidance": "Full retraction to full protraction. The range is typically 2\u20135 cm of vertical body travel.",
+    "tempo_recommendations": "2 seconds retract, 2 seconds protract. 15\u201320 reps \u00d7 2\u20133 sets.",
     "coaching_cues": [
-      "Arms stay completely straight — this is all shoulder blade",
+      "Arms stay completely straight \u2014 this is all shoulder blade",
       "At the top, push the floor away and round the upper back like a cat",
       "Feel the muscles around the shoulder blades working"
     ]
@@ -114,6 +114,9 @@
       "scapular",
       "shoulder",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

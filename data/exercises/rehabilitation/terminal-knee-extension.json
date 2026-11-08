@@ -50,14 +50,14 @@
     "setup_instructions": "Anchor the band at a rack or door frame at approximately knee height. The band pulls the knee into slight flexion.",
     "steps": [
       "Step 1: Face away from the band anchor, loop the band behind the working knee.",
-      "Step 2: Stand on the working leg with a slight knee bend (10–30 degrees). The band will pull the knee into further flexion.",
+      "Step 2: Stand on the working leg with a slight knee bend (10\u201330 degrees). The band will pull the knee into further flexion.",
       "Step 3: Straighten the knee fully against the band's resistance, contracting the quadriceps hard at full extension.",
-      "Step 4: Hold the fully extended position for 1–2 seconds.",
+      "Step 4: Hold the fully extended position for 1\u20132 seconds.",
       "Step 5: Slowly allow the band to flex the knee back to the starting position with control."
     ],
     "breathing_instructions": "Exhale as the knee extends. Inhale as it returns.",
     "common_mistakes": [
-      "Hyperextending the knee forcefully — extend to neutral, not beyond",
+      "Hyperextending the knee forcefully \u2014 extend to neutral, not beyond",
       "Using momentum rather than a controlled quad contraction",
       "Letting the hip drop on the non-working side"
     ],
@@ -65,8 +65,8 @@
       "Safe for most post-surgical knee populations when cleared by a clinician",
       "Avoid hyperextension if the patient has posterior capsule or PCL involvement"
     ],
-    "range_of_motion_guidance": "From 30 degrees of flexion to full extension. Focus on the terminal range — the last 15–20 degrees.",
-    "tempo_recommendations": "2-second extension, 2-second hold, 2-second return. 15–20 reps × 2–3 sets.",
+    "range_of_motion_guidance": "From 30 degrees of flexion to full extension. Focus on the terminal range \u2014 the last 15\u201320 degrees.",
+    "tempo_recommendations": "2-second extension, 2-second hold, 2-second return. 15\u201320 reps \u00d7 2\u20133 sets.",
     "coaching_cues": [
       "Squeeze the quad hard at full lockout",
       "Straighten the knee without snapping it back",
@@ -122,6 +122,9 @@
       "ACL",
       "band",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

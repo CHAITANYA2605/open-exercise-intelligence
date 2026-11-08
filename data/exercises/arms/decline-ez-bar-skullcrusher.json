@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-0133-4000-a000-100000000133",
   "slug": "decline-ez-bar-skullcrusher",
   "name": "Decline EZ-Bar Skull Crusher",
-  "alternative_names": ["Decline Lying Tricep Extension EZ-Bar"],
+  "alternative_names": [
+    "Decline Lying Tricep Extension EZ-Bar"
+  ],
   "description": "The decline EZ-bar skull crusher uses a decline bench (typically -15 to -30 degrees) which moves the target area from the forehead downward, allowing the bar to travel further behind the head at the bottom of the movement. The decline angle places the medial and lateral heads under greater relative load compared to the flat version, and many lifters find the decline position more comfortable on the elbows. The extended range behind the head increases tricep stretch.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,15 +17,27 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000003-0000-4000-a000-000000000003", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000003-0000-4000-a000-000000000003",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set a bench to a slight decline. Secure feet. Lie back and have a spotter hand the EZ-bar to full extension above the lower chest/face.",
@@ -35,30 +49,70 @@
       "Step 4: Press back to the starting position by extending the elbows."
     ],
     "breathing_instructions": "Inhale on descent, exhale on press.",
-    "common_mistakes": ["Letting the bar travel too far behind the head with heavy loads", "Upper arms moving — keep them fixed"],
-    "safety_considerations": ["The decline position makes the bar harder to control if dropped — always use a spotter"],
+    "common_mistakes": [
+      "Letting the bar travel too far behind the head with heavy loads",
+      "Upper arms moving \u2014 keep them fixed"
+    ],
+    "safety_considerations": [
+      "The decline position makes the bar harder to control if dropped \u2014 always use a spotter"
+    ],
     "range_of_motion_guidance": "Full extension to bar behind the top of the head.",
     "tempo_recommendations": "2-0-2-0",
-    "coaching_cues": ["Upper arms fixed — perpendicular to bench", "Let the bar go behind the head", "Drive up through the triceps"]
+    "coaching_cues": [
+      "Upper arms fixed \u2014 perpendicular to bench",
+      "Let the bar go behind the head",
+      "Drive up through the triceps"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "isolation", "ez-bar", "decline"]
+    "tags": [
+      "tricep",
+      "isolation",
+      "ez-bar",
+      "decline"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -62,31 +62,31 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Stand with feet shoulder-width apart. Kettlebell in the rack position on the right side — bell resting on the forearm, elbow close to the body, upper arm vertical.",
+    "starting_position": "Stand with feet shoulder-width apart. Kettlebell in the rack position on the right side \u2014 bell resting on the forearm, elbow close to the body, upper arm vertical.",
     "setup_instructions": "Clean the kettlebell into the rack position to begin. Stand tall with the torso upright.",
     "steps": [
       "Step 1: Begin in the racked position with the bell at shoulder height, elbow close to the torso.",
       "Step 2: Press the kettlebell directly overhead by extending the elbow and driving the hand upward.",
-      "Step 3: Lock out the arm fully overhead — the bicep should be near the ear.",
+      "Step 3: Lock out the arm fully overhead \u2014 the bicep should be near the ear.",
       "Step 4: Lower the bell under control back to the rack position.",
       "Step 5: Complete all reps on one side before switching."
     ],
     "breathing_instructions": "Exhale on the press. Inhale on the return to rack.",
     "common_mistakes": [
-      "Side-bending away from the bell — maintain an upright torso",
+      "Side-bending away from the bell \u2014 maintain an upright torso",
       "Not fully locking out the elbow at the top",
-      "Starting with the elbow flared out — it should be close to the body in the rack"
+      "Starting with the elbow flared out \u2014 it should be close to the body in the rack"
     ],
     "safety_considerations": [
       "Shoulder impingement or instability should be assessed before heavy overhead pressing.",
       "Ensure full lockout on each rep to protect the shoulder joint."
     ],
     "range_of_motion_guidance": "Full elbow lockout overhead. Full return to racked position.",
-    "tempo_recommendations": "3–8 reps per side. Controlled tempo — 2 seconds up, pause at top, 2 seconds down.",
+    "tempo_recommendations": "3\u20138 reps per side. Controlled tempo \u2014 2 seconds up, pause at top, 2 seconds down.",
     "coaching_cues": [
-      "Press straight up — not forward",
-      "Lock out — bicep near the ear",
-      "Stay tall — no lean"
+      "Press straight up \u2014 not forward",
+      "Lock out \u2014 bicep near the ear",
+      "Stay tall \u2014 no lean"
     ]
   },
   "variants": {
@@ -148,6 +148,9 @@
       "shoulder",
       "overhead-press",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

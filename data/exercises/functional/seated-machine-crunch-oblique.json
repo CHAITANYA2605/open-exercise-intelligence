@@ -1,7 +1,7 @@
 {
   "exercise_id": "0b47b7bb-955b-43ea-af43-27f1c11a3dbf",
   "slug": "seated-machine-crunch-oblique",
-  "name": "Seated Machine Crunch — Oblique Rotation",
+  "name": "Seated Machine Crunch \u2014 Oblique Rotation",
   "alternative_names": [
     "Machine Rotary Crunch",
     "Oblique Machine Crunch"
@@ -56,10 +56,10 @@
     "common_mistakes": [
       "Using the arms and chest pad to push rather than the core to pull",
       "Rotating from the hips rather than the thoracic spine",
-      "Rushing through the rotation — the oblique contraction requires a controlled squeeze at the end range"
+      "Rushing through the rotation \u2014 the oblique contraction requires a controlled squeeze at the end range"
     ],
     "safety_considerations": [
-      "If the machine does not allow rotational movement, do not force it — this variation may not be possible on all designs",
+      "If the machine does not allow rotational movement, do not force it \u2014 this variation may not be possible on all designs",
       "If neck pain occurs during the crunch, reduce the range or change to a supported crunch variation"
     ],
     "range_of_motion_guidance": "Full flexion with maximum comfortable rotation at the bottom.",
@@ -118,6 +118,9 @@
       "machine",
       "functional",
       "rotation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

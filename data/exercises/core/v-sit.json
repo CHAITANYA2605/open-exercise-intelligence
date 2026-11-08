@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e003-4000-a000-000000000103",
   "slug": "v-sit",
   "name": "V-Sit",
-  "alternative_names": ["V-Up Hold", "Boat Pose"],
+  "alternative_names": [
+    "V-Up Hold",
+    "Boat Pose"
+  ],
   "description": "The V-sit is an advanced isometric calisthenics hold in which the athlete balances on the tailbone with both arms and legs raised, forming a V-shape with the torso and legs. It simultaneously demands strong hip flexor strength and rectus abdominis tension to hold the torso upright against the hip-flexion load. The exercise requires significant core compression and spinal control, making it a progression from the hollow hold.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the floor with legs extended and hands lightly on the floor beside the hips.",
@@ -52,11 +81,11 @@
       "Avoid if experiencing lower back pain that is aggravated by sustained hip flexion."
     ],
     "range_of_motion_guidance": "Legs should form a 45-degree angle with the floor. The torso should lean back enough to counterbalance the legs.",
-    "tempo_recommendations": "Hold for 10–30 seconds. Build duration progressively.",
+    "tempo_recommendations": "Hold for 10\u201330 seconds. Build duration progressively.",
     "coaching_cues": [
       "Sit tall through the crown of your head",
       "Squeeze your thighs together and point your toes",
-      "Create a V — not a C"
+      "Create a V \u2014 not a C"
     ]
   },
   "variants": {
@@ -68,23 +97,58 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 1},
-      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 1
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 90, "endurance": 60},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["gymnastics", "core", "isometric", "advanced"]
+    "tags": [
+      "gymnastics",
+      "core",
+      "isometric",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

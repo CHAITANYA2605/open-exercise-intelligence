@@ -56,19 +56,19 @@
     ],
     "breathing_instructions": "Exhale on the crossover, inhale on the return.",
     "common_mistakes": [
-      "Leaning forward during the movement — maintain an upright seated position throughout",
-      "Bending elbows too much — keep the slight, fixed bend throughout the arc",
+      "Leaning forward during the movement \u2014 maintain an upright seated position throughout",
+      "Bending elbows too much \u2014 keep the slight, fixed bend throughout the arc",
       "Bench placed off-center, creating uneven cable tension"
     ],
     "safety_considerations": [
       "Ensure the bench is stable and not at risk of tipping",
-      "Keep the spine neutral — avoid rounding forward during the crossover"
+      "Keep the spine neutral \u2014 avoid rounding forward during the crossover"
     ],
     "range_of_motion_guidance": "Full sweep from arms extended to full crossover. The seated position and bench anchor point define the natural range.",
     "tempo_recommendations": "2-1-2-1",
     "coaching_cues": [
-      "Sit tall — imagine a string pulling you up from the crown of your head",
-      "Sweep from the chest — think of hugging a barrel"
+      "Sit tall \u2014 imagine a string pulling you up from the crown of your head",
+      "Sweep from the chest \u2014 think of hugging a barrel"
     ]
   },
   "variants": {
@@ -124,6 +124,9 @@
       "isolation",
       "chest",
       "flye"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

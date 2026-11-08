@@ -64,7 +64,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "The sandbag rests on the ground. Stand beside it in an athletic stance, hips back, chest up.",
-    "setup_instructions": "Fill the sandbag to the target weight. Filler bags should be sealed. Begin with a sandbag at 25–40% of bodyweight for carry training.",
+    "setup_instructions": "Fill the sandbag to the target weight. Filler bags should be sealed. Begin with a sandbag at 25\u201340% of bodyweight for carry training.",
     "steps": [
       "Step 1: Deadlift the sandbag from the floor to lap height, then hug it into the chest.",
       "Step 2: Rotate and load the sandbag onto one shoulder. The bag rests across the shoulder and upper back.",
@@ -79,14 +79,14 @@
       "Walking too fast and letting the bag shift uncontrollably"
     ],
     "safety_considerations": [
-      "Drop the bag to the side rather than forward if you lose control — do not fall with it",
+      "Drop the bag to the side rather than forward if you lose control \u2014 do not fall with it",
       "Start with a lighter sandbag and build tolerance to the awkward loading before adding weight"
     ],
-    "range_of_motion_guidance": "Walk distance: 20–50 metres per set. Shoulder alternation: switch at the midpoint of each length.",
-    "tempo_recommendations": "2–4 lengths of 20–25 metres per set, switching shoulders each length. Rest 2–3 minutes. 3–5 sets.",
+    "range_of_motion_guidance": "Walk distance: 20\u201350 metres per set. Shoulder alternation: switch at the midpoint of each length.",
+    "tempo_recommendations": "2\u20134 lengths of 20\u201325 metres per set, switching shoulders each length. Rest 2\u20133 minutes. 3\u20135 sets.",
     "coaching_cues": [
-      "Resist the lean — stay tall and stack the shoulder over the hip",
-      "Keep the core braced throughout — do not relax mid-walk",
+      "Resist the lean \u2014 stay tall and stack the shoulder over the hip",
+      "Keep the core braced throughout \u2014 do not relax mid-walk",
       "Look ahead, not at the bag"
     ]
   },
@@ -144,6 +144,9 @@
       "functional",
       "sandbag",
       "core"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

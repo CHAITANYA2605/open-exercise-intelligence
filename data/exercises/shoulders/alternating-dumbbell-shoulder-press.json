@@ -62,9 +62,9 @@
       "Step 4: Continue alternating in a smooth, see-saw rhythm.",
       "Step 5: One rep = one press per side."
     ],
-    "breathing_instructions": "Breathe naturally with the alternating rhythm — typically exhale on each press.",
+    "breathing_instructions": "Breathe naturally with the alternating rhythm \u2014 typically exhale on each press.",
     "common_mistakes": [
-      "Leaning toward the pressing side — maintain an upright posture",
+      "Leaning toward the pressing side \u2014 maintain an upright posture",
       "Letting the resting arm drop below shoulder height between presses"
     ],
     "safety_considerations": [
@@ -73,8 +73,8 @@
     "range_of_motion_guidance": "Shoulder height to full overhead lockout per arm.",
     "tempo_recommendations": "2-0-2-0 per arm",
     "coaching_cues": [
-      "See-saw rhythm — smooth alternation",
-      "Stay upright — no lean",
+      "See-saw rhythm \u2014 smooth alternation",
+      "Stay upright \u2014 no lean",
       "Full lockout each arm"
     ]
   },
@@ -126,6 +126,9 @@
       "alternating",
       "press",
       "core"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

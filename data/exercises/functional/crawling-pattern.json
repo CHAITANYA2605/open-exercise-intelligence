@@ -66,25 +66,25 @@
     "setup_instructions": "No equipment required. Adequate clean floor space for crawling distance. Consider knee pads on hard surfaces.",
     "steps": [
       "Step 1: Begin in the low quadruped position with the body close to the floor.",
-      "Step 2: Move contralaterally — right hand and left foot advance simultaneously.",
+      "Step 2: Move contralaterally \u2014 right hand and left foot advance simultaneously.",
       "Step 3: Keep the torso parallel to and close to the floor throughout.",
       "Step 4: Continue forward for the prescribed distance, maintaining body position.",
       "Step 5: Can also be performed laterally, backward, or in combination patterns."
     ],
-    "breathing_instructions": "Breathe continuously. The low position can restrict breathing — keep breaths controlled.",
+    "breathing_instructions": "Breathe continuously. The low position can restrict breathing \u2014 keep breaths controlled.",
     "common_mistakes": [
-      "Rising too high — the body should stay low to the floor",
-      "Moving ipsilateral limbs — the contralateral pattern is essential",
+      "Rising too high \u2014 the body should stay low to the floor",
+      "Moving ipsilateral limbs \u2014 the contralateral pattern is essential",
       "Letting the core sag and hips drop to the floor"
     ],
     "safety_considerations": [
       "Floor hygiene is relevant for direct skin contact in army-crawl variants.",
-      "High hip flexor and shoulder demand — progress gradually."
+      "High hip flexor and shoulder demand \u2014 progress gradually."
     ],
     "range_of_motion_guidance": "Full forward reach on each step. Body remains consistently close to the floor.",
-    "tempo_recommendations": "10–20 meters per set. Quality of movement over speed.",
+    "tempo_recommendations": "10\u201320 meters per set. Quality of movement over speed.",
     "coaching_cues": [
-      "Stay low — belly close to the floor",
+      "Stay low \u2014 belly close to the floor",
       "Opposite arm and leg",
       "Breathe through the movement"
     ]
@@ -137,6 +137,9 @@
       "core",
       "coordination",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

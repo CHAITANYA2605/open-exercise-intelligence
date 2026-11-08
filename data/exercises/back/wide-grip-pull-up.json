@@ -55,7 +55,7 @@
     "eq000020-0000-4000-a000-000000000020"
   ],
   "execution": {
-    "starting_position": "Grasp the pull-up bar with a pronated grip wider than shoulder-width — roughly 1.5× shoulder width. Hang in a full dead hang.",
+    "starting_position": "Grasp the pull-up bar with a pronated grip wider than shoulder-width \u2014 roughly 1.5\u00d7 shoulder width. Hang in a full dead hang.",
     "setup_instructions": "Use a straight pull-up bar long enough for a wide grip. Avoid grip positions so wide they compromise shoulder health.",
     "steps": [
       "Step 1: Begin in a dead hang with the wide pronated grip.",
@@ -71,14 +71,14 @@
       "Pulling only to chin level when chest-to-bar is achievable"
     ],
     "safety_considerations": [
-      "Very wide grips place more stress on the shoulder joint — use a grip no wider than 1.5× shoulder width for most trainees",
+      "Very wide grips place more stress on the shoulder joint \u2014 use a grip no wider than 1.5\u00d7 shoulder width for most trainees",
       "If shoulder discomfort occurs, reduce grip width"
     ],
-    "range_of_motion_guidance": "Full dead hang to chin above bar. The wider grip reduces total range of motion compared to shoulder-width — this is normal.",
+    "range_of_motion_guidance": "Full dead hang to chin above bar. The wider grip reduces total range of motion compared to shoulder-width \u2014 this is normal.",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
       "Drive the elbows toward the hip pockets",
-      "Think 'lat spread' — visualize spreading the elbows wide as you pull",
+      "Think 'lat spread' \u2014 visualize spreading the elbows wide as you pull",
       "Keep the chest up and spine long"
     ]
   },
@@ -140,6 +140,9 @@
       "calisthenics",
       "lat",
       "wide-grip"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

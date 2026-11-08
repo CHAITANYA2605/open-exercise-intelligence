@@ -6,7 +6,7 @@
     "Pec Deck Isometric Hold",
     "Machine Fly Peak Hold"
   ],
-  "description": "A pec deck flye variation where each repetition includes a deliberate 2–3 second isometric hold at the fully contracted position (arms together in front). This peak contraction technique maximizes tension on the pectoralis major at its shortest length, where the muscle generates a powerful squeeze. The paused technique is used specifically to develop the mind-muscle connection and improve the ability to feel and contract the chest at peak.",
+  "description": "A pec deck flye variation where each repetition includes a deliberate 2\u20133 second isometric hold at the fully contracted position (arms together in front). This peak contraction technique maximizes tension on the pectoralis major at its shortest length, where the muscle generates a powerful squeeze. The paused technique is used specifically to develop the mind-muscle connection and improve the ability to feel and contract the chest at peak.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -45,13 +45,13 @@
     "steps": [
       "Step 1: Begin with arms open, feeling the chest stretch.",
       "Step 2: Drive the arms together in a sweeping arc.",
-      "Step 3: At full contraction — arms as close together as the machine allows — hold the position for 2–3 seconds. Squeeze the chest as hard as possible.",
+      "Step 3: At full contraction \u2014 arms as close together as the machine allows \u2014 hold the position for 2\u20133 seconds. Squeeze the chest as hard as possible.",
       "Step 4: Return under control to the starting position, feeling the full stretch. Repeat."
     ],
     "breathing_instructions": "Exhale as arms come together, hold breath briefly during the peak isometric, inhale on the return.",
     "common_mistakes": [
       "Releasing the squeeze immediately at the top instead of holding the contraction",
-      "Using momentum to swing the arms together — slow and deliberate movement is essential",
+      "Using momentum to swing the arms together \u2014 slow and deliberate movement is essential",
       "Shoulder blades lifting off the back pad during the squeeze"
     ],
     "safety_considerations": [
@@ -61,8 +61,8 @@
     "range_of_motion_guidance": "Full range from maximum comfortable stretch to full contraction. The key is the held peak at the top.",
     "tempo_recommendations": "2-3-2-1 (2s sweep in, 3s peak hold, 2s return, 1s stretch)",
     "coaching_cues": [
-      "Squeeze as hard as you possibly can at the top — try to touch your elbows together",
-      "The hold is not a rest — it is the most important part of each rep"
+      "Squeeze as hard as you possibly can at the top \u2014 try to touch your elbows together",
+      "The hold is not a rest \u2014 it is the most important part of each rep"
     ]
   },
   "variants": {
@@ -113,6 +113,9 @@
       "peak-contraction",
       "isolation",
       "chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

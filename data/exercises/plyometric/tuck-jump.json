@@ -77,12 +77,12 @@
     ],
     "safety_considerations": [
       "Ensure adequate overhead space.",
-      "Land softly — knee and hip flexion on landing."
+      "Land softly \u2014 knee and hip flexion on landing."
     ],
     "range_of_motion_guidance": "Maximum vertical height, then maximum knee tuck. Extend to land.",
-    "tempo_recommendations": "Maximum effort. 5–10 reps per set for conditioning; 3–5 reps for power focus.",
+    "tempo_recommendations": "Maximum effort. 5\u201310 reps per set for conditioning; 3\u20135 reps for power focus.",
     "coaching_cues": [
-      "Jump first — then tuck",
+      "Jump first \u2014 then tuck",
       "Pull the knees to the chest at the peak",
       "Land quietly with bent knees"
     ]
@@ -145,6 +145,9 @@
       "power",
       "jumping",
       "gymnastics"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

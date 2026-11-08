@@ -2,7 +2,10 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50013",
   "slug": "cossack-squat-overhead-plate",
   "name": "Cossack Squat with Overhead Plate",
-  "alternative_names": ["Loaded Cossack Squat Overhead", "Overhead Cossack"],
+  "alternative_names": [
+    "Loaded Cossack Squat Overhead",
+    "Overhead Cossack"
+  ],
   "description": "A loaded cossack squat performed with a weight plate held overhead. The overhead position shifts the center of mass upward and forward, demanding more thoracic extension, shoulder stability, and ankle dorsiflexion than the unloaded version. The combined demands of deep lateral hip mobility (cossack) with overhead stability create a full-body mobility and strength stimulus. Used in advanced mobility programming, weightlifting preparation, and functional strength development.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet approximately 2-2.5 times shoulder-width apart, toes slightly out. Hold a weight plate (5-10 kg) overhead with arms fully extended.",
@@ -41,26 +70,74 @@
       "Step 4: Drive through the right foot to transition through center, then descend to the left side. Alternate sides in a flowing pattern."
     ],
     "breathing_instructions": "Exhale as you descend into the squat. Inhale as you rise through center.",
-    "common_mistakes": ["Letting the plate drift forward rather than staying directly overhead — this causes forward torso lean", "Heel of the squatting side lifting — work on ankle mobility if this occurs", "Using too heavy a plate before the movement pattern is solid"],
-    "safety_considerations": ["Only add the overhead component after the unloaded cossack squat is mastered", "Avoid if shoulder mobility prevents a true overhead lockout — the plate must be directly overhead, not in front"],
+    "common_mistakes": [
+      "Letting the plate drift forward rather than staying directly overhead \u2014 this causes forward torso lean",
+      "Heel of the squatting side lifting \u2014 work on ankle mobility if this occurs",
+      "Using too heavy a plate before the movement pattern is solid"
+    ],
+    "safety_considerations": [
+      "Only add the overhead component after the unloaded cossack squat is mastered",
+      "Avoid if shoulder mobility prevents a true overhead lockout \u2014 the plate must be directly overhead, not in front"
+    ],
     "range_of_motion_guidance": "Full depth cossack squat with the heel flat and the plate locked overhead.",
     "tempo_recommendations": "3-5s hold at each bottom position. Slow controlled transitions.",
-    "coaching_cues": ["Keep the plate directly overhead — if it drifts forward, the torso will too", "Drive the squat heel into the floor — heel down at all costs", "Feel the stretch from the inner thigh to the outer shoulder on each side"]
+    "coaching_cues": [
+      "Keep the plate directly overhead \u2014 if it drifts forward, the torso will too",
+      "Drive the squat heel into the floor \u2014 heel down at all costs",
+      "Feel the stretch from the inner thigh to the outer shoulder on each side"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "mobility", "min_reps": 5, "max_reps": 8}],
-    "recommended_set_ranges": [{"goal": "mobility", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"mobility": 60},
-    "training_goals": ["mobility", "strength"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 8
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cossack", "overhead", "mobility", "hip-adductor", "functional"]
+    "tags": [
+      "cossack",
+      "overhead",
+      "mobility",
+      "hip-adductor",
+      "functional"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

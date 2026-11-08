@@ -6,7 +6,7 @@
     "Anterior Tibialis Raise",
     "Shin Raise"
   ],
-  "description": "The tibialis raise is a dorsiflexion exercise that targets the tibialis anterior — the muscle on the front of the shin — by raising the forefoot against resistance while keeping the heels fixed. It is the antagonist movement to calf raises and is frequently neglected in training programs. Strengthening the tibialis anterior is associated with reduced risk of shin splints and anterior leg pain in runners, walkers, and athletes.",
+  "description": "The tibialis raise is a dorsiflexion exercise that targets the tibialis anterior \u2014 the muscle on the front of the shin \u2014 by raising the forefoot against resistance while keeping the heels fixed. It is the antagonist movement to calf raises and is frequently neglected in training programs. Strengthening the tibialis anterior is associated with reduced risk of shin splints and anterior leg pain in runners, walkers, and athletes.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -40,10 +40,10 @@
       "Step 4: Lower the forefoot under control back to the floor.",
       "Step 5: Repeat for the prescribed reps."
     ],
-    "breathing_instructions": "Breathe freely — this is a low-intensity isolation exercise.",
+    "breathing_instructions": "Breathe freely \u2014 this is a low-intensity isolation exercise.",
     "common_mistakes": [
-      "Barely lifting the toes — the tibialis anterior should be fully contracted at the top",
-      "Moving too fast — slow, controlled reps with a peak contraction are more effective"
+      "Barely lifting the toes \u2014 the tibialis anterior should be fully contracted at the top",
+      "Moving too fast \u2014 slow, controlled reps with a peak contraction are more effective"
     ],
     "safety_considerations": [
       "Very low injury risk exercise",
@@ -54,7 +54,7 @@
     "coaching_cues": [
       "Pull the toes up as high as you can",
       "Feel the front of the shin working",
-      "Don't let the foot drop — control the lowering"
+      "Don't let the foot drop \u2014 control the lowering"
     ]
   },
   "variants": {
@@ -105,6 +105,9 @@
       "prehab",
       "injury-prevention",
       "beginner-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

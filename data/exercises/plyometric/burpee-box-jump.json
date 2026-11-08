@@ -5,7 +5,7 @@
   "alternative_names": [
     "Box Jump Burpee"
   ],
-  "description": "The burpee box jump combines the full-body conditioning demand of a burpee with the explosive vertical jump mechanics of a box jump, requiring the athlete to perform a burpee on the floor in front of a plyo box and then immediately jump onto the box. It is one of the most metabolically demanding plyometric exercises, training both the aerobic and anaerobic energy systems while developing lower body explosive power under fatigued conditions — closely mimicking the demands of competitive functional fitness.",
+  "description": "The burpee box jump combines the full-body conditioning demand of a burpee with the explosive vertical jump mechanics of a box jump, requiring the athlete to perform a burpee on the floor in front of a plyo box and then immediately jump onto the box. It is one of the most metabolically demanding plyometric exercises, training both the aerobic and anaerobic energy systems while developing lower body explosive power under fatigued conditions \u2014 closely mimicking the demands of competitive functional fitness.",
   "category": "plyometric",
   "exercise_type": "plyometric",
   "difficulty_level": "advanced",
@@ -61,9 +61,9 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing a plyo box at a distance of roughly one step away.",
-    "setup_instructions": "Use a sturdy plyo box of appropriate height (20–24 inches for most athletes). Ensure the box does not slide.",
+    "setup_instructions": "Use a sturdy plyo box of appropriate height (20\u201324 inches for most athletes). Ensure the box does not slide.",
     "steps": [
-      "Step 1: Perform a full burpee — squat down, kick feet back to plank, do a push-up, return feet to squat.",
+      "Step 1: Perform a full burpee \u2014 squat down, kick feet back to plank, do a push-up, return feet to squat.",
       "Step 2: From the squat position, explosively jump forward and upward onto the plyo box.",
       "Step 3: Land on the box with both feet, absorbing through the hips and knees.",
       "Step 4: Stand tall on the box, then step down (not jump down) to the starting position.",
@@ -71,19 +71,19 @@
     ],
     "breathing_instructions": "Breathe continuously. Exhale on the push-up press and on the box jump.",
     "common_mistakes": [
-      "Jumping down from the box — step down to protect the Achilles and knees on fatigued landings",
+      "Jumping down from the box \u2014 step down to protect the Achilles and knees on fatigued landings",
       "Rushing the burpee so the push-up is sloppy",
-      "Undershooting the box jump when fatigued — reduce box height before reducing effort"
+      "Undershooting the box jump when fatigued \u2014 reduce box height before reducing effort"
     ],
     "safety_considerations": [
-      "Very high demand — only for well-conditioned athletes with established burpee and box jump proficiency.",
+      "Very high demand \u2014 only for well-conditioned athletes with established burpee and box jump proficiency.",
       "Always step down from the box, never jump down when fatigued."
     ],
     "range_of_motion_guidance": "Full push-up depth. Full extension on box jump. Full standing on the box.",
-    "tempo_recommendations": "Performed for reps (5–10) or time (20–40 second efforts). Full recovery between sets.",
+    "tempo_recommendations": "Performed for reps (5\u201310) or time (20\u201340 second efforts). Full recovery between sets.",
     "coaching_cues": [
-      "Burpee first — box jump second",
-      "Step down — never jump down",
+      "Burpee first \u2014 box jump second",
+      "Step down \u2014 never jump down",
       "Hips fully open at the top of the jump"
     ]
   },
@@ -135,6 +135,9 @@
       "full-body",
       "burpee",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

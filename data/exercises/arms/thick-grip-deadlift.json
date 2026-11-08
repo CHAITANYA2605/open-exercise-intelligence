@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0127-4000-a000-100000000127",
   "slug": "thick-grip-deadlift",
   "name": "Thick-Grip Deadlift / Fat Bar Deadlift",
-  "alternative_names": ["Fat Bar Deadlift", "Axle Deadlift"],
+  "alternative_names": [
+    "Fat Bar Deadlift",
+    "Axle Deadlift"
+  ],
   "description": "The thick-grip deadlift is performed with a barbell that has a diameter much larger than a standard bar (typically 50-65mm vs 28mm), or with thick grip sleeves applied to a standard bar. The larger diameter prevents the fingers from wrapping fully around the bar, dramatically increasing grip strength demand. The movement itself is identical to a standard deadlift, but grip becomes the primary limiting factor rather than leg or back strength.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,54 +18,115 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Approach the thick-bar deadlift set up at floor height. Stand with feet hip-width, bar over mid-foot. Grip the bar double overhand — no hook grip, no straps.",
-    "setup_instructions": "Fat bar or axle is preferred. Alternatively use thick grip sleeves on a standard bar. No chalk removal — the thick grip is intentional.",
+    "starting_position": "Approach the thick-bar deadlift set up at floor height. Stand with feet hip-width, bar over mid-foot. Grip the bar double overhand \u2014 no hook grip, no straps.",
+    "setup_instructions": "Fat bar or axle is preferred. Alternatively use thick grip sleeves on a standard bar. No chalk removal \u2014 the thick grip is intentional.",
     "steps": [
-      "Step 1: Set up as a conventional deadlift — hinge at the hips, flat back, lats tight.",
-      "Step 2: Grip the thick bar as hard as possible — it will not feel fully locked.",
+      "Step 1: Set up as a conventional deadlift \u2014 hinge at the hips, flat back, lats tight.",
+      "Step 2: Grip the thick bar as hard as possible \u2014 it will not feel fully locked.",
       "Step 3: Drive the floor away, maintaining back position, until standing erect.",
       "Step 4: Lower the bar under control back to the floor."
     ],
     "breathing_instructions": "Deep breath and brace before the pull, exhale at lockout.",
-    "common_mistakes": ["Using standard bar with straps (negates the grip demand)", "Dropping the bar without control"],
-    "safety_considerations": ["The thick bar will slip more easily than standard — maintain maximum grip tension throughout"],
+    "common_mistakes": [
+      "Using standard bar with straps (negates the grip demand)",
+      "Dropping the bar without control"
+    ],
+    "safety_considerations": [
+      "The thick bar will slip more easily than standard \u2014 maintain maximum grip tension throughout"
+    ],
     "range_of_motion_guidance": "Floor to full hip and knee lockout.",
     "tempo_recommendations": "1-0-2-0",
-    "coaching_cues": ["Grip is the point — squeeze everything", "Same cues as a standard deadlift", "No straps, no hook grip"]
+    "coaching_cues": [
+      "Grip is the point \u2014 squeeze everything",
+      "Same cues as a standard deadlift",
+      "No straps, no hook grip"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 240},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 240
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["forearm", "grip", "compound", "deadlift", "strongman"]
+    "tags": [
+      "forearm",
+      "grip",
+      "compound",
+      "deadlift",
+      "strongman"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

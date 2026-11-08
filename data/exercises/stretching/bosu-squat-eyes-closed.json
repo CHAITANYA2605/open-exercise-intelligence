@@ -1,8 +1,11 @@
 {
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50015",
   "slug": "bosu-squat-eyes-closed",
-  "name": "BOSU Squat — Eyes Closed",
-  "alternative_names": ["Blindfolded BOSU Squat", "Eyes Closed Dome Squat"],
+  "name": "BOSU Squat \u2014 Eyes Closed",
+  "alternative_names": [
+    "Blindfolded BOSU Squat",
+    "Eyes Closed Dome Squat"
+  ],
   "description": "A bodyweight squat performed on the dome of a BOSU ball (dome side up) with the eyes closed. The unstable dome surface creates multi-directional instability, and removing the visual input further challenges the proprioceptive and vestibular systems to control the squat movement. This is a high-level proprioceptive challenge used in late-stage ankle, knee, and ACL rehabilitation when functional dynamic balance under load with no visual input is being restored.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,17 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      }
     ],
-    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand on the dome of the BOSU ball, feet hip-width apart, centered. Find balance with eyes open first. Have a wall or partner nearby.",
@@ -37,26 +62,75 @@
       "Step 4: Return to standing. Open the eyes between repetitions if needed."
     ],
     "breathing_instructions": "Breathe normally throughout. Calm rhythmic breathing aids balance and reduces anxiety.",
-    "common_mistakes": ["Attempting eyes-closed before mastering eyes-open BOSU squats", "Squatting too deeply too soon — the balance challenge increases dramatically with depth", "Tensing the whole body to manage instability — allow the ankle and hip to respond naturally"],
-    "safety_considerations": ["ALWAYS have a safety surface within reach — a wall, rack, or partner", "If dizziness or significant loss of balance occurs, open the eyes immediately and step off the BOSU", "This is for late-stage rehabilitation only — not for anyone with acute balance deficits or vertigo"],
-    "range_of_motion_guidance": "60-70 degrees of knee flexion is appropriate — do not go to full depth with eyes closed on a BOSU initially.",
+    "common_mistakes": [
+      "Attempting eyes-closed before mastering eyes-open BOSU squats",
+      "Squatting too deeply too soon \u2014 the balance challenge increases dramatically with depth",
+      "Tensing the whole body to manage instability \u2014 allow the ankle and hip to respond naturally"
+    ],
+    "safety_considerations": [
+      "ALWAYS have a safety surface within reach \u2014 a wall, rack, or partner",
+      "If dizziness or significant loss of balance occurs, open the eyes immediately and step off the BOSU",
+      "This is for late-stage rehabilitation only \u2014 not for anyone with acute balance deficits or vertigo"
+    ],
+    "range_of_motion_guidance": "60-70 degrees of knee flexion is appropriate \u2014 do not go to full depth with eyes closed on a BOSU initially.",
     "tempo_recommendations": "3s eccentric, 1s pause at bottom, 2s concentric return.",
-    "coaching_cues": ["Feel the dome through your feet — let the ankle and hip respond to the wobble", "Breathe slowly — calm breathing reduces instability", "Close the eyes slowly — do not snap them shut"]
+    "coaching_cues": [
+      "Feel the dome through your feet \u2014 let the ankle and hip respond to the wobble",
+      "Breathe slowly \u2014 calm breathing reduces instability",
+      "Close the eyes slowly \u2014 do not snap them shut"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 5, "max_reps": 10}],
-    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance", "mobility"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance",
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["balance", "proprioception", "BOSU", "stretching", "squat"]
+    "tags": [
+      "balance",
+      "proprioception",
+      "BOSU",
+      "stretching",
+      "squat"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

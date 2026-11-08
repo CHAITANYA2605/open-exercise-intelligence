@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-e004-4000-a000-000000000104",
   "slug": "l-sit",
   "name": "L-Sit",
-  "alternative_names": ["L-Sit Hold"],
+  "alternative_names": [
+    "L-Sit Hold"
+  ],
   "description": "The L-sit is an advanced calisthenics isometric hold performed on dip bars, parallel bars, or the floor, in which the athlete supports their entire body on straight arms while holding the legs parallel to the floor, forming an L-shape with the body. It simultaneously demands significant triceps and shoulder pressing strength to depress the scapulae and hold the torso up, while the hip flexors and rectus abdominis maintain the legs in the horizontal position. It is a core gymnastics skill and a prerequisite for more advanced bar movements.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,23 +17,54 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000021-0000-4000-a000-000000000021"],
-  "equipment_optional": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_required": [
+    "eq000021-0000-4000-a000-000000000021"
+  ],
+  "equipment_optional": [
+    "eq000042-0000-4000-a000-000000000042"
+  ],
   "execution": {
     "starting_position": "Stand between dip bars with hands gripping each bar. Arms are fully extended and the body hangs with feet off the floor.",
     "setup_instructions": "Set dip bars at a width that allows comfortable hand placement. Alternatively perform on the floor between two yoga blocks or plates.",
@@ -51,14 +84,14 @@
     ],
     "safety_considerations": [
       "Build prerequisite triceps pressing strength (dips) and hip flexor strength (hanging knee raises) before attempting the full L-sit.",
-      "Wrist discomfort is common on the floor variation — use parallel bars or push-up handles to reduce wrist extension."
+      "Wrist discomfort is common on the floor variation \u2014 use parallel bars or push-up handles to reduce wrist extension."
     ],
     "range_of_motion_guidance": "Legs must be fully extended and held parallel to the ground. The torso must remain upright throughout.",
-    "tempo_recommendations": "Hold for 5–30 seconds. Accumulate total time over multiple sets. Progress from tuck L-sit → one leg extended → full L-sit.",
+    "tempo_recommendations": "Hold for 5\u201330 seconds. Accumulate total time over multiple sets. Progress from tuck L-sit \u2192 one leg extended \u2192 full L-sit.",
     "coaching_cues": [
       "Push the floor or bars away from you",
-      "Depress the scapulae — shoulders down, not shrugged",
-      "Legs are a shelf — keep them flat"
+      "Depress the scapulae \u2014 shoulders down, not shrugged",
+      "Legs are a shelf \u2014 keep them flat"
     ]
   },
   "variants": {
@@ -70,21 +103,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 120},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["gymnastics", "core", "isometric", "advanced", "calisthenics"]
+    "tags": [
+      "gymnastics",
+      "core",
+      "isometric",
+      "advanced",
+      "calisthenics"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

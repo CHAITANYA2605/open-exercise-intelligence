@@ -2,7 +2,10 @@
   "exercise_id": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
   "slug": "hip-90-90-rotation",
   "name": "Hip 90/90 Rotation",
-  "alternative_names": ["Seated Hip Rotation", "90-90 Hip Transition"],
+  "alternative_names": [
+    "Seated Hip Rotation",
+    "90-90 Hip Transition"
+  ],
   "description": "The hip 90/90 rotation is an active mobility drill that trains the ability to transition the hips between internal and external rotation by moving both legs simultaneously from one 90-90 configuration to the opposite. Unlike the passive 90-90 stretch, this version is performed as a controlled active movement. It develops proprioceptive awareness of hip rotation and is used in hip rehabilitation, athletic movement prep, and general hip mobility programs.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,25 +18,42 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" },
-      { "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus" }
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      }
     ],
     "secondary": [
-      { "muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus" },
-      { "muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae" }
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Sit on the floor with both legs in a 90-90 configuration — front leg with the shin facing forward (external rotation), rear leg to the side with the shin facing back (internal rotation).",
+    "starting_position": "Sit on the floor with both legs in a 90-90 configuration \u2014 front leg with the shin facing forward (external rotation), rear leg to the side with the shin facing back (internal rotation).",
     "setup_instructions": "Use a mat. Hands can be placed on the floor beside the hips for support in early stages.",
     "steps": [
       "Step 1: Begin in a 90-90 seated position.",
-      "Step 2: Internally rotate both hips simultaneously — the front knee drops inward and the rear knee drops toward the floor in front.",
+      "Step 2: Internally rotate both hips simultaneously \u2014 the front knee drops inward and the rear knee drops toward the floor in front.",
       "Step 3: Both legs pass through a brief neutral position in the middle.",
       "Step 4: Continue rotating to arrive in the 90-90 position on the opposite side.",
       "Step 5: Pause, then rotate back to the starting side. Each full trip counts as one rep."
@@ -41,7 +61,7 @@
     "breathing_instructions": "Breathe freely and steadily. Do not hold the breath.",
     "common_mistakes": [
       "Using the hands heavily for support, which reduces core and hip engagement",
-      "Moving too quickly — this requires deliberate slow control at each stage",
+      "Moving too quickly \u2014 this requires deliberate slow control at each stage",
       "One hip excessively lagging behind the other"
     ],
     "safety_considerations": [
@@ -49,7 +69,7 @@
       "Avoid if currently experiencing acute hip labral symptoms without clinical clearance"
     ],
     "range_of_motion_guidance": "Full transition from one 90-90 configuration to the other, with both hips as close to the floor as available range allows.",
-    "tempo_recommendations": "3–4 seconds per transition, 5–10 reps each direction × 2–3 sets.",
+    "tempo_recommendations": "3\u20134 seconds per transition, 5\u201310 reps each direction \u00d7 2\u20133 sets.",
     "coaching_cues": [
       "Rotate both hips at the same time, not one then the other",
       "Move as far through each transition as your hip allows",
@@ -65,21 +85,49 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 5, "max_reps": 10 }
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "mobility": 30 },
-    "training_goals": ["mobility", "strength"]
+    "rest_periods": {
+      "mobility": 30
+    },
+    "training_goals": [
+      "mobility",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "hip", "mobility", "rotation", "glutes", "intermediate"]
+    "tags": [
+      "rehabilitation",
+      "hip",
+      "mobility",
+      "rotation",
+      "glutes",
+      "intermediate"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

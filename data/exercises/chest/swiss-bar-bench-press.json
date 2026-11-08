@@ -74,12 +74,12 @@
     ],
     "safety_considerations": [
       "Confirm the Swiss bar is compatible with your rack's hook spacing before use",
-      "Start lighter than your straight bar bench — the neutral grip changes the leverages slightly"
+      "Start lighter than your straight bar bench \u2014 the neutral grip changes the leverages slightly"
     ],
     "range_of_motion_guidance": "Full ROM from chest-touch to lockout.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Palms face each other — keep them facing each other throughout",
+      "Palms face each other \u2014 keep them facing each other throughout",
       "Drive the elbows down and in rather than flaring wide"
     ]
   },
@@ -140,6 +140,9 @@
       "neutral-grip",
       "joint-friendly",
       "specialty-bar"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

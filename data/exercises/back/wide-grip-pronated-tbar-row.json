@@ -2,7 +2,10 @@
   "exercise_id": "8e38c53a-edaa-40cc-9e3b-56efcff884a1",
   "slug": "wide-grip-pronated-tbar-row",
   "name": "Wide-Grip Pronated T-Bar Row",
-  "alternative_names": ["Wide Grip T-Bar Row", "Overhand Wide T-Bar Row"],
+  "alternative_names": [
+    "Wide Grip T-Bar Row",
+    "Overhand Wide T-Bar Row"
+  ],
   "description": "The wide-grip pronated T-bar row uses a wider than shoulder-width overhand grip on a T-bar or landmine setup, shifting emphasis toward the middle trapezius, rear deltoids, and rhomboids compared to the standard close-grip version. The pronated wide grip limits biceps involvement and demands greater scapular retraction strength to complete each repetition.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,42 +18,61 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000039-0000-4000-a000-000000000039"],
-  "equipment_optional": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000039-0000-4000-a000-000000000039"
+  ],
+  "equipment_optional": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "execution": {
     "starting_position": "Straddle the T-bar machine or landmine bar. Grip the wide handles (or bar itself) pronated, hands wider than shoulder width. Hinge to 45 degrees.",
     "setup_instructions": "If a T-bar machine is used, set the chest pad appropriately. For a landmine, use a straight bar without a handle attachment.",
     "steps": [
       "Step 1: Begin hinged with arms extended gripping the bar wide.",
       "Step 2: Initiate by squeezing the shoulder blades together.",
-      "Step 3: Row elbows back and wide — not tucked into the torso.",
+      "Step 3: Row elbows back and wide \u2014 not tucked into the torso.",
       "Step 4: At the top, hold 1 second with shoulder blades fully retracted.",
       "Step 5: Lower under control."
     ],
     "breathing_instructions": "Exhale on the row. Inhale descending.",
     "common_mistakes": [
-      "Elbows tracking too close to the body — wide grip requires wide elbows",
-      "Excessive torso extension at the top — maintain the hinge"
+      "Elbows tracking too close to the body \u2014 wide grip requires wide elbows",
+      "Excessive torso extension at the top \u2014 maintain the hinge"
     ],
     "safety_considerations": [
-      "Wide pronated grip increases wrist stress — ensure wrists are strong and healthy",
+      "Wide pronated grip increases wrist stress \u2014 ensure wrists are strong and healthy",
       "Do not add excessive spinal extension to assist the row"
     ],
     "range_of_motion_guidance": "Full arm extension to elbows behind torso level.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Elbows go wide — think 'flying elbows'",
+      "Elbows go wide \u2014 think 'flying elbows'",
       "Drive the shoulder blades together, not just back",
       "Lead with the chest"
     ]
@@ -64,21 +86,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90 },
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["t-bar", "row", "wide-grip", "upper-back", "rhomboids"]
+    "tags": [
+      "t-bar",
+      "row",
+      "wide-grip",
+      "upper-back",
+      "rhomboids"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

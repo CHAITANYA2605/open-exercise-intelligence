@@ -2,8 +2,11 @@
   "exercise_id": "a1b2c3d4-0145-4000-a000-100000000145",
   "slug": "incline-kickback",
   "name": "Incline Dumbbell Tricep Kickback",
-  "alternative_names": ["Prone Incline Kickback", "Incline DB Kickback"],
-  "description": "The incline dumbbell kickback is performed face-down on an incline bench, with the chest resting on the pad and the arms hanging. The incline position allows gravity to fully load the tricep in the extended (kickback) position — where standard kickbacks rely on a horizontal upper arm for resistance. By using an incline, the peak contraction in the extended position is better maintained. The prone position also eliminates any torso rocking.",
+  "alternative_names": [
+    "Prone Incline Kickback",
+    "Incline DB Kickback"
+  ],
+  "description": "The incline dumbbell kickback is performed face-down on an incline bench, with the chest resting on the pad and the arms hanging. The incline position allows gravity to fully load the tricep in the extended (kickback) position \u2014 where standard kickbacks rely on a horizontal upper arm for resistance. By using an incline, the peak contraction in the extended position is better maintained. The prone position also eliminates any torso rocking.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -15,19 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set an incline bench to 30-45 degrees. Lie face-down with the chest on the pad. Hold a dumbbell in each hand, arms hanging down.",
-    "setup_instructions": "Use light dumbbells — the incline kickback is a strict isolation movement with limited leverage.",
+    "setup_instructions": "Use light dumbbells \u2014 the incline kickback is a strict isolation movement with limited leverage.",
     "steps": [
       "Step 1: Begin with the arms hanging down, upper arms at the sides of the body.",
       "Step 2: Extend the elbows rearward, kicking the dumbbells back behind the body.",
@@ -35,30 +50,71 @@
       "Step 4: Return the dumbbells to the hanging position with control."
     ],
     "breathing_instructions": "Exhale on the kickback, inhale on the return.",
-    "common_mistakes": ["Swinging the dumbbells using shoulder movement", "Not fully extending the elbows at the peak", "Using too heavy a weight"],
-    "safety_considerations": ["The prone position limits cheating — keep the chest on the bench"],
-    "range_of_motion_guidance": "Full extension at the top — pause and squeeze.",
+    "common_mistakes": [
+      "Swinging the dumbbells using shoulder movement",
+      "Not fully extending the elbows at the peak",
+      "Using too heavy a weight"
+    ],
+    "safety_considerations": [
+      "The prone position limits cheating \u2014 keep the chest on the bench"
+    ],
+    "range_of_motion_guidance": "Full extension at the top \u2014 pause and squeeze.",
     "tempo_recommendations": "1-2-2-0 (2s hold at top)",
-    "coaching_cues": ["Upper arms pinned to sides", "Kick back and squeeze hard", "Return with control"]
+    "coaching_cues": [
+      "Upper arms pinned to sides",
+      "Kick back and squeeze hard",
+      "Return with control"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "isolation", "dumbbell", "incline"]
+    "tags": [
+      "tricep",
+      "isolation",
+      "dumbbell",
+      "incline"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

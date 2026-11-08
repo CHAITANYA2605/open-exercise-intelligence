@@ -2,7 +2,11 @@
   "exercise_id": "ca000005-0000-4000-a000-000000000005",
   "slug": "stairmaster",
   "name": "StairMaster / StepMill Climb",
-  "alternative_names": ["Stepmill", "Stair Climber", "Stairmaster Machine"],
+  "alternative_names": [
+    "Stepmill",
+    "Stair Climber",
+    "Stairmaster Machine"
+  ],
   "description": "The StairMaster or StepMill is a continuously rotating staircase machine that simulates stair climbing, maintaining a constant stepping demand that challenges the quadriceps, gluteus maximus, and calves under a sustained aerobic load. Unlike stair steppers that use a simple up-down piston motion, the StepMill requires the user to clear full steps, producing a greater range of hip and knee flexion and significantly higher glute activation. It provides excellent low-impact cardiovascular conditioning and is widely used for lower body muscular endurance and calorie expenditure.",
   "category": "cardio",
   "exercise_type": "cardio",
@@ -15,48 +19,75 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Step onto the machine and hold the rails lightly for balance only. Set the speed to a manageable starting pace (level 6–10). Stand upright with a tall posture.",
-    "setup_instructions": "Set speed before stepping on. Use the rails only for balance — not to support body weight. Many users hang off the rails, which dramatically reduces the training effect.",
+    "starting_position": "Step onto the machine and hold the rails lightly for balance only. Set the speed to a manageable starting pace (level 6\u201310). Stand upright with a tall posture.",
+    "setup_instructions": "Set speed before stepping on. Use the rails only for balance \u2014 not to support body weight. Many users hang off the rails, which dramatically reduces the training effect.",
     "steps": [
       "Step 1: Begin at a comfortable speed. Step onto each rotating step fully, pressing through the whole foot.",
       "Step 2: Maintain an upright torso. Avoid leaning forward heavily onto the console.",
       "Step 3: Push down and through each step from the glutes and quads. Clear each step completely before it rotates under your foot.",
-      "Step 4: Keep the core braced and hips level — avoid excessive lateral sway.",
+      "Step 4: Keep the core braced and hips level \u2014 avoid excessive lateral sway.",
       "Step 5: Continue for the target duration, adjusting speed as needed."
     ],
-    "breathing_instructions": "Breathe rhythmically. Aim for a sustainable aerobic pace where breathing is elevated but controlled — a conversational pace is appropriate for steady-state sessions.",
+    "breathing_instructions": "Breathe rhythmically. Aim for a sustainable aerobic pace where breathing is elevated but controlled \u2014 a conversational pace is appropriate for steady-state sessions.",
     "common_mistakes": [
       "Leaning heavily on the handrails, which shifts load away from the legs and spine",
       "Taking very short half-steps that reduce the hip and knee range of motion",
       "Setting speed too high too quickly before the body has adapted to the movement pattern"
     ],
     "safety_considerations": [
-      "Step fully onto each stair — a partial step increases the risk of slipping",
+      "Step fully onto each stair \u2014 a partial step increases the risk of slipping",
       "Reduce speed before stepping off the machine"
     ],
-    "range_of_motion_guidance": "Each step should bring the knee to roughly 90° of flexion. Full step clearance is essential — do not shuffle.",
-    "tempo_recommendations": "Steady-state: 20–40 minutes at a moderate level (8–12). Interval option: 2 minutes at high speed / 1 minute at low speed × 10 rounds.",
+    "range_of_motion_guidance": "Each step should bring the knee to roughly 90\u00b0 of flexion. Full step clearance is essential \u2014 do not shuffle.",
+    "tempo_recommendations": "Steady-state: 20\u201340 minutes at a moderate level (8\u201312). Interval option: 2 minutes at high speed / 1 minute at low speed \u00d7 10 rounds.",
     "coaching_cues": [
       "Let go of the rails",
-      "Step through the full step — do not shuffle",
+      "Step through the full step \u2014 do not shuffle",
       "Drive from the glute, not just the quad"
     ]
   },
@@ -69,21 +100,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 1
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 1, "max_sets": 1}
+      {
+        "goal": "endurance",
+        "min_sets": 1,
+        "max_sets": 1
+      }
     ],
-    "rest_periods": {"endurance": 0},
-    "training_goals": ["endurance"]
+    "rest_periods": {
+      "endurance": 0
+    },
+    "training_goals": [
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cardio", "stairmaster", "low-impact", "glutes", "lower-body"]
+    "tags": [
+      "cardio",
+      "stairmaster",
+      "low-impact",
+      "glutes",
+      "lower-body"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

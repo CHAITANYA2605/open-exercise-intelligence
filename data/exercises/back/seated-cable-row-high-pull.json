@@ -2,7 +2,10 @@
   "exercise_id": "4f9aad47-f105-4071-a013-f5d23bdb4678",
   "slug": "seated-cable-row-high-pull",
   "name": "Seated Cable Row High Pull",
-  "alternative_names": ["Seated High Cable Row", "Face Pull Row Seated"],
+  "alternative_names": [
+    "Seated High Cable Row",
+    "Face Pull Row Seated"
+  ],
   "description": "The seated cable row high pull uses a rope attachment at a low or mid cable position and pulls toward the face/neck rather than the abdomen, with elbows flaring wide at shoulder height. It bridges the gap between a standard row and a face pull, training the rear deltoids, upper trapezius, and external rotators through a horizontally-abducted pulling pattern while seated.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit facing a cable pulley set at low or mid-height. Attach a rope. Grip with both hands, arms extended forward.",
@@ -40,11 +60,11 @@
     ],
     "breathing_instructions": "Exhale on the pull. Inhale on the return.",
     "common_mistakes": [
-      "Pulling to the chest instead of the face — the high pull targets rear delts, not lats",
-      "Elbows dropping below shoulder height — keep them elevated"
+      "Pulling to the chest instead of the face \u2014 the high pull targets rear delts, not lats",
+      "Elbows dropping below shoulder height \u2014 keep them elevated"
     ],
     "safety_considerations": [
-      "Light loads recommended — rear delts and external rotators are small muscles",
+      "Light loads recommended \u2014 rear delts and external rotators are small muscles",
       "Avoid if experiencing shoulder impingement"
     ],
     "range_of_motion_guidance": "Full arm extension to hands beside face with elbows at shoulder height.",
@@ -64,21 +84,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 60 },
-    "training_goals": ["hypertrophy", "rehabilitation"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy",
+      "rehabilitation"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "row", "high-pull", "rear-delt", "upper-back"]
+    "tags": [
+      "cable",
+      "row",
+      "high-pull",
+      "rear-delt",
+      "upper-back"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

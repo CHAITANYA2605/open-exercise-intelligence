@@ -6,7 +6,7 @@
     "Supine Dead Bug",
     "Dead Bug Core Exercise"
   ],
-  "description": "The dead bug is a supine core stability exercise that challenges the ability to maintain a neutral lumbar spine while simultaneously moving the opposite arm and leg. The key training stimulus is anti-extension — resisting the tendency of the lower back to arch away from the floor as the limbs extend. It is a preferred core exercise in lumbar rehabilitation because it allows full core engagement without spinal loading, making it appropriate in early recovery stages.",
+  "description": "The dead bug is a supine core stability exercise that challenges the ability to maintain a neutral lumbar spine while simultaneously moving the opposite arm and leg. The key training stimulus is anti-extension \u2014 resisting the tendency of the lower back to arch away from the floor as the limbs extend. It is a preferred core exercise in lumbar rehabilitation because it allows full core engagement without spinal loading, making it appropriate in early recovery stages.",
   "category": "rehabilitation",
   "exercise_type": "strength",
   "difficulty_level": "beginner",
@@ -55,21 +55,21 @@
       "Step 1: Lie supine with arms vertical, hips and knees at 90 degrees (table-top).",
       "Step 2: Take a deep breath in. On the exhale, brace the core hard and press the lower back firmly into the floor.",
       "Step 3: Simultaneously lower the right arm overhead (toward the floor behind the head) and extend the left leg toward the floor.",
-      "Step 4: Lower as far as the lower back can remain flat on the floor — stop if the low back begins to arch.",
+      "Step 4: Lower as far as the lower back can remain flat on the floor \u2014 stop if the low back begins to arch.",
       "Step 5: Return both limbs to the starting position on the next exhale. Switch sides."
     ],
     "breathing_instructions": "Exhale forcefully to brace before each limb extension. Breathe in at the top.",
     "common_mistakes": [
-      "Letting the lower back arch off the floor — this is the main error; range must be reduced if it occurs",
+      "Letting the lower back arch off the floor \u2014 this is the main error; range must be reduced if it occurs",
       "Moving too fast and using momentum rather than deliberate control",
-      "Neck tension from trying to hold the head up — rest the head on the floor"
+      "Neck tension from trying to hold the head up \u2014 rest the head on the floor"
     ],
     "safety_considerations": [
-      "Safe for most low back pain patients — often one of the first exercises reintroduced",
+      "Safe for most low back pain patients \u2014 often one of the first exercises reintroduced",
       "If pain increases during the movement, stop and consult a clinician"
     ],
-    "range_of_motion_guidance": "Full extension of the working arm and leg to just above the floor — only go as far as lumbar neutrality can be maintained.",
-    "tempo_recommendations": "3-second lowering, 1-second pause near floor, 2-second return. 8–12 reps each side × 2–3 sets.",
+    "range_of_motion_guidance": "Full extension of the working arm and leg to just above the floor \u2014 only go as far as lumbar neutrality can be maintained.",
+    "tempo_recommendations": "3-second lowering, 1-second pause near floor, 2-second return. 8\u201312 reps each side \u00d7 2\u20133 sets.",
     "coaching_cues": [
       "Flatten your back into the floor before each movement",
       "Move like you are lowering in slow motion",
@@ -124,6 +124,9 @@
       "anti-extension",
       "stability",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -72,7 +72,7 @@
     "steps": [
       "Step 1: Position yourself under the yoke crossbar with the bar resting on the upper traps. Take a wide, stable stance.",
       "Step 2: Brace the core maximally, take a full breath, and stand the yoke up by extending the hips and knees.",
-      "Step 3: Begin walking with short, quick steps. Keep the torso upright — do not lean forward.",
+      "Step 3: Begin walking with short, quick steps. Keep the torso upright \u2014 do not lean forward.",
       "Step 4: Maintain a tight grip on the yoke uprights throughout the walk for stability control.",
       "Step 5: At the turnaround or finish, slow the momentum carefully and lower the yoke to the ground by hinging at the hips and bending the knees."
     ],
@@ -80,19 +80,19 @@
     "common_mistakes": [
       "Taking long strides, which makes the yoke swing and sway laterally",
       "Not bracing the core before the initial stand, causing the spine to load in flexion",
-      "Looking at the ground — keep the gaze forward to maintain spinal alignment"
+      "Looking at the ground \u2014 keep the gaze forward to maintain spinal alignment"
     ],
     "safety_considerations": [
-      "Have collars on the weight plates — a falling plate at speed is a serious hazard",
+      "Have collars on the weight plates \u2014 a falling plate at speed is a serious hazard",
       "Use a spotter or judge for the first attempts at heavy loads",
       "Do not attempt a yoke carry without a solid foundation in barbell squats and loaded carries"
     ],
-    "range_of_motion_guidance": "Walk distance is event-specific (typically 10–25 metres). Steps should be short and fast — approximately 50–60% of normal walking stride length.",
-    "tempo_recommendations": "Event training: maximum speed for set distance. Strength training: 10–20 metres at 60–80% of competition weight × 3–5 sets. Rest 3–5 minutes between sets.",
+    "range_of_motion_guidance": "Walk distance is event-specific (typically 10\u201325 metres). Steps should be short and fast \u2014 approximately 50\u201360% of normal walking stride length.",
+    "tempo_recommendations": "Event training: maximum speed for set distance. Strength training: 10\u201320 metres at 60\u201380% of competition weight \u00d7 3\u20135 sets. Rest 3\u20135 minutes between sets.",
     "coaching_cues": [
-      "Short, fast feet — not long lunging strides",
+      "Short, fast feet \u2014 not long lunging strides",
       "Drive the head up and back into the bar",
-      "Squeeze everything — abs, glutes, traps — before you pick it up"
+      "Squeeze everything \u2014 abs, glutes, traps \u2014 before you pick it up"
     ]
   },
   "variants": {
@@ -149,6 +149,9 @@
       "full-body",
       "competition",
       "traps"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

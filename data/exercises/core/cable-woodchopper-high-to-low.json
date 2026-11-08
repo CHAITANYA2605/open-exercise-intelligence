@@ -64,16 +64,16 @@
     ],
     "breathing_instructions": "Exhale forcefully on the downward chop. Inhale on the controlled return upward.",
     "common_mistakes": [
-      "Bending the elbows — the movement should originate from the trunk, not the arms",
-      "Squatting down instead of rotating — the squat component should be minimal"
+      "Bending the elbows \u2014 the movement should originate from the trunk, not the arms",
+      "Squatting down instead of rotating \u2014 the squat component should be minimal"
     ],
     "safety_considerations": [
-      "Keep the spine neutral throughout — avoid lateral spinal flexion"
+      "Keep the spine neutral throughout \u2014 avoid lateral spinal flexion"
     ],
     "range_of_motion_guidance": "Full diagonal arc from high outside one shoulder to low outside the opposite hip.",
     "tempo_recommendations": "2-0-2-0. Powerful pull, controlled return.",
     "coaching_cues": [
-      "Imagine swinging an axe — the power comes from the whole trunk",
+      "Imagine swinging an axe \u2014 the power comes from the whole trunk",
       "Keep the arms long"
     ]
   },
@@ -126,6 +126,9 @@
       "cable",
       "functional",
       "sport"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

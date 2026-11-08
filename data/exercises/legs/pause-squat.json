@@ -66,11 +66,11 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Same setup as a standard barbell back squat: bar on upper traps, feet shoulder-width apart, toes pointed slightly outward.",
-    "setup_instructions": "Set up identically to a back squat. Use 70–85% of your normal squat working weight for 2-second pauses. Reduce weight further for longer pauses.",
+    "setup_instructions": "Set up identically to a back squat. Use 70\u201385% of your normal squat working weight for 2-second pauses. Reduce weight further for longer pauses.",
     "steps": [
       "Step 1: Unrack the bar and set up as for a back squat. Take a deep breath and brace.",
-      "Step 2: Descend under control to full depth — hips at or below parallel.",
-      "Step 3: Hold the bottom position completely still for the prescribed time (2–5 seconds). Do not relax. Actively maintain tension throughout: knees out, chest up, core braced.",
+      "Step 2: Descend under control to full depth \u2014 hips at or below parallel.",
+      "Step 3: Hold the bottom position completely still for the prescribed time (2\u20135 seconds). Do not relax. Actively maintain tension throughout: knees out, chest up, core braced.",
       "Step 4: Without any counter-movement, drive explosively through the floor to return to standing.",
       "Step 5: Exhale at the top, reset, and repeat."
     ],
@@ -81,15 +81,15 @@
       "Using too much weight, which turns the pause into a brief wobble"
     ],
     "safety_considerations": [
-      "Use safety bars — a failed pause squat has less momentum to rescue than a normal squat",
-      "Reduce load by 15–25% compared to your regular squat weight"
+      "Use safety bars \u2014 a failed pause squat has less momentum to rescue than a normal squat",
+      "Reduce load by 15\u201325% compared to your regular squat weight"
     ],
     "range_of_motion_guidance": "Full depth (hips at or below parallel). The pause must be at the deepest position, not above parallel.",
     "tempo_recommendations": "3-3-X-0 (3s descent, 3s pause, explosive ascent)",
     "coaching_cues": [
-      "Stay tight during the pause — don't let anything relax",
+      "Stay tight during the pause \u2014 don't let anything relax",
       "Drive the knees out actively while holding the bottom",
-      "Explode up — don't grind up slowly"
+      "Explode up \u2014 don't grind up slowly"
     ]
   },
   "variants": {
@@ -167,6 +167,9 @@
       "squat",
       "technique",
       "powerlifting-accessory"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

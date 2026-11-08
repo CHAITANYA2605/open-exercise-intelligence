@@ -46,29 +46,29 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the floor with knees bent, feet flat. Hold a dumbbell in each hand, arms extended above the chest with palms facing each other.",
-    "setup_instructions": "Select a weight appropriate for a flye — lighter than pressing weight. The floor prevents excessive arm travel below the torso.",
+    "setup_instructions": "Select a weight appropriate for a flye \u2014 lighter than pressing weight. The floor prevents excessive arm travel below the torso.",
     "steps": [
       "Step 1: Begin with arms extended above the chest, dumbbells nearly touching, palms facing each other.",
       "Step 2: Open the arms out wide in a flye arc, lowering until the upper arms contact or near the floor.",
       "Step 3: At the bottom of the flye, bend the elbows and bring the dumbbells to chest level (now in press position).",
       "Step 4: Press the dumbbells back up to the starting position.",
-      "Step 5: That is one rep: flye open → elbows bend → press up. Repeat."
+      "Step 5: That is one rep: flye open \u2192 elbows bend \u2192 press up. Repeat."
     ],
     "breathing_instructions": "Inhale on the flye open, exhale on the press back up.",
     "common_mistakes": [
       "Opening too fast and slamming arms into the floor",
-      "Using too heavy a weight for the flye portion — leads to poor form on the arc",
-      "Skipping the elbow bend at the bottom — this is what distinguishes the combo from a pure flye"
+      "Using too heavy a weight for the flye portion \u2014 leads to poor form on the arc",
+      "Skipping the elbow bend at the bottom \u2014 this is what distinguishes the combo from a pure flye"
     ],
     "safety_considerations": [
-      "The floor stops elbow travel and protects the shoulder naturally — do not force past the floor stop",
+      "The floor stops elbow travel and protects the shoulder naturally \u2014 do not force past the floor stop",
       "Keep elbows slightly bent throughout the flye arc"
     ],
     "range_of_motion_guidance": "Open to floor contact on the flye. Press to full arm extension. Floor contact provides natural range of motion limit.",
     "tempo_recommendations": "2-1-1-1 (2s flye open, 1s bend elbows, 1s press, 1s reset)",
     "coaching_cues": [
-      "Flye first, then press — the two phases are distinct within each rep",
-      "Soft elbows on the flye — do not lock the arms straight"
+      "Flye first, then press \u2014 the two phases are distinct within each rep",
+      "Soft elbows on the flye \u2014 do not lock the arms straight"
     ]
   },
   "variants": {
@@ -119,6 +119,9 @@
       "press",
       "combo",
       "chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

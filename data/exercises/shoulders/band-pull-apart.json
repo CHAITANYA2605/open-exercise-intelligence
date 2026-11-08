@@ -69,16 +69,16 @@
     "breathing_instructions": "Exhale as you pull apart; inhale as you return.",
     "common_mistakes": [
       "Bending the elbows heavily during the pull, which reduces the targeted muscles' load",
-      "Internally rotating the shoulders — keep thumbs slightly elevated (external rotation)"
+      "Internally rotating the shoulders \u2014 keep thumbs slightly elevated (external rotation)"
     ],
     "safety_considerations": [
-      "Select band resistance you can control — do not let the band snap back"
+      "Select band resistance you can control \u2014 do not let the band snap back"
     ],
     "range_of_motion_guidance": "Pull until the band touches or nearly touches the sternum; return to fully extended arms.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
       "Lead with your elbows behind you as you pull the band apart",
-      "Think about bending the band around your chest — not just pulling the ends apart"
+      "Think about bending the band around your chest \u2014 not just pulling the ends apart"
     ]
   },
   "variants": {
@@ -134,6 +134,9 @@
       "prehab",
       "shoulder-health",
       "warm-up"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

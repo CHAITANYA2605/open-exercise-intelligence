@@ -63,7 +63,7 @@
       "Step 1: Unrack and hold the bar at arm's length above the chest.",
       "Step 2: Lower the bar under control to touch the lower sternum.",
       "Step 3: Press back to the starting position.",
-      "Step 4: Keep the elbows at approximately 70-80 degrees from the torso — wider grip naturally increases elbow flare."
+      "Step 4: Keep the elbows at approximately 70-80 degrees from the torso \u2014 wider grip naturally increases elbow flare."
     ],
     "breathing_instructions": "Inhale and brace before lowering. Exhale at the top.",
     "common_mistakes": [
@@ -71,13 +71,13 @@
       "Allowing the wrists to bend backward under load"
     ],
     "safety_considerations": [
-      "Very wide grip significantly increases shoulder joint stress — do not exceed a grip where forearms are vertical at the bottom",
+      "Very wide grip significantly increases shoulder joint stress \u2014 do not exceed a grip where forearms are vertical at the bottom",
       "Shoulder pain is a common complaint; reduce grip width immediately if it occurs"
     ],
     "range_of_motion_guidance": "Full touch to chest at bottom; full elbow extension at top. ROM is slightly shorter than standard due to wider grip.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Forearms vertical at the bottom — that is the widest safe grip",
+      "Forearms vertical at the bottom \u2014 that is the widest safe grip",
       "Squeeze the bar like you are trying to break it in half"
     ]
   },
@@ -137,6 +137,9 @@
     "tags": [
       "chest-dominant",
       "grip-variation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

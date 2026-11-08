@@ -1,11 +1,15 @@
 {
-  "version": "1.0.0",
-  "released_at": "2026-11-08T00:00:00Z",
+  "version": "0.9.0-beta",
+  "release_stage": "beta",
   "exercise_count": 866,
+  "approved_count": 0,
+  "unreviewed_count": 866,
   "muscle_count": 75,
   "equipment_count": 50,
   "schema_version": "1.0.0",
-  "changelog": "v1.0.0: 866 exercises across 15 folder-categories: chest (124), arms (122), back (109), core (96), legs (93), shoulders (92), rehabilitation (55), stretching (43), strongman (35), functional (30), glutes (24), plyometric (17), olympic (13), cardio (8), neck (5). All content is original CC0 1.0 work.",
+  "review_note": "All exercises are AI-generated and unreviewed. Suitable for development use. Not yet suitable for production health/fitness applications without human expert review.",
   "checksum_algorithm": "sha256",
-  "notes": "All exercises are original works released under CC0 1.0. No proprietary exercise data was used. Exercise names are factual and not copyrightable. Dataset sourced from open/factual sources only."
+  "notes": "All exercises are original works released under CC0 1.0. No proprietary exercise data was used. Exercise names are factual and not copyrightable. Dataset sourced from open/factual sources only.",
+  "last_updated": "2026-11-08T00:00:00Z",
+  "dataset_sha256": "52b6b697426d6c96eb65a352abb441270461e09069db0fbf22d85bd936cae13c"
 }

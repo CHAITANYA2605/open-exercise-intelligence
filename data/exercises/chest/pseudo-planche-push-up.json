@@ -54,7 +54,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a push-up position with hands placed beside the hips rather than the shoulders. Rotate the wrists so fingertips point toward the feet or sideways. Lean the shoulders significantly forward over the hands.",
-    "setup_instructions": "Hand placement is 6–12 inches behind where you would normally place them in a push-up. The more forward the lean, the harder the exercise.",
+    "setup_instructions": "Hand placement is 6\u201312 inches behind where you would normally place them in a push-up. The more forward the lean, the harder the exercise.",
     "steps": [
       "Step 1: Position hands at hip level with fingers pointing backward or to the sides.",
       "Step 2: Shift the entire body forward so the shoulders are well ahead of the hands.",
@@ -69,7 +69,7 @@
       "Collapsing the wrists inward under load"
     ],
     "safety_considerations": [
-      "This exercise places high stress on the wrists — build wrist flexibility and strength first",
+      "This exercise places high stress on the wrists \u2014 build wrist flexibility and strength first",
       "Progress from less forward lean to more as strength increases",
       "Stop immediately if you feel wrist pain"
     ],
@@ -77,7 +77,7 @@
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
       "Push the floor away from you, don't push yourself away from the floor",
-      "Keep the lean — that's the whole exercise",
+      "Keep the lean \u2014 that's the whole exercise",
       "Squeeze the glutes to keep the hips from piking"
     ]
   },
@@ -143,6 +143,9 @@
       "calisthenics",
       "advanced",
       "planche"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -69,7 +69,7 @@
     "starting_position": "Stand with feet together, core engaged, hands on hips or holding dumbbells at the sides.",
     "setup_instructions": "Wear footwear with good lateral grip. Perform bodyweight first to establish the movement pattern before adding load.",
     "steps": [
-      "Step 1: Take a large step directly to one side — the foot lands flat and pointed forward or slightly outward.",
+      "Step 1: Take a large step directly to one side \u2014 the foot lands flat and pointed forward or slightly outward.",
       "Step 2: Sit the hip of the stepping leg back and down, bending that knee while keeping the stationary leg straight.",
       "Step 3: Keep the torso relatively upright and reach the hands forward or keep them on the hips for balance.",
       "Step 4: Drive through the working heel to push back to the starting position.",
@@ -82,7 +82,7 @@
       "Excessive forward lean of the torso"
     ],
     "safety_considerations": [
-      "Adequate hip adductor flexibility is necessary — start with a shorter step and increase gradually",
+      "Adequate hip adductor flexibility is necessary \u2014 start with a shorter step and increase gradually",
       "If adductor soreness is severe the day after, reduce step width in the next session"
     ],
     "range_of_motion_guidance": "The working knee bends until the thigh approaches parallel. The stationary leg stays straight with the foot flat.",
@@ -90,7 +90,7 @@
     "coaching_cues": [
       "Sit back into the hip, not down onto the knee",
       "Keep the stationary leg long and straight",
-      "Foot flat on the working leg — don't let the heel rise"
+      "Foot flat on the working leg \u2014 don't let the heel rise"
     ]
   },
   "variants": {
@@ -170,6 +170,9 @@
       "adductor",
       "frontal-plane",
       "mobility"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

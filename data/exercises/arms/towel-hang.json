@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0126-4000-a000-100000000126",
   "slug": "towel-hang",
   "name": "Towel Pull-Up Bar Hang",
-  "alternative_names": ["Towel Grip Hang", "Gi Hang"],
+  "alternative_names": [
+    "Towel Grip Hang",
+    "Gi Hang"
+  ],
   "description": "The towel hang involves looping a thick towel over a pull-up bar and gripping the towel's fabric with both hands, then hanging from the bar using only the towel grip. The irregular surface of the towel challenges the fingers and hand to grip differently than a standard bar, building crush grip and finger flexor strength. It is a simple but effective tool for combat sports athletes, climbers, and those with standard grip limitations.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,15 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Loop a thick gym towel over a pull-up bar, with both ends hanging down. Grip one end in each hand.",
@@ -35,30 +49,71 @@
       "Step 4: Lower the feet and release."
     ],
     "breathing_instructions": "Breathe freely throughout the hold.",
-    "common_mistakes": ["Gripping too close to the bar (reduces towel challenge)", "Swinging during the hang"],
-    "safety_considerations": ["Ensure the towel is securely looped over the bar before hanging", "Start with short holds — towel grip is very taxing"],
-    "range_of_motion_guidance": "Static hang — arms straight.",
+    "common_mistakes": [
+      "Gripping too close to the bar (reduces towel challenge)",
+      "Swinging during the hang"
+    ],
+    "safety_considerations": [
+      "Ensure the towel is securely looped over the bar before hanging",
+      "Start with short holds \u2014 towel grip is very taxing"
+    ],
+    "range_of_motion_guidance": "Static hang \u2014 arms straight.",
     "tempo_recommendations": "Hold for 10-30 seconds",
-    "coaching_cues": ["Squeeze the towel — not the bar", "Stay still", "Build up hold duration progressively"]
+    "coaching_cues": [
+      "Squeeze the towel \u2014 not the bar",
+      "Stay still",
+      "Build up hold duration progressively"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 120},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["forearm", "grip", "static", "bodyweight"]
+    "tags": [
+      "forearm",
+      "grip",
+      "static",
+      "bodyweight"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,10 @@
   "exercise_id": "468cbb06-9145-4798-9013-d12464f3665a",
   "slug": "dead-stop-dumbbell-row",
   "name": "Dead-Stop Dumbbell Row",
-  "alternative_names": ["Dead Stop Row", "Paused Dumbbell Row"],
+  "alternative_names": [
+    "Dead Stop Row",
+    "Paused Dumbbell Row"
+  ],
   "description": "The dead-stop dumbbell row involves lowering the dumbbell to the floor and coming to a complete pause before initiating the next repetition, eliminating all stretch reflex and momentum. This technique demands greater muscle activation at the initiation of each rep and is effective for building raw pulling strength and preventing the common tendency to bounce reps.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,42 +18,59 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Set up in a standard dumbbell row stance — one knee and hand on a bench, the dumbbell on the floor directly beneath the working shoulder.",
+    "starting_position": "Set up in a standard dumbbell row stance \u2014 one knee and hand on a bench, the dumbbell on the floor directly beneath the working shoulder.",
     "setup_instructions": "Use a hex dumbbell or place round dumbbells on plates so they rest stably on the floor. Ensure the bench is stable.",
     "steps": [
       "Step 1: Lower the dumbbell fully to the floor from the previous rep or from the starting position.",
-      "Step 2: Release grip pressure momentarily — the dumbbell is resting on the floor.",
+      "Step 2: Release grip pressure momentarily \u2014 the dumbbell is resting on the floor.",
       "Step 3: Re-grip the dumbbell firmly.",
       "Step 4: Drive the elbow up and back, rowing the dumbbell to the hip.",
       "Step 5: Lower under control to the floor and repeat."
     ],
     "breathing_instructions": "Inhale during the pause on the floor. Exhale forcefully on the row.",
     "common_mistakes": [
-      "Not actually pausing — touching and immediately lifting does not count as dead-stop",
-      "Releasing spinal tension during the floor pause — maintain position throughout"
+      "Not actually pausing \u2014 touching and immediately lifting does not count as dead-stop",
+      "Releasing spinal tension during the floor pause \u2014 maintain position throughout"
     ],
     "safety_considerations": [
-      "Keep the spine neutral during the pause — do not round or extend excessively",
+      "Keep the spine neutral during the pause \u2014 do not round or extend excessively",
       "Ensure the floor surface is flat and stable under the dumbbell"
     ],
     "range_of_motion_guidance": "Full dead stop on floor to elbow above torso level.",
     "tempo_recommendations": "1s pause-1-1-2 (pause on floor, quick initiation, 2s lower)",
     "coaching_cues": [
-      "Full stop on the floor — no bounce, no cheat",
+      "Full stop on the floor \u2014 no bounce, no cheat",
       "Re-grip with intent before each rep",
       "Explode from the floor each time"
     ]
@@ -64,21 +84,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 4, "max_reps": 8 }
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 4, "max_sets": 5 }
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": { "strength": 150 },
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 150
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "row", "dead-stop", "strength", "unilateral"]
+    "tags": [
+      "dumbbell",
+      "row",
+      "dead-stop",
+      "strength",
+      "unilateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

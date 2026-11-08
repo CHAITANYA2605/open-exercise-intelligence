@@ -2,8 +2,11 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50002",
   "slug": "hip-90-90-switch",
   "name": "Hip 90-90 Position Switch",
-  "alternative_names": ["90-90 Hip Switch", "Internal-External Rotation Transition"],
-  "description": "The 90-90 hip switch is a floor-based hip mobility exercise in which both hips are bent to 90 degrees in a seated position — one leg in external rotation in front and one in internal rotation behind. The switch involves transitioning from one side to the other by lifting both knees and rotating the entire lower body to the opposite 90-90 configuration. This exercise challenges hip internal and external rotation range, adductor flexibility, and hip socket mobility through a continuous dynamic flow.",
+  "alternative_names": [
+    "90-90 Hip Switch",
+    "Internal-External Rotation Transition"
+  ],
+  "description": "The 90-90 hip switch is a floor-based hip mobility exercise in which both hips are bent to 90 degrees in a seated position \u2014 one leg in external rotation in front and one in internal rotation behind. The switch involves transitioning from one side to the other by lifting both knees and rotating the entire lower body to the opposite 90-90 configuration. This exercise challenges hip internal and external rotation range, adductor flexibility, and hip socket mobility through a continuous dynamic flow.",
   "category": "stretching",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -15,14 +18,25 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the floor with both knees bent to 90 degrees. The front leg is in external rotation (shin perpendicular to the body) and the back leg is in internal rotation (shin parallel to and alongside the body).",
@@ -34,30 +48,73 @@
       "Step 4: Hold the new position for 2-3 seconds, then switch back or continue to alternate."
     ],
     "breathing_instructions": "Exhale during the transition. Inhale and settle into each position.",
-    "common_mistakes": ["Collapsing the torso toward the front leg — maintain an upright position throughout", "Forcing range by pushing the knees down with the hands — the range should come from the hip joint passively", "Lifting both knees high and using momentum — aim for a controlled, low transition"],
-    "safety_considerations": ["If sharp hip or knee pain occurs during the rotation, reduce range or stop and assess with a physiotherapist", "Hip internal rotation restriction is common — work at the available range, not beyond it"],
+    "common_mistakes": [
+      "Collapsing the torso toward the front leg \u2014 maintain an upright position throughout",
+      "Forcing range by pushing the knees down with the hands \u2014 the range should come from the hip joint passively",
+      "Lifting both knees high and using momentum \u2014 aim for a controlled, low transition"
+    ],
+    "safety_considerations": [
+      "If sharp hip or knee pain occurs during the rotation, reduce range or stop and assess with a physiotherapist",
+      "Hip internal rotation restriction is common \u2014 work at the available range, not beyond it"
+    ],
     "range_of_motion_guidance": "Both shins to the floor in both 90-90 positions is the target. Work toward this progressively.",
     "tempo_recommendations": "2-3s hold in each position before switching. Transitions should be slow and controlled.",
-    "coaching_cues": ["Sit tall — do not lean over the front leg", "Feel the outer hip of the front leg and the inner hip of the back leg stretching", "The switch is a rotation — lead from the knees, not the feet"]
+    "coaching_cues": [
+      "Sit tall \u2014 do not lean over the front leg",
+      "Feel the outer hip of the front leg and the inner hip of the back leg stretching",
+      "The switch is a rotation \u2014 lead from the knees, not the feet"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"mobility": 60},
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip-mobility", "internal-rotation", "external-rotation", "stretching", "floor"]
+    "tags": [
+      "hip-mobility",
+      "internal-rotation",
+      "external-rotation",
+      "stretching",
+      "floor"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

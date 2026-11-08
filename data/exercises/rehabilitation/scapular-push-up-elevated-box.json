@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50039",
   "slug": "scapular-push-up-elevated-box",
   "name": "Scapular Push-Up on Elevated Box",
-  "alternative_names": ["Elevated Scapular Push-Up", "Box Serratus Push-Up"],
+  "alternative_names": [
+    "Elevated Scapular Push-Up",
+    "Box Serratus Push-Up"
+  ],
   "description": "A scapular push-up performed with hands elevated on a box, bench, or step. The incline reduces the percentage of bodyweight being supported, making it easier than the floor version for people who cannot yet perform the floor version with good form. The same protraction-retraction scapular motion is trained without the full bodyweight load. Used in early-stage shoulder rehabilitation to introduce scapular movement under partial load before progressing to the floor version.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -15,49 +18,114 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Place hands on the edge of a bench, box, or step approximately shoulder-width apart. Extend the body into a plank with the arms fully locked. The body angle depends on box height — a higher box means less bodyweight load.",
+    "starting_position": "Place hands on the edge of a bench, box, or step approximately shoulder-width apart. Extend the body into a plank with the arms fully locked. The body angle depends on box height \u2014 a higher box means less bodyweight load.",
     "setup_instructions": "Choose box height based on current ability. Start at a height that allows 15-20 smooth reps with full scapular motion before progressing lower.",
     "steps": [
       "Step 1: Begin in an incline plank on the box, elbows fully locked, body rigid.",
       "Step 2: Allow the shoulder blades to retract (pinch together), letting the chest drop slightly toward the box.",
       "Step 3: Push the box away with both hands to protract the scapulae, rounding the upper back and spreading the shoulder blades wide.",
-      "Step 4: Return to retraction. Repeat — elbows remain locked throughout."
+      "Step 4: Return to retraction. Repeat \u2014 elbows remain locked throughout."
     ],
     "breathing_instructions": "Exhale during protraction (spread). Inhale during retraction (pinch).",
-    "common_mistakes": ["Bending the elbows — elbows must stay locked. This is not a push-up.", "Moving the hips or losing the plank position during the motion", "Moving too fast — slow movement ensures scapular isolation"],
-    "safety_considerations": ["This is the regressed version of the floor scapular push-up — use it when the floor version is too challenging", "Progress to the floor version when 20 controlled reps are achieved at this height"],
-    "range_of_motion_guidance": "Full protraction to full retraction is the goal. The range is small — the chest drops and rises only a few centimeters.",
+    "common_mistakes": [
+      "Bending the elbows \u2014 elbows must stay locked. This is not a push-up.",
+      "Moving the hips or losing the plank position during the motion",
+      "Moving too fast \u2014 slow movement ensures scapular isolation"
+    ],
+    "safety_considerations": [
+      "This is the regressed version of the floor scapular push-up \u2014 use it when the floor version is too challenging",
+      "Progress to the floor version when 20 controlled reps are achieved at this height"
+    ],
+    "range_of_motion_guidance": "Full protraction to full retraction is the goal. The range is small \u2014 the chest drops and rises only a few centimeters.",
     "tempo_recommendations": "2s retract, 1s hold, 2s protract, 1s hold at top.",
-    "coaching_cues": ["Arms absolutely straight — if they bend, you are doing a push-up", "Spread the shoulder blades as wide as possible at the top", "Keep the whole body in a rigid line — only the shoulder blades move"]
+    "coaching_cues": [
+      "Arms absolutely straight \u2014 if they bend, you are doing a push-up",
+      "Spread the shoulder blades as wide as possible at the top",
+      "Keep the whole body in a rigid line \u2014 only the shoulder blades move"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 10, "max_reps": 20}],
-    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"endurance": 45},
-    "training_goals": ["endurance", "mobility"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "endurance": 45
+    },
+    "training_goals": [
+      "endurance",
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["scapular", "rehabilitation", "shoulder", "elevated", "serratus"]
+    "tags": [
+      "scapular",
+      "rehabilitation",
+      "shoulder",
+      "elevated",
+      "serratus"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

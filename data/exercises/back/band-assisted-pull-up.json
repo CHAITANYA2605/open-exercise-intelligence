@@ -2,8 +2,11 @@
   "exercise_id": "5f1e1dd9-99f4-4ebb-8e71-065ca7b03b4a",
   "slug": "band-assisted-pull-up",
   "name": "Band-Assisted Pull-Up",
-  "alternative_names": ["Resistance Band Pull-Up", "Assisted Pull-Up with Band"],
-  "description": "The band-assisted pull-up uses a looped resistance band anchored around the bar and under the knees or feet to provide upward assistance throughout the range of motion. The band offloads the most bodyweight at the bottom — where the pull-up is mechanically hardest — allowing trainees to build pulling strength progressively before performing unassisted pull-ups.",
+  "alternative_names": [
+    "Resistance Band Pull-Up",
+    "Assisted Pull-Up with Band"
+  ],
+  "description": "The band-assisted pull-up uses a looped resistance band anchored around the bar and under the knees or feet to provide upward assistance throughout the range of motion. The band offloads the most bodyweight at the bottom \u2014 where the pull-up is mechanically hardest \u2014 allowing trainees to build pulling strength progressively before performing unassisted pull-ups.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -15,22 +18,40 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000006-0000-4000-a000-000000000006", "eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000006-0000-4000-a000-000000000006",
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Loop a resistance band over the pull-up bar. Place both knees (or one foot) in the bottom of the loop. Grip the bar shoulder-width with an overhand grip. Arms fully extended.",
-    "setup_instructions": "Choose a band thickness based on the amount of assistance needed — heavier individuals or beginners use a thicker band. Ensure the band is secure around the bar before loading it with body weight.",
+    "setup_instructions": "Choose a band thickness based on the amount of assistance needed \u2014 heavier individuals or beginners use a thicker band. Ensure the band is secure around the bar before loading it with body weight.",
     "steps": [
       "Step 1: Hang from the bar with the band supporting the knees or feet, arms fully extended.",
       "Step 2: Depress and retract the shoulder blades to initiate the movement.",
@@ -40,12 +61,12 @@
     ],
     "breathing_instructions": "Exhale on the way up, inhale on the way down.",
     "common_mistakes": [
-      "Using a band so thick that it removes all challenge — progress to thinner bands over time",
+      "Using a band so thick that it removes all challenge \u2014 progress to thinner bands over time",
       "Kipping or swinging rather than using controlled pulling strength",
       "Not reaching full arm extension at the bottom of each rep"
     ],
     "safety_considerations": [
-      "Step into and out of the band carefully — do not let it snap back",
+      "Step into and out of the band carefully \u2014 do not let it snap back",
       "Inspect the band for cracks or tears before each session"
     ],
     "range_of_motion_guidance": "Full dead hang at the bottom to chin above the bar at the top.",
@@ -53,7 +74,7 @@
     "coaching_cues": [
       "Lead with the chest, not the chin",
       "Drive the elbows toward your hip pockets",
-      "Control the descent — do not drop"
+      "Control the descent \u2014 do not drop"
     ]
   },
   "variants": {
@@ -65,22 +86,54 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 5, "max_reps": 8 },
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": { "strength": 120, "hypertrophy": 90 },
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["pull-up", "assisted", "band", "beginner", "calisthenics"]
+    "tags": [
+      "pull-up",
+      "assisted",
+      "band",
+      "beginner",
+      "calisthenics"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

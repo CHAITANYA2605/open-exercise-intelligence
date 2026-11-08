@@ -1,12 +1,12 @@
 {
   "exercise_id": "b26ed8ab-af56-4e1e-a177-a7395b92fe87",
   "slug": "single-arm-cable-biceps-curl-supine",
-  "name": "Single-Arm Cable Biceps Curl — Supine on Bench",
+  "name": "Single-Arm Cable Biceps Curl \u2014 Supine on Bench",
   "alternative_names": [
     "Lying Cable Curl Single Arm",
     "Supine Single-Arm Cable Curl"
   ],
-  "description": "A biceps curl performed lying supine (face up) on a flat bench with the head near a low cable pulley, gripping a D-handle. This lying position changes the resistance angle — the cable pulls from behind and below the shoulder at the start of the rep, providing a unique lengthened-position loading on the biceps that is not achievable in a standing cable curl. The supine position also eliminates body swing, enforcing strict biceps isolation. Used as an isolation finisher or as a variation to target the stretched portion of the strength curve.",
+  "description": "A biceps curl performed lying supine (face up) on a flat bench with the head near a low cable pulley, gripping a D-handle. This lying position changes the resistance angle \u2014 the cable pulls from behind and below the shoulder at the start of the rep, providing a unique lengthened-position loading on the biceps that is not achievable in a standing cable curl. The supine position also eliminates body swing, enforcing strict biceps isolation. Used as an isolation finisher or as a variation to target the stretched portion of the strength curve.",
   "category": "functional",
   "exercise_type": "isolation",
   "difficulty_level": "intermediate",
@@ -55,9 +55,9 @@
     ],
     "breathing_instructions": "Exhale during the curl. Inhale during the return to extension.",
     "common_mistakes": [
-      "Lifting the upper arm from the torso during the curl — the upper arm should stay fixed",
-      "Swinging the torso to assist the curl — this cannot occur in the supine position but partial torso rotation should be avoided",
-      "Rushing the return — the eccentric with the cable pulling behind you is the unique stimulus"
+      "Lifting the upper arm from the torso during the curl \u2014 the upper arm should stay fixed",
+      "Swinging the torso to assist the curl \u2014 this cannot occur in the supine position but partial torso rotation should be avoided",
+      "Rushing the return \u2014 the eccentric with the cable pulling behind you is the unique stimulus"
     ],
     "safety_considerations": [
       "Ensure the bench is stable and will not slide toward the pulley under load",
@@ -66,9 +66,9 @@
     "range_of_motion_guidance": "Full elbow extension at the bottom (arm extended toward pulley) to full elbow flexion at the top.",
     "tempo_recommendations": "2s curl, 2s hold, 3s slow eccentric to full extension.",
     "coaching_cues": [
-      "Feel the stretch at the very bottom of the rep — the supine position with cable pulling behind creates a unique loaded stretch",
-      "Keep the upper arm fixed on the torso — only the forearm moves",
-      "Slow the return — that is where this variation is most different from a standing curl"
+      "Feel the stretch at the very bottom of the rep \u2014 the supine position with cable pulling behind creates a unique loaded stretch",
+      "Keep the upper arm fixed on the torso \u2014 only the forearm moves",
+      "Slow the return \u2014 that is where this variation is most different from a standing curl"
     ]
   },
   "variants": {
@@ -118,6 +118,9 @@
       "curl",
       "supine",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

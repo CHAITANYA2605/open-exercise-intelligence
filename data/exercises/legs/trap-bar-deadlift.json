@@ -6,7 +6,7 @@
     "Hex Bar Deadlift",
     "Trap Bar Pull"
   ],
-  "description": "The trap bar deadlift is performed inside a hexagonal barbell, gripping handles at the sides with a neutral grip. Standing inside the bar shifts the center of mass closer to the body compared to a conventional deadlift, reducing the moment arm at the hip and lumbar spine while increasing the moment arm at the knee. The result is a more quad-dominant pattern than a conventional deadlift, with less spinal stress — making it an effective compound exercise for general strength and power development.",
+  "description": "The trap bar deadlift is performed inside a hexagonal barbell, gripping handles at the sides with a neutral grip. Standing inside the bar shifts the center of mass closer to the body compared to a conventional deadlift, reducing the moment arm at the hip and lumbar spine while increasing the moment arm at the knee. The result is a more quad-dominant pattern than a conventional deadlift, with less spinal stress \u2014 making it an effective compound exercise for general strength and power development.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -73,23 +73,23 @@
   ],
   "execution": {
     "starting_position": "Stand inside the trap bar with feet hip-width apart and the handles beside your hips. Push the hips back and bend the knees to grip the handles.",
-    "setup_instructions": "Load the bar with appropriate weight. The high handles on most trap bars reduce the range of motion — use the low handles for a full range similar to a conventional deadlift. Neutral grip is automatic with the trap bar.",
+    "setup_instructions": "Load the bar with appropriate weight. The high handles on most trap bars reduce the range of motion \u2014 use the low handles for a full range similar to a conventional deadlift. Neutral grip is automatic with the trap bar.",
     "steps": [
       "Step 1: Stand inside the bar, feet hip-width. Push the hips back and bend the knees until the hands reach the handles. Take a neutral grip.",
       "Step 2: Brace the core, take a deep breath, and pull the bar tight against the floor before beginning the lift.",
-      "Step 3: Push the floor away — the leg drive is prominent with the trap bar. Drive through the full foot.",
+      "Step 3: Push the floor away \u2014 the leg drive is prominent with the trap bar. Drive through the full foot.",
       "Step 4: Extend the hips and knees simultaneously to reach a fully upright position with hips locked out.",
       "Step 5: Return the bar to the floor under control, maintaining spinal position throughout."
     ],
     "breathing_instructions": "Inhale and brace before the pull. Hold through the lift. Exhale at the top.",
     "common_mistakes": [
-      "Letting the hips rise faster than the shoulders — turning it into a stiff-leg pull from the lower back",
+      "Letting the hips rise faster than the shoulders \u2014 turning it into a stiff-leg pull from the lower back",
       "Rounding the lower back due to setting up with hips too high or too low",
-      "Not using the full foot — think of leg-pressing the floor rather than just pulling with the back"
+      "Not using the full foot \u2014 think of leg-pressing the floor rather than just pulling with the back"
     ],
     "safety_considerations": [
-      "Easier to learn than conventional deadlift — good entry point for beginners",
-      "Still requires proper bracing — do not lift with a relaxed core"
+      "Easier to learn than conventional deadlift \u2014 good entry point for beginners",
+      "Still requires proper bracing \u2014 do not lift with a relaxed core"
     ],
     "range_of_motion_guidance": "Full extension at the top. Full setup position at the bottom with spine neutral and hips loaded.",
     "tempo_recommendations": "1-0-2-0 (pull 1s, controlled lower 2s)",
@@ -174,6 +174,9 @@
       "compound",
       "back-friendly",
       "beginner-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

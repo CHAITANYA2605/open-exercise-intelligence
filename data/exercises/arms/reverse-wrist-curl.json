@@ -35,7 +35,7 @@
   ],
   "execution": {
     "starting_position": "Sit on a bench. Rest forearms on the thighs or bench pad with the wrists hanging off the edge. Palms face downward (pronated). Hold a dumbbell or barbell with an overhand grip.",
-    "setup_instructions": "Use lighter weight than for wrist curls — the extensors are smaller muscles. Forearms fully supported, only wrists free to move.",
+    "setup_instructions": "Use lighter weight than for wrist curls \u2014 the extensors are smaller muscles. Forearms fully supported, only wrists free to move.",
     "steps": [
       "Step 1: Forearms resting on a surface, palms facing downward, weight in hands. Allow the wrists to drop into full flexion.",
       "Step 2: Exhale and extend the wrists, lifting the weight upward as far as possible.",
@@ -44,18 +44,18 @@
     ],
     "breathing_instructions": "Exhale on extension; inhale on lowering.",
     "common_mistakes": [
-      "Using the same weight as for wrist curls — the extensors require significantly less load",
+      "Using the same weight as for wrist curls \u2014 the extensors require significantly less load",
       "Lifting the forearms off the support during the extension"
     ],
     "safety_considerations": [
-      "Keep loads conservative — the wrist extensors are injury-prone under heavy loads",
+      "Keep loads conservative \u2014 the wrist extensors are injury-prone under heavy loads",
       "If lateral elbow pain exists (tennis elbow), consult a clinician before loading this exercise"
     ],
     "range_of_motion_guidance": "Full wrist flexion drop at the bottom; maximum extension at the top.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Palms down — only the wrists move upward",
-      "Light weight, full range — go through the complete drop to extension arc"
+      "Palms down \u2014 only the wrists move upward",
+      "Light weight, full range \u2014 go through the complete drop to extension arc"
     ]
   },
   "variants": {
@@ -122,6 +122,9 @@
       "dumbbell",
       "grip",
       "elbow-health"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -1,8 +1,11 @@
 {
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50004",
   "slug": "ankle-dorsiflexion-wall-band",
-  "name": "Ankle Dorsiflexion Stretch — Wall with Band",
-  "alternative_names": ["Banded Ankle Dorsiflexion Mobilization", "Wall Ankle Mob Band"],
+  "name": "Ankle Dorsiflexion Stretch \u2014 Wall with Band",
+  "alternative_names": [
+    "Banded Ankle Dorsiflexion Mobilization",
+    "Wall Ankle Mob Band"
+  ],
   "description": "A joint mobilization technique that combines a standard wall-supported ankle dorsiflexion stretch with a resistance band providing posterior traction on the talus (ankle bone). The band is looped around the ankle just above the malleolus, anchored behind the foot, and pulls the talus posteriorly as the exerciser drives the knee forward over the toes. This joint distraction improves the glide of the talus in the mortise and addresses the bony restriction component of limited dorsiflexion range, making it more effective than soft tissue stretching alone for many individuals.",
   "category": "stretching",
   "exercise_type": "isolation",
@@ -15,13 +18,21 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Loop a stiff resistance band around the front of the ankle, just above the ankle bones. Anchor the other end of the band to a fixed point behind the foot at floor level (such as the base of a squat rack). Stand in a split stance with the banded foot forward, toes approximately 10-15 cm from a wall.",
@@ -33,30 +44,73 @@
       "Step 4: Return the knee to the starting position. Repeat, gradually moving the foot further from the wall as range improves."
     ],
     "breathing_instructions": "Exhale as you push the knee toward the wall. Breathe in the hold position.",
-    "common_mistakes": ["Allowing the heel to lift — the heel must stay flat for the full stretch to occur", "Using a band that is too light to create meaningful joint distraction", "Not anchoring the band low enough — the band must pull posteriorly at ankle level, not diagonally"],
-    "safety_considerations": ["Avoid if you have acute ankle sprain (soft tissue must be assessed first before mobilization)", "The sensation should be joint opening, not pain — if pain increases, stop"],
+    "common_mistakes": [
+      "Allowing the heel to lift \u2014 the heel must stay flat for the full stretch to occur",
+      "Using a band that is too light to create meaningful joint distraction",
+      "Not anchoring the band low enough \u2014 the band must pull posteriorly at ankle level, not diagonally"
+    ],
+    "safety_considerations": [
+      "Avoid if you have acute ankle sprain (soft tissue must be assessed first before mobilization)",
+      "The sensation should be joint opening, not pain \u2014 if pain increases, stop"
+    ],
     "range_of_motion_guidance": "Drive the knee as far forward as the band and ankle allow while the heel stays flat.",
     "tempo_recommendations": "2-3s hold at end range per repetition. Perform 10-15 reps.",
-    "coaching_cues": ["Push the knee forward in line with the second toe — not inward or outward", "Feel the band pulling the ankle backward as the knee drives forward", "If the knee easily touches the wall, move the foot further away to increase the challenge"]
+    "coaching_cues": [
+      "Push the knee forward in line with the second toe \u2014 not inward or outward",
+      "Feel the band pulling the ankle backward as the knee drives forward",
+      "If the knee easily touches the wall, move the foot further away to increase the challenge"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "mobility", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "mobility",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"mobility": 60},
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["ankle", "dorsiflexion", "stretching", "band-traction", "joint-mobility"]
+    "tags": [
+      "ankle",
+      "dorsiflexion",
+      "stretching",
+      "band-traction",
+      "joint-mobility"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

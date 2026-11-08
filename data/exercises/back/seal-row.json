@@ -63,7 +63,7 @@
     "steps": [
       "Step 1: Begin with arms hanging, the barbell at full extension below the bench.",
       "Step 2: Row the barbell up toward the underside of the bench by driving the elbows up and back.",
-      "Step 3: Touch or nearly touch the bar to the underside of the bench — this is the range-of-motion marker.",
+      "Step 3: Touch or nearly touch the bar to the underside of the bench \u2014 this is the range-of-motion marker.",
       "Step 4: Squeeze the shoulder blades together at the top.",
       "Step 5: Lower the barbell fully, allowing the shoulder blades to protract, before the next rep."
     ],
@@ -80,7 +80,7 @@
     "range_of_motion_guidance": "Full dead hang at the bottom to bar contact with the bench at the top. This is the longest available ROM for a horizontal pull.",
     "tempo_recommendations": "1-1-3-0 (1s concentric, 1s hold, 3s eccentric)",
     "coaching_cues": [
-      "Let the bar hang completely at the bottom — no short reps",
+      "Let the bar hang completely at the bottom \u2014 no short reps",
       "Touch the bench every single rep",
       "Imagine pulling the bench down onto the bar, not the bar up to the bench"
     ]
@@ -144,6 +144,9 @@
       "prone",
       "full-rom",
       "upper-back"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,10 @@
   "exercise_id": "58e3146c-e23a-4763-acec-d51b97397d11",
   "slug": "wall-walk-to-handstand",
   "name": "Wall Walk to Handstand",
-  "alternative_names": ["Wall Walk Up", "Walk-Up Handstand"],
+  "alternative_names": [
+    "Wall Walk Up",
+    "Walk-Up Handstand"
+  ],
   "description": "The wall walk to handstand starts in a push-up position with feet against the wall, then progressively walks the feet up the wall while walking the hands toward the wall, until the body is near-vertical in a wall handstand position. It builds the shoulder endurance, scapular stability, and body awareness required for handstand work, and each repetition is a full shoulder press equivalent in terms of muscular loading.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,16 +18,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "triceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
@@ -34,15 +55,15 @@
     "setup_instructions": "Clear the wall area. The floor directly below should be unobstructed to allow hand walking.",
     "steps": [
       "Step 1: Begin in push-up position, feet against the wall.",
-      "Step 2: Walk feet up the wall — take small steps.",
+      "Step 2: Walk feet up the wall \u2014 take small steps.",
       "Step 3: Simultaneously walk hands toward the wall to maintain balance.",
       "Step 4: Continue until the body is as vertical as possible (chest close to the wall).",
       "Step 5: Hold 2 seconds at the top, then walk back down under control."
     ],
     "breathing_instructions": "Breathe continuously during the walk. Hold at the top.",
     "common_mistakes": [
-      "Walking too fast — losing control is dangerous",
-      "Not walking hands close enough — the body must be close to vertical for maximum benefit"
+      "Walking too fast \u2014 losing control is dangerous",
+      "Not walking hands close enough \u2014 the body must be close to vertical for maximum benefit"
     ],
     "safety_considerations": [
       "Have clear bail-out space on both sides",
@@ -51,9 +72,9 @@
     "range_of_motion_guidance": "Push-up position to near-vertical handstand against the wall.",
     "tempo_recommendations": "Slow controlled walk, 2s hold at top",
     "coaching_cues": [
-      "Small steps — do not rush the walk",
+      "Small steps \u2014 do not rush the walk",
       "Walk the hands in as the feet go higher",
-      "Lock the core — no excessive arch"
+      "Lock the core \u2014 no excessive arch"
     ]
   },
   "variants": {
@@ -65,21 +86,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 3, "max_reps": 8 }
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "strength": 120 },
-    "training_goals": ["strength", "mobility"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength",
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calisthenics", "wall-walk", "handstand", "bodyweight", "shoulder"]
+    "tags": [
+      "calisthenics",
+      "wall-walk",
+      "handstand",
+      "bodyweight",
+      "shoulder"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -53,26 +53,26 @@
     "setup_instructions": "Use a mat or folded towel under the kneeling knee for comfort. Place hands on the front knee or the front thigh for balance.",
     "steps": [
       "Step 1: Begin in a kneeling lunge with the rear knee on the floor and front foot forward.",
-      "Step 2: Tuck the pelvis under by gently squeezing the glutes of the rear leg — this posteriorly tilts the pelvis and increases the stretch.",
+      "Step 2: Tuck the pelvis under by gently squeezing the glutes of the rear leg \u2014 this posteriorly tilts the pelvis and increases the stretch.",
       "Step 3: Shift the hips forward gently until a stretch is felt in the front of the rear hip.",
-      "Step 4: Hold the position for 30–90 seconds, breathing normally.",
+      "Step 4: Hold the position for 30\u201390 seconds, breathing normally.",
       "Step 5: Release and switch sides."
     ],
     "breathing_instructions": "Breathe deeply and slowly throughout the hold. Each exhale can allow the hips to relax slightly further into the stretch.",
     "common_mistakes": [
-      "Anterior pelvic tilt during the stretch, which reduces tension on the iliopsoas — tuck the pelvis",
+      "Anterior pelvic tilt during the stretch, which reduces tension on the iliopsoas \u2014 tuck the pelvis",
       "Leaning the torso forward, which reduces hip extension and diminishes the stretch",
-      "Not holding long enough — brief holds provide minimal flexibility adaptation"
+      "Not holding long enough \u2014 brief holds provide minimal flexibility adaptation"
     ],
     "safety_considerations": [
       "If the kneeling knee causes discomfort, place padding underneath",
       "Do not force past the point of a moderate stretch sensation"
     ],
     "range_of_motion_guidance": "Shift the hips forward until a moderate stretch is felt in the front of the rear hip. The front knee should not extend beyond the toes.",
-    "tempo_recommendations": "Hold 30–90 seconds per side. Perform 2–4 rounds.",
+    "tempo_recommendations": "Hold 30\u201390 seconds per side. Perform 2\u20134 rounds.",
     "coaching_cues": [
       "Squeeze the glute of the rear leg to deepen the stretch",
-      "Stand tall through the torso — do not collapse forward",
+      "Stand tall through the torso \u2014 do not collapse forward",
       "Breathe into the front of your hip"
     ]
   },
@@ -123,6 +123,9 @@
       "iliopsoas",
       "mobility",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

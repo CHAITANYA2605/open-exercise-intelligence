@@ -45,8 +45,8 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on an incline bench (30–45 degrees). Hold a weight plate with both palms pressing inward against its flat sides. Begin with arms extended above the upper chest.",
-    "setup_instructions": "Select a weight plate appropriate for pressing — typically 10–25 kg. The plate should be held vertically with both palms on the faces. Lie on the incline bench.",
+    "starting_position": "Lie on an incline bench (30\u201345 degrees). Hold a weight plate with both palms pressing inward against its flat sides. Begin with arms extended above the upper chest.",
+    "setup_instructions": "Select a weight plate appropriate for pressing \u2014 typically 10\u201325 kg. The plate should be held vertically with both palms on the faces. Lie on the incline bench.",
     "steps": [
       "Step 1: Begin with the plate held above the upper chest, arms extended. Squeeze the plate hard inward with both palms.",
       "Step 2: Lower the plate toward the upper chest, maintaining maximum inward pressure.",
@@ -55,18 +55,18 @@
     ],
     "breathing_instructions": "Inhale on descent, exhale on press.",
     "common_mistakes": [
-      "Relaxing the inward squeeze — the constant pressure is essential to the technique",
+      "Relaxing the inward squeeze \u2014 the constant pressure is essential to the technique",
       "Using a plate too heavy to hold with palm-to-face grip",
-      "Elbows flaring away — keep them pointing relatively forward due to the neutral grip"
+      "Elbows flaring away \u2014 keep them pointing relatively forward due to the neutral grip"
     ],
     "safety_considerations": [
-      "Use a plate with smooth outer faces — textured plates can cause hand pain",
-      "Ensure a secure grip before pressing — the plate should feel firmly held between both palms"
+      "Use a plate with smooth outer faces \u2014 textured plates can cause hand pain",
+      "Ensure a secure grip before pressing \u2014 the plate should feel firmly held between both palms"
     ],
     "range_of_motion_guidance": "Full range from upper chest to lockout. Squeeze maintained throughout.",
     "tempo_recommendations": "3-1-2-1",
     "coaching_cues": [
-      "Try to press your palms through the plate — the squeeze generates the chest tension",
+      "Try to press your palms through the plate \u2014 the squeeze generates the chest tension",
       "Think of crushing the plate: that internal force activates the medial pecs"
     ]
   },
@@ -118,6 +118,9 @@
       "press",
       "upper-chest",
       "adduction"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

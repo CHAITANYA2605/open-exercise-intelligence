@@ -55,23 +55,23 @@
       "Step 1: Begin with both arms loaded at the chest. Press the right arm to full extension.",
       "Step 2: Hold the right arm extended. Begin pressing the left arm to full extension.",
       "Step 3: Return the right arm to the loaded position as the left arm finishes its extension.",
-      "Step 4: Alternate: right press → left press → right return → left return. Each full alternating cycle is one rep."
+      "Step 4: Alternate: right press \u2192 left press \u2192 right return \u2192 left return. Each full alternating cycle is one rep."
     ],
     "breathing_instructions": "Exhale as each arm presses, inhale as it returns. Breathing rhythm may need to be adapted to the alternating cadence.",
     "common_mistakes": [
-      "Rotating the torso to assist the pressing arm — keep shoulders square",
+      "Rotating the torso to assist the pressing arm \u2014 keep shoulders square",
       "Resting at the loaded position rather than maintaining active tension",
       "Pressing too fast to maintain control of the alternating pattern"
     ],
     "safety_considerations": [
-      "Machine provides a fixed path — ensure seat height is correct before beginning",
+      "Machine provides a fixed path \u2014 ensure seat height is correct before beginning",
       "If the machine does not allow true alternating independent arms, perform standard bilateral pressing instead"
     ],
     "range_of_motion_guidance": "Full extension on each arm, fully loaded at the bottom. Each arm completes a full range per alternation.",
     "tempo_recommendations": "2-1-2-1 per arm cycle",
     "coaching_cues": [
-      "Press one side, hold the other — do not let the resting arm drop completely",
-      "Keep shoulders square — the alternating load tries to rotate you"
+      "Press one side, hold the other \u2014 do not let the resting arm drop completely",
+      "Keep shoulders square \u2014 the alternating load tries to rotate you"
     ]
   },
   "variants": {
@@ -127,6 +127,9 @@
       "alternating",
       "unilateral",
       "upper-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

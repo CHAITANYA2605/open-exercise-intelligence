@@ -58,8 +58,8 @@
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
       "Full hang between reps",
-      "Raise forward — not to the side",
-      "Slow and controlled — this is not a strength exercise"
+      "Raise forward \u2014 not to the side",
+      "Slow and controlled \u2014 this is not a strength exercise"
     ]
   },
   "variants": {
@@ -109,6 +109,9 @@
       "dumbbell",
       "incline",
       "anterior-deltoid"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

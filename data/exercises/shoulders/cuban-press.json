@@ -55,7 +55,7 @@
   ],
   "execution": {
     "starting_position": "Stand holding dumbbells (or a barbell) at thigh level with an overhand grip.",
-    "setup_instructions": "Use very light weights — this is a technique and health exercise, not a strength movement. 2.5-10 lbs per dumbbell is typical.",
+    "setup_instructions": "Use very light weights \u2014 this is a technique and health exercise, not a strength movement. 2.5-10 lbs per dumbbell is typical.",
     "steps": [
       "Step 1: Begin with dumbbells at the thighs.",
       "Step 2: Upright row phase: raise the elbows up and out to bring the weights to shoulder height with elbows at 90 degrees and upper arms parallel to the floor.",
@@ -63,20 +63,20 @@
       "Step 4: Press phase: press the dumbbells overhead to full lockout.",
       "Step 5: Reverse the motion through each phase back to the starting position."
     ],
-    "breathing_instructions": "Breathe naturally — this is typically used for warm-up or corrective purposes.",
+    "breathing_instructions": "Breathe naturally \u2014 this is typically used for warm-up or corrective purposes.",
     "common_mistakes": [
       "Using too much weight, which corrupts the rotation technique",
       "Skipping the controlled return through all three phases",
       "Rushing through the exercise without pausing at each transition"
     ],
     "safety_considerations": [
-      "This exercise should feel comfortable — any shoulder pain is a signal to stop and assess"
+      "This exercise should feel comfortable \u2014 any shoulder pain is a signal to stop and assess"
     ],
-    "range_of_motion_guidance": "Full upright row height, full external rotation, full overhead lockout — three distinct positions.",
-    "tempo_recommendations": "Slow and deliberate through each phase — no specific tempo beyond controlled execution",
+    "range_of_motion_guidance": "Full upright row height, full external rotation, full overhead lockout \u2014 three distinct positions.",
+    "tempo_recommendations": "Slow and deliberate through each phase \u2014 no specific tempo beyond controlled execution",
     "coaching_cues": [
-      "Three distinct movements — row, rotate, press",
-      "Light weight — quality of motion matters",
+      "Three distinct movements \u2014 row, rotate, press",
+      "Light weight \u2014 quality of motion matters",
       "Reverse every phase on the way down"
     ]
   },
@@ -127,6 +127,9 @@
       "corrective",
       "warm-up",
       "overhead-athletes"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50002",
   "slug": "clamshell-band",
   "name": "Clamshell with Resistance Band",
-  "alternative_names": ["Banded Clamshell"],
+  "alternative_names": [
+    "Banded Clamshell"
+  ],
   "description": "The banded clamshell is a foundational hip abductor strengthening exercise performed side-lying. A resistance band placed above the knees increases the challenge compared to bodyweight alone. By rotating the top knee upward while keeping the feet together and pelvis stable, the gluteus medius and hip external rotators are isolated. This exercise is essential for knee and hip rehabilitation, correcting valgus collapse, and preventing IT band issues.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -14,14 +16,32 @@
   "exercise_family": "rehab",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}],
-    "secondary": [
-      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
-    "stabilizers": [{"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}]
+    "secondary": [
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on your side with hips stacked, knees bent to approximately 45 degrees and feet together. Place a resistance band just above both knees. Rest your head on your lower arm.",
@@ -33,32 +53,84 @@
       "Step 4: Slowly lower the knee back to the starting position under control. Complete all reps then switch sides."
     ],
     "breathing_instructions": "Exhale as you open the knee upward. Inhale as you return to the starting position.",
-    "common_mistakes": ["Rolling the pelvis backward to gain extra range — this removes glute med work", "Letting the top foot lift off the bottom foot", "Using too heavy a band and compensating with the hip flexors"],
-    "safety_considerations": ["Consult a physiotherapist if you have hip labral pathology", "Keep the movement slow and controlled"],
+    "common_mistakes": [
+      "Rolling the pelvis backward to gain extra range \u2014 this removes glute med work",
+      "Letting the top foot lift off the bottom foot",
+      "Using too heavy a band and compensating with the hip flexors"
+    ],
+    "safety_considerations": [
+      "Consult a physiotherapist if you have hip labral pathology",
+      "Keep the movement slow and controlled"
+    ],
     "range_of_motion_guidance": "Open to approximately 45-60 degrees of hip external rotation without pelvic rotation. Focus on quality, not range.",
     "tempo_recommendations": "2-1-2-1 (2s up, 1s hold at top, 2s down, 1s pause at bottom)",
-    "coaching_cues": ["Keep your pelvis still — do not let it roll back", "Think about leading with the outer hip, not the knee", "Control the return — do not let the band snap it down"]
+    "coaching_cues": [
+      "Keep your pelvis still \u2014 do not let it roll back",
+      "Think about leading with the outer hip, not the knee",
+      "Control the return \u2014 do not let the band snap it down"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25},
-      {"goal": "mobility", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "mobility",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 45, "mobility": 60},
-    "training_goals": ["mobility", "endurance"]
+    "rest_periods": {
+      "endurance": 45,
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip", "rehabilitation", "glute-med", "knee-valgus"]
+    "tags": [
+      "hip",
+      "rehabilitation",
+      "glute-med",
+      "knee-valgus"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

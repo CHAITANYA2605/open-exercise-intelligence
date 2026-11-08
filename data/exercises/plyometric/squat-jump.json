@@ -72,20 +72,20 @@
     ],
     "breathing_instructions": "Exhale sharply at takeoff. Inhale during the squat descent.",
     "common_mistakes": [
-      "Not fully extending at takeoff — partial extension significantly reduces jump height",
-      "Landing with locked legs — the landing must be absorbed through the lower limb chain",
-      "Hesitating at the bottom before jumping — the dip-jump should be one fluid motion"
+      "Not fully extending at takeoff \u2014 partial extension significantly reduces jump height",
+      "Landing with locked legs \u2014 the landing must be absorbed through the lower limb chain",
+      "Hesitating at the bottom before jumping \u2014 the dip-jump should be one fluid motion"
     ],
     "safety_considerations": [
       "Adequate warm-up of the ankles, knees, and hips before jumping.",
-      "Land on the full foot — not just the toes."
+      "Land on the full foot \u2014 not just the toes."
     ],
     "range_of_motion_guidance": "Full extension at takeoff. Soft, controlled landing back into a squat position.",
-    "tempo_recommendations": "Maximum effort. For power: 3–6 reps with full rest. For conditioning: 8–15 reps continuous.",
+    "tempo_recommendations": "Maximum effort. For power: 3\u20136 reps with full rest. For conditioning: 8\u201315 reps continuous.",
     "coaching_cues": [
       "Dip fast, jump hard",
-      "Extend everything — ankle, knee, hip at takeoff",
-      "Land soft — quiet feet, bent knees"
+      "Extend everything \u2014 ankle, knee, hip at takeoff",
+      "Land soft \u2014 quiet feet, bent knees"
     ]
   },
   "variants": {
@@ -146,6 +146,9 @@
       "power",
       "beginner",
       "vertical-jump"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

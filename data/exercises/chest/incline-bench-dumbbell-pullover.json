@@ -50,12 +50,12 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on an incline bench set to 30–45 degrees. Hold one dumbbell with both hands (overlapping grip on the inner plate). Begin with the dumbbell above the chest, arms extended.",
-    "setup_instructions": "Set the incline to 30–45 degrees. The incline changes the arc compared to a flat pullover, shifting the muscle emphasis slightly. Lie fully on the bench with the head at the top.",
+    "starting_position": "Lie on an incline bench set to 30\u201345 degrees. Hold one dumbbell with both hands (overlapping grip on the inner plate). Begin with the dumbbell above the chest, arms extended.",
+    "setup_instructions": "Set the incline to 30\u201345 degrees. The incline changes the arc compared to a flat pullover, shifting the muscle emphasis slightly. Lie fully on the bench with the head at the top.",
     "steps": [
       "Step 1: Begin with arms extended above the chest, dumbbell held with both hands.",
       "Step 2: Keeping elbows slightly bent, arc the dumbbell back over the head and toward the floor.",
-      "Step 3: Lower until the arms are roughly in line with the torso or slightly past — stop when tension diminishes.",
+      "Step 3: Lower until the arms are roughly in line with the torso or slightly past \u2014 stop when tension diminishes.",
       "Step 4: Bring the dumbbell back along the same arc to the starting position above the chest."
     ],
     "breathing_instructions": "Inhale on the way back (expansion), exhale on the return to start.",
@@ -65,14 +65,14 @@
       "Using too heavy a dumbbell that compromises the arc control"
     ],
     "safety_considerations": [
-      "Avoid excessive range of motion — the shoulder is at risk of impingement if forced past comfortable range",
+      "Avoid excessive range of motion \u2014 the shoulder is at risk of impingement if forced past comfortable range",
       "Keep a firm grip on the dumbbell throughout; it can slip if the hands are sweaty"
     ],
-    "range_of_motion_guidance": "Arc back until arms approach parallel with torso or slightly past — stop at the first sign of shoulder discomfort.",
+    "range_of_motion_guidance": "Arc back until arms approach parallel with torso or slightly past \u2014 stop at the first sign of shoulder discomfort.",
     "tempo_recommendations": "3-1-2-1 (3s arc back, 1s stretch, 2s return, 1s squeeze)",
     "coaching_cues": [
-      "Lead with the elbows slightly — this keeps the chest in the movement",
-      "Think of the arc as a circle — the dumbbell traces a consistent path around your shoulder joint"
+      "Lead with the elbows slightly \u2014 this keeps the chest in the movement",
+      "Think of the arc as a circle \u2014 the dumbbell traces a consistent path around your shoulder joint"
     ]
   },
   "variants": {
@@ -123,6 +123,9 @@
       "chest",
       "back",
       "compound"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

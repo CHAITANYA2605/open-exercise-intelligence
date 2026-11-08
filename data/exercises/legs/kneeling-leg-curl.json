@@ -57,10 +57,10 @@
     "setup_instructions": "Have a partner hold the ankles or wedge the heels under a barbell secured at floor height. Knee padding is essential.",
     "steps": [
       "Step 1: Kneel upright with feet anchored and hips extended.",
-      "Step 2: Lower the torso forward a small amount, then use the hamstrings to pull the body back upright — the motion is a 'pull toward the heels' action.",
+      "Step 2: Lower the torso forward a small amount, then use the hamstrings to pull the body back upright \u2014 the motion is a 'pull toward the heels' action.",
       "Step 3: Hold the upright position briefly, then lower forward under control.",
       "Step 4: Repeat for the prescribed reps, controlling both phases.",
-      "Step 5: Avoid falling too far forward — this transitions into a Nordic curl and should be progressed to separately."
+      "Step 5: Avoid falling too far forward \u2014 this transitions into a Nordic curl and should be progressed to separately."
     ],
     "breathing_instructions": "Exhale as you pull up. Inhale as you lower.",
     "common_mistakes": [
@@ -72,12 +72,12 @@
       "If unable to perform even a minimal controlled range, begin with machine leg curls to build hamstring strength first",
       "Knee padding is essential to prevent bruising"
     ],
-    "range_of_motion_guidance": "Work in the range the hamstrings can actively control — typically 20–60° initially.",
+    "range_of_motion_guidance": "Work in the range the hamstrings can actively control \u2014 typically 20\u201360\u00b0 initially.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Pull your heels toward your glutes — think of it like a standing leg curl",
-      "Keep the hips extended — don't fold forward at the hip",
-      "Own both directions — control the lowering too"
+      "Pull your heels toward your glutes \u2014 think of it like a standing leg curl",
+      "Keep the hips extended \u2014 don't fold forward at the hip",
+      "Own both directions \u2014 control the lowering too"
     ]
   },
   "variants": {
@@ -85,9 +85,7 @@
       "lying-leg-curl",
       "seated-leg-curl"
     ],
-    "harder": [
-      "nordic-hamstring-curl"
-    ],
+    "harder": [],
     "unilateral": [],
     "bilateral": [],
     "equipment_alternatives": [
@@ -155,6 +153,9 @@
       "hamstring",
       "bodyweight",
       "nordic-progression"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

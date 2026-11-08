@@ -74,7 +74,7 @@
     ],
     "breathing_instructions": "Exhale on the press; inhale on the descent.",
     "common_mistakes": [
-      "Allowing the torso to rotate toward the working side — resist this with core tension",
+      "Allowing the torso to rotate toward the working side \u2014 resist this with core tension",
       "Using a weight so heavy that the shoulder rolls off the bench"
     ],
     "safety_considerations": [
@@ -84,7 +84,7 @@
     "range_of_motion_guidance": "Lower to chest level for a full stretch, press to full arm extension.",
     "tempo_recommendations": "2-0-2-0",
     "coaching_cues": [
-      "Resist the urge to rotate — keep both shoulders pinned to the bench",
+      "Resist the urge to rotate \u2014 keep both shoulders pinned to the bench",
       "Brace as if you are about to take a punch to the torso"
     ]
   },
@@ -163,6 +163,9 @@
       "dumbbell",
       "core",
       "anti-rotation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

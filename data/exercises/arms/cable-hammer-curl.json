@@ -56,17 +56,17 @@
     ],
     "breathing_instructions": "Exhale on the curl; inhale on the return.",
     "common_mistakes": [
-      "Letting the elbows drift forward — keep the upper arms pinned at the sides",
-      "Supinating the wrists at the top — maintain neutral grip"
+      "Letting the elbows drift forward \u2014 keep the upper arms pinned at the sides",
+      "Supinating the wrists at the top \u2014 maintain neutral grip"
     ],
     "safety_considerations": [
-      "Keep the wrists neutral and in line with the forearm — avoid wrist flexion or extension"
+      "Keep the wrists neutral and in line with the forearm \u2014 avoid wrist flexion or extension"
     ],
     "range_of_motion_guidance": "Full extension at the bottom; full curl at the top.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
       "Keep the pinkies up and grip the ends of the rope firmly",
-      "Elbows stay at your sides — they are the pivot point"
+      "Elbows stay at your sides \u2014 they are the pivot point"
     ]
   },
   "variants": {
@@ -132,6 +132,9 @@
       "neutral-grip",
       "curl",
       "arms"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

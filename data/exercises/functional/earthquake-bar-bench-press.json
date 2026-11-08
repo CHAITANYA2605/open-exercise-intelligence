@@ -62,7 +62,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on a flat bench with the earthquake bar racked above. The hanging kettlebells or plates should be allowed to swing freely from the band attachments. Unrack the bar and allow it to settle before beginning the first repetition.",
-    "setup_instructions": "Earthquake bars are specialty equipment. Bands must be attached to the ends of the bar and kettlebells or small plates hang from the bands. Use significantly less load than your standard bench press — the instability demands more from the stabilizers than the prime movers.",
+    "setup_instructions": "Earthquake bars are specialty equipment. Bands must be attached to the ends of the bar and kettlebells or small plates hang from the bands. Use significantly less load than your standard bench press \u2014 the instability demands more from the stabilizers than the prime movers.",
     "steps": [
       "Step 1: Unrack the bar and allow the oscillations to settle partially. Keep the arms rigid.",
       "Step 2: Lower the bar slowly to the chest, managing the oscillating load throughout the descent.",
@@ -71,12 +71,12 @@
     ],
     "breathing_instructions": "Inhale and brace during the descent. Exhale during the press.",
     "common_mistakes": [
-      "Using too much weight — the earthquake bar exercise is primarily a stability and motor control challenge",
-      "Trying to stop the oscillation completely — focus on managing it, not eliminating it",
+      "Using too much weight \u2014 the earthquake bar exercise is primarily a stability and motor control challenge",
+      "Trying to stop the oscillation completely \u2014 focus on managing it, not eliminating it",
       "Pressing too fast, which amplifies oscillation and reduces control"
     ],
     "safety_considerations": [
-      "This is advanced equipment — learn the standard barbell bench press first",
+      "This is advanced equipment \u2014 learn the standard barbell bench press first",
       "Have a spotter who understands the oscillating nature of the load",
       "Start with kettlebells of 8-12 kg each, regardless of your standard bench press strength"
     ],
@@ -85,7 +85,7 @@
     "coaching_cues": [
       "Think of dampening the oscillation, not stopping it",
       "Keep the shoulder blades retracted and depressed throughout the entire set",
-      "Slow is better — faster pressing creates more instability than you can manage initially"
+      "Slow is better \u2014 faster pressing creates more instability than you can manage initially"
     ]
   },
   "variants": {
@@ -146,6 +146,9 @@
       "functional",
       "shoulder-stability",
       "specialty"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

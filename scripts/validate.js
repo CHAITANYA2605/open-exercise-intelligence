@@ -19,7 +19,7 @@ const fileArg = (() => {
   return idx !== -1 ? process.argv[idx + 1] : null;
 })();
 
-const VALID_CATEGORIES = ['strength','cardio','flexibility','balance','plyometric','sport','rehabilitation','stretching','functional','power','mobility'];
+const VALID_CATEGORIES = ['strength','cardio','flexibility','functional','plyometric','power','mobility','rehabilitation','stretching'];
 const VALID_EXERCISE_TYPES = ['compound','isolation','cardio','stretching','plyometric','calisthenics'];
 const VALID_DIFFICULTY = ['beginner','intermediate','advanced','expert'];
 const VALID_MOVEMENT = ['push','pull','hinge','squat','lunge','carry','rotation','anti-rotation','gait','overhead','bridge','plank'];

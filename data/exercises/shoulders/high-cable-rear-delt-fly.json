@@ -46,7 +46,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand between a cable crossover station with both pulleys set above head height. Reach across and grip the left pulley handle with the right hand, and right pulley with the left hand (cables cross). Arms extended upward.",
-    "setup_instructions": "Because cables cross, the motion pulls them apart and downward. Use very light weight — rear deltoids have limited absolute strength.",
+    "setup_instructions": "Because cables cross, the motion pulls them apart and downward. Use very light weight \u2014 rear deltoids have limited absolute strength.",
     "steps": [
       "Step 1: Cross-grip the cable handles above head height. Arms extended overhead.",
       "Step 2: With arms remaining straight (slight elbow bend), pull the cables downward and outward.",
@@ -56,16 +56,16 @@
     ],
     "breathing_instructions": "Exhale on the pull, inhale on the return.",
     "common_mistakes": [
-      "Bending the elbows too much — the arms should remain nearly straight throughout",
+      "Bending the elbows too much \u2014 the arms should remain nearly straight throughout",
       "Using too heavy a load, which recruits the traps and lats instead of the rear delts"
     ],
     "safety_considerations": [
-      "The cables cross above the head — ensure the cable crossover station height is appropriate before starting"
+      "The cables cross above the head \u2014 ensure the cable crossover station height is appropriate before starting"
     ],
     "range_of_motion_guidance": "From cables crossed overhead to arms wide at shoulder height.",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
-      "Straight arms — pull with the rear delts not the elbows",
+      "Straight arms \u2014 pull with the rear delts not the elbows",
       "High to wide",
       "Squeeze the back of the shoulder at the bottom"
     ]
@@ -117,6 +117,9 @@
       "cable",
       "isolation",
       "fly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

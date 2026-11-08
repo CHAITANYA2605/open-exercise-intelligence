@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0031-4000-a000-100000000031",
   "slug": "hip-thrust-machine",
   "name": "Plate-Loaded Hip Thrust Machine",
-  "alternative_names": ["Machine Hip Thrust", "Hip Thrust Machine"],
+  "alternative_names": [
+    "Machine Hip Thrust",
+    "Hip Thrust Machine"
+  ],
   "description": "The plate-loaded hip thrust machine positions the lifter on a padded seat with a shoulder pad that presses downward, allowing the hips to extend against resistance without the need to load a barbell over the hips. This eliminates the setup discomfort of the barbell hip thrust and allows for quick load changes. The machine provides a stable environment for maximum glute loading through the full range of hip extension.",
   "category": "strength",
   "exercise_type": "compound",
@@ -14,17 +17,36 @@
   "exercise_family": "hinge",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}],
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ]
   },
-  "equipment_required": ["eq000041-0000-4000-a000-000000000041"],
+  "equipment_required": [
+    "eq000041-0000-4000-a000-000000000041"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the machine with the upper back against the shoulder pad and feet flat on the foot platform. Hips are at the starting low position.",
@@ -36,32 +58,82 @@
       "Step 4: Lower the hips under control back to the starting position."
     ],
     "breathing_instructions": "Exhale as you extend the hips, inhale on the return.",
-    "common_mistakes": ["Hyperextending the lower back at the top", "Pushing through the toes instead of heels", "Insufficient glute squeeze at lockout"],
-    "safety_considerations": ["Keep chin tucked and do not crane the neck during the thrust"],
-    "range_of_motion_guidance": "Full hip extension at top — do not go beyond neutral spine.",
+    "common_mistakes": [
+      "Hyperextending the lower back at the top",
+      "Pushing through the toes instead of heels",
+      "Insufficient glute squeeze at lockout"
+    ],
+    "safety_considerations": [
+      "Keep chin tucked and do not crane the neck during the thrust"
+    ],
+    "range_of_motion_guidance": "Full hip extension at top \u2014 do not go beyond neutral spine.",
     "tempo_recommendations": "2-1-2-0 (1s hold at top)",
-    "coaching_cues": ["Drive through the heels", "Squeeze the glutes at the top", "Chin tucked — look forward not up"]
+    "coaching_cues": [
+      "Drive through the heels",
+      "Squeeze the glutes at the top",
+      "Chin tucked \u2014 look forward not up"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute", "compound", "machine"]
+    "tags": [
+      "glute",
+      "compound",
+      "machine"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

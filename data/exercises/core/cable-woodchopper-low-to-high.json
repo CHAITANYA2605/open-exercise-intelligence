@@ -65,11 +65,11 @@
     ],
     "breathing_instructions": "Exhale as the handle rises. Inhale on the controlled return.",
     "common_mistakes": [
-      "Using only the arms — the drive should come from extending the hip and rotating the torso",
-      "Starting too upright — the low-loading position is essential for the full exercise stimulus"
+      "Using only the arms \u2014 the drive should come from extending the hip and rotating the torso",
+      "Starting too upright \u2014 the low-loading position is essential for the full exercise stimulus"
     ],
     "safety_considerations": [
-      "Avoid if hip or lumbar rotation is limited — the combined hip and spinal movement requires adequate mobility"
+      "Avoid if hip or lumbar rotation is limited \u2014 the combined hip and spinal movement requires adequate mobility"
     ],
     "range_of_motion_guidance": "Full diagonal arc from low outside the near knee to high outside the far shoulder.",
     "tempo_recommendations": "2-0-2-0. Drive upward, controlled return.",
@@ -127,6 +127,9 @@
       "cable",
       "functional",
       "sport"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

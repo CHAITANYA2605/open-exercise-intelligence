@@ -2,7 +2,10 @@
   "exercise_id": "24744b3f-f90e-48d4-9876-c04b593d64cc",
   "slug": "kneeling-single-arm-lat-pulldown",
   "name": "Kneeling Single-Arm Lat Pulldown",
-  "alternative_names": ["One-Arm Kneeling Pulldown", "Unilateral Kneeling Lat Pulldown"],
+  "alternative_names": [
+    "One-Arm Kneeling Pulldown",
+    "Unilateral Kneeling Lat Pulldown"
+  ],
   "description": "The kneeling single-arm lat pulldown removes leg drive and hip momentum by placing the lifter in a tall kneeling position, while the unilateral arm action allows independent lat development. The kneeling position also engages the core and hip flexors for stability, and the single-arm pull allows the working-side shoulder to fully protract and retract throughout the range of motion.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +18,37 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel upright facing a cable machine. Attach a single handle at the highest position. Grip with one hand, arm extended overhead.",
     "setup_instructions": "Kneel on a mat or pad for comfort. Place the kneeling position far enough from the cable to allow full arm extension overhead.",
     "steps": [
-      "Step 1: Kneel tall — hips extended, torso upright.",
+      "Step 1: Kneel tall \u2014 hips extended, torso upright.",
       "Step 2: Reach the working arm fully overhead.",
       "Step 3: Pull the handle down and toward the working-side hip by driving the elbow down.",
       "Step 4: At peak, hold 1 second.",
@@ -39,8 +56,8 @@
     ],
     "breathing_instructions": "Exhale on the pull. Inhale returning to full extension.",
     "common_mistakes": [
-      "Hips flexing (sitting back) during the pull — maintain upright kneeling",
-      "Leaning back to assist — stay tall and let the lat do the work"
+      "Hips flexing (sitting back) during the pull \u2014 maintain upright kneeling",
+      "Leaning back to assist \u2014 stay tall and let the lat do the work"
     ],
     "safety_considerations": [
       "Kneel on a padded surface to protect the knees",
@@ -49,7 +66,7 @@
     "range_of_motion_guidance": "Full overhead extension to elbow at or below shoulder level.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Hips tall — do not sit back",
+      "Hips tall \u2014 do not sit back",
       "Drive the elbow to the hip",
       "Full reach at the top of every rep"
     ]
@@ -63,21 +80,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90 },
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "pulldown", "kneeling", "unilateral", "lat"]
+    "tags": [
+      "cable",
+      "pulldown",
+      "kneeling",
+      "unilateral",
+      "lat"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

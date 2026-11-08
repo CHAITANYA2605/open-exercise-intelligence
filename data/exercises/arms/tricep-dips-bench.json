@@ -55,7 +55,7 @@
     "steps": [
       "Step 1: Sit on the bench edge, hands beside hips, fingers forward. Slide hips off the edge. Feet flat on the floor, knees bent.",
       "Step 2: Begin with arms extended, supporting body weight.",
-      "Step 3: Inhale and lower the body by bending the elbows, keeping them pointing backward — not flaring to the sides.",
+      "Step 3: Inhale and lower the body by bending the elbows, keeping them pointing backward \u2014 not flaring to the sides.",
       "Step 4: Lower until elbows are approximately 90 degrees, then exhale and press back to full arm extension."
     ],
     "breathing_instructions": "Inhale on the way down; exhale on the press up.",
@@ -64,14 +64,14 @@
       "Flaring the elbows wide rather than keeping them pointing behind"
     ],
     "safety_considerations": [
-      "Keep hips close to the bench — do not reach too far forward",
+      "Keep hips close to the bench \u2014 do not reach too far forward",
       "Stop if shoulder impingement or anterior shoulder pain is felt"
     ],
     "range_of_motion_guidance": "Lower to 90-degree elbow bend; press to full arm extension.",
     "tempo_recommendations": "2-0-2-0",
     "coaching_cues": [
-      "Elbows go back — not out to the sides",
-      "Stay close to the bench — your hips should brush it on the way down"
+      "Elbows go back \u2014 not out to the sides",
+      "Stay close to the bench \u2014 your hips should brush it on the way down"
     ]
   },
   "variants": {
@@ -149,6 +149,9 @@
       "beginner",
       "bench",
       "dip"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

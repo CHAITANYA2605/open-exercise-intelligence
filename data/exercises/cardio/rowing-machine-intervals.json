@@ -1,8 +1,12 @@
 {
   "exercise_id": "ca000004-0000-4000-a000-000000000004",
   "slug": "rowing-machine-intervals",
-  "name": "Rowing Machine Intervals — Ergometer",
-  "alternative_names": ["Erg Intervals", "Rowing Ergometer HIIT", "Rower Sprints"],
+  "name": "Rowing Machine Intervals \u2014 Ergometer",
+  "alternative_names": [
+    "Erg Intervals",
+    "Rowing Ergometer HIIT",
+    "Rower Sprints"
+  ],
   "description": "Rowing machine intervals on an ergometer produce one of the highest whole-body cardiovascular demands available in a gym setting, engaging approximately 86% of skeletal muscle mass in each stroke. Each rowing stroke follows a sequence of leg drive, body swing, and arm pull, distributing load across the quadriceps, gluteus maximus, latissimus dorsi, rhomboids, and biceps simultaneously. The absence of eccentric ground-reaction forces makes the rower extremely joint-friendly while generating a metabolic demand comparable to running sprints.",
   "category": "cardio",
   "exercise_type": "cardio",
@@ -15,29 +19,59 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
   "equipment_required": [],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the seat with feet strapped securely in the footrests. Grip the handle with an overhand grip, arms extended, shins vertical, and body hinged slightly forward with a neutral spine (the 'catch' position).",
-    "setup_instructions": "Set the damper (resistance lever) to 4–6 for most training. Higher damper settings feel heavier but are not necessarily better — elite rowers often train at 3–5. Connect the performance monitor and set the target for distance or time.",
+    "setup_instructions": "Set the damper (resistance lever) to 4\u20136 for most training. Higher damper settings feel heavier but are not necessarily better \u2014 elite rowers often train at 3\u20135. Connect the performance monitor and set the target for distance or time.",
     "steps": [
-      "Step 1: Begin at the catch — shins vertical, arms straight, body leaning slightly forward with a flat back.",
+      "Step 1: Begin at the catch \u2014 shins vertical, arms straight, body leaning slightly forward with a flat back.",
       "Step 2: Drive: push through both legs forcefully, keeping the arms straight until the legs are nearly extended.",
       "Step 3: Swing: once the legs are 90% extended, swing the torso back to 1 o'clock (slightly past vertical) using the hips.",
       "Step 4: Pull: once the body is swung back, draw the handle into the lower sternum by bending the elbows and pulling the shoulder blades together.",
@@ -45,7 +79,7 @@
     ],
     "breathing_instructions": "Exhale sharply at the beginning of the drive phase. Inhale on the recovery as you slide forward. Maintain a consistent breathing rhythm matched to the stroke rate.",
     "common_mistakes": [
-      "Pulling with the arms before the legs have driven — the sequence must always be legs, body, arms",
+      "Pulling with the arms before the legs have driven \u2014 the sequence must always be legs, body, arms",
       "Rounding the lower back at the catch, which places the spine under shear load",
       "Jerking the handle rather than maintaining a smooth, connected drive"
     ],
@@ -54,9 +88,9 @@
       "Avoid excessive layback past 1 o'clock, which compresses the lumbar spine under load"
     ],
     "range_of_motion_guidance": "Full leg drive from a compressed position to nearly locked-out. Handle should travel from full arm extension to touching the sternum just below the pectoral muscles.",
-    "tempo_recommendations": "Interval option: 500m hard / 2 minutes easy × 6–8 rounds. Tabata option: 20 seconds maximum effort / 10 seconds rest × 8. Stroke rate during sprint: 28–34 SPM.",
+    "tempo_recommendations": "Interval option: 500m hard / 2 minutes easy \u00d7 6\u20138 rounds. Tabata option: 20 seconds maximum effort / 10 seconds rest \u00d7 8. Stroke rate during sprint: 28\u201334 SPM.",
     "coaching_cues": [
-      "Legs, body, arms — arms, body, legs. That is the entire stroke",
+      "Legs, body, arms \u2014 arms, body, legs. That is the entire stroke",
       "Push the foot plate away, do not pull the handle",
       "Hang your body weight off the handle at the catch"
     ]
@@ -70,21 +104,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 6, "max_reps": 8}
+      {
+        "goal": "endurance",
+        "min_reps": 6,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 1, "max_sets": 1}
+      {
+        "goal": "endurance",
+        "min_sets": 1,
+        "max_sets": 1
+      }
     ],
-    "rest_periods": {"endurance": 120},
-    "training_goals": ["endurance", "power"]
+    "rest_periods": {
+      "endurance": 120
+    },
+    "training_goals": [
+      "endurance",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cardio", "rowing", "full-body", "HIIT", "low-impact"]
+    "tags": [
+      "cardio",
+      "rowing",
+      "full-body",
+      "HIIT",
+      "low-impact"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

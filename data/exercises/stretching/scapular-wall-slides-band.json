@@ -2,7 +2,10 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50008",
   "slug": "scapular-wall-slides-band",
   "name": "Scapular Wall Slides with Resistance Band",
-  "alternative_names": ["Banded Wall Angels", "Band Wall Slide Shoulder"],
+  "alternative_names": [
+    "Banded Wall Angels",
+    "Band Wall Slide Shoulder"
+  ],
   "description": "Wall slides performed with a resistance band looped around both wrists, adding external rotation resistance throughout the upward slide. As the arms move overhead, the band pulls the wrists together (into internal rotation), and the exerciser must resist this by maintaining wrist separation and external rotation. This cue amplifies infraspinatus and teres minor activation during the slide while training the full overhead arc, making it an effective combination of shoulder external rotation and scapular upward rotation training.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,17 +18,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "teres-minor"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with the back against a flat wall. Loop a light resistance band around both wrists. Begin in the goal-post position with elbows at shoulder height and all contact points on the wall (back, head, elbows, forearms, hands).",
@@ -37,26 +57,73 @@
       "Step 4: Slide back down to the goal-post position. Repeat."
     ],
     "breathing_instructions": "Exhale as you slide up. Inhale as you return.",
-    "common_mistakes": ["Letting the band win — allowing internal rotation as the arms go overhead defeats the purpose", "Using a band that is too heavy, preventing overhead range", "Losing wall contact with the forearms or lower back during the slide"],
-    "safety_considerations": ["If shoulder pain increases with the external rotation demand, remove the band and return to unloaded wall slides", "Only add the band after mastering the bodyweight wall angel with full wall contact"],
+    "common_mistakes": [
+      "Letting the band win \u2014 allowing internal rotation as the arms go overhead defeats the purpose",
+      "Using a band that is too heavy, preventing overhead range",
+      "Losing wall contact with the forearms or lower back during the slide"
+    ],
+    "safety_considerations": [
+      "If shoulder pain increases with the external rotation demand, remove the band and return to unloaded wall slides",
+      "Only add the band after mastering the bodyweight wall angel with full wall contact"
+    ],
     "range_of_motion_guidance": "Full overhead range that allows wall contact to be maintained throughout the arc.",
     "tempo_recommendations": "3s slide up, 2s hold, 3s slide down.",
-    "coaching_cues": ["Fight the band — actively push your wrists apart as you slide up", "Maintain all four contact points on the wall throughout the slide", "The external rotation demand from the band should feel like work at the mid and upper range"]
+    "coaching_cues": [
+      "Fight the band \u2014 actively push your wrists apart as you slide up",
+      "Maintain all four contact points on the wall throughout the slide",
+      "The external rotation demand from the band should feel like work at the mid and upper range"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "mobility", "min_reps": 8, "max_reps": 15}],
-    "recommended_set_ranges": [{"goal": "mobility", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"mobility": 60},
-    "training_goals": ["mobility"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "mobility",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["scapular", "shoulder", "stretching", "band", "external-rotation"]
+    "tags": [
+      "scapular",
+      "shoulder",
+      "stretching",
+      "band",
+      "external-rotation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

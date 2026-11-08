@@ -57,8 +57,8 @@
     ],
     "breathing_instructions": "Exhale on the curl; inhale on the return.",
     "common_mistakes": [
-      "Letting the wrists collapse into flexion during the curl — keep wrists neutral or slightly extended",
-      "Using the same weight as a supinated curl — reduce load significantly"
+      "Letting the wrists collapse into flexion during the curl \u2014 keep wrists neutral or slightly extended",
+      "Using the same weight as a supinated curl \u2014 reduce load significantly"
     ],
     "safety_considerations": [
       "If wrist discomfort occurs, switch to an EZ-curl bar which allows a semi-pronated grip"
@@ -66,7 +66,7 @@
     "range_of_motion_guidance": "Full arm extension at the bottom; curl to shoulder level at the top.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Keep wrists flat — do not let them flex toward you during the curl",
+      "Keep wrists flat \u2014 do not let them flex toward you during the curl",
       "Lead with the knuckles"
     ]
   },
@@ -131,6 +131,9 @@
       "brachioradialis",
       "curl",
       "pronated-grip"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

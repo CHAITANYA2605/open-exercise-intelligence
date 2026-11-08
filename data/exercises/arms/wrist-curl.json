@@ -39,7 +39,7 @@
   ],
   "execution": {
     "starting_position": "Sit on a bench. Rest the forearms on the thighs or on the bench surface with the wrists hanging beyond the edge, palms facing up. Hold a dumbbell (or barbell) in the hands with the fingers curled around it.",
-    "setup_instructions": "Sit on a flat bench. Place both forearms on the thighs or bench pad so they are fully supported. The wrists hang off the edge. Use a relatively light weight — the forearm flexors fatigue quickly.",
+    "setup_instructions": "Sit on a flat bench. Place both forearms on the thighs or bench pad so they are fully supported. The wrists hang off the edge. Use a relatively light weight \u2014 the forearm flexors fatigue quickly.",
     "steps": [
       "Step 1: Forearms resting on a surface, wrists hanging off the edge, palms facing upward, weight in hands.",
       "Step 2: Allow the wrists to relax fully downward into extension before each rep.",
@@ -58,8 +58,8 @@
     "range_of_motion_guidance": "Full wrist extension (drop) at the bottom; maximum wrist flexion (curl) at the top.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Let the weight roll to the fingertips at the bottom — full drop",
-      "Curl only the wrists — the forearms stay on the bench"
+      "Let the weight roll to the fingertips at the bottom \u2014 full drop",
+      "Curl only the wrists \u2014 the forearms stay on the bench"
     ]
   },
   "variants": {
@@ -72,9 +72,7 @@
     "bilateral": [
       "reverse-wrist-curl"
     ],
-    "equipment_alternatives": [
-      "resistance-band wrist curl"
-    ]
+    "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
@@ -128,6 +126,9 @@
       "isolation",
       "dumbbell",
       "grip"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

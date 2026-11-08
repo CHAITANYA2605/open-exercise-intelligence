@@ -2,7 +2,10 @@
   "exercise_id": "ba010003-f3a2-4c1e-9b8d-7e6f5a4c3b2c",
   "slug": "assisted-pull-up",
   "name": "Assisted Pull-Up Machine",
-  "alternative_names": ["Counter-Weighted Pull-Up", "Machine-Assisted Pull-Up"],
+  "alternative_names": [
+    "Counter-Weighted Pull-Up",
+    "Machine-Assisted Pull-Up"
+  ],
   "description": "The assisted pull-up machine uses a counter-weighted platform that the exerciser kneels or stands on, reducing the effective bodyweight being lifted. It allows beginners or those building toward an unassisted pull-up to train the full pulling movement pattern with correct form. The machine's assistance decreases as strength improves, providing a progressive path toward bodyweight pull-ups.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "66666666-0003-4000-a000-000000000006", "muscle_slug": "biceps-brachii-short-head"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
-      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"}
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000030-0000-4000-a000-000000000030"],
+  "equipment_required": [
+    "eq000030-0000-4000-a000-000000000030"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set the desired assistance weight on the machine. Kneel or stand on the counter-weighted platform. Grip the overhead handles at shoulder width with an overhand grip.",
@@ -47,33 +73,78 @@
       "Not fully extending the arms at the bottom"
     ],
     "safety_considerations": [
-      "Step off the platform carefully when dismounting — the platform will drop if you step off while weight is selected",
+      "Step off the platform carefully when dismounting \u2014 the platform will drop if you step off while weight is selected",
       "Progressively reduce assistance over time to build toward unassisted pull-ups"
     ],
     "range_of_motion_guidance": "Full arm extension at the bottom, chin above handle level at the top.",
     "tempo_recommendations": "2-0-2-1",
-    "coaching_cues": ["Pull elbows down and back", "Think about putting your shoulder blades in your back pockets", "Full extension at the bottom every rep"]
+    "coaching_cues": [
+      "Pull elbows down and back",
+      "Think about putting your shoulder blades in your back pockets",
+      "Full extension at the bottom every rep"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 60},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "pull-up", "beginner", "machine"]
+    "tags": [
+      "back",
+      "pull-up",
+      "beginner",
+      "machine"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

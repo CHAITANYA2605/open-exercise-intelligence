@@ -53,7 +53,7 @@
     "setup_instructions": "Set both pulleys to the lowest position. Attach single D-handles. Stand centered between the two stacks.",
     "steps": [
       "Step 1: Begin with arms extended downward and outward, cables taught from the low pulleys.",
-      "Step 2: Sweep both arms upward and inward in a wide arc — the flye phase — keeping elbows slightly bent.",
+      "Step 2: Sweep both arms upward and inward in a wide arc \u2014 the flye phase \u2014 keeping elbows slightly bent.",
       "Step 3: As the hands meet in front of the chest, transition to a press: bend the elbows and bring the handles toward the chest.",
       "Step 4: Press the handles forward and together to full arm extension.",
       "Step 5: Reverse the motion: unpress back to handle-at-chest, then open out and down in the flye return. Repeat."
@@ -62,16 +62,16 @@
     "common_mistakes": [
       "Transitioning to the press too early before the hands meet",
       "Excessive forward lean that reduces the cable's tension angle effectiveness",
-      "Straightening elbows completely during the flye — maintain a soft bend"
+      "Straightening elbows completely during the flye \u2014 maintain a soft bend"
     ],
     "safety_considerations": [
-      "Use moderate weight — the transition from flye to press can stress the shoulder if too heavy",
+      "Use moderate weight \u2014 the transition from flye to press can stress the shoulder if too heavy",
       "Keep core braced throughout to stabilize the torso"
     ],
     "range_of_motion_guidance": "Full sweep from low-to-high, then full press extension. The combo requires deliberate transition at the midpoint.",
     "tempo_recommendations": "2-0-1-2 (2s flye up, press out, 2s return)",
     "coaching_cues": [
-      "Flye first, then press — two distinct phases per rep",
+      "Flye first, then press \u2014 two distinct phases per rep",
       "Lead with the chest, not the arms, on the upward sweep"
     ]
   },
@@ -123,6 +123,9 @@
       "combo",
       "chest",
       "upper-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -1,8 +1,11 @@
 {
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50010",
   "slug": "farmers-walk-on-toes",
-  "name": "Farmer's Walk on Toes — Calf and Grip",
-  "alternative_names": ["Tiptoe Farmer's Carry", "Calf Farmer's Walk"],
+  "name": "Farmer's Walk on Toes \u2014 Calf and Grip",
+  "alternative_names": [
+    "Tiptoe Farmer's Carry",
+    "Calf Farmer's Walk"
+  ],
   "description": "A farmer's carry variation performed on the balls of the feet (tiptoe), combining loaded carry with continuous calf raise demands. Walking with heavy weights while staying elevated on the toes dramatically increases the sustained contraction demand on the gastrocnemius and soleus, while also loading the forearms and core. This exercise builds functional calf endurance, ankle stability, and grip strength simultaneously.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -15,21 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-lateral"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
-  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "execution": {
     "starting_position": "Stand with a dumbbell or kettlebell in each hand at your sides. Rise onto the balls of both feet, maintaining the elevated position throughout the exercise.",
     "setup_instructions": "Choose a weight that allows you to maintain tiptoe position for the full distance. Clear a straight path of at least 10-15 meters.",
@@ -40,30 +68,75 @@
       "Step 4: Walk the prescribed distance, set the weights down safely, and rest before repeating."
     ],
     "breathing_instructions": "Breathe rhythmically throughout. Do not hold your breath during the carry.",
-    "common_mistakes": ["Heel striking during the walk — heels must stay elevated the entire distance", "Leaning forward excessively with the torso", "Using too heavy a weight that forces heel contact"],
-    "safety_considerations": ["Reduce weight or distance if ankle stability is compromised", "Avoid on slippery surfaces", "Consult a physiotherapist if used for Achilles tendinopathy rehabilitation — load must be appropriate"],
+    "common_mistakes": [
+      "Heel striking during the walk \u2014 heels must stay elevated the entire distance",
+      "Leaning forward excessively with the torso",
+      "Using too heavy a weight that forces heel contact"
+    ],
+    "safety_considerations": [
+      "Reduce weight or distance if ankle stability is compromised",
+      "Avoid on slippery surfaces",
+      "Consult a physiotherapist if used for Achilles tendinopathy rehabilitation \u2014 load must be appropriate"
+    ],
     "range_of_motion_guidance": "Maintain maximum plantarflexion (full tiptoe) throughout the entire distance.",
-    "tempo_recommendations": "Walk at a controlled pace — approximately 1 step per second",
-    "coaching_cues": ["Stay up on the balls of the feet — heels never touch the floor", "Pack the shoulders — do not let them rise toward the ears", "Brace the core as if bracing for a punch"]
+    "tempo_recommendations": "Walk at a controlled pace \u2014 approximately 1 step per second",
+    "coaching_cues": [
+      "Stay up on the balls of the feet \u2014 heels never touch the floor",
+      "Pack the shoulders \u2014 do not let them rise toward the ears",
+      "Brace the core as if bracing for a punch"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 1, "max_reps": 4}
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 4
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance", "mobility"]
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance",
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calves", "carry", "grip", "ankle", "rehabilitation"]
+    "tags": [
+      "calves",
+      "carry",
+      "grip",
+      "ankle",
+      "rehabilitation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

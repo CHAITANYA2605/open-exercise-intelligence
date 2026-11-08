@@ -1,7 +1,7 @@
 {
   "exercise_id": "4b145845-701c-4340-b0bc-eb0a1bbf499f",
   "slug": "seated-cable-lat-pulldown-facing-away",
-  "name": "Seated Cable Lat Pulldown — Facing Away from Stack",
+  "name": "Seated Cable Lat Pulldown \u2014 Facing Away from Stack",
   "alternative_names": [
     "Reverse Cable Lat Pulldown",
     "Facing-Away Pulldown"
@@ -63,20 +63,20 @@
     ],
     "breathing_instructions": "Exhale during the pull. Inhale during the return.",
     "common_mistakes": [
-      "Leaning forward excessively to assist the pull — maintain an upright torso",
+      "Leaning forward excessively to assist the pull \u2014 maintain an upright torso",
       "Using momentum by swinging the torso",
       "Allowing the cable to pull the arms too far back past a comfortable overhead range"
     ],
     "safety_considerations": [
-      "The cable angle creates a different shoulder loading pattern — start with light weight to assess comfort",
+      "The cable angle creates a different shoulder loading pattern \u2014 start with light weight to assess comfort",
       "Avoid if overhead extension causes shoulder impingement symptoms"
     ],
     "range_of_motion_guidance": "Full extension of the arms overhead at the top to full contraction with the bar at chest level.",
     "tempo_recommendations": "2s pull down, 1s contraction hold, 3s slow return.",
     "coaching_cues": [
-      "Depress the shoulder blades before you start the pull — do not shrug",
+      "Depress the shoulder blades before you start the pull \u2014 do not shrug",
       "Think of pulling the elbows down and forward toward your hip pockets",
-      "Feel the lower lats — this variation should produce a different pull sensation than a standard pulldown"
+      "Feel the lower lats \u2014 this variation should produce a different pull sensation than a standard pulldown"
     ]
   },
   "variants": {
@@ -127,6 +127,9 @@
       "pulldown",
       "functional",
       "niche"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -62,8 +62,8 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Set an adjustable bench to a 30–45 degree incline. Lie prone (face down) on the bench with the chest and stomach resting on the pad. Let both arms hang straight down toward the floor, each holding a dumbbell with a neutral or pronated grip.",
-    "setup_instructions": "Set the bench incline to approximately 30–45 degrees. Choose dumbbells lighter than you would use for a standard dumbbell row since there is no lower back contribution. Position feet flat on the floor or on the bench footrest for stability.",
+    "starting_position": "Set an adjustable bench to a 30\u201345 degree incline. Lie prone (face down) on the bench with the chest and stomach resting on the pad. Let both arms hang straight down toward the floor, each holding a dumbbell with a neutral or pronated grip.",
+    "setup_instructions": "Set the bench incline to approximately 30\u201345 degrees. Choose dumbbells lighter than you would use for a standard dumbbell row since there is no lower back contribution. Position feet flat on the floor or on the bench footrest for stability.",
     "steps": [
       "Step 1: Begin with arms hanging directly below the shoulders, fully extended.",
       "Step 2: Retract the scapulae and row both dumbbells simultaneously toward the lower ribcage.",
@@ -73,15 +73,15 @@
     ],
     "breathing_instructions": "Exhale as you row the dumbbells up. Inhale as you lower them.",
     "common_mistakes": [
-      "Lifting the chest off the pad — this negates the purpose of the chest support",
+      "Lifting the chest off the pad \u2014 this negates the purpose of the chest support",
       "Using a grip that internally rotates the shoulder (overgripping with excessive wrist flexion)",
       "Insufficient range of motion by not fully protracting and retracting the scapulae"
     ],
     "safety_considerations": [
       "Ensure the bench is stable on the floor before loading it with your body weight and dumbbells",
-      "Avoid craning the neck — keep the head in a neutral position aligned with the spine"
+      "Avoid craning the neck \u2014 keep the head in a neutral position aligned with the spine"
     ],
-    "range_of_motion_guidance": "Full hang at the bottom with scapular protraction to maximum retraction at the top. This movement has a relatively short ROM — prioritize muscle contraction quality.",
+    "range_of_motion_guidance": "Full hang at the bottom with scapular protraction to maximum retraction at the top. This movement has a relatively short ROM \u2014 prioritize muscle contraction quality.",
     "tempo_recommendations": "2-1-2-0 (2s pull, 1s squeeze, 2s lower)",
     "coaching_cues": [
       "Squeeze a pencil between your shoulder blades at the top",
@@ -148,6 +148,9 @@
       "upper-back",
       "rhomboids",
       "supported"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

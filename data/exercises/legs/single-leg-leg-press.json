@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0015-4000-a000-100000000015",
   "slug": "single-leg-leg-press",
   "name": "Single-Leg Leg Press",
-  "alternative_names": ["Unilateral Leg Press", "One-Leg Leg Press"],
+  "alternative_names": [
+    "Unilateral Leg Press",
+    "One-Leg Leg Press"
+  ],
   "description": "The single-leg leg press uses one foot on the platform of a standard leg press machine, training one leg at a time to identify and correct strength imbalances between limbs. By using half the foot surface area, the single-leg press also increases the demand on balance and hip stability compared to the bilateral version. It is an effective tool for rehabilitation and for addressing limb asymmetries in athletes.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,24 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ]
   },
-  "equipment_required": ["eq000026-0000-4000-a000-000000000026"],
+  "equipment_required": [
+    "eq000026-0000-4000-a000-000000000026"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the leg press machine. Place one foot in the center of the platform. Keep the other foot resting on the frame or beside the platform but completely unloaded.",
-    "setup_instructions": "Use significantly less weight than your bilateral leg press. Load the machine appropriately — expect to use 50-60% of your bilateral load.",
+    "setup_instructions": "Use significantly less weight than your bilateral leg press. Load the machine appropriately \u2014 expect to use 50-60% of your bilateral load.",
     "steps": [
       "Step 1: Brace the core and ensure the working foot is centered on the platform.",
       "Step 2: Release the safety and bend the knee to lower the platform toward you.",
@@ -40,32 +66,84 @@
       "Step 4: Press through the entire working foot to extend the leg and return to the starting position."
     ],
     "breathing_instructions": "Inhale on descent, exhale on the press.",
-    "common_mistakes": ["Using more weight than appropriate and compensating with hip or back", "Knee caving inward during the press", "Locking out the knee forcefully at the top"],
-    "safety_considerations": ["Do not fully lock out the knee — stop just short of full extension", "Ensure the safety handles are within reach"],
+    "common_mistakes": [
+      "Using more weight than appropriate and compensating with hip or back",
+      "Knee caving inward during the press",
+      "Locking out the knee forcefully at the top"
+    ],
+    "safety_considerations": [
+      "Do not fully lock out the knee \u2014 stop just short of full extension",
+      "Ensure the safety handles are within reach"
+    ],
     "range_of_motion_guidance": "Knee to approximately 90 degrees without the lower back rounding off the pad.",
     "tempo_recommendations": "3-0-1-0",
-    "coaching_cues": ["Foot centered", "Knee tracks over second toe", "Drive through the entire foot"]
+    "coaching_cues": [
+      "Foot centered",
+      "Knee tracks over second toe",
+      "Drive through the entire foot"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 6, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 6,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 90, "hypertrophy": 75},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 90,
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["unilateral", "machine", "leg-press", "rehabilitation"]
+    "tags": [
+      "unilateral",
+      "machine",
+      "leg-press",
+      "rehabilitation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

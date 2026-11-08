@@ -63,30 +63,30 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing the anchor point with feet shoulder-width apart in an athletic squat stance, one rope end in each hand. Slight hip hinge, slight knee bend.",
-    "setup_instructions": "Anchor a heavy rope (38–50mm diameter) at a fixed point. Stand at a distance that keeps the rope slightly slack. Maintain a consistent athletic stance throughout.",
+    "setup_instructions": "Anchor a heavy rope (38\u201350mm diameter) at a fixed point. Stand at a distance that keeps the rope slightly slack. Maintain a consistent athletic stance throughout.",
     "steps": [
       "Step 1: Hold one rope end in each hand with an overhand grip.",
       "Step 2: Begin alternating waves: drive the right arm up and immediately bring it down while driving the left arm up.",
-      "Step 3: Keep the waves large and continuous — the rope should form visible undulations moving toward the anchor.",
-      "Step 4: Maintain an athletic stance throughout — do not let the torso collapse or the knees straighten.",
+      "Step 3: Keep the waves large and continuous \u2014 the rope should form visible undulations moving toward the anchor.",
+      "Step 4: Maintain an athletic stance throughout \u2014 do not let the torso collapse or the knees straighten.",
       "Step 5: Continue for the prescribed duration at maximum sustainable effort."
     ],
     "breathing_instructions": "Breathe continuously at a rhythm matching the work rate. Do not hold breath.",
     "common_mistakes": [
-      "Standing up too tall — the athletic stance with hips back keeps the core engaged",
-      "Letting the waves die — maintain large, powerful waves throughout",
-      "Only moving from the elbows — the motion should initiate from the shoulders"
+      "Standing up too tall \u2014 the athletic stance with hips back keeps the core engaged",
+      "Letting the waves die \u2014 maintain large, powerful waves throughout",
+      "Only moving from the elbows \u2014 the motion should initiate from the shoulders"
     ],
     "safety_considerations": [
-      "High demand on the shoulders and forearms — adequate warm-up required.",
-      "Build interval duration progressively — do not start at full intensity with long intervals."
+      "High demand on the shoulders and forearms \u2014 adequate warm-up required.",
+      "Build interval duration progressively \u2014 do not start at full intensity with long intervals."
     ],
-    "range_of_motion_guidance": "Large amplitude waves — full shoulder range. Rope must reach the anchor on each wave.",
-    "tempo_recommendations": "Typically performed for 20–40 second intervals with equal rest. 5–8 rounds.",
+    "range_of_motion_guidance": "Large amplitude waves \u2014 full shoulder range. Rope must reach the anchor on each wave.",
+    "tempo_recommendations": "Typically performed for 20\u201340 second intervals with equal rest. 5\u20138 rounds.",
     "coaching_cues": [
-      "Athletic stance — stay low",
-      "Big waves — full range",
-      "Drive from the shoulder — not just the elbow"
+      "Athletic stance \u2014 stay low",
+      "Big waves \u2014 full range",
+      "Drive from the shoulder \u2014 not just the elbow"
     ]
   },
   "variants": {
@@ -137,6 +137,9 @@
       "upper-body",
       "cardio",
       "battle-ropes"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

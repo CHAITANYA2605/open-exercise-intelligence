@@ -2,7 +2,10 @@
   "exercise_id": "a2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
   "slug": "neutral-grip-pull-up",
   "name": "Neutral-Grip Pull-Up",
-  "alternative_names": ["Hammer Grip Pull-Up", "Parallel Grip Pull-Up"],
+  "alternative_names": [
+    "Hammer Grip Pull-Up",
+    "Parallel Grip Pull-Up"
+  ],
   "description": "The neutral-grip pull-up is performed with palms facing each other, which places the shoulder in a mechanically advantaged and more comfortable position than the pronated (overhand) grip. This variation is typically easier to perform than a standard pull-up and is recommended for those with wrist, elbow, or shoulder discomfort during overhand pulling, while still providing strong lat and biceps stimulus.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" },
-      { "muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis" },
-      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
-      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ]
   },
-  "equipment_required": ["eq000019-0000-4000-a000-000000000019"],
-  "equipment_optional": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_required": [
+    "eq000019-0000-4000-a000-000000000019"
+  ],
+  "equipment_optional": [
+    "eq000042-0000-4000-a000-000000000042"
+  ],
   "execution": {
     "starting_position": "Grasp parallel handles or a neutral-grip attachment with palms facing each other and arms fully extended. Hang in a dead hang with the core lightly braced.",
     "setup_instructions": "Use a pull-up bar with neutral-grip handles, a rack-mounted neutral-grip attachment, or gymnastic rings set parallel. Adjust width to shoulder-width for optimal shoulder mechanics.",
@@ -55,7 +83,7 @@
     "coaching_cues": [
       "Depress and retract the shoulder blades before you bend the elbows",
       "Think 'elbows to ribs', not 'hands to shoulders'",
-      "Finish the rep completely — full extension at the bottom every time"
+      "Finish the rep completely \u2014 full extension at the bottom every time"
     ]
   },
   "variants": {
@@ -67,25 +95,70 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 3, "max_reps": 8 },
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 },
-      { "goal": "endurance", "min_reps": 12, "max_reps": 20 }
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 4, "max_sets": 6 },
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 5 },
-      { "goal": "endurance", "min_sets": 2, "max_sets": 4 }
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "strength": 150, "hypertrophy": 90, "endurance": 45 },
-    "training_goals": ["strength", "hypertrophy", "endurance"]
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calisthenics", "pull-up", "neutral-grip", "shoulder-friendly"]
+    "tags": [
+      "calisthenics",
+      "pull-up",
+      "neutral-grip",
+      "shoulder-friendly"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

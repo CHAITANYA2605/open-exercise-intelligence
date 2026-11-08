@@ -63,7 +63,7 @@
     "coaching_cues": [
       "Like turning a steering wheel straight up",
       "Slow on the way down",
-      "Controlled arc — no swinging"
+      "Controlled arc \u2014 no swinging"
     ]
   },
   "variants": {
@@ -113,6 +113,9 @@
       "plate",
       "anterior-deltoid",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

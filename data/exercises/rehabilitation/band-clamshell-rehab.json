@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
   "slug": "band-clamshell-rehab",
   "name": "Banded Clamshell",
-  "alternative_names": ["Resistance Band Clamshell", "Hip Abduction Clamshell"],
+  "alternative_names": [
+    "Resistance Band Clamshell",
+    "Hip Abduction Clamshell"
+  ],
   "description": "The banded clamshell is a rehabilitation exercise for the hip abductors and external rotators, particularly gluteus medius and the deep external rotators. Performed side-lying with a resistance band loop above the knees, it isolates hip external rotation while the pelvis remains stable. It is widely prescribed for patellofemoral pain, IT band syndrome, and hip weakness contributing to knee valgus during functional movements.",
   "category": "rehabilitation",
   "exercise_type": "strength",
@@ -15,15 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" },
-      { "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus" }
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      }
     ],
     "secondary": [],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on one side with hips stacked, knees bent to approximately 45 degrees, and a resistance band loop positioned just above the knees.",
@@ -38,7 +52,7 @@
     ],
     "breathing_instructions": "Exhale as the knee lifts. Inhale as it returns.",
     "common_mistakes": [
-      "Rolling the pelvis backward as the knee rises — the pelvis must stay completely still",
+      "Rolling the pelvis backward as the knee rises \u2014 the pelvis must stay completely still",
       "Using momentum instead of a controlled, slow movement",
       "Choosing too heavy a band, which forces compensation through pelvis rotation"
     ],
@@ -46,10 +60,10 @@
       "This exercise is generally appropriate for all rehabilitation populations",
       "If hip pain occurs, reduce range of motion and consult a clinician"
     ],
-    "range_of_motion_guidance": "The knee should rise as far as the hip external rotators allow without pelvic rotation — typically 30–45 degrees from the starting position.",
-    "tempo_recommendations": "2-second lift, 1-second hold at top, 2-second lower. 2–3 sets of 15–20 reps.",
+    "range_of_motion_guidance": "The knee should rise as far as the hip external rotators allow without pelvic rotation \u2014 typically 30\u201345 degrees from the starting position.",
+    "tempo_recommendations": "2-second lift, 1-second hold at top, 2-second lower. 2\u20133 sets of 15\u201320 reps.",
     "coaching_cues": [
-      "Keep your pelvis completely still — do not let it rock back",
+      "Keep your pelvis completely still \u2014 do not let it rock back",
       "Think about rotating the thigh, not lifting the knee",
       "Slow and controlled wins over heavy and sloppy"
     ]
@@ -63,21 +77,49 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 15, "max_reps": 20 }
+      {
+        "goal": "strength",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 60 },
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["rehabilitation", "glute-med", "hip-abductor", "band", "knee-health", "beginner"]
+    "tags": [
+      "rehabilitation",
+      "glute-med",
+      "hip-abductor",
+      "band",
+      "knee-health",
+      "beginner"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -51,27 +51,27 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on a bench inside a power rack. Set the safety pins at chin height. Rest the barbell on the pins. Grip the bar slightly wider than shoulder width. Feet flat on the floor.",
-    "setup_instructions": "The bar starts on the pins — there is no unracking. Set the spotter arms or pins so the bar rests at the correct height for the sticking point. Load heavier than your standard overhead press since the range is shorter.",
+    "setup_instructions": "The bar starts on the pins \u2014 there is no unracking. Set the spotter arms or pins so the bar rests at the correct height for the sticking point. Load heavier than your standard overhead press since the range is shorter.",
     "steps": [
       "Step 1: Sit under the bar resting on the pins. Grip the bar.",
       "Step 2: Take a breath and brace the core hard.",
-      "Step 3: Press the bar explosively from dead stop — no dipping under the bar first.",
+      "Step 3: Press the bar explosively from dead stop \u2014 no dipping under the bar first.",
       "Step 4: Press to full lockout overhead.",
       "Step 5: Lower the bar under control back to the pins. Release the tension. Reset and repeat."
     ],
     "breathing_instructions": "Inhale and brace before each rep. Exhale through the press. Full reset between reps.",
     "common_mistakes": [
-      "Not fully releasing the tension on the pins between reps — the dead-stop is the entire point",
-      "Starting with the head in a compromised position — ensure the bar can clear the face on the way up"
+      "Not fully releasing the tension on the pins between reps \u2014 the dead-stop is the entire point",
+      "Starting with the head in a compromised position \u2014 ensure the bar can clear the face on the way up"
     ],
     "safety_considerations": [
-      "Set the spotter pins correctly — the bar must rest securely between reps",
-      "Advanced technique — requires established overhead pressing mechanics before using pin press variations"
+      "Set the spotter pins correctly \u2014 the bar must rest securely between reps",
+      "Advanced technique \u2014 requires established overhead pressing mechanics before using pin press variations"
     ],
     "range_of_motion_guidance": "Dead stop at chin height to full overhead lockout.",
     "tempo_recommendations": "Explosive concentric, 2s eccentric",
     "coaching_cues": [
-      "Dead stop — full reset on the pins between reps",
+      "Dead stop \u2014 full reset on the pins between reps",
       "Explosive drive off the pins",
       "Lock out completely overhead"
     ]
@@ -125,6 +125,9 @@
       "dead-stop",
       "strength",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

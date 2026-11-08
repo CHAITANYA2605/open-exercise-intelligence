@@ -2,7 +2,11 @@
   "exercise_id": "a1b2c3d4-0006-4000-a000-100000000006",
   "slug": "cossack-squat",
   "name": "Cossack Squat / Weighted Lateral Squat",
-  "alternative_names": ["Lateral Squat", "Side Squat", "Cossack"],
+  "alternative_names": [
+    "Lateral Squat",
+    "Side Squat",
+    "Cossack"
+  ],
   "description": "The Cossack squat is a deep lateral squatting pattern where the lifter shifts their weight to one side, bending that knee deeply while keeping the opposite leg straight with the foot flat on the floor. It simultaneously trains hip flexion, knee flexion, and hip adductor flexibility on the extended leg, making it both a strength and mobility exercise. The movement can be loaded with a kettlebell or dumbbell held at the chest.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +19,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
-      {"muscle_id": "ffffffff-0003-4000-a000-00000000000f", "muscle_slug": "adductor-longus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "ffffffff-0003-4000-a000-00000000000f",
+        "muscle_slug": "adductor-longus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000009-0000-4000-a000-000000000009", "eq000007-0000-4000-a000-000000000007"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009",
+    "eq000007-0000-4000-a000-000000000007"
+  ],
   "execution": {
     "starting_position": "Stand with feet approximately 1.5-2 times shoulder-width apart, toes pointed forward or slightly outward. Hold a kettlebell or dumbbell at chest height if loading.",
     "setup_instructions": "Begin with bodyweight to assess hip mobility. Add load only when you can reach depth with control.",
@@ -41,34 +74,96 @@
       "Step 4: Drive through the working heel to return to standing, then shift to the opposite side."
     ],
     "breathing_instructions": "Inhale as you descend, exhale as you drive back to standing.",
-    "common_mistakes": ["Heel of working leg lifting off the floor", "Insufficient adductor flexibility causing the straight leg to bend", "Rounding the lower back at the bottom"],
-    "safety_considerations": ["High demand on hip and groin flexibility — warm up thoroughly", "Do not force depth beyond your current flexibility"],
+    "common_mistakes": [
+      "Heel of working leg lifting off the floor",
+      "Insufficient adductor flexibility causing the straight leg to bend",
+      "Rounding the lower back at the bottom"
+    ],
+    "safety_considerations": [
+      "High demand on hip and groin flexibility \u2014 warm up thoroughly",
+      "Do not force depth beyond your current flexibility"
+    ],
     "range_of_motion_guidance": "Work to the deepest depth where you can maintain a flat foot and straight opposite leg.",
     "tempo_recommendations": "3-1-1-0, controlled throughout",
-    "coaching_cues": ["Foot flat, heel down on working side", "Sit into the hip", "Keep the chest up"]
+    "coaching_cues": [
+      "Foot flat, heel down on working side",
+      "Sit into the hip",
+      "Keep the chest up"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90, "endurance": 45},
-    "training_goals": ["strength", "mobility", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "mobility",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["mobility", "squat", "lateral", "adductors"]
+    "tags": [
+      "mobility",
+      "squat",
+      "lateral",
+      "adductors"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0010-4000-a000-100000000010",
   "slug": "belt-squat",
   "name": "Belt Squat Machine",
-  "alternative_names": ["Belt Squat", "Hip Belt Squat"],
+  "alternative_names": [
+    "Belt Squat",
+    "Hip Belt Squat"
+  ],
   "description": "The belt squat attaches a loaded belt around the lifter's hips rather than placing a barbell on the back or in the hands. The lifter stands elevated on two platforms or a dedicated machine, allowing the weight to hang between the legs. Because the spine is completely unloaded, the belt squat is ideal for athletes with lower back injuries who still want to train the legs with heavy compound squatting movements.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,59 +18,143 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000049-0000-4000-a000-000000000049"],
+  "equipment_required": [
+    "eq000049-0000-4000-a000-000000000049"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Attach the loaded dip belt or use a dedicated belt squat machine. Stand on the elevated platforms with the weight hanging between the legs. Feet shoulder-width, toes turned out slightly.",
     "setup_instructions": "Attach plates to the belt and stand on two sturdy boxes or the dedicated machine platforms, allowing room for the weight to hang freely between them.",
     "steps": [
-      "Step 1: Stand tall and brace the core lightly — no spinal loading is required.",
+      "Step 1: Stand tall and brace the core lightly \u2014 no spinal loading is required.",
       "Step 2: Bend the knees and hips to squat down, allowing the weight to hang and descend freely.",
       "Step 3: Descend to depth, maintaining an upright torso.",
       "Step 4: Drive through the feet to extend back to standing."
     ],
-    "breathing_instructions": "Breathe naturally — spinal loading is minimal so heavy bracing is less critical.",
-    "common_mistakes": ["Leaning too far forward despite the absence of spinal loading", "Insufficient depth", "Belt shifting during the movement"],
-    "safety_considerations": ["Ensure the platforms are stable and wide enough", "Verify the belt attachment is secure before each set"],
-    "range_of_motion_guidance": "Full depth — hip crease below knee. The belt position encourages upright posture.",
+    "breathing_instructions": "Breathe naturally \u2014 spinal loading is minimal so heavy bracing is less critical.",
+    "common_mistakes": [
+      "Leaning too far forward despite the absence of spinal loading",
+      "Insufficient depth",
+      "Belt shifting during the movement"
+    ],
+    "safety_considerations": [
+      "Ensure the platforms are stable and wide enough",
+      "Verify the belt attachment is secure before each set"
+    ],
+    "range_of_motion_guidance": "Full depth \u2014 hip crease below knee. The belt position encourages upright posture.",
     "tempo_recommendations": "3-0-1-0",
-    "coaching_cues": ["Stand tall", "Weight hangs — don't pull it", "Full depth every rep"]
+    "coaching_cues": [
+      "Stand tall",
+      "Weight hangs \u2014 don't pull it",
+      "Full depth every rep"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90, "endurance": 45},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["spine-friendly", "squat", "rehabilitation", "machine"]
+    "tags": [
+      "spine-friendly",
+      "squat",
+      "rehabilitation",
+      "machine"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

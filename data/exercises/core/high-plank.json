@@ -62,25 +62,25 @@
     "setup_instructions": "No equipment needed. Use a mat for wrist comfort on hard surfaces.",
     "steps": [
       "Step 1: Position hands under shoulders, fingers spread for grip.",
-      "Step 2: Drive the floor away — imagine pushing the ground down. Protract the scapulae slightly.",
+      "Step 2: Drive the floor away \u2014 imagine pushing the ground down. Protract the scapulae slightly.",
       "Step 3: Squeeze the glutes and brace the core. Lock out the knees.",
-      "Step 4: Keep the body in a straight line — no hip hiking, sagging, or piking.",
+      "Step 4: Keep the body in a straight line \u2014 no hip hiking, sagging, or piking.",
       "Step 5: Hold for the target duration, maintaining perfect alignment throughout."
     ],
     "breathing_instructions": "Breathe continuously with shallow breaths. Do not hold the breath.",
     "common_mistakes": [
-      "Hips piking up — this reduces core demand and places it on the shoulders",
-      "Hips sagging — this compresses the lumbar spine under load"
+      "Hips piking up \u2014 this reduces core demand and places it on the shoulders",
+      "Hips sagging \u2014 this compresses the lumbar spine under load"
     ],
     "safety_considerations": [
-      "Avoid if wrist pain is present — substitute forearm plank"
+      "Avoid if wrist pain is present \u2014 substitute forearm plank"
     ],
     "range_of_motion_guidance": "Isometric hold. Perfect alignment must be maintained for the full duration.",
-    "tempo_recommendations": "Hold for target time: beginners 20–30 s; intermediate 45–60 s; advanced 60–90 s+.",
+    "tempo_recommendations": "Hold for target time: beginners 20\u201330 s; intermediate 45\u201360 s; advanced 60\u201390 s+.",
     "coaching_cues": [
       "Push the floor away",
-      "Squeeze the glutes — the whole posterior chain is a unit",
-      "Long spine — from crown to heel"
+      "Squeeze the glutes \u2014 the whole posterior chain is a unit",
+      "Long spine \u2014 from crown to heel"
     ]
   },
   "variants": {
@@ -131,6 +131,9 @@
       "bodyweight",
       "beginner",
       "isometric"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

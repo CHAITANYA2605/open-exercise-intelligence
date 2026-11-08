@@ -70,7 +70,7 @@
     "starting_position": "Stand inside the rack with the bar set at collarbone height. Step under the bar and push your elbows forward and up until they are parallel to the floor, allowing the bar to rest across your front deltoids and clavicles. Your fingertips can rest on the bar with a loose grip or cross your arms in a clean grip. Stand tall, brace your core, and unrack the bar.",
     "setup_instructions": "Set the barbell on the rack at collarbone height. Use either a clean grip (elbows high, bar resting on fingertips) or a crossed-arm grip. Position feet shoulder-width apart with toes turned slightly outward.",
     "steps": [
-      "Step 1: Unrack the bar and take two steps back. Stand with feet shoulder-width apart, toes pointed 15–30° outward, elbows driven high.",
+      "Step 1: Unrack the bar and take two steps back. Stand with feet shoulder-width apart, toes pointed 15\u201330\u00b0 outward, elbows driven high.",
       "Step 2: Take a deep breath into your abdomen and brace your core firmly as though bracing for a punch.",
       "Step 3: Initiate the descent by pushing your knees out in line with your toes while simultaneously sitting your hips back and down. Keep the elbows high throughout.",
       "Step 4: Descend until your thighs are at least parallel to the floor or deeper if mobility allows. The torso should remain nearly vertical.",
@@ -85,13 +85,13 @@
     ],
     "safety_considerations": [
       "Develop adequate wrist and thoracic mobility before loading heavily",
-      "Use safety bars in a rack in case of a failed rep — the bar can be dropped forward safely with bumper plates",
+      "Use safety bars in a rack in case of a failed rep \u2014 the bar can be dropped forward safely with bumper plates",
       "Heel elevation (small plates or wedges) can compensate for limited ankle dorsiflexion while mobility is being developed"
     ],
     "range_of_motion_guidance": "Aim to reach at least parallel (thighs horizontal) or deeper if mobility allows without lumbar rounding.",
     "tempo_recommendations": "3-1-1-0 (3 seconds down, 1 second pause at bottom, 1 second up, no pause at top)",
     "coaching_cues": [
-      "Elbows up — if they drop, the bar rolls off",
+      "Elbows up \u2014 if they drop, the bar rolls off",
       "Sit between your knees, not behind them",
       "Knees track over the pinky toe"
     ]
@@ -175,6 +175,9 @@
       "olympic-lifting",
       "quad-dominant",
       "squat"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

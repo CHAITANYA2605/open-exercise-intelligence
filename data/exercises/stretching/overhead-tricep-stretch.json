@@ -2,7 +2,10 @@
   "exercise_id": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
   "slug": "overhead-tricep-stretch",
   "name": "Overhead Tricep Stretch",
-  "alternative_names": ["Behind-the-Head Tricep Stretch", "Overhead Arm Stretch"],
+  "alternative_names": [
+    "Behind-the-Head Tricep Stretch",
+    "Overhead Arm Stretch"
+  ],
   "description": "The overhead tricep stretch targets the long head of the triceps brachii, which is the only tricep head that crosses the shoulder joint. By raising the arm overhead and bending the elbow, the long head is placed on maximal stretch as both shoulder flexion and elbow flexion work simultaneously to lengthen it. This stretch is commonly used as part of upper body warm-up and cool-down routines.",
   "category": "flexibility",
   "exercise_type": "stretching",
@@ -15,16 +18,27 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head" }
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "secondary": [
-      { "muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head" }
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand or sit tall. Raise one arm directly overhead.",
@@ -33,7 +47,7 @@
       "Step 1: Raise one arm straight overhead.",
       "Step 2: Bend the elbow, allowing the forearm and hand to drop behind the head.",
       "Step 3: Use the opposite hand to gently push down on the elbow of the raised arm, increasing the stretch.",
-      "Step 4: Hold until a stretch is felt along the back of the upper arm — 30–60 seconds.",
+      "Step 4: Hold until a stretch is felt along the back of the upper arm \u2014 30\u201360 seconds.",
       "Step 5: Release and switch sides."
     ],
     "breathing_instructions": "Breathe slowly and evenly throughout.",
@@ -43,11 +57,11 @@
       "Not holding long enough for the stretch to take effect"
     ],
     "safety_considerations": [
-      "Apply gentle pressure only — the elbow joint is sensitive to forcing",
+      "Apply gentle pressure only \u2014 the elbow joint is sensitive to forcing",
       "If elbow discomfort arises, stop and assess"
     ],
     "range_of_motion_guidance": "Bring the hand as far down behind the head as the shoulder allows without pain.",
-    "tempo_recommendations": "Hold 30–60 seconds per side. 2–3 rounds.",
+    "tempo_recommendations": "Hold 30\u201360 seconds per side. 2\u20133 rounds.",
     "coaching_cues": [
       "Let the elbow point toward the ceiling",
       "Use the other hand to gently guide, not force",
@@ -63,21 +77,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+      {
+        "goal": "mobility",
+        "min_reps": 2,
+        "max_reps": 3
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
     ],
-    "rest_periods": { "mobility": 10 },
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 10
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "stretch", "beginner", "overhead", "mobility"]
+    "tags": [
+      "tricep",
+      "stretch",
+      "beginner",
+      "overhead",
+      "mobility"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

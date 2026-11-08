@@ -64,7 +64,7 @@
     "steps": [
       "Step 1: Lie on the floor with knees bent, feet flat. Unrack or accept the barbell above your chest.",
       "Step 2: Inhale and lower the bar by bending the elbows until both upper arms rest on the floor.",
-      "Step 3: Pause momentarily with the upper arms resting on the floor — do not bounce.",
+      "Step 3: Pause momentarily with the upper arms resting on the floor \u2014 do not bounce.",
       "Step 4: Exhale and press the bar back to the top with triceps emphasis."
     ],
     "breathing_instructions": "Inhale on the descent; exhale on the press.",
@@ -74,12 +74,12 @@
     ],
     "safety_considerations": [
       "Without a rack, you need a training partner to hand off and receive the bar",
-      "Keep the lower back flat against the floor — avoid arching"
+      "Keep the lower back flat against the floor \u2014 avoid arching"
     ],
     "range_of_motion_guidance": "Lower until the upper arms touch the floor gently; press to full extension.",
     "tempo_recommendations": "2-1-2-0 (pause 1 second on the floor before pressing)",
     "coaching_cues": [
-      "Pause dead-stop before pressing — eliminate all momentum",
+      "Pause dead-stop before pressing \u2014 eliminate all momentum",
       "Drive the bar up and slightly back toward the head during extension"
     ]
   },
@@ -157,6 +157,9 @@
       "triceps",
       "floor",
       "strength"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

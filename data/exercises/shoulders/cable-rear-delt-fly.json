@@ -66,10 +66,10 @@
     "breathing_instructions": "Exhale as you pull outward; inhale on the return.",
     "common_mistakes": [
       "Bending the elbows heavily during the movement, turning it into a row",
-      "Using body momentum by rocking — keep the torso still"
+      "Using body momentum by rocking \u2014 keep the torso still"
     ],
     "safety_considerations": [
-      "Keep a consistent, slight elbow bend — do not lock out the arms"
+      "Keep a consistent, slight elbow bend \u2014 do not lock out the arms"
     ],
     "range_of_motion_guidance": "Pull until the arms are fully spread to either side with the rear delts maximally contracted.",
     "tempo_recommendations": "2-1-2-0",
@@ -141,6 +141,9 @@
       "shoulders",
       "isolation",
       "posture"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

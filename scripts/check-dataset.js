@@ -119,6 +119,52 @@ function main() {
 
   const total = exercises.length;
 
+  // --- 4-dimension health scoring ---
+  let structuralCount = 0;
+  let contentCount = 0;
+  let scientificCount = 0;
+  let provenanceCount = 0;
+
+  for (const { data: ex } of exercises) {
+    // Structural: required fields present with correct types
+    if (ex.exercise_id && ex.slug && ex.name && ex.category) structuralCount++;
+
+    // Content completeness
+    const exec = ex.execution || {};
+    if (
+      ex.description && ex.description.length > 0 &&
+      (exec.steps || []).length >= 3 &&
+      exec.coaching_cues && exec.coaching_cues.length > 0 &&
+      exec.common_mistakes && exec.common_mistakes.length > 0
+    ) contentCount++;
+
+    // Scientific completeness
+    const muscles_obj = ex.muscles || {};
+    if (
+      muscles_obj.primary && muscles_obj.primary.length > 0 &&
+      ex.movement_pattern &&
+      ex.force_type
+    ) scientificCount++;
+
+    // Provenance completeness
+    const meta = ex.metadata || {};
+    if (meta.license) provenanceCount++;
+  }
+
+  const pct = (n) => total > 0 ? `${(n / total * 100).toFixed(1)}%` : 'N/A';
+  const dimScore = (n) => total > 0 ? Math.round((n / total) * 25) : 0;
+  const overallDimScore = dimScore(structuralCount) + dimScore(contentCount) + dimScore(scientificCount) + dimScore(provenanceCount);
+
+  console.log('\n' + '='.repeat(60));
+  console.log('OEI DATASET HEALTH — 4-DIMENSION BREAKDOWN');
+  console.log('='.repeat(60));
+  console.log(`Structural validity:     ${structuralCount}/${total} (${pct(structuralCount)})`);
+  console.log(`Content completeness:    ${contentCount}/${total} (${pct(contentCount)})`);
+  console.log(`Scientific completeness: ${scientificCount}/${total} (${pct(scientificCount)})`);
+  console.log(`Provenance completeness: ${provenanceCount}/${total} (${pct(provenanceCount)})`);
+  console.log(`Overall health score:    ${overallDimScore}/100`);
+  console.log('='.repeat(60));
+
   // Score: start at 100, deduct per issue category
   let score = 100;
   const deductions = [];

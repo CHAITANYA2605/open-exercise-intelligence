@@ -5,7 +5,7 @@
   "alternative_names": [
     "Bent-Over Calf Raise"
   ],
-  "description": "The donkey calf raise is performed with the torso bent forward at approximately 90° with the hips flexed, which places the gastrocnemius under a greater stretch at the hip than a standing calf raise. Because the gastrocnemius is a biarticular muscle crossing both the knee and hip, the hip-flexed position elongates it, increasing the range of motion and stretch on the gastrocnemius medial and lateral heads. It was popularized as a mass-building calf exercise and can be loaded by having a training partner sit on the hips.",
+  "description": "The donkey calf raise is performed with the torso bent forward at approximately 90\u00b0 with the hips flexed, which places the gastrocnemius under a greater stretch at the hip than a standing calf raise. Because the gastrocnemius is a biarticular muscle crossing both the knee and hip, the hip-flexed position elongates it, increasing the range of motion and stretch on the gastrocnemius medial and lateral heads. It was popularized as a mass-building calf exercise and can be loaded by having a training partner sit on the hips.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -39,10 +39,10 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hinge at the hips and brace the hands on a bench, barbell, or wall at hip height. Keep the knees very slightly bent. Stand with the balls of the feet on a raised surface (step edge or plate).",
-    "setup_instructions": "Place the toes on a step edge or plate so the heels can drop below the platform for full stretch. Hinge the torso to 90° — this is essential for the elongated gastrocnemius position.",
+    "setup_instructions": "Place the toes on a step edge or plate so the heels can drop below the platform for full stretch. Hinge the torso to 90\u00b0 \u2014 this is essential for the elongated gastrocnemius position.",
     "steps": [
-      "Step 1: Position the toes on the edge of a raised surface. Hinge the torso forward 90° and hold onto a support.",
-      "Step 2: Lower the heels as far below the step as range of motion allows — full gastrocnemius stretch.",
+      "Step 1: Position the toes on the edge of a raised surface. Hinge the torso forward 90\u00b0 and hold onto a support.",
+      "Step 2: Lower the heels as far below the step as range of motion allows \u2014 full gastrocnemius stretch.",
       "Step 3: Rise onto the toes as high as possible, fully plantar-flexing both ankles.",
       "Step 4: Hold the peak contraction briefly with the calves fully contracted.",
       "Step 5: Lower under control to the stretched position."
@@ -50,19 +50,19 @@
     "breathing_instructions": "Exhale as you rise onto the toes. Inhale as you lower.",
     "common_mistakes": [
       "Performing with an upright torso, which removes the gastrocnemius pre-stretch benefit",
-      "Insufficient heel drop at the bottom — reduces the range of motion",
-      "Bouncing through the bottom position — slow the eccentric"
+      "Insufficient heel drop at the bottom \u2014 reduces the range of motion",
+      "Bouncing through the bottom position \u2014 slow the eccentric"
     ],
     "safety_considerations": [
       "If a partner is adding load by sitting on the hips, communication is essential",
       "Start with bodyweight to establish the movement pattern"
     ],
     "range_of_motion_guidance": "Full heel drop below the platform at the bottom; maximum plantar-flexion at the top.",
-    "tempo_recommendations": "2-1-3-0 — slow controlled descent (3s) to maximize gastrocnemius stretch",
+    "tempo_recommendations": "2-1-3-0 \u2014 slow controlled descent (3s) to maximize gastrocnemius stretch",
     "coaching_cues": [
-      "Drop the heels all the way — don't cheat the stretch",
+      "Drop the heels all the way \u2014 don't cheat the stretch",
       "Rise all the way onto the big toe",
-      "Hips bent 90° — don't stand up during the exercise"
+      "Hips bent 90\u00b0 \u2014 don't stand up during the exercise"
     ]
   },
   "variants": {
@@ -141,6 +141,9 @@
       "gastrocnemius",
       "isolation",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

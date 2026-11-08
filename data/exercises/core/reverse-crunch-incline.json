@@ -6,7 +6,7 @@
     "Incline Reverse Crunch",
     "Decline Reverse Crunch"
   ],
-  "description": "The reverse crunch performed on an incline bench elevates the head end above the hip end, adding gravitational load to the lower abdominal region throughout the movement compared to the flat-bench version. The athlete grasps the bench behind the head, extends the legs below horizontal, and pulls the knees toward the chest by posteriorly tilting the pelvis — a movement almost exclusively controlled by the lower rectus abdominis. The incline increases both the eccentric and concentric challenge.",
+  "description": "The reverse crunch performed on an incline bench elevates the head end above the hip end, adding gravitational load to the lower abdominal region throughout the movement compared to the flat-bench version. The athlete grasps the bench behind the head, extends the legs below horizontal, and pulls the knees toward the chest by posteriorly tilting the pelvis \u2014 a movement almost exclusively controlled by the lower rectus abdominis. The incline increases both the eccentric and concentric challenge.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "intermediate",
@@ -50,7 +50,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the incline bench with the head at the high end. Grasp the bench behind the head. Legs are extended, lowered below the hip level.",
-    "setup_instructions": "Set the bench to 20–30° incline. Ensure the head-end grips are within comfortable reach.",
+    "setup_instructions": "Set the bench to 20\u201330\u00b0 incline. Ensure the head-end grips are within comfortable reach.",
     "steps": [
       "Step 1: Begin with legs extended and lowered below the bench plane (against the gravity).",
       "Step 2: Curl the pelvis backward (posterior tilt) and draw the knees toward the chest simultaneously.",
@@ -61,7 +61,7 @@
     "breathing_instructions": "Exhale as the knees come toward the chest. Inhale on the controlled descent.",
     "common_mistakes": [
       "Using momentum from the legs rather than initiating with posterior pelvic tilt",
-      "Not lifting the lower back off the bench at the top — full contraction requires this"
+      "Not lifting the lower back off the bench at the top \u2014 full contraction requires this"
     ],
     "safety_considerations": [
       "If grip fatigue limits reps before the core does, use wrist straps"
@@ -70,7 +70,7 @@
     "tempo_recommendations": "2-1-3-0. Slow eccentric is essential on the incline version.",
     "coaching_cues": [
       "Pull with the abs, not the hip flexors",
-      "Curl the tailbone up — do not just swing the legs"
+      "Curl the tailbone up \u2014 do not just swing the legs"
     ]
   },
   "variants": {
@@ -120,6 +120,9 @@
       "reverse-crunch",
       "incline",
       "lower-abs"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

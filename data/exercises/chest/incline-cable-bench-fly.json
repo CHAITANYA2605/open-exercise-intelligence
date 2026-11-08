@@ -70,7 +70,7 @@
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
       "Push through the outer arm, not the hands",
-      "Upper chest is the target — feel it stretch wide",
+      "Upper chest is the target \u2014 feel it stretch wide",
       "Squeeze and hold for a beat at the top"
     ]
   },
@@ -135,6 +135,9 @@
       "cable",
       "fly",
       "incline"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -70,7 +70,7 @@
       "Internally rotating the shoulders by rowing with palms facing backward"
     ],
     "safety_considerations": [
-      "Keep the head neutral — do not crane the neck upward",
+      "Keep the head neutral \u2014 do not crane the neck upward",
       "Ensure the bench is on a stable, non-slip surface"
     ],
     "range_of_motion_guidance": "Maximize scapular protraction at the bottom and retraction at the top.",
@@ -137,6 +137,9 @@
       "row",
       "incline",
       "back"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

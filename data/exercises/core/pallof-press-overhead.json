@@ -62,14 +62,14 @@
     "steps": [
       "Step 1: Brace the core fully. Press the handle straight out from the chest until the arms are fully extended.",
       "Step 2: Holding the arms straight, raise both arms overhead in a controlled arc until they are fully extended above the head.",
-      "Step 3: Pause for 1–2 seconds at the overhead position, resisting the cable pull.",
+      "Step 3: Pause for 1\u20132 seconds at the overhead position, resisting the cable pull.",
       "Step 4: Lower the arms back to chest-height horizontal position.",
       "Step 5: Return the handle to the chest. That is one rep. Complete all reps then switch sides."
     ],
     "breathing_instructions": "Exhale as pressing out. Hold the breath and brace during overhead phase. Exhale on return.",
     "common_mistakes": [
-      "Rotating toward the cable during the overhead phase — the spine should remain perfectly perpendicular",
-      "Losing the rib-down position as the arms go overhead — indicates insufficient core strength for overhead"
+      "Rotating toward the cable during the overhead phase \u2014 the spine should remain perfectly perpendicular",
+      "Losing the rib-down position as the arms go overhead \u2014 indicates insufficient core strength for overhead"
     ],
     "safety_considerations": [
       "Avoid if shoulder mobility is insufficient for pain-free overhead reach"
@@ -77,8 +77,8 @@
     "range_of_motion_guidance": "Full extension of the arms horizontally then fully overhead. Spine remains perpendicular to the cable throughout.",
     "tempo_recommendations": "2-2-2-1. Slow and deliberate in every phase.",
     "coaching_cues": [
-      "Ribs down — do not let the lower back arch as arms go overhead",
-      "Resist the pull — your spine does not move"
+      "Ribs down \u2014 do not let the lower back arch as arms go overhead",
+      "Resist the pull \u2014 your spine does not move"
     ]
   },
   "variants": {
@@ -128,6 +128,9 @@
       "pallof",
       "cable",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

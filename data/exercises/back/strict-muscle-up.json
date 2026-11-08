@@ -2,8 +2,11 @@
   "exercise_id": "3ccddbcc-f0cf-4c60-a793-68f75ed1d069",
   "slug": "strict-muscle-up",
   "name": "Strict Muscle-Up",
-  "alternative_names": ["Strength Muscle-Up", "No-Kip Muscle-Up"],
-  "description": "The strict muscle-up is an advanced calisthenics movement requiring the lifter to transition from a dead hang to a straight-arm support position above a bar or rings using controlled pulling and pressing strength — without momentum or kipping. It demands exceptional lat, biceps, and triceps strength alongside scapular and core stability.",
+  "alternative_names": [
+    "Strength Muscle-Up",
+    "No-Kip Muscle-Up"
+  ],
+  "description": "The strict muscle-up is an advanced calisthenics movement requiring the lifter to transition from a dead hang to a straight-arm support position above a bar or rings using controlled pulling and pressing strength \u2014 without momentum or kipping. It demands exceptional lat, biceps, and triceps strength alongside scapular and core stability.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -15,27 +18,52 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "triceps-brachii"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000006-0000-4000-a000-000000000006"],
-  "equipment_optional": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_required": [
+    "eq000006-0000-4000-a000-000000000006"
+  ],
+  "equipment_optional": [
+    "eq000042-0000-4000-a000-000000000042"
+  ],
   "execution": {
     "starting_position": "Hang from a pull-up bar with a false grip (wrists slightly over the bar) and a grip slightly narrower than shoulder width. Body in a hollow position.",
-    "setup_instructions": "A false grip (wrist over the bar) is critical — it allows the transition from pulling to pressing without re-gripping. Practice the false grip on the bar before attempting a full rep.",
+    "setup_instructions": "A false grip (wrist over the bar) is critical \u2014 it allows the transition from pulling to pressing without re-gripping. Practice the false grip on the bar before attempting a full rep.",
     "steps": [
       "Step 1: Begin in a dead hang with a false grip and hollow-body tension.",
-      "Step 2: Pull explosively and forcefully, bringing the chest high — above the bar if possible.",
+      "Step 2: Pull explosively and forcefully, bringing the chest high \u2014 above the bar if possible.",
       "Step 3: As the chest clears the bar, aggressively lean the torso forward over the bar.",
       "Step 4: Transition by pressing the bar down as the hips hinge over it, shifting to a support position.",
       "Step 5: Lock out the elbows to reach the dip support position at the top.",
@@ -43,7 +71,7 @@
     ],
     "breathing_instructions": "Inhale before initiating. Exhale through the pull phase. Hold through the transition.",
     "common_mistakes": [
-      "Attempting without a false grip — the transition will be impossible without it",
+      "Attempting without a false grip \u2014 the transition will be impossible without it",
       "Not pulling high enough to initiate the transition over the bar",
       "Using kipping momentum rather than pure strength"
     ],
@@ -68,21 +96,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 1, "max_reps": 5 }
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": { "strength": 180 },
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 180
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calisthenics", "advanced", "muscle-up", "pull-up"]
+    "tags": [
+      "calisthenics",
+      "advanced",
+      "muscle-up",
+      "pull-up"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

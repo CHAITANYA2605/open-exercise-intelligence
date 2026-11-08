@@ -65,18 +65,18 @@
     ],
     "breathing_instructions": "Inhale and brace before pressing. Exhale at the top or through the press.",
     "common_mistakes": [
-      "Flaring the elbows wide — with the neutral grip, elbows should stay close to 45 degrees from the torso",
+      "Flaring the elbows wide \u2014 with the neutral grip, elbows should stay close to 45 degrees from the torso",
       "Leaning excessively backward under load"
     ],
     "safety_considerations": [
       "Learn the standard barbell overhead press before switching to the Swiss bar",
-      "Use for rehabilitation from shoulder impingement — the neutral grip is gentler on the glenohumeral joint"
+      "Use for rehabilitation from shoulder impingement \u2014 the neutral grip is gentler on the glenohumeral joint"
     ],
     "range_of_motion_guidance": "Shoulder height to full overhead lockout.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Neutral grip — palms face each other",
-      "Elbows slightly forward — 45 degrees from the torso",
+      "Neutral grip \u2014 palms face each other",
+      "Elbows slightly forward \u2014 45 degrees from the torso",
       "Lock out fully overhead"
     ]
   },
@@ -140,6 +140,9 @@
       "neutral-grip",
       "shoulder-friendly",
       "strength"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

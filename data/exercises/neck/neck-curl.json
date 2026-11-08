@@ -45,21 +45,21 @@
     ],
     "breathing_instructions": "Exhale on the curl, inhale on the descent.",
     "common_mistakes": [
-      "Using too heavy a weight before the neck is conditioned — build progressively over weeks",
-      "Jerking the head — movement must be slow and controlled",
+      "Using too heavy a weight before the neck is conditioned \u2014 build progressively over weeks",
+      "Jerking the head \u2014 movement must be slow and controlled",
       "Performing this exercise if experiencing any neck pain or disc issues"
     ],
     "safety_considerations": [
       "This exercise is contraindicated with any cervical disc pathology or acute neck pain",
-      "Progress load extremely slowly — the cervical spine is delicate",
+      "Progress load extremely slowly \u2014 the cervical spine is delicate",
       "Always use a spotter or be conservative with plate placement"
     ],
     "range_of_motion_guidance": "From neutral or slight extension to full cervical flexion (chin to chest).",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
-      "Slow and controlled — always",
+      "Slow and controlled \u2014 always",
       "Build weeks of work before adding weight",
-      "If it hurts — stop"
+      "If it hurts \u2014 stop"
     ]
   },
   "variants": {
@@ -110,6 +110,9 @@
       "strength",
       "combat-sports",
       "injury-prevention"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -1,8 +1,11 @@
 {
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50006",
   "slug": "hip-90-90-without-hands",
-  "name": "Hip 90-90 Position — Hands Free",
-  "alternative_names": ["Unsupported 90-90 Hip Sit", "90-90 Hip Hold No Support"],
+  "name": "Hip 90-90 Position \u2014 Hands Free",
+  "alternative_names": [
+    "Unsupported 90-90 Hip Sit",
+    "90-90 Hip Hold No Support"
+  ],
   "description": "The hip 90-90 hands-free variation requires the exerciser to maintain the 90-90 hip position (front leg externally rotated, back leg internally rotated, both knees at 90 degrees) without using the hands for support. This demands greater hip joint control, core stability, and hip mobility than the supported version. The challenge is to sit upright, balanced purely by the hip joint's ability to control the positions of both legs simultaneously. A key milestone in hip mobility rehabilitation.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,16 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
-    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the floor in the 90-90 position with the right leg externally rotated in front and the left leg internally rotated behind. Both knees are at 90 degrees.",
@@ -36,26 +58,73 @@
       "Step 4: Hold for the prescribed duration, then place the hands back down. Switch sides and repeat."
     ],
     "breathing_instructions": "Deep breathing throughout. Each exhale can allow deeper settling into the position.",
-    "common_mistakes": ["Collapsing the torso toward the front leg as soon as the hands are lifted — the core must hold the upright position", "Cheating by keeping the fingertips lightly touching the floor — hands should be fully lifted", "Allowing the back knee to rise significantly off the floor — work on the hold even with the knee elevated if needed"],
-    "safety_considerations": ["If the hip positions are acutely painful without hand support, return to the supported version", "Rounded lower back is common — focus on sitting taller rather than trying to get the shins to the floor"],
+    "common_mistakes": [
+      "Collapsing the torso toward the front leg as soon as the hands are lifted \u2014 the core must hold the upright position",
+      "Cheating by keeping the fingertips lightly touching the floor \u2014 hands should be fully lifted",
+      "Allowing the back knee to rise significantly off the floor \u2014 work on the hold even with the knee elevated if needed"
+    ],
+    "safety_considerations": [
+      "If the hip positions are acutely painful without hand support, return to the supported version",
+      "Rounded lower back is common \u2014 focus on sitting taller rather than trying to get the shins to the floor"
+    ],
     "range_of_motion_guidance": "Both shins as low as possible to the floor, held without hands. The torso must remain upright.",
     "tempo_recommendations": "Hold for 20-60 seconds per side. Build to 60 seconds.",
-    "coaching_cues": ["Sit tall — imagine a string pulling the top of your head toward the ceiling", "Breathe into the front hip — feel the external rotation holding without hands to assist", "The shins not touching the floor is fine — the work is in the hold, not the contact"]
+    "coaching_cues": [
+      "Sit tall \u2014 imagine a string pulling the top of your head toward the ceiling",
+      "Breathe into the front hip \u2014 feel the external rotation holding without hands to assist",
+      "The shins not touching the floor is fine \u2014 the work is in the hold, not the contact"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "mobility", "min_reps": 1, "max_reps": 2}],
-    "recommended_set_ranges": [{"goal": "mobility", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"mobility": 30},
-    "training_goals": ["mobility"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "mobility",
+        "min_reps": 1,
+        "max_reps": 2
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "mobility": 30
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip-mobility", "stretching", "90-90", "stability", "unsupported"]
+    "tags": [
+      "hip-mobility",
+      "stretching",
+      "90-90",
+      "stability",
+      "unsupported"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

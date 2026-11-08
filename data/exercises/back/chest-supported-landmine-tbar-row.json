@@ -2,7 +2,10 @@
   "exercise_id": "09ff682e-cb72-472a-b869-e94c0ce01cc7",
   "slug": "chest-supported-landmine-tbar-row",
   "name": "Chest-Supported Landmine T-Bar Row",
-  "alternative_names": ["Incline Landmine Row", "Chest-Supported Landmine Row"],
+  "alternative_names": [
+    "Incline Landmine Row",
+    "Chest-Supported Landmine Row"
+  ],
   "description": "The chest-supported landmine T-bar row combines the unique angled force vector of a landmine setup with the strict torso support of an incline bench. The chest pad eliminates lower back involvement entirely, directing all effort to the lats and upper back while the landmine angle provides a natural arc that accommodates shoulder mechanics better than many cable or barbell row variations.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,18 +18,38 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001", "eq000007-0000-4000-a000-000000000007"],
-  "equipment_optional": ["eq000040-0000-4000-a000-000000000040"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001",
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000040-0000-4000-a000-000000000040"
+  ],
   "execution": {
     "starting_position": "Position an incline bench (30-45 degrees) over the loaded end of a landmine barbell. Lie prone on the bench with the chest supported. Reach down and grasp the barbell end with both hands (or a V-handle attachment).",
     "setup_instructions": "Adjust bench position so that arms can reach full extension at the bottom. A V-grip handle over the bar sleeve makes bilateral gripping easier.",
@@ -39,8 +62,8 @@
     ],
     "breathing_instructions": "Exhale on the row. Inhale on the descent.",
     "common_mistakes": [
-      "Head craning forward — keep neck neutral against the bench pad",
-      "Insufficient lat engagement — focus on depressing scaps before the pull"
+      "Head craning forward \u2014 keep neck neutral against the bench pad",
+      "Insufficient lat engagement \u2014 focus on depressing scaps before the pull"
     ],
     "safety_considerations": [
       "Ensure the bench is stable and won't slide on the floor",
@@ -63,22 +86,54 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 },
-      { "goal": "strength", "min_reps": 5, "max_reps": 8 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90, "strength": 120 },
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90,
+      "strength": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest-supported", "landmine", "row", "t-bar", "back"]
+    "tags": [
+      "chest-supported",
+      "landmine",
+      "row",
+      "t-bar",
+      "back"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

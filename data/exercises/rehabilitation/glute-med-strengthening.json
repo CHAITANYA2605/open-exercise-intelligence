@@ -54,23 +54,23 @@
       "Step 1: Lie on one side with hips stacked and both legs straight.",
       "Step 2: Turn the top foot slightly toward the floor (internal rotation) to target the posterior fibers of the gluteus medius.",
       "Step 3: Raise the top leg toward the ceiling, keeping it in line with the torso (not in front of it).",
-      "Step 4: Raise to approximately 30–45 degrees — not so high that the pelvis rotates.",
+      "Step 4: Raise to approximately 30\u201345 degrees \u2014 not so high that the pelvis rotates.",
       "Step 5: Slowly lower the leg back to the starting position with control. Do not let it rest on the bottom leg between reps."
     ],
     "breathing_instructions": "Exhale as the leg lifts. Inhale as it lowers.",
     "common_mistakes": [
-      "Letting the top hip roll forward — the pelvis must stay stacked",
+      "Letting the top hip roll forward \u2014 the pelvis must stay stacked",
       "Raising the leg too far, which recruits the hip flexors and reduces glute med isolation",
-      "Pointing the top toe toward the ceiling (external rotation) — slight internal rotation targets the posterior glute med"
+      "Pointing the top toe toward the ceiling (external rotation) \u2014 slight internal rotation targets the posterior glute med"
     ],
     "safety_considerations": [
       "Safe for all rehabilitation populations including post-partum and elderly",
       "If lateral hip pain occurs with the band, try without band first"
     ],
-    "range_of_motion_guidance": "Raise the leg 30–45 degrees from the floor. Keep the movement in the frontal plane.",
-    "tempo_recommendations": "2-second lift, 1-second hold, 2-second lower. 15–20 reps × 2–3 sets per side.",
+    "range_of_motion_guidance": "Raise the leg 30\u201345 degrees from the floor. Keep the movement in the frontal plane.",
+    "tempo_recommendations": "2-second lift, 1-second hold, 2-second lower. 15\u201320 reps \u00d7 2\u20133 sets per side.",
     "coaching_cues": [
-      "Lead with the heel — think about reaching the heel up to the ceiling",
+      "Lead with the heel \u2014 think about reaching the heel up to the ceiling",
       "Keep the hip stacked and do not let it roll backward",
       "Slight internal rotation of the foot targets the best part of the glute med"
     ]
@@ -124,6 +124,9 @@
       "it-band",
       "knee-health",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

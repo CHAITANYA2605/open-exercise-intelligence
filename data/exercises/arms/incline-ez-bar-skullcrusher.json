@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-0132-4000-a000-100000000132",
   "slug": "incline-ez-bar-skullcrusher",
   "name": "Incline EZ-Bar Skull Crusher",
-  "alternative_names": ["Incline Lying Tricep Extension EZ-Bar"],
+  "alternative_names": [
+    "Incline Lying Tricep Extension EZ-Bar"
+  ],
   "description": "The incline EZ-bar skull crusher is performed on an incline bench (typically 30-45 degrees), which shifts the angle of the arms relative to the torso. The incline position places even greater stretch on the tricep long head compared to flat skull crushers, as the shoulder angle changes the long head's initial length. This enhanced stretch stimulus at the bottom of the movement may improve hypertrophic adaptation in the long head.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,15 +17,27 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000003-0000-4000-a000-000000000003", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000003-0000-4000-a000-000000000003",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set an adjustable bench to 30-45 degrees. Lie back with the EZ-bar pressed to full extension above the face/forehead.",
@@ -35,30 +49,71 @@
       "Step 4: Extend the elbows to press back to the starting position."
     ],
     "breathing_instructions": "Inhale on descent, exhale on press.",
-    "common_mistakes": ["Upper arms drifting on the incline", "Using too heavy a load — the stretch position is more vulnerable"],
-    "safety_considerations": ["The incline increases long head stretch — use lighter load than flat skull crushers until comfortable"],
+    "common_mistakes": [
+      "Upper arms drifting on the incline",
+      "Using too heavy a load \u2014 the stretch position is more vulnerable"
+    ],
+    "safety_considerations": [
+      "The incline increases long head stretch \u2014 use lighter load than flat skull crushers until comfortable"
+    ],
     "range_of_motion_guidance": "Full extension to maximum elbow flexion with bar at forehead level.",
     "tempo_recommendations": "2-1-2-0 (hold stretch 1s)",
-    "coaching_cues": ["Feel the stretch at the bottom", "Upper arms stay fixed", "Squeeze at lockout"]
+    "coaching_cues": [
+      "Feel the stretch at the bottom",
+      "Upper arms stay fixed",
+      "Squeeze at lockout"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "isolation", "ez-bar", "incline", "long-head"]
+    "tags": [
+      "tricep",
+      "isolation",
+      "ez-bar",
+      "incline",
+      "long-head"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

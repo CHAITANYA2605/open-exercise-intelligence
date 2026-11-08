@@ -61,7 +61,7 @@
     ],
     "breathing_instructions": "Exhale on extension; inhale on the return.",
     "common_mistakes": [
-      "Letting the elbows flare wide — keep them pointing relatively forward/upward",
+      "Letting the elbows flare wide \u2014 keep them pointing relatively forward/upward",
       "Using the shoulders to lift rather than extending the elbows"
     ],
     "safety_considerations": [
@@ -71,7 +71,7 @@
     "range_of_motion_guidance": "Full elbow bend (deep stretch of long head) to full elbow extension overhead.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Elbows point to the ceiling — not outward",
+      "Elbows point to the ceiling \u2014 not outward",
       "Feel the deep stretch in the back of the arm at the bottom before pressing up"
     ]
   },
@@ -141,6 +141,9 @@
       "overhead",
       "isolation",
       "extension"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

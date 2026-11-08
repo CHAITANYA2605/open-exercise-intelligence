@@ -2,8 +2,11 @@
   "exercise_id": "bc7c4799-ba0b-4338-b65d-e6f1d64ea4c8",
   "slug": "landmine-meadows-row-pause",
   "name": "Landmine Meadows Row with Pause",
-  "alternative_names": ["Paused Meadows Row", "Meadows Row Isometric Hold"],
-  "description": "The paused Meadows row adds a 2-3 second contraction hold at the peak of each repetition, maximizing lat and teres major activation at their shortest position. The pause eliminates the momentum that can occur in standard Meadows rows while training the ability to generate force from an already-contracted position — a quality associated with improved mind-muscle connection.",
+  "alternative_names": [
+    "Paused Meadows Row",
+    "Meadows Row Isometric Hold"
+  ],
+  "description": "The paused Meadows row adds a 2-3 second contraction hold at the peak of each repetition, maximizing lat and teres major activation at their shortest position. The pause eliminates the momentum that can occur in standard Meadows rows while training the ability to generate force from an already-contracted position \u2014 a quality associated with improved mind-muscle connection.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -15,33 +18,52 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000040-0000-4000-a000-000000000040"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000040-0000-4000-a000-000000000040"
+  ],
   "execution": {
     "starting_position": "Barbell end secured in a landmine unit or corner. Staggered stance perpendicular to the bar. Hinge at the hips, grasp the bar end with one hand.",
     "setup_instructions": "Reduce load by 20-30% compared to standard Meadows rows to accommodate the pause.",
     "steps": [
       "Step 1: Row the bar end explosively to the hip.",
       "Step 2: At the peak position, hold for 2-3 seconds with elbow above torso.",
-      "Step 3: During the hold, actively squeeze the lat — think 'armpit to hip'.",
+      "Step 3: During the hold, actively squeeze the lat \u2014 think 'armpit to hip'.",
       "Step 4: Lower slowly under full control.",
       "Step 5: Allow full lat stretch at the bottom before initiating the next rep."
     ],
     "breathing_instructions": "Exhale on the row. Hold breath lightly during the pause. Exhale through the descent.",
     "common_mistakes": [
-      "Letting the elbow drop during the pause — maintain height",
-      "Using the same load as standard Meadows rows — reduce weight for the pause variation"
+      "Letting the elbow drop during the pause \u2014 maintain height",
+      "Using the same load as standard Meadows rows \u2014 reduce weight for the pause variation"
     ],
     "safety_considerations": [
       "Secure the barbell end before loading",
@@ -64,21 +86,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90 },
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["landmine", "row", "pause", "lat", "unilateral"]
+    "tags": [
+      "landmine",
+      "row",
+      "pause",
+      "lat",
+      "unilateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

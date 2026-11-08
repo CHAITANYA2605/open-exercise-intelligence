@@ -2,7 +2,10 @@
   "exercise_id": "34b3ccb8-3376-4d5f-9383-e360b3805cd3",
   "slug": "behind-back-cable-shrug",
   "name": "Behind-Back Cable Shrug",
-  "alternative_names": ["Cable Shrug Behind Back", "Reverse Cable Shrug"],
+  "alternative_names": [
+    "Cable Shrug Behind Back",
+    "Reverse Cable Shrug"
+  ],
   "description": "The behind-back cable shrug uses a low cable pulley with the lifter standing facing away, the cable passing behind the body and grasped with arms behind the torso. This positioning places the trapezius under tension through a unique posterior angle that is difficult to replicate with any other equipment, and it allows the upper traps to work without the anterior deltoids assisting as occurs in front-loaded shrugs.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,38 +18,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "secondary": [
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing away from a low cable pulley. Reach behind and grasp a straight bar or rope attached to the cable. Stand upright with arms behind the torso.",
-    "setup_instructions": "Set the cable to the lowest position. Use a straight bar attachment that can be held comfortably behind the body. Moderate weight to begin — the position is unfamiliar.",
+    "setup_instructions": "Set the cable to the lowest position. Use a straight bar attachment that can be held comfortably behind the body. Moderate weight to begin \u2014 the position is unfamiliar.",
     "steps": [
       "Step 1: Stand upright with cable grasped behind the lower body.",
-      "Step 2: Shrug the shoulders straight upward — no rolling, no forward rounding.",
+      "Step 2: Shrug the shoulders straight upward \u2014 no rolling, no forward rounding.",
       "Step 3: Elevate as high as possible.",
       "Step 4: Hold 1 second at peak elevation.",
       "Step 5: Lower under control."
     ],
     "breathing_instructions": "Exhale on the shrug. Inhale on the lowering.",
     "common_mistakes": [
-      "Rolling the shoulders — shrug straight up, not in a circular motion",
-      "Leaning forward — maintain upright posture throughout"
+      "Rolling the shoulders \u2014 shrug straight up, not in a circular motion",
+      "Leaning forward \u2014 maintain upright posture throughout"
     ],
     "safety_considerations": [
-      "The behind-back position places the shoulder in internal rotation — keep loads moderate",
+      "The behind-back position places the shoulder in internal rotation \u2014 keep loads moderate",
       "Avoid if you experience shoulder or bicipital tendon pain"
     ],
     "range_of_motion_guidance": "Full shoulder depression to full elevation.",
     "tempo_recommendations": "1-1-2-0",
     "coaching_cues": [
-      "Straight up — not forward or backward",
+      "Straight up \u2014 not forward or backward",
       "Ears to shoulders",
       "Hold the squeeze at the top"
     ]
@@ -60,21 +71,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 60 },
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "shrug", "trapezius", "upper-back", "behind-back"]
+    "tags": [
+      "cable",
+      "shrug",
+      "trapezius",
+      "upper-back",
+      "behind-back"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

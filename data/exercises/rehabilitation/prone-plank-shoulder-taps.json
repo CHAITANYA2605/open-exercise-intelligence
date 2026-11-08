@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50015",
   "slug": "prone-plank-shoulder-taps",
   "name": "Plank Shoulder Taps",
-  "alternative_names": ["Shoulder Tap Plank", "Prone Shoulder Touch"],
+  "alternative_names": [
+    "Shoulder Tap Plank",
+    "Prone Shoulder Touch"
+  ],
   "description": "Plank shoulder taps are an anti-rotation core stability exercise performed from a high plank position. One hand at a time lifts from the floor to tap the opposite shoulder while the core resists the rotational and lateral shift that the movement creates. This demands simultaneous core bracing, shoulder stability, and hip anti-rotation, making it a highly effective functional rehabilitation drill for the core, hips, and shoulder girdle.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a high plank (push-up starting position) with hands directly under shoulders and feet hip-width apart. The body should form a rigid straight line from heels to head.",
@@ -39,33 +65,86 @@
       "Step 3: Immediately lift the left hand and tap the right shoulder, then return.",
       "Step 4: One tap per side equals one repetition. Continue alternating while maintaining a level, non-rotating body."
     ],
-    "breathing_instructions": "Breathe continuously — do not hold your breath. Exhale as you lift the hand.",
-    "common_mistakes": ["Allowing the hips to rock side to side during the tap — this is the main error to correct", "Rushing through the movement — slow taps engage the stabilizers far more effectively", "Placing feet too close together, which greatly increases the rotational challenge beyond the user's capacity"],
-    "safety_considerations": ["If the lower back sags during the exercise, perform the drill from the knees first to build foundational strength", "Avoid if wrist pain is present — use fist plank position as a modification"],
+    "breathing_instructions": "Breathe continuously \u2014 do not hold your breath. Exhale as you lift the hand.",
+    "common_mistakes": [
+      "Allowing the hips to rock side to side during the tap \u2014 this is the main error to correct",
+      "Rushing through the movement \u2014 slow taps engage the stabilizers far more effectively",
+      "Placing feet too close together, which greatly increases the rotational challenge beyond the user's capacity"
+    ],
+    "safety_considerations": [
+      "If the lower back sags during the exercise, perform the drill from the knees first to build foundational strength",
+      "Avoid if wrist pain is present \u2014 use fist plank position as a modification"
+    ],
     "range_of_motion_guidance": "The tap itself is a small movement. The challenge is in keeping everything else completely still.",
     "tempo_recommendations": "2s lift and tap, 1s hold on shoulder, 2s return. Slow and controlled.",
-    "coaching_cues": ["Squeeze the glutes to prevent hip drop during the tap", "Move only the arm — nothing else should shift when the hand lifts", "Wider feet = easier; narrow feet = harder. Choose based on your current level"]
+    "coaching_cues": [
+      "Squeeze the glutes to prevent hip drop during the tap",
+      "Move only the arm \u2014 nothing else should shift when the hand lifts",
+      "Wider feet = easier; narrow feet = harder. Choose based on your current level"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 10, "max_reps": 20},
-      {"goal": "strength", "min_reps": 6, "max_reps": 12}
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "strength",
+        "min_reps": 6,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 45, "strength": 60},
-    "training_goals": ["endurance", "strength"]
+    "rest_periods": {
+      "endurance": 45,
+      "strength": 60
+    },
+    "training_goals": [
+      "endurance",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "anti-rotation", "rehabilitation", "plank", "stability"]
+    "tags": [
+      "core",
+      "anti-rotation",
+      "rehabilitation",
+      "plank",
+      "stability"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

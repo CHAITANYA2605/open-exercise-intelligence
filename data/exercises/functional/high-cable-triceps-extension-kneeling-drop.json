@@ -1,7 +1,7 @@
 {
   "exercise_id": "296ebdd7-6b73-48e6-a035-ce150ef75924",
   "slug": "high-cable-triceps-extension-kneeling-drop",
-  "name": "High Cable Triceps Extension — Kneeling Drop Set",
+  "name": "High Cable Triceps Extension \u2014 Kneeling Drop Set",
   "alternative_names": [
     "Kneeling Cable Triceps Extension Drop",
     "High Pulley Tri Extension Drop"
@@ -54,20 +54,20 @@
     ],
     "breathing_instructions": "Exhale during the extension (press). Inhale during the return.",
     "common_mistakes": [
-      "Flaring the elbows wide — keep them in line with the head, not splayed out",
-      "Moving the upper arm during the extension — only the forearms should move",
+      "Flaring the elbows wide \u2014 keep them in line with the head, not splayed out",
+      "Moving the upper arm during the extension \u2014 only the forearms should move",
       "Allowing the torso to lean excessively forward to assist the press"
     ],
     "safety_considerations": [
-      "Ensure quick weight reduction is possible before beginning — plan the drop logistics first",
-      "Avoid excessive neck strain — the rope attachment should not press on the neck"
+      "Ensure quick weight reduction is possible before beginning \u2014 plan the drop logistics first",
+      "Avoid excessive neck strain \u2014 the rope attachment should not press on the neck"
     ],
     "range_of_motion_guidance": "Full elbow extension at the bottom. Full elbow flexion (rope behind head) at the top.",
     "tempo_recommendations": "2s extension, 1s lockout, 3s eccentric return. Full ROM on each rep of both the initial and drop set.",
     "coaching_cues": [
-      "Keep the elbows tight — do not let them flare during the press",
-      "Squeeze the triceps at lockout — the constant tension from the high cable makes this very effective",
-      "The drop set should be a smooth transition — have the lighter weight ready to go immediately"
+      "Keep the elbows tight \u2014 do not let them flare during the press",
+      "Squeeze the triceps at lockout \u2014 the constant tension from the high cable makes this very effective",
+      "The drop set should be a smooth transition \u2014 have the lighter weight ready to go immediately"
     ]
   },
   "variants": {
@@ -117,6 +117,9 @@
       "extension",
       "drop-set",
       "kneeling"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

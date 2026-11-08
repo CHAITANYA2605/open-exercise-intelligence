@@ -6,7 +6,7 @@
     "Chain-Loaded Incline Squeeze Press",
     "Incline Hex Press Chains"
   ],
-  "description": "An incline squeeze press — both dumbbells pressed together — with chains attached to each dumbbell for accommodating resistance. The continuous adduction squeeze targets the medial clavicular pectoral fibers, while the chains progressively load the lockout, maximizing tension through the top range where free weights typically feel easiest. This combination of technique and load variety creates an unusually high stimulus for the upper chest.",
+  "description": "An incline squeeze press \u2014 both dumbbells pressed together \u2014 with chains attached to each dumbbell for accommodating resistance. The continuous adduction squeeze targets the medial clavicular pectoral fibers, while the chains progressively load the lockout, maximizing tension through the top range where free weights typically feel easiest. This combination of technique and load variety creates an unusually high stimulus for the upper chest.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -50,7 +50,7 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on an incline bench (30–45 degrees). Attach chains to both dumbbells so they drape to the floor from the bottom of the press. Hold dumbbells pressed together at upper chest level, palms facing each other.",
+    "starting_position": "Lie on an incline bench (30\u201345 degrees). Attach chains to both dumbbells so they drape to the floor from the bottom of the press. Hold dumbbells pressed together at upper chest level, palms facing each other.",
     "setup_instructions": "Use hex dumbbells for flat-face contact. Secure chains to handles. Reduce dumbbell weight below normal squeeze press weight due to chain addition. Chains should begin engaging near the mid-range of the press.",
     "steps": [
       "Step 1: Begin with dumbbells pressed firmly together at the upper chest, chains draping to floor.",
@@ -60,9 +60,9 @@
     ],
     "breathing_instructions": "Inhale at the bottom, exhale forcefully through the press.",
     "common_mistakes": [
-      "Letting the dumbbells separate — the squeeze must be constant throughout",
+      "Letting the dumbbells separate \u2014 the squeeze must be constant throughout",
       "Using too much dumbbell weight before adding chain load",
-      "Chains not engaging — means they are too long or not properly attached"
+      "Chains not engaging \u2014 means they are too long or not properly attached"
     ],
     "safety_considerations": [
       "Secure chain attachments before beginning",
@@ -73,7 +73,7 @@
     "tempo_recommendations": "3-1-2-1",
     "coaching_cues": [
       "Squeeze the dumbbells together as hard as you can the entire set",
-      "Press hard to the top — the chains reward complete lockout"
+      "Press hard to the top \u2014 the chains reward complete lockout"
     ]
   },
   "variants": {
@@ -131,6 +131,9 @@
       "squeeze-press",
       "accommodating-resistance",
       "upper-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

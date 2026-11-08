@@ -57,11 +57,11 @@
     "safety_considerations": [
       "Avoid very heavy loads that force spinal flexion beyond comfortable range"
     ],
-    "range_of_motion_guidance": "Full arc of motion as guided by the machine — from spine neutral to full flexion.",
+    "range_of_motion_guidance": "Full arc of motion as guided by the machine \u2014 from spine neutral to full flexion.",
     "tempo_recommendations": "2-1-2-0. Slow and controlled. No momentum.",
     "coaching_cues": [
-      "Round the lower back — do not just lean forward",
-      "Keep the neck neutral — do not crane forward"
+      "Round the lower back \u2014 do not just lean forward",
+      "Keep the neck neutral \u2014 do not crane forward"
     ]
   },
   "variants": {
@@ -115,6 +115,9 @@
       "abs",
       "machine",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

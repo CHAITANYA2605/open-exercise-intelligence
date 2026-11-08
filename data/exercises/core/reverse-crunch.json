@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-e009-4000-a000-000000000109",
   "slug": "reverse-crunch",
   "name": "Reverse Crunch",
-  "alternative_names": ["Reverse Crunch"],
+  "alternative_names": [
+    "Reverse Crunch"
+  ],
   "description": "The reverse crunch is a supine core exercise that targets the lower portion of the rectus abdominis by moving the pelvis toward the chest rather than the chest toward the pelvis. As the knees are drawn toward the face with posterior pelvic tilt, the lower abdominal fibers are trained through spinal flexion initiated from below. It is a spine-friendly alternative to full sit-ups and provides direct lower abdominal engagement without excessive hip flexor recruitment.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,18 +17,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie flat on your back with arms at your sides or holding a stable object overhead. Hips bent to 90 degrees, knees bent to 90 degrees, feet off the floor.",
@@ -34,13 +53,13 @@
     "steps": [
       "Step 1: Lie supine with hips and knees both at 90 degrees, feet elevated.",
       "Step 2: Brace the core and exhale as you curl the knees toward the face by posteriorly tilting the pelvis.",
-      "Step 3: The lower back and tailbone should lift off the floor at the top — this is what distinguishes it from a simple hip flexor lift.",
+      "Step 3: The lower back and tailbone should lift off the floor at the top \u2014 this is what distinguishes it from a simple hip flexor lift.",
       "Step 4: Pause at the top position with maximum abdominal compression.",
       "Step 5: Lower with control back to the starting position."
     ],
     "breathing_instructions": "Exhale as the pelvis curls up. Inhale on the descent.",
     "common_mistakes": [
-      "Lifting the knees without curling the pelvis — this is hip flexion, not a reverse crunch",
+      "Lifting the knees without curling the pelvis \u2014 this is hip flexion, not a reverse crunch",
       "Using momentum to swing the legs rather than abdominal contraction",
       "Lowering too quickly and losing abdominal tension on the eccentric"
     ],
@@ -53,7 +72,7 @@
     "coaching_cues": [
       "Curl your tailbone toward the ceiling",
       "Think about bringing your knees to your nose",
-      "The lower back comes off the floor — that is the goal"
+      "The lower back comes off the floor \u2014 that is the goal"
     ]
   },
   "variants": {
@@ -65,23 +84,58 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60, "endurance": 45},
-    "training_goals": ["hypertrophy", "endurance"]
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "abs", "beginner", "lower-abs"]
+    "tags": [
+      "core",
+      "abs",
+      "beginner",
+      "lower-abs"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -88,7 +88,7 @@
     "setup_instructions": "Clean the bar to the front rack position or take from a rack. Ensure adequate ceiling clearance for the overhead lockout. Dumbbells are easier to manage for beginners.",
     "steps": [
       "Step 1: Begin with the bar in the front rack position, feet shoulder-width apart, elbows high.",
-      "Step 2: Descend into a full front squat — hips below parallel if mobility allows — keeping the torso upright.",
+      "Step 2: Descend into a full front squat \u2014 hips below parallel if mobility allows \u2014 keeping the torso upright.",
       "Step 3: Drive explosively out of the squat, extending the hips and knees with maximum force.",
       "Step 4: Use the upward momentum to press the bar overhead in one continuous motion, finishing at full lockout."
     ],
@@ -98,14 +98,14 @@
       "Pressing forward rather than straight up at the top"
     ],
     "safety_considerations": [
-      "Requires front squat mobility — practice front squats and overhead press separately first",
+      "Requires front squat mobility \u2014 practice front squats and overhead press separately first",
       "Use bumper plates if doing high-rep sets so you can safely drop the bar"
     ],
     "range_of_motion_guidance": "Full depth squat; full overhead lockout with active shoulders.",
     "tempo_recommendations": "Controlled descent; explosive through the top",
     "coaching_cues": [
-      "Let the squat drive the bar overhead — do not 'squat, pause, then press'",
-      "Keep your elbows high in the front rack — if they drop, you'll muscle-press instead of thruster"
+      "Let the squat drive the bar overhead \u2014 do not 'squat, pause, then press'",
+      "Keep your elbows high in the front rack \u2014 if they drop, you'll muscle-press instead of thruster"
     ]
   },
   "variants": {
@@ -184,6 +184,9 @@
       "squat",
       "press",
       "crossfit"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -68,22 +68,22 @@
       "Step 1: Lock the kettlebell out overhead with the working arm straight and elbow fully extended.",
       "Step 2: Pack the shoulder by depressing the scapula and externally rotating the arm.",
       "Step 3: Walk at a controlled pace for the prescribed distance or time.",
-      "Step 4: Keep the torso upright — resist any lateral flexion toward the weighted side.",
+      "Step 4: Keep the torso upright \u2014 resist any lateral flexion toward the weighted side.",
       "Step 5: At the end of the distance, carefully lower the kettlebell and switch hands."
     ],
     "breathing_instructions": "Breathe normally throughout. Maintain a constant bracing level.",
     "common_mistakes": [
-      "Allowing the elbow to bend — the arm must remain fully locked out",
-      "Laterally flexing the trunk toward the weighted side — the spine should remain perfectly vertical"
+      "Allowing the elbow to bend \u2014 the arm must remain fully locked out",
+      "Laterally flexing the trunk toward the weighted side \u2014 the spine should remain perfectly vertical"
     ],
     "safety_considerations": [
-      "Ensure full shoulder external rotation and scapular depression before beginning — a loose overhead position is a safety risk"
+      "Ensure full shoulder external rotation and scapular depression before beginning \u2014 a loose overhead position is a safety risk"
     ],
-    "range_of_motion_guidance": "Walk with full arm extension maintained. Distance typically 20–40 metres per set.",
+    "range_of_motion_guidance": "Walk with full arm extension maintained. Distance typically 20\u201340 metres per set.",
     "tempo_recommendations": "Moderate walking pace. Controlled steps.",
     "coaching_cues": [
-      "Bicep beside the ear — arm is a pillar",
-      "Walk tall — do not lean"
+      "Bicep beside the ear \u2014 arm is a pillar",
+      "Walk tall \u2014 do not lean"
     ]
   },
   "variants": {
@@ -135,6 +135,9 @@
       "overhead",
       "functional",
       "shoulder"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

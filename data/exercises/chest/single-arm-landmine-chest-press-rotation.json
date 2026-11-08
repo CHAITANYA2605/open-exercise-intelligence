@@ -67,19 +67,19 @@
     ],
     "breathing_instructions": "Exhale during the press and rotation. Inhale on the return.",
     "common_mistakes": [
-      "Not rotating the torso — the rotation is a deliberate part of the exercise, not a mistake to prevent",
-      "Leaning excessively forward — the rotation comes from the torso, not a forward lunge",
+      "Not rotating the torso \u2014 the rotation is a deliberate part of the exercise, not a mistake to prevent",
+      "Leaning excessively forward \u2014 the rotation comes from the torso, not a forward lunge",
       "Pressing too fast and losing control of the bar's arc"
     ],
     "safety_considerations": [
       "Ensure the landmine anchor is stable before pressing",
-      "Use moderate weight — the rotational component creates unfamiliar loading on the shoulder"
+      "Use moderate weight \u2014 the rotational component creates unfamiliar loading on the shoulder"
     ],
-    "range_of_motion_guidance": "Full arm extension along the bar's arc. Torso rotates approximately 30–45 degrees through the movement.",
+    "range_of_motion_guidance": "Full arm extension along the bar's arc. Torso rotates approximately 30\u201345 degrees through the movement.",
     "tempo_recommendations": "2-0-2-1",
     "coaching_cues": [
-      "Let the torso follow the press — don't restrict the rotation",
-      "Press through the chest, not just the shoulder — initiate from the pec"
+      "Let the torso follow the press \u2014 don't restrict the rotation",
+      "Press through the chest, not just the shoulder \u2014 initiate from the pec"
     ]
   },
   "variants": {
@@ -137,6 +137,9 @@
       "chest",
       "functional",
       "core"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

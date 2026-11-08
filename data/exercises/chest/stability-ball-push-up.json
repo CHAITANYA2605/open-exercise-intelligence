@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e09",
   "slug": "stability-ball-push-up",
   "name": "Stability Ball Push-Up",
-  "alternative_names": ["Swiss Ball Push-Up", "Exercise Ball Push-Up"],
+  "alternative_names": [
+    "Swiss Ball Push-Up",
+    "Exercise Ball Push-Up"
+  ],
   "description": "A push-up variation performed with both hands on a stability ball, creating an unstable surface that substantially increases the activation demand on the serratus anterior, rotator cuff, and core musculature. Because the ball deforms and shifts, the pectorals and stabilizers must work continuously throughout the movement to maintain position and control.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000046-0000-4000-a000-000000000046"],
+  "equipment_required": [
+    "eq000046-0000-4000-a000-000000000046"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel behind a stability ball and place both hands on top of it, shoulder-width apart. Walk the feet back until the body forms a straight plank with arms extended.",
@@ -44,7 +73,7 @@
     "common_mistakes": [
       "Placing hands too far apart, reducing stability",
       "Allowing the ball to roll forward or backward without correction",
-      "Sagging at the hips or piking — the body must stay rigid"
+      "Sagging at the hips or piking \u2014 the body must stay rigid"
     ],
     "safety_considerations": [
       "Ensure ball is fully inflated and on a non-slip surface",
@@ -53,30 +82,70 @@
     "range_of_motion_guidance": "Lower chest as close to the ball surface as control allows. Ball contact is acceptable but do not rest body weight on ball at bottom.",
     "tempo_recommendations": "3-1-2-0 (3s descent, 1s pause, 2s press)",
     "coaching_cues": [
-      "Squeeze the ball inward with both hands — this activates serratus and improves stability",
+      "Squeeze the ball inward with both hands \u2014 this activates serratus and improves stability",
       "Think of making the ball stay perfectly still throughout each rep"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 75, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["push-up", "stability-ball", "chest", "unstable-surface"]
+    "tags": [
+      "push-up",
+      "stability-ball",
+      "chest",
+      "unstable-surface"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

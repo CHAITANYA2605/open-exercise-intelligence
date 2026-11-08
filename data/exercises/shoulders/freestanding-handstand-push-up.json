@@ -2,8 +2,11 @@
   "exercise_id": "82bd49bd-1259-4578-a555-66b17ecfa291",
   "slug": "freestanding-handstand-push-up",
   "name": "Freestanding Handstand Push-Up",
-  "alternative_names": ["Free HSPU", "Unsupported Handstand Press"],
-  "description": "The freestanding handstand push-up performs the full handstand press without any wall support, requiring simultaneous balance, pressing strength, and proprioceptive control. The absence of wall support forces the entire posterior and anterior shoulder girdle to continuously stabilize the handstand position while generating vertical pressing force — the gold standard of shoulder pressing in calisthenics.",
+  "alternative_names": [
+    "Free HSPU",
+    "Unsupported Handstand Press"
+  ],
+  "description": "The freestanding handstand push-up performs the full handstand press without any wall support, requiring simultaneous balance, pressing strength, and proprioceptive control. The absence of wall support forces the entire posterior and anterior shoulder girdle to continuously stabilize the handstand position while generating vertical pressing force \u2014 the gold standard of shoulder pressing in calisthenics.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -15,16 +18,34 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "triceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
   "equipment_required": [],
@@ -41,19 +62,19 @@
     ],
     "breathing_instructions": "Inhale descending. Exhale pressing.",
     "common_mistakes": [
-      "Attempting freestanding reps without adequate handstand balance — build the hold first",
-      "Lowering too fast — the descent must be controlled to maintain balance"
+      "Attempting freestanding reps without adequate handstand balance \u2014 build the hold first",
+      "Lowering too fast \u2014 the descent must be controlled to maintain balance"
     ],
     "safety_considerations": [
       "Practice in an open area with a mat",
       "Learn forward and sideways bail-out techniques before attempting"
     ],
     "range_of_motion_guidance": "Full arm extension to head lightly touching floor.",
-    "tempo_recommendations": "Controlled — balance dictates tempo",
+    "tempo_recommendations": "Controlled \u2014 balance dictates tempo",
     "coaching_cues": [
       "Press your fingertips into the floor to steer balance",
       "Look between your hands",
-      "Stay hollow — no arch"
+      "Stay hollow \u2014 no arch"
     ]
   },
   "variants": {
@@ -65,21 +86,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 1, "max_reps": 5 }
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": { "strength": 240 },
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 240
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calisthenics", "handstand", "freestanding", "advanced", "bodyweight"]
+    "tags": [
+      "calisthenics",
+      "handstand",
+      "freestanding",
+      "advanced",
+      "bodyweight"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

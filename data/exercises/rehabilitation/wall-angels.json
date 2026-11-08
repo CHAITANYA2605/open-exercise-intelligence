@@ -2,8 +2,11 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50011",
   "slug": "wall-angels",
   "name": "Wall Angels",
-  "alternative_names": ["Wall Slides", "Prone Wall Angels"],
-  "description": "Wall angels are a scapular mobility and postural correction exercise performed with the back flat against a wall. The exerciser slides their arms upward from shoulder height to overhead while maintaining full contact between the back, head, and arms against the wall. This exercise challenges thoracic extension, scapular upward rotation, and shoulder external rotation — all critical for overhead mobility and shoulder health.",
+  "alternative_names": [
+    "Wall Slides",
+    "Prone Wall Angels"
+  ],
+  "description": "Wall angels are a scapular mobility and postural correction exercise performed with the back flat against a wall. The exerciser slides their arms upward from shoulder height to overhead while maintaining full contact between the back, head, and arms against the wall. This exercise challenges thoracic extension, scapular upward rotation, and shoulder external rotation \u2014 all critical for overhead mobility and shoulder health.",
   "category": "rehabilitation",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -15,54 +18,124 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "teres-minor"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Stand with your back against a flat wall. Press the entire back — including the lower back and head — against the wall. Raise arms to a goal-post position (elbows at 90 degrees, upper arms parallel to floor) with forearms and backs of hands touching the wall.",
+    "starting_position": "Stand with your back against a flat wall. Press the entire back \u2014 including the lower back and head \u2014 against the wall. Raise arms to a goal-post position (elbows at 90 degrees, upper arms parallel to floor) with forearms and backs of hands touching the wall.",
     "setup_instructions": "No equipment needed. Stand against any flat wall. If the lower back cannot contact the wall, slightly bend the knees.",
     "steps": [
       "Step 1: Begin in the goal-post position with head, back, elbows, forearms, and hands all in contact with the wall.",
       "Step 2: Slowly slide both arms upward along the wall, keeping the entire arm in contact with the surface.",
-      "Step 3: Raise as high as possible while maintaining all contact points — stop if the lower back begins to arch away from the wall.",
+      "Step 3: Raise as high as possible while maintaining all contact points \u2014 stop if the lower back begins to arch away from the wall.",
       "Step 4: Slowly slide the arms back down to the starting goal-post position. Repeat."
     ],
     "breathing_instructions": "Inhale to prepare, exhale as you slide the arms upward. Inhale as you return.",
-    "common_mistakes": ["Allowing the lower back to arch away from the wall during the upward slide", "Letting elbows or forearms lose contact with the wall by shrugging", "Forcing range that the thoracic spine does not currently allow"],
-    "safety_considerations": ["This exercise reveals mobility deficits — work within the range that allows full wall contact", "If the head cannot contact the wall, place a small pillow behind the head to close the gap and work toward eliminating it over time"],
+    "common_mistakes": [
+      "Allowing the lower back to arch away from the wall during the upward slide",
+      "Letting elbows or forearms lose contact with the wall by shrugging",
+      "Forcing range that the thoracic spine does not currently allow"
+    ],
+    "safety_considerations": [
+      "This exercise reveals mobility deficits \u2014 work within the range that allows full wall contact",
+      "If the head cannot contact the wall, place a small pillow behind the head to close the gap and work toward eliminating it over time"
+    ],
     "range_of_motion_guidance": "Work only as high as wall contact can be maintained. The goal is eventually to reach full overhead extension with all contact points preserved.",
     "tempo_recommendations": "3-2-3-1 (3s slide up, 2s hold, 3s slide down, 1s reset)",
-    "coaching_cues": ["Press the lower back into the wall throughout — do not let it arch", "Lead with the elbows as you slide up, not the hands", "Breathe out as you reach — relaxing the chest helps overhead mobility"]
+    "coaching_cues": [
+      "Press the lower back into the wall throughout \u2014 do not let it arch",
+      "Lead with the elbows as you slide up, not the hands",
+      "Breathe out as you reach \u2014 relaxing the chest helps overhead mobility"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 8, "max_reps": 15},
-      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 45, "mobility": 60},
-    "training_goals": ["mobility", "endurance"]
+    "rest_periods": {
+      "endurance": 45,
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["scapular", "thoracic", "rehabilitation", "posture", "overhead-mobility"]
+    "tags": [
+      "scapular",
+      "thoracic",
+      "rehabilitation",
+      "posture",
+      "overhead-mobility"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

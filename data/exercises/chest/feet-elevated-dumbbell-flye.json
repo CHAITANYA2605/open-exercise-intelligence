@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e10",
   "slug": "feet-elevated-dumbbell-flye",
   "name": "Feet-Elevated Dumbbell Flye",
-  "alternative_names": ["Decline Dumbbell Fly"],
+  "alternative_names": [
+    "Decline Dumbbell Fly"
+  ],
   "description": "A dumbbell flye performed with the feet elevated on a bench to place the body in a slight decline position, shifting the stretch and contraction emphasis toward the lower and sternal fibers of the pectoralis major. The decline angle changes the direction of force relative to the lower chest muscle fibers, providing targeted isolation of the lower pectoral region.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,17 +17,32 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on a flat bench with feet elevated on a box or second bench. Hold a dumbbell in each hand above the chest, arms extended with a slight elbow bend, palms facing each other.",
@@ -43,7 +60,7 @@
       "Feet slipping off the elevated surface during the set"
     ],
     "safety_considerations": [
-      "Keep elbows slightly bent and fixed — do not straighten them",
+      "Keep elbows slightly bent and fixed \u2014 do not straighten them",
       "Use a conservative weight until the shoulder feels stable in this decline angle"
     ],
     "range_of_motion_guidance": "Open to full stretch where shoulder allows, closing fully at top with dumbbells almost touching.",
@@ -53,26 +70,67 @@
       "Think of your arms as the arms of a clock sweeping from 10 and 2 to 12"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 75, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "fly", "lower-chest", "decline", "isolation"]
+    "tags": [
+      "dumbbell",
+      "fly",
+      "lower-chest",
+      "decline",
+      "isolation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

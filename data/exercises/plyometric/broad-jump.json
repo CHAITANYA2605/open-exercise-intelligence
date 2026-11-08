@@ -72,19 +72,19 @@
     ],
     "breathing_instructions": "Exhale sharply at takeoff. Breathe freely during rest.",
     "common_mistakes": [
-      "Taking off at too steep an angle (too vertical) — optimal projection is approximately 45 degrees",
-      "Not fully extending at takeoff — a partial extension leaves horizontal power on the table",
-      "Landing with stiff legs — this increases injury risk"
+      "Taking off at too steep an angle (too vertical) \u2014 optimal projection is approximately 45 degrees",
+      "Not fully extending at takeoff \u2014 a partial extension leaves horizontal power on the table",
+      "Landing with stiff legs \u2014 this increases injury risk"
     ],
     "safety_considerations": [
       "Ensure the landing zone is clear and has adequate floor space.",
       "Avoid on slippery surfaces."
     ],
     "range_of_motion_guidance": "Full extension at takeoff. Legs reach forward during flight. Soft, two-foot landing.",
-    "tempo_recommendations": "Maximum effort on each rep. 3–5 reps per set, full rest between sets.",
+    "tempo_recommendations": "Maximum effort on each rep. 3\u20135 reps per set, full rest between sets.",
     "coaching_cues": [
-      "Reach with the arms — swing them hard forward",
-      "Extend fully at takeoff — hips, knees, ankles",
+      "Reach with the arms \u2014 swing them hard forward",
+      "Extend fully at takeoff \u2014 hips, knees, ankles",
       "Reach the feet forward in flight"
     ]
   },
@@ -135,6 +135,9 @@
       "horizontal-power",
       "sport",
       "assessment"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

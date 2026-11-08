@@ -7,7 +7,7 @@
     "Thick Bar Deadlift",
     "2-Inch Bar Deadlift"
   ],
-  "description": "The axle bar deadlift uses a straight steel bar with a diameter of approximately 50 mm (2 inches) compared to the standard 28–32 mm Olympic barbell, which increases grip demand dramatically due to the larger circumference that the hand must span. The movement pattern is identical to a conventional barbell deadlift in terms of posterior chain loading, but the grip becomes the primary limiting factor at heavy loads, making it an effective training tool for grip strength development. It is a contested lift in strongman competition alongside the standard deadlift.",
+  "description": "The axle bar deadlift uses a straight steel bar with a diameter of approximately 50 mm (2 inches) compared to the standard 28\u201332 mm Olympic barbell, which increases grip demand dramatically due to the larger circumference that the hand must span. The movement pattern is identical to a conventional barbell deadlift in terms of posterior chain loading, but the grip becomes the primary limiting factor at heavy loads, making it an effective training tool for grip strength development. It is a contested lift in strongman competition alongside the standard deadlift.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -71,7 +71,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet hip-width apart, toes pointing forward or slightly out. The axle bar rests at mid-shin. Grip the bar with a double-overhand grip (straps are permitted in training but not all competitions). Push hips back, chest up, neutral spine.",
-    "setup_instructions": "Note that the axle bar typically does not rotate like an Olympic barbell — the entire bar spins with the hands, which further increases grip demand. Load using bumper plates or standard plates with appropriate diameter.",
+    "setup_instructions": "Note that the axle bar typically does not rotate like an Olympic barbell \u2014 the entire bar spins with the hands, which further increases grip demand. Load using bumper plates or standard plates with appropriate diameter.",
     "steps": [
       "Step 1: Stand with feet hip-width, bar over mid-foot. Hinge the hips back and reach for the bar with a double-overhand grip, hands just outside the legs.",
       "Step 2: Take slack out of the bar by pulling the lats back and down. Brace the core with a full breath (Valsalva).",
@@ -82,18 +82,18 @@
     "breathing_instructions": "Take a full breath into the belly and brace hard before the pull begins. Hold the brace throughout the rep. Exhale at lockout.",
     "common_mistakes": [
       "Attempting a grip-intensive axle deadlift without first developing adequate double-overhand grip strength on a standard barbell",
-      "Opening the fingers during the pull due to grip fatigue — this causes the bar to roll and dramatically increases drop risk",
+      "Opening the fingers during the pull due to grip fatigue \u2014 this causes the bar to roll and dramatically increases drop risk",
       "Rounding the lower back due to the grip failing before the posterior chain"
     ],
     "safety_considerations": [
-      "The bar may slip without warning on heavy loads due to the large diameter — have crash mats or bumper plates and be prepared to drop the bar",
-      "Build to heavy axle deadlift weights gradually — the grip demand exceeds that of a standard barbell at the same absolute weight"
+      "The bar may slip without warning on heavy loads due to the large diameter \u2014 have crash mats or bumper plates and be prepared to drop the bar",
+      "Build to heavy axle deadlift weights gradually \u2014 the grip demand exceeds that of a standard barbell at the same absolute weight"
     ],
     "range_of_motion_guidance": "Full hip extension at lockout. The bar travels from the floor to the hip crease in a straight vertical path.",
-    "tempo_recommendations": "Strength: 1–3 reps × 5–6 sets. Grip conditioning: 5 reps × 4 sets at a moderate load. Rest 3–5 minutes for heavy sets.",
+    "tempo_recommendations": "Strength: 1\u20133 reps \u00d7 5\u20136 sets. Grip conditioning: 5 reps \u00d7 4 sets at a moderate load. Rest 3\u20135 minutes for heavy sets.",
     "coaching_cues": [
       "Squeeze the bar like you are trying to crush it",
-      "Push the floor away — do not think about pulling the bar up",
+      "Push the floor away \u2014 do not think about pulling the bar up",
       "Keep the bar dragging up the shins and thighs"
     ]
   },
@@ -150,6 +150,9 @@
       "grip",
       "axle-bar",
       "posterior-chain"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

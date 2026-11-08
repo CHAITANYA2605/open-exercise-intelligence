@@ -65,11 +65,11 @@
     ],
     "breathing_instructions": "Inhale and brace before descent. Exhale at lockout.",
     "common_mistakes": [
-      "Gripping too wide — the supinated grip places wrists under severe stress if too wide",
+      "Gripping too wide \u2014 the supinated grip places wrists under severe stress if too wide",
       "Trying to use the same load as a standard bench press"
     ],
     "safety_considerations": [
-      "The supinated grip is weaker — reduce load by 20% or more",
+      "The supinated grip is weaker \u2014 reduce load by 20% or more",
       "Discontinue if wrist discomfort arises"
     ],
     "range_of_motion_guidance": "Full touch to lower chest; full elbow extension.",
@@ -124,6 +124,9 @@
       "upper-chest",
       "supinated-grip",
       "smith-machine"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

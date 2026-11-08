@@ -1,12 +1,12 @@
 {
   "exercise_id": "9623c56e-b890-4b30-bb07-f32ac0c8434f",
   "slug": "prowler-push-low",
-  "name": "Prowler Sled Push — Low Handles",
+  "name": "Prowler Sled Push \u2014 Low Handles",
   "alternative_names": [
     "Low Handle Prowler Push",
     "Sled Push Low"
   ],
-  "description": "The low-handle prowler push requires the athlete to grip the lower posts of the sled (near ground level), producing a more horizontal body position that places greater demand on the quadriceps and hip extensors through deep knee bend angles. This position resembles a sprint start and trains explosive leg drive at angles highly specific to sprinting acceleration mechanics. Because the sled push involves no eccentric loading phase, it produces minimal muscle damage while still creating a significant training stimulus — making it an ideal tool for high-frequency conditioning or active recovery at light loads.",
+  "description": "The low-handle prowler push requires the athlete to grip the lower posts of the sled (near ground level), producing a more horizontal body position that places greater demand on the quadriceps and hip extensors through deep knee bend angles. This position resembles a sprint start and trains explosive leg drive at angles highly specific to sprinting acceleration mechanics. Because the sled push involves no eccentric loading phase, it produces minimal muscle damage while still creating a significant training stimulus \u2014 making it an ideal tool for high-frequency conditioning or active recovery at light loads.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -63,31 +63,31 @@
   "equipment_required": [],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Grip the low handles of the prowler sled with both hands. Lean the body forward at approximately 45–60° from vertical. Drive the feet into the floor behind the body in a sprint-start-like position.",
+    "starting_position": "Grip the low handles of the prowler sled with both hands. Lean the body forward at approximately 45\u201360\u00b0 from vertical. Drive the feet into the floor behind the body in a sprint-start-like position.",
     "setup_instructions": "Load the sled to the target weight. Ensure the pushing surface is astroturf, smooth concrete, or appropriate sled surface. Use smooth-soled shoes on turf sleds, training shoes on concrete.",
     "steps": [
       "Step 1: Grip the low handles and position the body in a forward-leaning, athletic push position with arms nearly straight.",
       "Step 2: Drive one foot into the ground forcefully and push the sled forward, then immediately drive the other foot. Quick, alternating leg drive is the goal.",
-      "Step 3: Maintain a rigid body position from the hands through the core to the pushing leg — do not let the hips drop or rise excessively.",
+      "Step 3: Maintain a rigid body position from the hands through the core to the pushing leg \u2014 do not let the hips drop or rise excessively.",
       "Step 4: Push hard for the prescribed distance, maintaining maximum effort throughout.",
       "Step 5: At the end of the distance, slow the sled and release the handles."
     ],
     "breathing_instructions": "Breathe forcefully throughout. Do not hold the breath. Exhale in short, sharp bursts with each push step.",
     "common_mistakes": [
       "Letting the hips rise too high, reducing the low-handle advantage and shifting the load from quads to lower back",
-      "Taking too long, slow strides — fast, short steps generate more power and speed",
-      "Not maintaining a rigid upper body — the core must transmit force from legs to handles without buckling"
+      "Taking too long, slow strides \u2014 fast, short steps generate more power and speed",
+      "Not maintaining a rigid upper body \u2014 the core must transmit force from legs to handles without buckling"
     ],
     "safety_considerations": [
-      "Ensure the surface is appropriate for the sled type — wrong surface combinations damage the sled and create uneven resistance",
+      "Ensure the surface is appropriate for the sled type \u2014 wrong surface combinations damage the sled and create uneven resistance",
       "Check that weight plates are secured before pushing at speed"
     ],
-    "range_of_motion_guidance": "Full leg extension on each push step. Distance per set: 20–40 metres for strength, 40–80 metres for conditioning.",
-    "tempo_recommendations": "Sprint: 20m maximum effort × 6–10 sets. Rest 60–120 seconds. Conditioning: 40m at moderate load × 4–6 sets. Rest 60–90 seconds.",
+    "range_of_motion_guidance": "Full leg extension on each push step. Distance per set: 20\u201340 metres for strength, 40\u201380 metres for conditioning.",
+    "tempo_recommendations": "Sprint: 20m maximum effort \u00d7 6\u201310 sets. Rest 60\u2013120 seconds. Conditioning: 40m at moderate load \u00d7 4\u20136 sets. Rest 60\u201390 seconds.",
     "coaching_cues": [
-      "Hips back, chest forward — stay horizontal",
+      "Hips back, chest forward \u2014 stay horizontal",
       "Drive the foot through the floor with every step",
-      "Push the earth away — do not lean on the sled"
+      "Push the earth away \u2014 do not lean on the sled"
     ]
   },
   "variants": {
@@ -145,6 +145,9 @@
       "conditioning",
       "no-eccentric",
       "speed-strength"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

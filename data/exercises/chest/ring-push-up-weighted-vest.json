@@ -61,7 +61,7 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Put on a weighted vest and secure it comfortably. Set rings low enough for push-up position (15–30 cm off the ground). Get into push-up position with hands in the rings.",
+    "starting_position": "Put on a weighted vest and secure it comfortably. Set rings low enough for push-up position (15\u201330 cm off the ground). Get into push-up position with hands in the rings.",
     "setup_instructions": "Secure the vest before setting up in the ring position. Ensure the vest does not shift during the movement. Set rings at appropriate height. Progress from lighter vest loads, adding 5 kg increments.",
     "steps": [
       "Step 1: Establish a stable plank with hands in rings. The vest distributes additional load across the torso.",
@@ -71,19 +71,19 @@
     ],
     "breathing_instructions": "Inhale on descent, exhale on press.",
     "common_mistakes": [
-      "Vest that shifts or rides up — a poorly fitted vest disrupts balance",
+      "Vest that shifts or rides up \u2014 a poorly fitted vest disrupts balance",
       "Adding too much vest weight before the movement is mastered unweighted",
       "Rings swinging out of control due to inability to stabilize the extra load"
     ],
     "safety_considerations": [
       "Master bodyweight ring push-ups before adding vest weight",
-      "Start with 5–10 kg vest and progress conservatively",
+      "Start with 5\u201310 kg vest and progress conservatively",
       "Have a training partner observe during the first loaded set"
     ],
     "range_of_motion_guidance": "Full push-up range, chest to ring level at the bottom, complete lockout at top.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "Turn the rings outward at the top — this external rotation is a key shoulder safety cue",
+      "Turn the rings outward at the top \u2014 this external rotation is a key shoulder safety cue",
       "Press the rings apart slightly to engage serratus and stabilize the shoulder"
     ]
   },
@@ -142,6 +142,9 @@
       "advanced",
       "chest",
       "gymnastics"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

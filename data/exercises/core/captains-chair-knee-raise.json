@@ -72,13 +72,13 @@
       "Not curling the pelvis at the top, which limits rectus abdominis involvement"
     ],
     "safety_considerations": [
-      "Avoid if shoulder or elbow pain is present — the forearm support places demand on the shoulder girdle"
+      "Avoid if shoulder or elbow pain is present \u2014 the forearm support places demand on the shoulder girdle"
     ],
-    "range_of_motion_guidance": "Knees travel from straight hanging to above hip level — ideally with the thighs at or above horizontal.",
+    "range_of_motion_guidance": "Knees travel from straight hanging to above hip level \u2014 ideally with the thighs at or above horizontal.",
     "tempo_recommendations": "2-1-2-0. Controlled throughout. No swinging.",
     "coaching_cues": [
       "Curl the pelvis under at the top",
-      "No swinging — control the descent"
+      "No swinging \u2014 control the descent"
     ]
   },
   "variants": {
@@ -132,6 +132,9 @@
       "abs",
       "hip-flexors",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-11-08T00:00:00Z",
+  "categories": [
+    {
+      "id": "strength",
+      "label": "Strength",
+      "description": "Resistance training focused on muscular strength development",
+      "exercise_count": 688
+    },
+    {
+      "id": "rehabilitation",
+      "label": "Rehabilitation",
+      "description": "Therapeutic exercises for injury recovery and corrective movement",
+      "exercise_count": 82
+    },
+    {
+      "id": "stretching",
+      "label": "Stretching",
+      "description": "Static and dynamic stretching for muscle lengthening",
+      "exercise_count": 24
+    },
+    {
+      "id": "flexibility",
+      "label": "Flexibility",
+      "description": "Exercises improving range of motion and joint mobility",
+      "exercise_count": 21
+    },
+    {
+      "id": "functional",
+      "label": "Functional",
+      "description": "Movement patterns that transfer to daily activities and sport",
+      "exercise_count": 18
+    },
+    {
+      "id": "plyometric",
+      "label": "Plyometric",
+      "description": "Explosive power training using the stretch-shortening cycle",
+      "exercise_count": 16
+    },
+    {
+      "id": "cardio",
+      "label": "Cardio",
+      "description": "Cardiovascular conditioning and aerobic endurance exercises",
+      "exercise_count": 12
+    },
+    {
+      "id": "power",
+      "label": "Power",
+      "description": "Olympic and ballistic movements focused on rate of force development",
+      "exercise_count": 3
+    },
+    {
+      "id": "mobility",
+      "label": "Mobility",
+      "description": "Active range of motion work combining flexibility and stability",
+      "exercise_count": 2
+    }
+  ]
+}

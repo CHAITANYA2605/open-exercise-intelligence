@@ -67,7 +67,7 @@
     "starting_position": "Set the safety pins inside a power rack so the bar rests at knee height or just below. Load the barbell heavier than your conventional deadlift working weight. Stand with feet hip-width apart, the bar over mid-foot.",
     "setup_instructions": "Set rack pin height to place the bar at or just below knee level. Use a standard barbell and load it heavier than you would for a full deadlift. Use a double overhand or mixed grip.",
     "steps": [
-      "Step 1: Hinge at the hips and grasp the bar with the chosen grip. Set the back — neutral spine, braced core.",
+      "Step 1: Hinge at the hips and grasp the bar with the chosen grip. Set the back \u2014 neutral spine, braced core.",
       "Step 2: Take a large breath into the belly, brace the core hard.",
       "Step 3: Drive through the floor with the legs while pulling the bar up the shins and thighs.",
       "Step 4: Lock out at the top by driving the hips forward and squeezing the glutes.",
@@ -75,20 +75,20 @@
     ],
     "breathing_instructions": "Inhale and brace before each rep. Exhale at the top after lockout.",
     "common_mistakes": [
-      "Rounding the upper back under the heavy load — prioritize a stiff, braced torso",
+      "Rounding the upper back under the heavy load \u2014 prioritize a stiff, braced torso",
       "Hyperextending at lockout rather than achieving a neutral spine with glute contraction",
       "Letting the bar drift away from the body during the pull"
     ],
     "safety_considerations": [
-      "Use a controlled negative — do not drop the bar onto the pins from height unless using bumper plates and appropriate flooring",
-      "Rack pulls with very heavy loads demand excellent core bracing — do not perform when fatigued"
+      "Use a controlled negative \u2014 do not drop the bar onto the pins from height unless using bumper plates and appropriate flooring",
+      "Rack pulls with very heavy loads demand excellent core bracing \u2014 do not perform when fatigued"
     ],
     "range_of_motion_guidance": "From pin height (knee level) to full lockout. This is intentionally partial range.",
-    "tempo_recommendations": "Controlled concentric, full lockout hold for 1s, controlled 2–3s eccentric to pins.",
+    "tempo_recommendations": "Controlled concentric, full lockout hold for 1s, controlled 2\u20133s eccentric to pins.",
     "coaching_cues": [
       "Push the floor away, do not think of it as a pure pull",
       "Keep the bar dragging up the thighs",
-      "Squeeze the glutes to lock out — do not lean back"
+      "Squeeze the glutes to lock out \u2014 do not lean back"
     ]
   },
   "variants": {
@@ -150,6 +150,9 @@
       "partial",
       "overload",
       "upper-back"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

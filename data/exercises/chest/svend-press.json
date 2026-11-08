@@ -69,7 +69,7 @@
       "Allowing the elbows to bend rather than pressing straight forward"
     ],
     "safety_considerations": [
-      "Very light loads are appropriate — this is a finishing exercise, not a primary mover",
+      "Very light loads are appropriate \u2014 this is a finishing exercise, not a primary mover",
       "Avoid if shoulder impingement is present"
     ],
     "range_of_motion_guidance": "Arms extend fully forward to shoulder height; return to light chest contact.",
@@ -124,6 +124,9 @@
       "inner-chest",
       "finisher",
       "adduction"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

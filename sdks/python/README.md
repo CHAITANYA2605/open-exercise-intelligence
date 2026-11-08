@@ -7,8 +7,13 @@ Official Python SDK for the [Open Exercise Intelligence](https://github.com/CHAI
 
 ## Installation
 
+> **Package not yet published to registry — see local installation below.**
+
 ```bash
-pip install oei-exercise-sdk
+# Clone the repository and install the SDK from source:
+git clone https://github.com/CHAITANYA2605/open-exercise-intelligence.git
+cd open-exercise-intelligence/sdks/python
+pip install -e .
 ```
 
 ## Quick Start

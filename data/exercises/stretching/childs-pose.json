@@ -51,22 +51,22 @@
       "Step 2: Sit the hips back toward the heels.",
       "Step 3: Extend both arms forward on the floor as far as possible, lowering the chest toward the floor.",
       "Step 4: Rest the forehead on the floor or a cushion.",
-      "Step 5: Hold 60–120 seconds, breathing deeply into the back body."
+      "Step 5: Hold 60\u2013120 seconds, breathing deeply into the back body."
     ],
     "breathing_instructions": "Breathe deeply. On each inhale, feel the ribcage expand sideways and upward. On each exhale, allow the body to sink more completely into the position.",
     "common_mistakes": [
-      "Keeping the knees together, which limits hip comfort — wider knees are more accommodating for most people",
+      "Keeping the knees together, which limits hip comfort \u2014 wider knees are more accommodating for most people",
       "Not allowing the arms to extend fully overhead, limiting the lat stretch",
-      "Tensing the neck — allow the head to rest completely"
+      "Tensing the neck \u2014 allow the head to rest completely"
     ],
     "safety_considerations": [
       "If knee discomfort is present, place padding under the knees or avoid if severe",
       "Those with ankle mobility limitations may need a rolled towel under the ankles"
     ],
     "range_of_motion_guidance": "Extend the arms as far forward as comfortable and allow the forehead to rest on the floor.",
-    "tempo_recommendations": "Hold 60–120 seconds. 1–3 rounds.",
+    "tempo_recommendations": "Hold 60\u2013120 seconds. 1\u20133 rounds.",
     "coaching_cues": [
-      "Let gravity do the work — just breathe and release",
+      "Let gravity do the work \u2014 just breathe and release",
       "Walk your fingers further away from your body on each exhale",
       "Allow the shoulder blades to spread apart"
     ]
@@ -119,6 +119,9 @@
       "lower-back",
       "beginner",
       "recovery"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

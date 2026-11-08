@@ -78,7 +78,7 @@
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
       "Think 'elbows back' as you descend to maximize tricep engagement",
-      "Keep the torso rigid — imagine a straight rod from crown to heel"
+      "Keep the torso rigid \u2014 imagine a straight rod from crown to heel"
     ]
   },
   "variants": {
@@ -156,6 +156,9 @@
       "triceps",
       "bodyweight",
       "intermediate"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

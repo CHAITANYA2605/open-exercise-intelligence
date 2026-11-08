@@ -62,7 +62,7 @@
       "Step 1: Press one arm forward to full extension.",
       "Step 2: Return to starting position under control.",
       "Step 3: Complete all reps on one side, then switch.",
-      "Step 4: Resist the rotation created by the unilateral load — keep torso square."
+      "Step 4: Resist the rotation created by the unilateral load \u2014 keep torso square."
     ],
     "breathing_instructions": "Exhale on each press. Inhale on return.",
     "common_mistakes": [
@@ -76,7 +76,7 @@
     "range_of_motion_guidance": "Full extension; full return to deep stretch on working side.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Fight the rotation — keep both hips and shoulders square",
+      "Fight the rotation \u2014 keep both hips and shoulders square",
       "Feel the working pec from stretch to squeeze"
     ]
   },
@@ -125,6 +125,9 @@
       "unilateral",
       "machine",
       "imbalance-correction"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

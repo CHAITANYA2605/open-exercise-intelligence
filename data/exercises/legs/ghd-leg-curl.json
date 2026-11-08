@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0026-4000-a000-100000000026",
   "slug": "ghd-leg-curl",
   "name": "Glute-Ham Developer GHD Leg Curl",
-  "alternative_names": ["GHD Hamstring Curl", "Glute-Ham Raise"],
+  "alternative_names": [
+    "GHD Hamstring Curl",
+    "Glute-Ham Raise"
+  ],
   "description": "The glute-ham developer leg curl is performed on a GHD machine where the feet are secured in the foot plates and the thigh pads support the lower thighs. The lifter performs knee flexion to bring the torso upright from a prone extended position, working the hamstrings both as a knee flexor and hip extensor simultaneously. This makes the GHD curl unique in its ability to train the hamstrings through both their functions in one movement.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
-      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000040-0000-4000-a000-000000000040"],
+  "equipment_required": [
+    "eq000040-0000-4000-a000-000000000040"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set the GHD machine so the thigh pads rest just above the knees. Secure the feet in the foot plates. Begin with the body extended downward, hands at chest for safety.",
@@ -40,32 +66,85 @@
       "Step 4: Lower slowly back to the starting position by extending the knees under control."
     ],
     "breathing_instructions": "Exhale on the curl up, inhale on the controlled descent.",
-    "common_mistakes": ["Using the lower back (hip extension) to compensate for weak hamstrings", "Dropping too fast on the eccentric", "Insufficient foot plate pressure"],
-    "safety_considerations": ["Extremely demanding — master the Nordic hamstring curl before progressing here", "Use hands to assist if needed in early training"],
+    "common_mistakes": [
+      "Using the lower back (hip extension) to compensate for weak hamstrings",
+      "Dropping too fast on the eccentric",
+      "Insufficient foot plate pressure"
+    ],
+    "safety_considerations": [
+      "Extremely demanding \u2014 master the Nordic hamstring curl before progressing here",
+      "Use hands to assist if needed in early training"
+    ],
     "range_of_motion_guidance": "Full extension at the start (body near horizontal), full flexion with torso erect at the top.",
     "tempo_recommendations": "2-0-4-0 (explosive curl, controlled 4s eccentric)",
-    "coaching_cues": ["Drive the toes into the plate", "Hamstrings pull you up — not your back", "Control the descent"]
+    "coaching_cues": [
+      "Drive the toes into the plate",
+      "Hamstrings pull you up \u2014 not your back",
+      "Control the descent"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120},
-    "training_goals": ["strength", "hypertrophy", "power"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hamstring", "GHD", "advanced", "compound"]
+    "tags": [
+      "hamstring",
+      "GHD",
+      "advanced",
+      "compound"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

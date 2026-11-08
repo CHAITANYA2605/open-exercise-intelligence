@@ -2,7 +2,10 @@
   "exercise_id": "e7ae9b21-a39b-4622-b545-27a6a2216f3e",
   "slug": "meadows-row-thick-bar",
   "name": "Meadows Row with Thick Bar Grip",
-  "alternative_names": ["Fat Grip Meadows Row", "Thick Grip Landmine Row"],
+  "alternative_names": [
+    "Fat Grip Meadows Row",
+    "Thick Grip Landmine Row"
+  ],
   "description": "The thick-bar Meadows row wraps a fat grip attachment or towel around the barbell end to increase the grip diameter, amplifying forearm and grip strength demands alongside the standard Meadows row benefits. The larger diameter requires greater finger flexor engagement and reduces grip endurance, making it an effective combined lat and forearm training variation.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +18,41 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000040-0000-4000-a000-000000000040"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000040-0000-4000-a000-000000000040"
+  ],
   "execution": {
     "starting_position": "Wrap a fat grip or towel around the barbell end secured in a landmine unit. Stagger the feet with the working-side foot forward. Hinge at the hips and grasp the thick bar end.",
-    "setup_instructions": "Fat grip adapters (marketed under various brand names) can be slid onto bar sleeves. A folded gym towel is a free alternative that also increases challenge. Load the bar appropriately — the grip will fatigue before the back does.",
+    "setup_instructions": "Fat grip adapters (marketed under various brand names) can be slid onto bar sleeves. A folded gym towel is a free alternative that also increases challenge. Load the bar appropriately \u2014 the grip will fatigue before the back does.",
     "steps": [
       "Step 1: Establish the staggered hinge position and grip the thick bar firmly.",
       "Step 2: Depress the shoulder blade of the working side.",
@@ -40,12 +62,12 @@
     ],
     "breathing_instructions": "Exhale on the row. Inhale lowering.",
     "common_mistakes": [
-      "Dropping the grip before the back fatigues — increase grip work separately to extend sets",
+      "Dropping the grip before the back fatigues \u2014 increase grip work separately to extend sets",
       "Pulling toward the chest rather than the hip"
     ],
     "safety_considerations": [
       "Ensure the fat grip is fully seated on the bar and cannot slip",
-      "Maintain neutral wrist alignment — do not flex or extend excessively with the thick grip"
+      "Maintain neutral wrist alignment \u2014 do not flex or extend excessively with the thick grip"
     ],
     "range_of_motion_guidance": "Full arm extension to elbow above torso.",
     "tempo_recommendations": "1-1-2-0",
@@ -64,22 +86,53 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 6, "max_reps": 10 },
-      { "goal": "grip", "min_reps": 10, "max_reps": 15 }
+      {
+        "goal": "strength",
+        "min_reps": 6,
+        "max_reps": 10
+      },
+      {
+        "goal": "grip",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "strength": 120 },
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["landmine", "row", "thick-bar", "grip", "unilateral"]
+    "tags": [
+      "landmine",
+      "row",
+      "thick-bar",
+      "grip",
+      "unilateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

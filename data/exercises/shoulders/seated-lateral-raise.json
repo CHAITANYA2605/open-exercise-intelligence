@@ -57,9 +57,9 @@
     ],
     "breathing_instructions": "Exhale as you raise, inhale as you lower.",
     "common_mistakes": [
-      "Using momentum — rocking the torso or bouncing the dumbbells",
+      "Using momentum \u2014 rocking the torso or bouncing the dumbbells",
       "Raising the dumbbells in front rather than directly to the side",
-      "Shrugging the traps — keep the neck long"
+      "Shrugging the traps \u2014 keep the neck long"
     ],
     "safety_considerations": [
       "Keep the neck relaxed to avoid trap compensation"
@@ -69,7 +69,7 @@
     "coaching_cues": [
       "Pour from a pitcher at the top",
       "Lead with the elbows, not the hands",
-      "No body movement — just arms"
+      "No body movement \u2014 just arms"
     ]
   },
   "variants": {
@@ -119,6 +119,9 @@
       "dumbbell",
       "isolation",
       "medial-deltoid"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

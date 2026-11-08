@@ -56,7 +56,7 @@
   ],
   "execution": {
     "starting_position": "Attach a single D-handle to a lat pulldown machine or high pulley. Sit or kneel facing the machine and grasp the handle with one hand, arm fully extended overhead.",
-    "setup_instructions": "Attach a D-handle to the high pulley. Sit at the machine or kneel on the floor. Set an appropriate weight — typically less than half the bilateral pulldown weight.",
+    "setup_instructions": "Attach a D-handle to the high pulley. Sit at the machine or kneel on the floor. Set an appropriate weight \u2014 typically less than half the bilateral pulldown weight.",
     "steps": [
       "Step 1: Begin with the working arm fully extended, lat on stretch, allowing a slight lateral lean away from the cable.",
       "Step 2: Depress the shoulder blade of the working side and initiate the pull.",
@@ -77,7 +77,7 @@
     "tempo_recommendations": "2-1-3-0 (slow eccentric to maximize lat stretch)",
     "coaching_cues": [
       "Imagine trying to put the handle in your front pocket",
-      "Let your shoulder reach for the ceiling at the top — full stretch",
+      "Let your shoulder reach for the ceiling at the top \u2014 full stretch",
       "Drive the elbow, not the hand"
     ]
   },
@@ -140,6 +140,9 @@
       "cable",
       "lat",
       "isolation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

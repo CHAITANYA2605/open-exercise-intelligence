@@ -2,7 +2,10 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50007",
   "slug": "thoracic-foam-roller-arm-sweeps",
   "name": "Thoracic Foam Roller Extension with Arm Sweeps",
-  "alternative_names": ["Foam Roller T-Spine Arm Sweep", "Active Thoracic Roller Mobilization"],
+  "alternative_names": [
+    "Foam Roller T-Spine Arm Sweep",
+    "Active Thoracic Roller Mobilization"
+  ],
   "description": "A dynamic progression of the passive thoracic extension over a foam roller that adds active arm sweeps. While draped over the roller in thoracic extension, the exerciser sweeps both arms overhead and back in a controlled arc, adding active thoracic mobilization and latissimus dorsi stretching to the passive extension component. The arm sweep increases the range demands at each thoracic segment and trains active control of the newly gained mobility.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,16 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Position the foam roller perpendicular under the mid-thoracic spine. Support the head. Begin with arms crossed over the chest.",
@@ -35,27 +52,74 @@
       "Step 3: Hold the overhead reach for 2-3 seconds, feeling the combined thoracic extension and lat stretch.",
       "Step 4: Sweep the arms back to the chest. Repeat 5-8 times on each thoracic segment before moving the roller."
     ],
-    "breathing_instructions": "Exhale as you sweep the arms overhead — this assists thoracic opening. Inhale as you return.",
-    "common_mistakes": ["Moving the roller before the arm sweep — the sweep should deepen the mobilization at each level before moving on", "Forcing overhead range that is not available — only reach as far as comfortable", "Letting the lower back extend — the lumbar spine should not arch over the roller"],
-    "safety_considerations": ["Avoid if shoulder pain increases with overhead movement", "Osteoporosis or vertebral fracture history — consult a physiotherapist"],
+    "breathing_instructions": "Exhale as you sweep the arms overhead \u2014 this assists thoracic opening. Inhale as you return.",
+    "common_mistakes": [
+      "Moving the roller before the arm sweep \u2014 the sweep should deepen the mobilization at each level before moving on",
+      "Forcing overhead range that is not available \u2014 only reach as far as comfortable",
+      "Letting the lower back extend \u2014 the lumbar spine should not arch over the roller"
+    ],
+    "safety_considerations": [
+      "Avoid if shoulder pain increases with overhead movement",
+      "Osteoporosis or vertebral fracture history \u2014 consult a physiotherapist"
+    ],
     "range_of_motion_guidance": "Arms sweep to whatever overhead range is comfortable. The thoracic extension and arm sweep combine to create a greater total stretch than either alone.",
     "tempo_recommendations": "2s arm sweep overhead, 2s hold, 2s return. 5-8 reps per thoracic level.",
-    "coaching_cues": ["Breathe out as the arms go overhead — the exhale helps the chest open", "Reach long through the fingertips on the sweep", "Feel the stretch from your hips through your armpits to your fingertips on the overhead position"]
+    "coaching_cues": [
+      "Breathe out as the arms go overhead \u2014 the exhale helps the chest open",
+      "Reach long through the fingertips on the sweep",
+      "Feel the stretch from your hips through your armpits to your fingertips on the overhead position"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "mobility", "min_reps": 5, "max_reps": 8}],
-    "recommended_set_ranges": [{"goal": "mobility", "min_sets": 1, "max_sets": 2}],
-    "rest_periods": {"mobility": 30},
-    "training_goals": ["mobility"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 8
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
+    ],
+    "rest_periods": {
+      "mobility": 30
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["thoracic", "foam-roller", "stretching", "latissimus", "overhead"]
+    "tags": [
+      "thoracic",
+      "foam-roller",
+      "stretching",
+      "latissimus",
+      "overhead"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

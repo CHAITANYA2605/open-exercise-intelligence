@@ -71,7 +71,7 @@
       "Using momentum by rocking the torso"
     ],
     "safety_considerations": [
-      "Never pull behind the head — always pull to the front of the chest",
+      "Never pull behind the head \u2014 always pull to the front of the chest",
       "Maintain a neutral or slightly arched lumbar spine throughout"
     ],
     "range_of_motion_guidance": "Full extension at the top to the bar reaching the upper chest at the bottom.",
@@ -153,6 +153,9 @@
       "lat",
       "v-bar",
       "close-grip"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

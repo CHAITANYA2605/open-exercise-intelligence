@@ -2,7 +2,9 @@
   "exercise_id": "e1f2a3b4-c5d6-4e7f-8a9b-c0d1e2f3a411",
   "slug": "smith-machine-bench-press",
   "name": "Smith Machine Bench Press",
-  "alternative_names": ["Smith Bench Press"],
+  "alternative_names": [
+    "Smith Bench Press"
+  ],
   "description": "The Smith machine bench press is a horizontal pressing exercise performed on a Smith machine, where the barbell is fixed within vertical or slightly angled rails. The constrained bar path reduces the demand on stabilizing muscles and allows safer solo training for pressing, though it alters the natural bar path compared to a free barbell. Useful for beginners, solo training, and specific overloading techniques.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +17,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000006-0000-4000-a000-000000000006", "eq000015-0000-4000-a000-000000000015"],
-  "equipment_optional": ["eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000006-0000-4000-a000-000000000006",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "execution": {
     "starting_position": "Position a flat bench inside the Smith machine. Lie on the bench so the bar is directly above the mid-chest. Grip the bar slightly wider than shoulder-width. Rotate the bar to disengage the hooks.",
-    "setup_instructions": "Adjust bench position so that the bar tracks over the mid-chest when lowered. Set the safety hooks at a height 1–2 inches above the chest as a fail-safe.",
+    "setup_instructions": "Adjust bench position so that the bar tracks over the mid-chest when lowered. Set the safety hooks at a height 1\u20132 inches above the chest as a fail-safe.",
     "steps": [
       "Step 1: Lie on the bench under the Smith machine bar. Grip the bar wider than shoulder-width with an overhand grip.",
       "Step 2: Rotate the bar to release it from the hooks. Extend arms to hold the bar above the chest.",
@@ -45,43 +70,95 @@
     ],
     "safety_considerations": [
       "Always set safety hooks before beginning to protect against failure",
-      "Some Smith machines have an angled track — position accordingly"
+      "Some Smith machines have an angled track \u2014 position accordingly"
     ],
     "range_of_motion_guidance": "Lower bar to touch the chest, then press to full extension.",
     "tempo_recommendations": "2-0-2-0",
     "coaching_cues": [
-      "Maintain a natural arch in the lower back — do not flatten excessively",
+      "Maintain a natural arch in the lower back \u2014 do not flatten excessively",
       "Drive through the mid-foot to maintain leg drive even on the bench"
     ]
   },
   "variants": {
     "easier": [],
-    "harder": ["barbell-bench-press"],
+    "harder": [
+      "barbell-bench-press"
+    ],
     "unilateral": [],
-    "bilateral": ["barbell-bench-press", "dumbbell-bench-press"],
-    "equipment_alternatives": ["barbell-bench-press", "machine-chest-press"]
+    "bilateral": [
+      "barbell-bench-press",
+      "dumbbell-bench-press"
+    ],
+    "equipment_alternatives": [
+      "barbell-bench-press",
+      "machine-chest-press"
+    ]
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90, "endurance": 45},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["smith-machine", "chest", "press", "compound"]
+    "tags": [
+      "smith-machine",
+      "chest",
+      "press",
+      "compound"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

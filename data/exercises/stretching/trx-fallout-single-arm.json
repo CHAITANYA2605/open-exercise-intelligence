@@ -1,8 +1,11 @@
 {
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50019",
   "slug": "trx-fallout-single-arm",
-  "name": "TRX Fallout — Single Arm",
-  "alternative_names": ["Single-Arm TRX Rollout", "Unilateral TRX Fallout"],
+  "name": "TRX Fallout \u2014 Single Arm",
+  "alternative_names": [
+    "Single-Arm TRX Rollout",
+    "Unilateral TRX Fallout"
+  ],
   "description": "A single-arm variation of the TRX fallout that adds an anti-rotation challenge to the anti-extension demand. Using one arm, the exerciser must resist both forward extension and lateral rotation of the torso, dramatically increasing the oblique and contralateral lat demand. This unilateral variation is used in advanced core training and rotation sport preparation.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,21 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
-    "stabilizers": [{"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}]
+    "stabilizers": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
+    ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hold both TRX handles in one hand (or use a single-handle attachment). Face away from the anchor. Lean forward at an angle, one arm extended forward with the TRX.",
-    "setup_instructions": "Master the bilateral TRX fallout first. Start with a significantly more upright angle than the bilateral version — single-arm demands are substantially higher.",
+    "setup_instructions": "Master the bilateral TRX fallout first. Start with a significantly more upright angle than the bilateral version \u2014 single-arm demands are substantially higher.",
     "steps": [
       "Step 1: Hold the TRX single handle and face away from anchor. Establish a rigid plank with the working arm extended forward.",
       "Step 2: Allow the working arm to fall overhead, resisting both the forward extension and the rotation toward the working side.",
@@ -37,26 +62,73 @@
       "Step 4: Pull back to the starting position. Complete all reps on one side, then switch."
     ],
     "breathing_instructions": "Inhale as you extend overhead. Exhale as you pull back.",
-    "common_mistakes": ["Rotating toward the working arm — the core must resist this rotation", "Using too steep a lean angle before the movement is mastered", "Rushing the movement — slow and controlled is essential"],
-    "safety_considerations": ["This is a high-demand exercise — only attempt after mastering bilateral TRX fallout", "Shoulder discomfort in the extreme overhead position warrants reducing range"],
+    "common_mistakes": [
+      "Rotating toward the working arm \u2014 the core must resist this rotation",
+      "Using too steep a lean angle before the movement is mastered",
+      "Rushing the movement \u2014 slow and controlled is essential"
+    ],
+    "safety_considerations": [
+      "This is a high-demand exercise \u2014 only attempt after mastering bilateral TRX fallout",
+      "Shoulder discomfort in the extreme overhead position warrants reducing range"
+    ],
     "range_of_motion_guidance": "Extend as far overhead as the core can hold with no torso rotation and no hip drop.",
     "tempo_recommendations": "3s fallout, 1s hold, 2s pull back.",
-    "coaching_cues": ["Don't rotate — the torso faces the floor throughout the entire movement", "Squeeze the opposite glute harder as the arm extends further", "Think of the return as pulling the floor toward you with your lat"]
+    "coaching_cues": [
+      "Don't rotate \u2014 the torso faces the floor throughout the entire movement",
+      "Squeeze the opposite glute harder as the arm extends further",
+      "Think of the return as pulling the floor toward you with your lat"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "strength", "min_reps": 4, "max_reps": 8}],
-    "recommended_set_ranges": [{"goal": "strength", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"strength": 60},
-    "training_goals": ["strength"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "TRX", "anti-rotation", "anti-extension", "unilateral"]
+    "tags": [
+      "core",
+      "TRX",
+      "anti-rotation",
+      "anti-extension",
+      "unilateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

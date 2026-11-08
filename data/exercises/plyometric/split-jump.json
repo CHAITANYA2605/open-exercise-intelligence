@@ -57,12 +57,12 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Begin in a lunge position — right foot forward, left foot back, both knees bent approximately 90 degrees.",
+    "starting_position": "Begin in a lunge position \u2014 right foot forward, left foot back, both knees bent approximately 90 degrees.",
     "setup_instructions": "No equipment needed. Ensure adequate space and a non-slip surface.",
     "steps": [
       "Step 1: Begin in a lunge position with the right foot forward.",
       "Step 2: Explosively drive off both feet, jumping as high as possible.",
-      "Step 3: Switch legs in the air — left foot comes forward, right foot goes back.",
+      "Step 3: Switch legs in the air \u2014 left foot comes forward, right foot goes back.",
       "Step 4: Land in the opposite lunge (left foot forward) and absorb through the ankle, knee, and hip.",
       "Step 5: Immediately jump again, switching legs back to the starting configuration."
     ],
@@ -73,13 +73,13 @@
       "Collapsing the front knee inward on landing"
     ],
     "safety_considerations": [
-      "High knee stress — ensure good knee tracking in the sagittal plane.",
+      "High knee stress \u2014 ensure good knee tracking in the sagittal plane.",
       "Regress to static lunges then alternating reverse lunges before adding the jump."
     ],
-    "range_of_motion_guidance": "Full lunge depth on landing — front thigh approaching parallel to floor. Full extension at takeoff.",
-    "tempo_recommendations": "Continuous alternating jumps. 10–20 reps (5–10 per leg) for conditioning; 6–10 for power.",
+    "range_of_motion_guidance": "Full lunge depth on landing \u2014 front thigh approaching parallel to floor. Full extension at takeoff.",
+    "tempo_recommendations": "Continuous alternating jumps. 10\u201320 reps (5\u201310 per leg) for conditioning; 6\u201310 for power.",
     "coaching_cues": [
-      "Drive up — then switch",
+      "Drive up \u2014 then switch",
       "Land in a controlled lunge",
       "Front knee stays over the toes"
     ]
@@ -142,6 +142,9 @@
       "power",
       "lunge",
       "alternating"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

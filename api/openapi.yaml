@@ -19,8 +19,8 @@ info:
     url: https://opensource.org/licenses/MIT
 
 servers:
-  - url: http://localhost:3000/v1
-    description: Local development server
+  - url: http://localhost:8080/v1
+    description: Local development server (Spring Boot)
 
 tags:
   - name: exercises
@@ -51,7 +51,7 @@ paths:
           in: query
           schema:
             type: string
-            enum: [strength, cardio, flexibility, balance, plyometric, sport, rehabilitation, functional, stretching, olympic]
+            enum: [strength, cardio, flexibility, functional, plyometric, power, mobility, rehabilitation, stretching]
         - name: difficulty_level
           in: query
           schema:

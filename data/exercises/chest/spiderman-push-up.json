@@ -81,7 +81,7 @@
     "tempo_recommendations": "2-0-1-0",
     "coaching_cues": [
       "Touch knee to elbow at the bottom",
-      "Keep the hips level — don't let them swing",
+      "Keep the hips level \u2014 don't let them swing",
       "One smooth movement: down and knee out, up and leg back"
     ]
   },
@@ -147,6 +147,9 @@
       "core",
       "hip-flexor",
       "dynamic"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

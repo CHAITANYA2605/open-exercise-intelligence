@@ -76,20 +76,20 @@
     ],
     "breathing_instructions": "Exhale sharply at hip drive. Inhale on the descent.",
     "common_mistakes": [
-      "Letting the bell loop away from the body — keep it tight on the way up",
-      "Punching late — if timed wrong, the bell flips over and bangs the wrist",
+      "Letting the bell loop away from the body \u2014 keep it tight on the way up",
+      "Punching late \u2014 if timed wrong, the bell flips over and bangs the wrist",
       "Not locking out the elbow fully overhead"
     ],
     "safety_considerations": [
-      "Wrist impact during the punch-through phase is a common beginner hazard — use lighter weight until timing is established.",
+      "Wrist impact during the punch-through phase is a common beginner hazard \u2014 use lighter weight until timing is established.",
       "Shoulder instability contraindicates this exercise."
     ],
     "range_of_motion_guidance": "Full hip extension at drive. Full elbow lockout overhead. Full controlled descent.",
-    "tempo_recommendations": "5–10 reps per arm. Used in timed sets (5–10 minutes) in kettlebell sport.",
+    "tempo_recommendations": "5\u201310 reps per arm. Used in timed sets (5\u201310 minutes) in kettlebell sport.",
     "coaching_cues": [
-      "Tight arc — bell stays close",
+      "Tight arc \u2014 bell stays close",
       "Punch through at the top",
-      "Lock out — pause — then descend"
+      "Lock out \u2014 pause \u2014 then descend"
     ]
   },
   "variants": {
@@ -153,6 +153,9 @@
       "overhead",
       "unilateral",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

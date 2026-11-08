@@ -72,12 +72,12 @@
     ],
     "safety_considerations": [
       "If shoulder pain is felt, reduce the range of motion or see a professional before continuing",
-      "Do not go behind head with handles — keep press in front plane"
+      "Do not go behind head with handles \u2014 keep press in front plane"
     ],
     "range_of_motion_guidance": "Press to full arm extension overhead; return handles to ear/shoulder level.",
     "tempo_recommendations": "2-0-2-0",
     "coaching_cues": [
-      "Keep the rib cage down — don't flare it upward as you press",
+      "Keep the rib cage down \u2014 don't flare it upward as you press",
       "Press straight up, not forward"
     ]
   },
@@ -160,6 +160,9 @@
       "press",
       "beginner",
       "overhead"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

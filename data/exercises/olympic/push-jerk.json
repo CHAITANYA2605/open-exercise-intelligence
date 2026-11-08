@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-f009-4000-a000-000000000209",
   "slug": "push-jerk",
   "name": "Push Jerk",
-  "alternative_names": ["Power Jerk", "Push Jerk"],
+  "alternative_names": [
+    "Power Jerk",
+    "Push Jerk"
+  ],
   "description": "The push jerk is a jerk variation in which the athlete catches the bar in a partial squat with both feet on the same line, as opposed to the split jerk's forward-and-back split stance. The dip-drive mechanics are identical to the split jerk but the catch requires the athlete to drop straight down rather than splitting. It is a useful accessory movement for overhead stability development and is often used as a teaching drill for the split jerk.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,28 +18,55 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Bar in front rack position on shoulders. Feet hip-width apart, torso vertical.",
     "setup_instructions": "Same starting position as the split jerk. Taken from a clean or the rack.",
     "steps": [
       "Step 1: Stand with the bar in the front rack, torso upright.",
-      "Step 2: Dip straight down — small controlled knee bend with vertical torso.",
+      "Step 2: Dip straight down \u2014 small controlled knee bend with vertical torso.",
       "Step 3: Drive upward explosively, pressing the bar off the shoulders.",
       "Step 4: Drop the hips straight down to catch the bar overhead in a partial squat, locking the elbows.",
       "Step 5: Stand to full extension while maintaining the locked overhead position."
@@ -54,9 +84,9 @@
     "range_of_motion_guidance": "Full overhead lockout with elbows extended. Catch in a stable partial squat, feet flat.",
     "tempo_recommendations": "Explosive drive, fast catch, controlled stand.",
     "coaching_cues": [
-      "Drive up — then drop straight down",
+      "Drive up \u2014 then drop straight down",
       "Lock out the elbows fast in the catch",
-      "Dip straight — spine stays vertical"
+      "Dip straight \u2014 spine stays vertical"
     ]
   },
   "variants": {
@@ -68,23 +98,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "power", "min_reps": 1, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "power", "min_sets": 3, "max_sets": 6}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"strength": 180, "power": 180},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 180,
+      "power": 180
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic", "weightlifting", "jerk", "power", "advanced"]
+    "tags": [
+      "olympic",
+      "weightlifting",
+      "jerk",
+      "power",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

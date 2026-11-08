@@ -2,7 +2,10 @@
   "exercise_id": "896bb7fd-1fbf-4d48-bbe2-31947f7891bc",
   "slug": "kroc-row-strict-pause",
   "name": "Kroc Row with Strict Pause",
-  "alternative_names": ["Paused Kroc Row", "Heavy Dumbbell Row with Hold"],
+  "alternative_names": [
+    "Paused Kroc Row",
+    "Heavy Dumbbell Row with Hold"
+  ],
   "description": "The Kroc row with pause applies the heavy-load, high-rep philosophy of the original Kroc row but adds a 1-2 second isometric hold at peak contraction. The pause prevents the ballistic bounce common in standard Kroc rows and ensures each rep has genuine muscular engagement, combining the high metabolic demand of Kroc rows with the quality control of paused training.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,42 +18,59 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "One knee and hand braced on a bench. Heavy dumbbell in working hand, arm extended.",
-    "setup_instructions": "Use a heavy dumbbell — Kroc rows are characterized by maximal loaded sets. The pause reduces the number of reps achievable vs. standard Kroc rows.",
+    "setup_instructions": "Use a heavy dumbbell \u2014 Kroc rows are characterized by maximal loaded sets. The pause reduces the number of reps achievable vs. standard Kroc rows.",
     "steps": [
       "Step 1: Row the heavy dumbbell explosively to the hip.",
       "Step 2: At the top, hold for 1-2 seconds with elbow as high as possible.",
-      "Step 3: Lower under control — do not simply drop the weight.",
+      "Step 3: Lower under control \u2014 do not simply drop the weight.",
       "Step 4: Repeat for maximum quality reps.",
       "Step 5: Perform one set per side to near failure."
     ],
     "breathing_instructions": "Breathe continuously with the rhythm of the reps.",
     "common_mistakes": [
-      "Turning the pause into a pendulum swing — the weight must pause, not just slow",
+      "Turning the pause into a pendulum swing \u2014 the weight must pause, not just slow",
       "Using a weight so heavy that the torso rotates dramatically"
     ],
     "safety_considerations": [
       "Straps are acceptable for Kroc rows as grip is not the training target",
-      "High-rep heavy sets tax the lower back — maintain braced core throughout"
+      "High-rep heavy sets tax the lower back \u2014 maintain braced core throughout"
     ],
     "range_of_motion_guidance": "Full arm extension to elbow above torso.",
     "tempo_recommendations": "1-2 hold-1-0",
     "coaching_cues": [
-      "Full pause at the top — count it",
+      "Full pause at the top \u2014 count it",
       "Row to the hip, not the chest",
       "Think about accumulating quality reps, not just quantity"
     ]
@@ -64,22 +84,54 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 10, "max_reps": 20 },
-      { "goal": "hypertrophy", "min_reps": 15, "max_reps": 30 }
+      {
+        "goal": "strength",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 1, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 1,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 180 },
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "row", "heavy", "pause", "kroc", "hypertrophy"]
+    "tags": [
+      "dumbbell",
+      "row",
+      "heavy",
+      "pause",
+      "kroc",
+      "hypertrophy"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

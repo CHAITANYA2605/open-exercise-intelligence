@@ -71,14 +71,14 @@
       "Rotating the torso toward the pressing arm"
     ],
     "safety_considerations": [
-      "Keep the non-pressing arm safely resting at chest — do not let it fall to the side",
+      "Keep the non-pressing arm safely resting at chest \u2014 do not let it fall to the side",
       "Start with a lighter load than your standard dumbbell press"
     ],
     "range_of_motion_guidance": "Full extension of pressing arm. Non-pressing arm held at 90 degrees of elbow flexion at chest level.",
     "tempo_recommendations": "2-1-2-0 per arm",
     "coaching_cues": [
-      "Fight the rotation — your torso stays still",
-      "The resting arm is working too — keep it controlled"
+      "Fight the rotation \u2014 your torso stays still",
+      "The resting arm is working too \u2014 keep it controlled"
     ]
   },
   "variants": {
@@ -127,6 +127,9 @@
       "anti-rotation",
       "unilateral",
       "core-stability"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -19,7 +19,7 @@
   "muscles": {
     "primary": [
       {
-        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
         "muscle_slug": "infraspinatus"
       },
       {
@@ -45,18 +45,18 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hold a kettlebell with the bell inverted (bottoms-up) at the shoulder. The handle points down, the bell sits on top of the fist. Squeeze the handle hard.",
-    "setup_instructions": "Begin with a very light kettlebell — 8 or 12 kg is challenging for most athletes when inverted. Practice the stationary bottoms-up press before walking.",
+    "setup_instructions": "Begin with a very light kettlebell \u2014 8 or 12 kg is challenging for most athletes when inverted. Practice the stationary bottoms-up press before walking.",
     "steps": [
       "Step 1: Press the inverted kettlebell overhead to lockout while maintaining the inverted position.",
       "Step 2: Walk a designated distance (10-20 metres) while keeping the bell balanced overhead.",
-      "Step 3: Squeeze the handle continuously — the squeeze is what stabilizes the bell.",
+      "Step 3: Squeeze the handle continuously \u2014 the squeeze is what stabilizes the bell.",
       "Step 4: Keep the working shoulder packed and the wrist straight.",
       "Step 5: Lower, switch sides, and repeat."
     ],
     "breathing_instructions": "Breathe freely. Maintain a braced core throughout.",
     "common_mistakes": [
-      "Too heavy — the bell will wobble and fall; use a much lighter kettlebell than expected",
-      "Releasing the squeeze — the grip intensity is what prevents the bell from tipping"
+      "Too heavy \u2014 the bell will wobble and fall; use a much lighter kettlebell than expected",
+      "Releasing the squeeze \u2014 the grip intensity is what prevents the bell from tipping"
     ],
     "safety_considerations": [
       "Have a clear area in case the kettlebell falls",
@@ -66,7 +66,7 @@
     "tempo_recommendations": "Continuous controlled walking",
     "coaching_cues": [
       "Squeeze the handle like you mean it",
-      "Wrist straight — no bend",
+      "Wrist straight \u2014 no bend",
       "Shoulder packed, not shrugged"
     ]
   },
@@ -119,6 +119,9 @@
       "rotator-cuff",
       "stability",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

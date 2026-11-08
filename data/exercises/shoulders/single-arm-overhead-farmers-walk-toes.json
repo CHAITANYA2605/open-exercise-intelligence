@@ -39,7 +39,7 @@
     ],
     "stabilizers": [
       {
-        "muscle_id": "33333333-0005-4000-a000-000000000003",
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
         "muscle_slug": "infraspinatus"
       }
     ]
@@ -54,25 +54,25 @@
     "starting_position": "Press a dumbbell or kettlebell overhead with one arm to full lockout. Rise onto the toes of both feet. Free arm held at the side.",
     "setup_instructions": "Master the standard single-arm overhead carry before the toe-walking variation. Begin with a light load.",
     "steps": [
-      "Step 1: Press the dumbbell overhead to full lockout. Pack the shoulder — the working shoulder should be depressed, not shrugged.",
+      "Step 1: Press the dumbbell overhead to full lockout. Pack the shoulder \u2014 the working shoulder should be depressed, not shrugged.",
       "Step 2: Rise onto the toes of both feet.",
       "Step 3: Walk a designated distance (10-20 metres) while remaining on the toes.",
-      "Step 4: Maintain a vertical torso — no lateral lean toward the loaded side.",
+      "Step 4: Maintain a vertical torso \u2014 no lateral lean toward the loaded side.",
       "Step 5: Return to the start, switch hands and repeat."
     ],
     "breathing_instructions": "Breathe freely but maintain a braced core throughout.",
     "common_mistakes": [
-      "Lateral torso lean — the torso must remain vertical",
-      "Shrugged working shoulder — pack the shoulder down"
+      "Lateral torso lean \u2014 the torso must remain vertical",
+      "Shrugged working shoulder \u2014 pack the shoulder down"
     ],
     "safety_considerations": [
       "Learn the standard overhead carry first",
-      "Very light load on the first attempt — the balance demand is significant"
+      "Very light load on the first attempt \u2014 the balance demand is significant"
     ],
     "range_of_motion_guidance": "Maintained lockout overhead for the duration of the carry.",
     "tempo_recommendations": "Continuous walking at a controlled pace",
     "coaching_cues": [
-      "Shoulder packed — not shrugged",
+      "Shoulder packed \u2014 not shrugged",
       "Walk tall on the toes",
       "No lean to the loaded side"
     ]
@@ -126,6 +126,9 @@
       "toes",
       "stability",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

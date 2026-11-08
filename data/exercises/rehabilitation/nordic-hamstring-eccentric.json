@@ -46,29 +46,29 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel on a mat with the ankles secured under a fixed object (a loaded barbell, a partner holding the ankles, or under a GHD pad). The body is upright with hips fully extended.",
-    "setup_instructions": "Secure the ankles under a barbell, have a partner hold them, or use a GHD machine. Use a mat under the knees. Keep the hips extended throughout — do not allow them to flex.",
+    "setup_instructions": "Secure the ankles under a barbell, have a partner hold them, or use a GHD machine. Use a mat under the knees. Keep the hips extended throughout \u2014 do not allow them to flex.",
     "steps": [
       "Step 1: Kneel with ankles secured and body upright in a tall kneeling position.",
       "Step 2: Keeping the hips extended and body in a straight line from knees to head, slowly lower the entire body forward toward the floor.",
       "Step 3: Use the hamstrings eccentrically to resist the fall as long as possible.",
       "Step 4: When the hamstrings can no longer hold the descent, catch yourself with the hands and push back to the start.",
-      "Step 5: Use the hands to assist the return to upright — the concentric phase is not the training goal."
+      "Step 5: Use the hands to assist the return to upright \u2014 the concentric phase is not the training goal."
     ],
     "breathing_instructions": "Exhale during the descent. Inhale at the bottom before pushing back up.",
     "common_mistakes": [
-      "Hips flexing during the descent — the body must remain in a straight line from knees to head",
-      "Descending too fast in early stages — control the tempo",
-      "Skipping progression — beginners should start with heavily assisted eccentrics (hands very close to knees) before attempting a full lowering"
+      "Hips flexing during the descent \u2014 the body must remain in a straight line from knees to head",
+      "Descending too fast in early stages \u2014 control the tempo",
+      "Skipping progression \u2014 beginners should start with heavily assisted eccentrics (hands very close to knees) before attempting a full lowering"
     ],
     "safety_considerations": [
-      "Very high hamstring load — this is classified as advanced and should not be performed in the first 2 weeks post-hamstring strain",
-      "DOMS (delayed onset muscle soreness) is very common after the first session — start with 2–3 reps only",
-      "Progress from 3×5 over several weeks before attempting high volumes"
+      "Very high hamstring load \u2014 this is classified as advanced and should not be performed in the first 2 weeks post-hamstring strain",
+      "DOMS (delayed onset muscle soreness) is very common after the first session \u2014 start with 2\u20133 reps only",
+      "Progress from 3\u00d75 over several weeks before attempting high volumes"
     ],
     "range_of_motion_guidance": "Descend as slowly as possible to the floor or as far as the hamstrings can control. Full range is from upright to prone.",
-    "tempo_recommendations": "Start: 3–5 reps × 2 sets. Progress over 4–6 weeks to 3×10. The descent should take 3–5 seconds.",
+    "tempo_recommendations": "Start: 3\u20135 reps \u00d7 2 sets. Progress over 4\u20136 weeks to 3\u00d710. The descent should take 3\u20135 seconds.",
     "coaching_cues": [
-      "Keep your hips locked out — do not let them break backward",
+      "Keep your hips locked out \u2014 do not let them break backward",
       "Think about fighting gravity for as long as possible",
       "The hands are there to catch you, not to assist the descent"
     ]
@@ -121,6 +121,9 @@
       "injury-prevention",
       "advanced",
       "nordic"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

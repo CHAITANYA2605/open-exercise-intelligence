@@ -6,7 +6,7 @@
     "Anti-Rotation Press",
     "Cable Anti-Rotation Press"
   ],
-  "description": "The Pallof press is an anti-rotation core stability exercise that challenges the ability to resist rotational forces rather than produce them. Performed with a resistance band or cable anchored to the side, the exerciser extends the arms in front of the chest and holds against the pull — requiring the entire core to contract isometrically to prevent rotation. It is a cornerstone of lumbar rehabilitation, athletic performance, and functional core training.",
+  "description": "The Pallof press is an anti-rotation core stability exercise that challenges the ability to resist rotational forces rather than produce them. Performed with a resistance band or cable anchored to the side, the exerciser extends the arms in front of the chest and holds against the pull \u2014 requiring the entire core to contract isometrically to prevent rotation. It is a cornerstone of lumbar rehabilitation, athletic performance, and functional core training.",
   "category": "rehabilitation",
   "exercise_type": "strength",
   "difficulty_level": "beginner",
@@ -55,24 +55,24 @@
       "Step 1: Hold the band with both hands pressed against the sternum. The band pulls horizontally toward the anchor point.",
       "Step 2: Brace the core firmly. The feet, hips, and shoulders should all face straight ahead (perpendicular to the anchor).",
       "Step 3: Slowly press the hands straight out in front of the chest, fully extending the arms.",
-      "Step 4: Hold for 2–3 seconds at full extension, resisting the pull of the band.",
+      "Step 4: Hold for 2\u20133 seconds at full extension, resisting the pull of the band.",
       "Step 5: Return the hands to the chest with control. Repeat for reps, then switch sides."
     ],
     "breathing_instructions": "Exhale and brace as the arms extend. Breathe steadily in the hold position.",
     "common_mistakes": [
-      "Rotating the torso toward the anchor — the goal is to prevent this rotation entirely",
-      "Feet shifting or hips rotating — maintain a stable square stance",
-      "Holding the breath excessively — learn to breathe while maintaining the brace"
+      "Rotating the torso toward the anchor \u2014 the goal is to prevent this rotation entirely",
+      "Feet shifting or hips rotating \u2014 maintain a stable square stance",
+      "Holding the breath excessively \u2014 learn to breathe while maintaining the brace"
     ],
     "safety_considerations": [
-      "Use very light resistance initially — the demand on the core is high relative to the apparent load",
-      "Safe for most low back pain populations — often one of the earliest core exercises reintroduced in lumbar rehab"
+      "Use very light resistance initially \u2014 the demand on the core is high relative to the apparent load",
+      "Safe for most low back pain populations \u2014 often one of the earliest core exercises reintroduced in lumbar rehab"
     ],
-    "range_of_motion_guidance": "Full arm extension and return. The range of motion is straightforward — the challenge is in preventing rotation throughout.",
-    "tempo_recommendations": "2-second press out, 2–3 second hold, 2-second return. 10–15 reps × 2–3 sets per side.",
+    "range_of_motion_guidance": "Full arm extension and return. The range of motion is straightforward \u2014 the challenge is in preventing rotation throughout.",
+    "tempo_recommendations": "2-second press out, 2\u20133 second hold, 2-second return. 10\u201315 reps \u00d7 2\u20133 sets per side.",
     "coaching_cues": [
       "Squeeze your core like someone is about to punch you",
-      "Your body should look the same at full extension as at the start — no rotation",
+      "Your body should look the same at full extension as at the start \u2014 no rotation",
       "Press straight out from the sternum"
     ]
   },
@@ -124,6 +124,9 @@
       "lumbar",
       "stability",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

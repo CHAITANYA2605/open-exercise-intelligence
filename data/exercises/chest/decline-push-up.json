@@ -2,7 +2,9 @@
   "exercise_id": "b2c3d4e5-f6a7-4b8c-9d0e-f1a2b3c4d402",
   "slug": "decline-push-up",
   "name": "Decline Push-Up",
-  "alternative_names": ["Feet-Elevated Push-Up"],
+  "alternative_names": [
+    "Feet-Elevated Push-Up"
+  ],
   "description": "The decline push-up is performed with the feet elevated above the hands, creating a downward angle of the body. This positioning shifts the pressing stimulus toward the upper (clavicular) portion of the pectoralis major and anterior deltoid, while also increasing the total amount of body weight lifted compared to a standard push-up.",
   "category": "strength",
   "exercise_type": "calisthenics",
@@ -15,21 +17,46 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
-  "equipment_optional": ["eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "execution": {
     "starting_position": "Place feet on a bench or elevated surface and hands on the floor slightly wider than shoulder-width. Body should form a straight angled line with hips higher than shoulders.",
     "setup_instructions": "Choose a stable elevated surface for the feet. Higher elevation increases upper chest and anterior deltoid contribution and difficulty.",
@@ -41,12 +68,12 @@
     ],
     "breathing_instructions": "Inhale on the way down; exhale as you press up.",
     "common_mistakes": [
-      "Letting the hips sag — this reduces the pec load and stresses the lower back",
+      "Letting the hips sag \u2014 this reduces the pec load and stresses the lower back",
       "Placing the bench too high before adequate shoulder stability is developed"
     ],
     "safety_considerations": [
       "Avoid this variation if you experience shoulder impingement during the descent",
-      "Keep the neck neutral — do not let the chin jut forward"
+      "Keep the neck neutral \u2014 do not let the chin jut forward"
     ],
     "range_of_motion_guidance": "Lower until the chest nearly touches the floor, then press to full extension.",
     "tempo_recommendations": "3-0-1-0",
@@ -56,33 +83,84 @@
     ]
   },
   "variants": {
-    "easier": ["push-up", "incline-push-up"],
-    "harder": ["pike-push-up"],
+    "easier": [
+      "push-up",
+      "incline-push-up"
+    ],
+    "harder": [
+      "pike-push-up"
+    ],
     "unilateral": [],
-    "bilateral": ["push-up"],
+    "bilateral": [
+      "push-up"
+    ],
     "equipment_alternatives": []
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 30},
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "strength": 90,
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["push-up", "upper-chest", "bodyweight", "intermediate"]
+    "tags": [
+      "push-up",
+      "upper-chest",
+      "bodyweight",
+      "intermediate"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -62,30 +62,30 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand behind the sled, gripping the upright handles. Lean forward at approximately 45 degrees, arms straight.",
-    "setup_instructions": "Load the sled appropriately — heavier loads develop strength, lighter loads develop speed and conditioning. Use a rubber or turf surface for most sled work.",
+    "setup_instructions": "Load the sled appropriately \u2014 heavier loads develop strength, lighter loads develop speed and conditioning. Use a rubber or turf surface for most sled work.",
     "steps": [
       "Step 1: Grip the sled handles and lean forward with the body at roughly 45 degrees and arms straight.",
       "Step 2: Drive off one foot, pushing forcefully into the floor, as the other leg swings through.",
-      "Step 3: Maintain short, powerful strides — stay on the balls of the feet, never the heels.",
-      "Step 4: Keep the hips down and avoid raising the torso — the lean angle is maintained throughout.",
+      "Step 3: Maintain short, powerful strides \u2014 stay on the balls of the feet, never the heels.",
+      "Step 4: Keep the hips down and avoid raising the torso \u2014 the lean angle is maintained throughout.",
       "Step 5: Drive the sled forward for the prescribed distance, maintaining consistent force output."
     ],
     "breathing_instructions": "Breathe rhythmically throughout. Exhale with each leg drive.",
     "common_mistakes": [
-      "Letting the arms bend — straight arms transfer force more efficiently to the sled",
+      "Letting the arms bend \u2014 straight arms transfer force more efficiently to the sled",
       "Pushing with the toes instead of the full foot drive",
-      "Standing too upright — reduces horizontal force vector on the sled"
+      "Standing too upright \u2014 reduces horizontal force vector on the sled"
     ],
     "safety_considerations": [
-      "Ensure the surface is appropriate — asphalt can damage sled bases not designed for it.",
+      "Ensure the surface is appropriate \u2014 asphalt can damage sled bases not designed for it.",
       "Adequate lower body warm-up before heavy sled work."
     ],
     "range_of_motion_guidance": "Full hip and knee extension on each stride.",
-    "tempo_recommendations": "Typically performed for distance (20–40 meters). Heavy: slow and powerful. Light: fast and explosive.",
+    "tempo_recommendations": "Typically performed for distance (20\u201340 meters). Heavy: slow and powerful. Light: fast and explosive.",
     "coaching_cues": [
-      "Stay low — maintain the forward lean",
+      "Stay low \u2014 maintain the forward lean",
       "Drive the foot into the ground",
-      "Arms straight — push through the handles"
+      "Arms straight \u2014 push through the handles"
     ]
   },
   "variants": {
@@ -148,6 +148,9 @@
       "conditioning",
       "power",
       "lower-body"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

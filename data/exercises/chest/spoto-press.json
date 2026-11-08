@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78901",
   "slug": "spoto-press",
   "name": "Spoto Press",
-  "alternative_names": ["Paused Bench Press (Off-Chest)"],
+  "alternative_names": [
+    "Paused Bench Press (Off-Chest)"
+  ],
   "description": "The Spoto Press is a bench press variation where the bar is deliberately stopped one to two inches above the chest rather than touching it. This eliminates the elastic rebound from touching the chest, increasing time under tension at the most mechanically demanding point of the lift and building strength at the sticking point.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,22 +17,51 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
-  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "execution": {
     "starting_position": "Lie on a flat bench under a racked barbell. Grip the bar slightly wider than shoulder-width. Unrack and hold the bar at arm's length above the chest.",
     "setup_instructions": "Set the bench in a power rack. Position the bar above the lower chest. Retract and depress the shoulder blades firmly into the bench before unracking.",
@@ -54,30 +85,69 @@
     "tempo_recommendations": "3-2-1-0 (3s eccentric, 2s pause off-chest, 1s concentric)",
     "coaching_cues": [
       "Pretend the bar has a hot surface you cannot let touch your chest",
-      "Stay tight through the pause — do not relax",
+      "Stay tight through the pause \u2014 do not relax",
       "Drive the floor away with your feet to maintain leg drive and body position"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 240, "hypertrophy": 120},
-    "training_goals": ["strength"]
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["powerlifting", "sticking-point", "paused-press"]
+    "tags": [
+      "powerlifting",
+      "sticking-point",
+      "paused-press"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -49,27 +49,27 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Stand with the back flat against a wall, feet approximately 15–30 cm from the base, knees slightly bent. The head, upper back, and both elbows make contact with the wall.",
+    "starting_position": "Stand with the back flat against a wall, feet approximately 15\u201330 cm from the base, knees slightly bent. The head, upper back, and both elbows make contact with the wall.",
     "setup_instructions": "Stand against a smooth wall with enough room to slide arms overhead. If the low back arches significantly off the wall, bend the knees more.",
     "steps": [
       "Step 1: Stand against the wall with head, upper back, and both elbows (bent to 90 degrees) touching the wall.",
-      "Step 2: The low back should maintain a natural curve — do not force it flat but do prevent excessive arch.",
+      "Step 2: The low back should maintain a natural curve \u2014 do not force it flat but do prevent excessive arch.",
       "Step 3: Slowly slide both arms upward along the wall, maintaining contact with the wall with the elbows and forearms.",
       "Step 4: Slide as high as the shoulder mobility and wall contact allow.",
       "Step 5: Slowly slide back down to the starting position with the same wall contact maintained."
     ],
     "breathing_instructions": "Exhale as arms slide up. Inhale on the way down.",
     "common_mistakes": [
-      "Losing elbow or wrist contact with the wall as the arms rise — this is the main challenge",
+      "Losing elbow or wrist contact with the wall as the arms rise \u2014 this is the main challenge",
       "Excessive lower back arch pushing the ribcage forward",
-      "Shrugging the shoulders — focus on depression throughout the upward slide"
+      "Shrugging the shoulders \u2014 focus on depression throughout the upward slide"
     ],
     "safety_considerations": [
       "This drill is safe for most populations",
       "If shoulder impingement symptoms occur, reduce the overhead range before full clearance"
     ],
     "range_of_motion_guidance": "Slide as high as possible while maintaining elbow and forearm contact with the wall. Many beginners cannot get past shoulder height initially.",
-    "tempo_recommendations": "3 seconds up, 2-second hold at top, 3 seconds down. 10–15 reps × 2–3 sets.",
+    "tempo_recommendations": "3 seconds up, 2-second hold at top, 3 seconds down. 10\u201315 reps \u00d7 2\u20133 sets.",
     "coaching_cues": [
       "Keep the elbows glued to the wall the entire time",
       "Feel your shoulder blades slide down your back as your arms go up",
@@ -125,6 +125,9 @@
       "thoracic",
       "scapular",
       "beginner"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

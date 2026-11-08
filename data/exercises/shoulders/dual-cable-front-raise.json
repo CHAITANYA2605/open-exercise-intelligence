@@ -2,8 +2,11 @@
   "exercise_id": "c3a60d9c-c7fe-4d7e-845a-4ba6690731a5",
   "slug": "dual-cable-front-raise",
   "name": "Dual Cable Front Raise",
-  "alternative_names": ["Cable Front Raise Both Arms", "Bilateral Cable Front Raise"],
-  "description": "The dual cable front raise uses a cable behind the body from two low pulleys — one handle in each hand — raising both arms simultaneously to shoulder or eye level. The cables provide constant tension throughout the full range of motion, unlike dumbbells which unload near the top, making this variation superior for hypertrophy through the anterior deltoid and upper chest.",
+  "alternative_names": [
+    "Cable Front Raise Both Arms",
+    "Bilateral Cable Front Raise"
+  ],
+  "description": "The dual cable front raise uses a cable behind the body from two low pulleys \u2014 one handle in each hand \u2014 raising both arms simultaneously to shoulder or eye level. The cables provide constant tension throughout the full range of motion, unlike dumbbells which unload near the top, making this variation superior for hypertrophy through the anterior deltoid and upper chest.",
   "category": "strength",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -15,17 +18,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" },
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand between two low cable pulleys with one handle in each hand. Face away from the cable stack. Arms at sides, cables running from behind.",
@@ -33,24 +50,24 @@
     "steps": [
       "Step 1: Begin with arms at sides, cables taut running from behind.",
       "Step 2: Raise both arms simultaneously forward and upward to shoulder height.",
-      "Step 3: Maintain slight elbow bend throughout — not fully locked, not deeply bent.",
+      "Step 3: Maintain slight elbow bend throughout \u2014 not fully locked, not deeply bent.",
       "Step 4: Hold 1 second at shoulder height.",
       "Step 5: Lower under control."
     ],
     "breathing_instructions": "Exhale on the raise. Inhale lowering.",
     "common_mistakes": [
-      "Raising above shoulder height — this recruits traps and reduces anterior delt emphasis",
-      "Using momentum from the torso — strict movement only"
+      "Raising above shoulder height \u2014 this recruits traps and reduces anterior delt emphasis",
+      "Using momentum from the torso \u2014 strict movement only"
     ],
     "safety_considerations": [
-      "Light loads recommended — anterior deltoid isolation exercises have high leverage disadvantage",
+      "Light loads recommended \u2014 anterior deltoid isolation exercises have high leverage disadvantage",
       "Avoid if experiencing shoulder impingement"
     ],
     "range_of_motion_guidance": "Arms at sides to shoulder height.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
       "Thumbs slightly up at the peak",
-      "No torso lean — strict upright posture",
+      "No torso lean \u2014 strict upright posture",
       "Lead with the pinkies as the arms rise"
     ]
   },
@@ -63,21 +80,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 60 },
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "front-raise", "bilateral", "anterior-deltoid", "shoulder"]
+    "tags": [
+      "cable",
+      "front-raise",
+      "bilateral",
+      "anterior-deltoid",
+      "shoulder"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

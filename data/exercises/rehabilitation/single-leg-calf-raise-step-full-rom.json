@@ -1,9 +1,12 @@
 {
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50017",
   "slug": "single-leg-calf-raise-step-full-rom",
-  "name": "Single-Leg Calf Raise on Step — Full Range",
-  "alternative_names": ["Eccentric Single-Leg Calf Raise", "Alfredson Protocol Calf Raise"],
-  "description": "A single-leg calf raise performed on the edge of a step, allowing the heel to drop below the step surface for full dorsiflexion at the bottom and full plantarflexion at the top. This full range of motion is essential for Achilles tendon rehabilitation and maximal calf strength development. The eccentric (lowering) phase is of particular therapeutic value — the classic Alfredson protocol for Achilles tendinopathy uses this exact movement pattern with progressive loading.",
+  "name": "Single-Leg Calf Raise on Step \u2014 Full Range",
+  "alternative_names": [
+    "Eccentric Single-Leg Calf Raise",
+    "Alfredson Protocol Calf Raise"
+  ],
+  "description": "A single-leg calf raise performed on the edge of a step, allowing the heel to drop below the step surface for full dorsiflexion at the bottom and full plantarflexion at the top. This full range of motion is essential for Achilles tendon rehabilitation and maximal calf strength development. The eccentric (lowering) phase is of particular therapeutic value \u2014 the classic Alfredson protocol for Achilles tendinopathy uses this exact movement pattern with progressive loading.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
   "difficulty_level": "intermediate",
@@ -15,13 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-lateral"
+      }
     ],
-    "secondary": [{"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}],
+    "secondary": [
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      }
+    ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand on the edge of a step with the ball of one foot on the edge and the heel suspended in the air. Hold a railing or wall for balance. Keep the other foot off the step or cross it behind the ankle.",
@@ -33,32 +49,86 @@
       "Step 4: Lower slowly and under control back to the deep stretch position. Repeat."
     ],
     "breathing_instructions": "Inhale at the bottom (stretch). Exhale as you rise. Inhale as you lower.",
-    "common_mistakes": ["Partial range of motion — not letting the heel drop to full dorsiflexion", "Rushing the eccentric (lowering) phase — the eccentric is the most therapeutic component", "Using the hand on the wall to assist with the raising phase — touch for balance only"],
-    "safety_considerations": ["For active Achilles tendinopathy: perform eccentric-only (rise with both feet, lower with one) until pain allows full concentric reps", "If sharp pain occurs at the tendon during the exercise, reduce range or load and consult a physiotherapist", "This exercise must not cause pain above a 3/10 on a pain scale in a clinical rehabilitation context"],
+    "common_mistakes": [
+      "Partial range of motion \u2014 not letting the heel drop to full dorsiflexion",
+      "Rushing the eccentric (lowering) phase \u2014 the eccentric is the most therapeutic component",
+      "Using the hand on the wall to assist with the raising phase \u2014 touch for balance only"
+    ],
+    "safety_considerations": [
+      "For active Achilles tendinopathy: perform eccentric-only (rise with both feet, lower with one) until pain allows full concentric reps",
+      "If sharp pain occurs at the tendon during the exercise, reduce range or load and consult a physiotherapist",
+      "This exercise must not cause pain above a 3/10 on a pain scale in a clinical rehabilitation context"
+    ],
     "range_of_motion_guidance": "Full range: heel drops as far below the step as the ankle allows; rises as high as full plantarflexion permits.",
     "tempo_recommendations": "1s up, 1s top hold, 3-4s eccentric lowering (slow eccentric is the therapeutic element)",
-    "coaching_cues": ["Slow the lowering — count to 4 on the way down", "Full range is what makes this exercise therapeutic — do not shortcut the bottom stretch", "Touch the wall for balance only — do not push through it"]
+    "coaching_cues": [
+      "Slow the lowering \u2014 count to 4 on the way down",
+      "Full range is what makes this exercise therapeutic \u2014 do not shortcut the bottom stretch",
+      "Touch the wall for balance only \u2014 do not push through it"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 10, "max_reps": 15},
-      {"goal": "strength", "min_reps": 6, "max_reps": 10}
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "strength",
+        "min_reps": 6,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 60, "strength": 90},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "endurance": 60,
+      "strength": 90
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["calves", "Achilles", "rehabilitation", "eccentric", "ankle"]
+    "tags": [
+      "calves",
+      "Achilles",
+      "rehabilitation",
+      "eccentric",
+      "ankle"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

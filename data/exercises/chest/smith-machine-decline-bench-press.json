@@ -61,7 +61,7 @@
     ],
     "breathing_instructions": "Inhale before descent. Exhale through lockout.",
     "common_mistakes": [
-      "Steep decline causing blood to rush to the head — limit to 15-20 degrees for most people",
+      "Steep decline causing blood to rush to the head \u2014 limit to 15-20 degrees for most people",
       "Failing to secure feet before lying back"
     ],
     "safety_considerations": [
@@ -71,7 +71,7 @@
     "range_of_motion_guidance": "Full touch to lower sternum; full elbow extension.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Press up and slightly back — do not press straight up",
+      "Press up and slightly back \u2014 do not press straight up",
       "Squeeze the lower pecs at the top"
     ]
   },
@@ -132,6 +132,9 @@
       "lower-chest",
       "smith-machine",
       "decline"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

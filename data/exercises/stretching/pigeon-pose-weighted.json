@@ -1,8 +1,11 @@
 {
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50005",
   "slug": "pigeon-pose-weighted",
-  "name": "Pigeon Pose — Loaded (Plate on Hip)",
-  "alternative_names": ["Loaded Pigeon Pose", "Weighted Hip External Rotation Stretch"],
+  "name": "Pigeon Pose \u2014 Loaded (Plate on Hip)",
+  "alternative_names": [
+    "Loaded Pigeon Pose",
+    "Weighted Hip External Rotation Stretch"
+  ],
   "description": "A loaded variation of the pigeon pose hip stretch in which a weight plate is placed on the hip of the front leg. The added load deepens the external rotation stretch of the hip joint by applying gentle downward pressure and can help bypass the protective tension reflex that limits passive pigeon pose depth. Used in advanced hip mobility programs and sports-specific flexibility training where passive stretching has reached a plateau.",
   "category": "stretching",
   "exercise_type": "isolation",
@@ -15,16 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
     ],
     "secondary": [
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
-      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a standard pigeon pose: front shin angled across the mat, back leg extended straight behind. The front knee is bent and the hip is in external rotation.",
@@ -36,30 +53,73 @@
       "Step 4: Remove the plate before transitioning to the other side."
     ],
     "breathing_instructions": "Deep breathing throughout the hold. Exhale completely on each breath to allow the hip to relax and deepen.",
-    "common_mistakes": ["Using too heavy a load — the plate deepens the stretch, it does not add resistance in the traditional strength training sense", "Placing the plate on the lower back rather than the hip", "Using the loaded variation before the bodyweight version is fully tolerated"],
-    "safety_considerations": ["If sharp hip or knee pain occurs, remove the plate immediately", "Avoid if you have an acute hip labral tear — loading may increase pain"],
+    "common_mistakes": [
+      "Using too heavy a load \u2014 the plate deepens the stretch, it does not add resistance in the traditional strength training sense",
+      "Placing the plate on the lower back rather than the hip",
+      "Using the loaded variation before the bodyweight version is fully tolerated"
+    ],
+    "safety_considerations": [
+      "If sharp hip or knee pain occurs, remove the plate immediately",
+      "Avoid if you have an acute hip labral tear \u2014 loading may increase pain"
+    ],
     "range_of_motion_guidance": "The same range as the unloaded pigeon pose, potentially slightly deeper due to the gentle additional load.",
     "tempo_recommendations": "Hold for 60-120 seconds per side.",
-    "coaching_cues": ["Breathe the hip open — exhale completely and let the hip sink with each breath", "Ensure the plate is resting on the outer hip, not the lower back", "If the stretch feels like joint pain rather than muscle stretch, reduce the load or return to the unloaded version"]
+    "coaching_cues": [
+      "Breathe the hip open \u2014 exhale completely and let the hip sink with each breath",
+      "Ensure the plate is resting on the outer hip, not the lower back",
+      "If the stretch feels like joint pain rather than muscle stretch, reduce the load or return to the unloaded version"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "mobility", "min_reps": 1, "max_reps": 2}
+      {
+        "goal": "mobility",
+        "min_reps": 1,
+        "max_reps": 2
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "mobility", "min_sets": 1, "max_sets": 2}
+      {
+        "goal": "mobility",
+        "min_sets": 1,
+        "max_sets": 2
+      }
     ],
-    "rest_periods": {"mobility": 30},
-    "training_goals": ["mobility"]
+    "rest_periods": {
+      "mobility": 30
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip-mobility", "external-rotation", "stretching", "loaded", "pigeon-pose"]
+    "tags": [
+      "hip-mobility",
+      "external-rotation",
+      "stretching",
+      "loaded",
+      "pigeon-pose"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

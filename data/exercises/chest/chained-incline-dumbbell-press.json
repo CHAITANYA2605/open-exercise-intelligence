@@ -50,7 +50,7 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Set the incline bench to 30–45 degrees. Attach chains to the dumbbell handles so they drape to the floor when held at the bottom position. Lie on the bench with the loaded dumbbells at chest level.",
+    "starting_position": "Set the incline bench to 30\u201345 degrees. Attach chains to the dumbbell handles so they drape to the floor when held at the bottom position. Lie on the bench with the loaded dumbbells at chest level.",
     "setup_instructions": "Chains can be attached with carabiners or looped through the dumbbell plate holes. The chain should begin lifting off the floor when the arms reach roughly the midpoint of the press.",
     "steps": [
       "Step 1: Begin at the bottom position with elbows at chest level. Chains drape to the floor.",
@@ -60,7 +60,7 @@
     ],
     "breathing_instructions": "Inhale at the bottom, exhale forcefully through the press.",
     "common_mistakes": [
-      "Chains that never lift off the floor — means chains are too long or dumbbells don't travel high enough",
+      "Chains that never lift off the floor \u2014 means chains are too long or dumbbells don't travel high enough",
       "Using dumbbell weight that is too heavy before accounting for chain load",
       "Chains not secured and sliding off mid-set"
     ],
@@ -72,8 +72,8 @@
     "range_of_motion_guidance": "Full range, bottom to lockout. Chain loading is greatest at the top.",
     "tempo_recommendations": "3-1-2-1",
     "coaching_cues": [
-      "Press hard all the way to lockout — the chains test you there",
-      "The bottom feels light, the top feels heavy — that's the point"
+      "Press hard all the way to lockout \u2014 the chains test you there",
+      "The bottom feels light, the top feels heavy \u2014 that's the point"
     ]
   },
   "variants": {
@@ -132,6 +132,9 @@
       "accommodating-resistance",
       "advanced",
       "upper-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

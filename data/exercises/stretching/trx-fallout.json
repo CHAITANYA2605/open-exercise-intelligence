@@ -2,7 +2,10 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50018",
   "slug": "trx-fallout",
   "name": "TRX Fallout",
-  "alternative_names": ["TRX Ab Rollout", "TRX Overhead Fallout"],
+  "alternative_names": [
+    "TRX Ab Rollout",
+    "TRX Overhead Fallout"
+  ],
   "description": "A TRX-based anti-extension core exercise in which the exerciser holds the TRX handles and falls forward, extending the arms overhead while keeping the core rigid and preventing the hips from dropping. The TRX adds a suspension element that requires the shoulder girdle and core to work together to control the forward fall. This is a suspension-based analogue to the ab wheel rollout and is used in core stability and anti-extension training.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,50 +18,117 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Adjust TRX straps to fully shortened position. Hold the handles and face away from the anchor point. Lean forward at an angle, with arms extended forward at chest height. Body is in a rigid plank position.",
     "setup_instructions": "More forward lean = harder. Begin with a small lean angle (less than 30 degrees) and progress the lean as strength improves.",
     "steps": [
       "Step 1: Hold the TRX handles and lean forward into the starting position, body rigid.",
-      "Step 2: Allow the arms to fall forward and overhead while keeping the body in a rigid plank — no hip drop or lumbar arch.",
+      "Step 2: Allow the arms to fall forward and overhead while keeping the body in a rigid plank \u2014 no hip drop or lumbar arch.",
       "Step 3: Reach the furthest overhead position that you can hold without the hips dropping.",
       "Step 4: Pull the arms back to the starting position by engaging the lats and core. Repeat."
     ],
     "breathing_instructions": "Inhale as you fall forward and overhead. Exhale forcefully as you pull back.",
-    "common_mistakes": ["Hips sagging as the arms extend overhead — this is the most common fault and reduces core training", "Using the arms to push back rather than the core and lats to pull back", "Using a body angle (lean) that is too steep too soon"],
-    "safety_considerations": ["Ensure the TRX anchor can support the full bodyweight load in the extended position", "If lower back pain occurs during the fallout, reduce the lean angle significantly"],
+    "common_mistakes": [
+      "Hips sagging as the arms extend overhead \u2014 this is the most common fault and reduces core training",
+      "Using the arms to push back rather than the core and lats to pull back",
+      "Using a body angle (lean) that is too steep too soon"
+    ],
+    "safety_considerations": [
+      "Ensure the TRX anchor can support the full bodyweight load in the extended position",
+      "If lower back pain occurs during the fallout, reduce the lean angle significantly"
+    ],
     "range_of_motion_guidance": "Extend as far overhead as the core can hold the plank position. The hips must not drop.",
     "tempo_recommendations": "3s fallout to overhead, 1s hold, 2s pull back.",
-    "coaching_cues": ["Squeeze the glutes before you start and keep them squeezed throughout — this prevents the hip drop", "Think of the return as a lat pulldown, not an arm pull", "The further you lean forward, the harder this becomes — start conservative"]
+    "coaching_cues": [
+      "Squeeze the glutes before you start and keep them squeezed throughout \u2014 this prevents the hip drop",
+      "Think of the return as a lat pulldown, not an arm pull",
+      "The further you lean forward, the harder this becomes \u2014 start conservative"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "strength", "min_reps": 5, "max_reps": 10}],
-    "recommended_set_ranges": [{"goal": "strength", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"strength": 60},
-    "training_goals": ["strength"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "TRX", "anti-extension", "stretching", "functional"]
+    "tags": [
+      "core",
+      "TRX",
+      "anti-extension",
+      "stretching",
+      "functional"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -64,7 +64,7 @@
       "Step 1: Position hands on the bar at the chosen grip width while it rests on the pins.",
       "Step 2: Take a full breath, brace, and press the bar off the pins from a dead stop.",
       "Step 3: Drive to full lockout.",
-      "Step 4: Lower the bar back to the pins with control. Reset and repeat from a dead stop — do not bounce off the pins."
+      "Step 4: Lower the bar back to the pins with control. Reset and repeat from a dead stop \u2014 do not bounce off the pins."
     ],
     "breathing_instructions": "Breathe and brace before each rep. Exhale at lockout. Reset breath between reps.",
     "common_mistakes": [
@@ -72,7 +72,7 @@
       "Setting pins at a height that is too low, reducing the specificity benefit"
     ],
     "safety_considerations": [
-      "The power rack is mandatory — this exercise cannot be performed without one",
+      "The power rack is mandatory \u2014 this exercise cannot be performed without one",
       "Start conservatively with load; there is no elastic energy to assist the initial drive"
     ],
     "range_of_motion_guidance": "Partial ROM from pin height to lockout. Set pin height to match your specific sticking point.",
@@ -128,6 +128,9 @@
       "dead-stop",
       "concentric",
       "sticking-point"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

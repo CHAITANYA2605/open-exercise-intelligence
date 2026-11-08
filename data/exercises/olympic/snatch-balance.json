@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-f011-4000-a000-000000000211",
   "slug": "snatch-balance",
   "name": "Snatch Balance",
-  "alternative_names": ["Heaving Snatch Balance"],
+  "alternative_names": [
+    "Heaving Snatch Balance"
+  ],
   "description": "The snatch balance is an Olympic weightlifting accessory exercise in which the bar is taken from the back rack position and the athlete uses a dip-and-drive to push themselves under the bar into a full overhead squat. It trains the speed of the third pull (turning the hands over and dropping under the bar) and reinforces the ability to stabilize a heavy snatch catch. The snatch balance is typically performed with higher loads than the actual snatch to overload the catch position.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,34 +17,59 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Bar across the back in a high bar squat position, with a wide snatch grip. Feet in squat stance.",
-    "setup_instructions": "Take the bar from a rack with a wide snatch grip. The dip-and-drop is key — practice with an empty bar first.",
+    "setup_instructions": "Take the bar from a rack with a wide snatch grip. The dip-and-drop is key \u2014 practice with an empty bar first.",
     "steps": [
       "Step 1: Hold the bar on the back in a wide snatch grip, feet in squat stance.",
-      "Step 2: Dip the knees 10–15 cm with a vertical torso.",
+      "Step 2: Dip the knees 10\u201315 cm with a vertical torso.",
       "Step 3: Drive the bar upward slightly while simultaneously pressing yourself under the bar.",
       "Step 4: Rotate the hands and punch the bar overhead into a locked overhead squat position.",
       "Step 5: Stabilize in the full overhead squat, then stand."
     ],
     "breathing_instructions": "Brace before the dip. Exhale after stabilizing overhead.",
     "common_mistakes": [
-      "Pressing the bar up high before dropping under — the goal is to use minimal upward force and mainly drop",
+      "Pressing the bar up high before dropping under \u2014 the goal is to use minimal upward force and mainly drop",
       "Catching with bent elbows",
       "Insufficient ankle or shoulder mobility causing the squat to collapse"
     ],
@@ -53,9 +80,9 @@
     "range_of_motion_guidance": "Full overhead squat depth with locked-out bar position.",
     "tempo_recommendations": "Explosive dip-drive. Fast hands. Stable catch before standing.",
     "coaching_cues": [
-      "Dip straight — drive the bar up slightly, then drop fast",
+      "Dip straight \u2014 drive the bar up slightly, then drop fast",
       "Punch the hands up and lock out",
-      "Catch it — stabilize before standing"
+      "Catch it \u2014 stabilize before standing"
     ]
   },
   "variants": {
@@ -67,21 +94,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"strength": 180},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 180
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic", "weightlifting", "snatch", "advanced", "accessory"]
+    "tags": [
+      "olympic",
+      "weightlifting",
+      "snatch",
+      "advanced",
+      "accessory"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

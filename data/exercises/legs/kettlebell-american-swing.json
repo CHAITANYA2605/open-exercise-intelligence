@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0029-4000-a000-100000000029",
   "slug": "kettlebell-american-swing",
   "name": "Kettlebell American Swing (Overhead)",
-  "alternative_names": ["American Kettlebell Swing", "Overhead Kettlebell Swing"],
+  "alternative_names": [
+    "American Kettlebell Swing",
+    "Overhead Kettlebell Swing"
+  ],
   "description": "The kettlebell American swing extends the traditional Russian swing by swinging the kettlebell fully overhead to lockout, rather than stopping at shoulder height. This demands greater shoulder stability and hip power through a larger arc. The overhead finish requires the core and lats to stabilize forcefully at the top. It is popular in CrossFit and conditioning contexts, though it demands solid shoulder mobility and strength before attempting.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ]
   },
-  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_required": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet hip- to shoulder-width, kettlebell on the floor between feet. Hinge at the hips, grab the handle with both hands, tilt the bell back.",
@@ -40,32 +66,87 @@
       "Step 4: Control the descent, let the bell swing back between the legs, and repeat."
     ],
     "breathing_instructions": "Exhale sharply at hip extension, inhale on the downswing.",
-    "common_mistakes": ["Squatting instead of hinging", "Pressing the kettlebell overhead with arm strength rather than hip drive", "Lumbar hyperextension at lockout"],
-    "safety_considerations": ["Requires overhead shoulder mobility — screen before prescribing", "Do not attempt with shoulder impingement"],
+    "common_mistakes": [
+      "Squatting instead of hinging",
+      "Pressing the kettlebell overhead with arm strength rather than hip drive",
+      "Lumbar hyperextension at lockout"
+    ],
+    "safety_considerations": [
+      "Requires overhead shoulder mobility \u2014 screen before prescribing",
+      "Do not attempt with shoulder impingement"
+    ],
     "range_of_motion_guidance": "Full hip hinge to full overhead lockout with straight arms.",
-    "tempo_recommendations": "Ballistic — controlled descent",
-    "coaching_cues": ["Power from the hips", "Lock out overhead — squeeze everything", "Control the downswing"]
+    "tempo_recommendations": "Ballistic \u2014 controlled descent",
+    "coaching_cues": [
+      "Power from the hips",
+      "Lock out overhead \u2014 squeeze everything",
+      "Control the downswing"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "power", "min_reps": 5, "max_reps": 10},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+      {
+        "goal": "power",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 30
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "power", "min_sets": 4, "max_sets": 6},
-      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "power",
+        "min_sets": 4,
+        "max_sets": 6
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 30},
-    "training_goals": ["power", "endurance", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "power",
+      "endurance",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute", "hamstring", "power", "kettlebell", "conditioning"]
+    "tags": [
+      "glute",
+      "hamstring",
+      "power",
+      "kettlebell",
+      "conditioning"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

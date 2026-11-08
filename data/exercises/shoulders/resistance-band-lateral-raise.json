@@ -41,7 +41,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand on the center of a resistance band. Hold one end in each hand with a neutral grip. Arms at the sides, slight elbow bend.",
-    "setup_instructions": "Adjust the starting tension by standing on more or less of the band. The resistance increases through the range of motion — this is the key difference from dumbbells.",
+    "setup_instructions": "Adjust the starting tension by standing on more or less of the band. The resistance increases through the range of motion \u2014 this is the key difference from dumbbells.",
     "steps": [
       "Step 1: Stand on the band, one end per hand, arms at the sides.",
       "Step 2: Raise both arms out to the sides in a lateral arc.",
@@ -51,7 +51,7 @@
     ],
     "breathing_instructions": "Exhale on the raise, inhale on the descent.",
     "common_mistakes": [
-      "Releasing tension at the bottom — maintain a slight pull at all times",
+      "Releasing tension at the bottom \u2014 maintain a slight pull at all times",
       "Shrugging the traps as the arms rise"
     ],
     "safety_considerations": [
@@ -60,7 +60,7 @@
     "range_of_motion_guidance": "Starting position (arms at sides) to shoulder height.",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
-      "Increasing tension is the advantage here — use it",
+      "Increasing tension is the advantage here \u2014 use it",
       "Slow descent",
       "Lead with the elbows"
     ]
@@ -112,6 +112,9 @@
       "band",
       "medial-deltoid",
       "home-gym"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

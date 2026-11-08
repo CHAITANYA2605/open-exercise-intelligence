@@ -73,26 +73,26 @@
     "setup_instructions": "Begin with bodyweight to establish the balance and hip hinge pattern. Hold a dumbbell in the opposite hand to the working leg for a 'suitcase' loading style that improves stability, or hold weights in both hands.",
     "steps": [
       "Step 1: Stand tall on the working leg with a soft knee. Hold the weight(s) in front of the thigh.",
-      "Step 2: Hinge at the hip, pushing the hips backward as the torso leans forward and the free leg extends behind — the body forms a T-shape.",
+      "Step 2: Hinge at the hip, pushing the hips backward as the torso leans forward and the free leg extends behind \u2014 the body forms a T-shape.",
       "Step 3: Lower the weight(s) toward the floor while keeping the spine neutral and the hips level (avoid rotating open toward the ceiling).",
-      "Step 4: Hinge until the hamstring and glute are fully stretched or the torso reaches horizontal — whichever comes first without spinal rounding.",
+      "Step 4: Hinge until the hamstring and glute are fully stretched or the torso reaches horizontal \u2014 whichever comes first without spinal rounding.",
       "Step 5: Drive through the working heel, contracting the glute and hamstring to return the torso to vertical and the rear leg to standing."
     ],
     "breathing_instructions": "Inhale before the descent. Hold or breathe gently during the hinge. Exhale at the top.",
     "common_mistakes": [
-      "Opening the hip of the rear leg toward the ceiling — indicates insufficient hip stability or hip flexor tightness",
+      "Opening the hip of the rear leg toward the ceiling \u2014 indicates insufficient hip stability or hip flexor tightness",
       "Bending the working knee too much, turning it into a squat",
       "Using a weight that challenges balance before the hinge pattern is established"
     ],
     "safety_considerations": [
-      "Have a wall or rack nearby when first learning — touch it lightly for balance without leaning",
+      "Have a wall or rack nearby when first learning \u2014 touch it lightly for balance without leaning",
       "If hamstring cramping occurs, reduce the range of motion or slow the tempo"
     ],
-    "range_of_motion_guidance": "Hinge until hips are level and spine is neutral — typically until the torso approaches horizontal. Quality over depth.",
+    "range_of_motion_guidance": "Hinge until hips are level and spine is neutral \u2014 typically until the torso approaches horizontal. Quality over depth.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Hips level — don't let the free hip open up",
-      "Reach the rear leg long — it counterbalances the forward torso",
+      "Hips level \u2014 don't let the free hip open up",
+      "Reach the rear leg long \u2014 it counterbalances the forward torso",
       "Drive through the heel of the working foot to stand"
     ]
   },
@@ -173,6 +173,9 @@
       "hamstring",
       "glute",
       "balance"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

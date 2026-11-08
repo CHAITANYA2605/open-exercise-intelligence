@@ -84,11 +84,11 @@
       "Always use a spotter and set safety pins",
       "If neck or shoulder pain occurs, switch to front overhead press"
     ],
-    "range_of_motion_guidance": "Lower to the base of the skull — not down to the traps — and press to full overhead extension.",
+    "range_of_motion_guidance": "Lower to the base of the skull \u2014 not down to the traps \u2014 and press to full overhead extension.",
     "tempo_recommendations": "2-0-2-0",
     "coaching_cues": [
       "Keep the elbows tracking directly under the bar throughout the movement",
-      "Press the bar in a vertical line — not forward"
+      "Press the bar in a vertical line \u2014 not forward"
     ]
   },
   "variants": {
@@ -157,6 +157,9 @@
       "overhead",
       "advanced",
       "compound"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -63,7 +63,7 @@
     "steps": [
       "Step 1: Hold the loaded barbell end at chest height with both hands clasped. Stand tall, feet shoulder-width, toes slightly out.",
       "Step 2: Brace your core and initiate the squat by pushing the knees out and sitting the hips down.",
-      "Step 3: Descend to at least parallel. The bar will follow the arc naturally — allow this guided path to assist your positioning.",
+      "Step 3: Descend to at least parallel. The bar will follow the arc naturally \u2014 allow this guided path to assist your positioning.",
       "Step 4: Drive through the full foot to return to standing, pressing the bar slightly forward and up along its arc.",
       "Step 5: Exhale at the top."
     ],
@@ -75,12 +75,12 @@
     ],
     "safety_considerations": [
       "Ensure the anchor point is secure before loading",
-      "Keep hands firmly clasped — do not let the bar slip"
+      "Keep hands firmly clasped \u2014 do not let the bar slip"
     ],
     "range_of_motion_guidance": "Aim for parallel. The bar's angle assists depth, making this accessible for those with limited mobility.",
     "tempo_recommendations": "3-0-1-0",
     "coaching_cues": [
-      "Let the bar guide you — follow its arc",
+      "Let the bar guide you \u2014 follow its arc",
       "Knees track over toes",
       "Hips and knees extend together on the way up"
     ]
@@ -160,6 +160,9 @@
       "squat",
       "beginner-friendly",
       "landmine"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

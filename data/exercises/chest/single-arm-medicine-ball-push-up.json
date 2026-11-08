@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e04",
   "slug": "single-arm-medicine-ball-push-up",
   "name": "Single-Arm Push-Up on Medicine Ball",
-  "alternative_names": ["Medicine Ball Single-Arm Push-Up"],
+  "alternative_names": [
+    "Medicine Ball Single-Arm Push-Up"
+  ],
   "description": "A unilateral push-up progression where one hand rests on a medicine ball while the other is on the floor. The elevated, unstable hand surface increases the range of motion and balance demand on the working side, shifting the loading emphasis to the chest of that side. This variation builds toward the single-arm push-up while developing unilateral pressing strength and core anti-rotation stability.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,24 +17,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
-      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000044-0000-4000-a000-000000000044"],
+  "equipment_required": [
+    "eq000044-0000-4000-a000-000000000044"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Place one hand on the medicine ball and the other hand flat on the floor, slightly wider than shoulder width apart. Body is in a high plank position with feet together or slightly apart.",
-    "setup_instructions": "Use a firm, non-bouncy medicine ball of appropriate diameter. A 10–14cm diameter ball provides a good elevation. Place on a non-slip surface.",
+    "setup_instructions": "Use a firm, non-bouncy medicine ball of appropriate diameter. A 10\u201314cm diameter ball provides a good elevation. Place on a non-slip surface.",
     "steps": [
       "Step 1: Begin in a high plank, one hand on the ball, one on the floor. Brace the core and squeeze the glutes.",
       "Step 2: Lower your chest toward the floor with control, keeping the body rigid and preventing hip rotation.",
@@ -52,30 +77,72 @@
     "range_of_motion_guidance": "Lower chest as close to the floor as shoulder mobility allows. The ball-side arm gets a greater stretch due to elevation.",
     "tempo_recommendations": "3-0-1-0 (3s descent, 1s press)",
     "coaching_cues": [
-      "Hips stay square — resist rotation throughout",
+      "Hips stay square \u2014 resist rotation throughout",
       "Think of pulling the floor apart with both hands"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 4, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 150, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["push-up", "unilateral", "medicine-ball", "chest", "core"]
+    "tags": [
+      "push-up",
+      "unilateral",
+      "medicine-ball",
+      "chest",
+      "core"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

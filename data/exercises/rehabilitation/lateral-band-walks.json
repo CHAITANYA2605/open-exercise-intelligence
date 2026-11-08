@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50004",
   "slug": "lateral-band-walks",
   "name": "Lateral Band Walks",
-  "alternative_names": ["Side Band Walk", "Lateral Monster Walk"],
+  "alternative_names": [
+    "Side Band Walk",
+    "Lateral Monster Walk"
+  ],
   "description": "Lateral band walks are performed with a resistance band placed above the knees or around the ankles while moving sideways in an athletic stance. This exercise directly targets the gluteus medius and hip abductors responsible for lateral pelvic control and knee tracking stability. It is a staple in lower limb rehabilitation and sports performance warm-ups to prevent injury and improve dynamic hip strength.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -14,48 +17,117 @@
   "exercise_family": "rehab",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}],
-    "secondary": [{"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}],
-    "stabilizers": [{"muscle_id": "cccccccc-0001-4000-a000-00000000000c", "muscle_slug": "quadriceps"}]
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "cccccccc-0001-4000-a000-00000000000c",
+        "muscle_slug": "quadriceps"
+      }
+    ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Place a resistance band just above the knees. Stand with feet shoulder-width apart and lower into a slight squat or athletic stance.",
-    "setup_instructions": "Choose a band resistance appropriate for the population — lighter for rehabilitation, heavier for performance warm-up.",
+    "setup_instructions": "Choose a band resistance appropriate for the population \u2014 lighter for rehabilitation, heavier for performance warm-up.",
     "steps": [
       "Step 1: Adopt an athletic stance with knees slightly bent and hips slightly hinged.",
       "Step 2: Take a controlled lateral step with the lead foot, maintaining band tension.",
-      "Step 3: Bring the trail foot to restore hip-width stance — keep constant tension throughout.",
+      "Step 3: Bring the trail foot to restore hip-width stance \u2014 keep constant tension throughout.",
       "Step 4: Complete prescribed steps in one direction, then repeat to the other side."
     ],
     "breathing_instructions": "Breathe naturally throughout the movement. Do not hold your breath.",
-    "common_mistakes": ["Allowing knees to cave inward (valgus) during lateral steps", "Moving too fast and losing control of the step", "Letting feet come fully together reducing band tension"],
-    "safety_considerations": ["Ensure the band is seated comfortably above the knee — not on the kneecap", "Consult a physiotherapist for use in formal rehabilitation programs"],
-    "range_of_motion_guidance": "Steps should be moderate width — enough to maintain tension without causing the torso to tilt laterally.",
+    "common_mistakes": [
+      "Allowing knees to cave inward (valgus) during lateral steps",
+      "Moving too fast and losing control of the step",
+      "Letting feet come fully together reducing band tension"
+    ],
+    "safety_considerations": [
+      "Ensure the band is seated comfortably above the knee \u2014 not on the kneecap",
+      "Consult a physiotherapist for use in formal rehabilitation programs"
+    ],
+    "range_of_motion_guidance": "Steps should be moderate width \u2014 enough to maintain tension without causing the torso to tilt laterally.",
     "tempo_recommendations": "1 second per step, controlled throughout",
-    "coaching_cues": ["Maintain tension on the band throughout — never let it go slack", "Keep knees tracking over middle toes", "Drive the step from the hip, not the knee"]
+    "coaching_cues": [
+      "Maintain tension on the band throughout \u2014 never let it go slack",
+      "Keep knees tracking over middle toes",
+      "Drive the step from the hip, not the knee"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 10, "max_reps": 20},
-      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "mobility",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4},
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      },
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 45, "mobility": 60},
-    "training_goals": ["mobility", "endurance"]
+    "rest_periods": {
+      "endurance": 45,
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["hip", "rehabilitation", "glute-med", "knee-stability"]
+    "tags": [
+      "hip",
+      "rehabilitation",
+      "glute-med",
+      "knee-stability"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

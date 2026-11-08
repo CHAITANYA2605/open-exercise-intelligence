@@ -50,8 +50,8 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on a decline bench (15–30 degrees) with feet secured. Take a wide grip on the barbell — pinkies at or near the outer ring marks. Unrack and hold above the lower chest.",
-    "setup_instructions": "Set the decline to 15–30 degrees. Secure feet. Use collars. The wide grip should be comfortable — do not go beyond the outer grip marks.",
+    "starting_position": "Lie on a decline bench (15\u201330 degrees) with feet secured. Take a wide grip on the barbell \u2014 pinkies at or near the outer ring marks. Unrack and hold above the lower chest.",
+    "setup_instructions": "Set the decline to 15\u201330 degrees. Secure feet. Use collars. The wide grip should be comfortable \u2014 do not go beyond the outer grip marks.",
     "steps": [
       "Step 1: Unrack with a wide grip. Bar positioned above the lower chest.",
       "Step 2: Lower the bar toward the lower chest. Elbows flare wider than a shoulder-width grip would allow.",
@@ -60,19 +60,19 @@
     ],
     "breathing_instructions": "Inhale before descent, exhale on the press.",
     "common_mistakes": [
-      "Grip too extreme — beyond the outer rings creates shoulder and wrist injury risk",
+      "Grip too extreme \u2014 beyond the outer rings creates shoulder and wrist injury risk",
       "Feet unsecured on the decline bench",
       "Excessive elbow flare that places the shoulder in a compromised position"
     ],
     "safety_considerations": [
-      "Wide decline pressing stresses the shoulder joint — start lighter than standard decline press",
+      "Wide decline pressing stresses the shoulder joint \u2014 start lighter than standard decline press",
       "Use a spotter for heavier sets",
       "If wrist discomfort occurs, slightly narrow the grip"
     ],
     "range_of_motion_guidance": "Full range from lower chest to lockout. The wide grip slightly shortens the elbow's range of motion.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "Lead with the chest, not the elbows — the wide grip already does the shoulder work",
+      "Lead with the chest, not the elbows \u2014 the wide grip already does the shoulder work",
       "Keep the shoulder blades tight to protect the shoulder at the wide position"
     ]
   },
@@ -135,6 +135,9 @@
       "wide-grip",
       "bench-press",
       "lower-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

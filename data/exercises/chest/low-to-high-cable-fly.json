@@ -65,7 +65,7 @@
       "Allowing torso rotation instead of moving only at the shoulder joint"
     ],
     "safety_considerations": [
-      "Keep a consistent, slight elbow bend — do not lock out the arms",
+      "Keep a consistent, slight elbow bend \u2014 do not lock out the arms",
       "Control the eccentric to avoid jerking the shoulder at the bottom"
     ],
     "range_of_motion_guidance": "Full arc from hip height up to eye level, feeling a stretch at the bottom and a contraction at the top.",
@@ -137,6 +137,9 @@
       "upper-chest",
       "isolation",
       "fly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

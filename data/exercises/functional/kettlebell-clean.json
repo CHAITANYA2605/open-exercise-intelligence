@@ -62,30 +62,30 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand with feet shoulder-width apart. Kettlebell on the floor between the feet, hinged forward to grip with one hand.",
-    "setup_instructions": "Choose a weight manageable for clean technique — wrist bruising usually means the bell is swinging out too wide before the catch.",
+    "setup_instructions": "Choose a weight manageable for clean technique \u2014 wrist bruising usually means the bell is swinging out too wide before the catch.",
     "steps": [
       "Step 1: Hinge at the hip to grip the kettlebell. Hike it back between the legs like a hike pass in American football.",
       "Step 2: Explosively extend the hips and drive the kettlebell upward, pulling the elbow high as the bell rises.",
-      "Step 3: As the bell rises to shoulder height, rotate the hand and guide the bell into the racked position — bell resting on the forearm at the shoulder.",
+      "Step 3: As the bell rises to shoulder height, rotate the hand and guide the bell into the racked position \u2014 bell resting on the forearm at the shoulder.",
       "Step 4: Stand tall in the racked position. The bell should sit quietly without banging the forearm.",
       "Step 5: Hinge back and let the bell descend in a controlled arc back between the legs for the next rep."
     ],
     "breathing_instructions": "Exhale sharply at hip extension. Inhale during the swing back.",
     "common_mistakes": [
-      "Letting the bell loop out wide — guide it in a tight arc close to the body",
-      "Catching the bell with a limp wrist — the forearm and wrist must be firm",
+      "Letting the bell loop out wide \u2014 guide it in a tight arc close to the body",
+      "Catching the bell with a limp wrist \u2014 the forearm and wrist must be firm",
       "Not fully extending the hips at the top of the drive"
     ],
     "safety_considerations": [
-      "Wrist bruising is a learning artifact of incorrect bell path, not a training adaptation — fix technique.",
+      "Wrist bruising is a learning artifact of incorrect bell path, not a training adaptation \u2014 fix technique.",
       "Start with lighter weight to learn the racking position."
     ],
     "range_of_motion_guidance": "Full hip extension at the top of the drive. Bell fully racked at shoulder.",
-    "tempo_recommendations": "5–10 reps per arm per set. Fluid, rhythmic cadence.",
+    "tempo_recommendations": "5\u201310 reps per arm per set. Fluid, rhythmic cadence.",
     "coaching_cues": [
-      "Hike hard — drive the hips",
+      "Hike hard \u2014 drive the hips",
       "Pull the elbow high and tight",
-      "Guide the bell in — don't let it loop out"
+      "Guide the bell in \u2014 don't let it loop out"
     ]
   },
   "variants": {
@@ -148,6 +148,9 @@
       "power",
       "hinge",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

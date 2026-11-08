@@ -1,7 +1,7 @@
 {
   "exercise_id": "48882490-59d7-4121-91e3-d2deea48c2e6",
   "slug": "prowler-push-high",
-  "name": "Prowler Sled Push — High Handles",
+  "name": "Prowler Sled Push \u2014 High Handles",
   "alternative_names": [
     "High Handle Prowler Push",
     "Sled Push High",
@@ -64,10 +64,10 @@
   "equipment_required": [],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Grip the high handles of the prowler sled. Stand upright or at a moderate forward lean (20–30° from vertical). Arms are approximately straight.",
+    "starting_position": "Grip the high handles of the prowler sled. Stand upright or at a moderate forward lean (20\u201330\u00b0 from vertical). Arms are approximately straight.",
     "setup_instructions": "Load to the desired weight. The more upright position allows greater resistance than the low-handle position for most people. Use the same surface as for low-handle pushing.",
     "steps": [
-      "Step 1: Grip the high handles and lean slightly forward — not as dramatically as the low-handle position.",
+      "Step 1: Grip the high handles and lean slightly forward \u2014 not as dramatically as the low-handle position.",
       "Step 2: Drive alternating feet into the ground, pushing the sled forward with each step. Maintain a tall, rigid torso.",
       "Step 3: Push through the arms to maintain handle contact and direction, but the primary power source is leg drive.",
       "Step 4: Maintain consistent pressure on the handles throughout the push distance.",
@@ -75,18 +75,18 @@
     ],
     "breathing_instructions": "Exhale forcefully with each push step. Short, rhythmic breathing throughout the effort.",
     "common_mistakes": [
-      "Fully locking the elbows and pushing off the sled rather than through it — the arms should transmit force, not be the primary mover",
+      "Fully locking the elbows and pushing off the sled rather than through it \u2014 the arms should transmit force, not be the primary mover",
       "Excessive forward lean that collapses to a low-handle body position, losing the intended mechanical advantage of the high handle"
     ],
     "safety_considerations": [
       "Secure weight plates before pushing",
       "Clear the path for the full distance before beginning"
     ],
-    "range_of_motion_guidance": "Walk 20–60 metres per set. Full leg extension on each push step.",
-    "tempo_recommendations": "Conditioning: 40m moderate effort × 6–8 sets with 60–90 seconds rest. Strength endurance: 20m heavy × 5–6 sets with 2 minutes rest.",
+    "range_of_motion_guidance": "Walk 20\u201360 metres per set. Full leg extension on each push step.",
+    "tempo_recommendations": "Conditioning: 40m moderate effort \u00d7 6\u20138 sets with 60\u201390 seconds rest. Strength endurance: 20m heavy \u00d7 5\u20136 sets with 2 minutes rest.",
     "coaching_cues": [
       "Drive from the legs, guide with the arms",
-      "Stay tall — do not collapse forward",
+      "Stay tall \u2014 do not collapse forward",
       "Quick feet, continuous contact"
     ]
   },
@@ -138,6 +138,9 @@
       "conditioning",
       "no-eccentric",
       "functional"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

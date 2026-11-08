@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-f004-4000-a000-000000000204",
   "slug": "clean-and-jerk",
   "name": "Clean and Jerk",
-  "alternative_names": ["Clean & Jerk", "Olympic Clean and Jerk"],
+  "alternative_names": [
+    "Clean & Jerk",
+    "Olympic Clean and Jerk"
+  ],
   "description": "The clean and jerk is the second of the two Olympic weightlifting competition lifts, consisting of two distinct phases: the clean, which brings the bar from the floor to the front rack position on the shoulders, and the jerk, which drives the bar from the shoulders to a fully locked overhead position. It is typically the stronger of the two Olympic lifts and demands whole-body explosive power, precise technique, and excellent mobility throughout the shoulders, hips, and ankles.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,35 +18,79 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
-  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "execution": {
     "starting_position": "Bar over mid-foot, shoulder-width clean grip (narrower than snatch), flat back, shoulders slightly in front of the bar.",
     "setup_instructions": "Use bumper plates and a lifting platform. The jerk requires sufficient shoulder mobility to achieve a stable overhead catch. Warm up shoulders, hips, and ankles thoroughly.",
     "steps": [
-      "Step 1 (Clean): First pull — drive legs into the floor, keeping back angle constant and bar close.",
-      "Step 2 (Clean): Second pull — extend hips explosively as the bar passes the hip. Shrug and pull elbows high.",
+      "Step 1 (Clean): First pull \u2014 drive legs into the floor, keeping back angle constant and bar close.",
+      "Step 2 (Clean): Second pull \u2014 extend hips explosively as the bar passes the hip. Shrug and pull elbows high.",
       "Step 3 (Clean): Pull under the bar and receive it in the front rack position (elbows high, bar on shoulders) in a front squat. Stand to full extension.",
-      "Step 4 (Jerk): From the front rack, take a controlled dip — bend the knees 10–15 cm, keeping the torso upright.",
+      "Step 4 (Jerk): From the front rack, take a controlled dip \u2014 bend the knees 10\u201315 cm, keeping the torso upright.",
       "Step 5 (Jerk): Drive upward explosively with the legs, then drop under the bar into a split or push position with arms locked overhead. Stand to full extension."
     ],
     "breathing_instructions": "Brace before the clean. Reset and re-brace in the front rack before the jerk. Exhale after the overhead lock-out.",
@@ -56,13 +103,13 @@
     "safety_considerations": [
       "Requires extensive technical coaching. Never compromise the catch to avoid dropping the bar.",
       "Use bumper plates and be prepared to bail safely.",
-      "Wrist mobility is essential for the front rack — develop it before loading the clean."
+      "Wrist mobility is essential for the front rack \u2014 develop it before loading the clean."
     ],
     "range_of_motion_guidance": "Full hip extension on the second pull. Full overhead lockout with stable shoulder and spine in the jerk.",
     "tempo_recommendations": "Maximum explosive intent throughout. The clean is typically under 2 seconds; there is a deliberate pause in the front rack before the jerk.",
     "coaching_cues": [
-      "High elbows in the rack — bar on the shoulders, not the hands",
-      "Dip straight down — not forward",
+      "High elbows in the rack \u2014 bar on the shoulders, not the hands",
+      "Dip straight down \u2014 not forward",
       "Lock out the elbows fast in the catch"
     ]
   },
@@ -75,23 +122,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 3},
-      {"goal": "power", "min_reps": 1, "max_reps": 5}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 3
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 5
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 8},
-      {"goal": "power", "min_sets": 4, "max_sets": 8}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 8
+      },
+      {
+        "goal": "power",
+        "min_sets": 4,
+        "max_sets": 8
+      }
     ],
-    "rest_periods": {"strength": 240, "power": 180},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 240,
+      "power": 180
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic", "weightlifting", "power", "expert", "full-body"]
+    "tags": [
+      "olympic",
+      "weightlifting",
+      "power",
+      "expert",
+      "full-body"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

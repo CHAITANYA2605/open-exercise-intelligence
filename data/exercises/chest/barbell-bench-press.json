@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0001-4000-8001-000000000001",
   "slug": "barbell-bench-press",
   "name": "Barbell Bench Press",
-  "alternative_names": ["Flat Barbell Bench Press", "Bench Press"],
+  "alternative_names": [
+    "Flat Barbell Bench Press",
+    "Bench Press"
+  ],
   "description": "The barbell bench press is a foundational horizontal pushing movement performed lying on a flat bench. It is one of the most effective exercises for developing overall chest mass, anterior deltoid strength, and triceps power. The fixed barbell path and bilateral loading allow for maximum load and progressive overload potential.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,39 +18,74 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal" },
-      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular" }
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
     ],
     "secondary": [
-      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
-      { "muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head" },
-      { "muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head" },
-      { "muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head" }
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus" },
-      { "muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus" },
-      { "muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis" },
-      { "muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor" }
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
-  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "execution": {
     "starting_position": "Lie supine on a flat bench with eyes directly under the bar. Place feet flat on the floor. Grip the bar slightly wider than shoulder width with an overhand grip. Unrack the bar and hold it directly over the chest with arms fully extended.",
     "setup_instructions": "Set the barbell in a rack at a height you can unrack with arms nearly extended. Lie back so your eyes are under the bar. Arch your upper back naturally and retract your shoulder blades. Grip the bar with thumbs wrapped around it. Feet should be flat or on toes depending on preference.",
     "steps": [
       "Take a deep breath and brace your core and upper back firmly.",
       "Unrack the bar by pressing it out of the hooks and locking it over your chest with straight arms.",
-      "Lower the bar under control in a slight arc toward your lower chest or upper abdomen — roughly at the nipple line.",
+      "Lower the bar under control in a slight arc toward your lower chest or upper abdomen \u2014 roughly at the nipple line.",
       "Touch the bar to your chest lightly without bouncing or losing tension.",
       "Drive the bar back up along the same arc, pressing it toward your upper chest and exhaling forcefully at the top.",
       "Re-rack the bar by guiding it back into the hooks after completing all reps."
     ],
     "breathing_instructions": "Inhale and brace before lowering the bar. Hold or take a controlled breath during the descent. Exhale forcefully as you press the bar back to the starting position.",
     "common_mistakes": [
-      "Allowing the wrists to bend excessively backward — keep wrists stacked over the forearms",
-      "Flaring the elbows to 90 degrees — tuck slightly at 45–75 degrees to protect the shoulder",
+      "Allowing the wrists to bend excessively backward \u2014 keep wrists stacked over the forearms",
+      "Flaring the elbows to 90 degrees \u2014 tuck slightly at 45\u201375 degrees to protect the shoulder",
       "Bouncing the bar off the chest to generate momentum",
       "Losing upper back tightness by allowing shoulder blades to protract during the press",
       "Raising the hips off the bench during the concentric phase"
@@ -55,12 +93,12 @@
     "safety_considerations": [
       "Always use a spotter or safety catches when training near maximal loads",
       "Warm up rotator cuff muscles before heavy pressing",
-      "Do not use a thumbless (suicide) grip — wrap the thumbs fully around the bar"
+      "Do not use a thumbless (suicide) grip \u2014 wrap the thumbs fully around the bar"
     ],
     "range_of_motion_guidance": "Lower the bar until it touches the chest. Press to full elbow extension without locking out aggressively. A full range of motion maximizes pectoral stretch and development.",
     "tempo_recommendations": "2-1-1-0: 2 seconds eccentric descent, 1 second pause at chest, 1 second concentric press, 0 second pause at top. For strength, reduce eccentric to 1 second.",
     "coaching_cues": [
-      "Squeeze oranges in your armpits — retract and depress the shoulder blades",
+      "Squeeze oranges in your armpits \u2014 retract and depress the shoulder blades",
       "Drive your feet into the floor to create a stable base",
       "Think about bending the bar like a horseshoe as you press"
     ]
@@ -74,21 +112,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 1, "max_reps": 5 },
-      { "goal": "hypertrophy", "min_reps": 6, "max_reps": 12 },
-      { "goal": "endurance", "min_reps": 15, "max_reps": 20 }
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 6 },
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 5 },
-      { "goal": "endurance", "min_sets": 2, "max_sets": 4 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
     "rest_periods": {
       "strength": 180,
       "hypertrophy": 90,
       "endurance": 45
     },
-    "training_goals": ["strength", "hypertrophy"]
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
   "media": {
     "thumbnail": null,
@@ -102,6 +167,14 @@
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["chest", "pressing", "barbell", "compound"]
+    "tags": [
+      "chest",
+      "pressing",
+      "barbell",
+      "compound"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

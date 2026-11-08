@@ -2,7 +2,9 @@
   "exercise_id": "ba010002-f3a2-4c1e-9b8d-7e6f5a4c3b2b",
   "slug": "towel-grip-pull-up",
   "name": "Towel Grip Pull-Up",
-  "alternative_names": ["Towel Pull-Up"],
+  "alternative_names": [
+    "Towel Pull-Up"
+  ],
   "description": "The towel grip pull-up drapes one or two towels over a pull-up bar and has the lifter grip the hanging ends rather than the bar itself. The unstable, thick towel grip dramatically increases forearm and grip strength demands compared to standard pull-ups. This variation is used to develop crushing grip strength and is a popular training tool for climbers and grapplers.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +17,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"},
-      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"}
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      }
     ]
   },
-  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Drape one or two towels over a pull-up bar. Grip the hanging ends of the towels with both hands. Hang at full arm extension.",
@@ -47,32 +72,77 @@
     ],
     "safety_considerations": [
       "Ensure towels are securely draped and will not slip off the bar mid-set",
-      "Grip failure can result in a sudden fall — perform over a padded surface"
+      "Grip failure can result in a sudden fall \u2014 perform over a padded surface"
     ],
     "range_of_motion_guidance": "Full arm extension at the bottom to chin above the knot level at the top.",
     "tempo_recommendations": "2-0-2-1",
-    "coaching_cues": ["Squeeze the towel as hard as possible throughout", "Pull the elbows to your pockets", "Control the descent — don't drop"]
+    "coaching_cues": [
+      "Squeeze the towel as hard as possible throughout",
+      "Pull the elbows to your pockets",
+      "Control the descent \u2014 don't drop"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "grip", "pull-up", "advanced"]
+    "tags": [
+      "back",
+      "grip",
+      "pull-up",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

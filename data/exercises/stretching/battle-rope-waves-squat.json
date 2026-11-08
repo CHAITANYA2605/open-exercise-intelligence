@@ -2,7 +2,10 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50021",
   "slug": "battle-rope-waves-squat",
   "name": "Battle Rope Waves in Squat Position",
-  "alternative_names": ["Squat Battle Rope Waves", "Battle Rope Alternating Squat"],
+  "alternative_names": [
+    "Squat Battle Rope Waves",
+    "Battle Rope Alternating Squat"
+  ],
   "description": "Battle rope alternating waves performed from a sustained squat position, combining the cardiovascular and upper body demand of battle ropes with isometric quad and glute loading from the squat hold. The sustained squat depth during the wave sequence dramatically increases lower body time-under-tension while training the upper body explosively. This is a metabolic conditioning exercise that develops work capacity, leg endurance, and arm power simultaneously.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,49 +18,121 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
-    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Hold one end of a battle rope in each hand. Descend to a squat position (60-90 degrees of knee flexion) and maintain this position throughout the exercise.",
     "setup_instructions": "Ensure the battle rope anchor is secure. The rope must be long enough to allow the squat position while still creating waves toward the anchor.",
     "steps": [
       "Step 1: Descend into the squat position and hold. Keep the chest up and back flat.",
-      "Step 2: Begin alternating arm waves — drive the right hand down then up, then the left, creating alternating waves toward the anchor.",
+      "Step 2: Begin alternating arm waves \u2014 drive the right hand down then up, then the left, creating alternating waves toward the anchor.",
       "Step 3: Maintain the squat depth throughout the entire wave sequence.",
       "Step 4: Continue for the prescribed duration, then stand to rest."
     ],
-    "breathing_instructions": "Breathe continuously and rhythmically throughout — do not hold the breath. The metabolic demand is high.",
-    "common_mistakes": ["Rising out of the squat as fatigue sets in — the squat hold is the primary loading stimulus", "Slowing the wave speed during the set — maintain wave intensity throughout", "Using a squat depth that is too deep to hold for the entire set duration — choose a sustainable depth"],
-    "safety_considerations": ["Choose a squat depth you can hold for the full prescribed duration — shallow is fine initially", "If knee pain occurs during the squat hold, reduce depth or rest"],
-    "range_of_motion_guidance": "Squat depth that can be sustained for the full set. Waves should be full — rope touching the floor between waves.",
+    "breathing_instructions": "Breathe continuously and rhythmically throughout \u2014 do not hold the breath. The metabolic demand is high.",
+    "common_mistakes": [
+      "Rising out of the squat as fatigue sets in \u2014 the squat hold is the primary loading stimulus",
+      "Slowing the wave speed during the set \u2014 maintain wave intensity throughout",
+      "Using a squat depth that is too deep to hold for the entire set duration \u2014 choose a sustainable depth"
+    ],
+    "safety_considerations": [
+      "Choose a squat depth you can hold for the full prescribed duration \u2014 shallow is fine initially",
+      "If knee pain occurs during the squat hold, reduce depth or rest"
+    ],
+    "range_of_motion_guidance": "Squat depth that can be sustained for the full set. Waves should be full \u2014 rope touching the floor between waves.",
     "tempo_recommendations": "30-60 second work intervals. Alternate arms as fast as possible while maintaining squat depth.",
-    "coaching_cues": ["Stay down — the whole point of the squat position is the sustained lower body load", "Drive the waves fast — the battle rope conditioning benefit comes from wave speed", "Chest up in the squat — maintain a proud posture"]
+    "coaching_cues": [
+      "Stay down \u2014 the whole point of the squat position is the sustained lower body load",
+      "Drive the waves fast \u2014 the battle rope conditioning benefit comes from wave speed",
+      "Chest up in the squat \u2014 maintain a proud posture"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 1, "max_reps": 5}],
-    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 5}],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 1,
+        "max_reps": 5
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["battle-rope", "conditioning", "squat", "functional", "metabolic"]
+    "tags": [
+      "battle-rope",
+      "conditioning",
+      "squat",
+      "functional",
+      "metabolic"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

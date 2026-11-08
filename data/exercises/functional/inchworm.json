@@ -61,26 +61,26 @@
     "setup_instructions": "No equipment required. Adequate floor space for the walk-out length.",
     "steps": [
       "Step 1: Stand upright, then hinge forward at the hips and bend the knees slightly to place both hands on the floor.",
-      "Step 2: Walk the hands forward — step by step — until arriving in a full push-up plank position.",
+      "Step 2: Walk the hands forward \u2014 step by step \u2014 until arriving in a full push-up plank position.",
       "Step 3: Optional: perform one push-up in the plank position.",
       "Step 4: Walk the feet toward the hands in small steps, keeping the legs as straight as hamstring flexibility allows.",
       "Step 5: Arrive in a standing position and repeat for the prescribed number of reps."
     ],
     "breathing_instructions": "Exhale as you walk out. Inhale as you walk feet back in.",
     "common_mistakes": [
-      "Bending the knees excessively during the foot-walk phase — the hamstring stretch is the goal of that phase",
+      "Bending the knees excessively during the foot-walk phase \u2014 the hamstring stretch is the goal of that phase",
       "Letting the hips sag in the plank position",
-      "Rushing — the inchworm is a quality movement, not a speed exercise"
+      "Rushing \u2014 the inchworm is a quality movement, not a speed exercise"
     ],
     "safety_considerations": [
-      "Limited hamstring flexibility will cause excessive knee bend — this is fine initially, improve over time.",
-      "Wrist discomfort in the plank position — warm up wrists before."
+      "Limited hamstring flexibility will cause excessive knee bend \u2014 this is fine initially, improve over time.",
+      "Wrist discomfort in the plank position \u2014 warm up wrists before."
     ],
     "range_of_motion_guidance": "Walk hands as far as a full plank. Walk feet as close to hands as hamstring flexibility allows with minimal knee bend.",
-    "tempo_recommendations": "5–10 reps as a warm-up. Slow and deliberate.",
+    "tempo_recommendations": "5\u201310 reps as a warm-up. Slow and deliberate.",
     "coaching_cues": [
-      "Long walk-out — full plank",
-      "Walk the feet in — feel the hamstring stretch",
+      "Long walk-out \u2014 full plank",
+      "Walk the feet in \u2014 feel the hamstring stretch",
       "Hips level in the plank"
     ]
   },
@@ -131,6 +131,9 @@
       "mobility",
       "hamstring",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -2,8 +2,10 @@
   "exercise_id": "b6c7d8e9-f0a1-4234-b567-c89d01e23f38",
   "slug": "chained-decline-dumbbell-press",
   "name": "Chained Decline Dumbbell Press",
-  "alternative_names": ["Chain-Loaded Decline Dumbbell Press"],
-  "description": "A decline dumbbell press with chains attached to the dumbbells and draped on the floor. The decline angle targets the sternal and lower pectoral fibers while the chains provide accommodating resistance — increasing load as the dumbbells rise and chain links lift off the floor. At full lockout, the maximal chain load challenges the peak contraction where free weights typically feel easiest.",
+  "alternative_names": [
+    "Chain-Loaded Decline Dumbbell Press"
+  ],
+  "description": "A decline dumbbell press with chains attached to the dumbbells and draped on the floor. The decline angle targets the sternal and lower pectoral fibers while the chains provide accommodating resistance \u2014 increasing load as the dumbbells rise and chain links lift off the floor. At full lockout, the maximal chain load challenges the peak contraction where free weights typically feel easiest.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -15,21 +17,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
     ]
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on a decline bench (15–30 degrees) with feet secured. Attach chains to dumbbells so they drape to the floor from the bottom position. Hold dumbbells at chest level.",
+    "starting_position": "Lie on a decline bench (15\u201330 degrees) with feet secured. Attach chains to dumbbells so they drape to the floor from the bottom position. Hold dumbbells at chest level.",
     "setup_instructions": "Secure chains to dumbbell handles with carabiners. Adjust chain length so they begin lifting off the floor in the mid-to-upper range of the press. Reduce dumbbell weight to account for the chain addition.",
     "steps": [
       "Step 1: Begin at the bottom position with elbows at chest level. Chains drape to the floor.",
@@ -39,9 +59,9 @@
     ],
     "breathing_instructions": "Inhale at the bottom, exhale forcefully through the press.",
     "common_mistakes": [
-      "Chains that don't engage — means they are too long for the decline setup",
-      "Underestimating the total load — count dumbbell plus chain weight when programming",
-      "Feet unsecured — always secure feet on the decline"
+      "Chains that don't engage \u2014 means they are too long for the decline setup",
+      "Underestimating the total load \u2014 count dumbbell plus chain weight when programming",
+      "Feet unsecured \u2014 always secure feet on the decline"
     ],
     "safety_considerations": [
       "Secure feet firmly on the decline bench",
@@ -51,29 +71,69 @@
     "range_of_motion_guidance": "Full range from lower chest to lockout. Chain loading is highest at the top.",
     "tempo_recommendations": "3-1-2-1",
     "coaching_cues": [
-      "Press hard all the way through — the chains reward explosive effort at the top",
-      "Feel the bottom deload as the chains hit the floor — that tells you the range of engagement"
+      "Press hard all the way through \u2014 the chains reward explosive effort at the top",
+      "Feel the bottom deload as the chains hit the floor \u2014 that tells you the range of engagement"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 4, "max_sets": 6}
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 6
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120},
-    "training_goals": ["strength", "hypertrophy", "power"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["dumbbell", "decline", "chains", "accommodating-resistance", "advanced", "lower-chest"]
+    "tags": [
+      "dumbbell",
+      "decline",
+      "chains",
+      "accommodating-resistance",
+      "advanced",
+      "lower-chest"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -60,11 +60,11 @@
   ],
   "execution": {
     "starting_position": "Attach a rope to a high-pulley cable machine at face height. Grip the rope with both hands, palms facing each other. Stand back enough to create tension with arms extended toward the cable.",
-    "setup_instructions": "Set the cable pulley to approximately eye or forehead level. Attach a rope attachment. Use a light to moderate weight — form matters more than load here.",
+    "setup_instructions": "Set the cable pulley to approximately eye or forehead level. Attach a rope attachment. Use a light to moderate weight \u2014 form matters more than load here.",
     "steps": [
       "Step 1: Grip the rope with both hands. Step back so the cable is under tension. Elbows slightly bent at the start.",
       "Step 2: Pull the rope toward the face by driving the elbows out and back, aiming to pull the hands to either side of the face.",
-      "Step 3: At the end of the pull, externally rotate the shoulders by pulling the forearms and hands upward and back — the forearms should now point toward the ceiling.",
+      "Step 3: At the end of the pull, externally rotate the shoulders by pulling the forearms and hands upward and back \u2014 the forearms should now point toward the ceiling.",
       "Step 4: Pause at the top, squeezing the rear delts and infraspinatus, then return slowly to the start."
     ],
     "breathing_instructions": "Exhale as you pull and rotate; inhale on the return.",
@@ -73,14 +73,14 @@
       "Using too heavy a weight, which causes the torso to rock backward"
     ],
     "safety_considerations": [
-      "Keep the cable at face height — not overhead — to protect the shoulder",
+      "Keep the cable at face height \u2014 not overhead \u2014 to protect the shoulder",
       "Light weight is recommended; heavy loads undermine the form"
     ],
     "range_of_motion_guidance": "Pull until the hands reach the sides of the face; then rotate forearms fully upward.",
     "tempo_recommendations": "2-2-2-0 (hold with external rotation for 2 seconds)",
     "coaching_cues": [
       "Pull to your ears, not your chin",
-      "Finish with forearms pointing to the ceiling — that is the external rotation you want"
+      "Finish with forearms pointing to the ceiling \u2014 that is the external rotation you want"
     ]
   },
   "variants": {
@@ -139,6 +139,9 @@
       "prehab",
       "shoulder-health",
       "face-pull"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

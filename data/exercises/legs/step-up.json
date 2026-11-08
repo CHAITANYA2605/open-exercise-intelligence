@@ -63,10 +63,10 @@
     "eq000007-0000-4000-a000-000000000007"
   ],
   "execution": {
-    "starting_position": "Stand facing a box or sturdy bench of appropriate height (typically 30–60 cm). Hold dumbbells at the sides if adding load.",
+    "starting_position": "Stand facing a box or sturdy bench of appropriate height (typically 30\u201360 cm). Hold dumbbells at the sides if adding load.",
     "setup_instructions": "Choose a box height that challenges but allows the working thigh to be near parallel when the foot is placed on top. A higher box increases glute and hip demand.",
     "steps": [
-      "Step 1: Place one foot fully on the box — the entire foot, not just the toes.",
+      "Step 1: Place one foot fully on the box \u2014 the entire foot, not just the toes.",
       "Step 2: Drive through the heel of the working foot to push the body upright and bring the trailing leg up.",
       "Step 3: Stand tall on top of the box with hips extended and working leg straight.",
       "Step 4: Lower the trailing leg back to the floor in a controlled manner by bending the working knee.",
@@ -74,7 +74,7 @@
     ],
     "breathing_instructions": "Exhale as you step up. Inhale as you lower down.",
     "common_mistakes": [
-      "Pushing off the trailing leg — the step-up should be powered entirely by the working leg",
+      "Pushing off the trailing leg \u2014 the step-up should be powered entirely by the working leg",
       "Only placing toes on the box, reducing stability",
       "Leaning excessively forward on the way up"
     ],
@@ -86,8 +86,8 @@
     "tempo_recommendations": "1-0-2-0 (drive up quickly, lower slowly)",
     "coaching_cues": [
       "Drive through the heel, not the toe",
-      "Don't push off the back foot — make the front leg do the work",
-      "Stand tall at the top — full hip extension"
+      "Don't push off the back foot \u2014 make the front leg do the work",
+      "Stand tall at the top \u2014 full hip extension"
     ]
   },
   "variants": {
@@ -163,6 +163,9 @@
       "unilateral",
       "functional",
       "beginner-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -65,26 +65,26 @@
     "steps": [
       "Step 1: From standing, squat down and place both hands on the floor.",
       "Step 2: Jump or step both feet back to arrive in a push-up plank position.",
-      "Step 3: Perform one push-up — lower the chest to the floor and press back up.",
+      "Step 3: Perform one push-up \u2014 lower the chest to the floor and press back up.",
       "Step 4: Jump or step both feet forward to return to a squat position.",
       "Step 5: Explosively jump up with arms overhead, fully extending the body.",
       "Step 6: Land softly and immediately repeat the sequence."
     ],
     "breathing_instructions": "Breathe continuously throughout. Exhale on the push-up press and on the jump.",
     "common_mistakes": [
-      "Skipping the push-up — reduces the upper body demand",
+      "Skipping the push-up \u2014 reduces the upper body demand",
       "Not fully extending on the jump at the top",
-      "Landing with rigid legs — absorb through the knees and hips"
+      "Landing with rigid legs \u2014 absorb through the knees and hips"
     ],
     "safety_considerations": [
-      "High cardiovascular and musculoskeletal demand — progress gradually in volume.",
+      "High cardiovascular and musculoskeletal demand \u2014 progress gradually in volume.",
       "Not appropriate immediately post lower extremity injury."
     ],
     "range_of_motion_guidance": "Full push-up range. Full hip and knee extension on the jump.",
-    "tempo_recommendations": "Performed for time (20–60 second intervals) or for reps (5–15). Pace sustainable throughout.",
+    "tempo_recommendations": "Performed for time (20\u201360 second intervals) or for reps (5\u201315). Pace sustainable throughout.",
     "coaching_cues": [
       "Hips high in the plank",
-      "Full push-up — chest touches",
+      "Full push-up \u2014 chest touches",
       "Jump tall at the top"
     ]
   },
@@ -135,6 +135,9 @@
       "conditioning",
       "full-body",
       "burpee"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

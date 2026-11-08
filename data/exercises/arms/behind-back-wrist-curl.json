@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0122-4000-a000-100000000122",
   "slug": "behind-back-wrist-curl",
   "name": "Behind-the-Back Barbell Wrist Curl",
-  "alternative_names": ["Standing Wrist Curl", "Behind-Back Wrist Curl"],
+  "alternative_names": [
+    "Standing Wrist Curl",
+    "Behind-Back Wrist Curl"
+  ],
   "description": "The behind-the-back wrist curl is performed standing with a barbell held behind the body in a pronated grip. The wrists curl upward against the barbell's weight, targeting the wrist flexors from an extended arm angle. This standing position can allow heavier loading than the seated version, and the neutral standing position eliminates upper arm fatigue from supporting the forearms.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,13 +18,21 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
-      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand upright holding a barbell behind the body, hands in a pronated grip (overhand), bar resting at the level of the glutes.",
@@ -33,30 +44,70 @@
       "Step 4: Lower the wrists back to the starting position."
     ],
     "breathing_instructions": "Exhale on the curl, inhale on the return.",
-    "common_mistakes": ["Arms swinging forward — keep the bar behind the body", "Flexing the elbows instead of just the wrists"],
-    "safety_considerations": ["Use a grip that is comfortable — the behind-back position can stress the wrists"],
+    "common_mistakes": [
+      "Arms swinging forward \u2014 keep the bar behind the body",
+      "Flexing the elbows instead of just the wrists"
+    ],
+    "safety_considerations": [
+      "Use a grip that is comfortable \u2014 the behind-back position can stress the wrists"
+    ],
     "range_of_motion_guidance": "Full wrist extension to full flexion.",
     "tempo_recommendations": "2-1-2-0",
-    "coaching_cues": ["Bar stays behind the body", "Only the wrists move", "Squeeze the forearms at the top"]
+    "coaching_cues": [
+      "Bar stays behind the body",
+      "Only the wrists move",
+      "Squeeze the forearms at the top"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["forearm", "wrist-flexors", "isolation", "standing"]
+    "tags": [
+      "forearm",
+      "wrist-flexors",
+      "isolation",
+      "standing"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

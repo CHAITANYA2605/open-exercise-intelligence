@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e05",
   "slug": "decline-cable-flye",
   "name": "Decline Cable Flye",
-  "alternative_names": ["Low-to-High Cable Decline Fly", "Decline Cable Fly"],
+  "alternative_names": [
+    "Low-to-High Cable Decline Fly",
+    "Decline Cable Fly"
+  ],
   "description": "The decline cable flye isolates the lower and sternal portions of the pectoralis major using a cable machine set at a low pulley angle combined with a decline bench. By lying on a decline bench and pressing handles from a low cable angle, the arc of motion closely matches the lower fiber direction of the pectoralis major, creating targeted stretch and contraction.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,17 +18,32 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ]
   },
-  "equipment_required": ["eq000012-0000-4000-a000-000000000012", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Position a decline bench between two low cable pulleys. Lie on the bench with feet secured. Hold a cable handle in each hand, arms extended to sides at approximately chest level, with a slight bend in the elbows.",
@@ -43,36 +61,76 @@
       "Using too much weight, compromising the arc of motion"
     ],
     "safety_considerations": [
-      "Keep elbows slightly bent and fixed — do not straighten or flex them during the rep",
+      "Keep elbows slightly bent and fixed \u2014 do not straighten or flex them during the rep",
       "Secure feet firmly on the decline bench to prevent sliding"
     ],
     "range_of_motion_guidance": "Open arms to full stretch at the bottom (cable level), close to full adduction at the top. Avoid hyperextension at shoulder.",
     "tempo_recommendations": "3-1-2-1 (3s open, 1s stretch pause, 2s close, 1s squeeze)",
     "coaching_cues": [
       "Pretend you are hugging a large tree",
-      "The elbows never change their angle — only the shoulder joint moves"
+      "The elbows never change their angle \u2014 only the shoulder joint moves"
     ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"hypertrophy": 75, "endurance": 45},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "fly", "lower-chest", "isolation"]
+    "tags": [
+      "cable",
+      "fly",
+      "lower-chest",
+      "isolation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

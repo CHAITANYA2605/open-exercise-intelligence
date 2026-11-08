@@ -76,7 +76,7 @@
     ],
     "breathing_instructions": "Inhale on the descent, exhale as you press and tuck simultaneously.",
     "common_mistakes": [
-      "Tucking the knees before completing the push-up — the two movements should be coordinated",
+      "Tucking the knees before completing the push-up \u2014 the two movements should be coordinated",
       "Ball rolling sideways due to uneven pressure from the feet",
       "Hips rising too high during the tuck, reducing the push-up challenge"
     ],
@@ -85,11 +85,11 @@
       "Start with partial knee tucks until coordination is established",
       "Ensure ball is fully inflated and on a non-slip surface"
     ],
-    "range_of_motion_guidance": "Full push-up depth and full knee tuck — knees near the chest at the top of the press.",
+    "range_of_motion_guidance": "Full push-up depth and full knee tuck \u2014 knees near the chest at the top of the press.",
     "tempo_recommendations": "2-0-2-1 (2s down, coordinated press and tuck, 1s reset)",
     "coaching_cues": [
-      "Press and tuck at the same time — they happen together",
-      "Roll the ball with control — the hip flexors drive the tuck, the chest drives the press"
+      "Press and tuck at the same time \u2014 they happen together",
+      "Roll the ball with control \u2014 the hip flexors drive the tuck, the chest drives the press"
     ]
   },
   "variants": {
@@ -146,6 +146,9 @@
       "core",
       "advanced",
       "dynamic"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

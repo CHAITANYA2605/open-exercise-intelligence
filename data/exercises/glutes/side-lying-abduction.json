@@ -56,25 +56,25 @@
     "steps": [
       "Step 1: Lie on your side with hips stacked, legs extended, body in a straight line.",
       "Step 2: With the top leg straight and toes pointing slightly downward, raise the leg toward the ceiling by abducting the hip.",
-      "Step 3: Raise until 45–60° of abduction or until the pelvis begins to tilt.",
+      "Step 3: Raise until 45\u201360\u00b0 of abduction or until the pelvis begins to tilt.",
       "Step 4: Hold briefly at the top, then lower under control.",
       "Step 5: Complete all reps on one side then switch."
     ],
     "breathing_instructions": "Exhale as you raise the leg. Inhale as you lower.",
     "common_mistakes": [
-      "Rolling the pelvis forward or back — keep hips stacked vertically",
-      "Internally rotating the hip (toes pointing up) — slight external rotation keeps glute medius engaged",
-      "Using momentum — the movement should be slow and controlled"
+      "Rolling the pelvis forward or back \u2014 keep hips stacked vertically",
+      "Internally rotating the hip (toes pointing up) \u2014 slight external rotation keeps glute medius engaged",
+      "Using momentum \u2014 the movement should be slow and controlled"
     ],
     "safety_considerations": [
       "Very low-risk exercise suitable for beginners and rehabilitation",
       "Avoid if the exercise reproduces hip or groin pain"
     ],
-    "range_of_motion_guidance": "Raise the leg to about 45–60°. Stop before the pelvis tilts.",
+    "range_of_motion_guidance": "Raise the leg to about 45\u201360\u00b0. Stop before the pelvis tilts.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Toes slightly down — not up",
-      "Keep hips stacked — don't roll",
+      "Toes slightly down \u2014 not up",
+      "Keep hips stacked \u2014 don't roll",
       "Raise with the outer hip, not the lower back"
     ]
   },
@@ -143,6 +143,9 @@
       "beginner",
       "rehab",
       "bodyweight"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

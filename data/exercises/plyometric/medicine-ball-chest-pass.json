@@ -54,7 +54,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing a solid wall at an arm's length plus ball distance, or face a partner. Hold the medicine ball at chest height with both hands.",
-    "setup_instructions": "Use a solid, reinforced wall or trained partner. Stand 1–2 meters from the wall depending on rebound speed required.",
+    "setup_instructions": "Use a solid, reinforced wall or trained partner. Stand 1\u20132 meters from the wall depending on rebound speed required.",
     "steps": [
       "Step 1: Hold the medicine ball at chest height with both hands, elbows bent and pointing outward.",
       "Step 2: Explosively extend the arms and push the ball into the wall or to a partner with maximum force.",
@@ -63,19 +63,19 @@
     ],
     "breathing_instructions": "Exhale sharply on each throw. Inhale as you catch.",
     "common_mistakes": [
-      "Pausing between catch and throw — the stretch-shortening cycle requires a quick turnaround",
-      "Throwing with only the arms — a slight trunk and leg load increases power",
-      "Using too heavy a ball — reduces velocity and defeats the plyometric intent"
+      "Pausing between catch and throw \u2014 the stretch-shortening cycle requires a quick turnaround",
+      "Throwing with only the arms \u2014 a slight trunk and leg load increases power",
+      "Using too heavy a ball \u2014 reduces velocity and defeats the plyometric intent"
     ],
     "safety_considerations": [
-      "Use a medicine ball of appropriate weight — heavy enough for resistance, light enough for maximum velocity.",
+      "Use a medicine ball of appropriate weight \u2014 heavy enough for resistance, light enough for maximum velocity.",
       "Ensure the wall can withstand repeated impacts."
     ],
     "range_of_motion_guidance": "Full arm extension on throw. Catch with slightly bent elbows to absorb.",
-    "tempo_recommendations": "Rapid fire: 10–20 reps. Focus on minimizing time from catch to next throw.",
+    "tempo_recommendations": "Rapid fire: 10\u201320 reps. Focus on minimizing time from catch to next throw.",
     "coaching_cues": [
-      "Throw hard — catch fast — throw again",
-      "Arm extension — not just a push",
+      "Throw hard \u2014 catch fast \u2014 throw again",
+      "Arm extension \u2014 not just a push",
       "Minimal pause on catch"
     ]
   },
@@ -138,6 +138,9 @@
       "medicine-ball",
       "upper-body",
       "chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

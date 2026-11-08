@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0144-4000-a000-100000000144",
   "slug": "machine-tricep-dip",
   "name": "Machine Tricep Dip",
-  "alternative_names": ["Seated Tricep Dip Machine", "Dip Machine"],
+  "alternative_names": [
+    "Seated Tricep Dip Machine",
+    "Dip Machine"
+  ],
   "description": "The machine tricep dip is performed on a dedicated seated dip machine with pads that the hands push down against. Because the machine guides the movement and provides back support, it eliminates stabilization demands and allows the lifter to focus entirely on tricep loading. The seated position removes body weight from the equation, allowing very precise loading through the full extension movement. It is accessible for beginners and allows easy progression.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,16 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000046-0000-4000-a000-000000000046"],
+  "equipment_required": [
+    "eq000046-0000-4000-a000-000000000046"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit in the machine with the back against the pad. Grasp the handles and begin with elbows slightly bent.",
@@ -36,30 +53,69 @@
       "Step 4: Return under control to the starting position."
     ],
     "breathing_instructions": "Exhale on the press down, inhale on the return.",
-    "common_mistakes": ["Not reaching full extension at the bottom", "Leaning forward off the back pad"],
-    "safety_considerations": ["Machine design varies — check the specific ROM before loading"],
+    "common_mistakes": [
+      "Not reaching full extension at the bottom",
+      "Leaning forward off the back pad"
+    ],
+    "safety_considerations": [
+      "Machine design varies \u2014 check the specific ROM before loading"
+    ],
     "range_of_motion_guidance": "90-degree elbow angle to full extension.",
     "tempo_recommendations": "1-1-2-0",
-    "coaching_cues": ["Full extension at the bottom", "Back against the pad", "Squeeze the triceps at lockout"]
+    "coaching_cues": [
+      "Full extension at the bottom",
+      "Back against the pad",
+      "Squeeze the triceps at lockout"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "compound", "machine"]
+    "tags": [
+      "tricep",
+      "compound",
+      "machine"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

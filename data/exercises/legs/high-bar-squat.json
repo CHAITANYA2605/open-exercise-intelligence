@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0002-4000-a000-100000000002",
   "slug": "high-bar-squat",
   "name": "High-Bar Barbell Back Squat",
-  "alternative_names": ["Olympic Squat", "High Bar Squat"],
+  "alternative_names": [
+    "Olympic Squat",
+    "High Bar Squat"
+  ],
   "description": "The high-bar barbell back squat places the barbell on the upper trapezius, just below the base of the neck. This position encourages a more upright torso throughout the movement, placing greater demand on the quadriceps compared to the low-bar variation. It is the squat style used in Olympic weightlifting as it closely mimics the receiving position of the clean and snatch.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,23 +18,56 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
-      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand inside a power rack with the bar resting on the upper traps, below the base of the neck. Feet shoulder-width apart, toes turned out 15-25 degrees. Grip slightly wider than shoulders.",
@@ -43,34 +79,98 @@
       "Step 4: Drive through the full foot and extend both the hips and knees to return to standing."
     ],
     "breathing_instructions": "Inhale and brace before descent. Exhale at the top of each rep.",
-    "common_mistakes": ["Excessive forward lean (more typical of low-bar)", "Heels rising due to limited ankle dorsiflexion", "Knees collapsing inward at the bottom", "Losing upper back tension under the bar"],
-    "safety_considerations": ["Set safety bars appropriately in the power rack", "Develop adequate ankle dorsiflexion and hip mobility", "Consider heel elevation with plates if ankle mobility is limited"],
+    "common_mistakes": [
+      "Excessive forward lean (more typical of low-bar)",
+      "Heels rising due to limited ankle dorsiflexion",
+      "Knees collapsing inward at the bottom",
+      "Losing upper back tension under the bar"
+    ],
+    "safety_considerations": [
+      "Set safety bars appropriately in the power rack",
+      "Develop adequate ankle dorsiflexion and hip mobility",
+      "Consider heel elevation with plates if ankle mobility is limited"
+    ],
     "range_of_motion_guidance": "Full depth requires hip crease below the top of the knee. The more upright torso allows greater depth for many lifters.",
     "tempo_recommendations": "3-0-1-0 (3s eccentric, no pause, 1s concentric)",
-    "coaching_cues": ["Chest up throughout", "Knees forward and out", "Sit between the heels", "Stand tall at the top"]
+    "coaching_cues": [
+      "Chest up throughout",
+      "Knees forward and out",
+      "Sit between the heels",
+      "Stand tall at the top"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 1, "max_reps": 5},
-      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 12},
-      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 6},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 240, "hypertrophy": 120, "endurance": 60},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic", "squat", "compound", "barbell"]
+    "tags": [
+      "olympic",
+      "squat",
+      "compound",
+      "barbell"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

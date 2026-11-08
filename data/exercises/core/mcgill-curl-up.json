@@ -2,8 +2,11 @@
   "exercise_id": "a1b2c3d4-e013-4000-a000-000000000113",
   "slug": "mcgill-curl-up",
   "name": "McGill Curl-Up",
-  "alternative_names": ["Stuart McGill Curl-Up", "Spine-Safe Crunch"],
-  "description": "The McGill curl-up is a modified crunch developed by spine researcher Dr. Stuart McGill to target the rectus abdominis with minimal compressive load on the lumbar discs. The exercise differs from a standard crunch in that the hands are placed under the lumbar curve to preserve its natural lordosis, and only the head, neck, and upper shoulders are lifted off the floor — avoiding the full spinal flexion that increases intradiscal pressure. It is widely recommended as a spine-safe abdominal exercise in rehabilitation and clinical populations.",
+  "alternative_names": [
+    "Stuart McGill Curl-Up",
+    "Spine-Safe Crunch"
+  ],
+  "description": "The McGill curl-up is a modified crunch developed by spine researcher Dr. Stuart McGill to target the rectus abdominis with minimal compressive load on the lumbar discs. The exercise differs from a standard crunch in that the hands are placed under the lumbar curve to preserve its natural lordosis, and only the head, neck, and upper shoulders are lifted off the floor \u2014 avoiding the full spinal flexion that increases intradiscal pressure. It is widely recommended as a spine-safe abdominal exercise in rehabilitation and clinical populations.",
   "category": "rehabilitation",
   "exercise_type": "calisthenics",
   "difficulty_level": "beginner",
@@ -15,30 +18,41 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on your back with one leg straight and one knee bent, foot flat on the floor. Place both hands palms-down under the small of the lower back to support its natural curve.",
-    "setup_instructions": "Use a mat. The hands-under-lumbar position is non-negotiable for the McGill protocol — it preserves spinal lordosis.",
+    "setup_instructions": "Use a mat. The hands-under-lumbar position is non-negotiable for the McGill protocol \u2014 it preserves spinal lordosis.",
     "steps": [
       "Step 1: Lie supine with one knee bent, one leg straight. Hands under the lumbar curve.",
-      "Step 2: Brace the entire core — think about creating tension in a corset around your waist.",
-      "Step 3: Raise only the head, neck, and upper shoulders off the floor — the elbows remain on the floor.",
-      "Step 4: Hold the top position for 7–8 seconds with continuous bracing.",
+      "Step 2: Brace the entire core \u2014 think about creating tension in a corset around your waist.",
+      "Step 3: Raise only the head, neck, and upper shoulders off the floor \u2014 the elbows remain on the floor.",
+      "Step 4: Hold the top position for 7\u20138 seconds with continuous bracing.",
       "Step 5: Lower with control, rest briefly, and repeat."
     ],
     "breathing_instructions": "Exhale during the hold. Breathe shallowly to maintain the brace. Do not hold breath for the entire isometric duration.",
     "common_mistakes": [
-      "Removing the hands from under the lower back — this defeats the purpose",
+      "Removing the hands from under the lower back \u2014 this defeats the purpose",
       "Flexing the spine significantly as in a standard crunch",
       "Pulling the neck with the hands placed behind the head (the McGill variation keeps hands under the lumbar)"
     ],
@@ -47,9 +61,9 @@
       "The low ROM and preserved lordosis make it appropriate for those with disc pathology when cleared by a clinician."
     ],
     "range_of_motion_guidance": "Only lift the head, neck, and upper shoulders. The lower back remains in contact with the hands throughout. This is not a full sit-up.",
-    "tempo_recommendations": "Slow initiation (2 seconds), 7–8 second hold, 2–3 second lower. Perform 3–5 repetitions per set.",
+    "tempo_recommendations": "Slow initiation (2 seconds), 7\u20138 second hold, 2\u20133 second lower. Perform 3\u20135 repetitions per set.",
     "coaching_cues": [
-      "Hands under the low back — keep the arch",
+      "Hands under the low back \u2014 keep the arch",
       "Lift eyes to the ceiling, not to your knees",
       "Brace like you are about to get punched"
     ]
@@ -63,23 +77,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8},
-      {"goal": "endurance", "min_reps": 8, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 60, "endurance": 45},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "rehabilitation", "spine-safe", "beginner", "mcgill"]
+    "tags": [
+      "core",
+      "rehabilitation",
+      "spine-safe",
+      "beginner",
+      "mcgill"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

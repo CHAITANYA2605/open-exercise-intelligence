@@ -2,7 +2,10 @@
   "exercise_id": "762531c8-5152-43a9-b46c-ae72634f2cf8",
   "slug": "seated-cable-high-row-neck",
   "name": "Seated Cable High Row to Neck",
-  "alternative_names": ["Cable High Row Neck Level", "Seated High Cable Neck Row"],
+  "alternative_names": [
+    "Cable High Row Neck Level",
+    "Seated High Cable Neck Row"
+  ],
   "description": "The seated cable high row to neck uses a high cable pulley angled downward and pulls the attachment toward the back of the neck with elbows flared wide. The unique downward-angled pull when combined with the high target position creates intense upper trap, rhomboid, and rear deltoid contraction. It is used in bodybuilding to develop upper back width and rear delt thickness visible from the front.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,16 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" },
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+      {
+        "muscle_id": "44444444-0001-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
     ],
     "secondary": [
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit facing a high cable pulley. Attach a wide grip bar or rope. Grasp with an overhand grip, arms extended toward the high pulley.",
@@ -38,11 +55,11 @@
     ],
     "breathing_instructions": "Exhale on the pull. Inhale on the return.",
     "common_mistakes": [
-      "Pulling behind the neck with excessive weight — creates cervical spine risk",
+      "Pulling behind the neck with excessive weight \u2014 creates cervical spine risk",
       "Elbows tracking forward rather than out wide"
     ],
     "safety_considerations": [
-      "Moderate loads only — the cervical spine is vulnerable in this position",
+      "Moderate loads only \u2014 the cervical spine is vulnerable in this position",
       "Do not force the neck into flexion; pull to a comfortable position"
     ],
     "range_of_motion_guidance": "Arms extended to attachment at neck level with elbows wide.",
@@ -62,21 +79,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90 },
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "row", "high-row", "neck", "upper-back", "trapezius"]
+    "tags": [
+      "cable",
+      "row",
+      "high-row",
+      "neck",
+      "upper-back",
+      "trapezius"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -7,7 +7,7 @@
     "Australian Ring Row",
     "Inverted Ring Row"
   ],
-  "description": "The ring row is a bodyweight horizontal pulling exercise performed with gymnastic rings suspended at an adjustable height. By walking the feet forward or backward, the difficulty scales dramatically — nearly vertical for beginners, nearly horizontal for advanced trainees. The rings' instability demands significant rotator cuff and scapular stabilizer engagement throughout the pull.",
+  "description": "The ring row is a bodyweight horizontal pulling exercise performed with gymnastic rings suspended at an adjustable height. By walking the feet forward or backward, the difficulty scales dramatically \u2014 nearly vertical for beginners, nearly horizontal for advanced trainees. The rings' instability demands significant rotator cuff and scapular stabilizer engagement throughout the pull.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "beginner",
@@ -64,8 +64,8 @@
     "eq000043-0000-4000-a000-000000000043"
   ],
   "execution": {
-    "starting_position": "Hang rings at approximately waist to chest height. Grasp a ring in each hand and walk feet forward under the rings until the body is at an angle — the more horizontal the body, the harder the exercise. Arms are extended with the body forming a straight line from head to heels.",
-    "setup_instructions": "Secure rings overhead from a pull-up bar, beam, or dedicated rack. Set height based on difficulty level — higher rings create an easier angle. Keep feet flat on the floor or elevated on a box to increase difficulty.",
+    "starting_position": "Hang rings at approximately waist to chest height. Grasp a ring in each hand and walk feet forward under the rings until the body is at an angle \u2014 the more horizontal the body, the harder the exercise. Arms are extended with the body forming a straight line from head to heels.",
+    "setup_instructions": "Secure rings overhead from a pull-up bar, beam, or dedicated rack. Set height based on difficulty level \u2014 higher rings create an easier angle. Keep feet flat on the floor or elevated on a box to increase difficulty.",
     "steps": [
       "Step 1: Begin with arms extended, body in a straight plank position, rings at arm's length.",
       "Step 2: Keeping the body rigid, retract the scapulae and row the chest up toward the rings.",
@@ -75,18 +75,18 @@
     ],
     "breathing_instructions": "Exhale as you row up. Inhale as you lower.",
     "common_mistakes": [
-      "Letting the hips sag — the entire body must stay rigid as a plank",
+      "Letting the hips sag \u2014 the entire body must stay rigid as a plank",
       "Pulling the rings to the neck rather than the chest",
       "Not completing full arm extension at the bottom"
     ],
     "safety_considerations": [
       "Verify ring straps and anchor point are rated for your body weight before beginning",
-      "Increase angle gradually — do not attempt a fully horizontal position without sufficient pulling strength"
+      "Increase angle gradually \u2014 do not attempt a fully horizontal position without sufficient pulling strength"
     ],
     "range_of_motion_guidance": "Full extension at the bottom to rings touching the chest at the top.",
     "tempo_recommendations": "2-1-3-0 (2s pull, 1s hold, 3s lower)",
     "coaching_cues": [
-      "Your body is a rigid board — nothing bends except the elbows and shoulders",
+      "Your body is a rigid board \u2014 nothing bends except the elbows and shoulders",
       "Think 'chest to rings' not 'chin to rings'",
       "Rotate the pinkies up as you pull to maximize rear delt and rhomboid contraction"
     ]
@@ -162,6 +162,9 @@
       "row",
       "calisthenics",
       "scalable"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -64,10 +64,10 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "The sandbag is on the floor in front of the feet. Hinge at the hips, grab the sandbag handles or hug the bag with both arms, back flat, chest up.",
-    "setup_instructions": "Choose a sandbag weight that allows an explosive clean without losing postural control — typically 30–50% of bodyweight to start. Use a sandbag with handles for the first attempts.",
+    "setup_instructions": "Choose a sandbag weight that allows an explosive clean without losing postural control \u2014 typically 30\u201350% of bodyweight to start. Use a sandbag with handles for the first attempts.",
     "steps": [
       "Step 1: Deadlift the sandbag from the floor to mid-thigh, keeping it close to the body.",
-      "Step 2: Extend the hips explosively — the same hip pop as a kettlebell swing. Drive the elbows high as you pull the bag upward.",
+      "Step 2: Extend the hips explosively \u2014 the same hip pop as a kettlebell swing. Drive the elbows high as you pull the bag upward.",
       "Step 3: As the bag rises, drop under it slightly and 'catch' it at the shoulder or chest level, rotating the elbows forward.",
       "Step 4: Stand tall in the catch position with the bag at the chest or shoulder, core braced.",
       "Step 5: Lower the bag to the floor with control by hinging at the hips. Repeat."
@@ -76,16 +76,16 @@
     "common_mistakes": [
       "Lifting with the back and arms instead of using explosive hip extension as the primary driver",
       "Not pulling the elbows high enough, causing the bag to crash into the chest",
-      "Soft catch — always brace the core hard at the moment the bag arrives at the shoulder"
+      "Soft catch \u2014 always brace the core hard at the moment the bag arrives at the shoulder"
     ],
     "safety_considerations": [
-      "If the bag slips, let it drop — do not catch it awkwardly to protect the lower back",
+      "If the bag slips, let it drop \u2014 do not catch it awkwardly to protect the lower back",
       "Master the deadlift pattern and kettlebell swing before loading the sandbag clean heavily"
     ],
     "range_of_motion_guidance": "Full hip extension at the top of the drive. The bag should travel from the floor to shoulder height in one continuous movement.",
-    "tempo_recommendations": "Power development: 3–5 reps × 4–6 sets. Rest 2–3 minutes. Conditioning: 8–10 reps × 3–4 sets with 90 seconds rest.",
+    "tempo_recommendations": "Power development: 3\u20135 reps \u00d7 4\u20136 sets. Rest 2\u20133 minutes. Conditioning: 8\u201310 reps \u00d7 3\u20134 sets with 90 seconds rest.",
     "coaching_cues": [
-      "Hips first — do not muscle it up with the arms",
+      "Hips first \u2014 do not muscle it up with the arms",
       "Hug the bag tight to your body throughout the pull",
       "Drive the elbows high at the top"
     ]
@@ -149,6 +149,9 @@
       "power",
       "sandbag",
       "functional"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

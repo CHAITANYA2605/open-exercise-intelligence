@@ -51,10 +51,10 @@
     "eq000013-0000-4000-a000-000000000013"
   ],
   "execution": {
-    "starting_position": "Lie on one side with hips stacked, knees bent to approximately 45°, and feet together. The head rests on the lower arm.",
+    "starting_position": "Lie on one side with hips stacked, knees bent to approximately 45\u00b0, and feet together. The head rests on the lower arm.",
     "setup_instructions": "No equipment needed for bodyweight. Place a mini loop band just above the knees for added resistance.",
     "steps": [
-      "Step 1: Lie on your side with hips stacked and knees bent at 45°. Keep the feet together throughout.",
+      "Step 1: Lie on your side with hips stacked and knees bent at 45\u00b0. Keep the feet together throughout.",
       "Step 2: Keeping the feet together, raise the top knee toward the ceiling by externally rotating the hip.",
       "Step 3: Open until the top knee is as high as possible without letting the pelvis roll backward.",
       "Step 4: Hold the peak position, then lower the knee back to the start under control.",
@@ -62,8 +62,8 @@
     ],
     "breathing_instructions": "Exhale as you open the knee. Inhale as you close.",
     "common_mistakes": [
-      "Rolling the pelvis backward to increase range — the hip should rotate, not the spine",
-      "Raising the knee so high that the pelvis tilts — control the range",
+      "Rolling the pelvis backward to increase range \u2014 the hip should rotate, not the spine",
+      "Raising the knee so high that the pelvis tilts \u2014 control the range",
       "Using momentum instead of a slow, controlled movement"
     ],
     "safety_considerations": [
@@ -73,8 +73,8 @@
     "range_of_motion_guidance": "Open the knee as far as possible without pelvic roll. Quality of rotation matters more than range.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Open like a clamshell — feet stay touching",
-      "Don't let the pelvis roll back — keep the hips stacked",
+      "Open like a clamshell \u2014 feet stay touching",
+      "Don't let the pelvis roll back \u2014 keep the hips stacked",
       "Squeeze the glute at the top"
     ]
   },
@@ -144,6 +144,9 @@
       "rehab",
       "bodyweight",
       "physical-therapy"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

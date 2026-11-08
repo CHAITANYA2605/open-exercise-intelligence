@@ -62,7 +62,7 @@
     "starting_position": "Lie on a flat bench. Grip the bar with palms facing toward your face (supinated). Use a grip slightly inside shoulder-width for comfort. Thumbs wrap around the bar.",
     "setup_instructions": "It is strongly recommended to use a power rack. Have a spotter available as the supinated grip is biomechanically weaker and the bar can roll out of control if grip fails. Use a weight below your standard bench max.",
     "steps": [
-      "Step 1: Unrack bar with a supinated grip. The bar will feel different — elbows naturally tuck closer to the torso.",
+      "Step 1: Unrack bar with a supinated grip. The bar will feel different \u2014 elbows naturally tuck closer to the torso.",
       "Step 2: Lower the bar slowly to touch the lower chest, keeping elbows at approximately 45-50 degrees from the torso.",
       "Step 3: Press up and slightly back toward the rack to reach lockout.",
       "Step 4: Control the bar carefully on the return."
@@ -73,14 +73,14 @@
       "Failing to inform the spotter of the grip type before attempting"
     ],
     "safety_considerations": [
-      "The supinated grip is weaker — reduce load by 15-25% from your standard bench",
-      "Bar control is different — always use a spotter or power rack safeties",
+      "The supinated grip is weaker \u2014 reduce load by 15-25% from your standard bench",
+      "Bar control is different \u2014 always use a spotter or power rack safeties",
       "Discontinue if wrist or elbow discomfort occurs"
     ],
-    "range_of_motion_guidance": "Full ROM — bar touches lower chest, elbows extend to lockout.",
+    "range_of_motion_guidance": "Full ROM \u2014 bar touches lower chest, elbows extend to lockout.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Keep elbows tucked — this is the nature of the grip",
+      "Keep elbows tucked \u2014 this is the nature of the grip",
       "Think about pressing the bar toward the ceiling, not toward your feet"
     ]
   },
@@ -129,6 +129,9 @@
       "upper-chest",
       "supinated-grip",
       "grip-variation"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

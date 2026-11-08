@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-0143-4000-a000-100000000143",
   "slug": "weighted-bench-dips",
   "name": "Weighted Bench Dips",
-  "alternative_names": ["Bench Dips with Weight"],
+  "alternative_names": [
+    "Bench Dips with Weight"
+  ],
   "description": "Weighted bench dips are performed the same as bodyweight bench dips but with weight plates placed across the lap to increase the loading. The hands are on a bench behind the body, the feet are on a surface in front, and the hips dip down between. Adding weight plates allows the exercise to progress beyond bodyweight limitations. The exercise primarily works the triceps with significant anterior deltoid involvement.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,16 +17,31 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000015-0000-4000-a000-000000000015", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000015-0000-4000-a000-000000000015",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Place hands behind on a flat bench, feet on another elevated surface in front. Place weight plates across the lap. Begin with arms extended.",
@@ -36,30 +53,71 @@
       "Step 4: Keep the torso close to the bench edge throughout."
     ],
     "breathing_instructions": "Inhale on the descent, exhale on the press.",
-    "common_mistakes": ["Letting the hips drift too far from the bench (strains the shoulder)", "Insufficient depth"],
-    "safety_considerations": ["The anterior shoulder is under significant stress — avoid very heavy loading which can damage the shoulder capsule", "Feet elevation should allow 90-degree elbow flexion at the bottom"],
+    "common_mistakes": [
+      "Letting the hips drift too far from the bench (strains the shoulder)",
+      "Insufficient depth"
+    ],
+    "safety_considerations": [
+      "The anterior shoulder is under significant stress \u2014 avoid very heavy loading which can damage the shoulder capsule",
+      "Feet elevation should allow 90-degree elbow flexion at the bottom"
+    ],
     "range_of_motion_guidance": "Upper arms to parallel with the floor at the bottom.",
     "tempo_recommendations": "2-0-2-0",
-    "coaching_cues": ["Keep the torso upright and close to the bench", "Elbows bend straight back — not flared", "Squeeze at the top"]
+    "coaching_cues": [
+      "Keep the torso upright and close to the bench",
+      "Elbows bend straight back \u2014 not flared",
+      "Squeeze at the top"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "compound", "bench-dip", "weighted"]
+    "tags": [
+      "tricep",
+      "compound",
+      "bench-dip",
+      "weighted"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

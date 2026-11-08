@@ -74,24 +74,24 @@
     "setup_instructions": "Set the bar in a rack at shoulder height. Clean or take the bar from the rack to the front rack position. Ensure adequate overhead clearance.",
     "steps": [
       "Step 1: Hold the bar in the front rack position, elbows slightly forward. Feet shoulder-width apart.",
-      "Step 2: Dip slightly at the knees and hips — a shallow, quick bend of approximately 10–15 degrees.",
+      "Step 2: Dip slightly at the knees and hips \u2014 a shallow, quick bend of approximately 10\u201315 degrees.",
       "Step 3: Explosively reverse the dip with leg drive, extending hips and knees rapidly to generate upward momentum.",
       "Step 4: Use the momentum to press the bar overhead to full lockout, finishing with ears in front of the arms overhead."
     ],
     "breathing_instructions": "Inhale and brace before the dip; exhale at the top of the press.",
     "common_mistakes": [
       "Dipping too deep, turning it into a squat and losing the rapid leg drive timing",
-      "Pressing forward rather than straight up — the bar should travel vertically"
+      "Pressing forward rather than straight up \u2014 the bar should travel vertically"
     ],
     "safety_considerations": [
       "Learn the strict overhead press first to establish the pressing path before adding leg drive",
       "Use a rack to get the bar into position safely at heavy loads"
     ],
     "range_of_motion_guidance": "Full lockout overhead with the bar over the mid-foot; full return to the front rack position.",
-    "tempo_recommendations": "Explosive drive then controlled descent — no tempo count",
+    "tempo_recommendations": "Explosive drive then controlled descent \u2014 no tempo count",
     "coaching_cues": [
-      "Dip straight down, drive straight up — no forward lean",
-      "The dip is quick and shallow — a calf raise, not a squat"
+      "Dip straight down, drive straight up \u2014 no forward lean",
+      "The dip is quick and shallow \u2014 a calf raise, not a squat"
     ]
   },
   "variants": {
@@ -173,6 +173,9 @@
       "power",
       "compound",
       "leg-drive"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

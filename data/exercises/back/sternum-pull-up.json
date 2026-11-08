@@ -2,7 +2,10 @@
   "exercise_id": "ba010001-f3a2-4c1e-9b8d-7e6f5a4c3b2a",
   "slug": "sternum-pull-up",
   "name": "Sternum Pull-Up / Gironda Pull-Up",
-  "alternative_names": ["Gironda Pull-Up", "High Pull-Up"],
+  "alternative_names": [
+    "Gironda Pull-Up",
+    "High Pull-Up"
+  ],
   "description": "The sternum pull-up, popularized by Vince Gironda, requires the lifter to pull the chest all the way to the bar rather than stopping when the chin clears it. The torso leans back throughout the movement, shifting emphasis from the lats to the lower lats, rhomboids, and rear deltoids. It demands greater scapular retraction than a standard pull-up and produces a unique contraction in the mid-back musculature.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,28 +18,53 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
-  "equipment_optional": ["eq000049-0000-4000-a000-000000000049"],
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [
+    "eq000049-0000-4000-a000-000000000049"
+  ],
   "execution": {
     "starting_position": "Hang from a pull-up bar with a shoulder-width overhand grip. Allow the body to hang fully with arms extended.",
     "setup_instructions": "Use a bar that allows full hang without the feet touching the floor. Lean the torso back slightly at the start.",
     "steps": [
       "Step 1: Begin hanging with an overhand grip slightly wider than shoulder width.",
       "Step 2: Initiate the pull by depressing and retracting the scapulae.",
-      "Step 3: Lean the torso back as you pull, aiming to bring the sternum — not the chin — to the bar.",
+      "Step 3: Lean the torso back as you pull, aiming to bring the sternum \u2014 not the chin \u2014 to the bar.",
       "Step 4: At peak contraction, the torso is at approximately 30-45 degrees from vertical and the chest touches or nearly touches the bar.",
       "Step 5: Lower under control, maintaining the leaned-back position until arms are nearly extended, then return to full hang."
     ],
@@ -47,33 +75,78 @@
       "Using momentum rather than controlled muscle contraction"
     ],
     "safety_considerations": [
-      "Requires substantial upper body pulling strength — build standard pull-up proficiency first",
+      "Requires substantial upper body pulling strength \u2014 build standard pull-up proficiency first",
       "Do not force the chest to the bar if shoulder mobility is limited"
     ],
     "range_of_motion_guidance": "Full hang at the bottom to chest contact with the bar at the top. The extended ROM distinguishes this from a standard pull-up.",
     "tempo_recommendations": "2-0-2-1 (2s pull, 0s pause, 2s descent, 1s hang reset)",
-    "coaching_cues": ["Bring your chest to the bar, not your chin", "Lean back as you pull", "Squeeze the shoulder blades together at the top"]
+    "coaching_cues": [
+      "Bring your chest to the bar, not your chin",
+      "Lean back as you pull",
+      "Squeeze the shoulder blades together at the top"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 6},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "pull-up", "advanced", "gironda"]
+    "tags": [
+      "back",
+      "pull-up",
+      "advanced",
+      "gironda"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -67,7 +67,7 @@
     "breathing_instructions": "Inhale and brace before each rep. Exhale at lockout.",
     "common_mistakes": [
       "Letting the bar drift forward away from the body",
-      "Not resetting posture and brace between reps — each rep should be treated as a new lift",
+      "Not resetting posture and brace between reps \u2014 each rep should be treated as a new lift",
       "Hyperextending the lower back at lockout"
     ],
     "safety_considerations": [
@@ -75,7 +75,7 @@
       "Block height should be chosen based on the specific sticking point being targeted"
     ],
     "range_of_motion_guidance": "From block height to full lockout. The partial ROM is intentional for overload purposes.",
-    "tempo_recommendations": "Controlled pull, locked top position (1–2s), controlled 2s lowering to blocks.",
+    "tempo_recommendations": "Controlled pull, locked top position (1\u20132s), controlled 2s lowering to blocks.",
     "coaching_cues": [
       "Drive the floor away with both feet equally",
       "Bar stays in contact with the thighs all the way up",
@@ -141,6 +141,9 @@
       "blocks",
       "partial",
       "strength"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

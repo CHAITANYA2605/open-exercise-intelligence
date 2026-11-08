@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50001",
   "slug": "terminal-knee-extension-band",
   "name": "Terminal Knee Extension with Band",
-  "alternative_names": ["TKE", "Band TKE"],
+  "alternative_names": [
+    "TKE",
+    "Band TKE"
+  ],
   "description": "Terminal knee extension with a resistance band targets the final degrees of knee extension, emphasizing the vastus medialis oblique (VMO). A band is anchored behind the knee, and the exerciser extends the knee against the band's pull from a slightly flexed position. This exercise is widely used in knee rehabilitation protocols following injury or surgery to restore quadriceps activation and patellar tracking.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -14,11 +17,28 @@
   "exercise_family": "rehab",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}],
-    "secondary": [{"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}],
-    "stabilizers": [{"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}]
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Anchor a resistance band to a fixed point behind you at knee height. Stand facing away and loop the band behind one knee. Begin with that knee slightly flexed, weight on the working leg.",
@@ -30,32 +50,85 @@
       "Step 4: Slowly return to the starting flexed position under control. Repeat."
     ],
     "breathing_instructions": "Exhale as you extend the knee to lockout. Inhale as you return to the flexed starting position.",
-    "common_mistakes": ["Allowing the knee to drift inward (valgus) during extension", "Using momentum rather than controlled muscle contraction", "Not fully extending to lockout — partial extension misses the VMO stimulus"],
-    "safety_considerations": ["Consult a physiotherapist before using this exercise for post-surgical rehabilitation", "Do not perform with acute joint swelling", "Keep the movement slow and controlled throughout"],
+    "common_mistakes": [
+      "Allowing the knee to drift inward (valgus) during extension",
+      "Using momentum rather than controlled muscle contraction",
+      "Not fully extending to lockout \u2014 partial extension misses the VMO stimulus"
+    ],
+    "safety_considerations": [
+      "Consult a physiotherapist before using this exercise for post-surgical rehabilitation",
+      "Do not perform with acute joint swelling",
+      "Keep the movement slow and controlled throughout"
+    ],
     "range_of_motion_guidance": "Work through approximately 20 degrees of flexion to full extension. Focus quality on the last 10-15 degrees where VMO activation peaks.",
     "tempo_recommendations": "2-0-2-1 (2s flex, no pause, 2s extend, 1s squeeze at lockout)",
-    "coaching_cues": ["Feel the inner quad contract at lockout", "Drive the heel into the floor as you extend", "Do not hyperextend the knee — stop at neutral"]
+    "coaching_cues": [
+      "Feel the inner quad contract at lockout",
+      "Drive the heel into the floor as you extend",
+      "Do not hyperextend the knee \u2014 stop at neutral"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 15, "max_reps": 25},
-      {"goal": "mobility", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "mobility",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4},
-      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      },
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 45, "mobility": 60},
-    "training_goals": ["mobility", "endurance"]
+    "rest_periods": {
+      "endurance": 45,
+      "mobility": 60
+    },
+    "training_goals": [
+      "mobility",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["knee", "rehabilitation", "VMO", "patellar"]
+    "tags": [
+      "knee",
+      "rehabilitation",
+      "VMO",
+      "patellar"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

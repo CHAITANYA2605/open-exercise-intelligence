@@ -62,22 +62,22 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Position the barbell on the upper traps as in a back squat. Stand with feet hip to shoulder-width apart and knees soft (slight bend).",
-    "setup_instructions": "Begin with a very light load — this exercise has enormous moment arm leverage on the lower back. Build load conservatively over many sessions.",
+    "setup_instructions": "Begin with a very light load \u2014 this exercise has enormous moment arm leverage on the lower back. Build load conservatively over many sessions.",
     "steps": [
       "Step 1: Stand with the bar on upper traps, core braced, knees soft. Foot width is hip to shoulder-width.",
-      "Step 2: Initiate the movement by pushing the hips backward — not by bending at the waist. Maintain a neutral spine throughout.",
+      "Step 2: Initiate the movement by pushing the hips backward \u2014 not by bending at the waist. Maintain a neutral spine throughout.",
       "Step 3: Continue hinging until the torso approaches horizontal (or until hamstring flexibility limits further range without lumbar rounding).",
       "Step 4: Reverse the movement by contracting the hamstrings and glutes to drive the hips forward and return the torso to vertical.",
       "Step 5: Exhale at the top."
     ],
     "breathing_instructions": "Inhale and brace before the hip hinge. Hold through the descent. Exhale as you return to vertical.",
     "common_mistakes": [
-      "Rounding the lower back — this significantly increases disc injury risk under a loaded barbell",
+      "Rounding the lower back \u2014 this significantly increases disc injury risk under a loaded barbell",
       "Bending the knees excessively, turning it into a squat",
       "Using more load than hamstring flexibility allows, forcing lumbar flexion"
     ],
     "safety_considerations": [
-      "This exercise places high compressive and shear load on the lumbar spine — do not load it heavily without established hip hinge mechanics",
+      "This exercise places high compressive and shear load on the lumbar spine \u2014 do not load it heavily without established hip hinge mechanics",
       "If you feel any sharp pain in the lower back, stop immediately",
       "Master the Romanian deadlift before attempting the good morning with significant load"
     ],
@@ -86,7 +86,7 @@
     "coaching_cues": [
       "Push the hips back, don't bow at the waist",
       "Chest tall, spine long throughout",
-      "Feel the hamstrings stretch — stop before the lower back rounds"
+      "Feel the hamstrings stretch \u2014 stop before the lower back rounds"
     ]
   },
   "variants": {
@@ -164,6 +164,9 @@
       "hamstring",
       "lower-back",
       "powerlifting-accessory"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

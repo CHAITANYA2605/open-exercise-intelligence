@@ -59,18 +59,18 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on a flat bench. Loop a resistance band around each dumbbell and anchor the other end securely under the bench legs. Hold dumbbells at chest level, elbows at 45–75 degrees.",
-    "setup_instructions": "Use light-to-medium bands — the dumbbell weight plus band tension at lockout should be your working load. Secure bands under bench legs before lying down. Test band security before full sets.",
+    "starting_position": "Lie on a flat bench. Loop a resistance band around each dumbbell and anchor the other end securely under the bench legs. Hold dumbbells at chest level, elbows at 45\u201375 degrees.",
+    "setup_instructions": "Use light-to-medium bands \u2014 the dumbbell weight plus band tension at lockout should be your working load. Secure bands under bench legs before lying down. Test band security before full sets.",
     "steps": [
       "Step 1: Lie on the bench with dumbbells at chest level. Feel the bands pulling the dumbbells downward with added force.",
       "Step 2: Press dumbbells up and together toward the ceiling. Notice the resistance increases as you approach lockout.",
-      "Step 3: Fully extend arms at the top — this is where peak band tension occurs.",
+      "Step 3: Fully extend arms at the top \u2014 this is where peak band tension occurs.",
       "Step 4: Lower under full control. The band assistance on the way down helps deload the bottom position. Repeat."
     ],
     "breathing_instructions": "Inhale at the bottom, exhale forcefully through the press.",
     "common_mistakes": [
       "Using bands that are too heavy, overwhelming the dumbbell weight",
-      "Inadequate band anchor — bands must be stable throughout the set",
+      "Inadequate band anchor \u2014 bands must be stable throughout the set",
       "Pressing without committing to full lockout, missing the high-tension zone"
     ],
     "safety_considerations": [
@@ -78,11 +78,11 @@
       "Start with lighter bands to understand the resistance curve before adding more tension",
       "Have a spotter when using significant band tension"
     ],
-    "range_of_motion_guidance": "Full range from chest to full lockout. The lockout is intentional — this is where the bands provide maximum training stimulus.",
+    "range_of_motion_guidance": "Full range from chest to full lockout. The lockout is intentional \u2014 this is where the bands provide maximum training stimulus.",
     "tempo_recommendations": "2-1-2-1",
     "coaching_cues": [
-      "Press hard all the way to lockout — the bands are testing you there",
-      "Control the negative — the bands will try to pull the dumbbells down faster than free weights would"
+      "Press hard all the way to lockout \u2014 the bands are testing you there",
+      "Control the negative \u2014 the bands will try to pull the dumbbells down faster than free weights would"
     ]
   },
   "variants": {
@@ -145,6 +145,9 @@
       "accommodating-resistance",
       "bench-press",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -1,7 +1,7 @@
 {
   "exercise_id": "bc5c138c-5ab6-4ab4-b0db-4e973c3c286b",
   "slug": "ssb-good-morning-pause-pins",
-  "name": "Safety Squat Bar Good Morning — Pause on Pins",
+  "name": "Safety Squat Bar Good Morning \u2014 Pause on Pins",
   "alternative_names": [
     "SSB Good Morning Pause",
     "Cambered Bar Good Morning Pin Pause"
@@ -55,7 +55,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set up in a power rack with the safety pins at the height where the SSB bar makes contact when the torso is at approximately parallel to the floor. Load the SSB and unrack it. Stand with feet hip-width, slight knee bend.",
-    "setup_instructions": "Set the safety pins to touch the bar when the torso reaches the target hinge angle (typically parallel or slightly below). Never let the spine round to reach the pins — set them at the appropriate height for your current flexibility.",
+    "setup_instructions": "Set the safety pins to touch the bar when the torso reaches the target hinge angle (typically parallel or slightly below). Never let the spine round to reach the pins \u2014 set them at the appropriate height for your current flexibility.",
     "steps": [
       "Step 1: Unrack the SSB and brace the core. Begin with a slight knee bend.",
       "Step 2: Hinge at the hip, keeping the spine rigid and neutral, until the bar makes contact with the safety pins.",
@@ -64,19 +64,19 @@
     ],
     "breathing_instructions": "Inhale and brace before hinging. Take a secondary brace during the pause. Exhale forcefully during the ascent.",
     "common_mistakes": [
-      "Rounding the lower back to reach the pins — set the pins higher if this occurs",
+      "Rounding the lower back to reach the pins \u2014 set the pins higher if this occurs",
       "Using the bounce off the pins rather than pausing fully",
-      "Using the SSB's yoke to assist the lift — the arms should remain relaxed on the bar handles"
+      "Using the SSB's yoke to assist the lift \u2014 the arms should remain relaxed on the bar handles"
     ],
     "safety_considerations": [
       "This is an advanced exercise requiring a thorough understanding of the hip hinge pattern before loading",
-      "Start light — the SSB increases the moment arm compared to straight bar good mornings",
+      "Start light \u2014 the SSB increases the moment arm compared to straight bar good mornings",
       "Never set pins so low that lumbar rounding is required to reach them"
     ],
-    "range_of_motion_guidance": "Hinge until the bar contacts the pins — this is set by pin height, not by flexibility. Work within a pain-free range.",
+    "range_of_motion_guidance": "Hinge until the bar contacts the pins \u2014 this is set by pin height, not by flexibility. Work within a pain-free range.",
     "tempo_recommendations": "3s eccentric, 2s full pause on pins, 2s concentric drive",
     "coaching_cues": [
-      "Hinge like you're trying to push your hips to the wall behind you — not just bow forward",
+      "Hinge like you're trying to push your hips to the wall behind you \u2014 not just bow forward",
       "During the pause: fully release the tension and let the bar rest on the pins before rebuilding your brace",
       "Drive the floor away with the feet to initiate the ascent from the dead stop"
     ]
@@ -140,6 +140,9 @@
       "functional",
       "posterior-chain",
       "powerlifting"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

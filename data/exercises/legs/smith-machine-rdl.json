@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-0021-4000-a000-100000000021",
   "slug": "smith-machine-rdl",
   "name": "Smith Machine Romanian Deadlift",
-  "alternative_names": ["Smith Machine RDL"],
+  "alternative_names": [
+    "Smith Machine RDL"
+  ],
   "description": "The Smith machine Romanian deadlift uses the guided bar path of the Smith machine to perform the hip hinge pattern. The fixed vertical track removes the need for lateral bar control, allowing the lifter to focus entirely on the hinge mechanics and hamstring stretch. It is a good option for beginners learning the RDL pattern or for those who want to train without a spotter on a hinge movement.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +17,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
-      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000006-0000-4000-a000-000000000006"],
+  "equipment_required": [
+    "eq000006-0000-4000-a000-000000000006"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set the Smith machine bar at hip height. Stand with feet hip-width apart, holding the bar with an overhand grip slightly outside hip width.",
@@ -40,32 +65,83 @@
       "Step 4: Drive the hips forward to return to standing, squeezing the glutes at the top."
     ],
     "breathing_instructions": "Inhale and brace before the descent. Exhale as you drive up.",
-    "common_mistakes": ["Lower back rounding to gain additional depth", "Bar drifting away from the legs", "Knees bending too much, turning it into a deadlift"],
-    "safety_considerations": ["The Smith machine's fixed path is vertical — ensure your hinge pattern matches this for natural movement"],
+    "common_mistakes": [
+      "Lower back rounding to gain additional depth",
+      "Bar drifting away from the legs",
+      "Knees bending too much, turning it into a deadlift"
+    ],
+    "safety_considerations": [
+      "The Smith machine's fixed path is vertical \u2014 ensure your hinge pattern matches this for natural movement"
+    ],
     "range_of_motion_guidance": "Descend to mid-shin or as far as hamstring flexibility allows without spinal flexion.",
     "tempo_recommendations": "3-0-1-0",
-    "coaching_cues": ["Bar slides down the thighs", "Push the hips back, not down", "Hamstring stretch guides your depth"]
+    "coaching_cues": [
+      "Bar slides down the thighs",
+      "Push the hips back, not down",
+      "Hamstring stretch guides your depth"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["smith-machine", "hamstring", "hinge", "rdl"]
+    "tags": [
+      "smith-machine",
+      "hamstring",
+      "hinge",
+      "rdl"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

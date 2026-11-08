@@ -1,0 +1,31 @@
+name: Test Search Engine
+
+on:
+  pull_request:
+    paths:
+      - 'search/**'
+      - 'data/exercises/**'
+      - 'sdks/js/**'
+
+jobs:
+  test-search:
+    name: Search Engine Smoke Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify search module loads
+        run: node -e "const s = require('./search/index.js'); console.log('Search loaded OK');"
+
+      - name: Run search smoke tests
+        run: node search/index.js
+
+      - name: Validate dataset
+        run: node scripts/validate.js

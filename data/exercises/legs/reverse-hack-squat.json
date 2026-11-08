@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0008-4000-a000-100000000008",
   "slug": "reverse-hack-squat",
   "name": "Reverse Hack Squat Machine",
-  "alternative_names": ["Facing-In Hack Squat", "Reverse Hack"],
+  "alternative_names": [
+    "Facing-In Hack Squat",
+    "Reverse Hack"
+  ],
   "description": "The reverse hack squat is performed on a standard hack squat machine with the lifter facing into the pad rather than away from it. This orientation creates a squat pattern similar to a barbell squat but machine-guided, with significantly greater hip hinge component. The chest rests on the shoulder pads and the hips push back during descent, heavily recruiting the glutes and hamstrings in addition to the quadriceps.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,47 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
-      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000035-0000-4000-a000-000000000035"],
+  "equipment_required": [
+    "eq000035-0000-4000-a000-000000000035"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Face into the hack squat machine with your chest against the shoulder pads and feet on the platform. Feet can be placed lower on the platform to accentuate the hip hinge.",
@@ -41,32 +70,84 @@
       "Step 4: Drive through the entire foot, extending hips and knees together to return to the top."
     ],
     "breathing_instructions": "Inhale and brace before descent. Exhale on the ascent.",
-    "common_mistakes": ["Hips rising faster than the torso on the ascent", "Insufficient depth", "Letting chest come off the pad"],
-    "safety_considerations": ["Engage the safety locks before stepping out of position", "The shoulder pads create pressure on the chest — do not load excessively heavy initially"],
+    "common_mistakes": [
+      "Hips rising faster than the torso on the ascent",
+      "Insufficient depth",
+      "Letting chest come off the pad"
+    ],
+    "safety_considerations": [
+      "Engage the safety locks before stepping out of position",
+      "The shoulder pads create pressure on the chest \u2014 do not load excessively heavy initially"
+    ],
     "range_of_motion_guidance": "Thighs parallel or below. Greater hip flexion than the standard hack squat.",
     "tempo_recommendations": "3-0-1-0",
-    "coaching_cues": ["Hips back as you descend", "Drive the hips through at lockout", "Chest stays on the pad"]
+    "coaching_cues": [
+      "Hips back as you descend",
+      "Drive the hips through at lockout",
+      "Chest stays on the pad"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 5, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90},
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["machine", "squat", "glute", "hamstring"]
+    "tags": [
+      "machine",
+      "squat",
+      "glute",
+      "hamstring"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

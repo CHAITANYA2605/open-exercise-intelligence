@@ -51,19 +51,19 @@
     "eq000007-0000-4000-a000-000000000007"
   ],
   "execution": {
-    "starting_position": "Position the upper back against a bench. Place one foot flat on the floor, the other leg raised and extended forward at approximately 45°.",
+    "starting_position": "Position the upper back against a bench. Place one foot flat on the floor, the other leg raised and extended forward at approximately 45\u00b0.",
     "setup_instructions": "Same bench setup as the hip thrust. Begin with bodyweight before adding a dumbbell or plate on the working hip.",
     "steps": [
       "Step 1: Upper back on the bench edge, one foot flat on the floor, the other leg extended and raised. Drive through the planted foot.",
-      "Step 2: Push the hips upward until full hip extension — the body forms a straight line from shoulder to planted knee.",
+      "Step 2: Push the hips upward until full hip extension \u2014 the body forms a straight line from shoulder to planted knee.",
       "Step 3: Squeeze the working glute forcefully at the top.",
       "Step 4: Lower the hips under control to just above the floor.",
       "Step 5: Complete all reps on one side before switching."
     ],
     "breathing_instructions": "Exhale as hips rise. Inhale as hips lower.",
     "common_mistakes": [
-      "Letting the hip rotate open toward the raised leg — keep hips level throughout",
-      "Using the hands to push off the bench — the working leg does the work",
+      "Letting the hip rotate open toward the raised leg \u2014 keep hips level throughout",
+      "Using the hands to push off the bench \u2014 the working leg does the work",
       "Hyperextending the lower back at the top"
     ],
     "safety_considerations": [
@@ -74,8 +74,8 @@
     "tempo_recommendations": "1-1-2-0",
     "coaching_cues": [
       "Drive through the planted heel",
-      "Keep the hips level — don't let the free hip drop",
-      "Squeeze the glute at the top — think of crushing a walnut"
+      "Keep the hips level \u2014 don't let the free hip drop",
+      "Squeeze the glute at the top \u2014 think of crushing a walnut"
     ]
   },
   "variants": {
@@ -152,6 +152,9 @@
       "glute",
       "unilateral",
       "hip-extension"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

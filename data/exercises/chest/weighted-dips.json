@@ -71,7 +71,7 @@
       "Step 2: Lower the body by bending the elbows, maintaining a consistent forward torso lean.",
       "Step 3: Descend until shoulders are at or below elbow level for full depth.",
       "Step 4: Drive powerfully upward through the hands, pressing back to the lockout position.",
-      "Step 5: Maintain a controlled tempo — do not use the weight as momentum."
+      "Step 5: Maintain a controlled tempo \u2014 do not use the weight as momentum."
     ],
     "breathing_instructions": "Inhale as you lower. Exhale as you press up through the lockout.",
     "common_mistakes": [
@@ -80,14 +80,14 @@
       "Locking the elbows aggressively at the top with excessive weight"
     ],
     "safety_considerations": [
-      "Master 15–20 clean bodyweight dips before adding external load",
-      "Use a dip belt designed for this purpose — improvised attachment can be dangerous",
+      "Master 15\u201320 clean bodyweight dips before adding external load",
+      "Use a dip belt designed for this purpose \u2014 improvised attachment can be dangerous",
       "Avoid if you have anterior shoulder impingement or rotator cuff issues"
     ],
     "range_of_motion_guidance": "Lower until shoulder is at or below elbow level. Full lockout at the top without hyperextending the elbow joint.",
     "tempo_recommendations": "3-1-1-0",
     "coaching_cues": [
-      "Lean forward for chest — stay upright for triceps",
+      "Lean forward for chest \u2014 stay upright for triceps",
       "Full depth every rep",
       "The added weight is a privilege earned with clean bodyweight dips"
     ]
@@ -161,6 +161,9 @@
       "advanced",
       "compound",
       "strength"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

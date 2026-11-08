@@ -69,27 +69,27 @@
     "setup_instructions": "Mark a target on the wall at the prescribed height (typically 3 meters for men, 2.7 meters for women in functional fitness standards). Use a soft medicine ball rated for wall-ball impact.",
     "steps": [
       "Step 1: Hold the ball at chest/chin height, stand facing the wall.",
-      "Step 2: Descend into a full squat — hip crease below the knee.",
+      "Step 2: Descend into a full squat \u2014 hip crease below the knee.",
       "Step 3: Drive out of the squat explosively, transferring momentum into the arms.",
       "Step 4: Push the ball upward and release it toward the wall target.",
       "Step 5: Catch the ball as it rebounds and absorb into the next squat immediately."
     ],
     "breathing_instructions": "Exhale sharply at the top of the throw. Inhale on the descent.",
     "common_mistakes": [
-      "Not reaching full squat depth — the hip crease must pass below the knee",
-      "Throwing too early — the throw should be powered by the leg drive, not the arms alone",
-      "Catching the ball with straight arms — absorb with slightly bent elbows"
+      "Not reaching full squat depth \u2014 the hip crease must pass below the knee",
+      "Throwing too early \u2014 the throw should be powered by the leg drive, not the arms alone",
+      "Catching the ball with straight arms \u2014 absorb with slightly bent elbows"
     ],
     "safety_considerations": [
-      "Missing the catch can result in the ball dropping on the face or head — stay alert throughout.",
+      "Missing the catch can result in the ball dropping on the face or head \u2014 stay alert throughout.",
       "Adequate shoulder mobility for the overhead throw position."
     ],
     "range_of_motion_guidance": "Full squat depth. Full overhead extension at ball release.",
-    "tempo_recommendations": "Performed for reps (10–30) or time (60–120 second intervals) in conditioning workouts.",
+    "tempo_recommendations": "Performed for reps (10\u201330) or time (60\u2013120 second intervals) in conditioning workouts.",
     "coaching_cues": [
-      "Squat deep — hip crease below the knee",
-      "Drive up — throw at the top",
-      "Catch and load — smooth transition"
+      "Squat deep \u2014 hip crease below the knee",
+      "Drive up \u2014 throw at the top",
+      "Catch and load \u2014 smooth transition"
     ]
   },
   "variants": {
@@ -140,6 +140,9 @@
       "squat",
       "medicine-ball",
       "full-body"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

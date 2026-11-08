@@ -2,7 +2,10 @@
   "exercise_id": "d9ebd9de-a1b0-49aa-bbe5-02730394213b",
   "slug": "overhead-band-pull-apart",
   "name": "Overhead Band Pull-Apart",
-  "alternative_names": ["Overhead Pull-Apart Band", "Band Pull-Apart Overhead"],
+  "alternative_names": [
+    "Overhead Pull-Apart Band",
+    "Band Pull-Apart Overhead"
+  ],
   "description": "The overhead band pull-apart starts with arms raised overhead holding a resistance band and pulls the band apart behind the head, training the rear deltoids and middle trapezius through an overhead pulling arc. This positioning creates different stress on the shoulder rotators compared to the standard chest-height pull-apart, challenging the external rotators in a more vulnerable and often undertrained overhead position.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,19 +18,30 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
-      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "secondary": [
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Hold a resistance band with both hands wider than shoulder width. Raise arms overhead — band taut across the front overhead.",
-    "setup_instructions": "Use a very light band — the overhead position greatly increases mechanical disadvantage.",
+    "starting_position": "Hold a resistance band with both hands wider than shoulder width. Raise arms overhead \u2014 band taut across the front overhead.",
+    "setup_instructions": "Use a very light band \u2014 the overhead position greatly increases mechanical disadvantage.",
     "steps": [
       "Step 1: Begin with arms overhead, band taut.",
       "Step 2: Pull the band apart by moving the hands outward and downward in an arc.",
@@ -37,19 +51,19 @@
     ],
     "breathing_instructions": "Exhale on the pull-apart. Inhale returning.",
     "common_mistakes": [
-      "Using too strong a band — the overhead position significantly reduces load capacity",
-      "Bending the elbows — arms stay straight throughout"
+      "Using too strong a band \u2014 the overhead position significantly reduces load capacity",
+      "Bending the elbows \u2014 arms stay straight throughout"
     ],
     "safety_considerations": [
-      "Very light band tension — this is a mobility and shoulder health exercise",
+      "Very light band tension \u2014 this is a mobility and shoulder health exercise",
       "Stop if shoulder pain occurs at any point in the arc"
     ],
     "range_of_motion_guidance": "Band from overhead front to behind the head.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Light band — quality beats quantity",
+      "Light band \u2014 quality beats quantity",
       "Lead with the pinkies as you pull apart",
-      "Full arc — behind the head, not just beside"
+      "Full arc \u2014 behind the head, not just beside"
     ]
   },
   "variants": {
@@ -61,21 +75,49 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "rehabilitation", "min_reps": 15, "max_reps": 25 }
+      {
+        "goal": "rehabilitation",
+        "min_reps": 15,
+        "max_reps": 25
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 4 }
+      {
+        "goal": "rehabilitation",
+        "min_sets": 2,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "rehabilitation": 60 },
-    "training_goals": ["rehabilitation", "mobility", "hypertrophy"]
+    "rest_periods": {
+      "rehabilitation": 60
+    },
+    "training_goals": [
+      "rehabilitation",
+      "mobility",
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["band", "pull-apart", "overhead", "rear-delt", "shoulder-health"]
+    "tags": [
+      "band",
+      "pull-apart",
+      "overhead",
+      "rear-delt",
+      "shoulder-health"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

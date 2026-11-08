@@ -2,8 +2,11 @@
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50024",
   "slug": "scapular-depression-pull-ups",
   "name": "Scapular Pull-Ups",
-  "alternative_names": ["Scapular Retractions at Bar", "Dead Hang Scapular Depressions"],
-  "description": "Scapular pull-ups are a foundational shoulder rehabilitation exercise performed from a hanging position on a pull-up bar. Without bending the elbows, the exerciser actively depresses and retracts the shoulder blades, lifting the body slightly through scapular movement alone. This isolates the lower trapezius and serratus anterior with the arms at full extension — a critical position for establishing the shoulder stability needed before progressing to full pull-ups. Used in shoulder impingement rehabilitation, rotator cuff programs, and gymnastics foundations.",
+  "alternative_names": [
+    "Scapular Retractions at Bar",
+    "Dead Hang Scapular Depressions"
+  ],
+  "description": "Scapular pull-ups are a foundational shoulder rehabilitation exercise performed from a hanging position on a pull-up bar. Without bending the elbows, the exerciser actively depresses and retracts the shoulder blades, lifting the body slightly through scapular movement alone. This isolates the lower trapezius and serratus anterior with the arms at full extension \u2014 a critical position for establishing the shoulder stability needed before progressing to full pull-ups. Used in shoulder impingement rehabilitation, rotator cuff programs, and gymnastics foundations.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
   "difficulty_level": "beginner",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
     ]
   },
-  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
-  "equipment_optional": ["eq000019-0000-4000-a000-000000000019", "eq000020-0000-4000-a000-000000000020"],
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [
+    "eq000019-0000-4000-a000-000000000019",
+    "eq000020-0000-4000-a000-000000000020"
+  ],
   "execution": {
     "starting_position": "Hang from a pull-up bar with both hands in an overhand grip, shoulder-width or slightly wider. Arms are fully extended, body hanging passively.",
     "setup_instructions": "Begin from a full passive hang (scapulae elevated). Grip firmly. Feet can be slightly bent at the knees if needed to clear the floor.",
@@ -38,32 +61,85 @@
       "Step 4: Slowly return to the passive hang, allowing the shoulder blades to fully elevate. Repeat."
     ],
     "breathing_instructions": "Exhale as you depress the scapulae. Inhale as you release back to the passive hang.",
-    "common_mistakes": ["Bending the elbows — this converts it into the beginning of a pull-up. Elbows stay locked throughout", "Barely activating the scapulae and treating it as a passive exercise — you should feel the lower trapezius working clearly", "Rushing — slow controlled depression and return are what build the target muscles"],
-    "safety_considerations": ["If you lack grip strength to perform this safely, use lifting straps", "Avoid if any shoulder position in the full hang causes sharp pain — stay in a pain-free range"],
-    "range_of_motion_guidance": "The range is small — a few centimeters of body rise from full scapular depression. The arm angle should not change.",
+    "common_mistakes": [
+      "Bending the elbows \u2014 this converts it into the beginning of a pull-up. Elbows stay locked throughout",
+      "Barely activating the scapulae and treating it as a passive exercise \u2014 you should feel the lower trapezius working clearly",
+      "Rushing \u2014 slow controlled depression and return are what build the target muscles"
+    ],
+    "safety_considerations": [
+      "If you lack grip strength to perform this safely, use lifting straps",
+      "Avoid if any shoulder position in the full hang causes sharp pain \u2014 stay in a pain-free range"
+    ],
+    "range_of_motion_guidance": "The range is small \u2014 a few centimeters of body rise from full scapular depression. The arm angle should not change.",
     "tempo_recommendations": "2s depress, 2s hold, 2s release",
-    "coaching_cues": ["Imagine pulling your shoulder blades into your back pockets", "Elbows absolutely straight throughout — this is not a pull-up", "Feel the bottom of the shoulder blades activate — that is the lower trapezius"]
+    "coaching_cues": [
+      "Imagine pulling your shoulder blades into your back pockets",
+      "Elbows absolutely straight throughout \u2014 this is not a pull-up",
+      "Feel the bottom of the shoulder blades activate \u2014 that is the lower trapezius"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "endurance", "min_reps": 8, "max_reps": 15},
-      {"goal": "strength", "min_reps": 5, "max_reps": 10}
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "endurance", "min_sets": 2, "max_sets": 4},
-      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      },
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"endurance": 60, "strength": 90},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "endurance": 60,
+      "strength": 90
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["scapular", "shoulder", "rehabilitation", "pull-up-bar", "trapezius"]
+    "tags": [
+      "scapular",
+      "shoulder",
+      "rehabilitation",
+      "pull-up-bar",
+      "trapezius"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

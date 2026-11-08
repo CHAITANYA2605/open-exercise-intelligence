@@ -61,7 +61,7 @@
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
       "Constant tension from start to top",
-      "Pull wide — not forward",
+      "Pull wide \u2014 not forward",
       "Slow on the way down"
     ]
   },
@@ -112,6 +112,9 @@
       "cable",
       "medial-deltoid",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

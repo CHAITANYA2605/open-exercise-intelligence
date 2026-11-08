@@ -6,7 +6,7 @@
     "Decline Sit-Up with Plate",
     "Loaded Decline Sit-Up"
   ],
-  "description": "The weighted decline sit-up adds external resistance — typically a weight plate held at the chest or extended overhead — to the standard decline sit-up, dramatically increasing the demand on the rectus abdominis and providing a stimulus sufficient for muscular hypertrophy. Holding the load overhead increases the lever arm and further challenges the abs throughout the movement. Progressive overload is straightforward by incrementally increasing plate weight.",
+  "description": "The weighted decline sit-up adds external resistance \u2014 typically a weight plate held at the chest or extended overhead \u2014 to the standard decline sit-up, dramatically increasing the demand on the rectus abdominis and providing a stimulus sufficient for muscular hypertrophy. Holding the load overhead increases the lever arm and further challenges the abs throughout the movement. Progressive overload is straightforward by incrementally increasing plate weight.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "advanced",
@@ -55,7 +55,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on the decline bench with feet secured. Hold a weight plate at the chest with both hands, or extend it overhead.",
-    "setup_instructions": "Begin with a light plate (5–10 kg) held at the chest before progressing to overhead positioning. Secure feet firmly.",
+    "setup_instructions": "Begin with a light plate (5\u201310 kg) held at the chest before progressing to overhead positioning. Secure feet firmly.",
     "steps": [
       "Step 1: Lie fully extended on the bench, holding the plate at the chest.",
       "Step 2: Curl the torso upward by contracting the abs, raising the plate as the torso rises.",
@@ -69,13 +69,13 @@
       "Dropping quickly on the descent and losing eccentric tension"
     ],
     "safety_considerations": [
-      "Avoid if lumbar disc issues are present — the combination of flexion and load is contraindicated"
+      "Avoid if lumbar disc issues are present \u2014 the combination of flexion and load is contraindicated"
     ],
     "range_of_motion_guidance": "Full extension at the bottom to fully upright at the top.",
     "tempo_recommendations": "3-1-3-0. Full eccentric control is critical with added load.",
     "coaching_cues": [
       "Squeeze the plate to maintain tension",
-      "Control the descent — the eccentric is where the gains are"
+      "Control the descent \u2014 the eccentric is where the gains are"
     ]
   },
   "variants": {
@@ -131,6 +131,9 @@
       "weighted",
       "decline",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

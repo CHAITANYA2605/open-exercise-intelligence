@@ -51,24 +51,24 @@
       "Step 1: Stand on one leg with knees together.",
       "Step 2: Grasp the ankle of the opposite leg and draw the heel toward the glute.",
       "Step 3: Squeeze the glute of the stretching leg to extend the hip slightly, increasing the stretch on the rectus femoris.",
-      "Step 4: Keep both knees together and the torso upright — do not let the hip of the raised leg flare outward.",
-      "Step 5: Hold 30–60 seconds, then switch legs."
+      "Step 4: Keep both knees together and the torso upright \u2014 do not let the hip of the raised leg flare outward.",
+      "Step 5: Hold 30\u201360 seconds, then switch legs."
     ],
     "breathing_instructions": "Breathe slowly and deeply throughout the hold.",
     "common_mistakes": [
-      "Letting the knee of the stretching leg flare sideways — keep knees aligned",
+      "Letting the knee of the stretching leg flare sideways \u2014 keep knees aligned",
       "Leaning forward at the hip, which reduces the stretch on the rectus femoris",
       "Pulling the heel into the glute with excessive force, stressing the knee joint"
     ],
     "safety_considerations": [
       "Those with knee pain should ensure the stretch is felt in the thigh, not the knee",
-      "Do not wrench the ankle — a gentle hold is sufficient"
+      "Do not wrench the ankle \u2014 a gentle hold is sufficient"
     ],
     "range_of_motion_guidance": "Bring the heel toward the glute as far as comfortable without discomfort in the knee.",
-    "tempo_recommendations": "Hold 30–60 seconds per side. 2–3 rounds.",
+    "tempo_recommendations": "Hold 30\u201360 seconds per side. 2\u20133 rounds.",
     "coaching_cues": [
       "Squeeze the glute of the leg you are stretching to increase the stretch",
-      "Stand tall — imagine a string pulling you up through the top of your head",
+      "Stand tall \u2014 imagine a string pulling you up through the top of your head",
       "Keep the knees touching or close together"
     ]
   },
@@ -119,6 +119,9 @@
       "rectus-femoris",
       "beginner",
       "mobility"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

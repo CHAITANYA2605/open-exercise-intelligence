@@ -2,7 +2,10 @@
   "exercise_id": "da2281e3-b57d-4c73-bf74-7165b0afe9fc",
   "slug": "underhand-tbar-row",
   "name": "Underhand T-Bar Row",
-  "alternative_names": ["Supinated T-Bar Row", "Reverse Grip T-Bar Row"],
+  "alternative_names": [
+    "Supinated T-Bar Row",
+    "Reverse Grip T-Bar Row"
+  ],
   "description": "The underhand T-bar row uses a supinated (palms-up) grip on the T-bar, allowing the elbows to track close to the body and placing the biceps in a mechanically advantageous position. The supinated grip enables a fuller range of motion and facilitates lower lat engagement at the bottom of the pull, making it a popular choice for developing lower lat thickness.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,21 +18,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
-      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+      {
+        "muscle_id": "11111111-0001-4000-a000-000000000001",
+        "muscle_slug": "biceps-brachii"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ]
   },
-  "equipment_required": ["eq000039-0000-4000-a000-000000000039"],
+  "equipment_required": [
+    "eq000039-0000-4000-a000-000000000039"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Straddle the T-bar machine. Turn the hands supinated (palms up) on the handles or bar. Hinge to 45-60 degrees, arms extended.",
-    "setup_instructions": "Some T-bar machines do not accommodate a supinated grip — in that case, use a straight bar end on a landmine setup where the hands can grip palm-up.",
+    "setup_instructions": "Some T-bar machines do not accommodate a supinated grip \u2014 in that case, use a straight bar end on a landmine setup where the hands can grip palm-up.",
     "steps": [
       "Step 1: Begin with arms extended, palms facing up.",
       "Step 2: Initiate the row by driving the elbows back alongside the torso.",
@@ -39,11 +56,11 @@
     ],
     "breathing_instructions": "Exhale on the row. Inhale on the descent.",
     "common_mistakes": [
-      "Supinating the wrists so far it becomes uncomfortable — find a comfortable angle",
-      "Bicep-dominant pulling — think lat stretch and contraction, not curl"
+      "Supinating the wrists so far it becomes uncomfortable \u2014 find a comfortable angle",
+      "Bicep-dominant pulling \u2014 think lat stretch and contraction, not curl"
     ],
     "safety_considerations": [
-      "The supinated wrist position can stress the wrist joint — progress load conservatively",
+      "The supinated wrist position can stress the wrist joint \u2014 progress load conservatively",
       "Avoid this variation with wrist injuries"
     ],
     "range_of_motion_guidance": "Full arm extension to full lat contraction.",
@@ -63,21 +80,48 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 90 },
-    "training_goals": ["hypertrophy", "strength"]
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["t-bar", "row", "underhand", "supinated", "lat"]
+    "tags": [
+      "t-bar",
+      "row",
+      "underhand",
+      "supinated",
+      "lat"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

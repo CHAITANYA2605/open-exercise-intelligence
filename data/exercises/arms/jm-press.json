@@ -2,7 +2,9 @@
   "exercise_id": "a1b2c3d4-0141-4000-a000-100000000141",
   "slug": "jm-press",
   "name": "JM Press",
-  "alternative_names": ["JM Blakley Press"],
+  "alternative_names": [
+    "JM Blakley Press"
+  ],
   "description": "The JM press is a powerlifting-derived tricep exercise invented by JM Blakley that blends a close-grip bench press and a skull crusher. The bar is unracked and lowered to the neck area with the elbows moving forward (past the bar's path), then pressed back to lockout. The position combines elbow flexion and shoulder flexion, loading the triceps in a unique way that transfers directly to lockout strength in the bench press. It is primarily used by powerlifters for tricep mass and strength.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,20 +17,35 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
-      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
-      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Lie on a flat bench, bar in a close-grip bench press position (hands slightly inside shoulder width). Bar pressed to full extension.",
-    "setup_instructions": "Have a spotter. Use a moderate load — lighter than your close-grip bench press. This is a technical movement requiring practice.",
+    "setup_instructions": "Have a spotter. Use a moderate load \u2014 lighter than your close-grip bench press. This is a technical movement requiring practice.",
     "steps": [
       "Step 1: Lower the bar toward the neck, allowing the elbows to push forward and down simultaneously.",
       "Step 2: The bar travels toward the throat or chin as the elbows drop below the bar path.",
@@ -36,32 +53,83 @@
       "Step 4: Drive the bar back to the starting position by extending the elbows and pushing the arms back."
     ],
     "breathing_instructions": "Inhale on descent, exhale on press.",
-    "common_mistakes": ["Attempting heavy loads before mastering the technique", "Letting the bar rest on the throat rather than controlling it"],
-    "safety_considerations": ["This exercise involves the bar approaching the throat — always use a spotter", "Master lighter loads before increasing weight"],
+    "common_mistakes": [
+      "Attempting heavy loads before mastering the technique",
+      "Letting the bar rest on the throat rather than controlling it"
+    ],
+    "safety_considerations": [
+      "This exercise involves the bar approaching the throat \u2014 always use a spotter",
+      "Master lighter loads before increasing weight"
+    ],
     "range_of_motion_guidance": "Bar to throat level at the bottom, full lockout at the top.",
     "tempo_recommendations": "2-0-1-0",
-    "coaching_cues": ["Elbows forward on the descent", "Think skull crusher + close-grip press hybrid", "Spotter required"]
+    "coaching_cues": [
+      "Elbows forward on the descent",
+      "Think skull crusher + close-grip press hybrid",
+      "Spotter required"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 3, "max_reps": 8},
-      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 12}
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 180, "hypertrophy": 120},
-    "training_goals": ["strength", "hypertrophy"]
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["tricep", "compound", "powerlifting", "advanced"]
+    "tags": [
+      "tricep",
+      "compound",
+      "powerlifting",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

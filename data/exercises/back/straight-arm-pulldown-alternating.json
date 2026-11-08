@@ -2,7 +2,10 @@
   "exercise_id": "e2e9309c-234b-453a-bb94-4baee4b43b5f",
   "slug": "straight-arm-pulldown-alternating",
   "name": "Alternating Straight-Arm Pulldown",
-  "alternative_names": ["Alternating Cable Straight-Arm Pull", "One-Arm Alternating Pulldown"],
+  "alternative_names": [
+    "Alternating Cable Straight-Arm Pull",
+    "One-Arm Alternating Pulldown"
+  ],
   "description": "The alternating straight-arm pulldown performs the movement one arm at a time in alternating fashion from a high cable pulley, keeping constant tension on the lats throughout the set. The alternating rhythm ensures that one side is always under load, increasing total time under tension and providing a brief stretch to each lat while the opposite side contracts.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,15 +18,26 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "secondary": [
-      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" },
-      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" }
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Stand facing a high cable with two single handle attachments (or a wide bar you can use one hand at a time). Grasp one handle in each hand. Arms extended overhead.",
@@ -38,10 +52,10 @@
     "breathing_instructions": "Breathe continuously with the alternating rhythm.",
     "common_mistakes": [
       "Bending elbows during the pull",
-      "Losing the stretch on the extended arm — let it reach fully overhead"
+      "Losing the stretch on the extended arm \u2014 let it reach fully overhead"
     ],
     "safety_considerations": [
-      "Light loads — this is a mind-muscle connection and stretch-focused exercise",
+      "Light loads \u2014 this is a mind-muscle connection and stretch-focused exercise",
       "Keep the shoulders away from the ears throughout"
     ],
     "range_of_motion_guidance": "Full overhead extension to hip level on each arm.",
@@ -61,21 +75,47 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": { "hypertrophy": 60 },
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["cable", "straight-arm", "alternating", "lat", "pulldown"]
+    "tags": [
+      "cable",
+      "straight-arm",
+      "alternating",
+      "lat",
+      "pulldown"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

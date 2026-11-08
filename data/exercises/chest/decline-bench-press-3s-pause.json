@@ -51,30 +51,30 @@
   ],
   "equipment_optional": [],
   "execution": {
-    "starting_position": "Lie on a decline bench (15–30 degrees) with feet secured. Grip the barbell at standard bench press width. Unrack and hold above the lower chest.",
-    "setup_instructions": "Reduce weight by 15–20% from your standard decline press weight. The 3-second pause creates significantly greater demand. Use collars. Spotter required.",
+    "starting_position": "Lie on a decline bench (15\u201330 degrees) with feet secured. Grip the barbell at standard bench press width. Unrack and hold above the lower chest.",
+    "setup_instructions": "Reduce weight by 15\u201320% from your standard decline press weight. The 3-second pause creates significantly greater demand. Use collars. Spotter required.",
     "steps": [
       "Step 1: Unrack and position the bar above the lower chest.",
-      "Step 2: Lower the bar to the lower chest with control — do not bounce.",
-      "Step 3: At chest contact, hold the bar motionless for a full 3-second count. Maintain tension throughout — bar stays on chest but all muscles remain actively engaged.",
+      "Step 2: Lower the bar to the lower chest with control \u2014 do not bounce.",
+      "Step 3: At chest contact, hold the bar motionless for a full 3-second count. Maintain tension throughout \u2014 bar stays on chest but all muscles remain actively engaged.",
       "Step 4: At the end of the pause, press powerfully to full lockout without bouncing or using momentum."
     ],
     "breathing_instructions": "Inhale before descent, hold (Valsalva) through the pause and press, exhale at the top.",
     "common_mistakes": [
-      "Bouncing the bar off the chest instead of pausing — this defeats the technique entirely",
-      "Relaxing completely during the pause — maintain active tension even while stopped",
-      "Underestimating the weight reduction needed — the pause adds enormous difficulty"
+      "Bouncing the bar off the chest instead of pausing \u2014 this defeats the technique entirely",
+      "Relaxing completely during the pause \u2014 maintain active tension even while stopped",
+      "Underestimating the weight reduction needed \u2014 the pause adds enormous difficulty"
     ],
     "safety_considerations": [
-      "Always use a spotter for paused pressing — muscular fatigue mid-set is abrupt and unpredictable",
+      "Always use a spotter for paused pressing \u2014 muscular fatigue mid-set is abrupt and unpredictable",
       "Secure feet firmly on the decline bench",
       "Use safety pins if training without a spotter"
     ],
-    "range_of_motion_guidance": "Full range from lockout to chest contact. Bar must touch the chest during the pause — no floating.",
-    "tempo_recommendations": "2s descent — 3s pause — explosive press up",
+    "range_of_motion_guidance": "Full range from lockout to chest contact. Bar must touch the chest during the pause \u2014 no floating.",
+    "tempo_recommendations": "2s descent \u2014 3s pause \u2014 explosive press up",
     "coaching_cues": [
-      "Press tight even during the pause — do not go limp at the bottom",
-      "The pause should feel uncomfortable — that discomfort is the training stimulus"
+      "Press tight even during the pause \u2014 do not go limp at the bottom",
+      "The pause should feel uncomfortable \u2014 that discomfort is the training stimulus"
     ]
   },
   "variants": {
@@ -125,6 +125,9 @@
       "powerlifting",
       "strength",
       "lower-chest"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

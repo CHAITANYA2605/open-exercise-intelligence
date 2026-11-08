@@ -72,18 +72,18 @@
     ],
     "breathing_instructions": "Exhale on the press, inhale on the descent.",
     "common_mistakes": [
-      "Using too heavy a kettlebell — balance failure is the limiting factor initially",
-      "Flaring the elbow wide — keep it slightly forward in the press",
+      "Using too heavy a kettlebell \u2014 balance failure is the limiting factor initially",
+      "Flaring the elbow wide \u2014 keep it slightly forward in the press",
       "Bracing insufficiently against the unilateral load"
     ],
     "safety_considerations": [
-      "Have a plan if the kettlebell falls — step away from it rather than catching it",
+      "Have a plan if the kettlebell falls \u2014 step away from it rather than catching it",
       "Begin over a padded surface when learning"
     ],
     "range_of_motion_guidance": "Shoulder height to full lockout overhead.",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
-      "Tight grip — the bell tells you when you're losing it",
+      "Tight grip \u2014 the bell tells you when you're losing it",
       "Press in a straight line",
       "Keep your wrist stacked under the bell"
     ]
@@ -142,6 +142,9 @@
       "stability",
       "rotator-cuff",
       "unilateral"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

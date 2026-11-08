@@ -1,8 +1,11 @@
 {
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50036",
   "slug": "lateral-band-walks-low-squat",
-  "name": "Lateral Band Walks — Low Squat Position",
-  "alternative_names": ["Deep Squat Lateral Band Walk", "Low Monster Walk"],
+  "name": "Lateral Band Walks \u2014 Low Squat Position",
+  "alternative_names": [
+    "Deep Squat Lateral Band Walk",
+    "Low Monster Walk"
+  ],
   "description": "A lateral band walk performed in a deep squat position (hips at or below knee level), which dramatically increases the gluteus maximus and quadriceps demand compared to the standard quarter-squat lateral walk. The low position also recruits the hip abductors through a longer arc of abduction. This advanced rehabilitation progression is used in late-stage ACL, hip, and knee programs when the patient has developed sufficient strength for high-load lateral movement patterns.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -15,48 +18,118 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
     ],
-    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Place a mini band loop above the knees. Descend to a deep squat position with hips at or slightly below knee level, feet hip-width apart and toes slightly out.",
     "setup_instructions": "Only use this variation once the standard lateral band walk is mastered. Clear a straight path of 10-15 meters for the walk.",
     "steps": [
       "Step 1: Descend to a deep squat position with the band above the knees maintaining tension.",
-      "Step 2: Maintain the squat depth throughout — hips must not rise during the walk.",
+      "Step 2: Maintain the squat depth throughout \u2014 hips must not rise during the walk.",
       "Step 3: Take controlled lateral steps in one direction for the prescribed number of steps.",
       "Step 4: Reverse direction without rising. Continue for the full prescribed distance."
     ],
-    "breathing_instructions": "Breathe continuously. The sustained squat is very demanding — rhythm breathing is essential.",
-    "common_mistakes": ["Rising out of the squat between steps — the hip must remain at the prescribed depth throughout", "Taking too large steps that force knee valgus under band resistance", "Letting the knees collapse inward — actively push the knees out against the band"],
-    "safety_considerations": ["Ensure full ROM squat is pain-free and cleared before attempting loaded lateral movement at this depth", "Reduce squat depth if knee pain is present — work at a pain-free depth"],
+    "breathing_instructions": "Breathe continuously. The sustained squat is very demanding \u2014 rhythm breathing is essential.",
+    "common_mistakes": [
+      "Rising out of the squat between steps \u2014 the hip must remain at the prescribed depth throughout",
+      "Taking too large steps that force knee valgus under band resistance",
+      "Letting the knees collapse inward \u2014 actively push the knees out against the band"
+    ],
+    "safety_considerations": [
+      "Ensure full ROM squat is pain-free and cleared before attempting loaded lateral movement at this depth",
+      "Reduce squat depth if knee pain is present \u2014 work at a pain-free depth"
+    ],
     "range_of_motion_guidance": "Hip at or below knee level maintained throughout. Step width keeps band taut without valgus collapse.",
-    "tempo_recommendations": "1 step per 1.5-2 seconds. Controlled — no rushing.",
-    "coaching_cues": ["Push the knees out against the band — do not let them cave inward", "Stay down — your hips should not rise between steps", "Take medium steps — too wide creates valgus; too narrow loses the stimulus"]
+    "tempo_recommendations": "1 step per 1.5-2 seconds. Controlled \u2014 no rushing.",
+    "coaching_cues": [
+      "Push the knees out against the band \u2014 do not let them cave inward",
+      "Stay down \u2014 your hips should not rise between steps",
+      "Take medium steps \u2014 too wide creates valgus; too narrow loses the stimulus"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 8, "max_reps": 20}],
-    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"endurance": 60},
-    "training_goals": ["endurance", "strength"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "endurance": 60
+    },
+    "training_goals": [
+      "endurance",
+      "strength"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glutes", "quadriceps", "rehabilitation", "band", "lateral"]
+    "tags": [
+      "glutes",
+      "quadriceps",
+      "rehabilitation",
+      "band",
+      "lateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

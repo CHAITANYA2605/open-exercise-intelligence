@@ -1,8 +1,11 @@
 {
   "exercise_id": "ba010018-f3a2-4c1e-9b8d-7e6f5a4c3b41",
   "slug": "hammer-strength-low-row",
-  "name": "Plate-Loaded Machine Row — Low Row",
-  "alternative_names": ["Hammer Strength Low Row", "Plate-Loaded Low Row Machine"],
+  "name": "Plate-Loaded Machine Row \u2014 Low Row",
+  "alternative_names": [
+    "Hammer Strength Low Row",
+    "Plate-Loaded Low Row Machine"
+  ],
   "description": "The plate-loaded low row machine targets the lower lats and mid-back through a horizontal pulling path at approximately waist height. The low cable angle maximizes latissimus dorsi engagement compared to a high row configuration. The chest-supported position allows trainees to train to muscular failure safely without lower back fatigue limiting back muscle training.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,19 +18,39 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
     ],
     "secondary": [
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
-      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
-      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"}
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ]
   },
-  "equipment_required": ["eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit facing the machine with the chest on the pad. Set the seat so the handles are at approximately waist-to-lower-chest height. Grip the handles with arms fully extended.",
@@ -44,31 +67,77 @@
       "Flaring the elbows too wide, shifting to a rhomboid-dominant movement",
       "Using too much weight, reducing range of motion"
     ],
-    "safety_considerations": ["Check chest pad height before loading heavy — improper fit causes shoulder discomfort"],
+    "safety_considerations": [
+      "Check chest pad height before loading heavy \u2014 improper fit causes shoulder discomfort"
+    ],
     "range_of_motion_guidance": "Full extension at the start to handles at lower ribcage level at the finish.",
     "tempo_recommendations": "2-1-3-0",
-    "coaching_cues": ["Elbows stay close", "Think about pulling the elbows to your pockets", "Full stretch at the start of every rep"]
+    "coaching_cues": [
+      "Elbows stay close",
+      "Think about pulling the elbows to your pockets",
+      "Full stretch at the start of every rep"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 6, "max_reps": 10},
-      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+      {
+        "goal": "strength",
+        "min_reps": 6,
+        "max_reps": 10
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 4},
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"strength": 120, "hypertrophy": 90},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "strength": 120,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "row", "machine", "plate-loaded"]
+    "tags": [
+      "back",
+      "row",
+      "machine",
+      "plate-loaded"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

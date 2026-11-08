@@ -1,8 +1,11 @@
 {
   "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50031",
   "slug": "tke-fast-release",
-  "name": "Terminal Knee Extension — Fast Release",
-  "alternative_names": ["TKE Fast Eccentric", "Reactive TKE Band"],
+  "name": "Terminal Knee Extension \u2014 Fast Release",
+  "alternative_names": [
+    "TKE Fast Eccentric",
+    "Reactive TKE Band"
+  ],
   "description": "A speed-focused variation of the terminal knee extension (TKE) that trains the quadriceps eccentric braking capacity. After performing the standard TKE knee extension against the band, the exerciser releases the hold quickly and allows the band to pull the knee back into flexion faster than the standard controlled return. The quadriceps must react and control this rapid eccentric loading, training the neuromuscular reflex required for activities like landing, deceleration, and cutting. Used in late-stage ACL and knee rehabilitation.",
   "category": "rehabilitation",
   "exercise_type": "isolation",
@@ -15,17 +18,33 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
     ],
     "secondary": [],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
     ]
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
-  "equipment_optional": ["eq000014-0000-4000-a000-000000000014"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "equipment_optional": [
+    "eq000014-0000-4000-a000-000000000014"
+  ],
   "execution": {
     "starting_position": "Stand facing away from a resistance band anchor with the band looped around the back of the knee. Slight forward lean with a soft knee bend (approximately 20-30 degrees of knee flexion).",
     "setup_instructions": "Anchor the band behind the knee at approximately waist height. Use a band resistance that is challenging but allows controlled movement. Stand close enough to the anchor that the band creates meaningful tension at the starting position.",
@@ -33,35 +52,88 @@
       "Step 1: Begin with the knee in slight flexion against the band's pull.",
       "Step 2: Extend the knee to full extension (or near full extension), contracting the quadriceps.",
       "Step 3: Hold briefly at full extension.",
-      "Step 4: Intentionally release the quadriceps contraction more quickly than normal and allow the band to pull the knee back into flexion. Control the return with eccentric quadriceps activation — allow it, but do not let the knee snap back uncontrolled."
+      "Step 4: Intentionally release the quadriceps contraction more quickly than normal and allow the band to pull the knee back into flexion. Control the return with eccentric quadriceps activation \u2014 allow it, but do not let the knee snap back uncontrolled."
     ],
     "breathing_instructions": "Exhale as you extend the knee. Inhale as you control the band-assisted fast return.",
-    "common_mistakes": ["Allowing the knee to snap back completely uncontrolled — the eccentric must still be active", "Releasing too fast before adequate rehabilitation readiness — this is a late-stage drill", "Losing upright posture during the drill"],
-    "safety_considerations": ["Appropriate only in late-stage rehabilitation when pain-free and cleared by a physiotherapist for reactive training", "Ensure the band anchor is secure before performing the fast release component"],
-    "range_of_motion_guidance": "Full extension to approximately 30 degrees of flexion on the return. The speed of the return is controlled — faster than a standard TKE but not fully uncontrolled.",
+    "common_mistakes": [
+      "Allowing the knee to snap back completely uncontrolled \u2014 the eccentric must still be active",
+      "Releasing too fast before adequate rehabilitation readiness \u2014 this is a late-stage drill",
+      "Losing upright posture during the drill"
+    ],
+    "safety_considerations": [
+      "Appropriate only in late-stage rehabilitation when pain-free and cleared by a physiotherapist for reactive training",
+      "Ensure the band anchor is secure before performing the fast release component"
+    ],
+    "range_of_motion_guidance": "Full extension to approximately 30 degrees of flexion on the return. The speed of the return is controlled \u2014 faster than a standard TKE but not fully uncontrolled.",
     "tempo_recommendations": "1s extension, 0.5s hold, fast controlled return (0.5-1s band pull back). The return is intentionally reactive.",
-    "coaching_cues": ["Let the band pull back but actively control it — your quadriceps must work eccentrically", "Think of this as catching the knee as it snaps back, not bracing against it", "This should feel like reactive training, not like a strength exercise"]
+    "coaching_cues": [
+      "Let the band pull back but actively control it \u2014 your quadriceps must work eccentrically",
+      "Think of this as catching the knee as it snaps back, not bracing against it",
+      "This should feel like reactive training, not like a strength exercise"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 8, "max_reps": 15},
-      {"goal": "endurance", "min_reps": 10, "max_reps": 20}
+      {
+        "goal": "strength",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 2, "max_sets": 3},
-      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": {"strength": 60, "endurance": 45},
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 60,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["quadriceps", "ACL", "rehabilitation", "reactive", "TKE"]
+    "tags": [
+      "quadriceps",
+      "ACL",
+      "rehabilitation",
+      "reactive",
+      "TKE"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -55,7 +55,7 @@
       "Step 2: Slowly lower the dumbbell in an arc behind your head, keeping the arms as straight as possible.",
       "Step 3: Lower until a stretch is felt through the chest and lats, typically when the arms are parallel to the floor or slightly below.",
       "Step 4: Squeeze the chest and arc the dumbbell back over the face to the starting position.",
-      "Step 5: Focus on a smooth, controlled arc — not a pulldown."
+      "Step 5: Focus on a smooth, controlled arc \u2014 not a pulldown."
     ],
     "breathing_instructions": "Inhale as you lower the dumbbell behind your head. Exhale as you return it to the starting position.",
     "common_mistakes": [
@@ -65,13 +65,13 @@
     ],
     "safety_considerations": [
       "Avoid this exercise with any shoulder impingement or injury",
-      "Use a moderate weight — excessive load stresses the glenohumeral joint",
+      "Use a moderate weight \u2014 excessive load stresses the glenohumeral joint",
       "Keep the core engaged to prevent lower back arching"
     ],
     "range_of_motion_guidance": "Lower the dumbbell until a comfortable chest and lat stretch is achieved. Never force the arms past a point of shoulder discomfort.",
     "tempo_recommendations": "3-1-2-0",
     "coaching_cues": [
-      "Breathe deeply as you lower — let the ribcage expand",
+      "Breathe deeply as you lower \u2014 let the ribcage expand",
       "Feel the stretch from armpit to armpit",
       "Drive the dumbbell back with the chest, not the arms"
     ]
@@ -138,6 +138,9 @@
       "pullover",
       "stretch",
       "classic"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

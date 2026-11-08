@@ -2,7 +2,9 @@
   "exercise_id": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
   "slug": "good-morning-seated",
   "name": "Seated Good Morning",
-  "alternative_names": ["Seated Barbell Good Morning"],
+  "alternative_names": [
+    "Seated Barbell Good Morning"
+  ],
   "description": "The seated good morning is performed seated on a bench with a barbell across the upper back, then hinging the torso forward over the thighs. Because the seated position eliminates the hip hinge that characterizes the standing version, this variation more directly loads the erector spinae by forcing the spinal extensors to resist and control trunk flexion without the hip contribution, making it a highly specific lower back strengthening exercise.",
   "category": "strength",
   "exercise_type": "compound",
@@ -15,44 +17,62 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
     ],
     "secondary": [
-      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
-      { "muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus" }
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
     ],
     "stabilizers": [
-      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
-      { "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique" }
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on a bench with feet flat on the floor, wider than hip-width for stability. Rest a lightly loaded barbell across the upper traps in the same position as a low-bar squat. Sit upright with a neutral spine.",
-    "setup_instructions": "Use a lightly loaded barbell — this exercise is not suitable for heavy loads. Sit near the front of a flat bench. Have the bar in a rack and unrack it in a seated position, or have a spotter assist.",
+    "setup_instructions": "Use a lightly loaded barbell \u2014 this exercise is not suitable for heavy loads. Sit near the front of a flat bench. Have the bar in a rack and unrack it in a seated position, or have a spotter assist.",
     "steps": [
       "Step 1: Begin seated with the barbell on the upper back and spine neutral.",
       "Step 2: Brace the core and begin to slowly hinge the torso forward over the thighs.",
-      "Step 3: Lower as far as flexibility allows while maintaining a neutral or slightly extended spine — avoid rounding.",
+      "Step 3: Lower as far as flexibility allows while maintaining a neutral or slightly extended spine \u2014 avoid rounding.",
       "Step 4: Pause briefly at the bottom.",
       "Step 5: Drive the torso back to vertical by contracting the erectors, not by pushing off the thighs."
     ],
     "breathing_instructions": "Inhale and brace before hinging forward. Exhale as you return to vertical.",
     "common_mistakes": [
-      "Using too much load — this is a technique and endurance exercise, not a maximum strength lift",
+      "Using too much load \u2014 this is a technique and endurance exercise, not a maximum strength lift",
       "Rounding the lower back at the bottom of the movement",
       "Pushing off the knees with the hands to return to vertical"
     ],
     "safety_considerations": [
-      "This is an advanced exercise that places high demand on the erector spinae with no hip contribution to assist — do not load heavily",
+      "This is an advanced exercise that places high demand on the erector spinae with no hip contribution to assist \u2014 do not load heavily",
       "Those with lumbar disc issues should consult a professional before attempting",
       "Always use a spotter or perform inside a rack"
     ],
-    "range_of_motion_guidance": "Torso should travel as far forward as the erectors can control under a neutral or slightly extended spine. For most people, 45–70 degrees of torso lean from vertical.",
+    "range_of_motion_guidance": "Torso should travel as far forward as the erectors can control under a neutral or slightly extended spine. For most people, 45\u201370 degrees of torso lean from vertical.",
     "tempo_recommendations": "3-1-2-0 (3s lower, 1s hold, 2s return)",
     "coaching_cues": [
-      "Spine long — imagine balancing a glass of water on your back",
+      "Spine long \u2014 imagine balancing a glass of water on your back",
       "Only go as far forward as you can keep your back flat",
       "Return by squeezing the lower back and abs simultaneously"
     ]
@@ -66,23 +86,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "strength", "min_reps": 8, "max_reps": 12 },
-      { "goal": "endurance", "min_reps": 15, "max_reps": 20 }
+      {
+        "goal": "strength",
+        "min_reps": 8,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "strength", "min_sets": 3, "max_sets": 4 },
-      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "strength": 90, "endurance": 60 },
-    "training_goals": ["strength", "endurance"]
+    "rest_periods": {
+      "strength": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["erector-spinae", "lower-back", "good-morning", "seated", "advanced"]
+    "tags": [
+      "erector-spinae",
+      "lower-back",
+      "good-morning",
+      "seated",
+      "advanced"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

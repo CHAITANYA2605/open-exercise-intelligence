@@ -65,9 +65,9 @@
     "setup_instructions": "Choose a box height that positions your hips at or below parallel when seated. Stand close enough to the box that you will sit back onto it at the bottom without having to search for it.",
     "steps": [
       "Step 1: Unrack the bar and position yourself directly in front of the box. Feet wider than shoulder-width is common. Brace the core.",
-      "Step 2: Initiate the descent by sitting the hips back aggressively — more so than a standard back squat — while pushing the knees outward.",
+      "Step 2: Initiate the descent by sitting the hips back aggressively \u2014 more so than a standard back squat \u2014 while pushing the knees outward.",
       "Step 3: Sit fully onto the box in a controlled manner. Pause completely, maintaining core tension and an upright spine.",
-      "Step 4: Drive forcefully through the entire foot — particularly the heel and midfoot — to stand back up. Do not lean forward excessively off the box.",
+      "Step 4: Drive forcefully through the entire foot \u2014 particularly the heel and midfoot \u2014 to stand back up. Do not lean forward excessively off the box.",
       "Step 5: Exhale at the top and reset."
     ],
     "breathing_instructions": "Inhale and brace before descent. Hold through the pause and ascent. Exhale at the top.",
@@ -83,8 +83,8 @@
     "range_of_motion_guidance": "Hips should reach the box when thighs are parallel to or below the floor.",
     "tempo_recommendations": "3-2-X-0 (controlled descent, 2s pause on box, explosive concentric)",
     "coaching_cues": [
-      "Sit back — don't just sit down",
-      "Stay tight on the box — don't relax",
+      "Sit back \u2014 don't just sit down",
+      "Stay tight on the box \u2014 don't relax",
       "Push the floor away, not forward"
     ]
   },
@@ -164,6 +164,9 @@
       "squat",
       "powerlifting",
       "glute"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

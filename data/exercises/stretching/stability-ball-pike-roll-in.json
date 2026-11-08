@@ -2,7 +2,10 @@
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50017",
   "slug": "stability-ball-pike-roll-in",
   "name": "Stability Ball Pike and Roll-In",
-  "alternative_names": ["Swiss Ball Pike", "Ball Pike Core"],
+  "alternative_names": [
+    "Swiss Ball Pike",
+    "Ball Pike Core"
+  ],
   "description": "A stability ball core and hip flexor exercise in which the exerciser begins in a push-up plank position with shins on the ball and then pikes the hips upward while rolling the ball in toward the hands. The pike position demands significant anterior core compression, hip flexor control, and shoulder stability simultaneously. The unstable ball surface amplifies the demand on all stabilizing muscles throughout the movement.",
   "category": "stretching",
   "exercise_type": "compound",
@@ -15,20 +18,43 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
-      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
-      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
     ],
     "secondary": [
-      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
-      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ]
   },
-  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a push-up plank position with both shins resting on a stability ball and hands on the floor directly under the shoulders.",
@@ -40,26 +66,74 @@
       "Step 4: Slowly lower the hips and roll the ball back to the starting plank. Repeat."
     ],
     "breathing_instructions": "Exhale as you pike the hips up. Inhale as you lower back to plank.",
-    "common_mistakes": ["Collapsing the lower back during the plank between repetitions", "Rushing the rollout back to plank — control the return", "Not achieving a true pike — hips must rise significantly above shoulder level for proper activation"],
-    "safety_considerations": ["Requires shoulder stability and core strength — build both before attempting", "If lower back pain occurs on the return to plank, brace the core more firmly or reduce range"],
+    "common_mistakes": [
+      "Collapsing the lower back during the plank between repetitions",
+      "Rushing the rollout back to plank \u2014 control the return",
+      "Not achieving a true pike \u2014 hips must rise significantly above shoulder level for proper activation"
+    ],
+    "safety_considerations": [
+      "Requires shoulder stability and core strength \u2014 build both before attempting",
+      "If lower back pain occurs on the return to plank, brace the core more firmly or reduce range"
+    ],
     "range_of_motion_guidance": "Full pike with hips significantly above shoulder height. Full plank extension on the return.",
     "tempo_recommendations": "2s pike up, 2s hold, 3s slow rollout return.",
-    "coaching_cues": ["Drive the hips to the ceiling — think of an upside-down V", "Keep the arms straight throughout — this is not a push-up", "Slow on the way back down — control every inch of the rollout"]
+    "coaching_cues": [
+      "Drive the hips to the ceiling \u2014 think of an upside-down V",
+      "Keep the arms straight throughout \u2014 this is not a push-up",
+      "Slow on the way back down \u2014 control every inch of the rollout"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "strength", "min_reps": 5, "max_reps": 10}],
-    "recommended_set_ranges": [{"goal": "strength", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"strength": 60},
-    "training_goals": ["strength", "endurance"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["core", "stability-ball", "pike", "functional", "stretching"]
+    "tags": [
+      "core",
+      "stability-ball",
+      "pike",
+      "functional",
+      "stretching"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

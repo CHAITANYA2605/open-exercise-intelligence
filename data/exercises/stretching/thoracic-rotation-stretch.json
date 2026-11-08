@@ -45,13 +45,13 @@
     "steps": [
       "Step 1: Lie on one side with knees and hips bent to 90 degrees, knees stacked.",
       "Step 2: Extend both arms in front of the chest with palms together.",
-      "Step 3: Keep the hips and knees stacked and stationary — they should not roll during the movement.",
+      "Step 3: Keep the hips and knees stacked and stationary \u2014 they should not roll during the movement.",
       "Step 4: Slowly rotate the top arm upward and open it toward the ceiling and floor behind you, following with the eyes and head.",
-      "Step 5: Allow the arm to open as far as the thoracic spine allows, then hold 3–5 breaths before returning."
+      "Step 5: Allow the arm to open as far as the thoracic spine allows, then hold 3\u20135 breaths before returning."
     ],
     "breathing_instructions": "Breathe deeply into the chest throughout. Each inhale and exhale can help the rotation progress slightly further.",
     "common_mistakes": [
-      "Rolling the hips during the stretch — the hip block should remain stationary",
+      "Rolling the hips during the stretch \u2014 the hip block should remain stationary",
       "Forcing the arm to the floor when the thoracic spine is not yet mobile enough",
       "Moving at the lumbar spine rather than the thoracic segment"
     ],
@@ -60,10 +60,10 @@
       "If cervical pain occurs, limit head rotation and focus on arm movement only"
     ],
     "range_of_motion_guidance": "The top arm should travel as far toward the floor on the opposite side as thoracic rotation allows. For many people initially this will be far short of the floor.",
-    "tempo_recommendations": "Hold each rotation 3–5 breaths. 5–10 reps per side.",
+    "tempo_recommendations": "Hold each rotation 3\u20135 breaths. 5\u201310 reps per side.",
     "coaching_cues": [
       "Let your eyes lead your hand",
-      "Keep your knees pinned together on the floor — do not roll the hips",
+      "Keep your knees pinned together on the floor \u2014 do not roll the hips",
       "Breathe wide into the chest at the end of range"
     ]
   },
@@ -115,6 +115,9 @@
       "mobility",
       "spine",
       "open-book"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -1,8 +1,11 @@
 {
   "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50009",
   "slug": "ankle-dorsiflexion-band-traction",
-  "name": "Ankle Dorsiflexion — Band Traction Seated",
-  "alternative_names": ["Seated Band Ankle Traction", "Talus Band Distraction Seated"],
+  "name": "Ankle Dorsiflexion \u2014 Band Traction Seated",
+  "alternative_names": [
+    "Seated Band Ankle Traction",
+    "Talus Band Distraction Seated"
+  ],
   "description": "A seated variation of the banded ankle dorsiflexion mobilization, performed with the ankle in a neutral position while the band provides posterior traction on the talus. The exerciser actively pumps the ankle through dorsiflexion and plantarflexion against the traction, which helps improve joint glide by reducing compression in the tibiotalar joint. This technique is based on joint mobilization principles and is used in ankle stiffness, ankle sprain rehabilitation, and before squatting sessions to improve dorsiflexion range.",
   "category": "stretching",
   "exercise_type": "isolation",
@@ -15,14 +18,25 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
-      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
-      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-b000-000000000022",
+        "muscle_slug": "soleus"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-b000-000000000022",
+        "muscle_slug": "tibialis-anterior"
+      }
     ],
     "secondary": [],
     "stabilizers": []
   },
-  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Sit on the floor with one leg extended. Loop a stiff band around the front of the ankle, anchored to a fixed point directly behind the foot. The foot is in a neutral position with the band pulling horizontally (posteriorly).",
@@ -34,26 +48,73 @@
       "Step 4: Rest and repeat, or move to the wall version for weight-bearing loading."
     ],
     "breathing_instructions": "Breathe continuously and rhythmically throughout the pumping motion.",
-    "common_mistakes": ["Using a band that is too light to provide meaningful traction", "Anchoring the band too high, creating a diagonal rather than horizontal pull", "Moving too slowly — the pumping motion should be continuous and rhythmic, not held"],
-    "safety_considerations": ["The sensation should be of joint opening and mobilization, not pain", "If discomfort increases during the pumping motion, stop and assess with a physiotherapist"],
+    "common_mistakes": [
+      "Using a band that is too light to provide meaningful traction",
+      "Anchoring the band too high, creating a diagonal rather than horizontal pull",
+      "Moving too slowly \u2014 the pumping motion should be continuous and rhythmic, not held"
+    ],
+    "safety_considerations": [
+      "The sensation should be of joint opening and mobilization, not pain",
+      "If discomfort increases during the pumping motion, stop and assess with a physiotherapist"
+    ],
     "range_of_motion_guidance": "Full ankle dorsiflexion to full plantarflexion on each pump. The band traction is maintained throughout.",
     "tempo_recommendations": "1 pump per second. 20-30 pumps per set.",
-    "coaching_cues": ["Feel the band pulling the ankle backward as you pull the toes toward the shin — this is the joint glide happening", "Keep the pumps rhythmic and continuous — do not pause between dorsiflexion and plantarflexion", "The knee stays straight for gastrocnemius involvement; slightly bent for more soleus and joint-focused mobilization"]
+    "coaching_cues": [
+      "Feel the band pulling the ankle backward as you pull the toes toward the shin \u2014 this is the joint glide happening",
+      "Keep the pumps rhythmic and continuous \u2014 do not pause between dorsiflexion and plantarflexion",
+      "The knee stays straight for gastrocnemius involvement; slightly bent for more soleus and joint-focused mobilization"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
-    "recommended_rep_ranges": [{"goal": "mobility", "min_reps": 20, "max_reps": 30}],
-    "recommended_set_ranges": [{"goal": "mobility", "min_sets": 2, "max_sets": 3}],
-    "rest_periods": {"mobility": 30},
-    "training_goals": ["mobility"]
+    "recommended_rep_ranges": [
+      {
+        "goal": "mobility",
+        "min_reps": 20,
+        "max_reps": 30
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "mobility",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "mobility": 30
+    },
+    "training_goals": [
+      "mobility"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["ankle", "dorsiflexion", "joint-traction", "stretching", "band"]
+    "tags": [
+      "ankle",
+      "dorsiflexion",
+      "joint-traction",
+      "stretching",
+      "band"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

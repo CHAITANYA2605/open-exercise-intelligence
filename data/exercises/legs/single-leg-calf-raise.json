@@ -47,7 +47,7 @@
     "setup_instructions": "Use a stair, step, or raised plate for a heel drop. Hold a wall or rack lightly for balance. Dumbbell can be held in the same-side hand to increase load.",
     "steps": [
       "Step 1: Stand on one foot on the edge of a step. Keep the other foot lifted off the floor.",
-      "Step 2: Lower the heel as far below the step as possible — full gastrocnemius stretch.",
+      "Step 2: Lower the heel as far below the step as possible \u2014 full gastrocnemius stretch.",
       "Step 3: Rise to the highest possible plantarflexion, pressing through the big toe.",
       "Step 4: Hold the peak contraction for one second.",
       "Step 5: Lower under control. Complete all reps then switch sides."
@@ -56,7 +56,7 @@
     "common_mistakes": [
       "Rising through the outer edge of the foot rather than through the big toe",
       "Not allowing a full heel drop at the bottom",
-      "Moving too fast — the calf responds well to slow, full-range reps"
+      "Moving too fast \u2014 the calf responds well to slow, full-range reps"
     ],
     "safety_considerations": [
       "If balance is challenging, hold the support more firmly initially",
@@ -65,9 +65,9 @@
     "range_of_motion_guidance": "Maximum heel drop at the bottom; maximum plantar-flexion at the top.",
     "tempo_recommendations": "2-1-3-0",
     "coaching_cues": [
-      "Press through the big toe — not the pinky",
+      "Press through the big toe \u2014 not the pinky",
       "Drop the heel all the way",
-      "Full contraction at the top — don't cut it short"
+      "Full contraction at the top \u2014 don't cut it short"
     ]
   },
   "variants": {
@@ -145,6 +145,9 @@
       "unilateral",
       "bodyweight",
       "beginner-friendly"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

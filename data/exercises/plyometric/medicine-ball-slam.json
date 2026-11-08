@@ -74,19 +74,19 @@
     ],
     "breathing_instructions": "Exhale forcefully as the ball is slammed. Inhale on the way back up.",
     "common_mistakes": [
-      "Only using the arms — the hip hinge and trunk flexion must generate most of the force",
-      "Releasing the ball at the wrong point — release as arms reach the bottom of the arc",
-      "Not reaching fully overhead at the top — shortens range and reduces force potential"
+      "Only using the arms \u2014 the hip hinge and trunk flexion must generate most of the force",
+      "Releasing the ball at the wrong point \u2014 release as arms reach the bottom of the arc",
+      "Not reaching fully overhead at the top \u2014 shortens range and reduces force potential"
     ],
     "safety_considerations": [
       "Use a slam ball (not a standard rubber medicine ball that may bounce back unpredictably at high force).",
-      "Ensure nobody is standing nearby — a ball can bounce sideways."
+      "Ensure nobody is standing nearby \u2014 a ball can bounce sideways."
     ],
     "range_of_motion_guidance": "Full overhead extension. Full hip hinge at the bottom.",
-    "tempo_recommendations": "Maximum effort on each slam. 8–12 reps for conditioning. 5–8 for maximum power.",
+    "tempo_recommendations": "Maximum effort on each slam. 8\u201312 reps for conditioning. 5\u20138 for maximum power.",
     "coaching_cues": [
-      "Reach high — then slam hard",
-      "Hinge at the hip — not just a crunch",
+      "Reach high \u2014 then slam hard",
+      "Hinge at the hip \u2014 not just a crunch",
       "Put everything into it"
     ]
   },
@@ -148,6 +148,9 @@
       "power",
       "medicine-ball",
       "full-body"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -52,7 +52,7 @@
       "Step 2: Place both forearms on the door frame at approximately shoulder height (elbows at 90 degrees).",
       "Step 3: Lean gently forward through the doorway, allowing the chest to open and shoulders to rotate back.",
       "Step 4: When a stretch is felt across the chest and front of the shoulders, hold the position.",
-      "Step 5: Hold 30–60 seconds. Raise forearms slightly higher to stretch the clavicular head, lower to target the sternal head."
+      "Step 5: Hold 30\u201360 seconds. Raise forearms slightly higher to stretch the clavicular head, lower to target the sternal head."
     ],
     "breathing_instructions": "Breathe normally and slowly. Each exhale allows the chest to open slightly more.",
     "common_mistakes": [
@@ -61,15 +61,15 @@
       "Holding the breath and creating tension in the shoulders and neck"
     ],
     "safety_considerations": [
-      "If shoulder pain is experienced — especially at the front of the shoulder — reduce the range of forward lean",
+      "If shoulder pain is experienced \u2014 especially at the front of the shoulder \u2014 reduce the range of forward lean",
       "Those with anterior shoulder instability should use caution with this stretch"
     ],
     "range_of_motion_guidance": "Lean forward until a comfortable pectoral stretch is felt. No need to overreach.",
-    "tempo_recommendations": "Hold 30–60 seconds. 2–3 rounds at different arm heights.",
+    "tempo_recommendations": "Hold 30\u201360 seconds. 2\u20133 rounds at different arm heights.",
     "coaching_cues": [
       "Lead the chest through the door, not the head",
       "Squeeze the shoulder blades together gently during the stretch",
-      "Breathe wide — expand the chest on each inhale"
+      "Breathe wide \u2014 expand the chest on each inhale"
     ]
   },
   "variants": {
@@ -120,6 +120,9 @@
       "beginner",
       "posture",
       "shoulder"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

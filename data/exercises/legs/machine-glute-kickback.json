@@ -2,7 +2,10 @@
   "exercise_id": "a1b2c3d4-0028-4000-a000-100000000028",
   "slug": "machine-glute-kickback",
   "name": "Machine Glute Kickback",
-  "alternative_names": ["Glute Kickback Machine", "Donkey Kickback Machine"],
+  "alternative_names": [
+    "Glute Kickback Machine",
+    "Donkey Kickback Machine"
+  ],
   "description": "The machine glute kickback is performed on a dedicated kneeling kickback machine that pads the back of the ankle and provides resistance as the leg is extended backward. Because both hands and the supporting knee are braced, the lifter can focus entirely on glute contraction without balance demands. The machine provides a smooth, guided resistance curve that isolates the gluteus maximus effectively.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -14,16 +17,32 @@
   "exercise_family": "extension",
   "status": "active",
   "muscles": {
-    "primary": [{"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}],
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
     "secondary": [
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
     ]
   },
-  "equipment_required": ["eq000039-0000-4000-a000-000000000039"],
+  "equipment_required": [
+    "eq000039-0000-4000-a000-000000000039"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Kneel on the machine's pad with the working leg's ankle behind the resistance pad. Hold the handles and brace the core.",
@@ -35,30 +54,71 @@
       "Step 4: Return the knee to the starting bent position with control."
     ],
     "breathing_instructions": "Exhale during the extension, inhale on return.",
-    "common_mistakes": ["Using the lower back to extend rather than the glute", "Rushing through reps without a peak contraction", "Hips rotating away from center"],
-    "safety_considerations": ["Keep the lower back neutral — do not hyperextend the spine"],
+    "common_mistakes": [
+      "Using the lower back to extend rather than the glute",
+      "Rushing through reps without a peak contraction",
+      "Hips rotating away from center"
+    ],
+    "safety_considerations": [
+      "Keep the lower back neutral \u2014 do not hyperextend the spine"
+    ],
     "range_of_motion_guidance": "Full hip extension without lumbar hyperextension.",
     "tempo_recommendations": "1-1-2-0 (hold 1s at peak)",
-    "coaching_cues": ["Squeeze the glute — not the back", "Think of pushing the heel toward the ceiling", "Hips stay square"]
+    "coaching_cues": [
+      "Squeeze the glute \u2014 not the back",
+      "Think of pushing the heel toward the ceiling",
+      "Hips stay square"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 60},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["glute", "isolation", "machine", "unilateral"]
+    "tags": [
+      "glute",
+      "isolation",
+      "machine",
+      "unilateral"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

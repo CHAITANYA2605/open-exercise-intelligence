@@ -54,7 +54,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Clean two kettlebells to the front-rack position: bells resting on the forearms and upper arms, elbows pointing slightly forward and down. Feet hip-width apart, core braced.",
-    "setup_instructions": "Learning the kettlebell front-rack position is prerequisite — it differs substantially from a barbell rack. Practice with lighter kettlebells first.",
+    "setup_instructions": "Learning the kettlebell front-rack position is prerequisite \u2014 it differs substantially from a barbell rack. Practice with lighter kettlebells first.",
     "steps": [
       "Step 1: Clean both kettlebells to the front-rack position.",
       "Step 2: Brace the core and set the feet.",
@@ -64,8 +64,8 @@
     ],
     "breathing_instructions": "Exhale on the press, inhale on the descent.",
     "common_mistakes": [
-      "Flaring the elbows wide in the rack — elbows should point forward and down, not to the sides",
-      "Pressing one side before the other — the press should be simultaneous"
+      "Flaring the elbows wide in the rack \u2014 elbows should point forward and down, not to the sides",
+      "Pressing one side before the other \u2014 the press should be simultaneous"
     ],
     "safety_considerations": [
       "Learn the front-rack position before adding heavy loads"
@@ -73,7 +73,7 @@
     "range_of_motion_guidance": "Front-rack position to full overhead lockout.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Rack them tight — bells on the forearms",
+      "Rack them tight \u2014 bells on the forearms",
       "Press together",
       "Lockout fully at the top"
     ]
@@ -132,6 +132,9 @@
       "press",
       "bilateral",
       "front-rack"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

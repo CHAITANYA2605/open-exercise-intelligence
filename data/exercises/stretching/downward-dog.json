@@ -62,26 +62,26 @@
     "steps": [
       "Step 1: Begin from a tabletop on hands and knees or a push-up position.",
       "Step 2: Press through the palms and lift the hips toward the ceiling, straightening the knees and forming an inverted V.",
-      "Step 3: Press the heels toward the floor. They need not touch — a stretch in the calves and hamstrings should be felt.",
+      "Step 3: Press the heels toward the floor. They need not touch \u2014 a stretch in the calves and hamstrings should be felt.",
       "Step 4: Externally rotate the arms slightly so the elbow creases face forward.",
-      "Step 5: Hold 30–60 seconds, pressing firmly through the hands and reaching the hips high."
+      "Step 5: Hold 30\u201360 seconds, pressing firmly through the hands and reaching the hips high."
     ],
     "breathing_instructions": "Breathe slowly and deeply. Exhale and press the hips higher. Inhale and settle into the position.",
     "common_mistakes": [
-      "Rounding the upper back and collapsing the shoulder blades — press through the hands and spread them",
-      "Not pressing the heels toward the floor — work toward this even if the calves are tight",
+      "Rounding the upper back and collapsing the shoulder blades \u2014 press through the hands and spread them",
+      "Not pressing the heels toward the floor \u2014 work toward this even if the calves are tight",
       "Bending the knees excessively, which reduces the hamstring and calf stretch"
     ],
     "safety_considerations": [
-      "Wrist discomfort is common — reduce by turning fingertips outward or using fists or push-up handles",
+      "Wrist discomfort is common \u2014 reduce by turning fingertips outward or using fists or push-up handles",
       "Shoulder injuries: consult a clinician before including overhead loaded positions"
     ],
     "range_of_motion_guidance": "The goal is a straight spine from hands to hips and heels as close to the floor as the posterior chain allows.",
-    "tempo_recommendations": "Hold 30–60 seconds. 2–4 rounds.",
+    "tempo_recommendations": "Hold 30\u201360 seconds. 2\u20134 rounds.",
     "coaching_cues": [
       "Press the floor away with your hands",
       "Reach the tailbone toward the ceiling",
-      "Press your heels toward the floor — imagine footprints on a mat"
+      "Press your heels toward the floor \u2014 imagine footprints on a mat"
     ]
   },
   "variants": {
@@ -133,6 +133,9 @@
       "lat",
       "beginner",
       "full-body"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

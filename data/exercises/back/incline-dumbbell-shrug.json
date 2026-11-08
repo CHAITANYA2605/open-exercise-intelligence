@@ -2,7 +2,10 @@
   "exercise_id": "ba010028-f3a2-4c1e-9b8d-7e6f5a4c3b51",
   "slug": "incline-dumbbell-shrug",
   "name": "Incline Dumbbell Shrug",
-  "alternative_names": ["Prone Incline Shrug", "Face-Down Incline Shrug"],
+  "alternative_names": [
+    "Prone Incline Shrug",
+    "Face-Down Incline Shrug"
+  ],
   "description": "The incline dumbbell shrug is performed face-down on an incline bench set to 45 degrees, with dumbbells hanging beneath the shoulders. The prone position pre-stretches the upper trapezius and eliminates postural cheating, ensuring pure scapular elevation. This setup isolates the upper trapezius more effectively than standing shrug variations, as the torso support removes lower body momentum and spinal compensation.",
   "category": "strength",
   "exercise_type": "isolation",
@@ -15,15 +18,27 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
     ],
     "secondary": [
-      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
-      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Set an adjustable bench to 45 degrees. Lie face-down with the chest on the pad, head slightly up, and arms hanging straight below the shoulders holding dumbbells.",
@@ -37,32 +52,70 @@
     ],
     "breathing_instructions": "Exhale on the shrug, inhale on the lowering phase.",
     "common_mistakes": [
-      "Not lowering fully between reps — the full hang is where the stretch occurs",
+      "Not lowering fully between reps \u2014 the full hang is where the stretch occurs",
       "Using too heavy a weight, which prevents full elevation"
     ],
-    "safety_considerations": ["Ensure the bench is stable before beginning"],
+    "safety_considerations": [
+      "Ensure the bench is stable before beginning"
+    ],
     "range_of_motion_guidance": "Full scapular depression at the bottom (deep hang), full elevation at the top.",
     "tempo_recommendations": "1-2-2-0",
-    "coaching_cues": ["Full hang between every rep", "Elevate straight up — no roll", "Feel the trap squeeze at the top"]
+    "coaching_cues": [
+      "Full hang between every rep",
+      "Elevate straight up \u2014 no roll",
+      "Feel the trap squeeze at the top"
+    ]
   },
-  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
     ],
-    "rest_periods": {"hypertrophy": 75},
-    "training_goals": ["hypertrophy"]
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["back", "traps", "shrug", "dumbbell", "isolation"]
+    "tags": [
+      "back",
+      "traps",
+      "shrug",
+      "dumbbell",
+      "isolation"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

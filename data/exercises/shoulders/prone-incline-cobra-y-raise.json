@@ -2,7 +2,10 @@
   "exercise_id": "2e91f0bb-5558-4f73-814b-4a696258dfb6",
   "slug": "prone-incline-cobra-y-raise",
   "name": "Prone Incline Cobra Y-Raise",
-  "alternative_names": ["Incline Y-Raise Cobra", "Prone Y Cobra Raise"],
+  "alternative_names": [
+    "Incline Y-Raise Cobra",
+    "Prone Y Cobra Raise"
+  ],
   "description": "The prone incline cobra Y-raise combines a thoracic extension (cobra) with an overhead Y-arm position, training the lower trapezius and serratus anterior in the overhead range while also loading the thoracic extensors. The Y-arm position (arms raised diagonally overhead at 45 degrees from the spine) targets the lower trapezius more specifically than T or W positions, as the lower trap is primarily responsible for upward scapular rotation and depression when the arms are elevated.",
   "category": "rehabilitation",
   "exercise_type": "compound",
@@ -15,40 +18,53 @@
   "status": "active",
   "muscles": {
     "primary": [
-      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
     ],
     "secondary": [
-      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
-      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "33333333-0001-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
     ],
     "stabilizers": []
   },
-  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
-  "equipment_optional": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
   "execution": {
     "starting_position": "Lie prone on an incline bench (15-30 degrees). Arms hang in front. Thumbs pointing up.",
     "setup_instructions": "No load or very light dumbbells (1-3 kg). Focus is on motor control, not strength.",
     "steps": [
       "Step 1: Begin hanging, thumbs up.",
-      "Step 2: Extend the thoracic spine (cobra movement) simultaneously while raising the arms in a Y shape — 45 degrees from the spine.",
+      "Step 2: Extend the thoracic spine (cobra movement) simultaneously while raising the arms in a Y shape \u2014 45 degrees from the spine.",
       "Step 3: At the top, the arms form a Y overhead, thumbs pointing upward.",
       "Step 4: Hold 2 seconds.",
       "Step 5: Lower both the arms and the thoracic extension simultaneously."
     ],
     "breathing_instructions": "Exhale on the raise. Inhale lowering.",
     "common_mistakes": [
-      "Arms going too wide (T position) or too narrow — the Y angle is 45 degrees",
-      "Extending from the lumbar spine — the thoracic spine is what should move"
+      "Arms going too wide (T position) or too narrow \u2014 the Y angle is 45 degrees",
+      "Extending from the lumbar spine \u2014 the thoracic spine is what should move"
     ],
     "safety_considerations": [
-      "Bodyweight or very light load only — this is a postural exercise",
-      "No pain should occur during this exercise — stop if any shoulder discomfort arises"
+      "Bodyweight or very light load only \u2014 this is a postural exercise",
+      "No pain should occur during this exercise \u2014 stop if any shoulder discomfort arises"
     ],
     "range_of_motion_guidance": "Full hang to Y position with thoracic extension.",
     "tempo_recommendations": "2-2-2-0",
     "coaching_cues": [
       "Thumbs point to the ceiling at the top",
-      "Y shape — not T, not overhead — 45 degrees",
+      "Y shape \u2014 not T, not overhead \u2014 45 degrees",
       "Lead with the chest for the thoracic extension"
     ]
   },
@@ -61,21 +77,49 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      { "goal": "rehabilitation", "min_reps": 10, "max_reps": 20 }
+      {
+        "goal": "rehabilitation",
+        "min_reps": 10,
+        "max_reps": 20
+      }
     ],
     "recommended_set_ranges": [
-      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 3 }
+      {
+        "goal": "rehabilitation",
+        "min_sets": 2,
+        "max_sets": 3
+      }
     ],
-    "rest_periods": { "rehabilitation": 60 },
-    "training_goals": ["rehabilitation", "mobility"]
+    "rest_periods": {
+      "rehabilitation": 60
+    },
+    "training_goals": [
+      "rehabilitation",
+      "mobility"
+    ]
   },
-  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
     "updated_at": "2026-11-08T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["y-raise", "cobra", "prone", "lower-trap", "rehabilitation", "posture"]
+    "tags": [
+      "y-raise",
+      "cobra",
+      "prone",
+      "lower-trap",
+      "rehabilitation",
+      "posture"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

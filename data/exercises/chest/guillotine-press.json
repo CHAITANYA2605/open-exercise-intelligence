@@ -61,7 +61,7 @@
   ],
   "execution": {
     "starting_position": "Lie on a flat bench under a barbell rack. Grip the bar wide (index fingers on the smooth ring or slightly outside). Position yourself so the bar tracks over the neck/clavicle area, not the mid-chest.",
-    "setup_instructions": "Use a spotter at all times. Use lighter weight than a standard bench press — the increased stretch significantly reduces the amount that can be safely lifted. Set safety bars.",
+    "setup_instructions": "Use a spotter at all times. Use lighter weight than a standard bench press \u2014 the increased stretch significantly reduces the amount that can be safely lifted. Set safety bars.",
     "steps": [
       "Step 1: Position on the bench so the bar will descend to the clavicle or upper chest. Grip wide with elbows flared.",
       "Step 2: Unrack the bar and hold it above the clavicular area.",
@@ -70,18 +70,18 @@
     ],
     "breathing_instructions": "Inhale on the descent; exhale on the press.",
     "common_mistakes": [
-      "Using the same weight as a standard bench press — reduce load significantly",
+      "Using the same weight as a standard bench press \u2014 reduce load significantly",
       "Lowering too quickly, which can injure the shoulder capsule"
     ],
     "safety_considerations": [
       "Always use a spotter and set the safety bars",
       "Not recommended for those with existing shoulder impingement, labrum issues, or AC joint problems",
-      "This exercise carries higher injury risk than standard bench press — build shoulder health first"
+      "This exercise carries higher injury risk than standard bench press \u2014 build shoulder health first"
     ],
-    "range_of_motion_guidance": "Touch the upper chest or clavicle — do not bounce. Control the full descent.",
+    "range_of_motion_guidance": "Touch the upper chest or clavicle \u2014 do not bounce. Control the full descent.",
     "tempo_recommendations": "3-0-2-0 (slow controlled descent)",
     "coaching_cues": [
-      "Let the elbows flare wide — this is intentional for this variation",
+      "Let the elbows flare wide \u2014 this is intentional for this variation",
       "Use lighter load than standard press and focus on the stretch"
     ]
   },
@@ -139,6 +139,9 @@
       "advanced",
       "upper-chest",
       "compound"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

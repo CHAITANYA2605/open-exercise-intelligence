@@ -67,13 +67,13 @@
       "Using momentum by swinging the torso rather than controlling with the pecs"
     ],
     "safety_considerations": [
-      "Maintain a slight, fixed bend in the elbows throughout — the arm angle should not change during the arc",
+      "Maintain a slight, fixed bend in the elbows throughout \u2014 the arm angle should not change during the arc",
       "Do not let the weight stack slam down at the end of the eccentric"
     ],
     "range_of_motion_guidance": "Open arms as wide as comfortable without shoulder discomfort; squeeze hard at the midline at the top of the rep.",
     "tempo_recommendations": "2-1-2-0 (2 seconds open, 1 second squeeze, 2 seconds close)",
     "coaching_cues": [
-      "Imagine hugging a large tree — maintain that arm shape throughout",
+      "Imagine hugging a large tree \u2014 maintain that arm shape throughout",
       "Lead with your pecs, not your hands"
     ]
   },
@@ -151,6 +151,9 @@
       "isolation",
       "fly",
       "pec"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

@@ -64,7 +64,7 @@
     ],
     "breathing_instructions": "Exhale as you raise the arm; inhale on the controlled lowering.",
     "common_mistakes": [
-      "Swinging the torso to generate momentum — keep the torso still",
+      "Swinging the torso to generate momentum \u2014 keep the torso still",
       "Raising past shoulder height into impingement territory for those with existing shoulder issues"
     ],
     "safety_considerations": [
@@ -73,7 +73,7 @@
     "range_of_motion_guidance": "Raise from hip level to just above shoulder height.",
     "tempo_recommendations": "2-1-2-0",
     "coaching_cues": [
-      "Raise with a slight elbow bend — do not swing a stiff arm",
+      "Raise with a slight elbow bend \u2014 do not swing a stiff arm",
       "Lead with the thumb side of the hand"
     ]
   },
@@ -139,6 +139,9 @@
       "anterior-delt",
       "isolation",
       "raise"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

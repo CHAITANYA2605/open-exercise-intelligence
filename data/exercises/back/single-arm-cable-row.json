@@ -65,7 +65,7 @@
       "Step 1: Begin with the arm fully extended toward the cable, allowing the shoulder to protract and the lat to stretch.",
       "Step 2: Drive the elbow backward, retracting the scapula, and row the handle toward the lower ribcage.",
       "Step 3: At the end of the row, squeeze the lat and rhomboids hard with the elbow behind the torso.",
-      "Step 4: Allow slight torso rotation toward the working side to increase the stretch — control this rotation; do not let it become momentum.",
+      "Step 4: Allow slight torso rotation toward the working side to increase the stretch \u2014 control this rotation; do not let it become momentum.",
       "Step 5: Slowly extend the arm back to the starting position, fully protracting the scapula."
     ],
     "breathing_instructions": "Exhale as you row the handle in. Inhale as you return to the starting position.",
@@ -76,7 +76,7 @@
     ],
     "safety_considerations": [
       "Keep the core braced to avoid excessive spinal rotation under load",
-      "Do not jerk the weight — control both the concentric and eccentric phases"
+      "Do not jerk the weight \u2014 control both the concentric and eccentric phases"
     ],
     "range_of_motion_guidance": "Full extension of the arm at the start to full retraction of the scapula at the end. Allow the shoulder to move freely.",
     "tempo_recommendations": "2-1-2-0 (2s pull, 1s hold, 2s eccentric)",
@@ -144,6 +144,9 @@
       "cable",
       "row",
       "lat"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

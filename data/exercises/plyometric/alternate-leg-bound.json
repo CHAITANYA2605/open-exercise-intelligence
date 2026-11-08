@@ -6,7 +6,7 @@
     "Alternating Bounds",
     "Skipping Bounds"
   ],
-  "description": "Alternate leg bounding is an advanced plyometric drill in which the athlete performs exaggerated, explosive strides — alternating single-leg push-offs and landings across the ground with maximum stride length and height. Each stride resembles a running step taken with maximum power output. It develops unilateral explosive hip extension, stride power, and the stretch-shortening cycle in the hip extensors and plantarflexors, with strong carryover to sprinting acceleration.",
+  "description": "Alternate leg bounding is an advanced plyometric drill in which the athlete performs exaggerated, explosive strides \u2014 alternating single-leg push-offs and landings across the ground with maximum stride length and height. Each stride resembles a running step taken with maximum power output. It develops unilateral explosive hip extension, stride power, and the stretch-shortening cycle in the hip extensors and plantarflexors, with strong carryover to sprinting acceleration.",
   "category": "plyometric",
   "exercise_type": "plyometric",
   "difficulty_level": "advanced",
@@ -58,7 +58,7 @@
   "equipment_optional": [],
   "execution": {
     "starting_position": "Begin in a standing position. Transition to movement immediately at the start of the drill.",
-    "setup_instructions": "Use a flat, non-slip surface with 30–50 meters of clear running space.",
+    "setup_instructions": "Use a flat, non-slip surface with 30\u201350 meters of clear running space.",
     "steps": [
       "Step 1: Begin with a short run-up to initiate momentum.",
       "Step 2: Drive off the right foot explosively, extending fully through the hip, knee, and ankle.",
@@ -68,20 +68,20 @@
     ],
     "breathing_instructions": "Breathe rhythmically throughout the drill.",
     "common_mistakes": [
-      "Shuffling rather than bounding — each stride must be a true explosive effort",
+      "Shuffling rather than bounding \u2014 each stride must be a true explosive effort",
       "Insufficient knee lift of the swing leg",
-      "Weak arm drive — the arms contribute significantly to stride power"
+      "Weak arm drive \u2014 the arms contribute significantly to stride power"
     ],
     "safety_considerations": [
       "High demand on the Achilles tendon and hamstrings. Not appropriate in the early season or after lower limb injury.",
       "Progress from single-leg hops before adding alternate leg bounds."
     ],
     "range_of_motion_guidance": "Maximum stride length and height. Full hip and knee extension at each takeoff.",
-    "tempo_recommendations": "Performed for 20–40 meter sets. Maximum effort on each stride.",
+    "tempo_recommendations": "Performed for 20\u201340 meter sets. Maximum effort on each stride.",
     "coaching_cues": [
       "Drive the knee up and push the ground away",
-      "Swing the arms hard — opposite arm to leg",
-      "Cover ground — big, powerful strides"
+      "Swing the arms hard \u2014 opposite arm to leg",
+      "Cover ground \u2014 big, powerful strides"
     ]
   },
   "variants": {
@@ -131,6 +131,9 @@
       "sprint",
       "sport",
       "advanced"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

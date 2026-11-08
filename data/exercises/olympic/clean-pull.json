@@ -2,8 +2,10 @@
   "exercise_id": "a1b2c3d4-f012-4000-a000-000000000212",
   "slug": "clean-pull",
   "name": "Clean Pull",
-  "alternative_names": ["Clean Deadlift to High Pull"],
-  "description": "The clean pull is a pulling accessory exercise for the clean in which the athlete performs the full pulling mechanics of the clean — first pull, second pull, and shrug — without catching the bar in the front rack. It allows heavier loads than the clean to be used to overload the pulling musculature and reinforce pulling mechanics. The clean pull is essential for developing the hip drive strength and bar path needed in the full clean.",
+  "alternative_names": [
+    "Clean Deadlift to High Pull"
+  ],
+  "description": "The clean pull is a pulling accessory exercise for the clean in which the athlete performs the full pulling mechanics of the clean \u2014 first pull, second pull, and shrug \u2014 without catching the bar in the front rack. It allows heavier loads than the clean to be used to overload the pulling musculature and reinforce pulling mechanics. The clean pull is essential for developing the hip drive strength and bar path needed in the full clean.",
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
@@ -15,31 +17,58 @@
   "status": "active",
   "muscles": {
     "primary": [
-      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
-      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
-      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
-      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
     ],
     "secondary": [
-      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
-      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
     ],
     "stabilizers": [
-      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
-      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
     ]
   },
-  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
   "equipment_optional": [],
   "execution": {
     "starting_position": "Bar over mid-foot, shoulder-width clean grip, flat back, hips above knees, shoulders above bar.",
     "setup_instructions": "Same starting position as the clean. Use lifting straps if grip is limiting pulling load.",
     "steps": [
       "Step 1: Set up in clean starting position.",
-      "Step 2: First pull — drive the floor away, keeping the bar close and back angle constant.",
-      "Step 3: Second pull — extend hips explosively as the bar passes the hip crease.",
+      "Step 2: First pull \u2014 drive the floor away, keeping the bar close and back angle constant.",
+      "Step 3: Second pull \u2014 extend hips explosively as the bar passes the hip crease.",
       "Step 4: Shrug the traps aggressively at full extension.",
-      "Step 5: Allow the bar to continue upward from the shrug momentum, then lower with control — do not catch."
+      "Step 5: Allow the bar to continue upward from the shrug momentum, then lower with control \u2014 do not catch."
     ],
     "breathing_instructions": "Brace before initiating. Hold through the pull. Exhale as the bar descends.",
     "common_mistakes": [
@@ -52,11 +81,11 @@
       "Use lifting straps to allow full focus on pulling mechanics without grip limitation."
     ],
     "range_of_motion_guidance": "Full hip extension and triple extension (ankle, knee, hip) at the top of the pull.",
-    "tempo_recommendations": "Explosive pull. Controlled lower. Can be loaded 10–20% above clean maximum.",
+    "tempo_recommendations": "Explosive pull. Controlled lower. Can be loaded 10\u201320% above clean maximum.",
     "coaching_cues": [
       "Full extension before the shrug",
-      "Bar close — brush the thighs",
-      "Shrug tall — rise onto the toes at the top"
+      "Bar close \u2014 brush the thighs",
+      "Shrug tall \u2014 rise onto the toes at the top"
     ]
   },
   "variants": {
@@ -68,23 +97,59 @@
   },
   "training_parameters": {
     "recommended_rep_ranges": [
-      {"goal": "strength", "min_reps": 2, "max_reps": 5},
-      {"goal": "power", "min_reps": 2, "max_reps": 4}
+      {
+        "goal": "strength",
+        "min_reps": 2,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 2,
+        "max_reps": 4
+      }
     ],
     "recommended_set_ranges": [
-      {"goal": "strength", "min_sets": 3, "max_sets": 5},
-      {"goal": "power", "min_sets": 3, "max_sets": 5}
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
     ],
-    "rest_periods": {"strength": 180, "power": 180},
-    "training_goals": ["strength", "power"]
+    "rest_periods": {
+      "strength": 180,
+      "power": 180
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
   },
-  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
     "updated_at": "2026-11-07T00:00:00Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
-    "tags": ["olympic", "weightlifting", "clean", "pull", "intermediate"]
+    "tags": [
+      "olympic",
+      "weightlifting",
+      "clean",
+      "pull",
+      "intermediate"
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }

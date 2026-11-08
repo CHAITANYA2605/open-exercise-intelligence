@@ -81,7 +81,7 @@
       "Develop adequate shoulder strength before progressing to fully vertical handstand push-ups",
       "If you feel neck pain when the head approaches the floor, reduce range of motion"
     ],
-    "range_of_motion_guidance": "Lower until the top of the head is 1–2 cm from the floor, then press back to the pike position.",
+    "range_of_motion_guidance": "Lower until the top of the head is 1\u20132 cm from the floor, then press back to the pike position.",
     "tempo_recommendations": "3-0-1-0",
     "coaching_cues": [
       "Push the floor away as you think about pressing your hips toward the ceiling",
@@ -92,9 +92,7 @@
     "easier": [
       "decline-push-up"
     ],
-    "harder": [
-      "handstand-push-up"
-    ],
+    "harder": [],
     "unilateral": [],
     "bilateral": [],
     "equipment_alternatives": [
@@ -165,6 +163,9 @@
       "bodyweight",
       "intermediate",
       "handstand-progression"
-    ]
+    ],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
   }
 }
