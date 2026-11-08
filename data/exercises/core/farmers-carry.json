@@ -1,0 +1,91 @@
+{
+  "exercise_id": "a1b2c3d4-e014-4000-a000-000000000114",
+  "slug": "farmers-carry",
+  "name": "Farmer's Carry",
+  "alternative_names": ["Farmer's Walk", "Loaded Carry"],
+  "description": "The farmer's carry is a full-body loaded carry exercise in which the athlete holds heavy weights in both hands at their sides and walks for a prescribed distance or duration. It develops grip strength, trapezius endurance, anti-lateral flexion core strength, and cardiovascular capacity simultaneously. The exercise mimics the movement pattern of carrying heavy objects in daily life and strongly transfers to general physical preparedness and work capacity.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+    ],
+    "secondary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000009-0000-4000-a000-000000000009", "eq000004-0000-4000-a000-000000000004"],
+  "execution": {
+    "starting_position": "Stand tall with a dumbbell, kettlebell, or trap bar handle in each hand, arms at your sides. Feet shoulder-width apart.",
+    "setup_instructions": "Select weights that allow a walking pace while maintaining posture. Begin with a clear path of at least 20–30 meters.",
+    "steps": [
+      "Step 1: Pick up the implements with a firm grip, one in each hand.",
+      "Step 2: Stand tall: chest up, shoulders back and down, core braced.",
+      "Step 3: Walk forward at a controlled pace with short, deliberate steps.",
+      "Step 4: Maintain an upright torso throughout — do not lean to either side.",
+      "Step 5: Set the weights down with control at the end of the prescribed distance."
+    ],
+    "breathing_instructions": "Breathe continuously with a moderate brace. Avoid holding the breath for the entire carry duration.",
+    "common_mistakes": [
+      "Shrugging the shoulders excessively — the traps are loaded but the shoulders should be retracted and depressed, not elevated",
+      "Leaning to one side due to unbalanced loads",
+      "Taking overly long strides that cause trunk rotation"
+    ],
+    "safety_considerations": [
+      "Ensure the floor is clear of obstacles.",
+      "Pick up and set down the implements with a hip-hinge pattern — not a rounded back."
+    ],
+    "range_of_motion_guidance": "Walk 20–50 meters per set, or for 30–60 seconds. Load and distance are primary variables.",
+    "tempo_recommendations": "Moderate walking pace. Focus on posture and grip endurance.",
+    "coaching_cues": [
+      "Stand tall — imagine a string pulling the crown of your head to the ceiling",
+      "Pack your shoulders back and down",
+      "Crush the handles"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 1},
+      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 120, "endurance": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["carry", "grip", "functional", "strongman", "conditioning"]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "exercise_id": "ba010013-f3a2-4c1e-9b8d-7e6f5a4c3b36",
+  "slug": "two-arm-dumbbell-row",
+  "name": "Two-Arm Dumbbell Bent-Over Row",
+  "alternative_names": ["Double Dumbbell Row", "Bilateral Dumbbell Row"],
+  "description": "The two-arm dumbbell bent-over row is performed identically to the barbell bent-over row, but with two dumbbells instead of a barbell. The independent dumbbells allow each arm to move through its natural path, reducing stress on the wrists and elbows compared to a fixed-bar variation. This version allows greater individual limb accountability and can help address left-right strength imbalances.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Hold a dumbbell in each hand. Hinge at the hips to 45 degrees of forward lean with a neutral spine. Let both dumbbells hang at arm's length.",
+    "setup_instructions": "Choose matching dumbbells. The bilateral version requires greater torso stability than the single-arm variation.",
+    "steps": [
+      "Step 1: Hinge at hips to roughly 45 degrees, dumbbells hanging straight down.",
+      "Step 2: Retract scapulae and pull both dumbbells simultaneously toward the lower ribcage.",
+      "Step 3: Keep elbows close to the body or allow slight flare based on grip position.",
+      "Step 4: Squeeze the lats and rhomboids hard at the top.",
+      "Step 5: Lower both dumbbells under control to full extension."
+    ],
+    "breathing_instructions": "Inhale and brace before each rep. Exhale on the row.",
+    "common_mistakes": [
+      "Rounding the lower back due to hamstring tightness",
+      "Using momentum by rocking the torso",
+      "Allowing the elbows to flare too wide, shifting from a lat-focused to rear-delt-focused pull"
+    ],
+    "safety_considerations": [
+      "Maintain neutral spine throughout — reduce weight if the lower back rounds",
+      "Hamstring flexibility determines hip hinge depth; do not force depth beyond neutral spine"
+    ],
+    "range_of_motion_guidance": "Dumbbells hang at full arm extension at the bottom, pulled to lower ribcage at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Hinge and hold — no torso bounce", "Pull both elbows back simultaneously", "Neutral spine is non-negotiable"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "row", "dumbbell", "bilateral"]
+  }
+}

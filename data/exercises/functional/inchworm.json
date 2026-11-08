@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-h012-4000-a000-000000000412",
+  "slug": "inchworm",
+  "name": "Inchworm",
+  "alternative_names": ["Inchworm Walk-Out", "Walk Out Push-Up"],
+  "description": "The inchworm is a dynamic warm-up and functional movement exercise in which the athlete bends forward to place the hands on the floor and walks the hands out to a push-up plank position, then walks the feet back toward the hands to return upright. It simultaneously provides a hamstring stretch during the foot-walk phase, shoulder and chest warm-up in the plank phase, and an optional push-up for further activation. The inchworm is a highly efficient all-in-one mobility and activation drill used globally as a warm-up.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "plank",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "crawl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright with feet hip-width apart.",
+    "setup_instructions": "No equipment required. Adequate floor space for the walk-out length.",
+    "steps": [
+      "Step 1: Stand upright, then hinge forward at the hips and bend the knees slightly to place both hands on the floor.",
+      "Step 2: Walk the hands forward — step by step — until arriving in a full push-up plank position.",
+      "Step 3: Optional: perform one push-up in the plank position.",
+      "Step 4: Walk the feet toward the hands in small steps, keeping the legs as straight as hamstring flexibility allows.",
+      "Step 5: Arrive in a standing position and repeat for the prescribed number of reps."
+    ],
+    "breathing_instructions": "Exhale as you walk out. Inhale as you walk feet back in.",
+    "common_mistakes": [
+      "Bending the knees excessively during the foot-walk phase — the hamstring stretch is the goal of that phase",
+      "Letting the hips sag in the plank position",
+      "Rushing — the inchworm is a quality movement, not a speed exercise"
+    ],
+    "safety_considerations": [
+      "Limited hamstring flexibility will cause excessive knee bend — this is fine initially, improve over time.",
+      "Wrist discomfort in the plank position — warm up wrists before."
+    ],
+    "range_of_motion_guidance": "Walk hands as far as a full plank. Walk feet as close to hands as hamstring flexibility allows with minimal knee bend.",
+    "tempo_recommendations": "5–10 reps as a warm-up. Slow and deliberate.",
+    "coaching_cues": [
+      "Long walk-out — full plank",
+      "Walk the feet in — feel the hamstring stretch",
+      "Hips level in the plank"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"mobility": 30},
+    "training_goals": ["mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "warm-up", "mobility", "hamstring", "bodyweight"]
+  }
+}

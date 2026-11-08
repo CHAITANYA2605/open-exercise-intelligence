@@ -1,0 +1,68 @@
+{
+  "exercise_id": "sh010030-f3a2-4c1e-9b8d-7e6f5a4c3c11",
+  "slug": "external-rotation-cable",
+  "name": "Cable External Rotation",
+  "alternative_names": ["Cable ER", "Side-Lying External Rotation Cable", "Standing Cable External Rotation"],
+  "description": "The cable external rotation targets the external rotators of the shoulder — primarily the infraspinatus and teres minor — using a cable machine at elbow height. The cable maintains continuous tension through the full arc of motion unlike rubber bands or manual resistance, providing a consistent training stimulus to the rotator cuff throughout the range. It is a cornerstone exercise for rotator cuff health, shoulder injury prevention, and rehabilitation.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rotator-cuff",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand beside a cable machine with the pulley set at elbow height. Grip the handle with the inside hand. The upper arm is at the side, elbow bent to 90 degrees, forearm pointing toward the cable machine.",
+    "setup_instructions": "Keep a small towel or folded pad tucked between the elbow and the torso to maintain the upper arm position throughout the movement.",
+    "steps": [
+      "Step 1: Stand with the cable at elbow height, grip the handle with the inside hand.",
+      "Step 2: Bend the elbow to 90 degrees, upper arm at the side.",
+      "Step 3: Rotate the forearm outward (away from the body) while keeping the upper arm stationary.",
+      "Step 4: Rotate until the forearm is pointing forward or slightly past neutral.",
+      "Step 5: Return under full control to the starting position."
+    ],
+    "breathing_instructions": "Breathe naturally throughout — this is a low-load exercise.",
+    "common_mistakes": [
+      "Allowing the elbow to lift away from the side — the upper arm must remain still",
+      "Using too heavy a weight, which causes shoulder shrugging or body rotation"
+    ],
+    "safety_considerations": ["Very light loads only — this is a targeted rotator cuff exercise, not a strength movement"],
+    "range_of_motion_guidance": "From internal rotation (forearm toward cable) to external rotation (forearm pointing forward or beyond neutral).",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Elbow stays glued to your side", "Rotate from the shoulder only", "Light and controlled — rotator cuff work"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 60},
+    "training_goals": ["rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "rotator-cuff", "external-rotation", "rehabilitation", "cable"]
+  }
+}

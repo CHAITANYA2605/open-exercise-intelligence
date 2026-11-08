@@ -1,0 +1,80 @@
+{
+  "exercise_id": "2efbfde7-ff26-4fa6-863e-63b13996abd4",
+  "slug": "seated-dumbbell-lateral-raise-5s-eccentric",
+  "name": "Seated Dumbbell Lateral Raise (5-Second Eccentric)",
+  "alternative_names": ["5s Eccentric Lateral Raise", "Super-Slow Eccentric Lateral Raise"],
+  "description": "The 5-second eccentric lateral raise extends the lowering phase to a full 5 seconds, creating even greater time under tension for the medial deltoid than the 3-second version. It is an advanced hypertrophy technique and is typically used by experienced trainees for single set shock protocols or as a technique to maintain medial deltoid stimulus when heavy loads are unavailable or not advisable due to injury constraints.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit upright on a bench with dumbbells at the sides.",
+    "setup_instructions": "Use a very light dumbbell — a 5-second eccentric with heavy weight is impossible to control. Many trainees use 2-5 kg.",
+    "steps": [
+      "Step 1: Raise both arms to shoulder height in 1-2 seconds.",
+      "Step 2: Hold 1 second at the top.",
+      "Step 3: Lower both arms over exactly 5 seconds — one, two, three, four, five.",
+      "Step 4: Return to the starting position.",
+      "Step 5: Repeat for 8-10 reps."
+    ],
+    "breathing_instructions": "Exhale raising. Inhale controlled through the 5-second descent.",
+    "common_mistakes": [
+      "Cheating the tempo — 5 seconds means 5 seconds",
+      "Using too heavy a weight — with 5s eccentric, light weight burns plenty"
+    ],
+    "safety_considerations": [
+      "Very light loads only — the extended time under tension is the stimulus, not the weight",
+      "High fatigue technique — limit to 1-2 sets initially"
+    ],
+    "range_of_motion_guidance": "Shoulder height to sides over 5 controlled seconds.",
+    "tempo_recommendations": "2-1-5-0",
+    "coaching_cues": [
+      "Count every second of the descent",
+      "No shortcuts — the 5-second lower is the entire point",
+      "Fight the weight all the way to the bottom"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "hypertrophy": 120 },
+    "training_goals": ["hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "lateral-raise", "eccentric", "5-second", "hypertrophy"]
+  }
+}

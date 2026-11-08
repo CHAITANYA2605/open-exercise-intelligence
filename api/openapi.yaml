@@ -1,0 +1,492 @@
+openapi: "3.1.0"
+info:
+  title: Open Exercise Intelligence API
+  version: "1.0.0"
+  description: |
+    REST API specification for the Open Exercise Intelligence (OEI) dataset.
+
+    **Data license:** CC0 1.0
+    **Code license:** MIT
+
+    This spec describes the HTTP interface that any OEI-compatible server must
+    implement. The reference implementation is the zero-dependency Node.js
+    search engine in `search/index.js`.
+  contact:
+    name: OEI Contributors
+    url: https://github.com/open-exercise-intelligence/oei
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+
+servers:
+  - url: http://localhost:3000/v1
+    description: Local development server
+
+tags:
+  - name: exercises
+    description: Exercise CRUD and search
+  - name: muscles
+    description: Muscle taxonomy
+  - name: equipment
+    description: Equipment taxonomy
+  - name: meta
+    description: Dataset metadata
+
+paths:
+  /exercises:
+    get:
+      operationId: listExercises
+      tags: [exercises]
+      summary: List or search exercises
+      parameters:
+        - name: q
+          in: query
+          description: Full-text search query (AND semantics across name, description, muscles, tags)
+          schema:
+            type: string
+            example: "bench press"
+        - name: category
+          in: query
+          schema:
+            type: string
+            enum: [strength, cardio, flexibility, balance, plyometric, sport, rehabilitation, functional, stretching, olympic]
+        - name: difficulty_level
+          in: query
+          schema:
+            type: string
+            enum: [beginner, intermediate, advanced]
+        - name: movement_pattern
+          in: query
+          schema:
+            type: string
+            enum: [push, pull, hinge, squat, lunge, carry, rotation, anti-rotation, gait, overhead, bridge, plank]
+        - name: exercise_type
+          in: query
+          schema:
+            type: string
+            enum: [compound, isolation]
+        - name: laterality
+          in: query
+          schema:
+            type: string
+            enum: [bilateral, unilateral]
+        - name: force_type
+          in: query
+          schema:
+            type: string
+            enum: [push, pull, static]
+        - name: muscle_slug
+          in: query
+          description: Filter by muscle slug (any role — primary, secondary, or stabilizer)
+          schema:
+            type: string
+            example: "latissimus-dorsi"
+        - name: primary_muscle_slug
+          in: query
+          description: Filter by primary muscle slug only
+          schema:
+            type: string
+        - name: equipment_id
+          in: query
+          description: Filter by equipment UUID
+          schema:
+            type: string
+            format: uuid
+        - name: training_goal
+          in: query
+          schema:
+            type: string
+            enum: [strength, hypertrophy, endurance, mobility, power]
+        - name: tags
+          in: query
+          description: Comma-separated list of tags (all must match)
+          schema:
+            type: string
+            example: "compound,barbell"
+        - name: sort_by
+          in: query
+          schema:
+            type: string
+            enum: [score, name, difficulty]
+            default: score
+        - name: sort_order
+          in: query
+          schema:
+            type: string
+            enum: [asc, desc]
+            default: desc
+        - name: page
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            default: 1
+        - name: per_page
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+        - name: include_related
+          in: query
+          schema:
+            type: boolean
+            default: false
+      responses:
+        "200":
+          description: Paginated exercise list
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ExerciseListResponse"
+
+  /exercises/{idOrSlug}:
+    get:
+      operationId: getExercise
+      tags: [exercises]
+      summary: Get a single exercise by UUID or slug
+      parameters:
+        - name: idOrSlug
+          in: path
+          required: true
+          schema:
+            type: string
+          example: barbell-bench-press
+      responses:
+        "200":
+          description: Exercise detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Exercise"
+        "404":
+          description: Exercise not found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+  /exercises/{idOrSlug}/related:
+    get:
+      operationId: relatedExercises
+      tags: [exercises]
+      summary: Get exercises related to the given one
+      parameters:
+        - name: idOrSlug
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 20
+            default: 5
+      responses:
+        "200":
+          description: Related exercises
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  related:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/ExerciseSummary"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /facets:
+    get:
+      operationId: getFacets
+      tags: [exercises]
+      summary: Get facet counts for all filter dimensions
+      parameters:
+        - name: category
+          in: query
+          schema: { type: string }
+        - name: difficulty_level
+          in: query
+          schema: { type: string }
+      responses:
+        "200":
+          description: Facet counts
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Facets"
+
+  /muscles:
+    get:
+      operationId: listMuscles
+      tags: [muscles]
+      summary: List all muscles in the taxonomy
+      responses:
+        "200":
+          description: Muscle list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  muscles:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Muscle"
+                  total:
+                    type: integer
+
+  /equipment:
+    get:
+      operationId: listEquipment
+      tags: [equipment]
+      summary: List all equipment items
+      responses:
+        "200":
+          description: Equipment list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  equipment:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Equipment"
+                  total:
+                    type: integer
+
+  /dataset-version:
+    get:
+      operationId: getDatasetVersion
+      tags: [meta]
+      summary: Get the current dataset version and exercise count
+      responses:
+        "200":
+          description: Dataset version info
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/DatasetVersion"
+
+components:
+  schemas:
+    MuscleRef:
+      type: object
+      required: [muscle_id, muscle_slug]
+      properties:
+        muscle_id:
+          type: string
+          format: uuid
+        muscle_slug:
+          type: string
+
+    Muscles:
+      type: object
+      properties:
+        primary:
+          type: array
+          items:
+            $ref: "#/components/schemas/MuscleRef"
+        secondary:
+          type: array
+          items:
+            $ref: "#/components/schemas/MuscleRef"
+        stabilizers:
+          type: array
+          items:
+            $ref: "#/components/schemas/MuscleRef"
+
+    Execution:
+      type: object
+      properties:
+        starting_position: { type: string }
+        setup_instructions: { type: string }
+        steps:
+          type: array
+          items: { type: string }
+        breathing_instructions: { type: string }
+        common_mistakes:
+          type: array
+          items: { type: string }
+        safety_considerations:
+          type: array
+          items: { type: string }
+        range_of_motion_guidance: { type: string }
+        tempo_recommendations: { type: string }
+        coaching_cues:
+          type: array
+          items: { type: string }
+
+    TrainingParameters:
+      type: object
+      properties:
+        recommended_rep_ranges:
+          type: array
+          items:
+            type: object
+            properties:
+              goal: { type: string }
+              min_reps: { type: integer }
+              max_reps: { type: integer }
+        training_goals:
+          type: array
+          items: { type: string }
+        rest_periods:
+          type: object
+          additionalProperties: { type: integer }
+
+    ExerciseMetadata:
+      type: object
+      properties:
+        created_at: { type: string, format: date-time }
+        updated_at: { type: string, format: date-time }
+        created_by: { type: string }
+        version: { type: string }
+        sources:
+          type: array
+          items: { type: string }
+        tags:
+          type: array
+          items: { type: string }
+
+    Exercise:
+      type: object
+      required: [exercise_id, slug, name, category]
+      properties:
+        exercise_id: { type: string, format: uuid }
+        slug: { type: string }
+        name: { type: string }
+        alternative_names:
+          type: array
+          items: { type: string }
+        description: { type: string }
+        category: { type: string }
+        exercise_type: { type: string, enum: [compound, isolation] }
+        difficulty_level: { type: string, enum: [beginner, intermediate, advanced] }
+        movement_pattern: { type: string }
+        force_type: { type: string }
+        mechanics_type: { type: string }
+        laterality: { type: string, enum: [bilateral, unilateral] }
+        exercise_family: { type: string }
+        status: { type: string, enum: [active, deprecated, draft] }
+        muscles:
+          $ref: "#/components/schemas/Muscles"
+        equipment_required:
+          type: array
+          items: { type: string, format: uuid }
+        equipment_optional:
+          type: array
+          items: { type: string, format: uuid }
+        execution:
+          $ref: "#/components/schemas/Execution"
+        training_parameters:
+          $ref: "#/components/schemas/TrainingParameters"
+        metadata:
+          $ref: "#/components/schemas/ExerciseMetadata"
+
+    ExerciseSummary:
+      type: object
+      properties:
+        exercise_id: { type: string, format: uuid }
+        slug: { type: string }
+        name: { type: string }
+        category: { type: string }
+        difficulty_level: { type: string }
+        movement_pattern: { type: string }
+        exercise_type: { type: string }
+        laterality: { type: string }
+        muscles:
+          $ref: "#/components/schemas/Muscles"
+        equipment_required:
+          type: array
+          items: { type: string }
+        description: { type: string }
+        _score: { type: number }
+        related:
+          type: array
+          items:
+            $ref: "#/components/schemas/ExerciseSummary"
+
+    ExerciseListResponse:
+      type: object
+      required: [results, total, page, per_page, total_pages]
+      properties:
+        results:
+          type: array
+          items:
+            $ref: "#/components/schemas/ExerciseSummary"
+        total: { type: integer }
+        page: { type: integer }
+        per_page: { type: integer }
+        total_pages: { type: integer }
+
+    FacetEntry:
+      type: object
+      properties:
+        value: { type: string }
+        count: { type: integer }
+
+    Facets:
+      type: object
+      properties:
+        category:
+          type: array
+          items: { $ref: "#/components/schemas/FacetEntry" }
+        difficulty_level:
+          type: array
+          items: { $ref: "#/components/schemas/FacetEntry" }
+        movement_pattern:
+          type: array
+          items: { $ref: "#/components/schemas/FacetEntry" }
+        exercise_type:
+          type: array
+          items: { $ref: "#/components/schemas/FacetEntry" }
+        laterality:
+          type: array
+          items: { $ref: "#/components/schemas/FacetEntry" }
+        force_type:
+          type: array
+          items: { $ref: "#/components/schemas/FacetEntry" }
+
+    Muscle:
+      type: object
+      properties:
+        muscle_id: { type: string, format: uuid }
+        slug: { type: string }
+        name: { type: string }
+        group: { type: string }
+
+    Equipment:
+      type: object
+      properties:
+        equipment_id: { type: string, format: uuid }
+        slug: { type: string }
+        name: { type: string }
+        category: { type: string }
+
+    DatasetVersion:
+      type: object
+      properties:
+        version: { type: string }
+        exercise_count: { type: integer }
+        last_updated: { type: string, format: date }
+        schema_version: { type: string }
+
+    Error:
+      type: object
+      properties:
+        error: { type: string }
+        message: { type: string }
+
+  responses:
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"

@@ -1,0 +1,119 @@
+{
+  "exercise_id": "f6a7b8c9-0005-4000-8006-000000000005",
+  "slug": "leg-raise",
+  "name": "Lying Leg Raise",
+  "alternative_names": [
+    "Flat Bench Leg Raise",
+    "Floor Leg Raise"
+  ],
+  "description": "The lying leg raise trains the hip flexors and lower abdominals by raising the legs from a flat position to vertical while keeping the lower back in contact with the floor. It is an effective exercise for developing lower abdominal strength and hip flexor endurance.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie flat on your back with legs extended and hands at the sides or tucked under the lower back for support. Lower back in contact with the floor.",
+    "setup_instructions": "If the lower back arches off the floor, the core is not strong enough for this exercise \u2014 start with bent-knee raises.",
+    "steps": [
+      "With legs straight or slightly bent, raise them from the floor to vertical (90 degrees).",
+      "Lower under control back toward the floor.",
+      "Stop just before the heels touch the floor to maintain tension."
+    ],
+    "breathing_instructions": "Exhale as legs rise. Inhale as they descend.",
+    "common_mistakes": [
+      "Allowing the lower back to arch off the floor",
+      "Dropping the legs quickly without eccentric control"
+    ],
+    "safety_considerations": [
+      "If the lower back arches significantly, perform bent-knee raises instead"
+    ],
+    "range_of_motion_guidance": "Legs from just above floor level to 90 degrees. The lower you go, the more core demand.",
+    "tempo_recommendations": "2-0-3-0",
+    "coaching_cues": [
+      "Push the lower back into the floor the entire time",
+      "Slow descent \u2014 the eccentric is where the work happens"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "hip-flexors",
+      "lower-abs",
+      "bodyweight"
+    ]
+  }
+}

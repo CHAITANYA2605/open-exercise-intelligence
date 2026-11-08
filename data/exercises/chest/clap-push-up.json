@@ -1,0 +1,83 @@
+{
+  "exercise_id": "a1b2c3d4-0015-4000-a000-chest0000015",
+  "slug": "clap-push-up",
+  "name": "Clap / Plyometric Push-Up",
+  "alternative_names": ["Plyometric Push-Up", "Explosive Push-Up", "Clapping Push-Up"],
+  "description": "The clap push-up is a plyometric variation in which the pressing phase is explosive enough to launch the hands off the floor, allowing a clap before landing. This develops upper-body power, rate-of-force development, and reactive strength in the chest, triceps, and anterior deltoids through a true stretch-shortening cycle.",
+  "category": "power",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standard push-up position with hands shoulder-width apart and body in a straight line.",
+    "setup_instructions": "Perform on a firm, flat surface that provides enough friction for a safe hand landing. Ensure there is adequate floor space.",
+    "steps": [
+      "Step 1: Lower into the bottom of a push-up under control.",
+      "Step 2: At the bottom, explosively press the floor away with maximum force.",
+      "Step 3: Drive the torso upward fast enough for the hands to leave the floor.",
+      "Step 4: Clap the hands together while airborne.",
+      "Step 5: Land with hands in the original position, absorbing impact by bending the elbows immediately into the next rep."
+    ],
+    "breathing_instructions": "Inhale on the way down. Exhale explosively on the press.",
+    "common_mistakes": [
+      "Not lowering enough before the explosive press, reducing power output",
+      "Landing stiff-wristed, risking wrist injury",
+      "Attempting this exercise without sufficient standard push-up strength"
+    ],
+    "safety_considerations": [
+      "Master push-ups with a minimum of 20 consecutive reps before attempting plyometric variation",
+      "Land with bent elbows to absorb impact",
+      "Perform on a padded or non-slip surface",
+      "Do not perform to failure — stop well before form breaks"
+    ],
+    "range_of_motion_guidance": "Full depth on the descent. The press must be explosive enough to generate meaningful air time.",
+    "tempo_recommendations": "2-0-X-0",
+    "coaching_cues": ["Push the floor through the Earth", "Land soft — absorb with the elbows", "Quality over quantity — explosive intent every rep"]
+  },
+  "variants": {
+    "easier": ["push-up"],
+    "harder": ["single-arm-push-up"],
+    "unilateral": [],
+    "bilateral": ["clap-push-up"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 3, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"power": 180},
+    "training_goals": ["power", "athletic_performance", "sport_specific"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "bodyweight", "push-up", "plyometric", "power", "explosive"]
+  }
+}

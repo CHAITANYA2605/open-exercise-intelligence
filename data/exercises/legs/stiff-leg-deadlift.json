@@ -1,0 +1,91 @@
+{
+  "exercise_id": "a1b2c3d4-0017-4000-a000-legs00000017",
+  "slug": "stiff-leg-deadlift",
+  "name": "Stiff-Leg Deadlift",
+  "alternative_names": ["Straight-Leg Deadlift", "SLDL"],
+  "description": "The stiff-leg deadlift is a hip-hinge movement performed with the knees kept nearly fully extended throughout. Unlike the Romanian deadlift — which maintains a consistent slight knee bend — the stiff-leg deadlift allows the bar to travel to the floor, requiring greater lumbar flexion and placing an extreme stretch on the hamstrings. It delivers a powerful hamstring and erector spinae stimulus but demands significant flexibility and careful attention to spinal position.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"},
+      {"muscle_id": "55555555-0002-4000-a000-000000000005", "muscle_slug": "iliocostalis"},
+      {"muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "longissimus"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Stand with the barbell on the floor in front of you, feet hip-width apart. Grip the bar with both hands just outside the legs.",
+    "setup_instructions": "Use a double overhand grip or mixed grip. Lifting straps are appropriate for heavier loads as grip will be a limiting factor at extreme hamstring stretch positions.",
+    "steps": [
+      "Step 1: With knees nearly fully extended (a micro-bend only), hinge forward from the hips and grip the bar.",
+      "Step 2: Brace the core and maintain a neutral or slightly extended spine as you lift the bar from the floor to standing.",
+      "Step 3: To begin the descent: push the hips back and hinge forward, keeping the knees straight, allowing the bar to travel down the legs.",
+      "Step 4: Lower the bar toward or to the floor, allowing the lower back to round slightly at the extreme bottom position if flexibility demands it. The key is a controlled, progressive range.",
+      "Step 5: Return to standing by driving the hips forward."
+    ],
+    "breathing_instructions": "Inhale and brace before descent. Hold through the stretch. Exhale as you return to standing.",
+    "common_mistakes": [
+      "Fully locking the knees (hyperextending) — a micro-bend protects the posterior joint",
+      "Losing control of the lower back rounding too early in the range (should occur only near the floor)",
+      "Rounding the upper back significantly, transferring excessive load to the spine"
+    ],
+    "safety_considerations": [
+      "This exercise is not appropriate for those with insufficient hamstring flexibility — the Romanian deadlift is a safer alternative",
+      "Use moderate loads — the extreme stretch position is mechanically disadvantaged and high-risk under heavy load"
+    ],
+    "range_of_motion_guidance": "Lower the bar until hamstring flexibility limits further range or the bar touches the floor, whichever comes first while maintaining acceptable spinal position.",
+    "tempo_recommendations": "3-1-1-0 — a slow controlled descent to maximize the hamstring stimulus",
+    "coaching_cues": [
+      "Slight knee bend throughout — never lock the knees",
+      "Bar stays close to the legs on the way down",
+      "Feel the stretch — don't let the low back take over"
+    ]
+  },
+  "variants": {
+    "easier": ["barbell-romanian-deadlift"],
+    "harder": [],
+    "unilateral": ["single-leg-romanian-deadlift"],
+    "bilateral": ["deadlift"],
+    "equipment_alternatives": ["dumbbell-romanian-deadlift"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90, "endurance": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hinge", "hamstring", "deadlift-variation"]
+  }
+}

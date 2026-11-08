@@ -1,0 +1,82 @@
+{
+  "exercise_id": "558ad249-ef45-4cfe-bbfd-0123fadf8bc6",
+  "slug": "landmine-lateral-raise-pause",
+  "name": "Landmine Lateral Raise with Pause",
+  "alternative_names": ["Paused Landmine Lateral Raise", "Landmine Side Raise Pause"],
+  "description": "The landmine lateral raise with pause uses the fixed arc of a landmine barbell to perform a lateral raise with a 2-3 second isometric hold at peak abduction. The pause maximizes time under tension for the medial deltoid at its contracted position and prevents the momentum that often occurs in standard lateral raises, ensuring each repetition delivers genuine deltoid loading through the full range.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000040-0000-4000-a000-000000000040"],
+  "execution": {
+    "starting_position": "Stand beside a landmine setup. Hold the bar end with the near hand. Begin with arm at the side, bar end hanging near the hip.",
+    "setup_instructions": "Position the body so the bar traces a smooth lateral arc when raised. Light load — the fixed arc limits load compared to free-weight lateral raises.",
+    "steps": [
+      "Step 1: Begin with arm at side holding the bar end.",
+      "Step 2: Raise the arm laterally to shoulder height, following the arc of the bar.",
+      "Step 3: At shoulder height, hold for 2-3 seconds.",
+      "Step 4: Lower under full control back to starting position.",
+      "Step 5: Complete all reps then switch sides."
+    ],
+    "breathing_instructions": "Exhale raising. Hold breath lightly during pause. Exhale lowering.",
+    "common_mistakes": [
+      "Not actually holding at the top — 2-3 full seconds of contraction",
+      "Shrugging the traps to assist the raise"
+    ],
+    "safety_considerations": [
+      "Very light loads — the pause amplifies the stimulus",
+      "Avoid if shoulder impingement is present"
+    ],
+    "range_of_motion_guidance": "Arm at side to shoulder height with pause.",
+    "tempo_recommendations": "2-3 hold-3-0",
+    "coaching_cues": [
+      "Full pause at the top — count three seconds",
+      "No shrug — lead with the elbow",
+      "Lower slowly for maximum eccentric benefit"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["landmine", "lateral-raise", "pause", "deltoid", "shoulder"]
+  }
+}

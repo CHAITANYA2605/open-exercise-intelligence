@@ -1,0 +1,87 @@
+{
+  "exercise_id": "e6f7a8b9-d012-4ef0-1234-567890123def",
+  "slug": "swiss-bar-overhead-press",
+  "name": "Swiss Bar Overhead Press",
+  "alternative_names": ["Multi-Grip Bar Overhead Press", "Neutral Grip Bar Overhead Press"],
+  "description": "The Swiss bar overhead press uses a multi-grip bar to press overhead with the hands in a neutral (palms facing each other) or semi-pronated grip, reducing the degree of shoulder external rotation required at the bottom position compared to a standard straight barbell. This reduces impingement risk in athletes with limited shoulder mobility or existing rotator cuff irritation while still allowing heavy overhead pressing loads. The neutral grip also shifts some emphasis toward the anterior deltoid and long head of the triceps.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000030-0000-4000-a000-000000000030", "eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set the Swiss bar in a rack at upper-chest height. Grip the neutral handles. Unrack and hold at shoulder height with elbows slightly forward of the bar.",
+    "setup_instructions": "Set up like a standard overhead press. The neutral grip handles will be at approximately shoulder width.",
+    "steps": [
+      "Step 1: Begin with the bar at shoulder height, elbows forward.",
+      "Step 2: Press the bar straight overhead, extending the arms fully.",
+      "Step 3: At lockout, the bar is directly over the base of the skull.",
+      "Step 4: Lower under control back to the starting position.",
+      "Step 5: Repeat."
+    ],
+    "breathing_instructions": "Inhale and brace before pressing. Exhale at the top or through the press.",
+    "common_mistakes": [
+      "Flaring the elbows wide — with the neutral grip, elbows should stay close to 45 degrees from the torso",
+      "Leaning excessively backward under load"
+    ],
+    "safety_considerations": [
+      "Learn the standard barbell overhead press before switching to the Swiss bar",
+      "Use for rehabilitation from shoulder impingement — the neutral grip is gentler on the glenohumeral joint"
+    ],
+    "range_of_motion_guidance": "Shoulder height to full overhead lockout.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Neutral grip — palms face each other",
+      "Elbows slightly forward — 45 degrees from the torso",
+      "Lock out fully overhead"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 3, "max_reps": 6 },
+      { "goal": "hypertrophy", "min_reps": 6, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 240, "hypertrophy": 90 },
+    "training_goals": ["strength", "hypertrophy", "rehabilitation"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["swiss-bar", "overhead-press", "neutral-grip", "shoulder-friendly", "strength"]
+  }
+}

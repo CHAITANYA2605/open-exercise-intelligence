@@ -1,0 +1,88 @@
+{
+  "exercise_id": "a1b2c3d4-f003-4000-a000-000000000203",
+  "slug": "hang-snatch",
+  "name": "Hang Snatch",
+  "alternative_names": ["Hang Position Snatch"],
+  "description": "The hang snatch is a snatch variation in which the lift begins from a hang position — typically at the hip or knee — rather than from the floor. By eliminating the first pull from the floor, the hang snatch simplifies the lift and focuses training on the explosive second pull and catch mechanics. It is commonly used as a teaching tool, warm-up drill, or accessory exercise to reinforce hip drive and turnover speed.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "overhead",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "snatch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with the barbell held in a wide snatch grip at hip or knee height. Hips are hinged, back flat, weight balanced over mid-foot.",
+    "setup_instructions": "Begin from a hip hang (bar at hip crease) or knee hang (bar just above the knees). The hip hang is easier to learn.",
+    "steps": [
+      "Step 1: Hold the bar at hip height with a wide snatch grip. Hinge the hips back slightly.",
+      "Step 2: Drive the hips forward explosively, extending fully through the hip and knee.",
+      "Step 3: Shrug the traps and guide the bar upward close to the body.",
+      "Step 4: Turn over the hands and pull yourself under the bar, locking out overhead.",
+      "Step 5: Catch in an overhead squat or above-parallel catch, then stand and lower."
+    ],
+    "breathing_instructions": "Brace before the pull. Exhale after the overhead catch is stabilized.",
+    "common_mistakes": [
+      "Leaning back excessively instead of driving the hips through",
+      "Letting the bar swing away from the body",
+      "Not completing full hip extension before pulling under"
+    ],
+    "safety_considerations": [
+      "Use bumper plates. Train from the hip hang position first before progressing to knee hang.",
+      "Bail safely forward if the catch is missed."
+    ],
+    "range_of_motion_guidance": "Full hip extension before pulling under. Catch with locked overhead position.",
+    "tempo_recommendations": "Explosive. Build rhythm from hang to catch.",
+    "coaching_cues": [
+      "Hips through — open explosively",
+      "Bar stays close — elbows high and outside",
+      "Fast hands — turnover is the key"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 4, "max_sets": 8}
+    ],
+    "rest_periods": {"power": 180},
+    "training_goals": ["power", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["olympic", "weightlifting", "power", "advanced"]
+  }
+}

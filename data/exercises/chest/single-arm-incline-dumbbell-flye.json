@@ -1,0 +1,77 @@
+{
+  "exercise_id": "e5f6a7b8-c9d0-4123-e456-f78a90b12c17",
+  "slug": "single-arm-incline-dumbbell-flye",
+  "name": "Single-Arm Incline Dumbbell Flye",
+  "alternative_names": ["Unilateral Incline Dumbbell Fly"],
+  "description": "A unilateral isolation movement performed on an incline bench, targeting the clavicular (upper) fibers of the pectoralis major. Using one arm at a time allows for a greater range of motion, enhanced mind-muscle connection, and identification and correction of left-right strength imbalances. The non-working arm can hold the bench edge for stability.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on an incline bench set to 30–45 degrees. Hold one dumbbell in the working hand above the upper chest with a slight bend in the elbow. The opposite hand grips the bench edge for stability.",
+    "setup_instructions": "Set the incline to 30–45 degrees. Select a dumbbell lighter than you would use for a bilateral flye since there is no counterbalancing load on the other side.",
+    "steps": [
+      "Step 1: Begin with the working arm extended above the upper chest, palm facing inward.",
+      "Step 2: Lower the dumbbell out to the side in a wide arc, maintaining the fixed elbow bend. Feel the deep stretch across the upper chest.",
+      "Step 3: At full stretch, reverse the arc and bring the dumbbell back above the chest.",
+      "Step 4: Squeeze the pectoral at the top. Repeat all reps, then switch sides."
+    ],
+    "breathing_instructions": "Inhale as you lower the dumbbell. Exhale as you bring it back up.",
+    "common_mistakes": [
+      "Letting the elbow bend excessively during the movement, turning it into a press",
+      "Rotating the torso toward the working arm — keep hips and shoulders flat on the bench",
+      "Using too heavy a dumbbell, compromising shoulder stability"
+    ],
+    "safety_considerations": [
+      "Use a spotter or place the non-working hand on the bench edge for stability",
+      "Control the descent carefully — the shoulder is vulnerable at end-range with single-arm load"
+    ],
+    "range_of_motion_guidance": "Open to the furthest comfortable stretch — typically when the upper arm is parallel to the bench surface or slightly below.",
+    "tempo_recommendations": "3-1-2-1 (3s down, 1s stretch, 2s up, 1s squeeze)",
+    "coaching_cues": [
+      "Lead with the elbow, not the hand — keep the arc wide",
+      "Think of hugging a barrel with one arm — the motion is a sweep, not a curl"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "incline", "flye", "unilateral", "upper-chest", "isolation"]
+  }
+}

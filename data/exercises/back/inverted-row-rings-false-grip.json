@@ -1,0 +1,87 @@
+{
+  "exercise_id": "c4716288-b0f8-442d-8c85-c780175dcde6",
+  "slug": "inverted-row-rings-false-grip",
+  "name": "Inverted Row on Rings with False Grip",
+  "alternative_names": ["Ring Inverted Row False Grip", "Ring Row False Grip"],
+  "description": "The inverted row on rings with a false grip (wrist draped over the rings) is a horizontal pulling exercise that simultaneously trains rowing strength and the grip position required for ring muscle-ups. The unstable ring surface recruits additional stabilizer muscle activity compared to fixed-bar rows, while the false grip develops wrist and forearm strength essential for advanced ring skills.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set rings at approximately waist-to-chest height. Take a false grip on each ring (wrist over the ring, not just fingers gripping the strap). Lean back so the body is at a 30-45 degree angle to the floor, arms extended.",
+    "setup_instructions": "Adjust ring height to control difficulty — lower = harder. The false grip feels uncomfortable initially; build wrist tolerance gradually.",
+    "steps": [
+      "Step 1: Establish the false grip and lean back into the starting position with arms extended.",
+      "Step 2: Keeping the body in a rigid plank, row the chest toward the rings by driving elbows back.",
+      "Step 3: At the top, the hands should be at or near the chest with elbows behind the torso.",
+      "Step 4: Lower slowly under control back to the extended arm position.",
+      "Step 5: Maintain the false grip throughout the entire set."
+    ],
+    "breathing_instructions": "Exhale on the row up. Inhale on the descent.",
+    "common_mistakes": [
+      "Releasing the false grip mid-set — the wrist should remain over the ring",
+      "Hips sagging — maintain a rigid plank body line",
+      "Pulling with the arms only — initiate with scapular retraction"
+    ],
+    "safety_considerations": [
+      "The false grip can cause wrist discomfort — build duration gradually",
+      "Avoid if you have wrist injuries or tendinopathies"
+    ],
+    "range_of_motion_guidance": "Full arm extension to hands at chest level.",
+    "tempo_recommendations": "2-1-3-0 (2s pull, 1s hold, 3s lower)",
+    "coaching_cues": [
+      "Maintain the false grip — wrist over the ring at all times",
+      "Lead with the chest, not the chin",
+      "Body stays rigid like a plank — no hip hinge"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 5, "max_reps": 10 },
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 120, "hypertrophy": 90 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "inverted-row", "false-grip", "gymnastics", "calisthenics"]
+  }
+}

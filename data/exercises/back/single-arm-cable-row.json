@@ -1,0 +1,89 @@
+{
+  "exercise_id": "d3c4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+  "slug": "single-arm-cable-row",
+  "name": "Single-Arm Cable Row",
+  "alternative_names": ["One-Arm Cable Row", "Unilateral Cable Row"],
+  "description": "The single-arm cable row is a unilateral horizontal pulling exercise that allows greater range of motion and scapular movement than bilateral rowing variations. Training each side independently corrects strength imbalances and allows the torso to rotate slightly, increasing latissimus dorsi and rhomboid engagement through a fuller range.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
+      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique" }
+    ]
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "execution": {
+    "starting_position": "Stand or sit facing a low-pulley cable machine. Grasp a single handle with one hand. Take a step back (or sit on a bench) and extend the working arm fully forward, feeling the lat on stretch.",
+    "setup_instructions": "Attach a single-grip D-handle to the low pulley. Stand facing the cable or sit on a bench positioned in front of the cable stack. Set a weight appropriate for single-arm pulling.",
+    "steps": [
+      "Step 1: Begin with the arm fully extended toward the cable, allowing the shoulder to protract and the lat to stretch.",
+      "Step 2: Drive the elbow backward, retracting the scapula, and row the handle toward the lower ribcage.",
+      "Step 3: At the end of the row, squeeze the lat and rhomboids hard with the elbow behind the torso.",
+      "Step 4: Allow slight torso rotation toward the working side to increase the stretch — control this rotation; do not let it become momentum.",
+      "Step 5: Slowly extend the arm back to the starting position, fully protracting the scapula."
+    ],
+    "breathing_instructions": "Exhale as you row the handle in. Inhale as you return to the starting position.",
+    "common_mistakes": [
+      "Rotating the torso excessively and using it to swing the weight",
+      "Not allowing full scapular protraction at the start, limiting range of motion",
+      "Pulling with the biceps by keeping the elbow close to the body from the start rather than driving it back"
+    ],
+    "safety_considerations": [
+      "Keep the core braced to avoid excessive spinal rotation under load",
+      "Do not jerk the weight — control both the concentric and eccentric phases"
+    ],
+    "range_of_motion_guidance": "Full extension of the arm at the start to full retraction of the scapula at the end. Allow the shoulder to move freely.",
+    "tempo_recommendations": "2-1-2-0 (2s pull, 1s hold, 2s eccentric)",
+    "coaching_cues": [
+      "Think 'elbow to back pocket'",
+      "Let your shoulder blade glide forward at the start to get the full stretch",
+      "Row to your hip, not your chest"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 6, "max_reps": 10 },
+      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 120, "hypertrophy": 75 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["unilateral", "cable", "row", "lat"]
+  }
+}

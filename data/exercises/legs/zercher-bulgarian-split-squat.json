@@ -1,0 +1,78 @@
+{
+  "exercise_id": "a1b2c3d4-0001-4001-a001-000000000101",
+  "slug": "zercher-bulgarian-split-squat",
+  "name": "Zercher Bulgarian Split Squat",
+  "alternative_names": ["Zercher Split Squat"],
+  "description": "A Bulgarian split squat variation where the barbell is cradled in the crooks of the elbows rather than placed across the upper back. The Zercher position forces a more upright torso, increases core bracing demands significantly, and shifts loading stress away from the spine while still providing strong quadriceps and glute stimulus.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "lunge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand in a split stance with the rear foot elevated on a bench. Cradle the barbell in the crooks of both elbows, holding your forearms parallel to the floor.",
+    "setup_instructions": "Set a barbell to roughly waist height in a rack. Cradle it in your elbow crooks, secure the grip, then walk to the bench and position your rear foot on it.",
+    "steps": [
+      "Step 1: Brace your core hard and keep your torso upright throughout the movement.",
+      "Step 2: Lower your rear knee toward the floor by bending both knees, maintaining an upright torso.",
+      "Step 3: Descend until the front thigh is at or below parallel to the floor.",
+      "Step 4: Drive through the front heel to return to the starting position, fully extending the front hip and knee."
+    ],
+    "breathing_instructions": "Inhale and brace before descending. Exhale at the top after completing the rep.",
+    "common_mistakes": [
+      "Letting the torso collapse forward under the Zercher load",
+      "Allowing the front knee to cave inward during the ascent"
+    ],
+    "safety_considerations": [
+      "The Zercher position can stress the forearms and biceps tendons — use padding if needed and avoid very heavy loads initially"
+    ],
+    "range_of_motion_guidance": "Lower until the front thigh is parallel to the floor or below. Keep the rear shin roughly vertical.",
+    "tempo_recommendations": "3-1-1-0 (3s eccentric, 1s pause, 1s concentric)",
+    "coaching_cues": ["Chest up, elbows forward", "Drive the floor away with your front heel"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["legs", "quads", "glutes", "zercher", "unilateral"]
+  }
+}

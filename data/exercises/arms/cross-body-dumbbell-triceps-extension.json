@@ -1,0 +1,120 @@
+{
+  "exercise_id": "ex-cross-bo-sion-4000-a000-126800906780",
+  "slug": "cross-body-dumbbell-triceps-extension",
+  "name": "Cross-Body Dumbbell Triceps Extension",
+  "alternative_names": [],
+  "description": "A unique triceps isolation movement where a dumbbell is lowered across the body to the opposite shoulder. This creates a distinctive stretch on the triceps long head from an oblique angle. The movement offers a different stimulus than standard overhead extensions.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Cross-Body Dumbbell Triceps Extension in the appropriate position.",
+    "setup_instructions": "Prepare equipment and body position for Cross-Body Dumbbell Triceps Extension.",
+    "steps": [
+      "Step 1: Lie on bench holding one dumbbell with arm extended toward ceiling.",
+      "Step 2: Bend elbow to lower dumbbell across body toward opposite shoulder.",
+      "Step 3: Lower until forearm is parallel to floor or slight stretch is felt.",
+      "Step 4: Extend arm back to straight position above chest."
+    ],
+    "breathing_instructions": "Exhale during the exertion phase, inhale during the return.",
+    "common_mistakes": [
+      "Moving shoulder joint instead of elbow",
+      "Excessive cross-body rotation"
+    ],
+    "safety_considerations": [
+      "Keep joints aligned throughout the movement.",
+      "Use controlled weight appropriate for skill level."
+    ],
+    "range_of_motion_guidance": "Move through full range of motion without compromising joint integrity.",
+    "tempo_recommendations": "2-0-2 for hypertrophy, controlled throughout.",
+    "coaching_cues": [
+      "Pivot at elbow only",
+      "Feel the cross-body stretch at the bottom"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

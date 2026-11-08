@@ -1,0 +1,85 @@
+{
+  "exercise_id": "f3a4b5c6-d7e8-4f9a-0b1c-2d3e4f5a6b7c",
+  "slug": "hip-flexor-stretch",
+  "name": "Kneeling Hip Flexor Stretch",
+  "alternative_names": ["Kneeling Lunge Stretch", "Low Lunge Hip Flexor"],
+  "description": "The kneeling hip flexor stretch targets the iliopsoas and rectus femoris through sustained hip extension of the rear leg in a kneeling lunge position. It is one of the most effective and widely used stretches for counteracting hip flexor tightness from prolonged sitting, which is associated with anterior pelvic tilt and lower back discomfort. The stretch should be felt in the front of the hip of the kneeling leg.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "lunge",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" },
+      { "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus" },
+      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kneel on one knee on the floor or a mat, with the other foot forward in a lunge position. The rear knee is on the ground, the front foot is flat. Torso upright.",
+    "setup_instructions": "Use a mat or folded towel under the kneeling knee for comfort. Place hands on the front knee or the front thigh for balance.",
+    "steps": [
+      "Step 1: Begin in a kneeling lunge with the rear knee on the floor and front foot forward.",
+      "Step 2: Tuck the pelvis under by gently squeezing the glutes of the rear leg — this posteriorly tilts the pelvis and increases the stretch.",
+      "Step 3: Shift the hips forward gently until a stretch is felt in the front of the rear hip.",
+      "Step 4: Hold the position for 30–90 seconds, breathing normally.",
+      "Step 5: Release and switch sides."
+    ],
+    "breathing_instructions": "Breathe deeply and slowly throughout the hold. Each exhale can allow the hips to relax slightly further into the stretch.",
+    "common_mistakes": [
+      "Anterior pelvic tilt during the stretch, which reduces tension on the iliopsoas — tuck the pelvis",
+      "Leaning the torso forward, which reduces hip extension and diminishes the stretch",
+      "Not holding long enough — brief holds provide minimal flexibility adaptation"
+    ],
+    "safety_considerations": [
+      "If the kneeling knee causes discomfort, place padding underneath",
+      "Do not force past the point of a moderate stretch sensation"
+    ],
+    "range_of_motion_guidance": "Shift the hips forward until a moderate stretch is felt in the front of the rear hip. The front knee should not extend beyond the toes.",
+    "tempo_recommendations": "Hold 30–90 seconds per side. Perform 2–4 rounds.",
+    "coaching_cues": [
+      "Squeeze the glute of the rear leg to deepen the stretch",
+      "Stand tall through the torso — do not collapse forward",
+      "Breathe into the front of your hip"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 4 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+    ],
+    "rest_periods": { "mobility": 15 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hip-flexor", "stretch", "iliopsoas", "mobility", "beginner"]
+  }
+}

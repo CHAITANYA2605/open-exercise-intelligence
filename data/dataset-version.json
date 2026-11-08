@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "released_at": "2026-11-08T00:00:00Z",
+  "exercise_count": 618,
+  "muscle_count": 75,
+  "equipment_count": 50,
+  "schema_version": "1.0.0",
+  "changelog": "Milestone 2 complete. 617 exercises across 15 categories: chest (110), legs (96), arms (76), back (75), shoulders (47), rehabilitation (47), core (47), glutes (26), stretching (22), plyometric (17), functional (16), olympic (13), strongman (12), cardio (8), neck (5). All content is original CC0 1.0 work.",
+  "checksum_algorithm": "sha256",
+  "notes": "All exercises are original works released under CC0 1.0. No proprietary exercise data was used. Exercise names are factual and not copyrightable. Dataset sourced from open/factual sources only."
+}

@@ -1,0 +1,79 @@
+{
+  "exercise_id": "e7f8a9b0-c1d2-4345-e678-f90a12b34c29",
+  "slug": "chained-incline-dumbbell-press",
+  "name": "Chained Incline Dumbbell Press",
+  "alternative_names": ["Chain-Loaded Incline Dumbbell Press", "Incline Dumbbell Press Chains"],
+  "description": "An incline dumbbell press with chains attached to the dumbbells and draped on the floor. As the dumbbells rise, more chain links lift off the floor, progressively increasing the load through the top range of motion. This accommodating resistance technique challenges the pectoralis major clavicular fibers through the top portion where free weights typically become easier due to mechanical advantage.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set the incline bench to 30–45 degrees. Attach chains to the dumbbell handles so they drape to the floor when held at the bottom position. Lie on the bench with the loaded dumbbells at chest level.",
+    "setup_instructions": "Chains can be attached with carabiners or looped through the dumbbell plate holes. The chain should begin lifting off the floor when the arms reach roughly the midpoint of the press.",
+    "steps": [
+      "Step 1: Begin at the bottom position with elbows at chest level. Chains drape to the floor.",
+      "Step 2: Press the dumbbells upward. As they rise, chain links progressively lift off the floor, increasing the load.",
+      "Step 3: At full lockout, all chains are suspended and the peak load occurs.",
+      "Step 4: Lower under control. As dumbbells descend, chains re-contact the floor, deloading the bottom. Repeat."
+    ],
+    "breathing_instructions": "Inhale at the bottom, exhale forcefully through the press.",
+    "common_mistakes": [
+      "Chains that never lift off the floor — means chains are too long or dumbbells don't travel high enough",
+      "Using dumbbell weight that is too heavy before accounting for chain load",
+      "Chains not secured and sliding off mid-set"
+    ],
+    "safety_considerations": [
+      "Secure chain attachments before beginning",
+      "Reduce dumbbell weight below normal incline press weight to account for chain addition",
+      "Have a training partner observe chain behavior during the first set"
+    ],
+    "range_of_motion_guidance": "Full range, bottom to lockout. Chain loading is greatest at the top.",
+    "tempo_recommendations": "3-1-2-1",
+    "coaching_cues": [
+      "Press hard all the way to lockout — the chains test you there",
+      "The bottom feels light, the top feels heavy — that's the point"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "chains", "incline", "accommodating-resistance", "advanced", "upper-chest"]
+  }
+}

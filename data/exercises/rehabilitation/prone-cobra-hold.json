@@ -1,0 +1,68 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50006",
+  "slug": "prone-cobra-hold",
+  "name": "Prone Cobra Hold",
+  "alternative_names": ["Prone Cobra", "Prone Y Extension"],
+  "description": "The prone cobra is a postural restoration exercise performed face-down on the floor. The exerciser lifts the chest off the ground while simultaneously externally rotating the shoulders and squeezing the scapulae together, holding the position isometrically. This movement counteracts the forward-rounded posture common in sedentary populations and strengthens the posterior chain muscles responsible for upright posture.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ],
+    "stabilizers": [{"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie face-down on the floor with arms at your sides, palms facing down, forehead resting on the floor. Legs are together and relaxed.",
+    "setup_instructions": "No equipment required. Use a mat for comfort. Ensure there is enough space to extend arms fully.",
+    "steps": [
+      "Step 1: Squeeze the glutes and brace the lower abdominals lightly.",
+      "Step 2: Rotate the hands outward so the thumbs point up and palms face outward.",
+      "Step 3: Lift the chest and arms off the floor simultaneously, keeping the head in a neutral position aligned with the spine.",
+      "Step 4: Hold the elevated position for the prescribed duration, then slowly lower. Repeat."
+    ],
+    "breathing_instructions": "Breathe normally during the hold — do not hold your breath. Exhale as you lift, inhale during the hold.",
+    "common_mistakes": ["Craning the neck backward — the head should stay neutral", "Failing to externally rotate the shoulders before lifting", "Holding breath rather than breathing through the hold"],
+    "safety_considerations": ["Avoid if you have acute lumbar disc herniation — consult a physiotherapist first", "Do not force excessive spinal extension — lift only as high as comfortable"],
+    "range_of_motion_guidance": "Lift the chest 3-6 inches off the floor. Focus on quality of contraction, not height of lift.",
+    "tempo_recommendations": "Hold 5-10 seconds per rep, working up to 30-second holds",
+    "coaching_cues": ["Squeeze the shoulder blades together and down before you lift", "Think about making your thumbs point to the ceiling", "Keep the neck long — do not crane backward"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 8, "max_reps": 15},
+      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 45, "mobility": 60},
+    "training_goals": ["mobility", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["posture", "rehabilitation", "thoracic", "scapular"]
+  }
+}

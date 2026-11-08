@@ -1,0 +1,87 @@
+{
+  "exercise_id": "ca000003-0000-4000-a000-000000000003",
+  "slug": "stationary-bike-sprint",
+  "name": "Stationary / Spin Bike Sprint Intervals",
+  "alternative_names": ["Spin Bike HIIT", "Indoor Cycling Sprints", "Bike Intervals"],
+  "description": "Stationary bike sprint intervals use a fixed or spin cycle to perform repeated bouts of maximal pedalling resistance and cadence, separated by low-intensity recovery periods. The seated position eliminates ground-reaction forces, making it a joint-friendly alternative to running-based sprints while still imposing high demand on the quadriceps, gluteus maximus, and cardiovascular system. The resistance dial controls the mechanical load, allowing precise scaling from beginner to elite training intensities.",
+  "category": "cardio",
+  "exercise_type": "cardio",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "cardio",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Adjust the seat height so there is a slight bend (5–10°) in the knee at the bottom of the pedal stroke. Adjust the handlebar height for comfort. Clip in or place feet in the cages securely.",
+    "setup_instructions": "Set resistance at a moderate level for the warm-up. Identify the resistance range for sprint intervals (heavy) and recovery (light) before starting.",
+    "steps": [
+      "Step 1: Warm up for 5 minutes at a comfortable pace with light resistance.",
+      "Step 2: Increase resistance to a heavy setting and pedal at maximum cadence (100–120 RPM) for 20–30 seconds.",
+      "Step 3: Reduce resistance to minimal and slow cadence to 60–70 RPM for 60–90 seconds recovery.",
+      "Step 4: Repeat the sprint-recovery cycle 8–12 times.",
+      "Step 5: Cool down for 5 minutes with light resistance and easy pedalling."
+    ],
+    "breathing_instructions": "Breathe forcefully and continuously during sprints. During recovery, focus on slowing the breathing rate by exhaling fully through pursed lips.",
+    "common_mistakes": [
+      "Using too little resistance and spinning the legs at an unsustainable cadence with no load — this produces minimal metabolic stress",
+      "Rising out of the saddle during sprints without sufficient resistance, which loads the quads in an inefficient pattern",
+      "Skipping the seat height adjustment, which causes knee tracking problems"
+    ],
+    "safety_considerations": [
+      "Ensure the seat post and handlebar bolts are tightened before each session",
+      "If using clip-in cycling shoes, practice unclipping before beginning high-intensity intervals"
+    ],
+    "range_of_motion_guidance": "The pedal stroke should feel like a full circle — push down through the front, pull through the bottom, and think about pulling up with the rear foot. This distributes load across quads, hamstrings, and glutes.",
+    "tempo_recommendations": "Sprint 20–30 seconds at maximum effort. Recover 60–90 seconds at easy effort. 8–12 rounds. Total session 20–30 minutes including warm-up and cool-down.",
+    "coaching_cues": [
+      "Push the pedal through the floor, then scrape mud off the bottom of your shoe",
+      "Sit tall — do not collapse the chest onto the handlebars during hard efforts",
+      "Heavy resistance makes the sprint productive — light resistance just spins the legs"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 1, "max_sets": 1}
+    ],
+    "rest_periods": {"endurance": 90},
+    "training_goals": ["endurance", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cardio", "HIIT", "bike", "cycling", "low-impact"]
+  }
+}

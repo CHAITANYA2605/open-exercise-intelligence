@@ -1,0 +1,95 @@
+{
+  "exercise_id": "a1b2c3d4-0024-4000-a000-legs00000024",
+  "slug": "kettlebell-swing",
+  "name": "Kettlebell Swing",
+  "alternative_names": ["KB Swing", "Russian Kettlebell Swing", "American Kettlebell Swing"],
+  "description": "The kettlebell swing is a ballistic hip-hinge exercise in which the kettlebell is swung from between the knees to chest height (Russian) or overhead (American) using explosive hip extension. Despite the apparent arm movement, the swing is fundamentally a posterior chain exercise — the glutes and hamstrings generate the force that propels the kettlebell, while the arms merely guide it. It develops explosive hip power, posterior chain endurance, and cardiovascular conditioning simultaneously.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "swing",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0002-4000-a000-000000000005", "muscle_slug": "iliocostalis"},
+      {"muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "longissimus"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet slightly wider than shoulder-width with the kettlebell on the floor just in front. Hinge at the hip to grip the kettlebell with both hands, tilting it toward you.",
+    "setup_instructions": "Choose a kettlebell weight that allows explosive hip drive without compromising lumbar position. Beginners: 12–16 kg. Intermediate: 20–28 kg. The first swing begins from a hip hinge, not a squat.",
+    "steps": [
+      "Step 1: Hike the kettlebell back between the legs like a hike pass in American football — hinging at the hip, loading the hamstrings.",
+      "Step 2: Explosively extend the hips forward — the glutes contract hard and the hips snap to full extension.",
+      "Step 3: The momentum of the hip drive propels the kettlebell forward and upward. The arms guide, not lift.",
+      "Step 4: At the top (chest height for Russian swing), the core is braced hard and the body is a straight line.",
+      "Step 5: Allow the kettlebell to arc back down, hinge at the hip again, guide the bell between the legs, and repeat."
+    ],
+    "breathing_instructions": "Exhale sharply as the hips snap forward. Inhale as the bell swings back. The breathing pattern reinforces core bracing at the apex.",
+    "common_mistakes": [
+      "Squatting during the downswing instead of hinging — the knees should stay relatively extended as the hips hinge back",
+      "Using the arms to lift the bell — the arms should hang loose; the hip drive does the work",
+      "Hyperextending the lower back at the top — the top position should be tall and plank-like, not arched"
+    ],
+    "safety_considerations": [
+      "Learn the hip hinge pattern with a Romanian deadlift before attempting swings under load",
+      "Ensure adequate ceiling height (minimum 3 m) for overhead swings",
+      "Do not swing near other people — a released bell is a serious hazard"
+    ],
+    "range_of_motion_guidance": "Full hip hinge at the bottom (hamstrings loaded) to full hip extension at the top (glutes fully contracted, body upright).",
+    "tempo_recommendations": "Ballistic — the swing is not tempo-controlled but should be fluid and controlled, not frantic",
+    "coaching_cues": [
+      "Hike it back like a football hike",
+      "Hips, not arms — the bell floats because of your hip drive",
+      "Stand tall at the top — plank position, not arched"
+    ]
+  },
+  "variants": {
+    "easier": ["cable-pull-through"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["barbell-romanian-deadlift"],
+    "equipment_alternatives": ["cable-pull-through"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 50}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 30},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hinge", "glute", "conditioning", "kettlebell", "ballistic"]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "exercise_id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+  "slug": "pallof-press-rehab",
+  "name": "Pallof Press",
+  "alternative_names": ["Anti-Rotation Press", "Cable Anti-Rotation Press"],
+  "description": "The Pallof press is an anti-rotation core stability exercise that challenges the ability to resist rotational forces rather than produce them. Performed with a resistance band or cable anchored to the side, the exerciser extends the arms in front of the chest and holds against the pull — requiring the entire core to contract isometrically to prevent rotation. It is a cornerstone of lumbar rehabilitation, athletic performance, and functional core training.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "anti-rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "99999999-0001-4000-a000-000000000009", "muscle_slug": "rectus-abdominis" }
+    ],
+    "secondary": [
+      { "muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "obliques" },
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+    ]
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Anchor a resistance band at chest height. Stand perpendicular to the anchor, far enough away to create tension. Hold the band with both hands at the chest.",
+    "setup_instructions": "Anchor the band at a door frame or rack at chest height. Stand with feet shoulder-width apart, perpendicular to the anchor.",
+    "steps": [
+      "Step 1: Hold the band with both hands pressed against the sternum. The band pulls horizontally toward the anchor point.",
+      "Step 2: Brace the core firmly. The feet, hips, and shoulders should all face straight ahead (perpendicular to the anchor).",
+      "Step 3: Slowly press the hands straight out in front of the chest, fully extending the arms.",
+      "Step 4: Hold for 2–3 seconds at full extension, resisting the pull of the band.",
+      "Step 5: Return the hands to the chest with control. Repeat for reps, then switch sides."
+    ],
+    "breathing_instructions": "Exhale and brace as the arms extend. Breathe steadily in the hold position.",
+    "common_mistakes": [
+      "Rotating the torso toward the anchor — the goal is to prevent this rotation entirely",
+      "Feet shifting or hips rotating — maintain a stable square stance",
+      "Holding the breath excessively — learn to breathe while maintaining the brace"
+    ],
+    "safety_considerations": [
+      "Use very light resistance initially — the demand on the core is high relative to the apparent load",
+      "Safe for most low back pain populations — often one of the earliest core exercises reintroduced in lumbar rehab"
+    ],
+    "range_of_motion_guidance": "Full arm extension and return. The range of motion is straightforward — the challenge is in preventing rotation throughout.",
+    "tempo_recommendations": "2-second press out, 2–3 second hold, 2-second return. 10–15 reps × 2–3 sets per side.",
+    "coaching_cues": [
+      "Squeeze your core like someone is about to punch you",
+      "Your body should look the same at full extension as at the start — no rotation",
+      "Press straight out from the sternum"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 60 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "core", "anti-rotation", "lumbar", "stability", "beginner"]
+  }
+}

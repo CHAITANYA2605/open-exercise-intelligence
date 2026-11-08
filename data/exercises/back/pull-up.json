@@ -1,0 +1,161 @@
+{
+  "exercise_id": "b2c3d4e5-0004-4000-8002-000000000004",
+  "slug": "pull-up",
+  "name": "Pull-Up",
+  "alternative_names": [
+    "Overhand Pull-Up"
+  ],
+  "description": "The pull-up is a vertical pulling bodyweight exercise performed on a bar using a pronated (overhand) grip. It is one of the most effective exercises for developing latissimus dorsi width and upper back strength. The overhand grip emphasizes the lats and reduces biceps involvement compared to the chin-up.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [
+    "eq000049-0000-4000-a000-000000000049"
+  ],
+  "execution": {
+    "starting_position": "Hang from a pull-up bar with a pronated grip slightly wider than shoulder width. Arms fully extended, body in a hollow position with core lightly engaged. Feet may be crossed behind.",
+    "setup_instructions": "Choose a bar that can be reached safely. Begin from a full dead hang with shoulders packed and not shrugged.",
+    "steps": [
+      "Depress and retract the shoulder blades slightly to initiate the pull.",
+      "Drive the elbows down and back, pulling the chest toward the bar.",
+      "Continue until your chin clears the bar or your chest touches it.",
+      "Lower with full control back to the dead hang position."
+    ],
+    "breathing_instructions": "Exhale on the pull up, inhale on the controlled descent.",
+    "common_mistakes": [
+      "Kipping or using momentum instead of controlled muscle contraction",
+      "Only achieving partial range of motion \u2014 not fully extending at the bottom",
+      "Shrugging the shoulders rather than depressing them before pulling"
+    ],
+    "safety_considerations": [
+      "Fully extend the elbows at the bottom of each rep to maintain shoulder health",
+      "Warm up the shoulder rotator cuff before pull-up sets"
+    ],
+    "range_of_motion_guidance": "Full dead hang at the bottom, chin above bar or chest to bar at the top.",
+    "tempo_recommendations": "2-0-2-1",
+    "coaching_cues": [
+      "Pull your elbows into your back pockets",
+      "Imagine bending the bar in half as you pull"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 4,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "back",
+      "pull-up",
+      "bodyweight",
+      "vertical-pull"
+    ]
+  }
+}

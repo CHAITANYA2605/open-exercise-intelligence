@@ -1,0 +1,124 @@
+{
+  "exercise_id": "2ec78c50-afe7-419c-8f51-514eb83b4dd4",
+  "slug": "overhead-cable-tricep-extension",
+  "name": "Overhead Cable Tricep Extension",
+  "alternative_names": [
+    "Cable Overhead Tricep Extension",
+    "High Cable Tricep Extension"
+  ],
+  "description": "A tricep isolation exercise performed with a rope or straight bar attachment at a high cable pulley, extending the arms overhead. The overhead position places the long head of the triceps in a lengthened position, maximizing the stretch and providing greater hypertrophic stimulus compared to pushdown variations.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing away from a high cable pulley holding a rope attachment behind your head, elbows bent and pointing forward.",
+    "setup_instructions": "Attach a rope to the high cable pulley. Face away from the machine. Grab the rope and position it behind your head.",
+    "steps": [
+      "Step 1: Keep the upper arms stationary and close to the head throughout.",
+      "Step 2: Extend the arms forward and downward, straightening the elbows.",
+      "Step 3: Fully extend the elbows at the bottom of the movement.",
+      "Step 4: Bend the elbows to return the hands behind the head under control."
+    ],
+    "breathing_instructions": "Exhale on the extension. Inhale on the return.",
+    "common_mistakes": [
+      "Allowing the upper arms to drop or flare during the movement",
+      "Using momentum by leaning the torso"
+    ],
+    "safety_considerations": [
+      "Keep the upper arms close to the head and stationary throughout"
+    ],
+    "range_of_motion_guidance": "Full extension of the elbows at the front. Full elbow flexion at the back \u2014 elbows well above the head.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Elbows stay up and forward",
+      "Full stretch in the long head"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "triceps",
+      "cable",
+      "overhead",
+      "long-head"
+    ]
+  }
+}

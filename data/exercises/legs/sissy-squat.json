@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a1b2c3d4-0009-4000-a000-legs00000009",
+  "slug": "sissy-squat",
+  "name": "Sissy Squat",
+  "alternative_names": [],
+  "description": "The sissy squat is a unique quadriceps exercise in which the knees travel far forward of the toes while the torso leans backward, creating a long moment arm at the knee and intense quadriceps loading through a full range of motion. Unlike most squat variations, the hip does not flex significantly, making this primarily an open-chain knee extension pattern performed without a machine. It places high eccentric stress on the quadriceps and substantial load on the patellar tendon.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+    ],
+    "secondary": [],
+    "stabilizers": [
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with heels slightly elevated (on a small plate or the edge of a step) and hold onto an upright support for balance. Feet are hip-width apart.",
+    "setup_instructions": "Have a fixed support nearby (rack upright or door frame) to hold during the movement. Heel elevation (1–2 inches) makes the exercise more accessible and reduces ankle mobility demands.",
+    "steps": [
+      "Step 1: Stand tall, holding the support lightly for balance. Begin to lean backward as a unit from the knees — the ankle plantar-flexes and the knee flexes.",
+      "Step 2: Continue leaning backward while allowing the knees to travel far forward. The hips remain relatively extended throughout — do not flex at the hip.",
+      "Step 3: Descend until the thighs are as close to vertical as possible (nearly parallel to the torso, which is leaning far back).",
+      "Step 4: Reverse the motion by contracting the quadriceps powerfully to pull the torso back to vertical.",
+      "Step 5: Return to full standing extension."
+    ],
+    "breathing_instructions": "Inhale during the descent. Exhale on the return to standing.",
+    "common_mistakes": [
+      "Hinging at the hip (like a squat) instead of maintaining hip extension throughout",
+      "Moving too fast through the eccentric portion — the sissy squat's value is in its slow, controlled range",
+      "Attempting without sufficient quad strength — high patellar tendon stress makes unpreparedness risky"
+    ],
+    "safety_considerations": [
+      "High patellar tendon load — those with patellar tendinopathy should consult a clinician before performing",
+      "Avoid the loaded version until bodyweight is controlled comfortably",
+      "Heel elevation reduces the ankle dorsiflexion requirement and reduces risk of balance loss"
+    ],
+    "range_of_motion_guidance": "Maximize the backward lean while keeping hips extended and feet planted. The more range, the greater the quad stretch.",
+    "tempo_recommendations": "4-1-2-0 — slow eccentric is essential",
+    "coaching_cues": [
+      "Keep the hips long — do not fold at the hip",
+      "Lean back as one rigid plank from knee to shoulder",
+      "Squeeze the quads to pull yourself back up"
+    ]
+  },
+  "variants": {
+    "easier": ["leg-extension"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": ["leg-extension"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["quad-isolation", "calisthenics", "advanced"]
+  }
+}

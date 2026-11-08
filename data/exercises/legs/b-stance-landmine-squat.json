@@ -1,0 +1,149 @@
+{
+  "exercise_id": "94cc3b59-491d-4371-a5ce-4f9469337537",
+  "slug": "b-stance-landmine-squat",
+  "name": "B-Stance Landmine Squat",
+  "alternative_names": [
+    "Landmine B-Stance Squat"
+  ],
+  "description": "A landmine squat performed with a staggered B-stance where the lead leg does the majority of the work and the rear foot provides only balance support. The landmine anchors the bar at an angle, guiding the movement and allowing a more upright torso with less lower back stress than a traditional squat.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "execution": {
+    "starting_position": "Hold the sleeve of a landmine barbell with both hands at chest height. Stand in a B-stance with the working foot forward and the rear foot's toes touching the floor behind for balance only.",
+    "setup_instructions": "Secure a barbell in a landmine base or wedge it into a corner. Load the sleeve. Stand facing the landmine anchor and grasp the loaded end.",
+    "steps": [
+      "Step 1: Brace the core and push the hips back slightly.",
+      "Step 2: Lower into a squat on the lead leg, letting the rear foot remain as a balance point only.",
+      "Step 3: Descend until the front thigh is at or near parallel.",
+      "Step 4: Drive through the front heel to return to standing."
+    ],
+    "breathing_instructions": "Inhale and brace on the descent. Exhale on the ascent.",
+    "common_mistakes": [
+      "Shifting too much load to the rear foot \u2014 the rear foot is for balance only",
+      "Allowing the front knee to cave inward"
+    ],
+    "safety_considerations": [
+      "Start with a light load to learn the balance requirements of the B-stance position"
+    ],
+    "range_of_motion_guidance": "Lead leg thigh reaches parallel or below. Full extension at the top.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Lead leg does the work",
+      "Rear toes touch for balance only"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "glutes",
+      "landmine",
+      "unilateral"
+    ]
+  }
+}

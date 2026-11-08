@@ -1,0 +1,84 @@
+{
+  "exercise_id": "f6a7b8c9-d0e1-4f2a-3b4c-d5e6f7a8b436",
+  "slug": "cable-overhead-tricep-extension",
+  "name": "Cable Overhead Tricep Extension",
+  "alternative_names": ["Overhead Cable Extension", "Cable French Press"],
+  "description": "The cable overhead tricep extension is performed with a cable machine set to the high position and the rope pulled overhead, then the elbows bent to lower the attachment behind the head. With the shoulder in flexion, the long head of the triceps is placed under maximum stretch, making this variation particularly effective for developing the long head bulk that gives the arm its thickness from the rear view.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "execution": {
+    "starting_position": "Attach a rope to the high pulley. Grip the rope ends, turn to face away from the machine, and hold the rope behind the head with elbows bent and pointing toward the ceiling. Stand in a split stance for stability.",
+    "setup_instructions": "Set the cable pulley to the highest position. Attach a rope. Grip ends, face away from the cable stack, and position rope behind the neck/head before starting.",
+    "steps": [
+      "Step 1: Face away from the high pulley, holding the rope ends behind the head with elbows pointing up.",
+      "Step 2: Begin with elbows fully bent, feeling the long head of the triceps stretched.",
+      "Step 3: Exhale and extend the elbows overhead, pushing the rope ends apart slightly as you extend.",
+      "Step 4: Fully extend the arms, hold for a moment, then inhale and return to the bent position."
+    ],
+    "breathing_instructions": "Exhale on extension; inhale on the return.",
+    "common_mistakes": [
+      "Letting the elbows flare wide — keep them pointing relatively forward/upward",
+      "Using the shoulders to lift rather than extending the elbows"
+    ],
+    "safety_considerations": [
+      "If discomfort is felt at the shoulder during the stretch position, reduce range of motion",
+      "Keep the core braced to avoid lower back arching during the overhead position"
+    ],
+    "range_of_motion_guidance": "Full elbow bend (deep stretch of long head) to full elbow extension overhead.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Elbows point to the ceiling — not outward",
+      "Feel the deep stretch in the back of the arm at the bottom before pressing up"
+    ]
+  },
+  "variants": {
+    "easier": ["overhead-tricep-extension"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["overhead-tricep-extension", "skull-crusher"],
+    "equipment_alternatives": ["overhead-tricep-extension"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "triceps", "long-head", "overhead", "isolation", "extension"]
+  }
+}

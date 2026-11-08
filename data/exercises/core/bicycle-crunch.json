@@ -1,0 +1,134 @@
+{
+  "exercise_id": "f6a7b8c9-0004-4000-8006-000000000004",
+  "slug": "bicycle-crunch",
+  "name": "Bicycle Crunch",
+  "alternative_names": [
+    "Bicycle Abs"
+  ],
+  "description": "The bicycle crunch combines trunk flexion with rotation and simultaneous leg movement, training the rectus abdominis and obliques in a dynamic, integrated pattern. The alternating elbow-to-knee motion engages the obliques more than a standard crunch and creates significant rotational core demand.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "crunch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on your back with hands lightly behind the head, shoulders off the floor, knees bent at 90 degrees.",
+    "setup_instructions": "Keep both shoulders off the floor throughout. The rotation comes from the torso, not from pulling the neck.",
+    "steps": [
+      "Extend one leg straight while simultaneously rotating the opposite elbow toward the bent knee.",
+      "Alternate sides in a smooth, controlled cycling motion.",
+      "Keep the lower back pressed into the floor throughout."
+    ],
+    "breathing_instructions": "Exhale with each rotation. Try to maintain a rhythm.",
+    "common_mistakes": [
+      "Pulling the neck with the hands",
+      "Rushing through reps with poor form \u2014 go slow for greater activation",
+      "Lifting the lower back off the floor"
+    ],
+    "safety_considerations": [
+      "If neck discomfort is significant, reduce range or regress to basic crunches"
+    ],
+    "range_of_motion_guidance": "Full elbow-to-knee contact or as close as possible on each side. Fully extended opposite leg.",
+    "tempo_recommendations": "Controlled \u2014 1 second per rep each side",
+    "coaching_cues": [
+      "Rotate from the ribcage, not from the neck",
+      "Keep both shoulders off the floor \u2014 do not rock side to side"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 25,
+        "max_reps": 40
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "obliques",
+      "bicycle",
+      "crunch",
+      "bodyweight"
+    ]
+  }
+}

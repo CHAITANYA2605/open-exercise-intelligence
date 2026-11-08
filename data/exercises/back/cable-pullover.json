@@ -1,0 +1,87 @@
+{
+  "exercise_id": "b1a2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+  "slug": "cable-pullover",
+  "name": "Cable Pullover",
+  "alternative_names": ["Cable Lat Pullover", "Standing Cable Pullover"],
+  "description": "The cable pullover is a lat isolation exercise performed with a high-pulley cable attachment. The lifter stands or kneels and pulls the cable down and back in a sweeping arc, keeping the arms straight throughout. Because tension from the cable remains constant across the full range of motion, this movement provides superior lat stretch at the top compared to dumbbell variations.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "pullover",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal" },
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "execution": {
+    "starting_position": "Stand facing a high-pulley cable machine. Attach a straight bar or rope. Grip the attachment with both hands using a pronated grip and step back so the cable pulls your arms overhead. Hinge slightly at the hips with a soft bend in the knees.",
+    "setup_instructions": "Set the cable pulley to its highest position. Attach a straight bar or tricep rope. Select an appropriate weight and step far enough from the machine to feel stretch in the lats with arms raised overhead.",
+    "steps": [
+      "Step 1: Begin with arms extended overhead and elbows slightly soft, feeling a full stretch in the lats.",
+      "Step 2: Keeping the arms straight, initiate the movement by depressing the scapulae and driving the elbows toward the hips.",
+      "Step 3: Pull the cable down in a wide arc until the hands are roughly at hip level and the lats are fully contracted.",
+      "Step 4: Pause briefly at the bottom, squeezing the lats.",
+      "Step 5: Slowly return to the starting position under control, allowing the lats to fully lengthen at the top."
+    ],
+    "breathing_instructions": "Exhale as you pull the cable downward and the lats contract. Inhale as you return to the starting position.",
+    "common_mistakes": [
+      "Bending the elbows and turning it into a pulldown — keep arms straight throughout",
+      "Using momentum or body sway to initiate the movement",
+      "Not allowing a full stretch at the top position"
+    ],
+    "safety_considerations": [
+      "Avoid hyperextending the lumbar spine by maintaining a neutral spine and slight hip hinge",
+      "Use a weight that allows full range of motion without compensatory movement"
+    ],
+    "range_of_motion_guidance": "Arms should travel from fully overhead to hip level, achieving a full lat stretch at the top and full contraction at the bottom.",
+    "tempo_recommendations": "2-0-2-1 (2s pull down, no pause, 2s return, 1s stretch at top)",
+    "coaching_cues": [
+      "Think 'elbows to hips' rather than 'hands down'",
+      "Imagine you are trying to bend the bar over your thighs",
+      "Keep your ribcage down — do not flare at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 },
+      { "goal": "endurance", "min_reps": 15, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 },
+      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "hypertrophy": 60, "endurance": 45 },
+    "training_goals": ["hypertrophy", "endurance"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["lat", "isolation", "cable"]
+  }
+}

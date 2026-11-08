@@ -1,0 +1,82 @@
+{
+  "exercise_id": "abee4833-625e-44c7-9a94-61c7f8503ed3",
+  "slug": "helms-cable-row",
+  "name": "Helms Cable Row",
+  "alternative_names": ["Cable Helms Row", "High Incline Cable Row"],
+  "description": "The Helms cable row (a variation associated with physique coach Eric Helms) positions the lifter on a high-incline bench facing a low cable pulley, with the torso supported at approximately 60-70 degrees. This angle creates a combined vertical and horizontal pull that maximally stretches the lats and teres major throughout the range of motion, and the chest support eliminates lower back involvement.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010", "eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set a bench at 60-70 degrees incline near a low cable pulley. Lie prone with chest on the pad, feet on the floor. Grab the cable handle (rope, V-handle, or bar) with arms extended toward the pulley.",
+    "setup_instructions": "Position the bench close enough to the cable stack that the arms are fully extended toward the pulley in the starting position.",
+    "steps": [
+      "Step 1: Begin with arms fully extended, feeling a deep lat stretch.",
+      "Step 2: Row the cable toward the torso, driving elbows back.",
+      "Step 3: At peak contraction, hold 1 second.",
+      "Step 4: Return under control to full arm extension.",
+      "Step 5: Emphasize the stretch at the bottom — this differentiates the Helms row."
+    ],
+    "breathing_instructions": "Exhale on the row. Inhale returning to the stretch.",
+    "common_mistakes": [
+      "Bench angle too low — the incline must be steep enough to allow full lat stretch",
+      "Insufficient cable distance — the bench must be positioned to achieve true full extension"
+    ],
+    "safety_considerations": [
+      "Adjust cable height and bench position carefully before loading",
+      "Keep the neck neutral — avoid craning while lying prone"
+    ],
+    "range_of_motion_guidance": "Maximum lat stretch at full arm extension to full retraction at peak contraction.",
+    "tempo_recommendations": "2-2-3-1 (with 1s stretch pause)",
+    "coaching_cues": [
+      "Let the weight pull you into a full stretch at the bottom",
+      "Think 'lat stretch to lat squeeze'",
+      "The bench angle is what makes this special — get it right"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "row", "lat-stretch", "chest-supported", "hypertrophy"]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50012",
+  "slug": "wobble-board-balance",
+  "name": "Wobble Board Balance",
+  "alternative_names": ["Balance Board Standing", "Rocker Board Balance"],
+  "description": "Standing balance on a wobble board (a circular board mounted on a rounded base) challenges multi-directional ankle and hip proprioception. Unlike a foam pad (which provides soft, predictable instability), a wobble board creates dynamic tilting in all planes simultaneously, making it a higher-level proprioceptive challenge. Used in ankle sprain rehabilitation (late-stage), ACL protocols, and sport-specific balance training.",
+  "category": "stretching",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "anti-rotation",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "mobility",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
+      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Step onto the wobble board with both feet centered on the platform. Find your balance with the board flat (edge not touching the ground). Stand near a wall for safety.",
+    "setup_instructions": "Use a commercially available wobble board. Begin with bilateral (both feet) balance before attempting single-leg. Stand near a stable surface for safety.",
+    "steps": [
+      "Step 1: Step onto the wobble board center. Find a balanced position with the board flat.",
+      "Step 2: Allow the board to wobble naturally in all directions, responding with ankle and hip micro-adjustments to prevent the edge from contacting the floor.",
+      "Step 3: Maintain balance for the prescribed duration.",
+      "Step 4: Step off carefully. Rest and repeat."
+    ],
+    "breathing_instructions": "Breathe normally throughout. Focus and calm breathing aids balance.",
+    "common_mistakes": ["Gripping with the toes — allow the ankle to respond to the board naturally", "Locking the knees — a small knee bend improves balance and reduces joint stress", "Standing too close to the edge of the board rather than centered"],
+    "safety_considerations": ["ALWAYS stand near a wall or stable surface", "Use the wall or bar for safety when first learning the wobble board — do not attempt hands-free too quickly", "Wet or slippery wobble boards are hazardous — ensure the surface is dry"],
+    "range_of_motion_guidance": "Bilateral balance target: board edge should not touch the floor. Single-leg progression: same target on one foot.",
+    "tempo_recommendations": "Hold for 30-60 seconds per set. Build to 60 seconds bilateral before progressing to single-leg.",
+    "coaching_cues": ["Soft knees — do not lock out the knees", "Allow the board to respond to your weight shifts — do not fight it; dance with it", "Keep the gaze on a fixed point — visual focus aids balance"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 1, "max_reps": 3}],
+    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 4}],
+    "rest_periods": {"endurance": 30},
+    "training_goals": ["endurance", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["balance", "proprioception", "ankle", "stretching", "wobble-board"]
+  }
+}

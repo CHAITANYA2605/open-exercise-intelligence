@@ -1,0 +1,123 @@
+{
+  "exercise_id": "ex-dumbbell-core-4000-a000-084047934164",
+  "slug": "dumbbell-windmill",
+  "name": "Dumbbell Windmill",
+  "alternative_names": [],
+  "description": "A windmill movement performed with a dumbbell held overhead in one hand. The hips shift laterally while the torso hinges sideways, lowering the free hand toward the floor. This develops lateral hip mobility, oblique strength, and shoulder stability simultaneously.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Dumbbell Windmill in proper position.",
+    "setup_instructions": "Prepare body and equipment for Dumbbell Windmill.",
+    "steps": [
+      "Step 1: Hold dumbbell overhead in one hand, feet wider than shoulder-width.",
+      "Step 2: Rotate toes of lower foot 45 degrees outward.",
+      "Step 3: Shift hips toward the weighted side, hinging torso sideways.",
+      "Step 4: Lower free hand down leg toward floor while keeping overhead arm straight."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Rotating torso forward instead of lateral hinge",
+      "Losing overhead arm position"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Hinge sideways, not forward",
+      "Eyes track the dumbbell overhead"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

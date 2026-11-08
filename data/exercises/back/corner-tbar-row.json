@@ -1,0 +1,85 @@
+{
+  "exercise_id": "888932bd-83c4-44f5-8827-06411d7bb29d",
+  "slug": "corner-tbar-row",
+  "name": "Corner T-Bar Row",
+  "alternative_names": ["Corner Barbell Row", "Corner Landmine Row"],
+  "description": "The corner T-bar row wedges one end of a standard barbell into a corner of a room rather than using a landmine unit, creating an improvised pivot point. The lifter straddles the bar and rows the loaded end with both hands using a V-handle or towel grip. It is functionally identical to a landmine T-bar row and allows heavy bilateral back training without specialized equipment.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Wedge the collar end of a barbell into a padded corner (use a folded mat to protect the wall). Load weight on the other end. Stand straddling the bar, hinge at the hips to 45 degrees, grasp the bar end with both hands or a V-handle.",
+    "setup_instructions": "Pad the corner generously to prevent wall damage. Keep feet hip to shoulder width apart, straddling the bar. A towel looped around the bar makes a bilateral grip possible without a handle attachment.",
+    "steps": [
+      "Step 1: Hinge at the hips and grip the bar end.",
+      "Step 2: Depress and retract the shoulder blades.",
+      "Step 3: Row the bar end toward the sternum by driving elbows back.",
+      "Step 4: Squeeze at the top for 1 second.",
+      "Step 5: Lower under control to arm extension."
+    ],
+    "breathing_instructions": "Exhale on the row. Inhale on the descent.",
+    "common_mistakes": [
+      "Rounding the lower back under heavy loads — brace harder",
+      "Letting the bar slip in the corner — ensure adequate padding and angle"
+    ],
+    "safety_considerations": [
+      "The corner must be solid and padded — a slipping bar can be dangerous",
+      "Keep a collar on the loaded end to prevent plates sliding off"
+    ],
+    "range_of_motion_guidance": "Full arm extension to elbows behind torso.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Drive the elbows high and back",
+      "Keep the bar path tight to the body",
+      "Maintain flat back throughout"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 },
+      { "goal": "strength", "min_reps": 5, "max_reps": 8 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90, "strength": 120 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "row", "t-bar", "back", "home-gym"]
+  }
+}

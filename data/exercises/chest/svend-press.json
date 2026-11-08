@@ -1,0 +1,77 @@
+{
+  "exercise_id": "e7f8a9b0-c1d2-4345-e678-f90a12b34567",
+  "slug": "svend-press",
+  "name": "Standing Dumbbell Svend Press",
+  "alternative_names": ["Plate Svend Press", "Svend Press"],
+  "description": "The Svend Press (named after Norwegian strongman Svend Karlsen) involves holding a weight plate or two dumbbells pressed together at chest height and extending the arms straight forward, then returning them back to the chest. The constant inward squeezing force activates the medial pectoral fibers through continuous adduction, making it an effective isolation finisher for the inner chest.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000022-0000-4000-a000-000000000022"],
+  "execution": {
+    "starting_position": "Stand upright holding two dumbbells or a weight plate pressed firmly together at chest height with both palms facing each other.",
+    "setup_instructions": "Use a light weight plate (5-10kg) or two light dumbbells. The load is deceptively light because constant adduction is tiring. Stand with feet shoulder-width apart.",
+    "steps": [
+      "Step 1: Hold the weight pressed together at the chest with both hands, palms facing inward.",
+      "Step 2: Squeeze hard and slowly extend the arms forward until fully stretched in front of the chest.",
+      "Step 3: Maintain the squeeze and slowly return the weight back to the chest.",
+      "Step 4: Repeat without releasing the squeeze."
+    ],
+    "breathing_instructions": "Exhale as arms extend forward. Inhale as they return to the chest.",
+    "common_mistakes": [
+      "Using too heavy a weight, breaking the squeeze",
+      "Allowing the elbows to bend rather than pressing straight forward"
+    ],
+    "safety_considerations": [
+      "Very light loads are appropriate — this is a finishing exercise, not a primary mover",
+      "Avoid if shoulder impingement is present"
+    ],
+    "range_of_motion_guidance": "Arms extend fully forward to shoulder height; return to light chest contact.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Squeeze as hard as you can throughout the entire rep",
+      "Think 'keep the plate from falling' by pressing inward the entire time"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["inner-chest", "finisher", "adduction"]
+  }
+}

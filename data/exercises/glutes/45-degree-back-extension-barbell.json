@@ -1,0 +1,143 @@
+{
+  "exercise_id": "d5d11e93-8981-4dd0-ad80-96bd3bf10967",
+  "slug": "45-degree-back-extension-barbell",
+  "name": "45-Degree Back Extension with Barbell",
+  "alternative_names": [
+    "Weighted Hyperextension",
+    "Back Extension with Load"
+  ],
+  "description": "A weighted hyperextension exercise performed in the 45-degree back extension machine with a barbell held behind the head or at the chest. Adding barbell weight significantly increases the posterior chain loading, developing the glutes, hamstrings, and erector spinae simultaneously.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000030-0000-4000-a000-000000000030",
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "execution": {
+    "starting_position": "Position yourself in the 45-degree hyperextension bench with the pad across the hips. Hold a barbell plate at chest or a barbell behind the neck.",
+    "setup_instructions": "Set the hyperextension bench correctly. Load a barbell held at chest height or position a plate at the chest.",
+    "steps": [
+      "Step 1: Lower the torso forward into full hip flexion, maintaining a neutral spine.",
+      "Step 2: Drive the hips into the pad and extend the torso upward using glute and hamstring strength.",
+      "Step 3: Extend to a neutral spine position at the top \u2014 do not hyperextend the lumbar.",
+      "Step 4: Lower back down under control."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale on the extension.",
+    "common_mistakes": [
+      "Hyperextending the lumbar spine at the top",
+      "Using momentum to swing the torso up"
+    ],
+    "safety_considerations": [
+      "Stop the ascent at a neutral spine position, not beyond it"
+    ],
+    "range_of_motion_guidance": "Full hip flexion at the bottom. Neutral spine at the top \u2014 not hyperextended.",
+    "tempo_recommendations": "3-0-2-0",
+    "coaching_cues": [
+      "Drive through the hips, not the lower back",
+      "Stop when the body is in a straight line"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "hamstrings",
+      "erectors",
+      "hyperextension",
+      "compound"
+    ]
+  }
+}

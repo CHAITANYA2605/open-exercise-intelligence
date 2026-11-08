@@ -1,0 +1,80 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e06",
+  "slug": "matrix-push-up",
+  "name": "Matrix Push-Up",
+  "alternative_names": ["Wave Push-Up"],
+  "description": "The matrix push-up is a dynamic bodyweight variation where the torso moves through a wave-like pattern during the descent and ascent. Rather than a straight vertical path, the chest leads down first, hips follow, then the chest rises as the hips drop. This flowing motion challenges the pectorals and anterior deltoids through an extended range while also mobilizing the spine.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "55555555-0002-4000-a000-000000000005", "muscle_slug": "iliocostalis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standard high plank position with hands slightly wider than shoulder width, body in a straight line from head to heels.",
+    "setup_instructions": "No equipment needed. Ensure adequate floor space and a non-slip surface.",
+    "steps": [
+      "Step 1: Lower the chest forward and down toward the floor first, allowing the hips to remain high momentarily.",
+      "Step 2: Continue the wave motion so the chest skims near the floor while the hips descend behind.",
+      "Step 3: Reverse the wave: press the chest up first while hips remain lower, creating an arched spinal position briefly.",
+      "Step 4: Finish by pressing hips up and returning to the high plank. Each full wave counts as one repetition."
+    ],
+    "breathing_instructions": "Breathe continuously with natural rhythm; exhale during the pressing/rising phase.",
+    "common_mistakes": [
+      "Stopping mid-wave and reverting to a straight push-up",
+      "Collapsing the lower back during the cobra-like extension phase",
+      "Moving too fast and losing the fluid wave pattern"
+    ],
+    "safety_considerations": [
+      "Avoid if experiencing lower back pain — the spinal extension component may aggravate lumbar issues",
+      "Warm up the spine and shoulders adequately before performing"
+    ],
+    "range_of_motion_guidance": "The chest should come close to the floor during the lowest point of the wave. The spine moves through flexion and extension throughout.",
+    "tempo_recommendations": "Fluid, continuous motion — approximately 3–4 seconds per full wave cycle",
+    "coaching_cues": [
+      "Lead with the chest on the way down, lead with the chest on the way up",
+      "Think of a wave rolling through your spine from front to back"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 75, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["push-up", "bodyweight", "chest", "mobility"]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "exercise_id": "f6a7b8c9-0010-4000-8006-000000000010",
+  "slug": "pallof-press",
+  "name": "Pallof Press",
+  "alternative_names": [
+    "Cable Anti-Rotation Press",
+    "Half-Kneeling Pallof Press"
+  ],
+  "description": "The Pallof press is an anti-rotation core stability exercise using a cable or resistance band. The load is set at a fixed angle perpendicular to the body and the lifter presses it out and back while resisting the rotational pull. It trains the core musculature to stabilize the spine against rotation, which is fundamental for athletic performance and spinal health.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "anti-rotation",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stability",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "secondary": [],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "execution": {
+    "starting_position": "Stand (or kneel) sideways to a cable machine at mid-torso height. Hold the handle with both hands against the chest. Stand far enough that the cable is taut and pulling the hands toward the machine.",
+    "setup_instructions": "Set the pulley to chest height. Attach a single handle. The load should be moderate \u2014 this is a stability, not strength, exercise.",
+    "steps": [
+      "Press the cable handle straight out in front of the chest, extending the arms fully.",
+      "Hold the extended position for 2\u20133 seconds while resisting the rotational pull of the cable.",
+      "Return the handle back to the chest under control.",
+      "Complete all reps on one side before switching to the other."
+    ],
+    "breathing_instructions": "Exhale as you press out. Breathe normally while holding.",
+    "common_mistakes": [
+      "Rotating the torso toward the cable \u2014 the core must resist this",
+      "Using too much weight \u2014 the goal is stability, not strength"
+    ],
+    "safety_considerations": [],
+    "range_of_motion_guidance": "Full arm extension at the press. Hold for the prescribed duration before returning.",
+    "tempo_recommendations": "2-3-2-0 (2s press out, 3s hold, 2s return)",
+    "coaching_cues": [
+      "Do not let the cable twist your body \u2014 stay square to the wall in front of you",
+      "Brace the core before pressing \u2014 think about being a stone wall"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "endurance": 45
+    },
+    "training_goals": [
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "anti-rotation",
+      "cable",
+      "stability",
+      "pallof"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "exercise_id": "4c0b76cd-80b0-4f0a-8582-2fb6cf10a025",
+  "slug": "band-overhead-scapular-retraction",
+  "name": "Band Overhead Scapular Retraction",
+  "alternative_names": ["Overhead Band Pull-Apart Retraction", "Band Scapular Retraction Overhead"],
+  "description": "The band overhead scapular retraction holds a resistance band overhead with arms extended and retracts the shoulder blades toward each other without lowering the arms, training the lower trapezius and rhomboids through the overhead position. It reinforces proper scapular mechanics in the overhead range — essential for safe overhead pressing and injury prevention in athletes who frequently work above shoulder height.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hold a resistance band with both hands wider than shoulder width. Raise arms overhead — band taut across the front. Arms stay extended throughout.",
+    "setup_instructions": "Use a light band — the focus is on scapular mechanics, not load. Stand tall with a neutral spine.",
+    "steps": [
+      "Step 1: Begin with arms extended overhead, band taut.",
+      "Step 2: Without lowering the arms, retract the shoulder blades — squeezing them together.",
+      "Step 3: Hold the retracted position for 2 seconds.",
+      "Step 4: Protract back to the starting position.",
+      "Step 5: Repeat."
+    ],
+    "breathing_instructions": "Exhale on retraction. Inhale protracting.",
+    "common_mistakes": [
+      "Lowering the arms to assist retraction — arms must stay overhead",
+      "Moving at the elbows rather than the shoulder blades"
+    ],
+    "safety_considerations": [
+      "Appropriate for all levels as a warm-up or shoulder health tool",
+      "Avoid overhead exercises if shoulder impingement is symptomatic"
+    ],
+    "range_of_motion_guidance": "Full scapular protraction to full retraction, arms overhead throughout.",
+    "tempo_recommendations": "2-2-2-0",
+    "coaching_cues": [
+      "Arms stay up — blades do the work",
+      "Think 'squeeze the pencil between your shoulder blades'",
+      "Full protraction before each retraction"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "rehabilitation", "min_reps": 10, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "rehabilitation": 60 },
+    "training_goals": ["rehabilitation", "mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["band", "scapular", "retraction", "overhead", "shoulder-health"]
+  }
+}

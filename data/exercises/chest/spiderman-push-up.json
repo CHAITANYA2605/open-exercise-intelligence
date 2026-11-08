@@ -1,0 +1,85 @@
+{
+  "exercise_id": "a1b2c3d4-0012-4000-a000-chest0000012",
+  "slug": "spiderman-push-up",
+  "name": "Spiderman Push-Up",
+  "alternative_names": ["Spider-Man Push-Up", "Knee-to-Elbow Push-Up"],
+  "description": "The Spiderman push-up adds a knee-to-elbow hip flexion movement to each rep of a standard push-up, simultaneously training the chest, triceps, and hip flexors while demanding greater core stability and rotational control. The lateral leg movement also improves hip mobility and increases the cardiovascular demand.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standard high plank position with hands slightly wider than shoulder-width and body in a straight line.",
+    "setup_instructions": "No equipment needed. Find a space long enough for a full plank position.",
+    "steps": [
+      "Step 1: Begin in a high plank, bracing the core.",
+      "Step 2: As you lower your chest toward the floor, simultaneously bring one knee out to the side and toward the same-side elbow.",
+      "Step 3: Touch or bring the knee as close to the elbow as possible at the bottom of the push-up.",
+      "Step 4: Press back up and return the leg to the starting position.",
+      "Step 5: Alternate legs each rep or complete all reps on one side before switching."
+    ],
+    "breathing_instructions": "Inhale as you lower down and bring the knee out. Exhale as you press up and return the leg.",
+    "common_mistakes": [
+      "Letting the hip drop on the side of the moving leg",
+      "Raising the hip rather than keeping the torso level",
+      "Rushing the movement without achieving the knee-to-elbow contact"
+    ],
+    "safety_considerations": [
+      "Establish solid standard push-up form before adding the leg movement",
+      "Move the leg laterally, not forward under the body, to protect the lower back",
+      "If hip mobility limits the range, work up to it progressively"
+    ],
+    "range_of_motion_guidance": "Full push-up range combined with the knee moving as far toward the elbow as mobility allows. The goal is simultaneous floor contact of the chest and knee-to-elbow approximation.",
+    "tempo_recommendations": "2-0-1-0",
+    "coaching_cues": ["Touch knee to elbow at the bottom", "Keep the hips level — don't let them swing", "One smooth movement: down and knee out, up and leg back"]
+  },
+  "variants": {
+    "easier": ["push-up"],
+    "harder": ["single-arm-push-up"],
+    "unilateral": [],
+    "bilateral": ["spiderman-push-up"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy", "functional_fitness", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "bodyweight", "push-up", "core", "hip-flexor", "dynamic"]
+  }
+}

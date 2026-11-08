@@ -1,0 +1,78 @@
+{
+  "exercise_id": "b6c7d8e9-f0a1-4234-b567-c89d01e23456",
+  "slug": "converging-chest-press",
+  "name": "Converging Plate-Loaded Chest Press",
+  "alternative_names": ["Hammer Strength Chest Press", "Converging Machine Press"],
+  "description": "The Converging Plate-Loaded Chest Press uses an independent-arm machine where each handle moves in a converging arc (the arms come together as they extend forward), mimicking the natural adduction component of the pectoral contraction. The plate-loaded design allows greater load than selectorized machines and the converging motion provides superior pectoral peak contraction.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000032-0000-4000-a000-000000000032"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Load the machine with weight plates. Sit with back against the pad and grip the handles at chest level.",
+    "setup_instructions": "Adjust the seat height so handles align with the mid-chest. Load plates evenly on each side. Use the starting pin to bring handles to the starting position if provided.",
+    "steps": [
+      "Step 1: Grip both handles and press forward, allowing the arms to naturally converge toward the midline.",
+      "Step 2: Fully extend the arms and squeeze the chest as the handles come together.",
+      "Step 3: Return under control, allowing the arms to diverge back to the starting position.",
+      "Step 4: Repeat without letting the weight stack touch at the bottom."
+    ],
+    "breathing_instructions": "Exhale as you press and handles converge. Inhale as you return.",
+    "common_mistakes": [
+      "Letting the weight stack slam at the bottom",
+      "Not squeezing the chest at peak contraction when arms converge"
+    ],
+    "safety_considerations": [
+      "Load plates evenly — imbalanced loading creates asymmetric movement",
+      "Use the starting pin to control the entry and exit safely under heavy loads"
+    ],
+    "range_of_motion_guidance": "Full arm extension and convergence at front; return to full stretch of pectorals at back.",
+    "tempo_recommendations": "3-1-2-1",
+    "coaching_cues": [
+      "Let the arms come together at the top — squeeze the pecs hard",
+      "Control the return — feel the stretch"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["machine", "converging", "peak-contraction", "plate-loaded"]
+  }
+}

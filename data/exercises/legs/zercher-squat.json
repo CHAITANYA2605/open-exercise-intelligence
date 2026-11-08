@@ -1,0 +1,95 @@
+{
+  "exercise_id": "a1b2c3d4-0003-4000-a000-legs00000003",
+  "slug": "zercher-squat",
+  "name": "Zercher Squat",
+  "alternative_names": [],
+  "description": "The Zercher squat is performed with the barbell cradled in the crooks of the elbows at the front of the torso, requiring a very upright posture and strong isometric bicep and upper back engagement. This unusual loading position keeps the center of mass close to the body, promotes a deep, upright squat, and places significant demand on the core. It is an effective alternative for those with shoulder limitations that prevent front or back rack positions.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Set the barbell in a rack at mid-torso height. Squat under the bar and position it in the crooks of your elbows by bending your arms to 90°. Clasp your hands together in front. Stand to unrack, then step back.",
+    "setup_instructions": "Set the safety bars at a height allowing you to get the bar into your elbow crooks easily. Padding on the bar or wearing long sleeves reduces discomfort on the forearms and inner elbows.",
+    "steps": [
+      "Step 1: Stand with feet shoulder-width apart, toes pointed out, holding the bar in your elbow crooks with arms bent and clasped together.",
+      "Step 2: Brace your core hard and keep your chest tall as you initiate the squat by simultaneously pushing the knees out and sitting the hips down.",
+      "Step 3: Descend to at least parallel or as deep as mobility allows while keeping the torso upright.",
+      "Step 4: Drive through the full foot to return to standing. Keep the elbows elevated throughout to prevent the bar from dropping.",
+      "Step 5: Exhale at the top and reset the brace before the next repetition."
+    ],
+    "breathing_instructions": "Inhale and brace before the descent. Hold through the squat. Exhale at the top.",
+    "common_mistakes": [
+      "Allowing the elbows to drop, which causes the torso to pitch forward",
+      "Rounding the upper back under the load",
+      "Using excessively heavy weight before adapting to the discomfort of the bar on the arms"
+    ],
+    "safety_considerations": [
+      "The bar can be dropped forward in a failed rep — use bumper plates when training alone",
+      "Start with light weight to acclimate to the bar position on the forearms",
+      "Elbow padding or a bar pad reduces bruising during adaptation"
+    ],
+    "range_of_motion_guidance": "Aim for parallel or below while maintaining an upright torso without lumbar rounding.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Keep your elbows pointing forward — don't let them drop to your sides",
+      "Chest up, sit between your knees",
+      "Drive through your heels and midfoot equally"
+    ]
+  },
+  "variants": {
+    "easier": ["goblet-squat"],
+    "harder": ["front-squat"],
+    "unilateral": [],
+    "bilateral": ["barbell-squat"],
+    "equipment_alternatives": ["goblet-squat"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12},
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90, "endurance": 60},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["squat", "core", "powerlifting-accessory"]
+  }
+}

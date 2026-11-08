@@ -1,0 +1,82 @@
+{
+  "exercise_id": "e8f9a0b1-c2d3-4e4f-5a6b-7c8d9e0f1a2b",
+  "slug": "figure-four-stretch",
+  "name": "Figure-Four Stretch",
+  "alternative_names": ["Supine Pigeon", "Lying Piriformis Stretch", "Thread the Needle"],
+  "description": "The figure-four stretch is a supine alternative to pigeon pose that stretches the hip external rotators and gluteus maximus without the knee torque risk. Lying on the back with one ankle crossed over the opposite knee creates a 'figure four' shape, and pressing the thigh away provides a gentle but effective stretch for the piriformis and deep hip rotators. It is suitable for a wide population including those with knee sensitivity.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "bridge",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" },
+      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+    ],
+    "secondary": [
+      { "muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on your back with knees bent and feet flat on the floor.",
+    "setup_instructions": "Use a mat for comfort. No equipment needed.",
+    "steps": [
+      "Step 1: Lie on your back with knees bent, feet flat on the floor.",
+      "Step 2: Cross the left ankle over the right knee, creating a figure-four shape with the legs.",
+      "Step 3: Flex the left foot to protect the knee joint.",
+      "Step 4: Reach through or around the legs and grasp the right thigh, drawing it toward the chest.",
+      "Step 5: Hold 30–90 seconds, then switch sides."
+    ],
+    "breathing_instructions": "Breathe slowly throughout. Each exhale allows greater relaxation into the stretch.",
+    "common_mistakes": [
+      "Dropping the foot — keep the top ankle flexed to protect the knee",
+      "Pulling the bottom leg too aggressively — a gentle pull is sufficient",
+      "Holding the breath, which creates tension and reduces stretch effectiveness"
+    ],
+    "safety_considerations": [
+      "Flex the foot of the crossed leg to maintain a neutral ankle and reduce knee stress",
+      "If the stretch is felt in the knee rather than the hip, adjust ankle position"
+    ],
+    "range_of_motion_guidance": "Draw the bottom thigh toward the chest until a stretch is felt in the outer hip of the crossed leg.",
+    "tempo_recommendations": "Hold 30–90 seconds. 2–4 rounds per side.",
+    "coaching_cues": [
+      "Push the crossed knee away from your chest to deepen the stretch",
+      "Keep your foot flexed — this protects your knee",
+      "Let gravity help you — relax into the floor"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 4 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+    ],
+    "rest_periods": { "mobility": 10 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hip", "glutes", "stretch", "beginner", "supine", "piriformis"]
+  }
+}

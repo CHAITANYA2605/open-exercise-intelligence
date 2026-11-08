@@ -1,0 +1,136 @@
+{
+  "exercise_id": "033aeb6e-8f15-4036-9034-36c3f1816bad",
+  "slug": "banded-hip-thrust",
+  "name": "Banded Hip Thrust",
+  "alternative_names": [
+    "Resistance Band Hip Thrust"
+  ],
+  "description": "A hip thrust exercise performed with a resistance band loop placed across the hips instead of a barbell. The band provides increasing resistance toward the top of the movement where the glutes are most capable of producing force, making it a highly effective tool for glute activation and home training.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "hip-thrust",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit with your upper back against a flat bench. Place a resistance band loop across your hips, anchored under both feet. Feet flat on the floor.",
+    "setup_instructions": "Sit on the floor with upper back on a bench. Thread a resistance band loop under both feet and over the hips.",
+    "steps": [
+      "Step 1: Drive through both heels to thrust the hips upward.",
+      "Step 2: Extend the hips fully at the top, squeezing the glutes hard.",
+      "Step 3: Hold for a moment at the top.",
+      "Step 4: Lower the hips back toward the floor under control."
+    ],
+    "breathing_instructions": "Exhale on the drive up. Inhale on the descent.",
+    "common_mistakes": [
+      "Hyperextending the lumbar spine at the top",
+      "Not fully extending the hips at the top"
+    ],
+    "safety_considerations": [
+      "Chin stays tucked \u2014 do not hyperextend the neck at lockout"
+    ],
+    "range_of_motion_guidance": "Full hip extension at the top \u2014 body forms a straight line from knees to shoulders.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Full extension at the top",
+      "Squeeze and hold the glutes"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "glute-max",
+      "band",
+      "beginner",
+      "home"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "exercise_id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+  "slug": "terminal-knee-extension",
+  "name": "Terminal Knee Extension",
+  "alternative_names": ["TKE", "Band Terminal Knee Extension", "Short Arc Quad"],
+  "description": "Terminal knee extension (TKE) is a rehabilitation exercise that strengthens the quadriceps specifically in the final degrees of knee extension (from about 30 degrees to full extension). Using a resistance band anchored behind the knee, the exercise targets the VMO (vastus medialis oblique) and the final-range quad strength that is critical for knee stability. It is a standard exercise in ACL rehabilitation, patellar tendinopathy management, and post-surgical knee recovery.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "carry",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "knee-extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" },
+      { "muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis" }
+    ],
+    "secondary": [
+      { "muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+    ]
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Anchor the resistance band loop at knee height behind you. Loop the band around the back of one knee. Stand facing away from the anchor with the band behind the working knee.",
+    "setup_instructions": "Anchor the band at a rack or door frame at approximately knee height. The band pulls the knee into slight flexion.",
+    "steps": [
+      "Step 1: Face away from the band anchor, loop the band behind the working knee.",
+      "Step 2: Stand on the working leg with a slight knee bend (10–30 degrees). The band will pull the knee into further flexion.",
+      "Step 3: Straighten the knee fully against the band's resistance, contracting the quadriceps hard at full extension.",
+      "Step 4: Hold the fully extended position for 1–2 seconds.",
+      "Step 5: Slowly allow the band to flex the knee back to the starting position with control."
+    ],
+    "breathing_instructions": "Exhale as the knee extends. Inhale as it returns.",
+    "common_mistakes": [
+      "Hyperextending the knee forcefully — extend to neutral, not beyond",
+      "Using momentum rather than a controlled quad contraction",
+      "Letting the hip drop on the non-working side"
+    ],
+    "safety_considerations": [
+      "Safe for most post-surgical knee populations when cleared by a clinician",
+      "Avoid hyperextension if the patient has posterior capsule or PCL involvement"
+    ],
+    "range_of_motion_guidance": "From 30 degrees of flexion to full extension. Focus on the terminal range — the last 15–20 degrees.",
+    "tempo_recommendations": "2-second extension, 2-second hold, 2-second return. 15–20 reps × 2–3 sets.",
+    "coaching_cues": [
+      "Squeeze the quad hard at full lockout",
+      "Straighten the knee without snapping it back",
+      "Feel the inside of your thigh (VMO) fire at full extension"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 15, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 60 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "knee", "quadriceps", "VMO", "ACL", "band", "beginner"]
+  }
+}

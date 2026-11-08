@@ -1,0 +1,78 @@
+{
+  "exercise_id": "d4e5f6a7-b8c9-4012-d345-e67f89a01234",
+  "slug": "two-board-press",
+  "name": "2-Board Bench Press",
+  "alternative_names": ["Board Press (2 Board)"],
+  "description": "The 2-Board Bench Press uses two stacked 2-inch boards on the chest, reducing range of motion by approximately 4 inches. This version shifts the mechanical emphasis further toward the triceps and mid-to-upper pressing range, making it a highly effective overload and sticking-point training tool for powerlifters and advanced bench pressers.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Lie on a flat bench. A partner holds two stacked 2-inch boards on the chest. Take a shoulder-width or slightly wider grip on the bar.",
+    "setup_instructions": "Stack two 2x6 or 2x8 boards. Have a training partner hold them or secure with elastic bands around the torso. Approx 4 inches of reduced ROM.",
+    "steps": [
+      "Step 1: Unrack the bar and control the descent to the board stack.",
+      "Step 2: Touch the boards and pause for one second.",
+      "Step 3: Press powerfully back to full lockout.",
+      "Step 4: Lower under control and repeat."
+    ],
+    "breathing_instructions": "Inhale and brace before the descent. Exhale as the bar passes the sticking point on the way up.",
+    "common_mistakes": [
+      "Relaxing the upper back during the touch at the board",
+      "Letting the boards shift position during the set"
+    ],
+    "safety_considerations": [
+      "Loads used should be greater than full ROM max — ensure spotter awareness",
+      "Partner must hold boards securely throughout the set"
+    ],
+    "range_of_motion_guidance": "Bar to board surface only. Full elbow lockout at top.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Treat the board like the floor — press explosively off it",
+      "Keep tension in the lats throughout"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 240},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["powerlifting", "partial-rom", "board-press", "triceps"]
+  }
+}

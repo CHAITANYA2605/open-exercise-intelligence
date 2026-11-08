@@ -1,0 +1,62 @@
+{
+  "exercise_id": "a1b2c3d4-0124-4000-a000-100000000124",
+  "slug": "plate-pinch-hold",
+  "name": "Plate Pinch Hold",
+  "alternative_names": ["Weight Plate Pinch", "Pinch Grip Hold"],
+  "description": "The plate pinch hold involves gripping one or more weight plates by pinching them between the thumb and fingers, then holding for time. This directly trains pinch grip strength — the grip pattern between thumb and fingertips — which is distinct from crush grip. Strong pinch grip transfers to virtually all pulling movements and is essential for contact sports and manual labor. It is typically performed for time rather than reps.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright. Hold one or two weight plates by pinching the smooth face between the thumb and fingers of one hand.",
+    "setup_instructions": "Begin with a single 10kg or 25lb plate. Progress by adding plates. Smooth-face plates are more difficult than knurled; pinching with the smooth face out is standard.",
+    "steps": [
+      "Step 1: Pinch the plate(s) securely between the thumb and all four fingers.",
+      "Step 2: Lift the plate(s) off the floor or a low platform.",
+      "Step 3: Hold for the prescribed duration, keeping the shoulder relaxed.",
+      "Step 4: Set the plate down with control."
+    ],
+    "breathing_instructions": "Breathe freely throughout the hold.",
+    "common_mistakes": ["Resting the plate against the thigh (this reduces grip demand)", "Not maintaining consistent pinch tension throughout"],
+    "safety_considerations": ["Dropping heavy plates is a risk — perform over a rubber mat or low surface"],
+    "range_of_motion_guidance": "Static hold — no movement required.",
+    "tempo_recommendations": "Hold for 20-60 seconds per hand",
+    "coaching_cues": ["Squeeze through the entire hold", "Shoulder relaxed — don't shrug", "Control the set down"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 120},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearm", "grip", "static", "pinch"]
+  }
+}

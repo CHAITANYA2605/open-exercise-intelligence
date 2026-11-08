@@ -1,0 +1,86 @@
+{
+  "exercise_id": "a1b2c3d4-0017-4000-a000-chest0000017",
+  "slug": "ring-push-up",
+  "name": "Gymnastic Ring Push-Up",
+  "alternative_names": ["Ring Push-Up", "TRX Push-Up"],
+  "description": "The gymnastic ring push-up is a bodyweight pushing exercise performed with the hands gripping suspended rings, adding significant instability that dramatically increases pectoral, serratus anterior, and stabilizer muscle activation compared to floor push-ups. The rings also allow the wrists to rotate naturally, reducing joint stress and enabling a more natural pressing path.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": ["eq000043-0000-4000-a000-000000000043"],
+  "execution": {
+    "starting_position": "Set the rings at a low height above the floor. Grip the rings and assume a push-up position with arms extended, body in a straight line.",
+    "setup_instructions": "Adjust ring height so the hands are at the same height as a floor push-up starting position. Lower rings = harder. Feet elevated = harder still.",
+    "steps": [
+      "Step 1: Grip the rings and walk out into a plank position, arms straight.",
+      "Step 2: Slowly lower the chest toward the rings by bending the elbows, keeping them from flaring wide.",
+      "Step 3: At the bottom, press through the rings and extend the arms while actively turning the rings outward (rings turn from neutral to overhand at the top).",
+      "Step 4: At full extension, squeeze the chest and externally rotate the rings for a strong peak contraction.",
+      "Step 5: Lower smoothly into the next rep."
+    ],
+    "breathing_instructions": "Inhale as you lower. Exhale as you press up and rotate the rings.",
+    "common_mistakes": [
+      "Allowing the rings to drift far out to the sides, losing stability",
+      "Not turning the rings outward at the top — this reduces pec activation",
+      "Setting the rings too low without adequate strength"
+    ],
+    "safety_considerations": [
+      "Establish solid floor push-up form before progressing to rings",
+      "Adjust ring height to begin — higher rings = less body weight on arms",
+      "Ensure ring straps and anchor point can support bodyweight"
+    ],
+    "range_of_motion_guidance": "Full depth to 90 degrees elbow flexion or below. Full lockout at the top with external ring rotation.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": ["Turn the rings out at the top like you're trying to show your thumbs to the ceiling", "Control the rings — don't let them control you", "Tight body from heels to crown"]
+  },
+  "variants": {
+    "easier": ["push-up", "incline-push-up"],
+    "harder": ["ring-dips", "ring-flye"],
+    "unilateral": [],
+    "bilateral": ["ring-push-up"],
+    "equipment_alternatives": ["deficit-push-up"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 90},
+    "training_goals": ["strength", "stability", "calisthenics"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "gymnastics", "rings", "push-up", "instability", "calisthenics"]
+  }
+}

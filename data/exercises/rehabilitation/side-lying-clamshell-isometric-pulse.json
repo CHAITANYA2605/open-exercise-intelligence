@@ -1,0 +1,66 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50028",
+  "slug": "side-lying-clamshell-isometric-pulse",
+  "name": "Side-Lying Clamshell — Isometric Hold and Pulse",
+  "alternative_names": ["Clamshell Isometric Pulse", "Clamshell Hold Pulse"],
+  "description": "A variation of the standard clamshell exercise that combines an isometric hold at the top of the movement with small pulsing contractions. After raising the top knee to its maximum range, the exerciser holds briefly then performs small rhythmic pulses — tiny additional lifts — before fully returning. This technique maximizes time-under-tension for the gluteus medius and deep hip external rotators, making it a highly effective progression for hip rehabilitation programs addressing IT band syndrome, knee valgus, and hip external rotation weakness.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "execution": {
+    "starting_position": "Lie on one side with hips stacked and knees bent to approximately 60-90 degrees. The feet remain together throughout. The bottom arm is extended under the head for support.",
+    "setup_instructions": "No equipment needed. A resistance band above the knees can be added. Keep the hips perpendicular to the floor — do not roll the pelvis backward.",
+    "steps": [
+      "Step 1: Lie on your side with hips stacked and knees bent. Keep the feet together.",
+      "Step 2: Raise the top knee as far as the hip external rotation allows without rolling the pelvis backward.",
+      "Step 3: Hold the top position for 2-3 seconds.",
+      "Step 4: Perform 5-8 small pulses (tiny upward contractions), then lower completely. Each raise-hold-pulse sequence equals one repetition."
+    ],
+    "breathing_instructions": "Exhale during the raise. Breathe during the hold and pulses. Inhale as you lower.",
+    "common_mistakes": ["Rolling the pelvis backward to gain extra range — the hip joint should do all the work", "Pulses becoming large movements rather than tiny contractions at the top of the range", "Letting the top foot drift away from the bottom foot"],
+    "safety_considerations": ["If the hip external rotators are acutely inflamed, begin with standard clamshells before adding the pulse component", "If hip pain occurs at the end range, reduce range and consult a physiotherapist"],
+    "range_of_motion_guidance": "Raise to maximum external rotation without pelvic rotation. Pulses are tiny — 1-2 cm above the top position.",
+    "tempo_recommendations": "2s raise, 3s hold, 5-8 pulses (1s each), 3s lower",
+    "coaching_cues": ["Keep the pelvis stacked — do not roll back for extra range", "The pulses should feel like a flicker, not a full movement — stay near the top of your range", "Feel the deep burn in the outer hip during the hold and pulse sequence"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 8, "max_reps": 15},
+      {"goal": "strength", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 60, "strength": 60},
+    "training_goals": ["endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glutes", "hip-external-rotation", "rehabilitation", "clamshell", "isometric"]
+  }
+}

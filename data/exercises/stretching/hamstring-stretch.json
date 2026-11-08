@@ -1,0 +1,85 @@
+{
+  "exercise_id": "b5c6d7e8-f9a0-4b1c-2d3e-4f5a6b7c8d9e",
+  "slug": "hamstring-stretch",
+  "name": "Standing Hamstring Stretch",
+  "alternative_names": ["Toe Touch Stretch", "Standing Forward Fold"],
+  "description": "The standing hamstring stretch targets all three hamstring muscles through hip flexion with the knees extended. Standing with feet flat on the floor and hinging forward at the hips places the hamstrings under lengthening tension. Keeping the spine relatively neutral during the stretch is preferred over spinal flexion to maximize the hamstring load and reduce lumbar stress.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
+      { "muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus" },
+      { "muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus" }
+    ],
+    "secondary": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet hip-width apart and knees straight but not locked. Arms at sides.",
+    "setup_instructions": "No equipment needed. Stand on a flat, non-slip surface.",
+    "steps": [
+      "Step 1: Stand tall with feet hip-width apart and knees extended.",
+      "Step 2: Hinge forward at the hips, keeping the spine long and chest forward rather than rounding the back.",
+      "Step 3: Lower the torso toward the floor, reaching the hands toward the feet or floor.",
+      "Step 4: When a moderate hamstring stretch is felt, stop and hold the position.",
+      "Step 5: Hold 30–90 seconds, then slowly return to standing by extending the hips."
+    ],
+    "breathing_instructions": "Breathe deeply and steadily. Each exhale allows the muscles to relax slightly, permitting a deeper position.",
+    "common_mistakes": [
+      "Rounding the spine excessively rather than hinging from the hips, which shifts tension to the lumbar spine",
+      "Bouncing in the stretch (ballistic stretching), which can trigger the stretch reflex and reduce the stretch",
+      "Locking the knees in a hyperextended position — keep them straight but not hyperextended"
+    ],
+    "safety_considerations": [
+      "Those with hamstring tears or acute lower back pain should avoid or modify this stretch",
+      "Return to standing slowly to avoid a head rush"
+    ],
+    "range_of_motion_guidance": "Hinge as far as the hamstrings allow while maintaining a relatively neutral spine. The hands do not need to reach the floor for an effective stretch.",
+    "tempo_recommendations": "Hold 30–90 seconds. 2–4 rounds.",
+    "coaching_cues": [
+      "Hinge from the hips, not the lower back",
+      "Think of trying to touch the floor with a flat back rather than a rounded spine",
+      "Soften the knees very slightly if the stretch is too intense to control form"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 4 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+    ],
+    "rest_periods": { "mobility": 15 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hamstring", "stretch", "mobility", "beginner"]
+  }
+}

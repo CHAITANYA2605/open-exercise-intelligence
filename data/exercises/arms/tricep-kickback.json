@@ -1,0 +1,83 @@
+{
+  "exercise_id": "a7b8c9d0-e1f2-4a3b-4c5d-e6f7a8b9c437",
+  "slug": "tricep-kickback",
+  "name": "Tricep Kickback",
+  "alternative_names": ["Dumbbell Kickback", "Bent-Over Tricep Extension"],
+  "description": "The tricep kickback is a dumbbell isolation exercise for the triceps performed in a bent-over position with the upper arm held parallel to the floor. The forearm extends backward past the hip to create elbow extension, with peak contraction occurring at full extension. With the shoulder in a relatively neutral position, the lateral and medial heads of the triceps are the primary movers during this strict isolation movement.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "longissimus"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000015-0000-4000-a000-000000000015"],
+  "execution": {
+    "starting_position": "Hinge forward at the hip until the torso is nearly parallel to the floor. Place one hand and knee on a bench (or stand with both feet staggered). Hold a dumbbell in the working hand. Raise the working upper arm until it is parallel to the floor, elbow bent at 90 degrees.",
+    "setup_instructions": "Place one hand and same-side knee on a bench for support, or hinge over with a staggered stance. The upper arm must stay parallel to the floor throughout.",
+    "steps": [
+      "Step 1: Hinge forward, upper arm parallel to the floor, elbow bent at 90 degrees. Hold the dumbbell.",
+      "Step 2: Keep the upper arm pinned in place.",
+      "Step 3: Exhale and extend the elbow by moving only the forearm backward until the arm is fully extended and parallel to the floor.",
+      "Step 4: Hold the peak extension for a moment, then inhale and return the forearm to 90 degrees."
+    ],
+    "breathing_instructions": "Exhale as you extend backward; inhale as you return.",
+    "common_mistakes": [
+      "Dropping the upper arm during the movement — it must stay parallel to the floor",
+      "Using too heavy a dumbbell, causing the torso to rotate"
+    ],
+    "safety_considerations": [
+      "Keep the spine neutral — do not round the lower back when hinging"
+    ],
+    "range_of_motion_guidance": "Full elbow extension at the back; return to 90 degrees elbow bend at the front.",
+    "tempo_recommendations": "1-2-2-0 (hold 2 seconds at peak extension)",
+    "coaching_cues": [
+      "Pin your elbow to your side like you're holding something under your armpit",
+      "Full lockout at the back — straighten the arm completely"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["tricep-pushdown", "skull-crusher"],
+    "equipment_alternatives": ["cable-overhead-tricep-extension"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "triceps", "isolation", "kickback", "unilateral"]
+  }
+}

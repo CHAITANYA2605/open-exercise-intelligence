@@ -1,0 +1,76 @@
+{
+  "exercise_id": "b0c1d2e3-f4a5-4678-b901-c23d45e67f32",
+  "slug": "decline-bench-press-pause-midpoint",
+  "name": "Decline Bench Press with Midpoint Pause",
+  "alternative_names": ["Decline Press Pause Mid", "Mid-Pause Decline Press"],
+  "description": "A decline barbell bench press variation that includes a deliberate pause at the midpoint of the descent (halfway between the top and chest), rather than the traditional chest pause. This mid-range isometric hold eliminates the stretch reflex contribution and targets the lower pectoralis major at a point in the range where it must generate force without elastic energy assistance. This technique is particularly effective for building strength through the mid-range sticking point.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000016-0000-4000-a000-000000000016", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a decline bench with feet secured. Grip the barbell at standard bench press width. Unrack and hold above the lower chest with arms extended.",
+    "setup_instructions": "Use significantly less weight than a standard decline press — 20–30% less is typical. The mid-pause creates enormous isometric demand. Set the decline to 15–30 degrees.",
+    "steps": [
+      "Step 1: Begin with arms fully extended above the lower chest.",
+      "Step 2: Lower the bar toward the chest. At the midpoint — elbows bent approximately 90 degrees — stop and hold the bar completely still for 2–3 seconds.",
+      "Step 3: After the hold, continue lowering to the chest.",
+      "Step 4: Press back to the starting position without pausing on the way up."
+    ],
+    "breathing_instructions": "Inhale before descent, hold breath during the pause (Valsalva), exhale through the press.",
+    "common_mistakes": [
+      "Not holding the pause long enough — 2 seconds minimum is required for the technique to be effective",
+      "Using too much weight, unable to maintain the hold",
+      "Letting the bar drift or shoulders shift during the isometric hold"
+    ],
+    "safety_considerations": [
+      "Use a spotter — the mid-range hold is the most demanding part and fatigue may cause bar drop",
+      "Feet must be secured on the decline for this technically demanding variation"
+    ],
+    "range_of_motion_guidance": "Full range: top to chest. The pause is in the middle of the descent, not at the top or bottom.",
+    "tempo_recommendations": "1.5s to midpoint — 2-3s hold — 1.5s to chest — 2s press up",
+    "coaching_cues": [
+      "Fight the urge to drop through the pause — the isometric is the entire point",
+      "Brace hard during the hold — think of trying to crush the bar"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 2, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 240},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "decline", "pause", "isometric", "advanced", "strength"]
+  }
+}

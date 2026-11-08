@@ -1,0 +1,62 @@
+{
+  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50008",
+  "slug": "seated-cable-lat-pulldown-facing-away",
+  "name": "Seated Cable Lat Pulldown — Facing Away from Stack",
+  "alternative_names": ["Reverse Cable Lat Pulldown", "Facing-Away Pulldown"],
+  "description": "A lat pulldown variation performed while seated facing away from the cable stack with a long bar or rope attached to the high pulley. The reversed orientation changes the angle of pull and places the shoulder in a different position relative to the resistance vector throughout the range, targeting the lower fibers of the latissimus dorsi and creating a unique stretch at the top position compared to a standard forward-facing pulldown. Used as a lat isolation variation to target different fibers and angles.",
+  "category": "functional",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pulldown",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench or the floor facing away from a high cable pulley. Hold the bar or rope overhead with both hands and position the attachment just above and behind the head to create the reversed pull angle.",
+    "setup_instructions": "Attach a straight bar or rope to the high pulley. Position a bench approximately 1-2 meters from the stack, facing away. The cable will pull from behind and above.",
+    "steps": [
+      "Step 1: Sit facing away from the cable stack, holding the bar above head with arms extended.",
+      "Step 2: Depress and retract the shoulder blades, then pull the bar down toward the chest (bar will travel from behind-and-above to in-front-of-chest).",
+      "Step 3: Hold the contracted position with the bar at chest level, feeling the lower lat contraction.",
+      "Step 4: Slowly return to the starting position. Repeat."
+    ],
+    "breathing_instructions": "Exhale during the pull. Inhale during the return.",
+    "common_mistakes": ["Leaning forward excessively to assist the pull — maintain an upright torso", "Using momentum by swinging the torso", "Allowing the cable to pull the arms too far back past a comfortable overhead range"],
+    "safety_considerations": ["The cable angle creates a different shoulder loading pattern — start with light weight to assess comfort", "Avoid if overhead extension causes shoulder impingement symptoms"],
+    "range_of_motion_guidance": "Full extension of the arms overhead at the top to full contraction with the bar at chest level.",
+    "tempo_recommendations": "2s pull down, 1s contraction hold, 3s slow return.",
+    "coaching_cues": ["Depress the shoulder blades before you start the pull — do not shrug", "Think of pulling the elbows down and forward toward your hip pockets", "Feel the lower lats — this variation should produce a different pull sensation than a standard pulldown"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}],
+    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "lat", "pulldown", "functional", "niche"]
+  }
+}

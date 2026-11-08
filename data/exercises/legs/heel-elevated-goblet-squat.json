@@ -1,0 +1,154 @@
+{
+  "exercise_id": "90abfab8-5b31-4dea-87a1-203b3c8aad99",
+  "slug": "heel-elevated-goblet-squat",
+  "name": "Heel-Elevated Goblet Squat",
+  "alternative_names": [
+    "Plate-Elevated Goblet Squat"
+  ],
+  "description": "A goblet squat performed with the heels raised on a wedge or plates. Heel elevation reduces ankle dorsiflexion demands, allows greater squat depth, and shifts loading emphasis further toward the quadriceps \u2014 particularly the rectus femoris \u2014 while reducing hip flexor and lower back involvement.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
+  "execution": {
+    "starting_position": "Stand with heels raised on a 25lb plate or squat wedge, feet shoulder-width apart. Hold a dumbbell vertically at chest height with both hands cupping the top end.",
+    "setup_instructions": "Place a 25lb plate flat on the floor. Stand on it with just the heels. Hold a dumbbell at chest height.",
+    "steps": [
+      "Step 1: Brace your core and keep the dumbbell tight to your chest throughout.",
+      "Step 2: Push your hips back and down, keeping the torso upright.",
+      "Step 3: Descend to full depth or until thighs are parallel to the floor.",
+      "Step 4: Drive through the entire foot to stand, squeezing the glutes at lockout."
+    ],
+    "breathing_instructions": "Inhale as you descend. Exhale on the way up.",
+    "common_mistakes": [
+      "Letting the knees cave inward at the bottom",
+      "Leaning the torso excessively forward"
+    ],
+    "safety_considerations": [
+      "Ensure the plate or wedge is stable and will not slip before adding significant load"
+    ],
+    "range_of_motion_guidance": "Aim for full depth (hips below knees). The heel elevation makes this more accessible for those with limited ankle mobility.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Sit between your heels",
+      "Chest up, elbows down"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "glutes",
+      "goblet",
+      "beginner"
+    ]
+  }
+}

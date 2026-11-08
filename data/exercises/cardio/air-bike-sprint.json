@@ -1,0 +1,90 @@
+{
+  "exercise_id": "ca000006-0000-4000-a000-000000000006",
+  "slug": "air-bike-sprint",
+  "name": "Air Bike Sprint — Assault / Echo Bike",
+  "alternative_names": ["Assault Bike Sprint", "Echo Bike Intervals", "Fan Bike HIIT"],
+  "description": "The air bike (Assault, Echo, or Airdyne style) uses a large fan wheel that creates resistance proportional to pedalling speed — the harder you work, the more resistance is generated, making it impossible to outpace the machine. The dual-action design engages both the lower body (pedalling) and upper body (pushing and pulling the moving handlebars) simultaneously, recruiting the quadriceps, gluteus maximus, anterior and posterior deltoids, and pectorals in every stroke. Sprint intervals on the air bike are considered among the most demanding conditioning tools in existence and produce maximal cardiovascular stress in very short durations.",
+  "category": "cardio",
+  "exercise_type": "cardio",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "cardio",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Adjust the seat so the knees are slightly bent at the bottom of the pedal stroke. Grip both moving handles. Sit upright with the core braced.",
+    "setup_instructions": "Set any desired calorie or time targets on the monitor. Clip in or use the flat pedal cages. The machine requires no resistance setting — it self-regulates based on output.",
+    "steps": [
+      "Step 1: Warm up for 2–3 minutes at a moderate pace, alternating between legs-only and arms-only before combining both.",
+      "Step 2: Sprint at absolute maximum effort — push and pull the handles hard while pedalling as fast as possible. Duration: 10–20 seconds.",
+      "Step 3: Rest completely or pedal very slowly for 40–60 seconds.",
+      "Step 4: Repeat 6–10 rounds.",
+      "Step 5: Cool down for 3–5 minutes at an easy pace."
+    ],
+    "breathing_instructions": "During maximal sprints, breathe as powerfully as possible. Do not hold the breath. During rest, focus on slowing heart rate with controlled diaphragmatic breathing.",
+    "common_mistakes": [
+      "Sprinting for too long — 10–20 seconds is usually the ceiling for truly maximal output on an air bike",
+      "Using arms only or legs only rather than combining both for maximum calorie and cardiovascular output",
+      "Not resting long enough between efforts, which prevents true maximal intensity on subsequent bouts"
+    ],
+    "safety_considerations": [
+      "The fan blades spin at high speed — keep fingers and clothing away from the fan housing",
+      "The air bike can be extremely demanding on the cardiovascular system — beginners should start with moderate efforts before attempting all-out sprints"
+    ],
+    "range_of_motion_guidance": "Full push-and-pull through the handlebar range of motion. Full pedal stroke through the bottom of the arc.",
+    "tempo_recommendations": "Protocol 1 (maximal): 10 seconds max effort / 50 seconds rest × 10. Protocol 2 (Tabata-style): 20 seconds hard / 10 seconds rest × 8. Protocol 3: 30 calories as fast as possible / rest 2 minutes × 5.",
+    "coaching_cues": [
+      "Push AND pull the handles — both phases generate power",
+      "Drive the elbows back hard — think of a sprint arm swing",
+      "Keep the core tight to transfer power from legs to arms"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 1, "max_sets": 1}
+    ],
+    "rest_periods": {"endurance": 50},
+    "training_goals": ["endurance", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cardio", "HIIT", "air-bike", "conditioning", "full-body"]
+  }
+}

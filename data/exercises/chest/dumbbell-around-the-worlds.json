@@ -1,0 +1,83 @@
+{
+  "exercise_id": "a1b2c3d4-0010-4000-a000-chest0000010",
+  "slug": "dumbbell-around-the-worlds",
+  "name": "Dumbbell Around-The-Worlds",
+  "alternative_names": ["Around the Worlds", "Dumbbell Chest Circles"],
+  "description": "Dumbbell around-the-worlds move two dumbbells in a wide circular arc from the thighs, out to the sides at shoulder level, and over the chest to meet above the sternum. This continuous circular movement engages the pectorals across multiple angles and enhances shoulder mobility while delivering a unique stretch-to-contraction stimulus.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "chest-fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000016-0000-4000-a000-000000000016"],
+  "execution": {
+    "starting_position": "Lie on a flat bench holding a light dumbbell in each hand, arms at the sides of the body near the hips, palms facing up.",
+    "setup_instructions": "Use a very light dumbbell — far lighter than you would for a dumbbell fly. Lie flat with arms alongside the body.",
+    "steps": [
+      "Step 1: Begin with the dumbbells at the sides of your hips, palms facing upward.",
+      "Step 2: Sweep both arms out to the sides in a wide arc, keeping them close to the bench surface.",
+      "Step 3: Continue the arc upward and inward until the dumbbells meet above the chest, palms now facing each other.",
+      "Step 4: Reverse the motion, parting the hands and sweeping them back down in the same arc to the hips.",
+      "Step 5: Perform the full circle smoothly and slowly, feeling the chest engage throughout."
+    ],
+    "breathing_instructions": "Breathe naturally throughout. Exhale as the hands come together above the chest.",
+    "common_mistakes": [
+      "Using dumbbells that are too heavy, compromising the arc",
+      "Rushing through the movement instead of feeling each position",
+      "Bending the elbows significantly"
+    ],
+    "safety_considerations": [
+      "Keep weights very light — this is a mobility and isolation exercise, not a loading exercise",
+      "Avoid this exercise if you have shoulder impingement",
+      "Perform slowly and with full control"
+    ],
+    "range_of_motion_guidance": "The circle should be as wide as comfortably possible at the bottom and converge tightly at the top. Feel a stretch at the sides and a contraction at the top.",
+    "tempo_recommendations": "3-0-3-0",
+    "coaching_cues": ["Draw big circles on the ceiling with the dumbbells", "Light weight, feel everything", "Squeeze the chest as hands meet"]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["dumbbell-fly"],
+    "unilateral": [],
+    "bilateral": ["dumbbell-around-the-worlds"],
+    "equipment_alternatives": ["resistance-band-chest-fly"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy", "mobility", "chest_activation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "dumbbell", "fly", "mobility", "light", "isolation"]
+  }
+}

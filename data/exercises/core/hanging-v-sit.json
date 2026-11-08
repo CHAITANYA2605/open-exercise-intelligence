@@ -1,0 +1,123 @@
+{
+  "exercise_id": "ex-hanging--core-4000-a000-239020584943",
+  "slug": "hanging-v-sit",
+  "name": "Hanging V-Sit",
+  "alternative_names": [],
+  "description": "A compression strength movement where the body hangs from a bar with legs raised to form a V-shape rather than a traditional L-sit angle. The V-shape requires superior hip flexor and core compression compared to a standard L-hang. This is a step toward more advanced compression skills.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "advanced",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Hanging V-Sit in proper position.",
+    "setup_instructions": "Prepare body and equipment for Hanging V-Sit.",
+    "steps": [
+      "Step 1: Hang from bar with straight arm grip.",
+      "Step 2: Compress hips to raise legs above horizontal into V-shape.",
+      "Step 3: Keep legs straight and toes pointed throughout.",
+      "Step 4: Hold V position for target duration then lower slowly."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Bending knees to cheat the angle",
+      "Swinging body"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Legs must come above 90 degrees",
+      "Active shoulder engagement"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

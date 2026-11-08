@@ -1,0 +1,69 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50014",
+  "slug": "quadruped-fire-hydrant-band",
+  "name": "Quadruped Fire Hydrant with Band",
+  "alternative_names": ["Banded Fire Hydrant", "Hip Abduction Quadruped"],
+  "description": "The quadruped fire hydrant is a hip abduction and external rotation exercise performed on all fours. With a resistance band looped above the knees, the exerciser lifts one knee out to the side, mimicking the posture of a dog at a fire hydrant. The band adds resistance to the hip abduction movement, increasing gluteus medius and minimus activation. This exercise is frequently used in hip rehabilitation, knee alignment programs, and glute activation protocols.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin on hands and knees (quadruped position) with wrists directly under shoulders and knees under hips. Place a resistance band loop just above both knees.",
+    "setup_instructions": "Choose a band resistance that allows the full range without compromising the spine or hip position. Keep the spine neutral — no rotation or lateral lean.",
+    "steps": [
+      "Step 1: Begin in quadruped with the band loop above the knees and spine neutral.",
+      "Step 2: While keeping the knee bent at 90 degrees, lift one knee out to the side as high as possible without rotating the hip or tilting the torso.",
+      "Step 3: Hold the top position briefly, squeezing the outer glute.",
+      "Step 4: Lower the knee back toward its starting position under control. Repeat all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale as you lift the knee. Inhale as you lower.",
+    "common_mistakes": ["Rotating the entire torso toward the lifting side — keep the spine square", "Tilting the supporting hip outward to gain extra range — the range must come from the hip joint, not the torso", "Losing neutral spine by arching or rounding the lower back"],
+    "safety_considerations": ["Use a lighter band if the movement causes lower back pain or compensation", "Avoid with acute hip labral injuries — consult a physiotherapist"],
+    "range_of_motion_guidance": "Lift to the point where the hip joint reaches its end range without body rotation. Quality of movement over height.",
+    "tempo_recommendations": "2s lift, 1s hold, 2s lower",
+    "coaching_cues": ["Imagine your hips are locked between two parallel walls — the torso cannot rotate", "Lead with the knee, not the foot — the knee is the highest point of the movement", "Squeeze the outer glute at the top of each rep"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20},
+      {"goal": "mobility", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 45, "mobility": 60},
+    "training_goals": ["endurance", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glutes", "hip-abduction", "rehabilitation", "band", "quadruped"]
+  }
+}

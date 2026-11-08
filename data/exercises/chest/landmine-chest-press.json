@@ -1,0 +1,85 @@
+{
+  "exercise_id": "a1b2c3d4-0005-4000-a000-chest0000005",
+  "slug": "landmine-chest-press",
+  "name": "Landmine Single-Arm Chest Press",
+  "alternative_names": ["Landmine Press Chest", "Single-Arm Landmine Press"],
+  "description": "The landmine single-arm chest press uses one end of a barbell anchored to the floor to create an arcing pressing motion that is gentler on the shoulder joint than a traditional horizontal press. The angled load path recruits the upper and mid pectorals while also engaging the core and serratus anterior for stability.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Anchor one end of a barbell in a landmine attachment or a corner. Stand facing the barbell, holding the free end at shoulder height with one hand, feet shoulder-width apart.",
+    "setup_instructions": "Secure the barbell in the landmine sleeve. Load weight onto the free end only. Grip the end of the bar and position it at chest height with the elbow pointing down and back.",
+    "steps": [
+      "Step 1: Hold the barbell end at upper chest height, elbow below the bar.",
+      "Step 2: Brace the core and press the bar forward and slightly upward, extending the arm fully.",
+      "Step 3: Hold briefly at the top, then bend the elbow and return the bar in a controlled arc back to the start.",
+      "Step 4: Keep the torso stable and avoid rotating to assist the press.",
+      "Step 5: Complete all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale as you press the barbell forward. Inhale as you lower it back toward the chest.",
+    "common_mistakes": [
+      "Rotating the torso aggressively to get the bar up",
+      "Gripping the bar too far from the end, reducing leverage",
+      "Letting the elbow flare excessively to the side"
+    ],
+    "safety_considerations": [
+      "Ensure the barbell anchor is secure before pressing",
+      "Start with no added weight to learn the arc of motion",
+      "Keep the wrist neutral throughout the press"
+    ],
+    "range_of_motion_guidance": "Press until the arm is fully extended and the bar is at face height or above. Return until the hand is at chest level.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": ["Push the bar in an arc, not straight out", "Brace like you're taking a punch", "Feel the upper chest engage on each press"]
+  },
+  "variants": {
+    "easier": ["push-up"],
+    "harder": ["dual-landmine-chest-press"],
+    "unilateral": ["landmine-chest-press"],
+    "bilateral": ["dual-landmine-chest-press"],
+    "equipment_alternatives": ["incline-dumbbell-press", "standing-cable-chest-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy", "shoulder_health"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "landmine", "press", "unilateral", "shoulder-friendly"]
+  }
+}

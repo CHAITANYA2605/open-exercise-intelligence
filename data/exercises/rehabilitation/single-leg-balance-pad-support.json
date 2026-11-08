@@ -1,0 +1,69 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50023",
+  "slug": "single-leg-balance-pad-support",
+  "name": "Single-Leg Balance on Foam Pad",
+  "alternative_names": ["Foam Pad Single-Leg Stance", "Proprioceptive Balance Foam"],
+  "description": "Single-leg balance performed on a foam pad or balance pad adds proprioceptive challenge compared to balancing on a firm surface. The unstable foam surface demands continuous micro-adjustments from the ankle, calf, and hip stabilizers to maintain a steady upright position. This is a progression from firm-surface single-leg balance and is used extensively in ankle sprain rehabilitation, ACL post-surgical protocols, and vestibular rehabilitation programs.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "anti-rotation",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
+      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand on a foam balance pad with one foot centered on the pad. Lift the other foot from the pad. Begin with hands available for safety (near a wall or bar).",
+    "setup_instructions": "Use a commercially available foam balance pad (Airex or equivalent). Ensure the pad is on a non-slip floor. Stand near a wall or chair for safety during initial attempts.",
+    "steps": [
+      "Step 1: Step onto the foam pad with both feet to establish balance, then lift one foot to stand on one leg.",
+      "Step 2: Maintain an upright posture with a slight knee bend in the standing leg.",
+      "Step 3: Hold the single-leg balance for the prescribed duration, allowing the ankle to make natural micro-adjustments.",
+      "Step 4: Lower the foot and rest before repeating or switching sides."
+    ],
+    "breathing_instructions": "Breathe normally throughout. Focus on balance, not breathing pattern.",
+    "common_mistakes": ["Gripping the floor with the toes — the foot and ankle should work naturally, not grip", "Holding onto a wall or bar throughout — use it only for safety, not support", "Stiffening the knee completely — a small amount of knee flexion improves balance and reduces joint stress"],
+    "safety_considerations": ["Stand near a wall or chair during early progressions", "For post-surgical rehabilitation, the foam pad balance duration and progression must follow a clinician-prescribed protocol"],
+    "range_of_motion_guidance": "Static hold — the goal is duration with minimal arm movement and no foot touch-down.",
+    "tempo_recommendations": "Hold for 20-60 seconds per set. Build to 60 seconds before adding further challenge.",
+    "coaching_cues": ["Let the ankle wobble — that wobbling is the proprioceptive training", "Soft knee — not locked out, not deeply bent", "Find a fixed visual focus point to aid balance — stare at a point on the wall"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "mobility", "min_reps": 1, "max_reps": 3},
+      {"goal": "endurance", "min_reps": 1, "max_reps": 3}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"mobility": 30, "endurance": 30},
+    "training_goals": ["endurance", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["balance", "proprioception", "ankle", "rehabilitation", "single-leg"]
+  }
+}

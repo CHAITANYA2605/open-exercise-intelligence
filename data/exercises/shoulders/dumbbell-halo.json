@@ -1,0 +1,83 @@
+{
+  "exercise_id": "5edab045-f35c-460f-820c-b879f06b9046",
+  "slug": "dumbbell-halo",
+  "name": "Dumbbell Halo",
+  "alternative_names": ["Shoulder Halo Dumbbell", "Dumbbell Around-the-Head"],
+  "description": "The dumbbell halo circles a dumbbell around the head in a continuous halo motion, training the shoulder complex and upper back through rotational ranges that standard linear exercises do not reach. It mobilizes the glenohumeral joint and trains the stabilizing rotator cuff and serratus anterior through dynamic control — commonly used as a shoulder warm-up or finisher.",
+  "category": "mobility",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart. Hold a light dumbbell vertically with both hands cupping one end (the other end pointing up). Hold at chest level.",
+    "setup_instructions": "Use a light dumbbell (5-10 kg). Heavier loads significantly increase the difficulty and risk of losing control.",
+    "steps": [
+      "Step 1: Begin with the dumbbell at chest level.",
+      "Step 2: Circle the dumbbell around the head — moving it to one side, overhead, behind the head, and back to the starting side.",
+      "Step 3: Complete a full revolution to constitute one rep.",
+      "Step 4: Alternate direction every rep or perform sets in one direction."
+    ],
+    "breathing_instructions": "Breathe continuously throughout the circular motion.",
+    "common_mistakes": [
+      "Using too heavy a dumbbell — control and range are more important than load",
+      "Moving only the arms while the torso sways — keep the core stable"
+    ],
+    "safety_considerations": [
+      "Ensure a firm grip — a dumbbell dropped behind the head is dangerous",
+      "Avoid if experiencing any neck or shoulder pain during the motion"
+    ],
+    "range_of_motion_guidance": "Full circular path around the head — do not reduce the circle.",
+    "tempo_recommendations": "Slow and controlled, 3-4 seconds per revolution",
+    "coaching_cues": [
+      "Keep the dumbbell close to the head throughout the circle",
+      "Core stays braced — only the arms move",
+      "Smooth, continuous motion"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 5, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "mobility": 45 },
+    "training_goals": ["mobility", "rehabilitation"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "halo", "shoulder-mobility", "warm-up", "rotational"]
+  }
+}

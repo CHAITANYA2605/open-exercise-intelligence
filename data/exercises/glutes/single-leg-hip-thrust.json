@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a1b2c3d4-0034-4000-a000-glut00000002",
+  "slug": "single-leg-hip-thrust",
+  "name": "Single-Leg Hip Thrust",
+  "alternative_names": ["Unilateral Hip Thrust", "One-Leg Hip Thrust"],
+  "description": "The single-leg hip thrust is a unilateral variation of the barbell hip thrust in which only one foot is on the floor while the other leg is extended forward. Each glute works independently against the entire bodyweight or added load, significantly increasing the per-side stimulus and reducing the ability of the dominant side to compensate. It is an effective exercise for addressing glute asymmetries and developing single-leg hip extension strength.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "bridge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "hip-thrust",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+    ]
+  },
+  "equipment_required": ["eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Position the upper back against a bench. Place one foot flat on the floor, the other leg raised and extended forward at approximately 45°.",
+    "setup_instructions": "Same bench setup as the hip thrust. Begin with bodyweight before adding a dumbbell or plate on the working hip.",
+    "steps": [
+      "Step 1: Upper back on the bench edge, one foot flat on the floor, the other leg extended and raised. Drive through the planted foot.",
+      "Step 2: Push the hips upward until full hip extension — the body forms a straight line from shoulder to planted knee.",
+      "Step 3: Squeeze the working glute forcefully at the top.",
+      "Step 4: Lower the hips under control to just above the floor.",
+      "Step 5: Complete all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale as hips rise. Inhale as hips lower.",
+    "common_mistakes": [
+      "Letting the hip rotate open toward the raised leg — keep hips level throughout",
+      "Using the hands to push off the bench — the working leg does the work",
+      "Hyperextending the lower back at the top"
+    ],
+    "safety_considerations": [
+      "Ensure the bench is stable and will not tip",
+      "Start with bodyweight only until the balance is established"
+    ],
+    "range_of_motion_guidance": "Full hip extension at top (level hips, straight line from shoulder to knee). Hips to floor level at bottom.",
+    "tempo_recommendations": "1-1-2-0",
+    "coaching_cues": [
+      "Drive through the planted heel",
+      "Keep the hips level — don't let the free hip drop",
+      "Squeeze the glute at the top — think of crushing a walnut"
+    ]
+  },
+  "variants": {
+    "easier": ["barbell-hip-thrust", "glute-bridge"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["barbell-hip-thrust"],
+    "equipment_alternatives": ["barbell-glute-bridge"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "unilateral", "hip-extension"]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "exercise_id": "c3d4e5f6-a7b8-4901-c234-d56e78f90123",
+  "slug": "one-board-press",
+  "name": "1-Board Bench Press",
+  "alternative_names": ["Board Press (1 Board)"],
+  "description": "The 1-Board Bench Press is a bench press variation where a single wooden board (approximately 2 inches thick) is placed on the chest to shorten the range of motion slightly. This variation allows the lifter to overload the upper portion of the pressing movement, building strength in the mid-to-top range where many lifters experience a sticking point.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Lie on a flat bench. A training partner holds a 2-inch board flat against your chest. Grip the bar slightly wider than shoulder-width.",
+    "setup_instructions": "Have a training partner hold a 2x6 or 2x8 wooden board against the lower chest. The board reduces ROM by approximately 2 inches. Can also be held in place with a shirt or elastic band.",
+    "steps": [
+      "Step 1: Unrack the bar and lower it under control to the board.",
+      "Step 2: Touch the board with the bar and pause briefly before pressing.",
+      "Step 3: Drive the bar back up to full elbow extension.",
+      "Step 4: Repeat for the prescribed reps, keeping the board in contact with the chest throughout."
+    ],
+    "breathing_instructions": "Inhale and brace before lowering. Exhale as you drive the bar up.",
+    "common_mistakes": [
+      "Bouncing off the board rather than pausing",
+      "Failing to maintain upper back tension during the reduced ROM"
+    ],
+    "safety_considerations": [
+      "Requires a training partner to hold the board safely",
+      "Can be used with loads slightly above your full ROM max"
+    ],
+    "range_of_motion_guidance": "Bar travels to the board surface only. Full lockout at top.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Touch and go off the board — no bouncing",
+      "Stay tight and control the descent as you would a full ROM press"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 240},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["powerlifting", "partial-rom", "board-press"]
+  }
+}

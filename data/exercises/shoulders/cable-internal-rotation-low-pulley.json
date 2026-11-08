@@ -1,0 +1,78 @@
+{
+  "exercise_id": "9c7401bf-d59b-4b27-954c-f669fa587b4d",
+  "slug": "cable-internal-rotation-low-pulley",
+  "name": "Cable Internal Rotation (Low Pulley)",
+  "alternative_names": ["Low Cable Internal Rotation", "Cable IR Low"],
+  "description": "Cable internal rotation from a low pulley trains the subscapularis — the primary internal rotator and largest rotator cuff muscle — with the shoulder adducted at the side and elbow bent to 90 degrees. This is the most commonly prescribed rotator cuff strengthening exercise in rehabilitation settings and is performed with extremely light loads for high repetitions.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with one side facing the cable machine. Set the pulley at waist height. Elbow of the working arm bent to 90 degrees, upper arm held against the side, forearm pointing away from the cable.",
+    "setup_instructions": "Place a rolled towel between the working-side elbow and the torso to maintain consistent positioning. Use very light weight.",
+    "steps": [
+      "Step 1: Begin with elbow at 90 degrees, forearm pointing away from the cable.",
+      "Step 2: Keeping the upper arm fixed against the side, rotate the forearm inward (toward the abdomen).",
+      "Step 3: Continue until the forearm is parallel to the floor pointing toward the abdomen.",
+      "Step 4: Hold 1 second.",
+      "Step 5: Return to starting position."
+    ],
+    "breathing_instructions": "Exhale rotating in. Inhale returning.",
+    "common_mistakes": [
+      "Upper arm moving away from the torso — it must stay fixed",
+      "Using too much load — subscapularis work requires light resistance"
+    ],
+    "safety_considerations": [
+      "Light load only — 2-5 kg is typical for this exercise",
+      "Appropriate for everyone as a shoulder health exercise"
+    ],
+    "range_of_motion_guidance": "Forearm from pointing away from cable to pointing across the abdomen.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Upper arm stays glued to the side",
+      "Rotate only the forearm",
+      "Towel under elbow helps maintain position"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "rehabilitation", "min_reps": 15, "max_reps": 25 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "rehabilitation": 60 },
+    "training_goals": ["rehabilitation"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "internal-rotation", "low-pulley", "rotator-cuff", "rehabilitation"]
+  }
+}

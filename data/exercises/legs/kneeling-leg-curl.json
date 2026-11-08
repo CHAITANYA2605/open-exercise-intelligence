@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-0022-4000-a000-legs00000022",
+  "slug": "kneeling-leg-curl",
+  "name": "Kneeling Leg Curl",
+  "alternative_names": ["Natural Leg Curl", "Glute-Ham Raise (partial)"],
+  "description": "The kneeling leg curl is performed with the feet anchored and the knees on a padded surface, using the hamstrings to curl the body toward the heels from a kneeling position with the torso upright. Unlike the Nordic hamstring curl which is a full eccentric movement, the kneeling leg curl is a concentric-focused variation that develops hamstring strength closer to the shortened position and serves as a bridge exercise between machine curls and the Nordic curl.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kneel on a padded surface with the feet anchored behind (use a partner, barbell, or machine). Start with the torso vertical over the knees.",
+    "setup_instructions": "Have a partner hold the ankles or wedge the heels under a barbell secured at floor height. Knee padding is essential.",
+    "steps": [
+      "Step 1: Kneel upright with feet anchored and hips extended.",
+      "Step 2: Lower the torso forward a small amount, then use the hamstrings to pull the body back upright — the motion is a 'pull toward the heels' action.",
+      "Step 3: Hold the upright position briefly, then lower forward under control.",
+      "Step 4: Repeat for the prescribed reps, controlling both phases.",
+      "Step 5: Avoid falling too far forward — this transitions into a Nordic curl and should be progressed to separately."
+    ],
+    "breathing_instructions": "Exhale as you pull up. Inhale as you lower.",
+    "common_mistakes": [
+      "Hinging at the hip (the motion should come from knee flexion, not hip hinging)",
+      "Swinging the torso rather than contracting the hamstrings",
+      "Moving through a range the hamstrings cannot control"
+    ],
+    "safety_considerations": [
+      "If unable to perform even a minimal controlled range, begin with machine leg curls to build hamstring strength first",
+      "Knee padding is essential to prevent bruising"
+    ],
+    "range_of_motion_guidance": "Work in the range the hamstrings can actively control — typically 20–60° initially.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Pull your heels toward your glutes — think of it like a standing leg curl",
+      "Keep the hips extended — don't fold forward at the hip",
+      "Own both directions — control the lowering too"
+    ]
+  },
+  "variants": {
+    "easier": ["lying-leg-curl", "seated-leg-curl"],
+    "harder": ["nordic-hamstring-curl"],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": ["lying-leg-curl"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 2, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90, "endurance": 60},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hamstring", "bodyweight", "nordic-progression"]
+  }
+}

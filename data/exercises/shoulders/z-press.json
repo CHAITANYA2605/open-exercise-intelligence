@@ -1,0 +1,78 @@
+{
+  "exercise_id": "sh010020-f3a2-4c1e-9b8d-7e6f5a4c3c01",
+  "slug": "z-press",
+  "name": "Z-Press",
+  "alternative_names": ["Seated Floor Press", "Zydrunas Press"],
+  "description": "The Z-Press is a seated overhead press performed on the floor with the legs extended straight in front of the body, eliminating any leg drive or lower body support. The extended-leg position demands exceptional hip flexor flexibility, core stability, and an upright torso to press overhead, making it one of the most demanding shoulder press variations. It directly reveals and addresses postural weaknesses in the overhead pressing pattern.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Sit on the floor with legs extended straight ahead. Hold a barbell at shoulder height in a front-rack or press-width grip. The torso must be completely vertical with no lean.",
+    "setup_instructions": "Begin with a significantly reduced load. Tight hamstrings or hip flexors will cause the torso to lean back, defeating the purpose of the exercise.",
+    "steps": [
+      "Step 1: Sit tall with legs extended, barbell at shoulder height.",
+      "Step 2: Brace the core hard to maintain an upright torso.",
+      "Step 3: Press the bar straight overhead, keeping the elbows slightly forward.",
+      "Step 4: Lock out the arms completely overhead.",
+      "Step 5: Return the bar to the shoulder position under control. Repeat."
+    ],
+    "breathing_instructions": "Exhale as you press, inhale on the descent.",
+    "common_mistakes": [
+      "Leaning backward during the press — the torso must remain vertical throughout",
+      "Failing to lock out at the top",
+      "Insufficient hip flexor mobility causing the legs to come off the floor"
+    ],
+    "safety_considerations": [
+      "If unable to sit with an upright torso and legs extended, work on hamstring and hip flexor flexibility before loading this movement",
+      "Use a spotter or spotter arms if training heavy"
+    ],
+    "range_of_motion_guidance": "Full lockout overhead. Barbell returns to shoulder level on the descent.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Sit up straight — imagine a wall behind you", "No lean back during the press", "Legs stay flat on the floor"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "overhead-press", "advanced", "core", "barbell"]
+  }
+}

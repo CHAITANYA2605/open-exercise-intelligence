@@ -1,0 +1,79 @@
+{
+  "exercise_id": "ba010016-f3a2-4c1e-9b8d-7e6f5a4c3b39",
+  "slug": "chest-supported-tbar-row",
+  "name": "Chest-Supported T-Bar Row Machine",
+  "alternative_names": ["Lying T-Bar Row", "Prone T-Bar Row"],
+  "description": "The chest-supported T-bar row uses a dedicated machine with an angled pad that supports the chest, eliminating lower back involvement entirely. The bilateral T-bar handle allows both hands to row simultaneously at a neutral or pronated grip position. Because the chest is supported, trainees can focus entirely on maximizing back muscle contraction without compensatory trunk extension, making it an excellent hypertrophy tool for the mid and upper back.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ]
+  },
+  "equipment_required": ["eq000039-0000-4000-a000-000000000039"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Load the T-bar machine with appropriate weight. Step onto the footrests and lean the chest into the angled support pad. Grip the handles and let the arms hang extended.",
+    "setup_instructions": "Adjust the chest pad height so the arms can fully extend without the weight touching the floor. Ensure the chest stays in contact with the pad throughout.",
+    "steps": [
+      "Step 1: Position the chest on the support pad, feet on the footrests, arms extended holding the handles.",
+      "Step 2: Retract the scapulae and initiate the row.",
+      "Step 3: Pull the handles toward the lower chest, driving the elbows straight back.",
+      "Step 4: Squeeze the entire upper back at peak contraction.",
+      "Step 5: Lower the weight under control until arms are fully extended."
+    ],
+    "breathing_instructions": "Exhale on the row, inhale on the descent.",
+    "common_mistakes": [
+      "Lifting the chest off the pad, negating the support",
+      "Not retracting the scapulae — just bending the elbows without moving the shoulder blades",
+      "Using too heavy a weight, reducing ROM"
+    ],
+    "safety_considerations": [
+      "Ensure the chest pad is at a comfortable height — too low or high causes neck strain",
+      "Dismount carefully after each set"
+    ],
+    "range_of_motion_guidance": "Full arm extension at the bottom to handles touching or near the lower chest at the top.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Let the shoulder blades spread at the bottom", "Row the elbows straight back", "Chest stays on the pad"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 6, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "row", "machine", "chest-supported"]
+  }
+}

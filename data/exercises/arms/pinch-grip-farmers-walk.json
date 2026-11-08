@@ -1,0 +1,145 @@
+{
+  "exercise_id": "274298cd-d30f-47aa-b2a1-0ab79625a90c",
+  "slug": "pinch-grip-farmers-walk",
+  "name": "Pinch Grip Farmer's Walk",
+  "alternative_names": [
+    "Plate Pinch Walk"
+  ],
+  "description": "A grip strength exercise performed by pinching the smooth edge of weight plates between the fingers and thumb and walking for distance or time. The pinch grip isolates the finger flexors and thumb adductors to a greater degree than a standard handle grip and builds crushing and pinching grip strength essential for many athletic and functional tasks.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand tall holding a weight plate in each hand, pinched between the fingers and thumb, with the smooth surface outward.",
+    "setup_instructions": "Select a moderate weight plate (25lb or 35lb to start). Grip the smooth outer edge between fingers and thumb on each hand.",
+    "steps": [
+      "Step 1: Stand tall with the plates pinched securely.",
+      "Step 2: Walk forward for the prescribed distance or time, maintaining an upright posture.",
+      "Step 3: Keep the shoulders level and the core braced throughout.",
+      "Step 4: At the end of the distance, carefully set the plates down."
+    ],
+    "breathing_instructions": "Breathe steadily throughout the walk.",
+    "common_mistakes": [
+      "Allowing the torso to lean or the shoulders to drop",
+      "Squeezing too hard and fatiguing the grip prematurely"
+    ],
+    "safety_considerations": [
+      "Set the plates down carefully \u2014 do not drop them",
+      "Use chalk to improve grip on smooth plates"
+    ],
+    "range_of_motion_guidance": "Walk for the prescribed distance (10-30m) or time (20-60 seconds).",
+    "tempo_recommendations": "Continuous walking \u2014 controlled steps",
+    "coaching_cues": [
+      "Pinch hard and walk tall",
+      "Keep the shoulders level"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "forearms",
+      "grip",
+      "pinch",
+      "carry",
+      "strongman"
+    ]
+  }
+}

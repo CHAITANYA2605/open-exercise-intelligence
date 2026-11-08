@@ -1,0 +1,77 @@
+{
+  "exercise_id": "ba010023-f3a2-4c1e-9b8d-7e6f5a4c3b46",
+  "slug": "pause-deadlift",
+  "name": "Pause Deadlift",
+  "alternative_names": ["Mid-Shin Pause Deadlift", "Dead-Stop Pause Deadlift"],
+  "description": "The pause deadlift involves a deliberate hold at the sticking point — typically mid-shin height — during the ascent phase of the conventional deadlift. The pause eliminates momentum and forces the musculature to generate maximum force from a static position, building strength at the most mechanically challenging portion of the lift. It is a highly effective strength-building variation for powerlifters targeting their weakest point in the pull.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0001-4000-a000-00000000000c", "muscle_slug": "quadriceps"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Set up identically to a conventional deadlift. Bar over mid-foot, neutral spine, hips below shoulders.",
+    "setup_instructions": "Use 70-85% of conventional deadlift maximum. Mark the mid-shin position visually before starting.",
+    "steps": [
+      "Step 1: Initiate the deadlift identically to conventional — drive the legs and maintain back angle.",
+      "Step 2: When the bar reaches mid-shin height, pause completely for 2-3 seconds.",
+      "Step 3: Maintain maximum tightness during the pause — no relaxing.",
+      "Step 4: Drive through the pause and complete the lift to lockout.",
+      "Step 5: Return the bar to the floor under control and reset before the next rep."
+    ],
+    "breathing_instructions": "Inhale and brace before each rep. Hold the brace through the pause. Exhale at lockout.",
+    "common_mistakes": [
+      "Losing tension during the pause — the hold must be active, not passive",
+      "Using too heavy a load, which forces the bar to move through the pause",
+      "Pausing at the wrong point — it should be mid-shin, the actual sticking point"
+    ],
+    "safety_considerations": [
+      "Reduce training load significantly from conventional deadlift maximum",
+      "Ensure consistent breath holding and bracing before each rep"
+    ],
+    "range_of_motion_guidance": "Floor to lockout. Pause position is at mid-shin, which is the sticking point for most lifters.",
+    "tempo_recommendations": "1-0-pause(2-3s)-0 (explosive off floor, hold at mid-shin, then drive through)",
+    "coaching_cues": ["Don't relax at the pause — stay tight", "The pause is where you get stronger", "Drive through the pause like it's a new rep"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 240},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "deadlift", "powerlifting", "advanced", "strength"]
+  }
+}

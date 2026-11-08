@@ -1,0 +1,85 @@
+{
+  "exercise_id": "c8d9e0f1-a2b3-4c4d-5e6f-7a8b9c0d1e2f",
+  "slug": "world-greatest-stretch",
+  "name": "World's Greatest Stretch",
+  "alternative_names": ["Spiderman Stretch with Rotation"],
+  "description": "The world's greatest stretch is a dynamic compound mobility sequence that combines a hip flexor stretch, thoracic rotation, and hamstring mobilization in a single flowing movement. Starting in a lunge position, the lifter places the same-side hand on the ground while reaching the opposite hand to the ceiling, rotating through the thoracic spine. It is considered one of the most time-efficient warm-up movements as it targets multiple restrictions simultaneously.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" },
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "secondary": [
+      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
+      { "muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin standing, then step one foot forward into a lunge with the front foot flat and the back leg extended.",
+    "setup_instructions": "No equipment needed. Use a mat for comfort on the rear knee if needed.",
+    "steps": [
+      "Step 1: Step the right foot forward into a large lunge. Lower the left knee to the floor if needed.",
+      "Step 2: Place the right hand on the ground just inside the right foot.",
+      "Step 3: Reach the left arm up and open the chest, rotating the thoracic spine toward the ceiling.",
+      "Step 4: Hold the rotation for 2–3 breaths, feeling the stretch across the chest, hip flexor, and thoracic spine.",
+      "Step 5: Return the left hand to the floor, then stand up and alternate sides."
+    ],
+    "breathing_instructions": "Inhale into the rotation. Exhale and sink slightly deeper on each breath.",
+    "common_mistakes": [
+      "Rotating from the lower back rather than the thoracic spine",
+      "Front knee caving inward — keep it tracking over the second toe",
+      "Moving too quickly through the rotation, skipping the breathing component"
+    ],
+    "safety_considerations": [
+      "If wrist discomfort occurs, make a fist for the supporting hand",
+      "Take it slowly — this is a preparatory movement, not a loaded exercise"
+    ],
+    "range_of_motion_guidance": "Rotate the upper arm as high as the thoracic spine allows. Hips stay square.",
+    "tempo_recommendations": "2–3 breaths per side, 5 reps per side, 1–2 rounds.",
+    "coaching_cues": [
+      "Let your eyes follow your hand to encourage the rotation",
+      "Press the front knee outward with the inside of your elbow as you rotate",
+      "Think tall — reach for the ceiling, not just open to the side"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 5, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+    ],
+    "rest_periods": { "mobility": 10 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["mobility", "dynamic-stretch", "warm-up", "compound", "thoracic", "hip-flexor"]
+  }
+}

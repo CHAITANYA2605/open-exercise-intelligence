@@ -1,0 +1,130 @@
+{
+  "exercise_id": "0171a318-f380-4d64-b5d0-737b6ec5165b",
+  "slug": "smith-machine-sissy-squat",
+  "name": "Smith Machine Sissy Squat",
+  "alternative_names": [
+    "Smith Sissy Squat",
+    "Machine Quad Isolation Squat"
+  ],
+  "description": "A sissy squat variation performed with the Smith machine bar resting across the front of the thighs, with heels elevated on a plate or wedge. The machine guides the movement and reduces balance demand, allowing heavy quad isolation with the knees traveling far forward \u2014 a position that maximally stretches and loads the rectus femoris and vastus lateralis.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000006-0000-4000-a000-000000000006",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing away from the Smith machine with the bar set at approximately thigh height. Place heels on a 25lb plate. Bar rests lightly across upper thighs.",
+    "setup_instructions": "Set the Smith bar at thigh height. Place a 25lb plate flat behind the foot position for heel elevation. Duck under the bar and position it across the upper thighs.",
+    "steps": [
+      "Step 1: Lean back slightly with a rigid torso, engaging the quads.",
+      "Step 2: Allow the knees to travel forward over and past the toes while your hips drop toward the floor.",
+      "Step 3: Lower until a strong quad stretch is felt, or as far as comfortable knee health allows.",
+      "Step 4: Reverse the motion by driving the knees back and straightening to the upright position."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale during the return to upright.",
+    "common_mistakes": [
+      "Collapsing the lower back \u2014 maintain a rigid torso throughout",
+      "Using excessive range before the tendons have adapted"
+    ],
+    "safety_considerations": [
+      "Avoid if you have patellar tendinopathy or significant knee pain",
+      "Progress depth gradually over several weeks"
+    ],
+    "range_of_motion_guidance": "Lower until a strong quad stretch is felt. The knees travel well past the toes \u2014 this is intentional for this exercise.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Keep the torso rigid throughout",
+      "Let the knees lead forward"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "smith-machine",
+      "isolation",
+      "sissy-squat"
+    ]
+  }
+}

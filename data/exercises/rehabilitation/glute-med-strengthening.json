@@ -1,0 +1,84 @@
+{
+  "exercise_id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+  "slug": "glute-med-strengthening",
+  "name": "Side-Lying Hip Abduction",
+  "alternative_names": ["Side-Lying Leg Raise", "Hip Abduction Leg Raise", "Glute Med Strengthening"],
+  "description": "Side-lying hip abduction is a classic rehabilitation exercise for the gluteus medius and tensor fasciae latae. Performed lying on the side with the top leg raised directly upward in the frontal plane, it provides direct strengthening of the hip abductors without requiring upright balance or complex movement patterns. It is prescribed for IT band syndrome, patellofemoral pain, hip weakness, low back pain, and as a foundational glute exercise for all populations.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "carry",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "hip-abduction",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" },
+      { "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "execution": {
+    "starting_position": "Lie on one side with the body in a straight line. The bottom arm extends under the head. The top leg is straight and stacked on the bottom leg.",
+    "setup_instructions": "No equipment required. A resistance band loop above the knees may be added for progressive resistance.",
+    "steps": [
+      "Step 1: Lie on one side with hips stacked and both legs straight.",
+      "Step 2: Turn the top foot slightly toward the floor (internal rotation) to target the posterior fibers of the gluteus medius.",
+      "Step 3: Raise the top leg toward the ceiling, keeping it in line with the torso (not in front of it).",
+      "Step 4: Raise to approximately 30–45 degrees — not so high that the pelvis rotates.",
+      "Step 5: Slowly lower the leg back to the starting position with control. Do not let it rest on the bottom leg between reps."
+    ],
+    "breathing_instructions": "Exhale as the leg lifts. Inhale as it lowers.",
+    "common_mistakes": [
+      "Letting the top hip roll forward — the pelvis must stay stacked",
+      "Raising the leg too far, which recruits the hip flexors and reduces glute med isolation",
+      "Pointing the top toe toward the ceiling (external rotation) — slight internal rotation targets the posterior glute med"
+    ],
+    "safety_considerations": [
+      "Safe for all rehabilitation populations including post-partum and elderly",
+      "If lateral hip pain occurs with the band, try without band first"
+    ],
+    "range_of_motion_guidance": "Raise the leg 30–45 degrees from the floor. Keep the movement in the frontal plane.",
+    "tempo_recommendations": "2-second lift, 1-second hold, 2-second lower. 15–20 reps × 2–3 sets per side.",
+    "coaching_cues": [
+      "Lead with the heel — think about reaching the heel up to the ceiling",
+      "Keep the hip stacked and do not let it roll backward",
+      "Slight internal rotation of the foot targets the best part of the glute med"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 15, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 60 },
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "glute-med", "hip-abductor", "it-band", "knee-health", "beginner"]
+  }
+}

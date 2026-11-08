@@ -1,0 +1,66 @@
+{
+  "exercise_id": "a1b2c3d4-0135-4000-a000-100000000135",
+  "slug": "overhead-cable-rope-extension",
+  "name": "Overhead Cable Rope Tricep Extension",
+  "alternative_names": ["Cable Overhead Tricep Extension Rope", "Rope French Press Cable"],
+  "description": "The overhead cable rope extension uses a rope attachment on a low cable pulley, with the lifter facing away from the machine and extending the forearms overhead. The overhead position puts the tricep long head in a maximally stretched position before each rep. The cable maintains constant tension even at full extension overhead, providing loading through the entire range of motion that free weight overhead extensions cannot match.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a rope to a low cable pulley. Face away from the machine, grab the rope behind the head, elbows bent overhead.",
+    "setup_instructions": "Set the cable pulley low. Grab the rope with both hands behind the head, elbows pointing upward. Take a step forward to create tension.",
+    "steps": [
+      "Step 1: Begin with elbows bent, rope behind the head, feeling the tricep stretch.",
+      "Step 2: Extend the elbows overhead, pressing the rope forward and up.",
+      "Step 3: Hold at full extension for one second.",
+      "Step 4: Return slowly to the starting position, maintaining the stretch."
+    ],
+    "breathing_instructions": "Exhale on extension, inhale on return.",
+    "common_mistakes": ["Flaring the elbows wide", "Leaning excessively forward — maintain an upright torso", "Pulling with the front delts instead of the triceps"],
+    "safety_considerations": ["Avoid if there is shoulder impingement — the overhead position is demanding"],
+    "range_of_motion_guidance": "Maximum stretch at the bottom to full elbow extension overhead.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Elbows point up — not out", "Feel the long head stretch", "Full lockout overhead"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tricep", "long-head", "isolation", "cable", "overhead"]
+  }
+}

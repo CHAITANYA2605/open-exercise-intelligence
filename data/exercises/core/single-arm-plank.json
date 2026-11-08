@@ -1,0 +1,65 @@
+{
+  "exercise_id": "co000047-0000-4000-a000-000000000047",
+  "slug": "single-arm-plank",
+  "name": "Single-Arm / Single-Leg Elevated Plank",
+  "alternative_names": ["Three-Point Plank", "Single-Arm Plank", "Contralateral Limb Raise Plank"],
+  "description": "The single-arm or single-leg plank removes one point of contact from the standard high plank, dramatically increasing the anti-rotation demand on the obliques and quadratus lumborum as the core resists the tendency to rotate toward the lifted limb. The contralateral variation — lifting one arm and the opposite leg simultaneously — maximises this anti-rotation challenge while also requiring lumbopelvic control in multiple planes. It is a highly effective progression from the standard plank without adding any external load.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "anti-rotation",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standard high plank position: hands under shoulders, body in a straight line from head to heel, core braced.",
+    "setup_instructions": "Master the standard high plank for 60+ seconds before attempting single-limb variations.",
+    "steps": [
+      "Step 1: Begin in a high plank. Brace the core maximally.",
+      "Step 2: For single-arm variation: slowly lift one hand off the floor, extending the arm forward or placing it on the lower back.",
+      "Step 3: For contralateral variation: simultaneously lift one hand and the opposite foot off the floor.",
+      "Step 4: Hold the position without allowing the hips to rotate or drop.",
+      "Step 5: Return the limb(s) to the floor and repeat on the other side."
+    ],
+    "breathing_instructions": "Breathe shallowly but continuously. Do not hold the breath during the hold.",
+    "common_mistakes": [
+      "Rotating the hips toward the lifted arm — the hips must remain perfectly square",
+      "Widening the support foot to compensate rather than maintaining proper challenge"
+    ],
+    "safety_considerations": ["Regress immediately if hip rotation cannot be controlled"],
+    "range_of_motion_guidance": "Isometric hold for time — typically 20–40 seconds per side.",
+    "tempo_recommendations": "Hold for 20–40 seconds each side. Slow, controlled transitions.",
+    "coaching_cues": ["Hips square — a glass of water sits on your lower back and cannot spill", "Squeeze the working glute and opposite shoulder"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [{"goal": "strength", "min_sets": 3, "max_sets": 4}],
+    "rest_periods": {"strength": 60},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "anti-rotation", "plank", "bodyweight", "advanced"]}
+}

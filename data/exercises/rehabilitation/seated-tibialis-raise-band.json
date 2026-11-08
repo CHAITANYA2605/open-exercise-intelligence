@@ -1,0 +1,61 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50016",
+  "slug": "seated-tibialis-raise-band",
+  "name": "Seated Tibialis Raise with Band",
+  "alternative_names": ["Banded Tibialis Raise", "Seated Dorsiflexion Band"],
+  "description": "A seated exercise targeting the tibialis anterior through dorsiflexion against resistance from a band. The exerciser sits with one end of a resistance band looped around the forefoot, with the other end anchored forward. By pulling the toes back toward the shin against band resistance, the tibialis anterior — the muscle running along the outer shin — is loaded. This exercise is critical for shin splint prevention, anterior compartment syndrome rehabilitation, and ankle stability programs.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [{"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": ["eq000014-0000-4000-a000-000000000014"],
+  "execution": {
+    "starting_position": "Sit on the floor or a chair with the leg extended forward. Loop a resistance band around the forefoot, anchoring the other end to a stable object in front of the foot. Begin with the foot in a neutral or slightly plantarflexed position.",
+    "setup_instructions": "Anchor the band to something at floor level — a heavy dumbbell, power rack base, or a door anchor near the floor. The band should provide resistance against dorsiflexion (pulling toes up).",
+    "steps": [
+      "Step 1: Sit with the leg extended and the band looped around the top of the foot, anchored in front.",
+      "Step 2: Pull the toes and forefoot back toward the shin (dorsiflexion) against the band resistance.",
+      "Step 3: Hold the dorsiflexed position briefly, feeling the contraction along the outer shin.",
+      "Step 4: Slowly lower the foot back toward the starting position under control. Repeat."
+    ],
+    "breathing_instructions": "Exhale as you dorsiflex (pull toes back). Inhale as you lower.",
+    "common_mistakes": ["Using the entire leg to assist the movement — only the foot should move", "Not achieving full dorsiflexion range due to band tension that is too heavy", "Allowing the heel to lift from the floor, reducing tibialis anterior isolation"],
+    "safety_considerations": ["This exercise should be pain-free in both directions — if pulling back causes sharp shin pain, reduce band tension", "For shin splint rehab: start with lighter band and higher reps, progress gradually"],
+    "range_of_motion_guidance": "Full dorsiflexion — toes pull back as far as the ankle allows without the leg lifting from the floor.",
+    "tempo_recommendations": "2s dorsiflexion, 1s hold, 3s slow return (the eccentric return is critical for shin splint rehab)",
+    "coaching_cues": ["Feel the muscles along the outer shin working — that is the tibialis anterior", "Slow on the way down — the controlled lowering phase builds the most strength for shin splint prevention", "Keep the heel grounded throughout the movement"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25},
+      {"goal": "mobility", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 45, "mobility": 60},
+    "training_goals": ["endurance", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tibialis-anterior", "shin", "rehabilitation", "ankle", "dorsiflexion"]
+  }
+}

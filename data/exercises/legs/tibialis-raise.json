@@ -1,0 +1,78 @@
+{
+  "exercise_id": "a1b2c3d4-0032-4000-a000-legs00000032",
+  "slug": "tibialis-raise",
+  "name": "Tibialis Raise",
+  "alternative_names": ["Anterior Tibialis Raise", "Shin Raise"],
+  "description": "The tibialis raise is a dorsiflexion exercise that targets the tibialis anterior — the muscle on the front of the shin — by raising the forefoot against resistance while keeping the heels fixed. It is the antagonist movement to calf raises and is frequently neglected in training programs. Strengthening the tibialis anterior is associated with reduced risk of shin splints and anterior leg pain in runners, walkers, and athletes.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "calf-raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with heels against a wall or on a step edge, with the toes hanging free. The heels are the pivot point. Stand upright with back against the wall.",
+    "setup_instructions": "No equipment required for the bodyweight version. A resistance band looped around a fixed object at shin height can add load. Alternatively, perform seated with the heels on the floor and the toes lifted against gravity.",
+    "steps": [
+      "Step 1: Stand with heels on the floor or step edge, back against a wall, toes pointing forward.",
+      "Step 2: Raise the forefoot as high as possible by pulling the toes and forefoot upward (dorsiflexion).",
+      "Step 3: Hold the peak dorsiflexion contraction for one second.",
+      "Step 4: Lower the forefoot under control back to the floor.",
+      "Step 5: Repeat for the prescribed reps."
+    ],
+    "breathing_instructions": "Breathe freely — this is a low-intensity isolation exercise.",
+    "common_mistakes": [
+      "Barely lifting the toes — the tibialis anterior should be fully contracted at the top",
+      "Moving too fast — slow, controlled reps with a peak contraction are more effective"
+    ],
+    "safety_considerations": [
+      "Very low injury risk exercise",
+      "If shin pain occurs, reduce volume and check for underlying conditions"
+    ],
+    "range_of_motion_guidance": "Maximum dorsiflexion at the top (toes pulled as high as possible) and full plantarflexion or return to neutral at the bottom.",
+    "tempo_recommendations": "1-1-2-0 (raise 1s, hold 1s, lower 2s)",
+    "coaching_cues": [
+      "Pull the toes up as high as you can",
+      "Feel the front of the shin working",
+      "Don't let the foot drop — control the lowering"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 20, "max_reps": 40}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"endurance": 30},
+    "training_goals": ["endurance", "rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shin", "tibialis", "prehab", "injury-prevention", "beginner-friendly"]
+  }
+}

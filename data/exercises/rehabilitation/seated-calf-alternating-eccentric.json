@@ -1,0 +1,55 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50040",
+  "slug": "seated-calf-alternating-eccentric",
+  "name": "Seated Calf Raise — Alternating Eccentric",
+  "alternative_names": ["Two-Up One-Down Seated Calf Raise", "Bilateral Concentric Unilateral Eccentric Seated"],
+  "description": "A seated calf raise technique that uses both legs for the concentric (rising) phase and one leg for the slow eccentric (lowering) phase, alternating sides each repetition. Rising on two legs reduces the concentric load per limb, while lowering on one leg significantly increases the eccentric stress on the soleus of the working leg. This bilateral-concentric/unilateral-eccentric approach allows the soleus to work at a higher eccentric load than a pure single-leg seated raise, used in Achilles tendinopathy and plantar fasciitis rehabilitation.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [{"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}],
+    "secondary": [{"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench with knees at 90 degrees and both feet positioned on the edge of a small block for full range. Rest a dumbbell on each thigh or use a seated calf raise machine.",
+    "setup_instructions": "Setup as for a standard seated calf raise. Ensure both feet have a secure footing at the start.",
+    "steps": [
+      "Step 1: Press through BOTH feet to rise to the full plantarflexion position.",
+      "Step 2: At the top, lift the right foot off the block, leaving only the left foot to lower.",
+      "Step 3: Lower slowly on the left foot only, controlling the descent over 3-4 seconds to the full stretch position.",
+      "Step 4: Return the right foot to the block. Press through BOTH feet again to rise. At the top, lift the left foot and lower on the right only. Alternate sides each repetition."
+    ],
+    "breathing_instructions": "Exhale as you rise (bilateral). Inhale slowly during the eccentric lower (unilateral).",
+    "common_mistakes": ["Rushing the eccentric — the slow 3-4 second lowering is the most therapeutically valuable component", "Not completing the full stretch at the bottom of the eccentric", "Using the removed foot to assist the lowering phase"],
+    "safety_considerations": ["For insertional Achilles tendinopathy: do not let the heel drop below forefoot level on the eccentric to avoid aggravating the insertion", "For mid-portion tendinopathy: full range eccentric is typically indicated"],
+    "range_of_motion_guidance": "Full range: both feet to full plantarflexion on the rise; single foot to full dorsiflexion on the eccentric.",
+    "tempo_recommendations": "1s bilateral rise, 1s top hold, 3-4s unilateral eccentric lower.",
+    "coaching_cues": ["Use the second foot only for rising — it does not help on the way down", "Think of this as a 'cheat' on the way up and a 'grind' on the way down", "Feel the deep calf (soleus) burning during the slow eccentric"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "strength", "min_reps": 8, "max_reps": 15}],
+    "recommended_set_ranges": [{"goal": "strength", "min_sets": 2, "max_sets": 3}],
+    "rest_periods": {"strength": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calves", "soleus", "Achilles", "rehabilitation", "eccentric"]
+  }
+}

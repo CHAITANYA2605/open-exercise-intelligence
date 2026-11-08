@@ -1,0 +1,226 @@
+[
+  {
+    "pattern_id": "mp-0001-push",
+    "slug": "push",
+    "name": "Push",
+    "description": "Movements in which force is applied away from the body's midline, typically extending the elbow and/or shoulder joint against resistance.",
+    "subtypes": [
+      {
+        "slug": "horizontal-push",
+        "name": "Horizontal Push",
+        "description": "Pushing force applied horizontally, parallel to the ground. Primarily trains the pectoral muscles, anterior deltoid, and triceps.",
+        "example_exercises": ["Barbell Bench Press", "Push-Up", "Dumbbell Chest Press"]
+      },
+      {
+        "slug": "vertical-push",
+        "name": "Vertical Push",
+        "description": "Pushing force applied vertically overhead. Primarily trains the deltoids, triceps, and upper trapezius.",
+        "example_exercises": ["Overhead Press", "Dumbbell Shoulder Press", "Handstand Push-Up"]
+      }
+    ],
+    "primary_muscles": ["chest", "shoulders", "triceps"],
+    "antagonist_patterns": ["pull"]
+  },
+  {
+    "pattern_id": "mp-0002-pull",
+    "slug": "pull",
+    "name": "Pull",
+    "description": "Movements in which force is applied toward the body's midline, typically flexing the elbow and/or retracting the shoulder joint against resistance.",
+    "subtypes": [
+      {
+        "slug": "horizontal-pull",
+        "name": "Horizontal Pull",
+        "description": "Pulling force applied horizontally, parallel to the ground. Primarily trains the rhomboids, middle trapezius, rear deltoids, and biceps.",
+        "example_exercises": ["Barbell Row", "Dumbbell Row", "Cable Row", "Inverted Row"]
+      },
+      {
+        "slug": "vertical-pull",
+        "name": "Vertical Pull",
+        "description": "Pulling force applied vertically downward. Primarily trains the latissimus dorsi, biceps, and rear deltoid.",
+        "example_exercises": ["Pull-Up", "Lat Pulldown", "Chin-Up"]
+      }
+    ],
+    "primary_muscles": ["back", "biceps"],
+    "antagonist_patterns": ["push"]
+  },
+  {
+    "pattern_id": "mp-0003-hinge",
+    "slug": "hinge",
+    "name": "Hinge",
+    "description": "A hip-dominant movement in which the hips move posteriorly while the spine maintains a neutral position. The primary muscles are the hamstrings and glutes. Spinal flexion is minimized.",
+    "subtypes": [
+      {
+        "slug": "bilateral-hinge",
+        "name": "Bilateral Hip Hinge",
+        "description": "Both feet remain on the ground with equal loading.",
+        "example_exercises": ["Deadlift", "Romanian Deadlift", "Kettlebell Swing", "Good Morning"]
+      },
+      {
+        "slug": "unilateral-hinge",
+        "name": "Unilateral Hip Hinge",
+        "description": "Single-leg variation that adds balance and unilateral loading demands.",
+        "example_exercises": ["Single-Leg Romanian Deadlift", "Single-Leg Hip Hinge"]
+      }
+    ],
+    "primary_muscles": ["hamstrings", "glutes", "erector-spinae"],
+    "antagonist_patterns": ["squat"]
+  },
+  {
+    "pattern_id": "mp-0004-squat",
+    "slug": "squat",
+    "name": "Squat",
+    "description": "A lower-body movement in which the hips and knees bend simultaneously to lower the body, then return to the starting position. Knee-dominant in nature compared to the hip-dominant hinge.",
+    "subtypes": [
+      {
+        "slug": "bilateral-squat",
+        "name": "Bilateral Squat",
+        "description": "Both feet on the ground with equal loading.",
+        "example_exercises": ["Barbell Back Squat", "Front Squat", "Goblet Squat", "Leg Press"]
+      },
+      {
+        "slug": "unilateral-squat",
+        "name": "Unilateral Squat",
+        "description": "Single-leg squat variations. See also: lunge.",
+        "example_exercises": ["Pistol Squat", "Bulgarian Split Squat"]
+      }
+    ],
+    "primary_muscles": ["quadriceps", "glutes", "hamstrings"],
+    "antagonist_patterns": ["hinge"]
+  },
+  {
+    "pattern_id": "mp-0005-lunge",
+    "slug": "lunge",
+    "name": "Lunge",
+    "description": "A unilateral lower-body movement in which one foot is placed forward (or backward, or to the side) and the rear knee descends toward the floor. Trains the quadriceps, glutes, and hamstrings with a split-stance base.",
+    "subtypes": [
+      {
+        "slug": "forward-lunge",
+        "name": "Forward Lunge",
+        "description": "The lead foot steps forward.",
+        "example_exercises": ["Walking Lunge", "Forward Lunge"]
+      },
+      {
+        "slug": "reverse-lunge",
+        "name": "Reverse Lunge",
+        "description": "The rear foot steps backward. Generally considered safer for the knee than the forward lunge.",
+        "example_exercises": ["Reverse Lunge", "Bulgarian Split Squat"]
+      },
+      {
+        "slug": "lateral-lunge",
+        "name": "Lateral Lunge",
+        "description": "The foot steps to the side, loading the adductors and inner thigh.",
+        "example_exercises": ["Lateral Lunge", "Cossack Squat"]
+      }
+    ],
+    "primary_muscles": ["quadriceps", "glutes", "hamstrings", "adductors"],
+    "antagonist_patterns": []
+  },
+  {
+    "pattern_id": "mp-0006-carry",
+    "slug": "carry",
+    "name": "Carry",
+    "description": "Movements in which a load is held and transported through space. Challenges grip strength, core stability, and postural endurance. Among the most functional movement patterns.",
+    "subtypes": [
+      {
+        "slug": "bilateral-carry",
+        "name": "Bilateral Carry (Farmer's Walk)",
+        "description": "A load is carried in both hands while walking.",
+        "example_exercises": ["Farmer's Walk", "Trap Bar Carry"]
+      },
+      {
+        "slug": "unilateral-carry",
+        "name": "Unilateral Carry (Suitcase Carry)",
+        "description": "A load is carried in one hand, challenging lateral core stability.",
+        "example_exercises": ["Suitcase Carry", "Single-Arm Kettlebell Carry"]
+      },
+      {
+        "slug": "overhead-carry",
+        "name": "Overhead Carry (Waiter's Walk)",
+        "description": "A load is carried overhead, training shoulder stability and thoracic extension.",
+        "example_exercises": ["Waiter's Walk", "Overhead Carry"]
+      }
+    ],
+    "primary_muscles": ["forearms", "trapezius", "abdominals", "obliques"],
+    "antagonist_patterns": []
+  },
+  {
+    "pattern_id": "mp-0007-rotation",
+    "slug": "rotation",
+    "name": "Rotation",
+    "description": "Movements involving rotation of the trunk around the spine's vertical axis. Trains the obliques, transverse abdominis, and hip rotators. Essential for throwing, swinging, and rotational athletic movements.",
+    "subtypes": [],
+    "primary_muscles": ["obliques", "abdominals"],
+    "antagonist_patterns": ["anti-rotation"]
+  },
+  {
+    "pattern_id": "mp-0008-anti-rotation",
+    "slug": "anti-rotation",
+    "name": "Anti-Rotation",
+    "description": "Isometric or slow movements in which the core resists a rotational force rather than producing rotation. Trains core stability and spinal protection. Often overlooked but important for injury resilience.",
+    "subtypes": [],
+    "primary_muscles": ["obliques", "abdominals", "erector-spinae"],
+    "antagonist_patterns": ["rotation"]
+  },
+  {
+    "pattern_id": "mp-0009-gait",
+    "slug": "gait",
+    "name": "Gait",
+    "description": "Locomotion-based movements including walking, running, skipping, and bounding. Trains the entire lower body and core in a coordinated, alternating pattern.",
+    "subtypes": [],
+    "primary_muscles": ["quadriceps", "hamstrings", "glutes", "calves"],
+    "antagonist_patterns": []
+  },
+  {
+    "pattern_id": "mp-0010-overhead",
+    "slug": "overhead",
+    "name": "Overhead",
+    "description": "Movements that involve raising or controlling a load with the arms elevated overhead. Places unique demands on shoulder mobility, rotator cuff stability, and thoracic extension.",
+    "subtypes": [],
+    "primary_muscles": ["shoulders", "trapezius", "triceps"],
+    "antagonist_patterns": []
+  },
+  {
+    "pattern_id": "mp-0011-bridge",
+    "slug": "bridge",
+    "name": "Bridge / Hip Thrust",
+    "description": "Supine movements in which the hips are extended upward against gravity from a lying or semi-reclined position. Primarily trains the glutes and hamstrings with the spine largely removed from load-bearing.",
+    "subtypes": [
+      {
+        "slug": "glute-bridge",
+        "name": "Glute Bridge",
+        "description": "Performed with both feet on the floor and shoulders on the ground.",
+        "example_exercises": ["Glute Bridge", "Banded Glute Bridge"]
+      },
+      {
+        "slug": "hip-thrust",
+        "name": "Hip Thrust",
+        "description": "Performed with the shoulders elevated on a bench, allowing a greater range of hip extension.",
+        "example_exercises": ["Barbell Hip Thrust", "Single-Leg Hip Thrust"]
+      }
+    ],
+    "primary_muscles": ["glutes", "hamstrings"],
+    "antagonist_patterns": []
+  },
+  {
+    "pattern_id": "mp-0012-plank",
+    "slug": "plank",
+    "name": "Plank / Isometric Core",
+    "description": "Exercises in which the body holds a fixed position, resisting the pull of gravity on the spine. Trains the core musculature isometrically for stability rather than movement.",
+    "subtypes": [
+      {
+        "slug": "anti-extension-plank",
+        "name": "Anti-Extension Plank",
+        "description": "Resisting spinal extension. The classic prone plank.",
+        "example_exercises": ["Plank", "Ab Wheel Rollout", "RKC Plank"]
+      },
+      {
+        "slug": "anti-lateral-flexion",
+        "name": "Anti-Lateral Flexion",
+        "description": "Resisting lateral bending of the spine.",
+        "example_exercises": ["Side Plank", "Pallof Press", "Suitcase Carry"]
+      }
+    ],
+    "primary_muscles": ["abdominals", "obliques", "erector-spinae"],
+    "antagonist_patterns": []
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "exercise_id": "sh010023-f3a2-4c1e-9b8d-7e6f5a4c3c04",
+  "slug": "seated-lateral-raise",
+  "name": "Seated Dumbbell Lateral Raise",
+  "alternative_names": ["Seated Side Raise", "Seated DB Lateral"],
+  "description": "The seated lateral raise is performed on a flat bench, eliminating any lower body momentum and forcing the medial deltoid to generate force without the assistance of a small body lean or leg drive. By removing these momentum contributors, the seated version isolates the lateral head of the deltoid more effectively than the standing lateral raise for many individuals. The strict position also makes it easier to control tempo and focus on the mind-muscle connection.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "lateral-raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit upright on a flat bench. Hold a dumbbell in each hand at the sides, arms hanging down with a slight bend in the elbows. Palms face the thighs.",
+    "setup_instructions": "Because momentum is eliminated, use lighter dumbbells than for standing lateral raises initially.",
+    "steps": [
+      "Step 1: Sit tall, dumbbells at sides, slight elbow bend.",
+      "Step 2: Raise both dumbbells simultaneously out to the sides in an arc.",
+      "Step 3: Raise until arms are parallel to the floor (or slightly above).",
+      "Step 4: Pause briefly at the top.",
+      "Step 5: Lower slowly under full control to the starting position."
+    ],
+    "breathing_instructions": "Exhale as you raise, inhale as you lower.",
+    "common_mistakes": [
+      "Using momentum — rocking the torso or bouncing the dumbbells",
+      "Raising the dumbbells in front rather than directly to the side",
+      "Shrugging the traps — keep the neck long"
+    ],
+    "safety_considerations": ["Keep the neck relaxed to avoid trap compensation"],
+    "range_of_motion_guidance": "Dumbbells start at thigh level, raise to shoulder height.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Pour from a pitcher at the top", "Lead with the elbows, not the hands", "No body movement — just arms"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "lateral-raise", "dumbbell", "isolation", "medial-deltoid"]
+  }
+}

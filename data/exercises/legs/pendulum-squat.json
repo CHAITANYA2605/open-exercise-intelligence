@@ -1,0 +1,70 @@
+{
+  "exercise_id": "a1b2c3d4-0009-4000-a000-100000000009",
+  "slug": "pendulum-squat",
+  "name": "Pendulum Squat Machine",
+  "alternative_names": ["Pendulum Squat"],
+  "description": "The pendulum squat machine places the lifter in an angled standing position on a swinging platform that moves in an arc rather than a straight vertical line. This pendulum arc naturally accommodates the body's mechanics during a squat, allowing a very upright torso and deep knee flexion. The machine is highly effective for quadriceps development with minimal lower back involvement.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000035-0000-4000-a000-000000000035"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Step onto the pendulum machine platform, position the shoulder pads over your traps, and stand upright. Feet shoulder-width apart.",
+    "setup_instructions": "Load the machine and step onto the platform. Lock the shoulder pads in place. Release the safety.",
+    "steps": [
+      "Step 1: Brace and begin bending the knees, allowing the platform to swing in its arc.",
+      "Step 2: Descend to full depth — the arc mechanics allow an extremely upright torso.",
+      "Step 3: Drive through the feet to extend the knees and return the platform to the starting position.",
+      "Step 4: Engage the safety at the end of the set."
+    ],
+    "breathing_instructions": "Inhale before the descent, exhale on the drive.",
+    "common_mistakes": ["Heels rising on the platform", "Insufficient depth"],
+    "safety_considerations": ["Engage safety handles after each set", "Start with light load to understand the arc movement"],
+    "range_of_motion_guidance": "Full depth — the machine accommodates it. Use the full arc.",
+    "tempo_recommendations": "3-0-1-0",
+    "coaching_cues": ["Let the machine arc guide you", "Full depth every rep", "Drive through the entire foot"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 90},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["machine", "squat", "quad-dominant"]
+  }
+}

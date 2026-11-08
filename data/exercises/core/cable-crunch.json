@@ -1,0 +1,115 @@
+{
+  "exercise_id": "f6a7b8c9-0007-4000-8006-000000000007",
+  "slug": "cable-crunch",
+  "name": "Cable Crunch",
+  "alternative_names": [
+    "Kneeling Cable Crunch",
+    "Weighted Crunch"
+  ],
+  "description": "The cable crunch is a weighted abdominal flexion exercise performed kneeling in front of a high cable pulley. The cable provides resistance throughout the full range of motion and allows progressive overload on the rectus abdominis, making it one of the most effective exercises for building abdominal strength and thickness.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "crunch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kneel in front of a high cable pulley with a rope attachment held at the sides of the head. Hips should start in a relatively upright position.",
+    "setup_instructions": "Set the pulley high. Grip the rope and hold it at the sides of the head \u2014 not at the neck. Kneel far enough back that the cable angle is comfortable.",
+    "steps": [
+      "Curl the torso downward and forward by flexing the spine, pulling the ribcage toward the pelvis.",
+      "Crunch down until maximum abdominal contraction is achieved.",
+      "Slowly return to the starting position, maintaining tension on the cable."
+    ],
+    "breathing_instructions": "Exhale forcefully as you crunch down. Inhale on the return.",
+    "common_mistakes": [
+      "Pulling with the arms instead of flexing the spine",
+      "Not focusing on spinal flexion \u2014 the hip hinge is not the goal",
+      "Standing up too much between reps, losing the working position"
+    ],
+    "safety_considerations": [
+      "Ensure the cable attachment is secure before kneeling"
+    ],
+    "range_of_motion_guidance": "Full spinal flexion at the bottom \u2014 the head comes toward the floor. Return to a tall kneeling position.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Think about curling your sternum toward your bellybutton",
+      "The movement is a spine curl \u2014 not a hip hinge"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "abs",
+      "cable",
+      "weighted",
+      "isolation"
+    ]
+  }
+}

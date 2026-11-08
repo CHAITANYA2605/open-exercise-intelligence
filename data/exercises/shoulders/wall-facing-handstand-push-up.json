@@ -1,0 +1,85 @@
+{
+  "exercise_id": "1935cd67-800f-43ae-b3f1-cc5a2878060f",
+  "slug": "wall-facing-handstand-push-up",
+  "name": "Wall-Facing Handstand Push-Up",
+  "alternative_names": ["Face-Wall HSPU", "Chest-to-Wall Handstand Push-Up"],
+  "description": "The wall-facing handstand push-up positions the chest toward the wall rather than the back, forcing the body into a truly vertical and hollow position. This variation eliminates the arch that commonly occurs in the back-to-wall version and requires more core control. It is used as a bridge to the freestanding HSPU and trains the same deltoid and triceps musculature with more demanding postural requirements.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Walk feet up the wall while facing it until the chest is close to the wall. Hands on the floor, chest touching or very close to the wall, body vertical.",
+    "setup_instructions": "Begin from a push-up position facing the wall. Walk the feet up while walking the hands closer. Find the vertical with the chest against the wall.",
+    "steps": [
+      "Step 1: Establish the chest-to-wall handstand position.",
+      "Step 2: Lower the head toward the floor slowly.",
+      "Step 3: Descend to full range — head touches the floor.",
+      "Step 4: Press back to full arm extension.",
+      "Step 5: Maintain chest contact or near-contact with the wall."
+    ],
+    "breathing_instructions": "Inhale descending. Exhale pressing.",
+    "common_mistakes": [
+      "Letting the hips pike away from the wall during the press",
+      "Losing the vertical body line and reverting to an arched position"
+    ],
+    "safety_considerations": [
+      "Have a mat under the head for protection",
+      "Prerequisites: comfortable back-to-wall HSPU for multiple reps"
+    ],
+    "range_of_motion_guidance": "Full arm extension to head on the floor.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Chest stays close to the wall",
+      "Body vertical — hollow position",
+      "Press all the way to lockout"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 2, "max_reps": 6 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 180 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "handstand", "wall-facing", "advanced", "overhead-press"]
+  }
+}

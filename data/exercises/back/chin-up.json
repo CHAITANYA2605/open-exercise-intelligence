@@ -1,0 +1,160 @@
+{
+  "exercise_id": "b2c3d4e5-0005-4000-8002-000000000005",
+  "slug": "chin-up",
+  "name": "Chin-Up",
+  "alternative_names": [
+    "Supinated Pull-Up"
+  ],
+  "description": "The chin-up is a vertical pulling bodyweight exercise performed with a supinated (underhand) grip. The supinated grip places the biceps in a mechanically advantageous position, increasing their contribution compared to the pull-up. The chin-up is often considered slightly easier for beginners and provides excellent simultaneous stimulation of the lats and biceps.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [
+    "eq000049-0000-4000-a000-000000000049"
+  ],
+  "execution": {
+    "starting_position": "Hang from a bar with a supinated (palms facing you) grip at shoulder width or slightly narrower. Arms fully extended, core lightly engaged.",
+    "setup_instructions": "Grip the bar underhand at shoulder width. The narrower grip and supinated wrist position is what distinguishes this from a pull-up.",
+    "steps": [
+      "Initiate the movement by depressing the shoulder blades.",
+      "Pull yourself up by driving the elbows down and toward your sides.",
+      "Continue until your chin is above the bar.",
+      "Lower under control until arms are fully extended."
+    ],
+    "breathing_instructions": "Exhale on the pull, inhale on the descent.",
+    "common_mistakes": [
+      "Using excessive momentum",
+      "Not reaching full extension at the bottom"
+    ],
+    "safety_considerations": [
+      "Avoid if experiencing acute biceps tendon pain",
+      "Fully extend at the bottom of each rep"
+    ],
+    "range_of_motion_guidance": "Full dead hang at bottom, chin above bar at top.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Pull the bar toward your chest rather than your chin toward the bar",
+      "Maintain proud posture \u2014 do not let the shoulders creep toward the ears"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "back",
+      "chin-up",
+      "bodyweight",
+      "biceps"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "exercise_id": "ed8780d4-40c4-433c-8b0e-3d7fe7c155dd",
+  "slug": "prone-incline-cobra-raise",
+  "name": "Prone Incline Cobra Raise",
+  "alternative_names": ["Incline Prone Cobra", "Incline Cobra Extension"],
+  "description": "The prone incline cobra raise is performed lying face-down on a low-incline bench (15-30 degrees), raising the arms overhead while simultaneously extending the thoracic spine and externally rotating the shoulders — forming a 'cobra' posture. It trains the lower trapezius, thoracic extensors, and posterior rotator cuff through a full range of controlled spinal and shoulder movement, commonly used in posture correction and shoulder rehabilitation protocols.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" },
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie prone on a low-incline bench (15-30 degrees). Arms hang down in front of the bench, thumbs facing up.",
+    "setup_instructions": "No load is needed initially — this is a bodyweight or very light dumbbell movement. Use a bench inclined just enough to allow the arms to hang freely.",
+    "steps": [
+      "Step 1: Begin with arms hanging, thumbs up.",
+      "Step 2: Simultaneously raise the arms overhead while extending the thoracic spine.",
+      "Step 3: At peak, externally rotate so thumbs point behind — 'cobra' position.",
+      "Step 4: Hold 2 seconds.",
+      "Step 5: Lower under control, returning to the starting hang."
+    ],
+    "breathing_instructions": "Exhale on the raise and extension. Inhale returning.",
+    "common_mistakes": [
+      "Extending from the lumbar spine rather than the thoracic spine",
+      "Not fully externally rotating the shoulders at the top"
+    ],
+    "safety_considerations": [
+      "Very light loads or bodyweight only — this is a postural and rehabilitative exercise",
+      "Avoid if experiencing thoracic or shoulder pain"
+    ],
+    "range_of_motion_guidance": "Arms hanging to full overhead position with thoracic extension and external rotation.",
+    "tempo_recommendations": "2-2-2-0",
+    "coaching_cues": [
+      "Lead with the chest — extend the thoracic spine, not the lumbar",
+      "Thumbs point to the ceiling at the top, then point behind you",
+      "Squeeze the shoulder blades together and down"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "rehabilitation", "min_reps": 10, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "rehabilitation", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "rehabilitation": 60 },
+    "training_goals": ["rehabilitation", "mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cobra", "posture", "rehabilitation", "lower-trap", "thoracic"]
+  }
+}

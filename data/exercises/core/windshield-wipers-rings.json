@@ -1,0 +1,123 @@
+{
+  "exercise_id": "ex-windshie-core-4000-a000-032504533181",
+  "slug": "windshield-wipers-rings",
+  "name": "Windshield Wipers on Rings",
+  "alternative_names": [],
+  "description": "Windshield wiper movements performed while hanging from gymnastic rings instead of a bar. The instability of the rings adds rotational challenge to the standard windshield wiper. The athlete must control both the core rotation and the ring stabilization simultaneously.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "expert",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000042-0000-4000-a000-000000000042"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Windshield Wipers on Rings in proper position.",
+    "setup_instructions": "Prepare body and equipment for Windshield Wipers on Rings.",
+    "steps": [
+      "Step 1: Hang from rings with legs raised to 90 degrees, arms straight.",
+      "Step 2: Rotate legs to one side, bringing feet toward the same-side ring.",
+      "Step 3: Pass through center and rotate to opposite side.",
+      "Step 4: Continue windshield wiper motion with control."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Swinging rather than rotating",
+      "Dropping hips during the rotation"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Control both rings throughout",
+      "Slower rotation means harder exercise"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

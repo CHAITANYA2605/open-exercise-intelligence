@@ -1,0 +1,76 @@
+{
+  "exercise_id": "a1b2c3d4-0001-4000-a000-100000000001",
+  "slug": "low-bar-squat",
+  "name": "Low-Bar Barbell Back Squat",
+  "alternative_names": ["Low Bar Squat", "Powerlifting Squat"],
+  "description": "The low-bar barbell back squat positions the bar across the rear deltoids and upper traps, lower than the high-bar position. This creates a more forward torso lean during the descent, recruiting the hips and glutes more prominently than a high-bar squat. It is the preferred squat variation in powerlifting due to the mechanical advantage it provides for heavier loads.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand inside a power rack with the bar resting across your rear deltoids and upper traps, below the spine of the scapula. Grip the bar slightly wider than shoulder width, feet shoulder-width or slightly wider with toes turned out 20-30 degrees.",
+    "setup_instructions": "Set the bar on the rack at upper-chest height. Duck under the bar and position it across your rear delts. Unrack by straightening the legs, step back two steps, and set your stance.",
+    "steps": [
+      "Step 1: Take a deep breath into your abdomen and brace your core fully (Valsalva maneuver).",
+      "Step 2: Initiate the descent by pushing the knees out and sitting the hips back and down simultaneously.",
+      "Step 3: Descend until the hip crease is at or below parallel to the knee, maintaining a forward torso lean.",
+      "Step 4: Drive through the entire foot, pushing the knees out, and extend the hips and knees together to return to standing."
+    ],
+    "breathing_instructions": "Inhale and brace before each rep. Exhale at the top after completing the repetition.",
+    "common_mistakes": ["Bar sliding up onto the neck instead of staying on the rear delts", "Knees caving inward during the ascent", "Raising the hips faster than the shoulders out of the hole", "Insufficient core bracing leading to lumbar rounding"],
+    "safety_considerations": ["Always use a power rack with safety bars set appropriately", "Develop adequate hip flexor and ankle mobility before attempting heavy loads", "Learn to bail the bar safely to the safeties if needed"],
+    "range_of_motion_guidance": "Hip crease must reach at least parallel with the top of the knee for a full squat. Powerlifting requires breaking parallel.",
+    "tempo_recommendations": "3-1-1-0 (3s down, 1s pause at bottom, 1s up, no pause at top)",
+    "coaching_cues": ["Bar on the shelf — rear delts make the shelf", "Push the floor away", "Knees out, chest up", "Drive the hips through at lockout"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10},
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 240, "hypertrophy": 120, "endurance": 60},
+    "training_goals": ["strength", "hypertrophy", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["powerlifting", "squat", "compound", "barbell"]
+  }
+}

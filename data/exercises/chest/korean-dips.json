@@ -1,0 +1,85 @@
+{
+  "exercise_id": "a1b2c3d4-0019-4000-a000-chest0000019",
+  "slug": "korean-dips",
+  "name": "Korean Dips / Behind-the-Back Dips",
+  "alternative_names": ["Behind-the-Back Dip", "Reverse Grip Dip", "Korean Push-Up"],
+  "description": "Korean dips are a highly specialized calisthenics exercise in which the hands grip a bar behind the body with the palms facing backward, and the lifter dips downward in front of the bar. This unusual positioning places tremendous stretch on the chest and anterior shoulder, requires significant shoulder flexibility, and targets the lower pectoral fibers in a range of motion not achievable in standard dips.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "dip",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000021-0000-4000-a000-000000000021"],
+  "equipment_optional": ["eq000042-0000-4000-a000-000000000042"],
+  "execution": {
+    "starting_position": "Sit on a low parallel bar or sturdy surface, gripping the bar behind the hips with palms facing back and fingers pointing away. Slide the hips off the bar in front, body hanging in front of the bar.",
+    "setup_instructions": "This exercise requires significant shoulder extension and external rotation flexibility. Begin by practicing shoulder bridge stretches and passive hangs before attempting Korean dips.",
+    "steps": [
+      "Step 1: Grip the bar behind the hips with palms facing backward, fingers forward.",
+      "Step 2: Extend the arms to lift the hips and hang the body in front of the bar.",
+      "Step 3: Slowly lower the body downward by bending the elbows, feeling the chest and shoulder stretch.",
+      "Step 4: Lower as far as shoulder flexibility comfortably allows.",
+      "Step 5: Press back up by extending the arms, returning to the starting position."
+    ],
+    "breathing_instructions": "Inhale as you lower. Exhale as you press back up.",
+    "common_mistakes": [
+      "Attempting this exercise without adequate shoulder flexibility",
+      "Lowering past the point of safe shoulder range of motion",
+      "Gripping too wide, increasing shoulder impingement risk"
+    ],
+    "safety_considerations": [
+      "This exercise is contraindicated with shoulder impingement or anterior instability",
+      "Build shoulder extension flexibility over weeks before attempting",
+      "Start with a very limited range of motion and progress slowly",
+      "Have a spotter on standby in case of shoulder cramping"
+    ],
+    "range_of_motion_guidance": "Lower only as far as shoulder flexibility allows without pain. Even a small range of motion provides training stimulus for this unique position.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": ["Warm up the shoulders extensively before this", "Feel the chest open as you lower", "Respect your flexibility — this is a long-term progression"]
+  },
+  "variants": {
+    "easier": ["chest-dip"],
+    "harder": ["ring-dips"],
+    "unilateral": [],
+    "bilateral": ["korean-dips"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "calisthenics", "flexibility", "advanced_bodyweight"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "bodyweight", "dips", "advanced", "calisthenics", "flexibility"]
+  }
+}

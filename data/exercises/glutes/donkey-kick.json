@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-0036-4000-a000-glut00000004",
+  "slug": "donkey-kick",
+  "name": "Donkey Kick",
+  "alternative_names": ["Quadruped Hip Extension", "All-Fours Kickback"],
+  "description": "The donkey kick is performed on all fours, kicking one leg backward and upward with the knee bent at 90° to extend the hip. The all-fours position allows the gluteus maximus to work through hip extension with the torso stabilized, isolating the glute from most other muscles. It is a beginner-friendly and low-impact exercise commonly used in rehabilitation, general fitness, and glute activation protocols. Resistance bands or ankle weights can add load.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "hip-thrust",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "execution": {
+    "starting_position": "Begin on hands and knees (quadruped position) with wrists under shoulders and knees under hips. Spine neutral.",
+    "setup_instructions": "No equipment required. A resistance band looped around both legs just above the knee adds progressive resistance.",
+    "steps": [
+      "Step 1: Begin on all fours with a neutral spine. Keep the core braced.",
+      "Step 2: Keeping the knee bent at 90°, raise one leg backward and upward by extending the hip.",
+      "Step 3: Drive the foot toward the ceiling until the thigh is parallel to the floor and the knee is fully extended at the hip (hip is extended, not hyperextended at the spine).",
+      "Step 4: Hold the peak position briefly and squeeze the glute.",
+      "Step 5: Lower the knee back to the starting position. Complete all reps, then switch legs."
+    ],
+    "breathing_instructions": "Exhale as you kick back. Inhale as you lower.",
+    "common_mistakes": [
+      "Rotating the hip open toward the ceiling — keep the pelvis level and facing down",
+      "Extending the lower back to increase range — the hip should extend, not the spine",
+      "Letting the core sag — the spine stays neutral throughout"
+    ],
+    "safety_considerations": [
+      "Wrist discomfort can be reduced by making fists or using push-up handles",
+      "Very low risk exercise suitable for beginners and those in rehabilitation"
+    ],
+    "range_of_motion_guidance": "Extend the hip until the thigh is parallel to the floor. No higher — additional range comes from lumbar extension, not hip extension.",
+    "tempo_recommendations": "1-1-2-0",
+    "coaching_cues": [
+      "Kick back and up — not just back",
+      "Keep the hip facing down — no rotation",
+      "Brace the core — no spine sagging"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["cable-kickback", "single-leg-hip-thrust"],
+    "unilateral": [],
+    "bilateral": ["barbell-hip-thrust"],
+    "equipment_alternatives": ["cable-kickback"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 45, "endurance": 30},
+    "training_goals": ["hypertrophy", "rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "isolation", "beginner", "rehab", "bodyweight"]
+  }
+}

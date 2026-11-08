@@ -1,0 +1,85 @@
+{
+  "exercise_id": "2ba6403a-91c9-46b7-9f7c-6b735eece763",
+  "slug": "handstand-push-up-wall",
+  "name": "Wall Handstand Push-Up",
+  "alternative_names": ["Wall HSPU", "Handstand Push-Up Against Wall"],
+  "description": "The wall handstand push-up is a vertical pressing calisthenics movement performed inverted with the feet supported against a wall. It loads the anterior and medial deltoids, triceps, and upper trapezius with the full bodyweight through a vertical pressing plane, making it one of the most demanding shoulder exercises achievable with no equipment beyond a wall. The wall provides balance support, allowing focus on pressing strength.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kick up to a handstand against a wall. Hands shoulder-width or slightly wider, fingers spread. Arms fully extended, body in a straight line.",
+    "setup_instructions": "Practice the kick-up and handstand hold before attempting pressing reps. Clear the area of obstacles. Use a gym mat for hand comfort.",
+    "steps": [
+      "Step 1: Kick up to a handstand with feet resting against the wall.",
+      "Step 2: Lower the head toward the floor by bending the elbows out to the sides.",
+      "Step 3: Touch or nearly touch the top of the head to the floor.",
+      "Step 4: Press back to fully extended arms.",
+      "Step 5: Maintain a tight core throughout — avoid banana-arching."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale on the press.",
+    "common_mistakes": [
+      "Flaring the elbows wide — keep them at ~45 degrees for shoulder safety",
+      "Excessive lumbar arch — maintain a hollow or neutral body position"
+    ],
+    "safety_considerations": [
+      "Prerequisites: 20+ standard push-ups, comfortable headstand or partial handstand",
+      "Have a spotter for initial attempts"
+    ],
+    "range_of_motion_guidance": "Full arm extension to head lightly touching the floor.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Press the floor away with your hands",
+      "Core tight — no banana back",
+      "Elbows slightly forward, not straight out to the side"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 3, "max_reps": 8 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 180 },
+    "training_goals": ["strength", "power"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "handstand", "overhead-press", "advanced", "bodyweight"]
+  }
+}

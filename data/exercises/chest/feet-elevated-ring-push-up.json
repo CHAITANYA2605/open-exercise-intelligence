@@ -1,0 +1,82 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e07",
+  "slug": "feet-elevated-ring-push-up",
+  "name": "Feet-Elevated Ring Push-Up",
+  "alternative_names": ["Ring Push-Up Decline", "Decline Ring Push-Up"],
+  "description": "A challenging combination of ring instability and decline body angle that shifts the loading emphasis toward the upper and clavicular portions of the pectoralis major. With feet elevated on a bench and hands in gymnastic rings, the athlete must simultaneously stabilize the unstable rings and generate pressing force, creating significant demands on the chest, anterior deltoid, and scapular stabilizers.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set rings at approximately knee height. Place feet on a sturdy bench behind you, hands in rings below your shoulders. Body forms a decline plank position with arms extended.",
+    "setup_instructions": "Secure rings at a consistent height. The elevation of the feet relative to hand height determines the degree of decline. Set rings close together (shoulder width) for more chest emphasis.",
+    "steps": [
+      "Step 1: Begin in the top position with arms extended, body forming a straight inclined plank from feet (elevated) to hands (rings below).",
+      "Step 2: Lower your chest toward the rings, allowing elbows to flare slightly while keeping rings stable.",
+      "Step 3: Descend until chest is level with or just below the rings.",
+      "Step 4: Press powerfully back to the starting position, squeezing the chest at the top."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on the press upward.",
+    "common_mistakes": [
+      "Letting the rings wobble uncontrollably — build ring stability before adding feet elevation",
+      "Pike hips to reduce difficulty, breaking the straight line",
+      "Flaring elbows excessively causing shoulder impingement"
+    ],
+    "safety_considerations": [
+      "Establish proficiency with flat ring push-ups before elevating feet",
+      "Ensure the bench is stable and will not slide when feet are placed on it"
+    ],
+    "range_of_motion_guidance": "Full range from arms extended to chest at ring level. Turn rings out slightly at top position (rings turn out or RTO) to increase pectoral contraction.",
+    "tempo_recommendations": "3-1-1-1 (3s descent, 1s pause at bottom, 1s press, 1s RTO hold)",
+    "coaching_cues": [
+      "Turn the rings out at the top — externally rotate wrists",
+      "Keep the body in one rigid plank — no sagging or piking"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 4, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "push-up", "decline", "upper-chest", "gymnastics"]
+  }
+}

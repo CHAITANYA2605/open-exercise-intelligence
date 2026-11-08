@@ -1,0 +1,119 @@
+{
+  "exercise_id": "ex-overhead--bar-4000-a000-583047814870",
+  "slug": "overhead-cable-straight-bar",
+  "name": "Overhead Cable Triceps Extension (Straight Bar)",
+  "alternative_names": [],
+  "description": "An overhead cable extension using a straight bar attached to a low pulley. The straight bar allows a pronated grip position that some lifters find creates better mind-muscle connection with the triceps. This is a classic bodybuilding exercise for the long head.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Overhead Cable Triceps Extension (Straight Bar) in the appropriate position.",
+    "setup_instructions": "Prepare equipment and body position for Overhead Cable Triceps Extension (Straight Bar).",
+    "steps": [
+      "Step 1: Attach straight bar to low pulley. Face away from cable holding bar overhead.",
+      "Step 2: Keep upper arms vertical with elbows by ears.",
+      "Step 3: Extend elbows to press bar overhead to full lockout.",
+      "Step 4: Lower bar slowly behind head to full stretch position."
+    ],
+    "breathing_instructions": "Exhale during the exertion phase, inhale during the return.",
+    "common_mistakes": [
+      "Dropping elbows forward",
+      "Moving upper arms"
+    ],
+    "safety_considerations": [
+      "Keep joints aligned throughout the movement.",
+      "Use controlled weight appropriate for skill level."
+    ],
+    "range_of_motion_guidance": "Move through full range of motion without compromising joint integrity.",
+    "tempo_recommendations": "2-0-2 for hypertrophy, controlled throughout.",
+    "coaching_cues": [
+      "Keep elbows by ears throughout",
+      "Full extension and stretch each rep"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

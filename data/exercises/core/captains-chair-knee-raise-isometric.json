@@ -1,0 +1,123 @@
+{
+  "exercise_id": "ex-captains-core-4000-a000-880176979896",
+  "slug": "captains-chair-knee-raise-isometric",
+  "name": "Captain's Chair Knee Raise with Isometric Hold",
+  "alternative_names": [],
+  "description": "A captain's chair knee raise where the knees are held at the top position isometrically before lowering. The isometric hold at peak hip flexion intensifies the hip flexor and lower abdominal challenge. This targets the lower rectus abdominis more effectively than standard raises.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Captain's Chair Knee Raise with Isometric Hold in proper position.",
+    "setup_instructions": "Prepare body and equipment for Captain's Chair Knee Raise with Isometric Hold.",
+    "steps": [
+      "Step 1: Position in captain's chair with forearms on pads.",
+      "Step 2: Raise knees to chest with hip flexion.",
+      "Step 3: Hold top position for 3-5 seconds with maximum compression.",
+      "Step 4: Lower slowly back to hanging position."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Using momentum to swing up",
+      "Dropping fast from the hold"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Compress hard at the top hold",
+      "Control the lower"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

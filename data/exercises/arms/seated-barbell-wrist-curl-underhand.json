@@ -1,0 +1,62 @@
+{
+  "exercise_id": "a1b2c3d4-0121-4000-a000-100000000121",
+  "slug": "seated-barbell-wrist-curl-underhand",
+  "name": "Seated Barbell Wrist Curl (Underhand / Flexion)",
+  "alternative_names": ["Seated Wrist Curl", "Wrist Flexion Barbell"],
+  "description": "The seated barbell wrist curl performed underhand (supinated grip) isolates the wrist flexor muscles on the inner forearm. The forearms rest on the thighs for support, and the wrists flex upward against the barbell's resistance. It is a foundational forearm isolation exercise for building wrist flexor strength and forearm girth, commonly programmed at the end of arm training days.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench. Rest forearms on the thighs, hands just past the knees, supinated grip on the barbell. Allow wrists to extend slightly at the bottom.",
+    "setup_instructions": "Use a light barbell or EZ-bar. Forearms fully supported on the thighs.",
+    "steps": [
+      "Step 1: Begin with wrists extended (bar hanging down in the supinated grip).",
+      "Step 2: Flex the wrists upward, curling the bar up with the wrist flexors.",
+      "Step 3: Hold briefly at full wrist flexion.",
+      "Step 4: Lower the bar back to the starting position."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on the return.",
+    "common_mistakes": ["Lifting forearms off the thighs — keep them braced", "Using elbow flexion instead of wrist flexion"],
+    "safety_considerations": ["Use light weight — excessive loading can strain the wrist flexor tendons"],
+    "range_of_motion_guidance": "Full wrist extension to full wrist flexion.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Forearms planted on the thighs", "Only the wrists flex and extend", "Feel the forearm pump"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearm", "wrist-flexors", "isolation"]
+  }
+}

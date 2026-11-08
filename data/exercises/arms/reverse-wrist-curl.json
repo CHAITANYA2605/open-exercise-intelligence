@@ -1,0 +1,78 @@
+{
+  "exercise_id": "b4c5d6e7-f8a9-4b0c-1d2e-f3a4b5c6d444",
+  "slug": "reverse-wrist-curl",
+  "name": "Reverse Wrist Curl",
+  "alternative_names": ["Palms-Down Wrist Curl", "Wrist Extension Curl"],
+  "description": "The reverse wrist curl is an isolation exercise for the wrist extensor muscles performed with the forearms resting on a surface and the palms facing downward. The wrists are extended upward against resistance, targeting the extensor carpi radialis and extensor carpi ulnaris. This muscle group is often undertrained compared to the wrist flexors, and strengthening it is important for balance, elbow joint health, and reducing the risk of lateral epicondylitis.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0004-4000-a000-000000000008", "muscle_slug": "extensor-carpi-radialis"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000015-0000-4000-a000-000000000015", "eq000003-0000-4000-a000-000000000003"],
+  "execution": {
+    "starting_position": "Sit on a bench. Rest forearms on the thighs or bench pad with the wrists hanging off the edge. Palms face downward (pronated). Hold a dumbbell or barbell with an overhand grip.",
+    "setup_instructions": "Use lighter weight than for wrist curls — the extensors are smaller muscles. Forearms fully supported, only wrists free to move.",
+    "steps": [
+      "Step 1: Forearms resting on a surface, palms facing downward, weight in hands. Allow the wrists to drop into full flexion.",
+      "Step 2: Exhale and extend the wrists, lifting the weight upward as far as possible.",
+      "Step 3: Hold the peak extension briefly.",
+      "Step 4: Inhale and slowly lower the wrists back to full flexion (drop)."
+    ],
+    "breathing_instructions": "Exhale on extension; inhale on lowering.",
+    "common_mistakes": [
+      "Using the same weight as for wrist curls — the extensors require significantly less load",
+      "Lifting the forearms off the support during the extension"
+    ],
+    "safety_considerations": [
+      "Keep loads conservative — the wrist extensors are injury-prone under heavy loads",
+      "If lateral elbow pain exists (tennis elbow), consult a clinician before loading this exercise"
+    ],
+    "range_of_motion_guidance": "Full wrist flexion drop at the bottom; maximum extension at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Palms down — only the wrists move upward",
+      "Light weight, full range — go through the complete drop to extension arc"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["forearm-roller"],
+    "unilateral": [],
+    "bilateral": ["wrist-curl"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 45, "endurance": 30},
+    "training_goals": ["hypertrophy", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearms", "wrist-extensors", "isolation", "dumbbell", "grip", "elbow-health"]
+  }
+}

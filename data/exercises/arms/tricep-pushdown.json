@@ -1,0 +1,123 @@
+{
+  "exercise_id": "e5f6a7b8-0006-4000-8005-000000000006",
+  "slug": "tricep-pushdown",
+  "name": "Tricep Pushdown",
+  "alternative_names": [
+    "Cable Tricep Pushdown",
+    "Rope Pushdown",
+    "Tricep Pressdown"
+  ],
+  "description": "The tricep pushdown is a cable isolation exercise for the triceps performed by pushing a rope or bar attachment downward from a high pulley. It trains all three heads of the triceps with the rope variation providing additional wrist pronation at the bottom that may improve medial and lateral head activation.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "pushdown",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000010-0000-4000-a000-000000000010"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing a high cable pulley holding a rope or bar attachment at chest height. Elbows tucked at the sides, upper arms stationary.",
+    "setup_instructions": "Set the pulley to the highest position. Use a rope for greater range of motion and contraction, or a straight bar for heavier loading.",
+    "steps": [
+      "Push the attachment downward by extending the elbows fully.",
+      "With a rope: rotate hands outward at the bottom for maximum tricep contraction.",
+      "Return under control to the starting position."
+    ],
+    "breathing_instructions": "Exhale on extension, inhale on the return.",
+    "common_mistakes": [
+      "Allowing the elbows to drift forward and away from the sides",
+      "Leaning forward excessively \u2014 maintain an upright torso"
+    ],
+    "safety_considerations": [],
+    "range_of_motion_guidance": "Full elbow extension at the bottom. Return to 90-degree elbow angle or slightly more at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Keep your elbows glued to your sides \u2014 only your forearms move",
+      "Spread the rope at the bottom for a full tricep squeeze"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "triceps",
+      "cable",
+      "isolation"
+    ]
+  }
+}

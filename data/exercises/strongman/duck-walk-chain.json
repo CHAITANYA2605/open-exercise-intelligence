@@ -1,0 +1,129 @@
+{
+  "exercise_id": "ex-duck-wal-smn-4000-a000-061710889594",
+  "slug": "duck-walk-chain",
+  "name": "Duck Walk with Chains",
+  "alternative_names": [],
+  "description": "A heavy squat walk performed with a loaded barbell in the low-bar or Zercher position, moving in a waddling gait pattern. Adding chains provides accommodating resistance. This develops leg drive and hip stability under constant load while moving forward.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "expert",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Duck Walk with Chains in proper strongman position.",
+    "setup_instructions": "Prepare all equipment and body position for Duck Walk with Chains.",
+    "steps": [
+      "Step 1: Load barbell with chains attached. Set bar in low-bar or Zercher position.",
+      "Step 2: Descend to below parallel squat position.",
+      "Step 3: Walk forward in waddle pattern maintaining squat depth.",
+      "Step 4: Continue for target distance before standing and racking."
+    ],
+    "breathing_instructions": "Brace core maximally before every lift. Breathe between reps if needed.",
+    "common_mistakes": [
+      "Rising out of squat position during walk",
+      "Narrow stance limiting mobility"
+    ],
+    "safety_considerations": [
+      "Use collars on all loaded barbells.",
+      "Ensure clear path for carries.",
+      "Have spotters for overhead movements."
+    ],
+    "range_of_motion_guidance": "Full range of motion specific to the implement being used.",
+    "tempo_recommendations": "Explosive concentric phase, controlled eccentric.",
+    "coaching_cues": [
+      "Stay deep throughout",
+      "Wide stance allows forward movement"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 3
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 240,
+      "power": 300
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

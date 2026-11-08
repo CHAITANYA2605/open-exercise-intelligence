@@ -1,0 +1,61 @@
+{
+  "exercise_id": "a1b2c3d4-0120-4000-a000-100000000120",
+  "slug": "seated-barbell-wrist-curl-overhand",
+  "name": "Seated Barbell Wrist Curl (Overhand / Extension)",
+  "alternative_names": ["Seated Reverse Wrist Curl", "Wrist Extension Barbell"],
+  "description": "The seated barbell wrist curl performed overhand (pronated grip) targets the wrist extensor muscles on the back of the forearm. The lifter sits at a bench with the forearms resting on the thighs, bar hanging in a pronated grip, and extends the wrists upward against resistance. This exercise balances the commonly trained wrist flexors and helps prevent wrist extensor weakness-related elbow pain.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0004-4000-a000-000000000008", "muscle_slug": "extensor-carpi-radialis"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench. Rest the forearms on the thighs, hands just past the knees, pronated grip on the barbell. Wrists hanging in flexion.",
+    "setup_instructions": "Use a very light weight — wrist extensors are small muscles. EZ-bar is a comfortable alternative.",
+    "steps": [
+      "Step 1: Begin with wrists in slight flexion, bar hanging in the pronated grip.",
+      "Step 2: Extend the wrists upward, raising the back of the hands toward the ceiling.",
+      "Step 3: Hold briefly at full extension.",
+      "Step 4: Lower the wrists back to the starting position with control."
+    ],
+    "breathing_instructions": "Exhale on extension, inhale on return.",
+    "common_mistakes": ["Using too much weight, causing the arms to lift off the thighs", "Wrist deviation rather than pure extension"],
+    "safety_considerations": ["Very small range of motion — do not load heavily"],
+    "range_of_motion_guidance": "Wrist neutral to full extension.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Forearms stay on the thighs", "Only the wrists move", "Control the descent"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearm", "wrist-extensors", "isolation"]
+  }
+}

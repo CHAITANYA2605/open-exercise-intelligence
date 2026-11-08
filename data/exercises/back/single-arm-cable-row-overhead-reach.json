@@ -1,0 +1,84 @@
+{
+  "exercise_id": "1ae82469-6653-4d5e-ac11-087f1a7d3a60",
+  "slug": "single-arm-cable-row-overhead-reach",
+  "name": "Single-Arm Cable Row with Overhead Reach",
+  "alternative_names": ["Cable Row Overhead Reach", "Single-Arm Row with Reach"],
+  "description": "The single-arm cable row with overhead reach adds a full overhead arm extension at the beginning of each rep, allowing the lat to be stretched into an overhead position before initiating the pull. This overhead starting position places the latissimus dorsi and teres major under greater stretch compared to a standard forward reach, potentially increasing their hypertrophy stimulus through lengthened-position loading.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit or stand at a low cable pulley. Grip the handle with one hand and reach the arm fully overhead, rotating the torso slightly toward the cable.",
+    "setup_instructions": "Use a single handle attachment. Set the pulley at a low position. Moderate weight — the overhead reach reduces the load you can use.",
+    "steps": [
+      "Step 1: Begin with arm extended overhead, feeling a full lat stretch.",
+      "Step 2: Pull the cable down and back toward the hip, driving the elbow down and in.",
+      "Step 3: At peak, hold 1 second with elbow behind the torso.",
+      "Step 4: Return by allowing the arm to extend overhead again.",
+      "Step 5: Complete all reps on one side before switching."
+    ],
+    "breathing_instructions": "Inhale at the overhead stretch position. Exhale on the pull.",
+    "common_mistakes": [
+      "Not actually reaching overhead — a half-reach limits the lat stretch benefit",
+      "Using too heavy a load — the overhead range demands reduced weight"
+    ],
+    "safety_considerations": [
+      "Avoid if shoulder mobility is limited — the overhead reach must be pain-free",
+      "Build shoulder flexibility before loading this variation"
+    ],
+    "range_of_motion_guidance": "Arm fully overhead in stretch to elbow behind torso at peak.",
+    "tempo_recommendations": "1-1-2-1 (with 1s stretch pause overhead)",
+    "coaching_cues": [
+      "Reach all the way overhead — feel the lat pull",
+      "Pull the elbow into your pocket",
+      "Pause and breathe at the top stretch"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy", "mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "row", "overhead", "lat-stretch", "unilateral"]
+  }
+}

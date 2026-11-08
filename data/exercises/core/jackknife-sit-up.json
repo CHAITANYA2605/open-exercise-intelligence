@@ -1,0 +1,64 @@
+{
+  "exercise_id": "co000042-0000-4000-a000-000000000042",
+  "slug": "jackknife-sit-up",
+  "name": "Jackknife Sit-Up — Swiss Ball",
+  "alternative_names": ["Swiss Ball Jackknife", "Stability Ball Jackknife Sit-Up"],
+  "description": "The Swiss ball jackknife sit-up combines simultaneous hip flexion and spinal flexion by having the athlete curl both the lower body (rolling the ball forward) and the upper body upward to meet in the middle in a folding or jackknife motion. The unstable surface of the Swiss ball challenges core stability throughout the movement, while the simultaneous recruitment of the upper and lower rectus abdominis creates a unique peak-contraction stimulus. The movement requires significant hip flexor and abdominal coordination.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "sit-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000046-0000-4000-a000-000000000046"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie back on the Swiss ball with the ball under the lower to mid-back, feet flat on the floor. Arms can be extended back overhead or crossed at the chest.",
+    "setup_instructions": "Ensure the Swiss ball is adequately inflated and placed on a non-slip surface. Use a size appropriate to your height.",
+    "steps": [
+      "Step 1: Begin draped over the ball, spine extended, arms overhead or at chest.",
+      "Step 2: Simultaneously curl the upper body upward (spinal flexion) while drawing the knees toward the chest by rolling the feet back.",
+      "Step 3: Both the upper and lower body converge at the top of the movement — the knees and chest meet over the top of the ball.",
+      "Step 4: Extend back out in a controlled manner, letting both the upper and lower body lower simultaneously.",
+      "Step 5: Return to full extension and repeat."
+    ],
+    "breathing_instructions": "Exhale on the jackknife. Inhale on the controlled extension.",
+    "common_mistakes": [
+      "Only performing the upper-body crunch without bringing the knees up",
+      "Losing balance on the ball — start with feet slightly wider for stability"
+    ],
+    "safety_considerations": ["Ensure the ball is on a non-slip surface and correctly sized"],
+    "range_of_motion_guidance": "Full extension draped over the ball to full jackknife with knees and chest meeting.",
+    "tempo_recommendations": "2-1-2-0. Fully controlled — the ball challenges coordination.",
+    "coaching_cues": ["Bring the knees and chest to meet each other", "Control both directions equally"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "abs", "swiss-ball", "jackknife", "advanced"]}
+}

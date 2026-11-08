@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/open-exercise-intelligence/oei/blob/main/schema/muscle.schema.json",
+  "title": "Muscle",
+  "description": "A muscle or muscle group entry in the OEI muscle taxonomy",
+  "type": "object",
+  "required": [
+    "muscle_id",
+    "slug",
+    "anatomical_name",
+    "common_name",
+    "anatomical_region",
+    "body_surface",
+    "entry_type"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "muscle_id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Stable, globally unique identifier for this muscle or muscle group."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "minLength": 2,
+      "maxLength": 100
+    },
+    "entry_type": {
+      "type": "string",
+      "enum": ["group", "muscle"],
+      "description": "Whether this entry represents a muscle group (e.g. Quadriceps) or an individual muscle."
+    },
+    "anatomical_name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 200,
+      "description": "The formal anatomical name."
+    },
+    "common_name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 200,
+      "description": "The commonly used name."
+    },
+    "parent_group_id": {
+      "type": ["string", "null"],
+      "description": "The muscle_id of the parent muscle group for individual muscles. Null for top-level groups."
+    },
+    "anatomical_region": {
+      "type": "string",
+      "enum": ["upper_body", "lower_body", "core", "full_body"],
+      "description": "Broad anatomical region."
+    },
+    "body_surface": {
+      "type": "string",
+      "enum": ["anterior", "posterior", "lateral", "medial", "anterior_posterior"],
+      "description": "Which body surface this muscle is primarily on."
+    },
+    "laterality": {
+      "type": "string",
+      "enum": ["bilateral", "left", "right"],
+      "default": "bilateral",
+      "description": "Whether this muscle exists on both sides of the body."
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the muscle's location and primary function."
+    },
+    "related_muscle_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "uniqueItems": true,
+      "description": "IDs of anatomically or functionally related muscles."
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "exercise_id": "a1b2c3d4-g016-4000-a000-000000000316",
+  "slug": "jump-rope",
+  "name": "Jump Rope",
+  "alternative_names": ["Skipping Rope", "Single-Under Jump Rope"],
+  "description": "Jump rope is a rhythmic cardiovascular and plyometric exercise in which a rope is swung overhead in a continuous arc as the athlete hops over it with both feet on each revolution. It simultaneously trains cardiovascular fitness, ankle and calf elasticity, timing, coordination, and foot speed, making it one of the most efficient conditioning tools available. Single-under jump rope — one revolution per jump — is the standard entry point before progressing to double-unders.",
+  "category": "cardio",
+  "exercise_type": "cardio",
+  "difficulty_level": "beginner",
+  "movement_pattern": "gait",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "jump-rope",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright holding one handle of the jump rope in each hand, rope behind the heels.",
+    "setup_instructions": "Use a rope long enough that it reaches the armpits when both handles are held together underfoot. Adequate overhead and frontal clearance needed.",
+    "steps": [
+      "Step 1: Hold one handle in each hand with elbows near the sides, rope behind the body.",
+      "Step 2: Swing the rope overhead using wrist rotation — not full arm swings.",
+      "Step 3: As the rope descends in front, hop off both feet with a small jump — just enough for the rope to pass underneath (2–3 cm clearance).",
+      "Step 4: Land softly on the balls of both feet with slightly bent knees.",
+      "Step 5: Continue the rhythm continuously for the prescribed duration or rep count."
+    ],
+    "breathing_instructions": "Breathe continuously at a rhythm matching your jump cadence.",
+    "common_mistakes": [
+      "Jumping too high — wastes energy and slows rhythm",
+      "Swinging the arms instead of using wrist rotation",
+      "Landing on the heels — should land on the balls of the feet"
+    ],
+    "safety_considerations": [
+      "High repetitive calf and Achilles demand — increase volume gradually.",
+      "Ensure the floor surface is not too hard (concrete) for extended sessions."
+    ],
+    "range_of_motion_guidance": "Minimal hop height — just enough rope clearance. Soft ball-of-foot landing.",
+    "tempo_recommendations": "Typically performed for time: 1–5 minute continuous intervals. Or for rep counts in circuits.",
+    "coaching_cues": [
+      "Wrist rotation — not arms",
+      "Small hops — stay light",
+      "Ball of foot landing — quiet and springy"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 50, "max_reps": 200}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 3, "max_sets": 10}
+    ],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cardio", "conditioning", "jump-rope", "calf", "coordination"]
+  }
+}

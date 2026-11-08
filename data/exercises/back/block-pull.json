@@ -1,0 +1,88 @@
+{
+  "exercise_id": "a8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+  "slug": "block-pull",
+  "name": "Block Pull",
+  "alternative_names": ["Deadlift from Blocks", "Elevated Deadlift"],
+  "description": "The block pull is similar to the rack pull but with the barbell resting on blocks or bumper plates rather than rack pins. This setup allows the bar to remain free-floating, more closely replicating full deadlift mechanics, while reducing the range of motion to overload a specific portion of the pull. Block pulls are commonly used in Olympic weightlifting and powerlifting to build strength in a specific phase of the deadlift without the bar being in a mechanically fixed position.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper" },
+      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
+      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Stack bumper plates or wooden blocks to the desired height (typically mid-shin to below-knee). Rest a loaded barbell on the blocks. Stand behind the bar as you would for a conventional deadlift.",
+    "setup_instructions": "Stack rubber bumper plates or wooden pulling blocks to the target height. Ensure the stacking surface is stable and will not tip. Load the barbell on top.",
+    "steps": [
+      "Step 1: Set up with feet hip-width apart, the bar over mid-foot. Grip the bar with a double overhand or mixed grip.",
+      "Step 2: Hinge to the bar, set the back with a neutral spine, and brace the core.",
+      "Step 3: Push the floor away and pull the bar in a straight vertical line.",
+      "Step 4: Lock out the hips fully at the top by driving the hips through.",
+      "Step 5: Lower the bar under control to the blocks, reset, and repeat."
+    ],
+    "breathing_instructions": "Inhale and brace before each rep. Exhale at lockout.",
+    "common_mistakes": [
+      "Letting the bar drift forward away from the body",
+      "Not resetting posture and brace between reps — each rep should be treated as a new lift",
+      "Hyperextending the lower back at lockout"
+    ],
+    "safety_considerations": [
+      "Ensure the block or plate stack is completely stable before loading",
+      "Block height should be chosen based on the specific sticking point being targeted"
+    ],
+    "range_of_motion_guidance": "From block height to full lockout. The partial ROM is intentional for overload purposes.",
+    "tempo_recommendations": "Controlled pull, locked top position (1–2s), controlled 2s lowering to blocks.",
+    "coaching_cues": [
+      "Drive the floor away with both feet equally",
+      "Bar stays in contact with the thighs all the way up",
+      "Hips and shoulders rise at the same rate"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 1, "max_reps": 5 },
+      { "goal": "hypertrophy", "min_reps": 5, "max_reps": 8 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 4, "max_sets": 6 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 240, "hypertrophy": 150 },
+    "training_goals": ["strength", "power"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "deadlift", "blocks", "partial", "strength"]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50009",
+  "slug": "seated-calf-raise-toes-out",
+  "name": "Seated Calf Raise — Toes Angled Out",
+  "alternative_names": ["Duck-Footed Seated Calf Raise"],
+  "description": "A seated calf raise performed with the toes angled outward (duck-footed position), which shifts the emphasis toward the inner gastrocnemius medial head and the medial soleus fibers. Because the seat position keeps the knee bent, the soleus is the primary target regardless of foot angle, but the medial toe-out position creates a slight internal bias in calf muscle fiber recruitment. Used in rehabilitation programs addressing medial calf weakness or asymmetry.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "secondary": [{"muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral"}],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench with feet flat, toes turned outward approximately 15-30 degrees. Rest a dumbbell or plate on each thigh or use a seated calf raise machine.",
+    "setup_instructions": "Position the balls of the feet on the edge of a step or plate for full range of motion. Keep the knee angle at approximately 90 degrees throughout.",
+    "steps": [
+      "Step 1: Sit tall with toes externally rotated and feet positioned for full range.",
+      "Step 2: Lower the heels to achieve a full calf stretch at the bottom.",
+      "Step 3: Press up through the balls of the feet to full plantarflexion, emphasizing the inner calf.",
+      "Step 4: Lower slowly under control. Repeat."
+    ],
+    "breathing_instructions": "Exhale as you rise onto toes. Inhale as you lower.",
+    "common_mistakes": ["Partial range of motion — not achieving full stretch or contraction", "Using momentum by bouncing at the bottom", "Rotating the entire lower limb rather than just pointing the toes outward"],
+    "safety_considerations": ["Avoid if you have medial knee discomfort with toe-out position", "Consult a physiotherapist for use in specific Achilles or calf injury rehabilitation"],
+    "range_of_motion_guidance": "Full range from maximal dorsiflexion to full plantarflexion. Quality over speed.",
+    "tempo_recommendations": "2-1-2-1 (2s lower, 1s stretch, 2s rise, 1s squeeze at top)",
+    "coaching_cues": ["Feel the inner calf activate at the top of the movement", "Control the lowering phase — do not let gravity drop the heel", "Maintain the same knee angle throughout"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25},
+      {"goal": "mobility", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 45, "mobility": 60},
+    "training_goals": ["mobility", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calves", "rehabilitation", "soleus", "ankle"]
+  }
+}

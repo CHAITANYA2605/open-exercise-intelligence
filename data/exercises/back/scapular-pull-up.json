@@ -1,0 +1,85 @@
+{
+  "exercise_id": "b19b3144-fc5c-441d-8d94-d63991aa47d5",
+  "slug": "scapular-pull-up",
+  "name": "Scapular Pull-Up",
+  "alternative_names": ["Scapular Depression Pull-Up", "Scap Pull"],
+  "description": "The scapular pull-up is an isolation drill performed at the top of a dead hang, where the shoulder blades are actively depressed and retracted without bending the elbows. It trains the serratus anterior, lower trapezius, and latissimus dorsi to control scapular positioning — a foundational movement for shoulder health and progression to full pull-ups.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000006-0000-4000-a000-000000000006"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hang from a pull-up bar with a shoulder-width overhand grip. Arms fully extended, body relaxed in a dead hang.",
+    "setup_instructions": "Use a bar at a height that allows full arm extension with feet off the floor. Adjust grip width to shoulder width.",
+    "steps": [
+      "Step 1: Begin in a dead hang with arms fully extended.",
+      "Step 2: Without bending the elbows, actively depress and retract the shoulder blades, elevating the body 2-5 cm.",
+      "Step 3: Hold the depressed position for 1-2 seconds, feeling the lats engage.",
+      "Step 4: Slowly allow the shoulder blades to elevate back to the resting dead-hang position.",
+      "Step 5: Repeat for the desired number of repetitions."
+    ],
+    "breathing_instructions": "Exhale as you depress the scapulae. Inhale as you return to the dead hang.",
+    "common_mistakes": [
+      "Bending the elbows — this becomes a partial pull-up rather than a scapular drill",
+      "Shrugging the traps upward instead of depressing downward",
+      "Moving too quickly — the drill is about motor control, not speed"
+    ],
+    "safety_considerations": [
+      "Avoid this exercise with active rotator cuff or labral injuries until cleared by a clinician",
+      "Warm up wrists and shoulders before hanging"
+    ],
+    "range_of_motion_guidance": "Shoulder blades travel from fully elevated dead hang to maximally depressed and retracted — typically 2-5 cm of body elevation.",
+    "tempo_recommendations": "1-2-1-0 (1s up, 2s hold, 1s down)",
+    "coaching_cues": [
+      "Think 'put your shoulder blades in your back pockets'",
+      "Squeeze the lats without bending the arms",
+      "Chest stays open throughout"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 8, "max_reps": 15 },
+      { "goal": "rehabilitation", "min_reps": 10, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 60, "rehabilitation": 60 },
+    "training_goals": ["strength", "rehabilitation", "mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["scapular", "pull-up", "calisthenics", "shoulder-health"]
+  }
+}

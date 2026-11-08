@@ -1,0 +1,123 @@
+{
+  "exercise_id": "ex-hanging--core-4000-a000-437790646965",
+  "slug": "hanging-windshield-wipers-weighted",
+  "name": "Hanging Windshield Wipers Weighted",
+  "alternative_names": [],
+  "description": "Windshield wiper movements performed with ankle weights or a medicine ball held between the feet. The added weight dramatically increases the oblique and hip flexor demands. This advanced variation builds toward the elite level of rotational core strength needed for gymnastics.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "advanced",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Hanging Windshield Wipers Weighted in proper position.",
+    "setup_instructions": "Prepare body and equipment for Hanging Windshield Wipers Weighted.",
+    "steps": [
+      "Step 1: Hang from bar with medicine ball squeezed between feet, legs at 90 degrees.",
+      "Step 2: Rotate legs to one side maintaining ball between feet.",
+      "Step 3: Pass through center and rotate to the opposite side.",
+      "Step 4: Control speed of rotation throughout."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Dropping the ball",
+      "Using momentum rather than muscular control"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Squeeze ball tightly throughout",
+      "Slower is harder"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

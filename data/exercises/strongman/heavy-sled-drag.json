@@ -1,0 +1,88 @@
+{
+  "exercise_id": "sm000011-0000-4000-a000-000000000011",
+  "slug": "heavy-sled-drag",
+  "name": "Heavy Sled Backward Drag",
+  "alternative_names": ["Reverse Sled Drag", "Sled Backward Pull", "Sled Hamstring Drag"],
+  "description": "The backward sled drag involves attaching a harness or straps to a loaded sled and walking backward, pulling the sled along behind. The backward walking motion activates the hamstrings and quadriceps in an unusual anti-gravity pattern and places high demand on the knee extensors throughout the entire range, making it an excellent rehabilitation tool for knee health and an effective conditioning tool for the posterior chain. Unlike forward sled pushing, the backward drag emphasises the hamstrings and gluteus maximus and is particularly effective for VMO (vastus medialis oblique) strengthening.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "sled",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a pulling harness around the waist or hold the strap handles. Stand facing away from the loaded sled with the straps taut. Take an athletic stance.",
+    "setup_instructions": "Attach the sled harness securely. Ensure there is slack-free connection between the harness and the sled. The sled can also be dragged holding straps in both hands at hip height.",
+    "steps": [
+      "Step 1: Face away from the sled with straps taut. Stand tall with a slight forward lean at the hips.",
+      "Step 2: Drive the rear foot into the ground and step backward, taking a full backward step.",
+      "Step 3: Continue walking backward with alternating steps, keeping tension in the straps throughout. Do not allow the straps to go slack.",
+      "Step 4: Maintain an upright posture and consistent pull tension. Look over the shoulder periodically to check the path.",
+      "Step 5: At the end of the distance, slow and stop. Turn and re-position for the next set."
+    ],
+    "breathing_instructions": "Breathe regularly throughout the drag. Short, rhythmic breathing with each backward step.",
+    "common_mistakes": [
+      "Allowing the straps to go slack between steps — this loses the continuous tension that makes the exercise effective",
+      "Walking with very short shuffle steps — full backward strides produce more hip and hamstring demand",
+      "Looking down rather than forward/backward, which disrupts posture and balance"
+    ],
+    "safety_considerations": [
+      "Glance over the shoulder regularly to check for obstacles in the backward path",
+      "Use this exercise on a clear, flat surface"
+    ],
+    "range_of_motion_guidance": "Walk 20–40 metres per set. Full stride length backward. Continuous strap tension.",
+    "tempo_recommendations": "Rehabilitation/prehab: light load, 30–40m × 4–6 sets with 60 seconds rest. Conditioning: moderate load, 20m × 6–8 sets with 60–90 seconds rest.",
+    "coaching_cues": [
+      "Keep the straps taut at all times",
+      "Take big backward strides",
+      "Squeeze the glutes and hamstrings with every step"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 3, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 4, "max_sets": 8}
+    ],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["strongman", "sled", "hamstrings", "no-eccentric", "rehabilitation"]
+  }
+}

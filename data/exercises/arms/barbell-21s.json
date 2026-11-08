@@ -1,0 +1,126 @@
+{
+  "exercise_id": "381fa86d-fd73-43f1-852f-9548b9933dae",
+  "slug": "barbell-21s",
+  "name": "Barbell 21s",
+  "alternative_names": [
+    "21s Protocol",
+    "Curl 21s"
+  ],
+  "description": "A barbell curl protocol using 21 total repetitions split into three segments: 7 reps from the bottom to the midpoint, 7 reps from the midpoint to the top, and 7 full-range reps. Each segment targets a different portion of the strength curve and produces significant metabolic stress in the biceps.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      },
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000003-0000-4000-a000-000000000003",
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "execution": {
+    "starting_position": "Stand holding a barbell with an underhand grip, arms fully extended.",
+    "setup_instructions": "Select a weight approximately 60-70% of your normal curl working weight. Stand tall with the bar hanging in front.",
+    "steps": [
+      "Step 1 (reps 1-7): Curl from full extension to the midpoint only (forearms parallel to floor). Lower back down and repeat 7 times.",
+      "Step 2 (reps 8-14): Start from the midpoint and curl to full contraction at the top. Lower back to midpoint and repeat 7 times.",
+      "Step 3 (reps 15-21): Perform 7 full-range curls from full extension to full contraction."
+    ],
+    "breathing_instructions": "Breathe rhythmically throughout each segment. Exhale on the curl, inhale on the lower.",
+    "common_mistakes": [
+      "Using too heavy a weight \u2014 the third segment of full reps becomes impossible",
+      "Resting between segments"
+    ],
+    "safety_considerations": [
+      "All 21 reps are performed without putting the bar down"
+    ],
+    "range_of_motion_guidance": "Partial ranges in segments 1 and 2, full range in segment 3.",
+    "tempo_recommendations": "2-0-2-0 for each rep",
+    "coaching_cues": [
+      "No rest between segments",
+      "Feel the pump build through each set"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "biceps",
+      "21s",
+      "protocol",
+      "bodybuilding"
+    ]
+  }
+}

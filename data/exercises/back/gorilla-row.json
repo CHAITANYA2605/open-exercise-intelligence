@@ -1,0 +1,79 @@
+{
+  "exercise_id": "ba010020-f3a2-4c1e-9b8d-7e6f5a4c3b43",
+  "slug": "gorilla-row",
+  "name": "Gorilla Row — Alternating Kettlebell",
+  "alternative_names": ["Alternating Kettlebell Row", "Kettlebell Gorilla Row"],
+  "description": "The gorilla row is performed with two kettlebells on the floor in a hip-hinge position, alternating rows with each arm while the other holds the kettlebell stationary on the floor. The alternating action requires significant anti-rotation core stability, as the shifting load constantly challenges the obliques. The ground-based starting position adds a natural dead-stop at each repetition, eliminating momentum between reps.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place two matching kettlebells on the floor, positioned shoulder-width apart. Stand between them and hinge at the hips to approximately parallel. Grip both kettlebells while maintaining a neutral spine.",
+    "setup_instructions": "Use matching kettlebells. The hip hinge position must be maintained throughout the entire set.",
+    "steps": [
+      "Step 1: Hinge to roughly parallel, gripping both kettlebells on the floor.",
+      "Step 2: Brace the core hard against the anti-rotation demand.",
+      "Step 3: Row one kettlebell to the hip while the other stays on the floor.",
+      "Step 4: Return the rowed kettlebell to the floor under control.",
+      "Step 5: Immediately row the other side. Continue alternating."
+    ],
+    "breathing_instructions": "Exhale on each row, maintain bracing between alternating reps.",
+    "common_mistakes": [
+      "Rotating the hips when switching arms — maintain square hips",
+      "Letting the stationary kettlebell move on the floor",
+      "Rising out of the hip hinge during the set"
+    ],
+    "safety_considerations": [
+      "The hip hinge must be maintained for the duration — fatigue causing the torso to rise places greater lumbar load",
+      "Ensure kettlebells will not tip — use flat-bottomed kettlebells on a flat surface"
+    ],
+    "range_of_motion_guidance": "Kettlebell returns to floor between each rep, pulled to hip level at the top.",
+    "tempo_recommendations": "2-0-2-0 per side",
+    "coaching_cues": ["Hips stay square — no rotating", "Dead stop each rep on the floor", "Brace your core like you're taking a punch"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 6, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "row", "kettlebell", "anti-rotation", "alternating"]
+  }
+}

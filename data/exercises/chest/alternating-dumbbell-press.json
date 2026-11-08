@@ -1,0 +1,78 @@
+{
+  "exercise_id": "c5d6e7f8-a9b0-4123-c456-d78e90f12345",
+  "slug": "alternating-dumbbell-press",
+  "name": "Alternating Dumbbell Flat Bench Press",
+  "alternative_names": ["Alternating Bench Press"],
+  "description": "The Alternating Dumbbell Press is performed on a flat bench with one arm pressing while the other holds the dumbbell in a fixed position near the chest. The asymmetrical loading creates a significant anti-rotation demand on the core and obliques while one side presses. This variation also allows greater focus on each arm independently and can reveal strength imbalances between sides.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench holding a dumbbell in each hand at chest level with a neutral or pronated grip.",
+    "setup_instructions": "Start with both dumbbells at chest level. Begin with the non-dominant arm pressing first to identify any strength asymmetry.",
+    "steps": [
+      "Step 1: Press one dumbbell up to lockout while keeping the other stationary at chest level.",
+      "Step 2: Lower the pressing arm back to the chest.",
+      "Step 3: Press the other arm while the first holds at chest level.",
+      "Step 4: Continue alternating for the prescribed reps per side."
+    ],
+    "breathing_instructions": "Exhale as each arm presses. Inhale as it returns to the chest.",
+    "common_mistakes": [
+      "Letting the resting arm drift away from the body",
+      "Rotating the torso toward the pressing arm"
+    ],
+    "safety_considerations": [
+      "Keep the non-pressing arm safely resting at chest — do not let it fall to the side",
+      "Start with a lighter load than your standard dumbbell press"
+    ],
+    "range_of_motion_guidance": "Full extension of pressing arm. Non-pressing arm held at 90 degrees of elbow flexion at chest level.",
+    "tempo_recommendations": "2-1-2-0 per arm",
+    "coaching_cues": [
+      "Fight the rotation — your torso stays still",
+      "The resting arm is working too — keep it controlled"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["anti-rotation", "unilateral", "core-stability"]
+  }
+}

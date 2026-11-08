@@ -1,0 +1,88 @@
+{
+  "exercise_id": "a1b2c3d4-g003-4000-a000-000000000303",
+  "slug": "broad-jump",
+  "name": "Broad Jump",
+  "alternative_names": ["Standing Long Jump", "Horizontal Jump"],
+  "description": "The broad jump is a horizontal plyometric exercise in which the athlete uses an explosive two-legged takeoff to cover maximum horizontal distance. Unlike the vertical box jump, the broad jump trains the ability to project force at an angle, which closely mirrors the acceleration mechanics of sprinting and many field sport movements. It is used as both a training exercise and a standard assessment of lower body explosive power in sport science settings.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "jump",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart behind a takeoff line. Arms extended down at the sides.",
+    "setup_instructions": "Use a flat, non-slip surface with enough landing space. Mark the takeoff point.",
+    "steps": [
+      "Step 1: Stand at the takeoff line, feet shoulder-width apart.",
+      "Step 2: Swing the arms back and sink into a quarter to half squat simultaneously.",
+      "Step 3: Drive the arms forward and upward explosively while extending the hips, knees, and ankles to project the body forward and slightly upward.",
+      "Step 4: Extend the legs forward during flight to maximize distance.",
+      "Step 5: Land with both feet simultaneously, absorbing the impact by bending the hips, knees, and ankles. Maintain balance on landing."
+    ],
+    "breathing_instructions": "Exhale sharply at takeoff. Breathe freely during rest.",
+    "common_mistakes": [
+      "Taking off at too steep an angle (too vertical) — optimal projection is approximately 45 degrees",
+      "Not fully extending at takeoff — a partial extension leaves horizontal power on the table",
+      "Landing with stiff legs — this increases injury risk"
+    ],
+    "safety_considerations": [
+      "Ensure the landing zone is clear and has adequate floor space.",
+      "Avoid on slippery surfaces."
+    ],
+    "range_of_motion_guidance": "Full extension at takeoff. Legs reach forward during flight. Soft, two-foot landing.",
+    "tempo_recommendations": "Maximum effort on each rep. 3–5 reps per set, full rest between sets.",
+    "coaching_cues": [
+      "Reach with the arms — swing them hard forward",
+      "Extend fully at takeoff — hips, knees, ankles",
+      "Reach the feet forward in flight"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 3, "max_reps": 6}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"power": 120},
+    "training_goals": ["power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "power", "horizontal-power", "sport", "assessment"]
+  }
+}

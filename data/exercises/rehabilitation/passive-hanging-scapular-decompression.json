@@ -1,0 +1,67 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50020",
+  "slug": "passive-hanging-scapular-decompression",
+  "name": "Passive Hanging — Scapular Decompression",
+  "alternative_names": ["Dead Hang", "Passive Bar Hang"],
+  "description": "Passive hanging involves gripping an overhead bar and allowing the bodyweight to fully decompress the shoulder girdle and spinal column. Unlike active hanging (where the scapulae are actively depressed), passive hanging allows the shoulder blades to elevate fully under the body's weight. This creates traction through the shoulder joint, stretches the latissimus dorsi and teres major, and gently decompresses the intervertebral discs of the thoracic and lumbar spine. Regular passive hanging is used in spinal decompression and shoulder mobility rehabilitation.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
+  "equipment_optional": ["eq000019-0000-4000-a000-000000000019", "eq000020-0000-4000-a000-000000000020"],
+  "execution": {
+    "starting_position": "Grip an overhead pull-up bar or gymnastics rings with both hands shoulder-width apart. Use an overhand or mixed grip. Begin with feet off the floor if possible, or allow a slight bend in the knees if the bar is low.",
+    "setup_instructions": "Ensure the bar or hanging point is structurally sound and can support the full bodyweight. Use chalk or straps if grip strength is a limiting factor rather than the therapeutic goal.",
+    "steps": [
+      "Step 1: Grip the bar and allow the body to hang freely, letting the shoulder blades rise and the weight fully load through the grip.",
+      "Step 2: Breathe deeply throughout the hang, allowing the chest and thoracic spine to expand and release on each exhale.",
+      "Step 3: Hold the passive hang for the target duration — beginning at 10-15 seconds and progressively increasing to 60+ seconds.",
+      "Step 4: Lower to the floor or step down from the hang under control. Rest and repeat."
+    ],
+    "breathing_instructions": "Deep, slow breathing throughout. Exhale completely to allow the thoracic cage to relax and decompress with each breath.",
+    "common_mistakes": ["Actively depressing the scapulae during what should be a passive hang — allow the shoulder blades to rise naturally", "Gripping so tightly that the forearm tension prevents shoulder relaxation", "Hanging for too long initially — build duration progressively to avoid elbow flexor soreness"],
+    "safety_considerations": ["If you have a diagnosed shoulder subluxation or instability, check with a physiotherapist before passive hanging", "Avoid if wrist or elbow pain occurs during the hang", "Build hang duration gradually — beginning at 10-15 seconds and working toward 60 seconds over several weeks"],
+    "range_of_motion_guidance": "Full passive elevation of the scapulae is the target. The body should feel fully decompressed and elongated.",
+    "tempo_recommendations": "Hold for 15-60 seconds per set. Build duration progressively over weeks.",
+    "coaching_cues": ["Let the shoulders rise — this is passive, not a lat pulldown", "Breathe into the chest and feel the spine lengthen with each exhale", "Relax the hands as much as possible while still maintaining grip"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 1, "max_reps": 5},
+      {"goal": "mobility", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"endurance": 60, "mobility": 60},
+    "training_goals": ["mobility", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulder", "spinal-decompression", "rehabilitation", "hanging", "mobility"]
+  }
+}

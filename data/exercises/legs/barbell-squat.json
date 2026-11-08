@@ -1,0 +1,173 @@
+{
+  "exercise_id": "d4e5f6a7-0001-4000-8004-000000000001",
+  "slug": "barbell-squat",
+  "name": "Barbell Back Squat",
+  "alternative_names": [
+    "Back Squat",
+    "High-Bar Squat",
+    "Low-Bar Squat"
+  ],
+  "description": "The barbell back squat is the foundational lower body compound movement, in which a barbell rests on the upper back while the lifter descends into a full squat and returns to standing. It is unparalleled for developing quadriceps, glute, and hamstring strength and size, and also demands significant erector spinae and core stability.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart or slightly wider, toes pointing outward 15\u201330 degrees. The barbell rests on the upper traps (high-bar) or rear delts (low-bar). Unrack from a rack with arms firmly bracing the bar.",
+    "setup_instructions": "Set the safety bars just below your squat depth in the rack. Position the bar on your upper back and grip firmly. Take a step back with both feet into your squat stance.",
+    "steps": [
+      "Take a deep breath and brace the core hard with an intra-abdominal pressure brace.",
+      "Initiate the descent by pushing the knees outward in the direction of the toes while hinging the hips back and down.",
+      "Descend until the hips are at or below the top of the knees (parallel or deeper).",
+      "Drive through the whole foot \u2014 especially the mid-foot and heel \u2014 to stand back up.",
+      "Lock out the hips and knees fully at the top without hyperextending."
+    ],
+    "breathing_instructions": "Breathe in and brace before descent. Hold the brace through the bottom. Exhale at the top.",
+    "common_mistakes": [
+      "Knees caving inward (valgus collapse) \u2014 cue knees out",
+      "Excessive forward lean from poor ankle mobility or bar position",
+      "Rounding the lower back at the bottom of the squat",
+      "Not reaching parallel depth"
+    ],
+    "safety_considerations": [
+      "Always use safety bars in a rack when squatting without a spotter",
+      "Learn the goblet squat and bodyweight squat before loading a barbell"
+    ],
+    "range_of_motion_guidance": "Hip crease below the top of the knee at minimum (parallel). Greater depth is generally better for glute and hamstring development when mobility allows.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Spread the floor with your feet \u2014 push out with knees",
+      "Big chest \u2014 keep the torso as upright as your bar position allows",
+      "Drive through the floor, not just the toes"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "squat",
+      "barbell",
+      "compound"
+    ]
+  }
+}

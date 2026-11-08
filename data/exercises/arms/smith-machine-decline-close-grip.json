@@ -1,0 +1,124 @@
+{
+  "exercise_id": "ex-smith-ma-grip-4000-a000-517360353384",
+  "slug": "smith-machine-decline-close-grip",
+  "name": "Smith Machine Decline Close-Grip Press",
+  "alternative_names": [],
+  "description": "A close-grip press on a decline bench in the Smith machine combining locked bar path with decline angle for triceps emphasis. The Smith provides safety when training heavy decline presses without a spotter. The fixed path lets full attention go to triceps contraction.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000006-0000-4000-a000-000000000006",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Smith Machine Decline Close-Grip Press in the appropriate position.",
+    "setup_instructions": "Prepare equipment and body position for Smith Machine Decline Close-Grip Press.",
+    "steps": [
+      "Step 1: Position decline bench under Smith bar. Set close grip on bar.",
+      "Step 2: Unhook bar and lower to lower chest with elbows tucked.",
+      "Step 3: Keep elbows close to torso throughout descent.",
+      "Step 4: Press bar back to lockout fully extending triceps."
+    ],
+    "breathing_instructions": "Exhale during the exertion phase, inhale during the return.",
+    "common_mistakes": [
+      "Gripping too close causing wrist pain",
+      "Wide elbow position"
+    ],
+    "safety_considerations": [
+      "Keep joints aligned throughout the movement.",
+      "Use controlled weight appropriate for skill level."
+    ],
+    "range_of_motion_guidance": "Move through full range of motion without compromising joint integrity.",
+    "tempo_recommendations": "2-0-2 for hypertrophy, controlled throughout.",
+    "coaching_cues": [
+      "Track elbows close to ribs",
+      "Full lockout at top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

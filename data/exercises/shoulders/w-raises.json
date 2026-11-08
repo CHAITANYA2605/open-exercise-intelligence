@@ -1,0 +1,80 @@
+{
+  "exercise_id": "c1d2e3f4-a5b6-4c7d-8e9f-a0b1c2d3e421",
+  "slug": "w-raises",
+  "name": "W-Raises",
+  "alternative_names": ["W Exercise", "Prone W"],
+  "description": "W-raises are a prone shoulder rehabilitation and strengthening exercise where the arms form a W shape at the top of the movement. Lying face down or bent over, the lifter externally rotates and raises the arms to replicate the shape of the letter W. This movement specifically targets the posterior deltoid, infraspinatus, and middle trapezius, making it valuable for rotator cuff health and postural correction.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Lie prone (face down) on a bench or floor. Arms hang toward the floor or rest alongside the torso. If using light dumbbells, hold them in each hand.",
+    "setup_instructions": "No equipment needed if using bodyweight. If using light dumbbells, select very light weights (1–5 kg). Can also be performed standing with a hinge.",
+    "steps": [
+      "Step 1: Lie face down on a bench or floor with arms hanging down.",
+      "Step 2: Bend the elbows to 90 degrees so the forearms hang perpendicular to the floor.",
+      "Step 3: Externally rotate the shoulder by raising the forearms upward so the hands are now at forehead level — the arms now form a W shape.",
+      "Step 4: Squeeze the rear delts and middle traps at the top, then lower the arms back to the hanging position."
+    ],
+    "breathing_instructions": "Exhale as you raise into the W position; inhale on the return.",
+    "common_mistakes": [
+      "Raising too fast with momentum instead of using controlled muscle contraction",
+      "Shrugging the upper traps — keep the neck long"
+    ],
+    "safety_considerations": [
+      "Use very light or no additional weight — this is a rotator cuff and postural exercise"
+    ],
+    "range_of_motion_guidance": "Raise until the forearms are approximately horizontal, forming a clear W shape. Full external rotation at the top.",
+    "tempo_recommendations": "2-2-2-0 (hold 2 seconds at top)",
+    "coaching_cues": [
+      "Think 'elbows wide, forearms up' to get the W shape",
+      "Keep the neck long and trap-free — this is a mid-trap and rear delt exercise"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["prone-y-raise", "prone-t-raise"],
+    "unilateral": [],
+    "bilateral": ["prone-y-raise", "prone-t-raise", "band-pull-apart"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"endurance": 45},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "rotator-cuff", "rehab", "rear-delt", "prehab"]
+  }
+}

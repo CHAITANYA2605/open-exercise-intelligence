@@ -1,0 +1,82 @@
+{
+  "exercise_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+  "slug": "scapular-pushup",
+  "name": "Scapular Push-Up",
+  "alternative_names": ["Scapular Protraction Push-Up", "Serratus Push-Up"],
+  "description": "The scapular push-up is a rehabilitation drill that trains serratus anterior strength and scapular protraction control in a push-up position. Unlike a standard push-up, the elbows remain locked throughout and only the shoulder blades move — protracting (spreading apart) and retracting (pinching together). It is prescribed for serratus anterior weakness, scapular winging, and shoulder instability.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "scapular-stability",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "serratus-anterior" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0004-4000-a000-000000000002", "muscle_slug": "lower-trapezius" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standard push-up position with arms fully extended, hands shoulder-width apart.",
+    "setup_instructions": "May also be performed from the knees for beginners, or against a wall for very early rehabilitation stages.",
+    "steps": [
+      "Step 1: Assume a push-up position with arms straight and body in a rigid plank.",
+      "Step 2: Allow the shoulder blades to pinch together (retract), lowering the chest slightly between the arms without bending the elbows.",
+      "Step 3: Push the shoulder blades apart (protract), rounding the upper back slightly and reaching the hands into the floor.",
+      "Step 4: At full protraction, the upper back should be slightly rounded and the shoulder blades as far apart as possible.",
+      "Step 5: Return to the retracted position with control and repeat."
+    ],
+    "breathing_instructions": "Exhale on protraction (spreading apart). Inhale on retraction.",
+    "common_mistakes": [
+      "Bending the elbows — the elbows stay locked throughout",
+      "Moving the hips or lower back rather than isolating the shoulder blades",
+      "Not achieving full protraction at the top"
+    ],
+    "safety_considerations": [
+      "Appropriate for most populations including early post-operative shoulder patients when cleared by a clinician"
+    ],
+    "range_of_motion_guidance": "Full retraction to full protraction. The range is typically 2–5 cm of vertical body travel.",
+    "tempo_recommendations": "2 seconds retract, 2 seconds protract. 15–20 reps × 2–3 sets.",
+    "coaching_cues": [
+      "Arms stay completely straight — this is all shoulder blade",
+      "At the top, push the floor away and round the upper back like a cat",
+      "Feel the muscles around the shoulder blades working"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 15, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 60 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "serratus-anterior", "scapular", "shoulder", "beginner"]
+  }
+}

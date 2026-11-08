@@ -1,0 +1,80 @@
+{
+  "exercise_id": "a1b2c3d4-0002-4001-a001-000000000102",
+  "slug": "suitcase-squat",
+  "name": "Suitcase Squat",
+  "alternative_names": ["Goblet Squat with Dumbbells at Sides"],
+  "description": "A squat variation where dumbbells or kettlebells are held at the sides like suitcases, with arms straight and weights hanging beside the hips. This position increases grip and forearm demand, challenges anti-lateral flexion core stability, and shifts the load distribution slightly compared to a barbell back squat.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart holding a dumbbell or kettlebell in each hand at your sides, arms fully extended.",
+    "setup_instructions": "Pick up two equally weighted dumbbells from the floor using a hip hinge, stand tall, then assume your squat stance.",
+    "steps": [
+      "Step 1: Brace your core and maintain a neutral spine with the weights hanging at your sides.",
+      "Step 2: Push your hips back and bend your knees to lower into a squat, keeping your chest up.",
+      "Step 3: Descend until your thighs are at least parallel to the floor.",
+      "Step 4: Drive through your heels to stand back up, fully extending your hips and knees."
+    ],
+    "breathing_instructions": "Inhale as you descend into the squat. Exhale on the drive upward.",
+    "common_mistakes": [
+      "Allowing the torso to lean excessively forward",
+      "Letting the weights pull the shoulders into uneven height (suitcase lean)"
+    ],
+    "safety_considerations": [
+      "Keep the weights symmetrical to avoid uneven spinal loading"
+    ],
+    "range_of_motion_guidance": "Squat to at least parallel. Heels should remain flat on the floor throughout.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": ["Stand tall between the weights", "Knees track over toes"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90, "endurance": 45},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["legs", "quads", "glutes", "dumbbell", "beginner"]
+  }
+}

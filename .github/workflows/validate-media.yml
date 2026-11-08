@@ -1,0 +1,27 @@
+name: Validate Media
+
+on:
+  pull_request:
+    paths:
+      - 'data/media/**'
+      - 'schema/media-asset.schema.json'
+
+jobs:
+  validate-media:
+    name: Validate Media Registry
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate media asset registry
+        run: node scripts/validate-media.js
+
+      - name: Check license compatibility
+        run: node scripts/check-license-compatibility.js

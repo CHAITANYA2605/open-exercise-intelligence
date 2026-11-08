@@ -1,0 +1,88 @@
+{
+  "exercise_id": "a1b2c3d4-0037-4000-a000-glut00000005",
+  "slug": "fire-hydrant",
+  "name": "Fire Hydrant",
+  "alternative_names": ["Hip Abduction on All Fours", "Quadruped Hip Abduction"],
+  "description": "The fire hydrant is performed on all fours by raising one bent knee out to the side, training hip abduction while the torso is stabilized on the hands and opposite knee. The movement targets the gluteus medius and tensor fasciae latae — muscles critical for pelvic stability, lateral movement, and injury prevention. The name comes from the resemblance to a dog approaching a fire hydrant.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "abduction",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "execution": {
+    "starting_position": "Begin on hands and knees with wrists under shoulders and knees under hips. Spine is neutral.",
+    "setup_instructions": "Bodyweight is sufficient. A mini resistance band around the thighs just above the knees adds progressive load.",
+    "steps": [
+      "Step 1: Begin on all fours, core braced, spine neutral.",
+      "Step 2: Keeping the knee bent at 90°, raise one knee out to the side — abducting the hip — until the thigh is parallel to the floor.",
+      "Step 3: Hold the peak position with the hip fully abducted.",
+      "Step 4: Lower the knee back to the starting position under control.",
+      "Step 5: Complete all reps then switch sides."
+    ],
+    "breathing_instructions": "Exhale as you raise the knee. Inhale as you lower.",
+    "common_mistakes": [
+      "Rotating the whole pelvis to raise the knee higher — the movement should come from the hip only",
+      "Only partially abducting — aim for the thigh to reach parallel to the floor",
+      "Letting the core sag during the movement"
+    ],
+    "safety_considerations": [
+      "Very low risk exercise",
+      "Wrist discomfort can be reduced with fists or push-up handles"
+    ],
+    "range_of_motion_guidance": "Raise the knee until the thigh reaches parallel to the floor. The pelvis should not rotate.",
+    "tempo_recommendations": "1-1-2-0",
+    "coaching_cues": [
+      "Open the hip like a book — not by rotating the pelvis",
+      "Keep the spine still — only the hip moves",
+      "Control the return — don't let the knee drop"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["side-lying-abduction", "hip-abduction-machine"],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": ["side-lying-abduction"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 45, "endurance": 30},
+    "training_goals": ["hypertrophy", "rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute-medius", "abduction", "beginner", "rehab", "bodyweight"]
+  }
+}

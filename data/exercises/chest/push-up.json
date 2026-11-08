@@ -1,0 +1,144 @@
+{
+  "exercise_id": "a1b2c3d4-0008-4000-8001-000000000008",
+  "slug": "push-up",
+  "name": "Push-Up",
+  "alternative_names": [
+    "Press-Up"
+  ],
+  "description": "The push-up is a foundational bodyweight pushing exercise that trains the chest, anterior deltoids, and triceps simultaneously. It requires no equipment and can be scaled for any fitness level, making it one of the most accessible and widely used exercises for upper body development and functional strength.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a high plank position with hands placed slightly wider than shoulder width, fingers pointing forward. Arms extended, body forms a straight line from head to heels. Core braced.",
+    "setup_instructions": "No equipment required. Ensure adequate floor space. Use a mat for comfort on the hands and knees if needed.",
+    "steps": [
+      "Brace your core and glutes to keep the body in a rigid plank.",
+      "Lower your body by bending the elbows, keeping them at roughly 45\u201360 degrees from your torso.",
+      "Lower until your chest touches or nearly touches the floor.",
+      "Push through your hands to return to the starting position, fully extending the arms at the top."
+    ],
+    "breathing_instructions": "Inhale as you lower. Exhale as you push up.",
+    "common_mistakes": [
+      "Sagging the hips downward \u2014 maintain a rigid plank throughout",
+      "Raising the hips too high into a piked position",
+      "Flaring elbows out to 90 degrees, which stresses the shoulder"
+    ],
+    "safety_considerations": [
+      "If wrist discomfort occurs, use push-up handles or perform on fists",
+      "Regress to knee push-ups if unable to maintain spinal alignment"
+    ],
+    "range_of_motion_guidance": "Full range: chest touches or nearly touches the floor at the bottom, arms fully extended at the top.",
+    "tempo_recommendations": "2-0-1-0",
+    "coaching_cues": [
+      "Your body is a rigid plank from head to heels",
+      "Screw your hands into the floor to activate the chest and stabilize the shoulders"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 50
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "bodyweight",
+      "calisthenics",
+      "beginner"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "exercise_id": "d4e5f6a7-0002-4000-8004-000000000002",
+  "slug": "goblet-squat",
+  "name": "Goblet Squat",
+  "alternative_names": [
+    "Kettlebell Goblet Squat",
+    "Dumbbell Goblet Squat"
+  ],
+  "description": "The goblet squat is a beginner-friendly squat variation in which a single kettlebell or dumbbell is held at chest height with both hands. The front-loaded weight counterbalances the lifter and encourages a more upright torso, making it an excellent teaching tool for squat mechanics and a valuable accessory exercise for quad development.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000009-0000-4000-a000-000000000009"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart, toes flared outward. Hold a kettlebell or dumbbell vertically at chest height with both hands, elbows pointing down.",
+    "setup_instructions": "No special setup needed. Hold the weight close to the chest. The front loading naturally encourages a more upright torso.",
+    "steps": [
+      "Push the knees out in line with the toes as you descend.",
+      "Lower until hips are at or below knee level.",
+      "Drive through the whole foot to return to standing."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on the ascent.",
+    "common_mistakes": [
+      "Letting the weight pull the torso forward \u2014 keep it close to the chest",
+      "Knees caving inward"
+    ],
+    "safety_considerations": [
+      "An excellent movement for anyone learning to squat before progressing to a barbell"
+    ],
+    "range_of_motion_guidance": "Full depth, hips at or below knee level.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Sit between your legs, not on top of them",
+      "Keep the weight close to your chest \u2014 do not let it drift forward"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 20
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "squat",
+      "kettlebell",
+      "beginner"
+    ]
+  }
+}

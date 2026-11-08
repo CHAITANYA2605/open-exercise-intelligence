@@ -1,0 +1,78 @@
+{
+  "exercise_id": "d4e5f6a7-b8c9-4012-d345-e67f89a01b16",
+  "slug": "cable-low-flye-to-press",
+  "name": "Cable Low Flye to Press",
+  "alternative_names": ["Cable Flye Press Combo", "Low Cable Flye and Press"],
+  "description": "A combination movement that begins as a low-to-high cable flye targeting the upper pectoralis major, then transitions into a press motion at the top of the arc to fully extend the arms and further load the chest. This two-phase movement recruits both the isolation benefits of the flye and the loading capacity of the press in a single continuous rep.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "cable",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand between two low cable pulleys. Hold one handle in each hand, cables running from low pulleys below hip level. Stand tall with a slight forward lean, arms extended down and to the sides.",
+    "setup_instructions": "Set both pulleys to the lowest position. Attach single D-handles. Stand centered between the two stacks.",
+    "steps": [
+      "Step 1: Begin with arms extended downward and outward, cables taught from the low pulleys.",
+      "Step 2: Sweep both arms upward and inward in a wide arc — the flye phase — keeping elbows slightly bent.",
+      "Step 3: As the hands meet in front of the chest, transition to a press: bend the elbows and bring the handles toward the chest.",
+      "Step 4: Press the handles forward and together to full arm extension.",
+      "Step 5: Reverse the motion: unpress back to handle-at-chest, then open out and down in the flye return. Repeat."
+    ],
+    "breathing_instructions": "Exhale through the flye and press phases combined. Inhale on the return.",
+    "common_mistakes": [
+      "Transitioning to the press too early before the hands meet",
+      "Excessive forward lean that reduces the cable's tension angle effectiveness",
+      "Straightening elbows completely during the flye — maintain a soft bend"
+    ],
+    "safety_considerations": [
+      "Use moderate weight — the transition from flye to press can stress the shoulder if too heavy",
+      "Keep core braced throughout to stabilize the torso"
+    ],
+    "range_of_motion_guidance": "Full sweep from low-to-high, then full press extension. The combo requires deliberate transition at the midpoint.",
+    "tempo_recommendations": "2-0-1-2 (2s flye up, press out, 2s return)",
+    "coaching_cues": [
+      "Flye first, then press — two distinct phases per rep",
+      "Lead with the chest, not the arms, on the upward sweep"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "flye", "press", "combo", "chest", "upper-chest"]
+  }
+}

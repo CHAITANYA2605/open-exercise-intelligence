@@ -1,0 +1,88 @@
+{
+  "exercise_id": "sm000010-0000-4000-a000-000000000010",
+  "slug": "prowler-push-high",
+  "name": "Prowler Sled Push — High Handles",
+  "alternative_names": ["High Handle Prowler Push", "Sled Push High", "Upright Sled Push"],
+  "description": "The high-handle prowler push uses the tall vertical posts of the sled, allowing a more upright body position that shifts the primary demand from the quadriceps toward the deltoids and triceps, with the leg drive producing hip extension more than knee extension. The more vertical trunk angle resembles the mid-stride body position of running rather than the acceleration phase, making it an excellent tool for developing sport-specific pushing power and cardiovascular capacity. The high-handle position also makes this variation more accessible for individuals with limited hip flexion or lower back issues.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "sled",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Grip the high handles of the prowler sled. Stand upright or at a moderate forward lean (20–30° from vertical). Arms are approximately straight.",
+    "setup_instructions": "Load to the desired weight. The more upright position allows greater resistance than the low-handle position for most people. Use the same surface as for low-handle pushing.",
+    "steps": [
+      "Step 1: Grip the high handles and lean slightly forward — not as dramatically as the low-handle position.",
+      "Step 2: Drive alternating feet into the ground, pushing the sled forward with each step. Maintain a tall, rigid torso.",
+      "Step 3: Push through the arms to maintain handle contact and direction, but the primary power source is leg drive.",
+      "Step 4: Maintain consistent pressure on the handles throughout the push distance.",
+      "Step 5: Decelerate and release handles at the end of the distance."
+    ],
+    "breathing_instructions": "Exhale forcefully with each push step. Short, rhythmic breathing throughout the effort.",
+    "common_mistakes": [
+      "Fully locking the elbows and pushing off the sled rather than through it — the arms should transmit force, not be the primary mover",
+      "Excessive forward lean that collapses to a low-handle body position, losing the intended mechanical advantage of the high handle"
+    ],
+    "safety_considerations": [
+      "Secure weight plates before pushing",
+      "Clear the path for the full distance before beginning"
+    ],
+    "range_of_motion_guidance": "Walk 20–60 metres per set. Full leg extension on each push step.",
+    "tempo_recommendations": "Conditioning: 40m moderate effort × 6–8 sets with 60–90 seconds rest. Strength endurance: 20m heavy × 5–6 sets with 2 minutes rest.",
+    "coaching_cues": [
+      "Drive from the legs, guide with the arms",
+      "Stay tall — do not collapse forward",
+      "Quick feet, continuous contact"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 2, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 4, "max_sets": 8}
+    ],
+    "rest_periods": {"endurance": 90},
+    "training_goals": ["endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["strongman", "sled", "conditioning", "no-eccentric", "functional"]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "exercise_id": "a1b2c3d4-0045-4000-a000-glut00000013",
+  "slug": "frog-pump",
+  "name": "Frog Pump",
+  "alternative_names": ["Frog Glute Bridge", "Butterfly Bridge"],
+  "description": "The frog pump is a floor glute bridge variation performed with the soles of the feet pressed together and knees flared outward, resembling a frog's legs. The externally rotated hip position places the hip flexors and adductors in a lengthened state, reducing their contribution and allowing the gluteus maximus to work in a shortened range with high activation. It is often used for glute activation and high-rep pump work at the end of a training session.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "bridge",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "hip-thrust",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "ffffffff-0001-4000-a000-00000000000f", "muscle_slug": "adductors"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Lie on your back with the soles of the feet pressed together and knees fallen outward (externally rotated), forming a diamond shape with the legs. Feet close to the hips.",
+    "setup_instructions": "No equipment required. A dumbbell or weight plate can be rested on the hips for added resistance.",
+    "steps": [
+      "Step 1: Lie on your back with soles of feet pressed together, knees flared outward. Feet 20–30 cm from the hips.",
+      "Step 2: Drive the hips upward by squeezing the glutes.",
+      "Step 3: Extend until the hips are fully extended and the body forms a straight line from shoulders to knees.",
+      "Step 4: Squeeze the glutes hard at the top for 1–2 seconds.",
+      "Step 5: Lower the hips back to the floor under control."
+    ],
+    "breathing_instructions": "Exhale as you drive the hips up. Inhale as you lower.",
+    "common_mistakes": [
+      "Not fully extending the hips at the top — push all the way up",
+      "Letting the lower back arch excessively — posterior pelvic tilt at the top",
+      "Allowing the feet to separate — keep the soles pressed together"
+    ],
+    "safety_considerations": [
+      "Very low-risk exercise",
+      "Hip discomfort in the externally rotated position may indicate hip flexibility limitations — do not force the range"
+    ],
+    "range_of_motion_guidance": "Full hip extension at the top. Hips to floor at the bottom.",
+    "tempo_recommendations": "1-2-2-0 (squeeze 2s at top)",
+    "coaching_cues": [
+      "Squeeze the glutes — not the lower back",
+      "Push hips fully up — don't stop short",
+      "Keep feet pressed together throughout"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["barbell-glute-bridge", "barbell-hip-thrust"],
+    "unilateral": ["single-leg-hip-thrust"],
+    "bilateral": ["barbell-glute-bridge"],
+    "equipment_alternatives": ["barbell-glute-bridge"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 30},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 40}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 45, "endurance": 30},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "activation", "pump", "beginner", "bodyweight", "hip-extension"]
+  }
+}

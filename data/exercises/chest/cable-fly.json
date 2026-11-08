@@ -1,0 +1,87 @@
+{
+  "exercise_id": "f6a7b8c9-d0e1-4f2a-3b4c-d5e6f7a8b406",
+  "slug": "cable-fly",
+  "name": "Cable Fly",
+  "alternative_names": ["Cable Chest Fly", "Standing Cable Fly"],
+  "description": "The cable fly is a pectoral isolation exercise using a dual-pulley cable machine with the cables set at mid-height (chest level). Unlike dumbbell flyes, cable tension remains constant throughout the full arc, maintaining meaningful resistance at both the stretched and contracted positions. This makes it highly effective for pectoralis major hypertrophy.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+    ]
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand in the center of a dual-pulley cable machine with the pulleys set at chest height. Grasp the handles, stagger one foot slightly forward for balance, and lean the torso forward slightly. Arms are open wide with a slight bend at the elbow.",
+    "setup_instructions": "Set both cable pulleys to chest or mid-torso height. Attach single-handle attachments. Select a moderate weight that allows full range of motion.",
+    "steps": [
+      "Step 1: Stand between the two cable stacks, grasp the handles, and step forward to create tension. Stagger stance slightly; hinge torso forward slightly.",
+      "Step 2: Begin with arms wide, elbows slightly bent, feeling a stretch across the chest.",
+      "Step 3: Exhale and arc both arms together in front of your body, squeezing the chest at the point of peak contraction.",
+      "Step 4: Inhale and slowly return the arms to the wide starting position, controlling the eccentric stretch."
+    ],
+    "breathing_instructions": "Exhale as you bring the cables together; inhale as you open the arms back to the start.",
+    "common_mistakes": [
+      "Fully straightening the elbows, which shifts load to the shoulder joint",
+      "Using momentum by swinging the torso rather than controlling with the pecs"
+    ],
+    "safety_considerations": [
+      "Maintain a slight, fixed bend in the elbows throughout — the arm angle should not change during the arc",
+      "Do not let the weight stack slam down at the end of the eccentric"
+    ],
+    "range_of_motion_guidance": "Open arms as wide as comfortable without shoulder discomfort; squeeze hard at the midline at the top of the rep.",
+    "tempo_recommendations": "2-1-2-0 (2 seconds open, 1 second squeeze, 2 seconds close)",
+    "coaching_cues": [
+      "Imagine hugging a large tree — maintain that arm shape throughout",
+      "Lead with your pecs, not your hands"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": ["single-arm-cable-lateral-raise"],
+    "bilateral": [],
+    "equipment_alternatives": ["dumbbell-fly", "machine-fly"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 12},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "chest", "isolation", "fly", "pec"]
+  }
+}

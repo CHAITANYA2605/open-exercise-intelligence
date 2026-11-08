@@ -1,0 +1,83 @@
+{
+  "exercise_id": "55ef1418-c17a-4aee-9d29-d71da4d5f010",
+  "slug": "underhand-lat-pulldown-lean-back",
+  "name": "Underhand Lat Pulldown with Lean Back",
+  "alternative_names": ["Supinated Pulldown Lean Back", "Chin-Up Style Pulldown Lean"],
+  "description": "The underhand lat pulldown with an intentional lean-back combines a supinated grip (mimicking a chin-up) with a slight torso lean of 20-30 degrees, shifting the bar's target from the clavicle to the lower sternum and increasing lower lat activation. The lean also allows slightly more weight to be used than a strict upright supinated pulldown, making it effective for progressive overload on lat thickness.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pulldown",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit at a lat pulldown machine with a close to shoulder-width underhand (supinated) grip. Set the thigh pad to secure the legs. Lean the torso back 20-30 degrees.",
+    "setup_instructions": "Maintain the same lean angle throughout the set. The lean is a fixed position, not a dynamic movement.",
+    "steps": [
+      "Step 1: Begin seated with arms extended, leaning back 20-30 degrees, supinated grip.",
+      "Step 2: Depress and retract the shoulder blades.",
+      "Step 3: Pull the bar to the lower chest/sternum.",
+      "Step 4: Hold 1 second at peak contraction.",
+      "Step 5: Return under control to full arm extension."
+    ],
+    "breathing_instructions": "Exhale on the pull. Inhale on the return.",
+    "common_mistakes": [
+      "Leaning back too far — 20-30 degrees is sufficient; more becomes a row",
+      "Pulling to the chest instead of the sternum — the lean makes the sternum the natural target"
+    ],
+    "safety_considerations": [
+      "Excessive lean places stress on the lower back — keep it moderate",
+      "Ensure the thigh pad is tight to prevent pulling the body up"
+    ],
+    "range_of_motion_guidance": "Full arm extension to bar at lower sternum.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Lean is fixed — the torso does not move during the set",
+      "Lead with the chest toward the bar",
+      "Squeeze the elbows to the sides"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["pulldown", "underhand", "supinated", "lean", "lat"]
+  }
+}

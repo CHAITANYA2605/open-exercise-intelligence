@@ -1,0 +1,61 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50033",
+  "slug": "tke-band-hold-pulse",
+  "name": "Terminal Knee Extension — Band Hold and Pulse",
+  "alternative_names": ["TKE Isometric Pulse", "Band TKE Hold Pulse"],
+  "description": "A terminal knee extension variation that adds an isometric hold followed by small pulsing contractions at the point of full knee extension. After extending the knee against band resistance, the exerciser holds the extended position for 2-3 seconds and then performs 5-8 short pulsing contractions before returning. This technique maximizes VMO (vastus medialis oblique) activation time and is used in patellofemoral rehabilitation programs targeting quad insufficiency at terminal extension, common after ACL reconstruction and knee arthroplasty.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing away from a resistance band anchor with the band looped around the back of the knee. Begin with a slight knee bend (20-30 degrees of flexion).",
+    "setup_instructions": "Anchor the band behind and above knee height. The band should provide noticeable resistance against knee extension.",
+    "steps": [
+      "Step 1: Begin with the knee in slight flexion against the band's pull.",
+      "Step 2: Extend the knee to full extension, contracting the quadriceps, particularly the inner quad (VMO).",
+      "Step 3: Hold the fully extended position for 2-3 seconds.",
+      "Step 4: Perform 5-8 small pulsing contractions (tiny additional squeezes) at full extension, then slowly return the knee to the starting flexion position. That is one repetition."
+    ],
+    "breathing_instructions": "Exhale during the extension. Breathe during the hold and pulses. Inhale as you return.",
+    "common_mistakes": ["Not reaching full knee extension before the hold — partial extension reduces VMO activation", "Pulses becoming large movements rather than small squeezes at the end range", "Locking the knee so hard that the popliteal fossa compresses painfully"],
+    "safety_considerations": ["Avoid if hyperextension of the knee is contraindicated — stop at neutral extension (0 degrees)", "For post-surgical use: confirm full extension range is cleared by the treating physiotherapist"],
+    "range_of_motion_guidance": "Full knee extension (0 degrees) must be reached before the hold. The pulses occur at this end range.",
+    "tempo_recommendations": "2s extension, 3s hold, 5-8 pulses at ~1s each, 2s slow return.",
+    "coaching_cues": ["Feel the inner quad (teardrop muscle above the kneecap) contracting during the hold", "Pulses should feel like extra squeezes, not additional movement", "Press the kneecap upward at the top of each extension"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 8, "max_reps": 15}],
+    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 3}],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["quadriceps", "VMO", "rehabilitation", "TKE", "knee"]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "exercise_id": "c3d4e5f6-0001-4000-8003-000000000001",
+  "slug": "barbell-overhead-press",
+  "name": "Barbell Overhead Press",
+  "alternative_names": [
+    "Military Press",
+    "OHP",
+    "Standing Barbell Press"
+  ],
+  "description": "The barbell overhead press is a standing vertical pushing exercise in which a barbell is pressed from the front rack position to full overhead extension. It is the primary free-weight exercise for developing shoulder mass and pressing strength, and also trains the triceps and upper trapezius as significant synergists.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "execution": {
+    "starting_position": "Stand with feet hip-width apart. Hold the barbell in a front rack position at the upper chest with hands slightly wider than shoulder width. Elbows just in front of the bar, wrists straight.",
+    "setup_instructions": "Unrack the barbell from a squat rack set at upper chest height. Brace the core and squeeze the glutes before pressing to stabilize the spine.",
+    "steps": [
+      "Take a breath and brace the core hard.",
+      "Press the bar straight up and slightly back as it passes the face, sliding the head back slightly to allow bar clearance.",
+      "Lock the bar out directly overhead with arms fully extended and biceps close to the ears.",
+      "Lower the bar under control back to the front rack position."
+    ],
+    "breathing_instructions": "Inhale and brace before each press. Exhale at lockout.",
+    "common_mistakes": [
+      "Pressing the bar forward instead of straight up and over the center of mass",
+      "Excessive lumbar hyperextension \u2014 maintain a braced, neutral lumbar curve",
+      "Not locking the bar out overhead fully"
+    ],
+    "safety_considerations": [
+      "If shoulder mobility limits an overhead lockout, work on thoracic extension and shoulder flexibility",
+      "Use a squat rack to unrack safely \u2014 do not clean from the floor for pressing sets"
+    ],
+    "range_of_motion_guidance": "Full lockout overhead, bar returns to clavicle/upper chest level at the bottom.",
+    "tempo_recommendations": "2-0-1-0",
+    "coaching_cues": [
+      "Press your head through your arms as the bar passes your face",
+      "Squeeze your glutes and abs hard \u2014 make your whole body a rigid pillar"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "shoulders",
+      "barbell",
+      "overhead-press",
+      "compound"
+    ]
+  }
+}

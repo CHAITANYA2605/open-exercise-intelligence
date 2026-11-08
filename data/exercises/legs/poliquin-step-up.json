@@ -1,0 +1,69 @@
+{
+  "exercise_id": "a1b2c3d4-0014-4000-a000-100000000014",
+  "slug": "poliquin-step-up",
+  "name": "Poliquin Step-Up / Heel-Elevated Lateral Step-Up",
+  "alternative_names": ["Lateral Step-Up with Heel Elevation", "Poliquin Step"],
+  "description": "The Poliquin step-up is a unilateral exercise developed to specifically target the vastus medialis (VMO). The lifter steps sideways onto a low box or step while keeping the working heel elevated, maximizing knee extension load on the inner quadriceps. The heel-elevated foot position prevents weight shifting to the hip extensors, making this a highly specific VMO strengthening exercise used extensively in knee rehabilitation and sports performance.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "lunge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Stand beside a box or step approximately 4-6 inches high. Place the working foot on the step laterally, with the heel elevated slightly (by the step edge or a plate beneath the heel). The opposite foot remains on the floor.",
+    "setup_instructions": "Use a low step or box. Place heel on the edge to create slight elevation. Begin with bodyweight.",
+    "steps": [
+      "Step 1: Drive the working heel down into the step, extending the knee from roughly 90 degrees to full extension.",
+      "Step 2: At no point does the opposite foot leave the floor or take weight — it is a touch guide only.",
+      "Step 3: Lower back down with control, allowing the knee to flex back to about 90 degrees.",
+      "Step 4: Repeat all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale on extension, inhale on the controlled return.",
+    "common_mistakes": ["Pushing through the floor foot rather than the step foot", "Using momentum or body lean", "Full knee extension with a lock-out that reduces tension"],
+    "safety_considerations": ["Very low-load exercise — appropriate for post-surgery rehabilitation when cleared", "Consult a physiotherapist if using for patellar tracking issues"],
+    "range_of_motion_guidance": "Work from approximately 90 degrees of knee flexion to nearly full extension. Keep tension on the VMO throughout.",
+    "tempo_recommendations": "2-0-2-0 controlled (2s up, 2s down)",
+    "coaching_cues": ["Feel the inner quad working", "Drive through the heel of the step foot only", "No weight on the floor foot"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 60, "endurance": 30},
+    "training_goals": ["strength", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["vmo", "rehabilitation", "knee", "unilateral"]
+  }
+}

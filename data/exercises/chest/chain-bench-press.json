@@ -1,0 +1,80 @@
+{
+  "exercise_id": "a7b8c9d0-e1f2-4345-a678-b90c12d34567",
+  "slug": "chain-bench-press",
+  "name": "Chain-Loaded Barbell Bench Press",
+  "alternative_names": ["Bench Press with Chains"],
+  "description": "The Chain-Loaded Bench Press attaches heavy chains to each end of the barbell so that more chain links rest on the floor at the bottom of the movement (reducing effective load) and more links are suspended off the floor at lockout (increasing effective load). This accommodating resistance technique matches the natural strength curve of the press — lighter where you are weakest at the bottom, heavier where you are strongest at the top.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach chains to each sleeve of the barbell using a small pilot chain looped over the sleeve. Chains should partially deload to the floor at the bottom of the rep. Lie on the bench and grip normally.",
+    "setup_instructions": "Loop a pilot chain over each barbell sleeve. Attach the main chains so that roughly half the chain length rests on the floor at the bottom of the movement. Adjust to ensure full chain suspension at lockout.",
+    "steps": [
+      "Step 1: Unrack the bar and begin the descent.",
+      "Step 2: Lower the bar to touch the chest as more chain piles onto the floor, reducing load.",
+      "Step 3: Press the bar upward; as it rises, more chain lifts off the floor, increasing load.",
+      "Step 4: Drive to full lockout where the full chain weight is suspended."
+    ],
+    "breathing_instructions": "Inhale and brace before the eccentric. Exhale through the sticking point on the concentric.",
+    "common_mistakes": [
+      "Chains too short so they never deload at the bottom",
+      "Chains too long so they never fully lift off the floor at lockout"
+    ],
+    "safety_considerations": [
+      "Account for chain weight when calculating barbell load — reduce plate weight accordingly",
+      "Use a power rack with safety bars"
+    ],
+    "range_of_motion_guidance": "Full ROM from chest-touch to lockout, same as standard bench press.",
+    "tempo_recommendations": "3-0-X-0 (explosive concentric to maximize accommodating resistance benefit)",
+    "coaching_cues": [
+      "Press as fast as you can — speed overcomes the increasing chain weight",
+      "Stay tight; the swinging chains create additional stabilization demands"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 240, "hypertrophy": 120},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["powerlifting", "accommodating-resistance", "chains", "advanced"]
+  }
+}

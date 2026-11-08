@@ -1,0 +1,155 @@
+{
+  "exercise_id": "5748f3f7-f095-4418-8221-23b3006f8a04",
+  "slug": "l-sit-progression",
+  "name": "L-Sit Progression",
+  "alternative_names": [
+    "L-Sit Hold"
+  ],
+  "description": "A calisthenics isometric hold where the body is supported on the hands with the legs extended horizontally, forming an L-shape. The L-sit builds extraordinary hip flexor and core strength, tricep pushing endurance, and shoulder girdle stability simultaneously. Progressions range from tuck holds through full L-sit.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hold",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "serratus-anterior"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000020-0000-4000-a000-000000000020",
+    "eq000021-0000-4000-a000-000000000021"
+  ],
+  "execution": {
+    "starting_position": "Support your body weight on two parallel bars or the floor with arms fully extended beneath you. Legs are extended forward parallel to the floor.",
+    "setup_instructions": "Use parallettes, the floor, or gymnastics rings. Ensure the support surface is at a height allowing the legs to extend without touching the floor.",
+    "steps": [
+      "Step 1 (Tuck): Support the body on hands with knees pulled to chest. Hold for time.",
+      "Step 2 (Single-leg): Extend one leg while tucking the other. Alternate.",
+      "Step 3 (Full L-sit): Extend both legs forward parallel to the floor. Hold for maximum time.",
+      "Step 4: Lower controlled and rest before the next set."
+    ],
+    "breathing_instructions": "Breathe steadily throughout the hold. Do not hold your breath.",
+    "common_mistakes": [
+      "Allowing the hips to drop below the support \u2014 the hips must be at or above handle height",
+      "Bending the elbows"
+    ],
+    "safety_considerations": [
+      "Build wrist and elbow strength before attempting this exercise",
+      "Progress through the tuck stages before the full version"
+    ],
+    "range_of_motion_guidance": "Legs parallel to the floor. Arms fully extended. Body in an L-shape.",
+    "tempo_recommendations": "Isometric hold \u2014 build to 3 sets of 10-30 seconds",
+    "coaching_cues": [
+      "Push the floor away",
+      "Point the toes and squeeze the quads"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "hip-flexors",
+      "calisthenics",
+      "gymnastics",
+      "advanced"
+    ]
+  }
+}

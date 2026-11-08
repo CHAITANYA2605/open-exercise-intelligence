@@ -1,0 +1,117 @@
+{
+  "exercise_id": "c3d4e5f6-0005-4000-8003-000000000005",
+  "slug": "front-raise",
+  "name": "Front Raise",
+  "alternative_names": [
+    "Dumbbell Front Raise",
+    "Anterior Raise"
+  ],
+  "description": "The front raise is a shoulder isolation exercise targeting the anterior (front) head of the deltoid through shoulder flexion. It can be performed with dumbbells, a barbell, or a plate. It is typically used as an accessory exercise to complement compound overhead pressing movements.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart. Hold a dumbbell in each hand in front of the thighs with palms facing back (pronated) or neutral.",
+    "setup_instructions": "Use light to moderate weight. The anterior deltoid is frequently overtrained from pressing movements, so this is primarily a finishing or accessory exercise.",
+    "steps": [
+      "With a slight elbow bend, raise both dumbbells in front of you to approximately shoulder height.",
+      "Pause briefly at the top, then lower under control to the starting position."
+    ],
+    "breathing_instructions": "Exhale on the raise, inhale on the descent.",
+    "common_mistakes": [
+      "Swinging the torso to generate momentum",
+      "Raising the dumbbells above shoulder height unnecessarily"
+    ],
+    "safety_considerations": [
+      "The anterior deltoid is typically already well-trained from pressing movements \u2014 program conservatively to avoid overuse"
+    ],
+    "range_of_motion_guidance": "Raise to shoulder height. Going higher primarily increases trap involvement.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": [
+      "Keep your torso still \u2014 only your arms should move",
+      "Maintain a slight elbow bend throughout \u2014 do not lock out"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 12,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "shoulders",
+      "front-raise",
+      "dumbbell",
+      "isolation"
+    ]
+  }
+}

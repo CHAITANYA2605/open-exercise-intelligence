@@ -1,0 +1,94 @@
+{
+  "exercise_id": "a1b2c3d4-0008-4000-a000-legs00000008",
+  "slug": "single-leg-squat",
+  "name": "Single-Leg Squat (Pistol Squat)",
+  "alternative_names": ["Pistol Squat", "One-Leg Squat"],
+  "description": "The pistol squat is a unilateral squat performed on one leg while the other leg is extended forward parallel to the floor. It demands exceptional strength, ankle dorsiflexion, hip mobility, and balance. The working leg must squat to full depth and return to standing without the support of the other foot. It is one of the most challenging bodyweight lower body exercises and serves as an excellent test of single-leg strength and control.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand on one foot with the arms extended forward for counterbalance. Lift the non-working leg off the floor and extend it in front of you.",
+    "setup_instructions": "No equipment needed. Beginners can hold a TRX strap or doorframe for balance assistance. Use a box or bench for assisted regressions.",
+    "steps": [
+      "Step 1: Stand on the working leg with arms extended forward. Extend the free leg in front at approximately hip height.",
+      "Step 2: Brace your core and begin the descent by pushing the hips back and bending the knee over the toes.",
+      "Step 3: Descend until the hip is at or below knee height. The free leg stays extended forward throughout. Use the arms for counterbalance.",
+      "Step 4: Drive through the entire working foot — heel, midfoot, and ball — to return to full standing extension.",
+      "Step 5: Complete all reps on one side, then switch."
+    ],
+    "breathing_instructions": "Inhale before descent. Exhale at the top of each rep.",
+    "common_mistakes": [
+      "Allowing the working knee to cave inward due to insufficient hip strength",
+      "Rising onto the toe of the working foot at the bottom",
+      "Losing extension of the free leg (bending the knee and placing the foot down)"
+    ],
+    "safety_considerations": [
+      "Progress through regressions (box squat single-leg, assisted pistol) before attempting a full pistol squat",
+      "Ankle dorsiflexion is often the limiting factor — address with mobility work before loading"
+    ],
+    "range_of_motion_guidance": "Full depth: hip at or below knee of the working leg. Free leg remains straight and elevated throughout.",
+    "tempo_recommendations": "3-0-1-0 — control the descent; a slow eccentric is excellent for building strength",
+    "coaching_cues": [
+      "Reach forward with both arms to counterbalance",
+      "Hips back first, then bend the knee",
+      "Drive through the heel — don't let the foot roll in"
+    ]
+  },
+  "variants": {
+    "easier": ["bulgarian-split-squat", "single-leg squat to box"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["barbell-squat", "front-squat"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 2, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 90, "endurance": 60},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "unilateral", "advanced", "squat"]
+  }
+}

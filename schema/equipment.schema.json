@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/open-exercise-intelligence/oei/blob/main/schema/equipment.schema.json",
+  "title": "Equipment",
+  "description": "An equipment item used in the OEI exercise dataset",
+  "type": "object",
+  "required": [
+    "equipment_id",
+    "slug",
+    "name",
+    "category",
+    "space_required",
+    "cost_tier",
+    "portability"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "equipment_id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Stable, globally unique identifier for this equipment item."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "minLength": 2,
+      "maxLength": 100
+    },
+    "name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 200
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the equipment and its common uses."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "free_weights",
+        "machines",
+        "cables",
+        "bodyweight",
+        "resistance",
+        "accessories",
+        "cardio"
+      ]
+    },
+    "subcategory": {
+      "type": "string",
+      "maxLength": 100,
+      "description": "More specific classification within the category."
+    },
+    "space_required": {
+      "type": "string",
+      "enum": ["minimal", "moderate", "large"],
+      "description": "How much space is needed to use this equipment safely."
+    },
+    "cost_tier": {
+      "type": "string",
+      "enum": ["free", "low", "medium", "high"],
+      "description": "Approximate cost tier. 'free' means no equipment is used (bodyweight)."
+    },
+    "portability": {
+      "type": "string",
+      "enum": ["fixed", "portable", "stationary"],
+      "description": "Whether the equipment is fixed in place, portable, or stationary (can be moved but not easily)."
+    },
+    "common_alternatives": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "uniqueItems": true,
+      "description": "Equipment IDs that can often substitute for this item."
+    }
+  }
+}

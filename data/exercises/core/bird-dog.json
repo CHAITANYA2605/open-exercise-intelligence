@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-e012-4000-a000-000000000112",
+  "slug": "bird-dog",
+  "name": "Bird Dog",
+  "alternative_names": ["Quadruped Opposite Arm Leg Raise", "Pointer"],
+  "description": "The bird dog is a quadruped core stability exercise in which the athlete extends the opposite arm and leg simultaneously while maintaining a neutral spine and level pelvis. It directly trains the erector spinae, multifidus, and gluteus maximus in their stabilization roles while challenging the core to resist lateral and rotational forces. Widely used in rehabilitation and athletic training for its effectiveness in developing lumbar stability and spinal health without compressive loading.",
+  "category": "rehabilitation",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "anti-rotation",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "core-stability",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin on all fours (quadruped position) with hands directly under the shoulders and knees directly under the hips. Spine is neutral — not arched or rounded.",
+    "setup_instructions": "Use a mat for knee comfort. Set the neutral spine position before each repetition.",
+    "steps": [
+      "Step 1: Begin in quadruped with neutral spine.",
+      "Step 2: Brace the core gently — think about stiffening the entire trunk.",
+      "Step 3: Simultaneously extend the right arm forward (thumb up) and the left leg back until both are parallel to the floor.",
+      "Step 4: Hold the extended position for 1–2 seconds. The pelvis should remain level — do not rotate or hike the hip.",
+      "Step 5: Return with control and repeat on the opposite side."
+    ],
+    "breathing_instructions": "Exhale as you extend arm and leg. Inhale as you return.",
+    "common_mistakes": [
+      "Rotating the pelvis and hiking the hip on the extending-leg side",
+      "Hyperextending the lower back during the leg extension",
+      "Rushing the movement — the value comes from slow, controlled execution"
+    ],
+    "safety_considerations": [
+      "Appropriate for most populations. Modify by reducing lever arm (extend arm only or leg only) if full coordination is challenging.",
+      "Keep the neck neutral — do not look up."
+    ],
+    "range_of_motion_guidance": "Arm and leg should reach full extension, parallel to the floor, without any spinal rotation or hip hiking.",
+    "tempo_recommendations": "2–3 second hold at extension, controlled return. 3-1-2 tempo.",
+    "coaching_cues": [
+      "Long from fingertips to heel — reach in opposite directions",
+      "The pelvis stays flat like a table — do not spill the imaginary glass of water on your back",
+      "Engage your glute — squeeze the extended leg's buttock"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 60, "endurance": 45},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["core", "stability", "rehabilitation", "beginner", "lumbar"]
+  }
+}

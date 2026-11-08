@@ -1,0 +1,92 @@
+{
+  "exercise_id": "sm000001-0000-4000-a000-000000000001",
+  "slug": "yoke-carry",
+  "name": "Yoke Carry",
+  "alternative_names": ["Yoke Walk", "Yoke Carry Walk"],
+  "description": "The yoke carry involves hoisting a heavy steel frame (the yoke) across the upper back and trapezius, then walking a prescribed distance as quickly as possible under that extreme load. It is a foundational strongman event and an exceptional developer of total-body strength, postural endurance, and anaerobic conditioning. The yoke imposes unique loading because the implement is wider than a barbell and the load is not secured, requiring constant isometric stabilisation from the trapezius, erector spinae, and core throughout the walk.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set the yoke crossbar to upper-back height (slightly below the bar position for a low-bar squat). Walk under the yoke, position the bar across the upper traps, and brace the core hard before unracking.",
+    "setup_instructions": "Adjust yoke uprights to the correct height for your build. Load weight plates evenly on both sides. Walk the course before loading to identify the turnaround point.",
+    "steps": [
+      "Step 1: Position yourself under the yoke crossbar with the bar resting on the upper traps. Take a wide, stable stance.",
+      "Step 2: Brace the core maximally, take a full breath, and stand the yoke up by extending the hips and knees.",
+      "Step 3: Begin walking with short, quick steps. Keep the torso upright — do not lean forward.",
+      "Step 4: Maintain a tight grip on the yoke uprights throughout the walk for stability control.",
+      "Step 5: At the turnaround or finish, slow the momentum carefully and lower the yoke to the ground by hinging at the hips and bending the knees."
+    ],
+    "breathing_instructions": "Take a full breath and brace the core before unracking. During the walk, take short breaths between steps without fully releasing the core brace.",
+    "common_mistakes": [
+      "Taking long strides, which makes the yoke swing and sway laterally",
+      "Not bracing the core before the initial stand, causing the spine to load in flexion",
+      "Looking at the ground — keep the gaze forward to maintain spinal alignment"
+    ],
+    "safety_considerations": [
+      "Have collars on the weight plates — a falling plate at speed is a serious hazard",
+      "Use a spotter or judge for the first attempts at heavy loads",
+      "Do not attempt a yoke carry without a solid foundation in barbell squats and loaded carries"
+    ],
+    "range_of_motion_guidance": "Walk distance is event-specific (typically 10–25 metres). Steps should be short and fast — approximately 50–60% of normal walking stride length.",
+    "tempo_recommendations": "Event training: maximum speed for set distance. Strength training: 10–20 metres at 60–80% of competition weight × 3–5 sets. Rest 3–5 minutes between sets.",
+    "coaching_cues": [
+      "Short, fast feet — not long lunging strides",
+      "Drive the head up and back into the bar",
+      "Squeeze everything — abs, glutes, traps — before you pick it up"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 1},
+      {"goal": "endurance", "min_reps": 1, "max_reps": 3}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 240, "endurance": 180},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["strongman", "carry", "full-body", "competition", "traps"]
+  }
+}

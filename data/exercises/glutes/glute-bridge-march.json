@@ -1,0 +1,143 @@
+{
+  "exercise_id": "8a9c3c04-821c-4eb7-87c3-67aed89f7ad1",
+  "slug": "glute-bridge-march",
+  "name": "Glute Bridge March",
+  "alternative_names": [
+    "Bridge March",
+    "Marching Bridge"
+  ],
+  "description": "An isometric and dynamic glute challenge performed by holding a glute bridge position while alternately lifting each foot off the floor in a marching pattern. The alternating leg lift forces the planted glute and core to resist pelvic rotation and maintain a stable bridge, increasing unilateral demand without additional load.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "bridge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "execution": {
+    "starting_position": "Lie on your back with knees bent, feet flat on the floor hip-width apart. Drive the hips up into a glute bridge position.",
+    "setup_instructions": "No equipment needed. Optionally place a resistance band loop just above the knees for additional challenge.",
+    "steps": [
+      "Step 1: Lift the hips into a glute bridge and hold the position, squeezing both glutes.",
+      "Step 2: Keeping the hips level, lift one foot off the floor and bring the knee toward the chest.",
+      "Step 3: Hold for a moment, then return the foot to the floor.",
+      "Step 4: Repeat on the opposite side while maintaining the bridge position."
+    ],
+    "breathing_instructions": "Breathe steadily throughout. Do not hold your breath.",
+    "common_mistakes": [
+      "Allowing the hips to drop or rotate when lifting each foot",
+      "Pushing through the lower back rather than the glutes"
+    ],
+    "safety_considerations": [
+      "Ensure the hips stay level \u2014 place a dumbbell on the hips as a feedback tool if needed"
+    ],
+    "range_of_motion_guidance": "Hips fully extended throughout. Each knee lifts to approximately 90 degrees.",
+    "tempo_recommendations": "Continuous \u2014 controlled march",
+    "coaching_cues": [
+      "Keep the hips level",
+      "Squeeze both glutes even when one leg is marching"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "glute-max",
+      "glute-med",
+      "core",
+      "beginner",
+      "rehabilitation"
+    ]
+  }
+}

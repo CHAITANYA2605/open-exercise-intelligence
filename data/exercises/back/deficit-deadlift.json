@@ -1,0 +1,82 @@
+{
+  "exercise_id": "ba010022-f3a2-4c1e-9b8d-7e6f5a4c3b45",
+  "slug": "deficit-deadlift",
+  "name": "Deficit Barbell Deadlift",
+  "alternative_names": ["Elevated Deadlift", "Platform Deadlift"],
+  "description": "The deficit deadlift is performed with the lifter standing on a raised platform (typically 1-4 inches), which lowers the starting position of the barbell relative to the hips. This requires greater knee flexion and hip hinge depth, increasing quadriceps engagement at the initiation of the pull. It is used to build strength off the floor and address weakness in the initial pull phase of the conventional deadlift.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Stand on a platform (bumper plates, wooden block, or dedicated riser) 1-4 inches high. The barbell sits on the floor below. Foot position is the same as conventional deadlift.",
+    "setup_instructions": "Ensure the platform is completely stable. The deficit increases the range of motion — reduce training load relative to your conventional deadlift maximum.",
+    "steps": [
+      "Step 1: Stand on the platform, barbell over mid-foot below the platform level.",
+      "Step 2: Hinge at the hips and bend the knees more than in a conventional deadlift to reach the bar.",
+      "Step 3: Grip the bar, brace the core, and set the spine to neutral.",
+      "Step 4: Drive the floor away with the legs while keeping the back angle constant from the floor through knee height.",
+      "Step 5: Lock out hips and knees at the top. Return under control to the floor below the platform."
+    ],
+    "breathing_instructions": "Take a deep breath and brace (Valsalva) before each rep. Exhale at lockout or after the bar is secured on the floor.",
+    "common_mistakes": [
+      "Using too large a deficit before having the flexibility to maintain a neutral spine",
+      "The hips shooting up at the start, turning it into a stiff-leg deadlift",
+      "Losing lat engagement, allowing the bar to drift forward"
+    ],
+    "safety_considerations": [
+      "Requires superior hamstring flexibility compared to a floor deadlift",
+      "Reduce weight relative to conventional deadlift maximum",
+      "Inspect the platform stability before each set"
+    ],
+    "range_of_motion_guidance": "Bar starts below the platform level (greater depth than floor deadlift). Full hip and knee extension at lockout.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": ["More knee bend than a standard deadlift", "Lat engagement — protect the bar path", "Drive the floor away"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 240, "hypertrophy": 150},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "deadlift", "advanced", "powerlifting", "hinge"]
+  }
+}

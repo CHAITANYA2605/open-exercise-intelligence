@@ -1,0 +1,83 @@
+{
+  "exercise_id": "bcafe6be-be9a-447e-8349-c054f37ce27d",
+  "slug": "good-morning-squat-hybrid",
+  "name": "Good Morning Squat Hybrid",
+  "alternative_names": ["Squat Morning", "High Bar Good Morning"],
+  "description": "The good morning squat hybrid begins in a squat stance but hinges the torso deeply forward during the descent (resembling a good morning), then drives back to upright by extending both the hips and knees together. It simultaneously loads the erector spinae, glutes, and hamstrings through a range of motion that blends both exercises, increasing total posterior chain recruitment and training spinal erector endurance under axial load.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hip-hinge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "secondary": [
+      { "muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "gluteus-maximus" },
+      { "muscle_id": "55555555-0004-4000-a000-000000000005", "muscle_slug": "biceps-femoris" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Barbell in a high-bar back squat position. Feet shoulder-width apart, toes slightly out.",
+    "setup_instructions": "Begin with a moderate load — this is a technique and endurance lift, not a max squat. Ensure the barbell is seated high on the traps.",
+    "steps": [
+      "Step 1: Begin standing with barbell on the upper traps.",
+      "Step 2: Simultaneously hinge the hips back and descend into a squat, allowing the torso to lean forward significantly.",
+      "Step 3: At the bottom, the torso should be at 45 degrees or more of forward lean.",
+      "Step 4: Drive up by extending hips and knees simultaneously, restoring upright torso.",
+      "Step 5: Repeat."
+    ],
+    "breathing_instructions": "Inhale and brace before descent. Exhale on the drive to the top.",
+    "common_mistakes": [
+      "Rounding the lower back at the bottom — the erector spinae must maintain spinal extension",
+      "Insufficient hip hinge — the torso should lean significantly more than a standard squat"
+    ],
+    "safety_considerations": [
+      "High demand on the spinal erectors — build up gradually and avoid with lower back injuries",
+      "Do not use a load that compromises neutral spine maintenance at the bottom"
+    ],
+    "range_of_motion_guidance": "Full depth squat with significant forward torso lean to fully upright at the top.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Let the chest fall toward the thighs on the way down",
+      "Drive the hips and chest up simultaneously on the way back",
+      "Spine stays long — not round"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 5, "max_reps": 8 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 150 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "good-morning", "squat", "posterior-chain", "erector-spinae"]
+  }
+}

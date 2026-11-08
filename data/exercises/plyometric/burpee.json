@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a1b2c3d4-g014-4000-a000-000000000314",
+  "slug": "burpee",
+  "name": "Burpee",
+  "alternative_names": ["Squat Thrust Jump"],
+  "description": "The burpee is a full-body plyometric conditioning exercise that cycles through a squat, plank, push-up, squat, and vertical jump in a continuous sequence. It places simultaneous demands on the upper body, lower body, and core while elevating cardiovascular demand significantly, making it one of the highest-intensity bodyweight exercises. The burpee is widely used in metabolic conditioning, military fitness testing, and interval training protocols.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "burpee",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright with feet hip-width apart.",
+    "setup_instructions": "No equipment required. Adequate floor space needed.",
+    "steps": [
+      "Step 1: From standing, squat down and place both hands on the floor.",
+      "Step 2: Jump or step both feet back to arrive in a push-up plank position.",
+      "Step 3: Perform one push-up — lower the chest to the floor and press back up.",
+      "Step 4: Jump or step both feet forward to return to a squat position.",
+      "Step 5: Explosively jump up with arms overhead, fully extending the body.",
+      "Step 6: Land softly and immediately repeat the sequence."
+    ],
+    "breathing_instructions": "Breathe continuously throughout. Exhale on the push-up press and on the jump.",
+    "common_mistakes": [
+      "Skipping the push-up — reduces the upper body demand",
+      "Not fully extending on the jump at the top",
+      "Landing with rigid legs — absorb through the knees and hips"
+    ],
+    "safety_considerations": [
+      "High cardiovascular and musculoskeletal demand — progress gradually in volume.",
+      "Not appropriate immediately post lower extremity injury."
+    ],
+    "range_of_motion_guidance": "Full push-up range. Full hip and knee extension on the jump.",
+    "tempo_recommendations": "Performed for time (20–60 second intervals) or for reps (5–15). Pace sustainable throughout.",
+    "coaching_cues": [
+      "Hips high in the plank",
+      "Full push-up — chest touches",
+      "Jump tall at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 8, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "conditioning", "full-body", "burpee"]
+  }
+}

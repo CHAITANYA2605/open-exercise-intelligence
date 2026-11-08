@@ -1,0 +1,90 @@
+{
+  "exercise_id": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+  "slug": "rack-pull",
+  "name": "Rack Pull",
+  "alternative_names": ["Partial Deadlift", "Pin Pull"],
+  "description": "The rack pull is a partial-range deadlift variation starting with the bar elevated on safety pins inside a power rack, typically at or just below the knee. The reduced range of motion allows the lifter to overload the upper portion of the deadlift pattern, emphasizing the erector spinae, upper back, and trapezius with loads greater than a full conventional deadlift. It is commonly used to address weaknesses in the lockout portion of the deadlift.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" },
+      { "muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
+      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
+      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Set the safety pins inside a power rack so the bar rests at knee height or just below. Load the barbell heavier than your conventional deadlift working weight. Stand with feet hip-width apart, the bar over mid-foot.",
+    "setup_instructions": "Set rack pin height to place the bar at or just below knee level. Use a standard barbell and load it heavier than you would for a full deadlift. Use a double overhand or mixed grip.",
+    "steps": [
+      "Step 1: Hinge at the hips and grasp the bar with the chosen grip. Set the back — neutral spine, braced core.",
+      "Step 2: Take a large breath into the belly, brace the core hard.",
+      "Step 3: Drive through the floor with the legs while pulling the bar up the shins and thighs.",
+      "Step 4: Lock out at the top by driving the hips forward and squeezing the glutes.",
+      "Step 5: Hinge back to lower the bar to the pins under full control. Reset and repeat."
+    ],
+    "breathing_instructions": "Inhale and brace before each rep. Exhale at the top after lockout.",
+    "common_mistakes": [
+      "Rounding the upper back under the heavy load — prioritize a stiff, braced torso",
+      "Hyperextending at lockout rather than achieving a neutral spine with glute contraction",
+      "Letting the bar drift away from the body during the pull"
+    ],
+    "safety_considerations": [
+      "Use a controlled negative — do not drop the bar onto the pins from height unless using bumper plates and appropriate flooring",
+      "Rack pulls with very heavy loads demand excellent core bracing — do not perform when fatigued"
+    ],
+    "range_of_motion_guidance": "From pin height (knee level) to full lockout. This is intentionally partial range.",
+    "tempo_recommendations": "Controlled concentric, full lockout hold for 1s, controlled 2–3s eccentric to pins.",
+    "coaching_cues": [
+      "Push the floor away, do not think of it as a pure pull",
+      "Keep the bar dragging up the thighs",
+      "Squeeze the glutes to lock out — do not lean back"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 1, "max_reps": 5 },
+      { "goal": "hypertrophy", "min_reps": 5, "max_reps": 8 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 4, "max_sets": 6 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 240, "hypertrophy": 150 },
+    "training_goals": ["strength", "power"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "deadlift", "partial", "overload", "upper-back"]
+  }
+}

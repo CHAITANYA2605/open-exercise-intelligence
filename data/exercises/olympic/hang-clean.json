@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-f006-4000-a000-000000000206",
+  "slug": "hang-clean",
+  "name": "Hang Clean",
+  "alternative_names": ["Hang Position Clean"],
+  "description": "The hang clean is a clean variation that begins from a hang position at the hip or knee rather than the floor, eliminating the first pull and focusing all training stimulus on the explosive second pull and front rack catch. It develops hip drive power and clean mechanics and is frequently used as a teaching progression, warm-up, or accessory movement. The hang clean tends to have a more horizontal bar path than the full clean and requires excellent hip snap timing.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "clean",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hold the bar at hip height with a shoulder-width clean grip. Hips hinged, back flat.",
+    "setup_instructions": "Begin from hip hang or knee hang position. The hip hang (bar at the hip crease) is the standard starting position.",
+    "steps": [
+      "Step 1: Hold the bar in the hang position at hip height. Hips hinge back slightly with a flat back.",
+      "Step 2: Explosively drive the hips forward, extending fully.",
+      "Step 3: Shrug the traps and pull the elbows high and outside.",
+      "Step 4: Drop under the bar and rotate the elbows forward to receive in the front rack.",
+      "Step 5: Catch in a full or partial front squat, then stand to full extension."
+    ],
+    "breathing_instructions": "Brace before initiating. Exhale after standing from the catch.",
+    "common_mistakes": [
+      "Not fully extending the hips before pulling under",
+      "Catching with the arms instead of using the shoulder shelf (front rack)",
+      "Bar drifting away from the body"
+    ],
+    "safety_considerations": [
+      "Develop front rack mobility before loading. Use bumper plates.",
+      "Start from the hip position before progressing to below the knee."
+    ],
+    "range_of_motion_guidance": "Full hip extension before catch. Catch in front rack with elbows high.",
+    "tempo_recommendations": "Explosive hip drive. Fast turnover. Controlled stand.",
+    "coaching_cues": [
+      "Pop the hips — fast and violent",
+      "High elbows — bar on the shoulders",
+      "Drop under fast"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 4, "max_sets": 8}
+    ],
+    "rest_periods": {"power": 180},
+    "training_goals": ["power", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["olympic", "weightlifting", "power", "advanced"]
+  }
+}

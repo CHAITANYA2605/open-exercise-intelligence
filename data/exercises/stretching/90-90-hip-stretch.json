@@ -1,0 +1,86 @@
+{
+  "exercise_id": "d9e0f1a2-b3c4-4d5e-6f7a-8b9c0d1e2f3a",
+  "slug": "90-90-hip-stretch",
+  "name": "90-90 Hip Stretch",
+  "alternative_names": ["90/90 Hip Mobility", "Seated Hip Rotation Stretch"],
+  "description": "The 90-90 hip stretch is a seated floor position in which both hips are bent to 90 degrees in different planes — one leg in external rotation in front and one in internal rotation behind. This position simultaneously loads the internal rotators of the front hip and the external rotators of the rear hip, making it one of the most comprehensive hip mobility exercises available. It addresses the full hip rotation spectrum in a single position.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" },
+      { "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus" },
+      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" }
+    ],
+    "secondary": [
+      { "muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus" },
+      { "muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on the floor. Place the front leg with shin parallel to the front of the mat, knee and hip at 90 degrees. Place the rear leg to the side with the shin parallel to the side of the mat, also at 90 degrees.",
+    "setup_instructions": "Use a mat. Beginners may need a folded blanket under the front hip if it rises significantly off the floor.",
+    "steps": [
+      "Step 1: Sit on the floor and position both legs in the 90-90 configuration.",
+      "Step 2: Sit tall with the spine upright. Both hips should ideally be in contact with the floor, though the rear hip will be elevated for many beginners.",
+      "Step 3: To stretch the front hip (internal rotation side): hinge the torso forward over the front shin, maintaining a long spine.",
+      "Step 4: To stretch the rear hip (external rotation side): lean toward the rear leg's shin.",
+      "Step 5: Hold each direction 30–90 seconds, then switch sides."
+    ],
+    "breathing_instructions": "Breathe deeply. Each exhale allows the hips to relax further toward the floor.",
+    "common_mistakes": [
+      "One hip lifting excessively off the floor, which reduces the hip joint stretch",
+      "Collapsing the torso sideways rather than maintaining spine length",
+      "Moving too quickly between positions"
+    ],
+    "safety_considerations": [
+      "If knee discomfort occurs, adjust the degree of hip rotation or avoid if symptomatic",
+      "Do not force either hip to the floor — work at the available range"
+    ],
+    "range_of_motion_guidance": "The goal is for both hip bones to eventually touch the floor. This may take weeks to months of consistent practice.",
+    "tempo_recommendations": "Hold 30–90 seconds per position per side. 2–3 rounds.",
+    "coaching_cues": [
+      "Sit tall first — then lean",
+      "Press both hip bones toward the floor",
+      "Breathe wide into the hip that is working"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+    ],
+    "rest_periods": { "mobility": 15 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hip", "mobility", "rotation", "glutes", "intermediate", "90-90"]
+  }
+}

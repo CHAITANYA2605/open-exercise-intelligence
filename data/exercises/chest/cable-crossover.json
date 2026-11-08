@@ -1,0 +1,131 @@
+{
+  "exercise_id": "a1b2c3d4-0007-4000-8001-000000000007",
+  "slug": "cable-crossover",
+  "name": "Cable Crossover",
+  "alternative_names": [
+    "Cable Fly",
+    "High Cable Fly"
+  ],
+  "description": "The cable crossover uses dual high-pulley cables to train the pectoral muscles in horizontal adduction and slight downward adduction. Unlike dumbbells, cables maintain constant tension throughout the full range of motion, including at the peak contraction point, making it effective for building chest definition and size.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-minor"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000012-0000-4000-a000-000000000012"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand between two cable stacks with the pulleys set at the highest position. Hold one handle in each hand, stagger your stance for balance, and lean slightly forward at the hips. Arms should be extended out to the sides with a slight elbow bend.",
+    "setup_instructions": "Set both cable pulleys to the highest position. Attach single handles. Stand centered between the two cable columns.",
+    "steps": [
+      "With a fixed elbow bend, bring both handles downward and inward in an arc toward the center of your body.",
+      "Allow the hands to cross slightly at the bottom center for a full pectoral contraction.",
+      "Squeeze the chest hard at the peak, then slowly return to the start position."
+    ],
+    "breathing_instructions": "Exhale as you bring the handles together. Inhale as you return to start.",
+    "common_mistakes": [
+      "Standing too upright \u2014 a slight forward lean ensures the cable angle targets the chest",
+      "Allowing the elbows to bend excessively during the movement",
+      "Releasing tension too quickly during the return phase"
+    ],
+    "safety_considerations": [
+      "Control the return phase \u2014 do not let the cables pull the arms back aggressively",
+      "Ensure cable attachments are secured before use"
+    ],
+    "range_of_motion_guidance": "Open arms out to the sides until a strong chest stretch is felt. Cross hands slightly at the bottom for maximum contraction.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Squeeze your pecs like you are trying to crack a walnut between them",
+      "Keep a proud chest throughout \u2014 do not let the shoulders roll forward"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "cable",
+      "isolation",
+      "fly"
+    ]
+  }
+}

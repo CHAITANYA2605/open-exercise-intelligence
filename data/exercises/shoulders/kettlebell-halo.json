@@ -1,0 +1,83 @@
+{
+  "exercise_id": "eabfe334-d5f6-4caf-a3cf-de1c6680e9af",
+  "slug": "kettlebell-halo",
+  "name": "Kettlebell Halo",
+  "alternative_names": ["KB Halo", "Around-the-Head Kettlebell"],
+  "description": "The kettlebell halo circles a kettlebell around the head held by the horns (handles), identical in movement to the dumbbell halo but with the unique loading distribution of the kettlebell's offset center of mass. The asymmetric weight creates a rotating moment that challenges the shoulder stabilizers differently on each half of the circle, making it a popular kettlebell shoulder warm-up and mobility drill.",
+  "category": "mobility",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000003-0000-4000-a000-000000000003"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart. Hold a light kettlebell by the horns (handles) with both hands, bell facing up. Hold at chest level.",
+    "setup_instructions": "Use a light kettlebell (8-16 kg typically). The asymmetric load of the KB makes this more challenging than a dumbbell at the same weight.",
+    "steps": [
+      "Step 1: Begin with kettlebell at chest level.",
+      "Step 2: Circle the kettlebell around the head, moving it to one side, then behind the head.",
+      "Step 3: Continue the circle to the other side and return to front.",
+      "Step 4: Complete desired reps in one direction, then reverse."
+    ],
+    "breathing_instructions": "Breathe continuously with the circular motion.",
+    "common_mistakes": [
+      "Letting the bell flip over — maintain a stable grip on the horns throughout",
+      "Rushing through the motion — slow and deliberate"
+    ],
+    "safety_considerations": [
+      "Firm grip at all times — a dropped KB behind the head is dangerous",
+      "Start with a lighter bell than expected — the motion is awkward initially"
+    ],
+    "range_of_motion_guidance": "Full circle around the head.",
+    "tempo_recommendations": "3-4 seconds per revolution",
+    "coaching_cues": [
+      "Bell stays upright throughout the circle",
+      "Circle close to the head, not wide",
+      "Core braced — torso does not sway"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 5, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "mobility": 45 },
+    "training_goals": ["mobility", "rehabilitation"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["kettlebell", "halo", "shoulder-mobility", "warm-up", "rotational"]
+  }
+}

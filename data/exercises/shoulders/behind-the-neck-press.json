@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a9b0c1d2-e3f4-4a5b-6c7d-e8f9a0b1c419",
+  "slug": "behind-the-neck-press",
+  "name": "Behind-the-Neck Press",
+  "alternative_names": ["BNP", "Military Press Behind Neck"],
+  "description": "The behind-the-neck press is an overhead barbell press where the bar is lowered behind the head to the base of the skull rather than in front of the face. This variation places the shoulder joint in a more horizontally abducted position, which some lifters use to target the lateral and posterior deltoids differently. It carries significant shoulder impingement risk for many individuals and requires excellent shoulder mobility and health.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench inside a rack with a barbell racked behind the head at approximately ear height. Grip the bar slightly wider than shoulder-width. The bar begins at the base of the skull/upper traps.",
+    "setup_instructions": "Set the safety pins at a height that catches the bar at the base of the skull if you fail. Requires excellent shoulder external rotation and thoracic mobility. Do not attempt without a spotter.",
+    "steps": [
+      "Step 1: Sit under the bar in a rack, gripping it slightly wider than shoulder-width. Unrack the bar to rest on the upper traps behind the neck.",
+      "Step 2: Brace the core and keep the torso upright.",
+      "Step 3: Exhale and press the bar straight overhead to full arm extension.",
+      "Step 4: Inhale and lower the bar back to the base of the skull in a controlled manner."
+    ],
+    "breathing_instructions": "Exhale on the press; inhale on the return.",
+    "common_mistakes": [
+      "Letting the neck jut forward during the movement",
+      "Lowering the bar too quickly which stresses the rotator cuff"
+    ],
+    "safety_considerations": [
+      "Not recommended for those with shoulder impingement, rotator cuff injuries, or limited external rotation mobility",
+      "Always use a spotter and set safety pins",
+      "If neck or shoulder pain occurs, switch to front overhead press"
+    ],
+    "range_of_motion_guidance": "Lower to the base of the skull — not down to the traps — and press to full overhead extension.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Keep the elbows tracking directly under the bar throughout the movement",
+      "Press the bar in a vertical line — not forward"
+    ]
+  },
+  "variants": {
+    "easier": ["barbell-overhead-press", "dumbbell-overhead-press"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["barbell-overhead-press"],
+    "equipment_alternatives": ["barbell-overhead-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "shoulders", "overhead", "advanced", "compound"]
+  }
+}

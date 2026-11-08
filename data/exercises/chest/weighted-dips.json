@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-0020-4000-a000-chest0000020",
+  "slug": "weighted-dips",
+  "name": "Weighted Parallel Bar Dips",
+  "alternative_names": ["Weighted Dips", "Belt Squat Dips"],
+  "description": "Weighted parallel bar dips add external load via a dip belt, vest, or dumbbell held between the legs to the standard dip movement, increasing the demand on the lower pectorals, triceps, and anterior deltoids. This is one of the best absolute strength builders for the chest-triceps complex and allows progressive overload far beyond bodyweight limitations.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "dip",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000021-0000-4000-a000-000000000021", "eq000049-0000-4000-a000-000000000049"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Attach the desired weight to a dip belt or hold a dumbbell between crossed ankles. Mount the parallel bars with arms extended, body upright.",
+    "setup_instructions": "Ensure the dip bars are stable and wide enough for a comfortable grip. Attach weight securely to the belt before mounting. Begin with modest added weight and progress gradually.",
+    "steps": [
+      "Step 1: Mount the dip bars in the support position with arms locked, slight forward lean.",
+      "Step 2: Lower the body by bending the elbows, maintaining a consistent forward torso lean.",
+      "Step 3: Descend until shoulders are at or below elbow level for full depth.",
+      "Step 4: Drive powerfully upward through the hands, pressing back to the lockout position.",
+      "Step 5: Maintain a controlled tempo — do not use the weight as momentum."
+    ],
+    "breathing_instructions": "Inhale as you lower. Exhale as you press up through the lockout.",
+    "common_mistakes": [
+      "Adding too much weight before achieving clean bodyweight dips",
+      "Using too upright a torso, shifting all load to the triceps",
+      "Locking the elbows aggressively at the top with excessive weight"
+    ],
+    "safety_considerations": [
+      "Master 15–20 clean bodyweight dips before adding external load",
+      "Use a dip belt designed for this purpose — improvised attachment can be dangerous",
+      "Avoid if you have anterior shoulder impingement or rotator cuff issues"
+    ],
+    "range_of_motion_guidance": "Lower until shoulder is at or below elbow level. Full lockout at the top without hyperextending the elbow joint.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": ["Lean forward for chest — stay upright for triceps", "Full depth every rep", "The added weight is a privilege earned with clean bodyweight dips"]
+  },
+  "variants": {
+    "easier": ["chest-dip"],
+    "harder": ["ring-dips"],
+    "unilateral": [],
+    "bilateral": ["weighted-dips"],
+    "equipment_alternatives": ["decline-barbell-bench-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy", "progressive_overload"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "dips", "weighted", "advanced", "compound", "strength"]
+  }
+}

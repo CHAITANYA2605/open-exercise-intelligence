@@ -1,0 +1,81 @@
+{
+  "exercise_id": "a1b2c3d4-0007-4000-a000-chest0000007",
+  "slug": "weight-plate-pinch-press",
+  "name": "Weight Plate Pinch Press",
+  "alternative_names": ["Plate Squeeze Press", "Plate Pinch Chest Press"],
+  "description": "The weight plate pinch press is a unique chest exercise in which two weight plates are pressed together between the palms and pushed overhead or forward. The act of pinching the plates isometrically activates the pectoral muscles throughout the pressing motion, making it an excellent finishing or isolation movement for inner chest development.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hold two smooth-faced weight plates sandwich-style between your palms at chest level. Stand or lie on a flat bench.",
+    "setup_instructions": "Choose two plates of equal size (10lb plates are common). Smooth faces should be in contact with each other. Grip the outer edges with palms facing inward.",
+    "steps": [
+      "Step 1: Squeeze the plates firmly together and hold them at chest level.",
+      "Step 2: Keeping the squeeze constant, press the plates forward (standing) or upward (lying) until the arms are extended.",
+      "Step 3: Hold the top position and intensify the squeeze for 1 second.",
+      "Step 4: Lower the plates back to the starting position while continuing to press inward.",
+      "Step 5: Never release the squeeze between reps."
+    ],
+    "breathing_instructions": "Exhale as you press the plates away. Inhale as you bring them back to the chest.",
+    "common_mistakes": [
+      "Releasing the inward squeeze on the press, allowing plates to slide",
+      "Using plates with rough or ridged outer faces that cut into the palms",
+      "Going too heavy and losing control of the pinch"
+    ],
+    "safety_considerations": [
+      "Use smooth-faced steel plates, not bumper plates with raised lips",
+      "Do not use this exercise to failure — dropping the plates could cause injury",
+      "Start with lighter plates until the pinch coordination feels stable"
+    ],
+    "range_of_motion_guidance": "Press to full arm extension, maintaining the inward squeeze the entire time. Lower under control.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Squeeze the plates like your life depends on it", "Feel the sternum compress on the press", "Don't let the squeeze go — that IS the exercise"]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["svend-press"],
+    "unilateral": [],
+    "bilateral": ["weight-plate-pinch-press"],
+    "equipment_alternatives": ["svend-press", "hex-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy", "inner_chest", "mind_muscle_connection"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "isolation", "plates", "inner-chest", "squeeze"]
+  }
+}

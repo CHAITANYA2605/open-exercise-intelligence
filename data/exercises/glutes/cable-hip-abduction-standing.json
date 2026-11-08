@@ -1,0 +1,140 @@
+{
+  "exercise_id": "cc3a95fe-42e8-45ec-90c5-1f1798604400",
+  "slug": "cable-hip-abduction-standing",
+  "name": "Standing Cable Hip Abduction",
+  "alternative_names": [
+    "Cable Side Leg Raise",
+    "Cable Hip Abductor"
+  ],
+  "description": "A glute medius isolation exercise performed standing, using a cable ankle attachment to provide resistance as the leg is abducted outward to the side. The cable provides consistent resistance throughout the range of motion and allows for progressive overload of the hip abductors.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "carry",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "abduction",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0004-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-minimus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach an ankle cuff to the low pulley and around the working ankle. Stand sideways to the machine, holding the frame for support.",
+    "setup_instructions": "Attach the ankle cuff to the cable low pulley. Stand perpendicular to the machine with the working leg furthest from the pulley.",
+    "steps": [
+      "Step 1: Keep the torso upright and stable throughout.",
+      "Step 2: Abduct the working leg outward to the side, keeping the leg relatively straight.",
+      "Step 3: Raise the leg as high as hip mobility allows while keeping the torso stationary.",
+      "Step 4: Return the leg to the starting position in a controlled manner."
+    ],
+    "breathing_instructions": "Exhale as the leg lifts. Inhale on the return.",
+    "common_mistakes": [
+      "Leaning the torso away to assist the leg lift",
+      "Using momentum to swing the leg"
+    ],
+    "safety_considerations": [
+      "Keep the torso upright and still \u2014 the movement should be isolated to the hip joint"
+    ],
+    "range_of_motion_guidance": "Abduct the leg as high as mobility allows without trunk lateral flexion.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Torso stays tall",
+      "Lift from the hip, not the waist"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "glute-med",
+      "cable",
+      "isolation",
+      "unilateral"
+    ]
+  }
+}

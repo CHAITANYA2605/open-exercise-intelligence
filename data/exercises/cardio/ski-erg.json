@@ -1,0 +1,88 @@
+{
+  "exercise_id": "ca000007-0000-4000-a000-000000000007",
+  "slug": "ski-erg",
+  "name": "SkiErg Double-Pole Pull",
+  "alternative_names": ["Ski Erg", "Concept2 SkiErg", "Ski Machine Intervals"],
+  "description": "The SkiErg simulates the double-pole motion of cross-country skiing, pulling two handles downward from an overhead position with a simultaneous hip hinge, engaging the latissimus dorsi, core, triceps, and deltoids under a continuous cardiovascular load. Each stroke begins with the arms raised overhead and ends with a powerful downward pull and hip extension, creating a cyclical full-body pulling pattern. The SkiErg develops both upper-body strength-endurance and cardiovascular conditioning while remaining completely non-impact.",
+  "category": "cardio",
+  "exercise_type": "cardio",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "cardio",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing the SkiErg machine with feet shoulder-width apart. Grasp both handles with arms extended overhead, body tall, slight forward lean at the hips.",
+    "setup_instructions": "Set the damper (resistance) to 4–6. Plug in the performance monitor and select meters or time for the interval target.",
+    "steps": [
+      "Step 1: Begin with arms extended overhead and a slight hip hinge. This is the catch position.",
+      "Step 2: Simultaneously pull both handles downward and hinge the hips forward, bringing the handles past the hips to the finish position.",
+      "Step 3: At the finish, the handles are near the hips, body is hinged forward with a flat back, and the core is fully contracted.",
+      "Step 4: Recover by allowing the arms to rise overhead as the hips extend back to the start position in a smooth, continuous motion.",
+      "Step 5: Maintain a consistent stroke rate — typically 30–40 strokes per minute for intervals."
+    ],
+    "breathing_instructions": "Exhale sharply on the downward pull (the drive phase). Inhale on the recovery as the arms rise back overhead.",
+    "common_mistakes": [
+      "Pulling only with the arms without engaging the hip hinge, which loses the core and hip contribution",
+      "Letting the elbows bend excessively rather than keeping a long lever during the pull",
+      "Letting go of a smooth rhythm and jerking the handles"
+    ],
+    "safety_considerations": [
+      "Avoid rounding the lower back at the bottom of the pull — maintain a neutral spine throughout the hip hinge"
+    ],
+    "range_of_motion_guidance": "Arms travel from fully overhead to past the hips. The hip hinge should be pronounced — torso moves from tall to roughly 45° forward.",
+    "tempo_recommendations": "Interval: 500m hard / 2 minutes rest × 5. Time-based: 30 seconds hard / 30 seconds rest × 10. Stroke rate: 30–40 SPM during hard effort.",
+    "coaching_cues": [
+      "Lead with the hip hinge, not just the arms",
+      "Think of pulling the handles through the floor",
+      "Keep long arms — do not bend the elbows early"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 1, "max_sets": 1}
+    ],
+    "rest_periods": {"endurance": 120},
+    "training_goals": ["endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cardio", "ski-erg", "upper-body", "conditioning", "non-impact"]
+  }
+}

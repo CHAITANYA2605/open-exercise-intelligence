@@ -1,0 +1,88 @@
+{
+  "exercise_id": "c3d4e5f6-a7b8-4c9d-0e1f-a2b3c4d5e403",
+  "slug": "diamond-push-up",
+  "name": "Diamond Push-Up",
+  "alternative_names": ["Triangle Push-Up", "Close-Grip Push-Up"],
+  "description": "The diamond push-up is a push-up variation where the thumbs and index fingers touch to form a diamond or triangle shape beneath the chest. This narrow hand position dramatically increases triceps brachii activation while the pectoralis major acts as a secondary mover. It is one of the most effective bodyweight exercises for tricep development.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standard push-up position, then bring both hands together under the sternum with the thumbs and forefingers touching to form a diamond shape. Arms should be fully extended.",
+    "setup_instructions": "No equipment needed. Find a flat, stable surface for the hands.",
+    "steps": [
+      "Step 1: Position hands together on the floor below the chest with thumbs and index fingers touching to form a diamond shape.",
+      "Step 2: Extend arms fully; keep the body in a rigid plank from head to heels.",
+      "Step 3: Inhale and lower the chest toward the diamond by bending the elbows, which will move outward slightly to either side.",
+      "Step 4: Lower until the chest nearly touches the hands, pause briefly, then exhale and press back to the starting position."
+    ],
+    "breathing_instructions": "Inhale on the descent; exhale on the press.",
+    "common_mistakes": [
+      "Flaring the elbows wide, which shifts load away from the triceps",
+      "Letting the hips drop or rise out of a neutral plank position"
+    ],
+    "safety_considerations": [
+      "If wrist discomfort occurs, slightly rotate hands outward a few degrees",
+      "Reduce range of motion if shoulder impingement is felt"
+    ],
+    "range_of_motion_guidance": "Lower the chest to touch or nearly touch the hands, then press fully back to extension.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Think 'elbows back' as you descend to maximize tricep engagement",
+      "Keep the torso rigid — imagine a straight rod from crown to heel"
+    ]
+  },
+  "variants": {
+    "easier": ["close-grip-push-up"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["push-up"],
+    "equipment_alternatives": ["close-grip-bench-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["push-up", "triceps", "bodyweight", "intermediate"]
+  }
+}

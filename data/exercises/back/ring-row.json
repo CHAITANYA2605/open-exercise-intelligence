@@ -1,0 +1,92 @@
+{
+  "exercise_id": "d9c0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+  "slug": "ring-row",
+  "name": "Ring Row",
+  "alternative_names": ["Gymnastic Ring Row", "Australian Ring Row", "Inverted Ring Row"],
+  "description": "The ring row is a bodyweight horizontal pulling exercise performed with gymnastic rings suspended at an adjustable height. By walking the feet forward or backward, the difficulty scales dramatically — nearly vertical for beginners, nearly horizontal for advanced trainees. The rings' instability demands significant rotator cuff and scapular stabilizer engagement throughout the pull.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus" },
+      { "muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": ["eq000043-0000-4000-a000-000000000043"],
+  "execution": {
+    "starting_position": "Hang rings at approximately waist to chest height. Grasp a ring in each hand and walk feet forward under the rings until the body is at an angle — the more horizontal the body, the harder the exercise. Arms are extended with the body forming a straight line from head to heels.",
+    "setup_instructions": "Secure rings overhead from a pull-up bar, beam, or dedicated rack. Set height based on difficulty level — higher rings create an easier angle. Keep feet flat on the floor or elevated on a box to increase difficulty.",
+    "steps": [
+      "Step 1: Begin with arms extended, body in a straight plank position, rings at arm's length.",
+      "Step 2: Keeping the body rigid, retract the scapulae and row the chest up toward the rings.",
+      "Step 3: As you pull, allow the rings to rotate outward naturally and squeeze the chest to the rings.",
+      "Step 4: At the top, the rings should be at chest level and the elbows behind the torso.",
+      "Step 5: Slowly extend the arms and lower back to the starting position, maintaining body rigidity."
+    ],
+    "breathing_instructions": "Exhale as you row up. Inhale as you lower.",
+    "common_mistakes": [
+      "Letting the hips sag — the entire body must stay rigid as a plank",
+      "Pulling the rings to the neck rather than the chest",
+      "Not completing full arm extension at the bottom"
+    ],
+    "safety_considerations": [
+      "Verify ring straps and anchor point are rated for your body weight before beginning",
+      "Increase angle gradually — do not attempt a fully horizontal position without sufficient pulling strength"
+    ],
+    "range_of_motion_guidance": "Full extension at the bottom to rings touching the chest at the top.",
+    "tempo_recommendations": "2-1-3-0 (2s pull, 1s hold, 3s lower)",
+    "coaching_cues": [
+      "Your body is a rigid board — nothing bends except the elbows and shoulders",
+      "Think 'chest to rings' not 'chin to rings'",
+      "Rotate the pinkies up as you pull to maximize rear delt and rhomboid contraction"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 5, "max_reps": 10 },
+      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 },
+      { "goal": "endurance", "min_reps": 15, "max_reps": 25 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 },
+      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 120, "hypertrophy": 75, "endurance": 45 },
+    "training_goals": ["strength", "hypertrophy", "endurance"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "bodyweight", "row", "calisthenics", "scalable"]
+  }
+}

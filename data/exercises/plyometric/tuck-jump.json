@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-g004-4000-a000-000000000304",
+  "slug": "tuck-jump",
+  "name": "Tuck Jump",
+  "alternative_names": ["Knee Tuck Jump"],
+  "description": "The tuck jump is a vertical plyometric exercise in which the athlete jumps as high as possible and pulls both knees toward the chest before landing. The knee tuck shortens the moment of inertia during flight and demands greater hip flexor activation at the top of the jump compared to a standard vertical jump. It is used to develop explosive lower body power, hip flexor strength in the air, and landing mechanics, and is a common conditioning exercise in gymnastic and athletic training.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "jump",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "secondary": [
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart. Arms relaxed at sides.",
+    "setup_instructions": "Ensure adequate overhead clearance for the full jump.",
+    "steps": [
+      "Step 1: Stand with feet shoulder-width apart.",
+      "Step 2: Dip into a quarter squat, swinging arms back.",
+      "Step 3: Explode upward as high as possible.",
+      "Step 4: At the peak of the jump, pull both knees toward the chest as high as possible.",
+      "Step 5: Extend the legs to land softly with bent hips and knees."
+    ],
+    "breathing_instructions": "Exhale sharply at takeoff. Breathe during rest between reps.",
+    "common_mistakes": [
+      "Pulling the knees without achieving maximum jump height first",
+      "Landing with straight legs",
+      "Not fully extending at takeoff before the tuck"
+    ],
+    "safety_considerations": [
+      "Ensure adequate overhead space.",
+      "Land softly — knee and hip flexion on landing."
+    ],
+    "range_of_motion_guidance": "Maximum vertical height, then maximum knee tuck. Extend to land.",
+    "tempo_recommendations": "Maximum effort. 5–10 reps per set for conditioning; 3–5 reps for power focus.",
+    "coaching_cues": [
+      "Jump first — then tuck",
+      "Pull the knees to the chest at the peak",
+      "Land quietly with bent knees"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 5, "max_reps": 10},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"power": 120, "endurance": 60},
+    "training_goals": ["power", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "power", "jumping", "gymnastics"]
+  }
+}

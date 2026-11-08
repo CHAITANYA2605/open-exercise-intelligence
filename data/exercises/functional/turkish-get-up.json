@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-h001-4000-a000-000000000401",
+  "slug": "turkish-get-up",
+  "name": "Turkish Get-Up",
+  "alternative_names": ["TGU", "Get-Up"],
+  "description": "The Turkish get-up is a multi-step functional strength exercise in which the athlete transitions from a supine position to a standing position while holding a weight extended overhead in one arm. The movement passes through a half-kneeling and tall-kneeling phase, demanding shoulder stability, hip mobility, core anti-rotation strength, and total body coordination. It is considered one of the most comprehensive single-exercise assessments of functional movement quality.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "turkish-get-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Lie supine on the floor, kettlebell in the right hand, arm extended toward the ceiling, right knee bent with foot flat on the floor, left arm at 45 degrees to the left.",
+    "setup_instructions": "Use a light load initially to learn the movement. Clear surrounding space for the full standing phase.",
+    "steps": [
+      "Step 1: From supine, press the kettlebell to full arm lock and roll up to the left elbow, then the left hand.",
+      "Step 2: Drive the right hip up into a bridge position, sweeping the left leg back to arrive in a half-kneeling position.",
+      "Step 3: From half-kneeling, rise to a tall-kneeling position, then stand up.",
+      "Step 4: Reverse the sequence: lunge down, return to half-kneeling, bridge, roll down to lying.",
+      "Step 5: Complete all reps on one side then switch."
+    ],
+    "breathing_instructions": "Breathe at each transition point. Do not hold breath during any single phase.",
+    "common_mistakes": [
+      "Bending the locked elbow — the overhead arm must remain fully extended throughout",
+      "Watching the floor instead of the kettlebell — eyes on the bell at all times",
+      "Rushing transitions — each phase should be controlled and deliberate"
+    ],
+    "safety_considerations": [
+      "Shoulder instability contraindicates this exercise until corrected.",
+      "Learn each phase segment in isolation before combining."
+    ],
+    "range_of_motion_guidance": "Full lying to full standing, reversed to full lying again. Arm locked throughout.",
+    "tempo_recommendations": "Slow and deliberate. 2–5 reps per side. Quality over speed.",
+    "coaching_cues": [
+      "Eyes on the bell — always",
+      "Arm locked — straight elbow throughout",
+      "Pause at each transition"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 120},
+    "training_goals": ["strength", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "kettlebell", "shoulder-stability", "mobility", "unilateral"]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50004",
+  "slug": "earthquake-bar-bench-press",
+  "name": "Earthquake Bar Bench Press",
+  "alternative_names": ["Bamboo Bar Bench Press", "Oscillating Kinetic Energy Bar Press"],
+  "description": "The earthquake bar (or bamboo bar) bench press uses a highly flexible bar with plates or kettlebells hanging from bands at each end. The hanging load swings and oscillates continuously throughout the lift, creating unpredictable oscillating kinetic energy (OKE) that the nervous system and stabilizing muscles must dampen. This dramatically increases rotator cuff and periscapular muscle activation compared to a standard barbell press with the same weight. It is used by powerlifters, Olympic athletes, and rehabilitation specialists for shoulder stability development.",
+  "category": "functional",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ]
+  },
+  "equipment_required": ["eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench with the earthquake bar racked above. The hanging kettlebells or plates should be allowed to swing freely from the band attachments. Unrack the bar and allow it to settle before beginning the first repetition.",
+    "setup_instructions": "Earthquake bars are specialty equipment. Bands must be attached to the ends of the bar and kettlebells or small plates hang from the bands. Use significantly less load than your standard bench press — the instability demands more from the stabilizers than the prime movers.",
+    "steps": [
+      "Step 1: Unrack the bar and allow the oscillations to settle partially. Keep the arms rigid.",
+      "Step 2: Lower the bar slowly to the chest, managing the oscillating load throughout the descent.",
+      "Step 3: Press the bar back to the starting position, maintaining control of the oscillating kettlebells throughout.",
+      "Step 4: Rerack carefully, ensuring the hanging load is controlled before racking."
+    ],
+    "breathing_instructions": "Inhale and brace during the descent. Exhale during the press.",
+    "common_mistakes": ["Using too much weight — the earthquake bar exercise is primarily a stability and motor control challenge", "Trying to stop the oscillation completely — focus on managing it, not eliminating it", "Pressing too fast, which amplifies oscillation and reduces control"],
+    "safety_considerations": ["This is advanced equipment — learn the standard barbell bench press first", "Have a spotter who understands the oscillating nature of the load", "Start with kettlebells of 8-12 kg each, regardless of your standard bench press strength"],
+    "range_of_motion_guidance": "Full range: bar to chest, full extension at the top.",
+    "tempo_recommendations": "3s eccentric, 1s pause at chest, 2s press. Slow tempo reduces oscillation amplitude.",
+    "coaching_cues": ["Think of dampening the oscillation, not stopping it", "Keep the shoulder blades retracted and depressed throughout the entire set", "Slow is better — faster pressing creates more instability than you can manage initially"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "endurance", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 180, "endurance": 90},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["bench-press", "earthquake-bar", "functional", "shoulder-stability", "specialty"]
+  }
+}

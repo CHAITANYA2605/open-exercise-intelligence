@@ -1,0 +1,86 @@
+{
+  "exercise_id": "e0f1a2b3-c4d5-4e6f-7a8b-9c0d1e2f3a4b",
+  "slug": "couch-stretch",
+  "name": "Couch Stretch",
+  "alternative_names": ["Wall Hip Flexor Stretch", "Rear Foot Elevated Hip Flexor Stretch"],
+  "description": "The couch stretch is an aggressive hip flexor and quadriceps stretch performed with the rear foot elevated against a wall, couch, or rack, placing the hip into deep extension and the knee into deep flexion simultaneously. This creates maximal lengthening of the iliopsoas, rectus femoris, and other quad muscles and is considered one of the most effective stretches for hip flexor mobility. It is particularly valued for addressing the stiffness that develops from repeated squatting and from prolonged sitting.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "lunge",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" },
+      { "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus" },
+      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" }
+    ],
+    "secondary": [
+      { "muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis" },
+      { "muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kneel near a wall or couch. Place the rear shin and foot against the wall so the ankle is against the baseboard and the knee is on the floor just in front of the wall.",
+    "setup_instructions": "Use a mat under the rear knee. Start close enough to the wall so the shin rests flat against it. Use a couch, wall, or rack upright as the foot support.",
+    "steps": [
+      "Step 1: Place the rear shin flat against the wall, knee close to the base of the wall.",
+      "Step 2: Step the front foot forward into a lunge position with front foot flat on the floor.",
+      "Step 3: Squeeze the glute of the rear leg and tuck the pelvis posteriorly — this is the key technique point.",
+      "Step 4: Bring the torso upright as tolerated. The more upright the torso, the more intense the hip flexor stretch.",
+      "Step 5: Hold 60–120 seconds per side."
+    ],
+    "breathing_instructions": "Breathe deeply and steadily. The sensation should be intense but tolerable.",
+    "common_mistakes": [
+      "Not squeezing the glute of the rear leg — this is essential for maximizing the iliopsoas stretch",
+      "Anterior pelvic tilt rather than posterior tilt, which decreases the stretch",
+      "Being too far from the wall so the shin angle is insufficient"
+    ],
+    "safety_considerations": [
+      "Knee discomfort under the rear knee is common — use padding",
+      "The intensity of this stretch can be very high — start with 20–30 seconds and build tolerance progressively"
+    ],
+    "range_of_motion_guidance": "Work toward an upright torso with the rear shin fully against the wall. This is a very advanced position for many people.",
+    "tempo_recommendations": "Hold 60–120 seconds per side. 2–3 rounds.",
+    "coaching_cues": [
+      "Squeeze the glute of the leg with the foot on the wall",
+      "Tuck the tailbone under — do not arch the lower back",
+      "Breathe through the tension"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+    ],
+    "rest_periods": { "mobility": 15 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hip-flexor", "quad", "stretch", "intermediate", "mobility", "iliopsoas"]
+  }
+}

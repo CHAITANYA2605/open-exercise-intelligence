@@ -1,0 +1,155 @@
+{
+  "exercise_id": "a1b2c3d4-0002-4000-8001-000000000002",
+  "slug": "dumbbell-bench-press",
+  "name": "Dumbbell Bench Press",
+  "alternative_names": [
+    "DB Bench Press"
+  ],
+  "description": "The dumbbell bench press is a horizontal pushing exercise performed on a flat bench using independent dumbbells. The free movement of each arm allows a greater range of motion than the barbell version and helps identify and correct left-right strength imbalances. It is excellent for developing pectoral size and symmetry.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on the edge of a flat bench holding a dumbbell on each knee. Use your knees to kick the dumbbells up as you lie back. Hold the dumbbells at chest level with palms facing forward and elbows bent at roughly 75 degrees.",
+    "setup_instructions": "Choose an appropriate weight. Sit at the end of the bench, place dumbbells on thighs, then use leg drive to bring them into position as you lie back. Keep shoulder blades retracted and depressed throughout.",
+    "steps": [
+      "Brace your core and press both dumbbells simultaneously upward and slightly inward until arms are nearly fully extended.",
+      "Lower the dumbbells under control, allowing elbows to drop slightly below the level of the bench for a full chest stretch.",
+      "Pause briefly at the bottom without losing shoulder blade position.",
+      "Press back up, bringing the dumbbells slightly together at the top to maximize pectoral contraction."
+    ],
+    "breathing_instructions": "Inhale as you lower the dumbbells. Exhale as you press them back to the starting position.",
+    "common_mistakes": [
+      "Allowing dumbbells to drift too wide, stressing the shoulder capsule",
+      "Losing scapular retraction at the bottom of the movement",
+      "Using an excessively wide elbow flare"
+    ],
+    "safety_considerations": [
+      "Drop the dumbbells to the sides if you fail a rep \u2014 do not attempt to sit up with heavy dumbbells above your head",
+      "Use a spotter who can support your wrists when training near maximum effort"
+    ],
+    "range_of_motion_guidance": "Lower dumbbells until your upper arms are slightly below parallel to the floor. Press to near full extension without fully locking out.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": [
+      "Bring the dumbbells together at the top to feel the chest contract",
+      "Keep your shoulder blades pinched together throughout the entire set"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "dumbbell",
+      "compound"
+    ]
+  }
+}

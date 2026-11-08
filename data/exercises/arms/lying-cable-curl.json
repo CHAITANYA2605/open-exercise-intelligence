@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-0105-4000-a000-100000000105",
+  "slug": "lying-cable-curl",
+  "name": "Lying Cable Curl",
+  "alternative_names": ["Supine Cable Curl"],
+  "description": "The lying cable curl is performed face-up on a bench placed close to a low cable pulley, with both hands gripping a straight bar or EZ-bar attached to the cable. Because the lifter is horizontal, the cable pull direction creates maximum bicep tension in the stretched (extended arm) position — the opposite of standing curls which are hardest near lockout. This makes it valuable for training the bicep in its lengthened position for hypertrophy.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "66666666-0003-4000-a000-000000000006", "muscle_slug": "biceps-brachii-short-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place a flat bench parallel to and close to a low cable pulley. Lie face-up with the head nearest the pulley. Grasp a straight bar attached to the cable.",
+    "setup_instructions": "Position the bench so the cable pulls the arms toward the pulley when extended. Ensure the cable travels along the floor to the pulley smoothly.",
+    "steps": [
+      "Step 1: Lie supine, arms extended toward the pulley, bar in supinated grip.",
+      "Step 2: Curl the bar toward the face by flexing the elbows.",
+      "Step 3: Hold at the peak for one second.",
+      "Step 4: Return to the extended position, feeling the stretch in the biceps."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on the return.",
+    "common_mistakes": ["Lifting the head off the bench", "Upper arms rising off the bench on the curl", "Rushing the eccentric"],
+    "safety_considerations": ["Keep upper arms pressed to the bench throughout"],
+    "range_of_motion_guidance": "Full extension with stretch at the bottom, full curl at the top.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Feel the stretch at the bottom", "Upper arms stay on the bench", "Control the negative"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["bicep", "isolation", "cable", "stretch"]
+  }
+}

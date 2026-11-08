@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a1b2c3d4-h007-4000-a000-000000000407",
+  "slug": "sled-pull",
+  "name": "Sled Pull",
+  "alternative_names": ["Sled Row", "Sled Drag", "Rope Sled Pull"],
+  "description": "The sled pull is a functional pulling exercise in which a loaded sled is dragged toward the athlete using a rope or straps in a hand-over-hand pulling motion, or pulled while walking backward. It develops upper body pulling strength, grip endurance, and posterior chain conditioning through sustained, resisted pulling mechanics. The backward walking variation also trains hip extension and hamstring strength in a closed-chain pattern that is distinct from conventional rows.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "sled",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit or stand facing the loaded sled at a distance, holding a rope or straps attached to the sled.",
+    "setup_instructions": "Attach a pulling rope or straps to the sled. The rope-pull variation is performed seated or standing, hand-over-hand.",
+    "steps": [
+      "Step 1: Face the sled at a distance with rope or straps taut.",
+      "Step 2: Pull one hand over the other in a continuous hand-over-hand motion, drawing the sled toward you.",
+      "Step 3: Keep the torso stable and upright — avoid rotating the spine.",
+      "Step 4: When the sled arrives, reload (walk back and restart) or reverse the sled direction.",
+      "Step 5: Alternatively, face away from the sled and walk backward, pulling the sled behind via hip harness or handles."
+    ],
+    "breathing_instructions": "Exhale on each pull. Breathe continuously throughout.",
+    "common_mistakes": [
+      "Rounding the back during the pull — maintain a stable, upright torso",
+      "Only using the arms — engage the lats by thinking of pulling the elbows down and back",
+      "Letting the rope go slack between pulls — keep constant tension on the sled"
+    ],
+    "safety_considerations": [
+      "Adequate pulling surface — grass or turf is ideal.",
+      "Check rope and attachment integrity before loading."
+    ],
+    "range_of_motion_guidance": "Full elbow flexion on each pull cycle. Full rope length for each set.",
+    "tempo_recommendations": "Performed for distance or time. 20–30 meter rope pulls for conditioning.",
+    "coaching_cues": [
+      "Pull the elbows back — engage the lats",
+      "Stay upright — no rounding",
+      "Constant tension — no slack"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 1},
+      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 4, "max_sets": 8}
+    ],
+    "rest_periods": {"strength": 180, "endurance": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "sled", "pull", "conditioning", "back"]
+  }
+}

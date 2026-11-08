@@ -1,0 +1,86 @@
+{
+  "exercise_id": "a1b2c3d4-g010-4000-a000-000000000310",
+  "slug": "plyometric-push-up",
+  "name": "Plyometric Push-Up",
+  "alternative_names": ["Clap Push-Up", "Explosive Push-Up"],
+  "description": "The plyometric push-up is an explosive upper body press variation in which the athlete pushes off with enough force to leave the ground, optionally clapping between repetitions. It trains the stretch-shortening cycle of the pectoral muscles and triceps, developing explosive upper body pushing power. The exercise is a staple of athletic conditioning programs targeting sport-specific upper body force production.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standard push-up position — hands slightly wider than shoulder-width, body in a straight line from head to heels.",
+    "setup_instructions": "No equipment required. Ensure adequate floor space and a non-slip surface.",
+    "steps": [
+      "Step 1: Begin in push-up position with the body in a straight plank line.",
+      "Step 2: Lower the chest to the floor under control.",
+      "Step 3: Press explosively with maximum effort — drive the hands into the floor to generate enough force to lift the hands off the ground.",
+      "Step 4: Optionally clap while airborne, then catch the fall by landing with slightly bent elbows.",
+      "Step 5: Absorb the landing and immediately lower into the next repetition."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale sharply and forcefully at the moment of push-off.",
+    "common_mistakes": [
+      "Letting the hips sag — the body must remain rigid throughout",
+      "Insufficient pressing force — the hands must fully leave the ground",
+      "Catching with locked elbows — this places severe strain on the elbow joint"
+    ],
+    "safety_considerations": [
+      "Master standard push-ups before attempting plyometric variations.",
+      "Land with soft elbows, never locked out."
+    ],
+    "range_of_motion_guidance": "Full push-up depth — chest to floor or near it. Full extension (hands off ground) at top.",
+    "tempo_recommendations": "Maximum effort on each rep. 5–10 reps per set for power. Rest fully between sets.",
+    "coaching_cues": [
+      "Push the floor away as hard as possible",
+      "Tight core throughout — no hip sag",
+      "Catch soft — bend the elbows on landing"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 3, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"power": 120},
+    "training_goals": ["power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "power", "upper-body", "push-up"]
+  }
+}

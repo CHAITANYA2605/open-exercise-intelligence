@@ -1,0 +1,72 @@
+{
+  "exercise_id": "a1b2c3d4-0020-4000-a000-100000000020",
+  "slug": "b-stance-rdl",
+  "name": "B-Stance / Kickstand Romanian Deadlift",
+  "alternative_names": ["Kickstand RDL", "B-Stance RDL", "Staggered Stance Romanian Deadlift"],
+  "description": "The B-stance Romanian deadlift uses a staggered foot position where the front foot does the work and the rear foot rests on its toes for balance only. It functions as an effectively unilateral RDL while providing slightly more stability than a true single-leg version. The lead leg's hamstrings and glute are the primary movers, making it excellent for addressing limb asymmetries and training hamstrings with greater unilateral stimulus.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000002-0000-4000-a000-000000000002"],
+  "execution": {
+    "starting_position": "Stand holding dumbbells. Stagger your feet so one foot is about half a step ahead. The rear foot rests on its toes only — it is a kickstand for balance, not for weight-bearing.",
+    "setup_instructions": "Hold dumbbells in front of the thighs. Distribute almost all weight to the front leg before beginning.",
+    "steps": [
+      "Step 1: Hinge at the hip of the front leg, pushing the hip back as the torso lowers.",
+      "Step 2: Lower the dumbbells along the front leg, feeling a deep stretch in the front leg's hamstring.",
+      "Step 3: Descend until the torso is roughly parallel to the floor or as far as hamstring flexibility allows.",
+      "Step 4: Drive through the front heel and squeeze the front glute to return to the standing position."
+    ],
+    "breathing_instructions": "Inhale and brace before the hinge. Exhale at the top.",
+    "common_mistakes": ["Rear foot bearing weight, reducing the unilateral stimulus", "Lower back rounding at the bottom", "Hip rotating outward on the working side"],
+    "safety_considerations": ["Keep the spine neutral throughout — do not round the lower back to gain extra depth"],
+    "range_of_motion_guidance": "Descend as far as hamstring flexibility allows without spinal flexion.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": ["Rear foot is just a kickstand", "Push the hip back", "Squeeze the glute to stand up"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["unilateral", "hamstring", "hinge", "rdl"]
+  }
+}

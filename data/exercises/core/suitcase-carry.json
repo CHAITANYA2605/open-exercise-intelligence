@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-e015-4000-a000-000000000115",
+  "slug": "suitcase-carry",
+  "name": "Suitcase Carry",
+  "alternative_names": ["Single-Arm Loaded Carry", "Unilateral Farmer's Carry"],
+  "description": "The suitcase carry is a unilateral loaded carry exercise in which the athlete holds a heavy implement in one hand only and walks while actively resisting the lateral lean that the asymmetric load creates. By requiring the obliques and quadratus lumborum on the opposite side to work isometrically against lateral flexion, it develops anti-lateral flexion core strength that transfers directly to real-world carrying tasks and athletic movements. The challenge is significantly greater than a bilateral farmer's carry due to the asymmetric demand.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "execution": {
+    "starting_position": "Stand with a dumbbell or kettlebell held in one hand at your side. Spine tall and neutral, shoulders level.",
+    "setup_instructions": "Pick up the implement with a hip-hinge. Stand and brace the core before initiating the walk.",
+    "steps": [
+      "Step 1: Pick up the implement in one hand and stand tall.",
+      "Step 2: Brace the core and actively keep both shoulders level — resist the urge to lean toward the loaded side.",
+      "Step 3: Walk forward at a deliberate pace with short, controlled steps.",
+      "Step 4: Maintain a vertical torso throughout — the loaded side should not lower toward the ground.",
+      "Step 5: At the end of the distance, set down the implement, rest, and switch sides."
+    ],
+    "breathing_instructions": "Breathe continuously with a moderate brace. Exhale every few steps if needed.",
+    "common_mistakes": [
+      "Leaning toward the loaded side — this is exactly what the exercise is meant to prevent",
+      "Shrugging the loaded shoulder upward",
+      "Taking overly wide steps that promote excessive trunk sway"
+    ],
+    "safety_considerations": [
+      "Equal sets and distance must be performed on each side.",
+      "Pick up and set down with a proper hip hinge."
+    ],
+    "range_of_motion_guidance": "Walk 20–40 meters per side, or for 30–45 seconds per side.",
+    "tempo_recommendations": "Controlled walking pace. Prioritize upright posture over walking speed.",
+    "coaching_cues": [
+      "Shoulders stay level — imagine a tray balanced across both shoulders",
+      "Carry it like a suitcase, not a leaning tower",
+      "Squeeze your core like a corset on the opposite side"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 1},
+      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 2, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "endurance": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["carry", "unilateral", "core", "anti-lateral-flexion", "functional"]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "exercise_id": "d2e3f4a5-b6c7-4d8e-9f0a-b1c2d3e4f422",
+  "slug": "prone-y-raise",
+  "name": "Prone Y-Raise",
+  "alternative_names": ["Y-Raise", "Prone Y"],
+  "description": "The prone Y-raise is a shoulder and lower trapezius exercise performed lying face down with arms raised overhead in a Y shape. The lower trapezius is the primary target, as the upward rotation of the scapula is required to raise the arms overhead in this position. It is an important corrective exercise for improving scapular mechanics and counteracting the postural effects of prolonged sitting.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Lie face down on the floor or on an incline bench. Arms are extended alongside the head in a Y shape, with thumbs pointing up.",
+    "setup_instructions": "No equipment required for bodyweight version. Light dumbbells (1–3 kg) can be added. An adjustable bench at a slight incline allows greater range.",
+    "steps": [
+      "Step 1: Lie face down with arms extended forward and slightly out at a 30-45 degree angle from midline, forming a Y shape. Thumbs point toward the ceiling.",
+      "Step 2: Keeping the elbows straight, exhale and raise both arms as high as possible while depressing the shoulder blades downward.",
+      "Step 3: Hold at the top for 1–2 seconds, feeling the lower traps contracting.",
+      "Step 4: Inhale and slowly lower the arms back to the floor."
+    ],
+    "breathing_instructions": "Exhale on the raise; inhale on the return.",
+    "common_mistakes": [
+      "Shrugging the shoulders upward rather than depressing them during the raise",
+      "Bending the elbows instead of maintaining straight arms"
+    ],
+    "safety_considerations": [
+      "Use bodyweight or minimal load — this is a corrective and postural exercise"
+    ],
+    "range_of_motion_guidance": "Raise until the arms are as high as possible while actively depressing the shoulder blades.",
+    "tempo_recommendations": "2-2-2-0",
+    "coaching_cues": [
+      "Think 'shoulders down and back' as you raise the arms",
+      "Thumbs up — this external rotation opens the shoulder impingement zone"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["prone-t-raise"],
+    "unilateral": [],
+    "bilateral": ["w-raises", "prone-t-raise"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"endurance": 45},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "lower-trap", "rehab", "posture", "prehab", "scapula"]
+  }
+}

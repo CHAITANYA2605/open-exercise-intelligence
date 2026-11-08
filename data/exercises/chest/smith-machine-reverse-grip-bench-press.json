@@ -1,0 +1,78 @@
+{
+  "exercise_id": "d2e3f4a5-b6c7-4890-d123-e45f67a89012",
+  "slug": "smith-machine-reverse-grip-bench-press",
+  "name": "Smith Machine Reverse-Grip Bench Press",
+  "alternative_names": [],
+  "description": "The Smith Machine Reverse-Grip Bench Press performs the supinated grip bench press on a Smith machine, which provides a stable bar path for this mechanically weaker grip position. The fixed path makes this upper-chest and triceps emphasis variation considerably safer to attempt alone compared to its free-barbell counterpart.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000006-0000-4000-a000-000000000006", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench under the Smith machine bar. Take a supinated (underhand) grip with palms facing toward the head. Grip inside shoulder-width for comfort.",
+    "setup_instructions": "Set the Smith machine bar at the appropriate height. The fixed bar path makes this variation much more manageable than its free-bar version. Reduce load significantly from your standard bench max.",
+    "steps": [
+      "Step 1: Rotate the bar off the hooks with a supinated grip.",
+      "Step 2: Lower under control to the lower chest with elbows tracking close to the body.",
+      "Step 3: Press up to lockout.",
+      "Step 4: Rotate and rerack after the final rep."
+    ],
+    "breathing_instructions": "Inhale and brace before descent. Exhale at lockout.",
+    "common_mistakes": [
+      "Gripping too wide — the supinated grip places wrists under severe stress if too wide",
+      "Trying to use the same load as a standard bench press"
+    ],
+    "safety_considerations": [
+      "The supinated grip is weaker — reduce load by 20% or more",
+      "Discontinue if wrist discomfort arises"
+    ],
+    "range_of_motion_guidance": "Full touch to lower chest; full elbow extension.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Elbows track toward your sides, not outward",
+      "Feel the upper chest and triceps working, not just the shoulders"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["upper-chest", "supinated-grip", "smith-machine"]
+  }
+}

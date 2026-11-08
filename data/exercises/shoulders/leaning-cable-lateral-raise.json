@@ -1,0 +1,132 @@
+{
+  "exercise_id": "101ab452-dddd-4a99-9933-8b1cf273ea79",
+  "slug": "leaning-cable-lateral-raise",
+  "name": "Leaning Cable Lateral Raise",
+  "alternative_names": [
+    "Single-Arm Leaning Lateral"
+  ],
+  "description": "A cable lateral raise performed while the lifter leans away from the pulley, anchoring one hand on the cable column for support. The lean creates a longer moment arm at the beginning of the movement (where free-weight lateral raises are easiest) and provides constant tension throughout, making it superior to dumbbell lateral raises for medial deltoid development.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "medial-deltoid"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "anterior-deltoid"
+      },
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "posterior-deltoid"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-b000-000000000011",
+        "muscle_slug": "tensor-fasciae-latae"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand sideways to the cable pulley, gripping the upright with the near hand for support. The far hand holds the cable handle.",
+    "setup_instructions": "Attach a single handle to the low cable pulley. Stand sideways, lean away from the machine, and grip the cable handle with the far hand.",
+    "steps": [
+      "Step 1: Lean away from the cable to create a natural stretch on the medial deltoid.",
+      "Step 2: Raise the arm upward and out to the side until it is horizontal or slightly above.",
+      "Step 3: Hold briefly at the top, squeezing the medial deltoid.",
+      "Step 4: Lower under control back to the starting position."
+    ],
+    "breathing_instructions": "Exhale on the raise. Inhale on the return.",
+    "common_mistakes": [
+      "Using momentum to swing the arm up instead of controlled deltoid abduction",
+      "Allowing the torso to rotate during the raise"
+    ],
+    "safety_considerations": [
+      "The cable provides constant tension even at the bottom \u2014 this is the advantage over dumbbells",
+      "Keep the support arm straight"
+    ],
+    "range_of_motion_guidance": "Arm raised to horizontal or slightly above at the top. Full arm by the side at the bottom.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Lean into it",
+      "Raise with the deltoid, not the trap"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "shoulders",
+      "medial-deltoid",
+      "cable",
+      "isolation",
+      "unilateral"
+    ]
+  }
+}

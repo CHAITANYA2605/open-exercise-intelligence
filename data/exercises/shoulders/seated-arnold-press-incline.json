@@ -1,0 +1,84 @@
+{
+  "exercise_id": "451c6c21-ba6c-461a-9dea-6a95cb561b8c",
+  "slug": "seated-arnold-press-incline",
+  "name": "Seated Arnold Press on Incline Bench",
+  "alternative_names": ["Incline Arnold Press", "Inclined Seat Arnold Press"],
+  "description": "The incline-bench Arnold press performs the standard Arnold press rotation from supinated-to-pronated while seated on an incline bench (60-70 degrees), which provides a slight forward lean and greater back support than a vertical seated position. The incline alters the starting angle of the press, increasing anterior deltoid pre-stretch at the bottom and making the transition from the supinated starting position slightly more challenging through the mid-range.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench inclined to 60-70 degrees. Hold dumbbells in the Arnold press starting position — elbows bent, dumbbells at shoulder level, palms facing the body.",
+    "setup_instructions": "Set the bench high enough to be nearly vertical but not fully upright — this differentiates from a standard seated Arnold press.",
+    "steps": [
+      "Step 1: Begin with dumbbells at shoulder height, palms facing you, elbows forward.",
+      "Step 2: Begin pressing while simultaneously rotating the wrists outward.",
+      "Step 3: By the mid-point of the press, palms face forward (pronated).",
+      "Step 4: Continue pressing to full overhead extension.",
+      "Step 5: Lower while reversing the rotation — returning to the supinated position."
+    ],
+    "breathing_instructions": "Exhale on the press. Inhale on the descent.",
+    "common_mistakes": [
+      "Not completing the full rotation — the supination-to-pronation should be a full 180 degrees",
+      "Using too heavy a load — the rotation requires control"
+    ],
+    "safety_considerations": [
+      "The rotation combined with heavy loads increases wrist stress — moderate weight",
+      "Ensure the bench incline is stable and secure before loading"
+    ],
+    "range_of_motion_guidance": "Shoulder height supinated to full overhead extension pronated.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Elbows go from forward to out as you press",
+      "Full rotation — 180 degrees of wrist turn",
+      "Drive the weight overhead — not just forward"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "arnold-press", "incline", "overhead-press", "deltoid"]
+  }
+}

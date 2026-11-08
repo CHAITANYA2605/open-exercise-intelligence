@@ -1,0 +1,85 @@
+{
+  "exercise_id": "9b254c26-2a52-49d0-a15c-859de3b076f7",
+  "slug": "heavy-dumbbell-suitcase-row",
+  "name": "Heavy Dumbbell Suitcase Row",
+  "alternative_names": ["Suitcase Row", "Dumbbell Side Row"],
+  "description": "The heavy dumbbell suitcase row is performed with the dumbbell at the side of the body (like carrying a suitcase) while bent over, rowing the weight upward in a path parallel to the torso rather than toward the hip. The unique line of pull challenges the mid and lower trapezius and rhomboids through a range often undertrained in standard dumbbell rows.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder width apart. Hold a heavy dumbbell in one hand at the side, as if holding a suitcase. Hinge at the hips to 45-60 degrees, allowing the dumbbell to hang beside the working hip.",
+    "setup_instructions": "Use a heavy dumbbell — typically heavier than standard rows since the range of motion is shorter. The free hand can rest on the thigh for light support.",
+    "steps": [
+      "Step 1: Begin hinged with the dumbbell hanging beside the hip.",
+      "Step 2: Row the dumbbell directly upward, keeping it close to the thigh and torso.",
+      "Step 3: Drive the elbow upward rather than backward — the motion is more vertical than horizontal.",
+      "Step 4: At the top, the elbow should be at torso height with the forearm vertical.",
+      "Step 5: Lower under control and repeat."
+    ],
+    "breathing_instructions": "Exhale rowing up. Inhale lowering.",
+    "common_mistakes": [
+      "Pulling the dumbbell toward the chest rather than straight up alongside the body",
+      "Allowing the torso to rotate excessively — control anti-rotation"
+    ],
+    "safety_considerations": [
+      "Maintain neutral spine throughout — heavy loads demand braced core",
+      "Avoid if experiencing lower back pain until cleared"
+    ],
+    "range_of_motion_guidance": "Dumbbell at full arm extension beside hip to elbow at torso height.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Row straight up — not back, not forward",
+      "Keep the dumbbell close to the thigh throughout",
+      "Drive the elbow toward the ceiling"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 5, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 120 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "row", "unilateral", "upper-back"]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "exercise_id": "a3b4c5d6-e7f8-4901-a234-b56c78d90e25",
+  "slug": "standing-cable-incline-press",
+  "name": "Standing Cable Incline Press",
+  "alternative_names": ["Standing Low Cable Press", "Cable Incline Chest Press Standing"],
+  "description": "A standing chest press performed with cables set at a low position, pressing upward and forward at an incline angle. This replicates the vector of an incline bench press in a standing, free-movement context. The standing position adds core anti-extension demand while the cable maintains constant tension through the full pressing range, particularly at the top where free weights become lighter.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "cable",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Face away from a cable machine with low pulleys set near the floor. Hold both handles with arms bent, hands at lower chest/hip level. Stand in a split stance for stability.",
+    "setup_instructions": "Set both low pulleys at the lowest position. Attach single D-handles. Stand far enough from the stack to have taut cables at the bottom of the press.",
+    "steps": [
+      "Step 1: Face away from the machine, cables running from low behind you. Hands at hip/lower chest level, elbows bent.",
+      "Step 2: Press the handles forward and upward at an incline angle — toward where a high wall meets the ceiling.",
+      "Step 3: Fully extend the arms in the incline press direction.",
+      "Step 4: Return under control, following the same angled path back to the starting position."
+    ],
+    "breathing_instructions": "Exhale on the press upward, inhale on the controlled return.",
+    "common_mistakes": [
+      "Pressing straight forward instead of upward at the incline angle",
+      "Leaning excessively forward, reducing core engagement",
+      "Using too much weight, causing the torso to pitch backward"
+    ],
+    "safety_considerations": [
+      "Keep the core braced to prevent lower back hyperextension",
+      "Use a split stance with the same side forward as the dominant pressing arm for stability"
+    ],
+    "range_of_motion_guidance": "Full elbow extension at the top. At the bottom, hands are at lower chest level with elbows bent approximately 90 degrees.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Press up and out — think incline angle, not flat",
+      "Keep the chest tall and proud — do not let the torso collapse forward"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "standing", "incline", "press", "upper-chest", "functional"]
+  }
+}

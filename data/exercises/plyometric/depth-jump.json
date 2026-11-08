@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a1b2c3d4-g002-4000-a000-000000000302",
+  "slug": "depth-jump",
+  "name": "Depth Jump",
+  "alternative_names": ["Drop Jump", "Reactive Jump"],
+  "description": "The depth jump is an advanced plyometric exercise in which the athlete steps off an elevated box, contacts the ground, and immediately jumps as high as possible with minimal ground contact time. By utilizing the stretch-shortening cycle — the rapid eccentric loading followed by an immediate concentric contraction — the depth jump trains reactive strength and enhances the stretch reflex more effectively than standard box jumps. It places significant stress on the musculotendinous system and requires a solid strength foundation before use.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "jump",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand on the edge of a plyo box at 30–75 cm height. Toes at the edge of the box.",
+    "setup_instructions": "Appropriate box height must be selected carefully — too high increases ground contact time and reduces reactive demand. 30–60 cm is typical for most athletes.",
+    "steps": [
+      "Step 1: Stand at the edge of the box.",
+      "Step 2: Step (not jump) off the box — a step produces a more controlled landing stimulus than a jump.",
+      "Step 3: Upon ground contact, absorb the landing through the forefoot and ankle with a minimal knee bend.",
+      "Step 4: Immediately and explosively jump as high as possible — minimize ground contact time.",
+      "Step 5: Land softly from the subsequent jump, rest fully, and repeat."
+    ],
+    "breathing_instructions": "Exhale sharply on the takeoff jump. Breathe freely during rest between reps.",
+    "common_mistakes": [
+      "Excessive knee bend on landing — the goal is a stiff, rapid absorption and re-expression",
+      "Pausing on the ground before jumping (this negates the stretch-shortening cycle benefit)",
+      "Using too high a drop height — this increases ground contact time, not reactive strength"
+    ],
+    "safety_considerations": [
+      "Requires a squat 1RM of at least 1.5x bodyweight before incorporating depth jumps at meaningful volumes.",
+      "High musculotendinous stress — not suitable for those with Achilles, patellar tendon, or knee pathology.",
+      "Total volume should be low — this is a CNS-intensive exercise."
+    ],
+    "range_of_motion_guidance": "Minimal ground contact and maximal jump height are the two key metrics.",
+    "tempo_recommendations": "Maximum explosive intent. Ground contact time of under 250ms is the goal for advanced athletes. 3–5 reps per set, full rest between sets.",
+    "coaching_cues": [
+      "Touch and go — ground contact is lightning fast",
+      "Stiff ankle on landing — spring, not squat",
+      "Jump as high as possible on each rep"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 3, "max_reps": 6}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"power": 180},
+    "training_goals": ["power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "power", "reactive-strength", "advanced"]
+  }
+}

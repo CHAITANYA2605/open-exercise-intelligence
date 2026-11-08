@@ -1,0 +1,80 @@
+{
+  "exercise_id": "f4a5b6c7-d8e9-4012-f345-a67b89c01d36",
+  "slug": "wide-grip-decline-barbell-bench-press",
+  "name": "Wide-Grip Decline Barbell Bench Press",
+  "alternative_names": ["Wide Grip Decline Press"],
+  "description": "A decline barbell bench press using a grip wider than shoulder-width. The wide grip on the decline angle combines maximum lower pectoralis major stretch with reduced range of motion at the elbow, allowing heavy loading of the sternal pec fibers. The wide grip shifts the demand away from the triceps, placing greater emphasis on chest contribution throughout the pressing movement.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000016-0000-4000-a000-000000000016", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a decline bench (15–30 degrees) with feet secured. Take a wide grip on the barbell — pinkies at or near the outer ring marks. Unrack and hold above the lower chest.",
+    "setup_instructions": "Set the decline to 15–30 degrees. Secure feet. Use collars. The wide grip should be comfortable — do not go beyond the outer grip marks.",
+    "steps": [
+      "Step 1: Unrack with a wide grip. Bar positioned above the lower chest.",
+      "Step 2: Lower the bar toward the lower chest. Elbows flare wider than a shoulder-width grip would allow.",
+      "Step 3: Touch the lower chest and press back to lockout, following the bar's natural arc.",
+      "Step 4: Keep the upper back pinched and feet secured throughout."
+    ],
+    "breathing_instructions": "Inhale before descent, exhale on the press.",
+    "common_mistakes": [
+      "Grip too extreme — beyond the outer rings creates shoulder and wrist injury risk",
+      "Feet unsecured on the decline bench",
+      "Excessive elbow flare that places the shoulder in a compromised position"
+    ],
+    "safety_considerations": [
+      "Wide decline pressing stresses the shoulder joint — start lighter than standard decline press",
+      "Use a spotter for heavier sets",
+      "If wrist discomfort occurs, slightly narrow the grip"
+    ],
+    "range_of_motion_guidance": "Full range from lower chest to lockout. The wide grip slightly shortens the elbow's range of motion.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Lead with the chest, not the elbows — the wide grip already does the shoulder work",
+      "Keep the shoulder blades tight to protect the shoulder at the wide position"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "decline", "wide-grip", "bench-press", "lower-chest"]
+  }
+}

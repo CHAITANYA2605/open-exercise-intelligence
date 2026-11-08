@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-e005-4000-a000-000000000105",
+  "slug": "dragon-flag",
+  "name": "Dragon Flag",
+  "alternative_names": ["Dragon Flag Hold"],
+  "description": "The dragon flag is an expert-level isometric and dynamic core exercise popularized by Bruce Lee, performed supine on a bench. The athlete grips the bench behind the head, then raises the entire body from shoulders to feet in one rigid plank-like unit using only the upper back as the pivot point. The exercise demands extraordinary anterior chain strength throughout its full range of motion, particularly of the rectus abdominis, and serves as one of the most demanding bodyweight core exercises.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "expert",
+  "movement_pattern": "plank",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hollow-body",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ]
+  },
+  "equipment_required": ["eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench with your head near one end. Reach back and grip the sides of the bench at head level with both hands.",
+    "setup_instructions": "Use a sturdy flat bench that is bolted or stable. The bench must be able to support the twisting forces generated during this exercise.",
+    "steps": [
+      "Step 1: Lie supine on the bench, gripping the sides firmly behind your head.",
+      "Step 2: Press through the elbows and upper back to create a stable base.",
+      "Step 3: Brace the entire core and raise your legs, hips, and lower back off the bench until your body is vertical or near-vertical.",
+      "Step 4: Lower your body as a single rigid unit — do not let the hips break or the lower back sag.",
+      "Step 5: Control the descent to just above the bench, then raise again or hold the lowered position isometrically."
+    ],
+    "breathing_instructions": "Exhale sharply as you raise. Breathe shallowly and brace continuously during any isometric hold.",
+    "common_mistakes": [
+      "Breaking at the hips — allowing the lower back to sag instead of maintaining a rigid plank",
+      "Attempting the exercise without adequate core strength prerequisites",
+      "Using momentum to swing the legs rather than controlling the movement"
+    ],
+    "safety_considerations": [
+      "This is an expert exercise. Train hollow holds, L-sits, and hanging leg raises to mastery before attempting.",
+      "Never allow the lower back to hyperextend under load — lower the legs only as far as core rigidity can be maintained.",
+      "Use a stable, anchored bench."
+    ],
+    "range_of_motion_guidance": "The body raises from horizontal to near-vertical. Control is more important than range — lower only as far as a rigid plank position can be maintained.",
+    "tempo_recommendations": "3–5 second eccentric (lowering), 1 second pause at bottom, explosive concentric. Can also be performed as a static hold at various angles.",
+    "coaching_cues": [
+      "One rigid line from shoulders to toes",
+      "Never let your hips break — plank the whole way",
+      "Fight gravity with your whole body"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 180},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "core", "expert", "gymnastics"]
+  }
+}

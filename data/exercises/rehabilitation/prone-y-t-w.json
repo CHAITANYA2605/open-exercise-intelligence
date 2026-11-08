@@ -1,0 +1,84 @@
+{
+  "exercise_id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+  "slug": "prone-y-t-w",
+  "name": "Prone YTW",
+  "alternative_names": ["Prone Y T W", "YTW Exercise", "Scapular YTW"],
+  "description": "The prone YTW is a scapular stability and lower trapezius rehabilitation exercise performed face-down on a bench or floor. Three arm positions — Y (overhead diagonal), T (horizontal), and W (elbows bent at sides) — collectively target the lower, middle, and upper trapezius as well as the rhomboids and posterior deltoid. It is prescribed for scapular dyskinesis, shoulder impingement, and postural correction programs.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "scapular-stability",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0004-4000-a000-000000000002", "muscle_slug": "lower-trapezius" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "middle-trapezius" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "rhomboids" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "posterior-deltoid" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie face-down on a bench or mat with arms hanging relaxed at the sides or slightly off a bench edge.",
+    "setup_instructions": "No equipment required. Light dumbbells (0.5–2 kg) may be added when bodyweight is mastered.",
+    "steps": [
+      "Step 1 — Y position: Raise both arms overhead in a Y shape (diagonal, thumbs up). Squeeze the shoulder blades down and together. Hold 2 seconds, lower.",
+      "Step 2 — T position: Raise both arms out to the sides in a T shape (horizontal, thumbs up). Retract and depress the scapulae. Hold 2 seconds, lower.",
+      "Step 3 — W position: Bend the elbows and raise them to shoulder height, pulling the elbows back as if doing a row, hands near the ears forming a W. Hold 2 seconds, lower.",
+      "Step 4: Perform 8–12 repetitions of each position in sequence as one set."
+    ],
+    "breathing_instructions": "Exhale on each lift. Inhale when lowering.",
+    "common_mistakes": [
+      "Shrugging the shoulders upward — focus on depressing the shoulder blades, not elevating",
+      "Using momentum rather than deliberate scapular retraction and depression",
+      "Lifting the head and craning the neck — keep the neck in neutral"
+    ],
+    "safety_considerations": [
+      "If shoulder pain occurs, reduce the range of motion",
+      "This is a low-load exercise — the goal is neuromuscular control, not strength"
+    ],
+    "range_of_motion_guidance": "Lift arms only as high as the shoulder blade can maintain depression. Quality of scapular position matters more than height.",
+    "tempo_recommendations": "2-second lift, 2-second hold, 2-second lower. 8–12 reps each position, 2–3 sets.",
+    "coaching_cues": [
+      "Pull your shoulder blades into your back pockets",
+      "Thumbs point up in all three positions",
+      "Think about making the letters with your arms while keeping your shoulders away from your ears"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 60 },
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "scapular", "trapezius", "shoulder", "posture", "beginner"]
+  }
+}

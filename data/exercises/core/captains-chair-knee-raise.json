@@ -1,0 +1,65 @@
+{
+  "exercise_id": "co000032-0000-4000-a000-000000000032",
+  "slug": "captains-chair-knee-raise",
+  "name": "Captain's Chair Knee Raise",
+  "alternative_names": ["Roman Chair Knee Raise", "Knee Raise on Dip Station"],
+  "description": "The captain's chair knee raise is performed on a vertical knee-raise station where the athlete supports their body weight on forearm pads and raises the knees toward the chest. The bent-knee position reduces the lever arm compared to a straight-leg raise, making this more accessible and placing greater relative demand on the rectus abdominis through hip flexion rather than purely the hip flexors. It is a highly effective mid-section exercise that also challenges the shoulder girdle isometrically as it supports the bodyweight.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "plank",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "leg-raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000021-0000-4000-a000-000000000021"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Mount the captain's chair station by gripping the handles and resting forearms on the pads. The back rests against the back pad. Legs hang straight below.",
+    "setup_instructions": "Adjust the pad height if the station allows, so the forearms rest comfortably with shoulders away from the ears.",
+    "steps": [
+      "Step 1: Begin hanging with legs straight. Engage the core before initiating the movement.",
+      "Step 2: Bend the knees and draw them upward toward the chest, curling the pelvis slightly forward (posterior pelvic tilt) at the top.",
+      "Step 3: Hold the top position for 1 second, squeezing the abs.",
+      "Step 4: Slowly lower the knees back to the hanging position, resisting gravity throughout.",
+      "Step 5: Repeat without swinging."
+    ],
+    "breathing_instructions": "Exhale as the knees rise. Inhale as they lower.",
+    "common_mistakes": [
+      "Swinging the legs up with momentum rather than using slow, controlled ab contraction",
+      "Not curling the pelvis at the top, which limits rectus abdominis involvement"
+    ],
+    "safety_considerations": ["Avoid if shoulder or elbow pain is present — the forearm support places demand on the shoulder girdle"],
+    "range_of_motion_guidance": "Knees travel from straight hanging to above hip level — ideally with the thighs at or above horizontal.",
+    "tempo_recommendations": "2-1-2-0. Controlled throughout. No swinging.",
+    "coaching_cues": ["Curl the pelvis under at the top", "No swinging — control the descent"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "abs", "hip-flexors", "bodyweight"]}
+}

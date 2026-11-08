@@ -1,0 +1,62 @@
+{
+  "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50022",
+  "slug": "battle-rope-waves-lateral-shuffle",
+  "name": "Battle Rope Waves with Lateral Shuffle",
+  "alternative_names": ["Battle Rope Shuffle", "Lateral Battle Rope Waves"],
+  "description": "A dynamic battle rope conditioning drill in which the exerciser performs alternating rope waves while simultaneously shuffling laterally (side to side). The lateral shuffle adds lower body agility, hip abductor, and hip adductor demands to the standard battle rope work, making this a true full-body conditioning exercise. Used in sports conditioning, metabolic circuit training, and functional fitness programming.",
+  "category": "stretching",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "gait",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "conditioning",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+    ],
+    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hold one end of a battle rope in each hand. Begin in an athletic stance (slight squat, knees soft) and start alternating arm waves.",
+    "setup_instructions": "Ensure adequate side-to-side space (3-5 meters). The rope must be long enough to allow lateral movement while maintaining wave mechanics.",
+    "steps": [
+      "Step 1: Begin alternating arm waves from the starting position.",
+      "Step 2: While maintaining the rope waves, shuffle laterally to the right for 3-5 steps.",
+      "Step 3: Without stopping the waves, shuffle back to the left for 3-5 steps.",
+      "Step 4: Continue alternating directions for the prescribed interval."
+    ],
+    "breathing_instructions": "Breathe continuously and rhythmically. The demand is high — do not hold the breath.",
+    "common_mistakes": ["Stopping the waves to shuffle — the waves must continue during the lateral movement", "Crossing the feet during the shuffle — use a true lateral shuffle pattern (no crossover)", "Standing upright during the shuffle — stay in the athletic squat stance"],
+    "safety_considerations": ["Ensure the floor is clear of obstacles in the shuffle path", "If the rope cannot maintain wave mechanics during the shuffle, reduce the shuffle speed"],
+    "range_of_motion_guidance": "Shuffle distance depends on rope length. Maintain wave quality throughout the entire shuffle distance.",
+    "tempo_recommendations": "30-60 second work intervals. Shuffle speed dictated by wave quality — not so fast that waves collapse.",
+    "coaching_cues": ["Keep the waves going during the shuffle — that is the whole challenge", "Stay in the athletic position — bent knees, chest up", "Quick feet during the shuffle, but do not sacrifice wave quality for speed"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 1, "max_reps": 5}],
+    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 5}],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["battle-rope", "conditioning", "lateral", "functional", "agility"]
+  }
+}

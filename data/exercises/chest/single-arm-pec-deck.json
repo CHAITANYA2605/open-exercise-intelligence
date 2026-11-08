@@ -1,0 +1,82 @@
+{
+  "exercise_id": "a1b2c3d4-0001-4000-a000-chest0000001",
+  "slug": "single-arm-pec-deck",
+  "name": "Single-Arm Pec-Deck Flye",
+  "alternative_names": ["Unilateral Pec Deck", "One-Arm Butterfly Machine"],
+  "description": "The single-arm pec-deck flye isolates one side of the chest at a time, allowing you to address muscular imbalances and achieve a deep stretch through the pectorals. By removing bilateral compensation, each side must work independently through the full arc of motion.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "chest-fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000033-0000-4000-a000-000000000033"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on the pec-deck machine and grasp one handle with a single hand. Adjust the seat so your elbow is at shoulder height and your upper arm is parallel to the floor.",
+    "setup_instructions": "Set the machine to a weight you can control with one arm. Position the seat height so the shoulder joint is in line with the machine's pivot point.",
+    "steps": [
+      "Step 1: Sit tall with your back firmly against the pad and feet flat on the floor.",
+      "Step 2: Grasp the single handle with one hand, arm slightly bent at the elbow.",
+      "Step 3: Drive the handle forward and across your body in a sweeping arc, squeezing the chest at peak contraction.",
+      "Step 4: Slowly return the handle to the starting position, allowing a controlled stretch across the chest.",
+      "Step 5: Complete all reps on one side before switching to the other."
+    ],
+    "breathing_instructions": "Exhale as you bring the handle forward through the arc. Inhale as you return to the stretched starting position.",
+    "common_mistakes": [
+      "Rotating the torso to assist the movement",
+      "Using too much weight, reducing range of motion",
+      "Locking the elbow fully, stressing the joint"
+    ],
+    "safety_considerations": [
+      "Keep a slight bend in the elbow throughout",
+      "Do not force the arm behind the body's midline at the stretch",
+      "Adjust seat height carefully to protect the shoulder joint"
+    ],
+    "range_of_motion_guidance": "Move through the full available arc without torso rotation. Allow a comfortable stretch at the start and a firm squeeze at the end.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Arc the hand like you're hugging a tree", "Keep the shoulder blade anchored to the pad", "Squeeze and hold for a beat at peak contraction"]
+  },
+  "variants": {
+    "easier": ["machine-fly"],
+    "harder": [],
+    "unilateral": ["single-arm-pec-deck"],
+    "bilateral": ["machine-fly"],
+    "equipment_alternatives": ["cable-fly", "dumbbell-fly"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy", "muscle_symmetry"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "isolation", "machine", "unilateral", "pec-deck"]
+  }
+}

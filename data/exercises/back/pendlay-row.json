@@ -1,0 +1,90 @@
+{
+  "exercise_id": "f5e6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+  "slug": "pendlay-row",
+  "name": "Pendlay Row",
+  "alternative_names": ["Dead Stop Barbell Row", "Floor Row"],
+  "description": "The Pendlay row is a strict barbell rowing variation where the bar returns to the floor between every repetition. The dead-stop start eliminates momentum and forces a more explosive concentric contraction of the upper back musculature. With the torso held parallel to the floor, the rhomboids, middle and lower trapezius, and latissimus dorsi are heavily loaded through a full range of motion.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
+      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Stand over a barbell with feet hip-width apart and the bar over mid-foot. Hinge to grip the bar with an overhand grip slightly wider than shoulder-width. The torso must be parallel or near-parallel to the floor. The bar rests on the floor at the start of every rep.",
+    "setup_instructions": "Set up exactly as you would for a conventional deadlift but set the torso to horizontal. Use a pronated grip. Bumper plates are helpful so the bar drops safely to the floor each rep.",
+    "steps": [
+      "Step 1: Begin with the bar on the floor, torso parallel to the ground, arms extended.",
+      "Step 2: Take a breath and brace the core hard.",
+      "Step 3: Explosively row the bar toward the lower chest or upper abdomen by driving the elbows up and back.",
+      "Step 4: At the top, squeeze the scapulae together fully.",
+      "Step 5: Lower the bar all the way to the floor in a controlled manner and allow it to come to a complete stop before the next rep."
+    ],
+    "breathing_instructions": "Inhale and brace before each rep. Exhale after the bar makes contact with the floor.",
+    "common_mistakes": [
+      "Bouncing the bar off the floor instead of achieving a true dead stop",
+      "Raising the torso to assist the row, reducing back stimulus and stressing the lower back",
+      "Not reaching full scapular retraction at the top of each rep"
+    ],
+    "safety_considerations": [
+      "The strict horizontal torso position places significant demand on the erector spinae — do not perform when lower back is fatigued",
+      "Use bumper plates if possible to protect the floor and bar"
+    ],
+    "range_of_motion_guidance": "Full dead-stop at the bottom to full scapular retraction at the top. No partial reps.",
+    "tempo_recommendations": "Explosive concentric (as fast as possible under control), controlled 2s eccentric, full stop between reps.",
+    "coaching_cues": [
+      "Torso parallel to the floor the entire set — if it rises, the weight is too heavy",
+      "Think of the row as a 'jump' for your upper back",
+      "Every rep starts from zero — no rebound"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 3, "max_reps": 6 },
+      { "goal": "hypertrophy", "min_reps": 6, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 4, "max_sets": 6 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 180, "hypertrophy": 120 },
+    "training_goals": ["strength", "hypertrophy", "power"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "row", "dead-stop", "upper-back"]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "exercise_id": "ba010025-f3a2-4c1e-9b8d-7e6f5a4c3b48",
+  "slug": "suitcase-deadlift",
+  "name": "Suitcase Deadlift",
+  "alternative_names": ["Lateral Deadlift", "Single-Side Deadlift"],
+  "description": "The suitcase deadlift is a unilateral variation where a single weight (barbell, dumbbell, or kettlebell) is lifted from the floor at the side of the body, mimicking the action of picking up a heavy suitcase. The offset loading creates a significant lateral anti-flexion demand on the core, requiring the obliques and quadratus lumborum to resist lateral bending throughout the lift. It develops functional carrying strength and core stability simultaneously.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"}
+    ],
+    "secondary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "cccccccc-0001-4000-a000-00000000000c", "muscle_slug": "quadriceps"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000009-0000-4000-a000-000000000009"],
+  "execution": {
+    "starting_position": "Stand with a dumbbell or kettlebell on the floor to one side of the body. The weight is positioned beside the hip, not in front. Feet hip-width apart.",
+    "setup_instructions": "Begin with a moderate weight — the anti-lateral-flexion demand can be deceiving. Perform equal reps on both sides.",
+    "steps": [
+      "Step 1: Stand with the weight to the right side of the body.",
+      "Step 2: Hinge at the hip and bend the knee to reach the weight with the right hand.",
+      "Step 3: Brace the core hard and resist the pull to lean toward the weight.",
+      "Step 4: Drive through the floor and stand tall, keeping the torso perfectly vertical.",
+      "Step 5: Lower under control to the floor. Complete all reps, then switch sides."
+    ],
+    "breathing_instructions": "Brace before each rep. Exhale at lockout.",
+    "common_mistakes": [
+      "Leaning toward the loaded side — the torso must remain vertical throughout",
+      "Reaching too far to the side, compromising the hip hinge pattern",
+      "Using a weight so heavy that lateral flexion cannot be resisted"
+    ],
+    "safety_considerations": [
+      "If the torso cannot be kept vertical, reduce the load",
+      "Perform equal volume on both sides to prevent asymmetry development"
+    ],
+    "range_of_motion_guidance": "Full hip extension at the top. Weight returns to the floor between reps.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Stand tall — don't lean toward the weight", "Carry it like you don't want anyone to notice", "Shoulder stays level"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["strength", "functional"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "deadlift", "unilateral", "anti-lateral-flexion", "core"]
+  }
+}

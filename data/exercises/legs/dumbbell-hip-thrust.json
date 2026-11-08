@@ -1,0 +1,67 @@
+{
+  "exercise_id": "a1b2c3d4-0032-4000-a000-100000000032",
+  "slug": "dumbbell-hip-thrust",
+  "name": "Dumbbell Hip Thrust",
+  "alternative_names": ["DB Hip Thrust"],
+  "description": "The dumbbell hip thrust is a beginner-friendly alternative to the barbell hip thrust that allows the load to rest comfortably across the hips using one or two dumbbells. The upper back is supported on a bench, and the hips drive upward against the dumbbell's weight. It is easier to set up than the barbell version and allows precise load increments, making it ideal for beginners learning the hip thrust movement pattern.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [{"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on the floor with the upper back against a flat bench. Place a dumbbell horizontally across the hip crease. Feet flat on the floor, shoulder-width apart.",
+    "setup_instructions": "Position the bench against a wall so it doesn't slide. Hold the dumbbell in place with both hands during the thrust.",
+    "steps": [
+      "Step 1: Begin with hips low, dumbbell at the hip crease, upper back against the bench.",
+      "Step 2: Drive through both heels and squeeze the glutes to extend the hips.",
+      "Step 3: Push up until hips are fully extended, body forming a straight line from knees to shoulders.",
+      "Step 4: Lower the hips slowly back to the floor and repeat."
+    ],
+    "breathing_instructions": "Exhale on the hip drive up, inhale on the return.",
+    "common_mistakes": ["Hips not fully extending at the top", "Dumbbell sliding off the hip crease", "Feet too close or too far from the body"],
+    "safety_considerations": ["Use a folded towel under the dumbbell for comfort on the hip bones if needed"],
+    "range_of_motion_guidance": "Full hip extension at top without hyperextending the lower back.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Drive through the heels", "Full glute squeeze at the top", "Chin stays tucked — don't look at the ceiling"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 12},
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 75},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "compound", "dumbbell", "beginner"]
+  }
+}

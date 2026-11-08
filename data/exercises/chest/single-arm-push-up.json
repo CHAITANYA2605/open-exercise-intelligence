@@ -1,0 +1,85 @@
+{
+  "exercise_id": "a1b2c3d4-0016-4000-a000-chest0000016",
+  "slug": "single-arm-push-up",
+  "name": "Single-Arm Push-Up",
+  "alternative_names": ["One-Arm Push-Up", "1-Arm Push-Up"],
+  "description": "The single-arm push-up is one of the most demanding bodyweight chest exercises, requiring one side of the chest and triceps to push the full body weight while the core resists significant rotational forces. It builds unilateral pressing strength, anti-rotation core stability, and serves as a benchmark of upper-body bodyweight strength.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a push-up position, then move one hand behind the back or to the side. Place the working hand beneath the center of the chest, feet wider than shoulder-width for stability.",
+    "setup_instructions": "No equipment required. Begin by practicing archer push-ups and wide-stance negative single-arm push-ups before attempting the full movement.",
+    "steps": [
+      "Step 1: Position the working hand directly under the chest with fingers pointing forward or slightly outward.",
+      "Step 2: Extend the non-working arm behind the back or hold it at the side.",
+      "Step 3: Lower the body toward the floor under control, keeping the torso square to the floor.",
+      "Step 4: At the bottom, press explosively through the working hand, extending the arm fully.",
+      "Step 5: Maintain a rigid, non-rotating torso throughout the entire rep."
+    ],
+    "breathing_instructions": "Inhale as you lower. Exhale forcefully as you press back up.",
+    "common_mistakes": [
+      "Letting the torso rotate toward the working side",
+      "Placing the hand too far to the side, reducing mechanical advantage",
+      "Using momentum or hip twist to assist the press"
+    ],
+    "safety_considerations": [
+      "Build up through progressions: wall, incline, archer push-ups, negatives",
+      "Wide feet stance significantly reduces difficulty and is a valid progression step",
+      "Stop immediately if you feel wrist pain"
+    ],
+    "range_of_motion_guidance": "Full depth to where the chest nearly touches the floor, full lockout at the top. No torso rotation at any point.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": ["Keep the hip square — don't twist", "Press straight down through the floor", "Wider feet = easier; use to build up"]
+  },
+  "variants": {
+    "easier": ["archer-push-up", "pseudo-planche-push-up"],
+    "harder": ["clap-push-up"],
+    "unilateral": ["single-arm-push-up"],
+    "bilateral": ["push-up"],
+    "equipment_alternatives": ["single-arm-dumbbell-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "calisthenics", "unilateral_strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "bodyweight", "push-up", "unilateral", "advanced", "calisthenics"]
+  }
+}

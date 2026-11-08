@@ -1,0 +1,154 @@
+{
+  "exercise_id": "c071672a-8b17-4254-a2c2-71ff4189d77c",
+  "slug": "overhead-dumbbell-lunge",
+  "name": "Overhead Dumbbell Lunge",
+  "alternative_names": [
+    "DB Overhead Walking Lunge"
+  ],
+  "description": "A lunge variation with dumbbells locked out overhead. The overhead position dramatically increases core stability demand, shoulder girdle endurance, and thoracic extension requirements while simultaneously training the lower body in a unilateral lunge pattern.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "lunge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b",
+        "muscle_slug": "iliacus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "execution": {
+    "starting_position": "Stand tall holding a dumbbell in each hand pressed overhead with elbows fully locked out and arms close to ears.",
+    "setup_instructions": "Press the dumbbells to lockout overhead before beginning. Confirm shoulder mobility allows a true vertical lockout position.",
+    "steps": [
+      "Step 1: Take a large step forward with one foot and lower into a lunge, keeping dumbbells overhead throughout.",
+      "Step 2: Lower the rear knee toward the floor while keeping the torso upright and arms vertical.",
+      "Step 3: Drive through the front heel to step forward, bringing the feet together.",
+      "Step 4: Repeat on the opposite side, continuing to walk forward."
+    ],
+    "breathing_instructions": "Breathe steadily throughout. Do not hold your breath with heavy overhead loading.",
+    "common_mistakes": [
+      "Allowing the arms to drift forward from vertical overhead",
+      "Hyperextending the lower back to compensate for limited shoulder mobility"
+    ],
+    "safety_considerations": [
+      "Use lighter dumbbells than you would for a standard lunge \u2014 the overhead position is very demanding",
+      "Lower the weights immediately if shoulder pain occurs"
+    ],
+    "range_of_motion_guidance": "Full lunge depth (rear knee near floor, front thigh parallel). Arms remain fully extended overhead.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Squeeze the armpits to keep arms vertical",
+      "Ribs down \u2014 do not flare them"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "glutes",
+      "overhead",
+      "compound"
+    ]
+  }
+}

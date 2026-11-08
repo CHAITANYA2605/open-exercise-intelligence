@@ -1,0 +1,80 @@
+{
+  "exercise_id": "bb2e632c-240d-4aa6-9fce-80992ad1df84",
+  "slug": "scapular-overhead-press",
+  "name": "Scapular Overhead Press",
+  "alternative_names": ["Scapular Elevation Press", "Shrug Press"],
+  "description": "The scapular overhead press begins at the top of a standard overhead press with elbows locked, then adds a final phase of scapular elevation (shrugging the shoulders upward) to fully load the upper trapezius and serratus anterior through the last degrees of overhead range. It is used to train the final phase of overhead reaching and to build the muscles responsible for upward scapular rotation.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000001-0000-4000-a000-000000000001"],
+  "execution": {
+    "starting_position": "Hold dumbbells or a barbell at the locked-out overhead position — arms fully extended above the head, shoulders packed.",
+    "setup_instructions": "Begin from the top of an overhead press. This can be done seated or standing. Moderate weight.",
+    "steps": [
+      "Step 1: Begin with arms fully extended overhead.",
+      "Step 2: From the locked position, shrug the shoulders upward toward the ears.",
+      "Step 3: At peak elevation, the shoulder blades rotate upward fully.",
+      "Step 4: Lower the shoulders back to the packed position.",
+      "Step 5: Repeat the shrug without bending the elbows."
+    ],
+    "breathing_instructions": "Exhale shrugging. Inhale returning.",
+    "common_mistakes": [
+      "Bending the elbows — this becomes a standard overhead press movement",
+      "Only partial elevation — aim for maximum upward scapular rotation"
+    ],
+    "safety_considerations": [
+      "Ensure the arms are fully locked before beginning the shrug phase",
+      "Avoid if shoulder impingement occurs at full overhead position"
+    ],
+    "range_of_motion_guidance": "Packed shoulder position to full upward scapular rotation/elevation.",
+    "tempo_recommendations": "1-2-2-0",
+    "coaching_cues": [
+      "Arms stay straight — shrug is the movement",
+      "Think 'ears to ceiling'",
+      "Feel the traps working at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 60 },
+    "training_goals": ["hypertrophy", "rehabilitation"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["overhead-press", "scapular", "trapezius", "shoulder-health", "serratus"]
+  }
+}

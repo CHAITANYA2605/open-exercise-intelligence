@@ -1,0 +1,77 @@
+{
+  "exercise_id": "d0e1f2a3-b4c5-4678-d901-e23f45a67b22",
+  "slug": "floor-dumbbell-flye-to-press",
+  "name": "Floor Dumbbell Flye to Press",
+  "alternative_names": ["Floor Fly to Press", "Dumbbell Flye Press Floor"],
+  "description": "A combination chest exercise performed on the floor that begins as a dumbbell flye and transitions into a press on each repetition. The floor limits elbow travel below shoulder level, reducing shoulder stress while still providing significant chest stretch. The flye-to-press combo increases time under tension and trains both adduction and horizontal pushing in a single movement.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on the floor with knees bent, feet flat. Hold a dumbbell in each hand, arms extended above the chest with palms facing each other.",
+    "setup_instructions": "Select a weight appropriate for a flye — lighter than pressing weight. The floor prevents excessive arm travel below the torso.",
+    "steps": [
+      "Step 1: Begin with arms extended above the chest, dumbbells nearly touching, palms facing each other.",
+      "Step 2: Open the arms out wide in a flye arc, lowering until the upper arms contact or near the floor.",
+      "Step 3: At the bottom of the flye, bend the elbows and bring the dumbbells to chest level (now in press position).",
+      "Step 4: Press the dumbbells back up to the starting position.",
+      "Step 5: That is one rep: flye open → elbows bend → press up. Repeat."
+    ],
+    "breathing_instructions": "Inhale on the flye open, exhale on the press back up.",
+    "common_mistakes": [
+      "Opening too fast and slamming arms into the floor",
+      "Using too heavy a weight for the flye portion — leads to poor form on the arc",
+      "Skipping the elbow bend at the bottom — this is what distinguishes the combo from a pure flye"
+    ],
+    "safety_considerations": [
+      "The floor stops elbow travel and protects the shoulder naturally — do not force past the floor stop",
+      "Keep elbows slightly bent throughout the flye arc"
+    ],
+    "range_of_motion_guidance": "Open to floor contact on the flye. Press to full arm extension. Floor contact provides natural range of motion limit.",
+    "tempo_recommendations": "2-1-1-1 (2s flye open, 1s bend elbows, 1s press, 1s reset)",
+    "coaching_cues": [
+      "Flye first, then press — the two phases are distinct within each rep",
+      "Soft elbows on the flye — do not lock the arms straight"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "floor", "flye", "press", "combo", "chest"]
+  }
+}

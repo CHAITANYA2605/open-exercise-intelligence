@@ -1,0 +1,81 @@
+{
+  "exercise_id": "418a54c0-05ee-4c3a-9c90-3e1b858f422a",
+  "slug": "band-teardrop-lateral-raise",
+  "name": "Band Teardrop Lateral Raise",
+  "alternative_names": ["Resistance Band Teardrop Raise", "Band Lateral Teardrop"],
+  "description": "The band teardrop lateral raise traces a teardrop-shaped arc — raising the arms out to the side, then bringing them together overhead before returning. The combined abduction and overhead phase trains the medial deltoid through its full range of abduction while the overhead convergence challenges the upper trapezius and serratus anterior. The continuous band tension through the arc provides loading at positions that dumbbells cannot match.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with both feet on a resistance band loop. Hold each side of the band with the corresponding hand. Bands hang beside the thighs.",
+    "setup_instructions": "Adjust foot position on the band to control tension. Light to moderate band tension for high quality reps.",
+    "steps": [
+      "Step 1: Begin with arms at sides, hands on the band.",
+      "Step 2: Raise both arms out to the sides in a standard lateral raise to shoulder height.",
+      "Step 3: Continue the arc, bringing the hands together overhead.",
+      "Step 4: Lower the hands back overhead to the sides, then return to the starting position.",
+      "Step 5: One rep = out, up, together, down, in."
+    ],
+    "breathing_instructions": "Exhale on the raise. Inhale returning.",
+    "common_mistakes": [
+      "Breaking the arc — the motion should be smooth and continuous",
+      "Insufficient tension — the band should be taut at the starting position"
+    ],
+    "safety_considerations": [
+      "Light loads only — high-rep focused exercise for deltoid pump and mobility",
+      "Avoid if shoulder impingement is present"
+    ],
+    "range_of_motion_guidance": "Full arc from sides to overhead and back.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Draw a teardrop shape with both hands",
+      "Lead with the elbows, not the hands",
+      "Pinkies up throughout the raise"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 60 },
+    "training_goals": ["hypertrophy", "mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["resistance-band", "lateral-raise", "teardrop", "deltoid", "shoulder"]
+  }
+}

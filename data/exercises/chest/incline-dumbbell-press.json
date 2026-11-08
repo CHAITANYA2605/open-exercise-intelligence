@@ -1,0 +1,138 @@
+{
+  "exercise_id": "a1b2c3d4-0004-4000-8001-000000000004",
+  "slug": "incline-dumbbell-press",
+  "name": "Incline Dumbbell Press",
+  "alternative_names": [
+    "Incline DB Press"
+  ],
+  "description": "The incline dumbbell press targets the upper pectoralis major using independent dumbbells on an inclined bench. The unilateral loading allows each arm to move independently, promoting balanced development and enabling a greater range of motion at the bottom of the lift.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set an adjustable bench to 30\u201345 degrees. Sit on the bench with a dumbbell on each knee, then use leg drive to bring them to chest level as you recline. Hold dumbbells with palms facing forward at the sides of your upper chest.",
+    "setup_instructions": "Adjust the bench angle before loading up. Use knee-kick technique to get heavy dumbbells into position safely. Retract and depress shoulder blades before pressing.",
+    "steps": [
+      "Press both dumbbells upward and slightly inward until arms are nearly extended.",
+      "Lower under control until your upper arms are parallel to the floor or slightly below, feeling a stretch in the upper chest.",
+      "Pause briefly at the bottom, then press back up with controlled power."
+    ],
+    "breathing_instructions": "Inhale on the way down, exhale on the press.",
+    "common_mistakes": [
+      "Letting the dumbbells drift too wide at the bottom, overstressing the front of the shoulder",
+      "Excessive bench angle reducing pec involvement"
+    ],
+    "safety_considerations": [
+      "Drop dumbbells to the sides rather than trying to sit up with them after a failed rep",
+      "Use a spotter when attempting heavy weights"
+    ],
+    "range_of_motion_guidance": "Full range: upper arms slightly below parallel at the bottom, arms nearly extended at top.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": [
+      "Press the dumbbells in an arc \u2014 not straight up",
+      "Feel the upper chest stretching at the bottom position"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "upper-chest",
+      "dumbbell",
+      "incline"
+    ]
+  }
+}

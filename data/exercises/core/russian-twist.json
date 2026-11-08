@@ -1,0 +1,120 @@
+{
+  "exercise_id": "f6a7b8c9-0008-4000-8006-000000000008",
+  "slug": "russian-twist",
+  "name": "Russian Twist",
+  "alternative_names": [
+    "Seated Rotation",
+    "Weighted Russian Twist"
+  ],
+  "description": "The Russian twist is a rotational core exercise performed in a seated position with the torso leaned back at an angle. The lifter rotates the torso side to side, training the obliques and transverse abdominis in a rotational pattern. It can be performed with bodyweight, a weight plate, or a medicine ball.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000044-0000-4000-a000-000000000044"
+  ],
+  "execution": {
+    "starting_position": "Sit on the floor with knees bent and feet flat or slightly elevated. Lean back until the torso is at approximately 45 degrees from the floor. Hold a weight or clasp hands together in front of the chest.",
+    "setup_instructions": "Feet can be anchored for beginners. Advanced lifters can elevate the feet for greater difficulty.",
+    "steps": [
+      "Rotate the torso to one side, bringing the hands or weight toward the floor beside the hip.",
+      "Rotate back through center and to the other side.",
+      "One rotation to each side counts as one complete repetition."
+    ],
+    "breathing_instructions": "Exhale on each rotation. Breathe rhythmically.",
+    "common_mistakes": [
+      "Rotating with the arms only \u2014 the rotation must come from the torso",
+      "Relaxing the core during the movement"
+    ],
+    "safety_considerations": [
+      "If lower back discomfort occurs, reduce the torso lean angle"
+    ],
+    "range_of_motion_guidance": "Rotate as far as the torso allows without losing the leaned-back position.",
+    "tempo_recommendations": "Controlled \u2014 1-2 seconds per rotation",
+    "coaching_cues": [
+      "Let your ribs lead the rotation \u2014 not your arms",
+      "Keep the chest up and spine long throughout"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "obliques",
+      "rotation",
+      "bodyweight"
+    ]
+  }
+}

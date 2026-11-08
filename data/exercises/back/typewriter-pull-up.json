@@ -1,0 +1,87 @@
+{
+  "exercise_id": "f1e2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
+  "slug": "typewriter-pull-up",
+  "name": "Typewriter Pull-Up",
+  "alternative_names": ["Windshield Wiper Pull-Up", "Side-to-Side Pull-Up"],
+  "description": "The typewriter pull-up is an advanced calisthenics variation where the lifter pulls to the top of a pull-up and then traverses horizontally across the bar — moving from side to side like a typewriter carriage — before descending. This lateral movement under full load targets the lats, biceps, and scapular stabilizers through a unique range of motion and builds exceptional pulling strength and body control.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus" }
+    ]
+  },
+  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
+  "equipment_optional": ["eq000020-0000-4000-a000-000000000020"],
+  "execution": {
+    "starting_position": "Hang from a pull-up bar with a wide overhand grip, arms fully extended.",
+    "setup_instructions": "Use a straight pull-up bar wide enough to allow lateral movement. Ensure a solid grip on the bar.",
+    "steps": [
+      "Step 1: Pull up until the chin clears the bar.",
+      "Step 2: While maintaining the top position, shift the body laterally toward the right hand by extending the left arm.",
+      "Step 3: Move fully to the right side so the chin is near the right hand.",
+      "Step 4: Traverse back across to the left side.",
+      "Step 5: Once back in the center, lower slowly to full dead hang."
+    ],
+    "breathing_instructions": "Exhale during the initial pull. Breathe steadily while traversing. Inhale on the controlled descent.",
+    "common_mistakes": [
+      "Dropping from the top position before completing the traverse",
+      "Lacking the shoulder stability to control the lateral shift safely",
+      "Using a bar too narrow to allow meaningful lateral movement"
+    ],
+    "safety_considerations": [
+      "Ensure grip strength is sufficient — dropping from this position unexpectedly can cause injury",
+      "Only attempt after mastering controlled pull-up negatives and archer pull-ups"
+    ],
+    "range_of_motion_guidance": "Full range from dead hang through traversal at the top.",
+    "tempo_recommendations": "2s pull, controlled traverse, 3–4s descent",
+    "coaching_cues": [
+      "Stay at the top — do not let yourself drop during the traverse",
+      "Slide smoothly side to side rather than jerking",
+      "Engage the core hard to prevent leg swing"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 2, "max_reps": 4 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 180 },
+    "training_goals": ["strength", "power"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "pull-up", "advanced", "skill"]
+  }
+}

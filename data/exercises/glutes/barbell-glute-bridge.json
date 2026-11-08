@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-0033-4000-a000-glut00000001",
+  "slug": "barbell-glute-bridge",
+  "name": "Barbell Glute Bridge",
+  "alternative_names": ["Loaded Glute Bridge", "Floor Hip Bridge with Barbell"],
+  "description": "The barbell glute bridge is performed lying on the floor with a barbell placed across the hips, driving the hips upward from the floor to full extension. Unlike the barbell hip thrust, the upper back remains flat on the floor rather than elevated on a bench, reducing the range of motion but requiring no bench. It is an effective and accessible glute exercise that provides high levels of gluteus maximus activation at the end-range hip extension position.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "bridge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hip-thrust",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000022-0000-4000-a000-000000000022"],
+  "execution": {
+    "starting_position": "Lie on your back with knees bent and feet flat on the floor, hip-width apart. Place the barbell across your hips, with a pad or towel for comfort.",
+    "setup_instructions": "Roll the barbell over the legs to position it across the hip crease. Use a barbell pad or folded towel to reduce discomfort on the anterior hip bones.",
+    "steps": [
+      "Step 1: Lie on your back, bar across the hips, feet hip-width, knees at approximately 90°. Hold the bar lightly at each side.",
+      "Step 2: Drive through both feet to push the hips upward toward the ceiling.",
+      "Step 3: Squeeze the glutes forcefully at the top until the hips, knees, and shoulders form a straight line.",
+      "Step 4: Hold the peak contraction for one second.",
+      "Step 5: Lower the hips to the floor in a controlled manner."
+    ],
+    "breathing_instructions": "Exhale as you drive the hips up. Inhale as you lower.",
+    "common_mistakes": [
+      "Hyperextending the lower back at the top — the top position should be a neutral spine plank, not an arched back",
+      "Feet placed too far away, shifting load to the hamstrings rather than glutes",
+      "Not squeezing the glutes at the top"
+    ],
+    "safety_considerations": [
+      "Use a barbell pad — the hip crease is a sensitive area under load",
+      "Ensure the barbell is stable before beginning"
+    ],
+    "range_of_motion_guidance": "Hips descend to the floor at the bottom. Full hip extension at the top — body forms a straight line from knees to shoulders.",
+    "tempo_recommendations": "1-1-2-0 (drive up 1s, squeeze 1s, lower 2s)",
+    "coaching_cues": [
+      "Drive through the heels — not the toes",
+      "Tuck the pelvis slightly at the top — don't arch the lower back",
+      "Squeeze the glutes hard — hold the top for a beat"
+    ]
+  },
+  "variants": {
+    "easier": ["glute-bridge"],
+    "harder": ["barbell-hip-thrust"],
+    "unilateral": ["single-leg-hip-thrust"],
+    "bilateral": ["barbell-hip-thrust"],
+    "equipment_alternatives": ["glute-bridge"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "hip-extension", "beginner-friendly"]
+  }
+}

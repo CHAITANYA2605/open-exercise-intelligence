@@ -1,0 +1,123 @@
+{
+  "exercise_id": "566caaac-bd66-494a-ae1d-29dab2b4f400",
+  "slug": "cable-rope-hammer-curl",
+  "name": "Cable Rope Hammer Curl",
+  "alternative_names": [
+    "Rope Hammer Curl"
+  ],
+  "description": "A hammer curl performed with a rope attachment on a low cable pulley. The cable provides constant tension throughout the movement and the neutral grip (palms facing each other) targets the brachialis and brachioradialis to a greater degree than a supinated curl, building arm thickness and elbow flexor strength.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      },
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing a low cable pulley, holding a rope attachment with a neutral grip (palms facing each other).",
+    "setup_instructions": "Attach a rope to the low cable pulley. Stand back enough for the cable to be taut with arms extended.",
+    "steps": [
+      "Step 1: Keeping the upper arms stationary at your sides, curl the rope upward.",
+      "Step 2: Pull the ends of the rope apart slightly at the top of the movement.",
+      "Step 3: Lower back to full arm extension in a controlled manner.",
+      "Step 4: Repeat without letting the upper arms swing forward."
+    ],
+    "breathing_instructions": "Exhale on the curl. Inhale on the return.",
+    "common_mistakes": [
+      "Swinging the upper arms to generate momentum",
+      "Not fully extending at the bottom"
+    ],
+    "safety_considerations": [
+      "Keep the upper arms pinned to the sides throughout"
+    ],
+    "range_of_motion_guidance": "Full extension at the bottom. Full flexion at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Split the rope at the top",
+      "Upper arms stay still"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "biceps",
+      "brachialis",
+      "cable",
+      "hammer-curl"
+    ]
+  }
+}

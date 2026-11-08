@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-f013-4000-a000-000000000213",
+  "slug": "snatch-pull",
+  "name": "Snatch Pull",
+  "alternative_names": ["Snatch Deadlift to High Pull"],
+  "description": "The snatch pull is the snatch equivalent of the clean pull — the athlete performs the full snatch pulling mechanics with a wide snatch grip but does not turn the bar over into a catch. It trains the specific pulling pattern of the snatch (wider grip, more external hip rotation) with loads exceeding snatch maximum. The snatch pull reinforces bar path, hip drive timing, and upper trap engagement specific to the snatch.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "snatch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Bar over mid-foot, wide snatch grip, flat back, hips between shoulders and knees.",
+    "setup_instructions": "Same starting position as the snatch. Use straps to focus on pulling mechanics without grip limitation.",
+    "steps": [
+      "Step 1: Set up with the wide snatch grip in the starting position.",
+      "Step 2: First pull — drive the floor away, keeping bar close and back angle constant.",
+      "Step 3: Second pull — extend hips explosively as the bar reaches the hip crease.",
+      "Step 4: Shrug the traps aggressively at full triple extension.",
+      "Step 5: Allow bar to rise from shrug momentum, then lower with control."
+    ],
+    "breathing_instructions": "Brace before initiating. Hold through the pull. Exhale as bar descends.",
+    "common_mistakes": [
+      "Early arm bend",
+      "Bar path too far from the body",
+      "Not achieving full triple extension"
+    ],
+    "safety_considerations": [
+      "The wider grip lowers the hip starting position compared to the clean pull.",
+      "Lower with control. Use straps as needed."
+    ],
+    "range_of_motion_guidance": "Full triple extension (ankle, knee, hip) at the top of the pull.",
+    "tempo_recommendations": "Explosive pull. Controlled lower.",
+    "coaching_cues": [
+      "Wide grip, bar sweeps close to the body",
+      "Full extension before the shrug",
+      "Rise on toes at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 2, "max_reps": 5},
+      {"goal": "power", "min_reps": 2, "max_reps": 4}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "power", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 180, "power": 180},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["olympic", "weightlifting", "snatch", "pull", "intermediate"]
+  }
+}

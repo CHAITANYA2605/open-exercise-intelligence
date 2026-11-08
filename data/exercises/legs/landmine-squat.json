@@ -1,0 +1,91 @@
+{
+  "exercise_id": "a1b2c3d4-0007-4000-a000-legs00000007",
+  "slug": "landmine-squat",
+  "name": "Landmine Squat",
+  "alternative_names": ["Goblet Landmine Squat"],
+  "description": "The landmine squat is performed by holding the loaded end of a barbell anchored at floor level in a landmine attachment or corner, with the hands clasped at chest height. The angled path of the bar supports a naturally upright squat posture and reduces the need for significant ankle dorsiflexion or shoulder mobility. It is accessible to beginners and is an effective teaching tool for the squat pattern.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000022-0000-4000-a000-000000000022"],
+  "execution": {
+    "starting_position": "Anchor one end of a barbell in a corner or landmine attachment. Load the free end with appropriate weight. Hold the free end with both hands clasped together at chest height. Stand with feet shoulder-width apart.",
+    "setup_instructions": "Place the barbell end in the corner where two walls meet (pad the wall), or use a dedicated landmine attachment. Load weight on the free end. Stand close to the loaded end so the bar is at a moderate angle.",
+    "steps": [
+      "Step 1: Hold the loaded barbell end at chest height with both hands clasped. Stand tall, feet shoulder-width, toes slightly out.",
+      "Step 2: Brace your core and initiate the squat by pushing the knees out and sitting the hips down.",
+      "Step 3: Descend to at least parallel. The bar will follow the arc naturally — allow this guided path to assist your positioning.",
+      "Step 4: Drive through the full foot to return to standing, pressing the bar slightly forward and up along its arc.",
+      "Step 5: Exhale at the top."
+    ],
+    "breathing_instructions": "Inhale and brace before descent. Exhale at the top.",
+    "common_mistakes": [
+      "Standing too far from the anchor, creating an excessive bar angle",
+      "Not descending to full depth, using the bar as a crutch",
+      "Allowing the knees to cave inward"
+    ],
+    "safety_considerations": [
+      "Ensure the anchor point is secure before loading",
+      "Keep hands firmly clasped — do not let the bar slip"
+    ],
+    "range_of_motion_guidance": "Aim for parallel. The bar's angle assists depth, making this accessible for those with limited mobility.",
+    "tempo_recommendations": "3-0-1-0",
+    "coaching_cues": [
+      "Let the bar guide you — follow its arc",
+      "Knees track over toes",
+      "Hips and knees extend together on the way up"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["goblet-squat", "front-squat"],
+    "unilateral": [],
+    "bilateral": ["barbell-squat"],
+    "equipment_alternatives": ["goblet-squat"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["squat", "beginner-friendly", "landmine"]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "exercise_id": "e9f0a1b2-c3d4-4567-e890-f12a34b56789",
+  "slug": "kneeling-cable-chest-press",
+  "name": "Kneeling Single-Arm Cable Chest Press",
+  "alternative_names": ["Kneeling Single-Arm Press", "Half-Kneeling Cable Press"],
+  "description": "The Kneeling Single-Arm Cable Press is performed in a half-kneeling or tall-kneeling position, pressing one cable handle forward while the kneeling stance eliminates leg drive and demands significant hip flexor and core stability. The unilateral load creates anti-rotation demands on the torso, making this a functional press variation that builds pressing strength alongside core and hip stability.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ]
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_optional": ["eq000011-0000-4000-a000-000000000011"],
+  "execution": {
+    "starting_position": "Set a cable pulley to chest height. Kneel facing away from the machine (tall kneeling) or in a half-kneeling stance (one knee down, one foot forward). Hold one handle at chest level on the same side as the working arm.",
+    "setup_instructions": "Set cable to mid-chest height. Kneel on a mat for comfort. In a half-kneeling stance, the kneeling leg is on the same side as the cable for optimal stability.",
+    "steps": [
+      "Step 1: Hold the cable handle at chest level, brace the core.",
+      "Step 2: Press forward until the arm is fully extended.",
+      "Step 3: Return under control to the starting position.",
+      "Step 4: Complete all reps on one side, then switch."
+    ],
+    "breathing_instructions": "Exhale on the press. Inhale on return.",
+    "common_mistakes": [
+      "Rotating the torso toward the pressing arm",
+      "Leaning excessively forward or backward during the press"
+    ],
+    "safety_considerations": [
+      "Kneel on a padded mat",
+      "Start light until the stabilization pattern is established"
+    ],
+    "range_of_motion_guidance": "Full arm extension; return to chest-level start.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Hips stay neutral — don't let them shift",
+      "Squeeze the chest and think about pressing through the target, not just extending the arm"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["unilateral", "anti-rotation", "functional", "cable"]
+  }
+}

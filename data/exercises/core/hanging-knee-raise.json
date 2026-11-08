@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a1b2c3d4-e008-4000-a000-000000000108",
+  "slug": "hanging-knee-raise",
+  "name": "Hanging Knee Raise",
+  "alternative_names": ["Hanging Knee Tuck", "Knee Raise"],
+  "description": "The hanging knee raise is a beginner-to-intermediate hanging core exercise in which the athlete draws both knees toward the chest while hanging from a bar. By reducing the lever arm compared to straight-leg variations, it makes hip flexor and rectus abdominis training accessible to those building toward hanging leg raises and toes-to-bar. Proper posterior pelvic tilt during the top of the movement ensures abdominal engagement beyond mere hip flexion.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hanging-core",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
+  "equipment_optional": ["eq000019-0000-4000-a000-000000000019"],
+  "execution": {
+    "starting_position": "Hang from a pull-up bar with an overhand grip at shoulder-width. Arms fully extended, body still.",
+    "setup_instructions": "Use a secure overhead bar. Strive for a stable dead hang before initiating the movement.",
+    "steps": [
+      "Step 1: Begin in a stable dead hang with arms fully extended.",
+      "Step 2: Brace the core and draw both knees upward toward the chest.",
+      "Step 3: At the top, tuck the pelvis posteriorly and compress the abs to ensure the rectus abdominis is loaded.",
+      "Step 4: Lower the knees with control back to the starting position.",
+      "Step 5: Avoid swinging at the bottom — pause briefly in dead hang before the next repetition."
+    ],
+    "breathing_instructions": "Exhale as the knees rise. Inhale on the controlled descent.",
+    "common_mistakes": [
+      "Swinging the body to generate momentum rather than using core strength",
+      "Dropping the knees too fast — the eccentric phase should be controlled",
+      "Failing to posteriorly tilt the pelvis at the top, leaving the movement as pure hip flexion"
+    ],
+    "safety_considerations": [
+      "Grip strength limits many beginners — use chalk or straps if needed.",
+      "Avoid swinging as it places uneven load on the shoulder joints."
+    ],
+    "range_of_motion_guidance": "Knees should rise to at least hip height; ideally toward the chest for maximum abdominal involvement.",
+    "tempo_recommendations": "2-0-2: 2 seconds concentric, 2 seconds eccentric. Eliminate momentum.",
+    "coaching_cues": [
+      "Pull your knees into your belly",
+      "Round the lower back at the top — don't just lift legs",
+      "Pause at the bottom — no swinging"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 90, "endurance": 60},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["core", "hanging", "beginner-progression"]
+  }
+}

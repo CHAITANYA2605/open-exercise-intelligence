@@ -1,0 +1,121 @@
+{
+  "exercise_id": "f6a7b8c9-0002-4000-8006-000000000002",
+  "slug": "side-plank",
+  "name": "Side Plank",
+  "alternative_names": [
+    "Lateral Plank"
+  ],
+  "description": "The side plank is a unilateral isometric core exercise that challenges the obliques and lateral core musculature to resist lateral flexion of the spine. It is an essential anti-lateral flexion movement for complete core stability and is particularly effective at training the quadratus lumborum and lateral hip stabilizers.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "plank",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on one side with the forearm on the floor directly below the shoulder. Stack the feet on top of each other. Push up so the body forms a straight line from head to feet.",
+    "setup_instructions": "No equipment needed. Use a mat for elbow comfort. Perform on each side for equal time.",
+    "steps": [
+      "Push the hips upward off the floor, maintaining the straight line.",
+      "Top arm can rest on the hip or be extended toward the ceiling.",
+      "Hold for the prescribed duration, then switch sides."
+    ],
+    "breathing_instructions": "Breathe normally throughout the hold.",
+    "common_mistakes": [
+      "Allowing the hips to sag toward the floor",
+      "Rotating the torso forward or backward",
+      "Foot placement \u2014 stack feet or stagger for balance"
+    ],
+    "safety_considerations": [],
+    "range_of_motion_guidance": "Isometric hold. Maintain a rigid lateral plank position.",
+    "tempo_recommendations": "Hold 20\u201345 seconds per side, progressing over time",
+    "coaching_cues": [
+      "Push your hips toward the ceiling to maintain the line",
+      "Breathe freely \u2014 do not hold your breath during the hold"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 2,
+        "max_reps": 4
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "endurance": 30
+    },
+    "training_goals": [
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "plank",
+      "obliques",
+      "isometric",
+      "unilateral"
+    ]
+  }
+}

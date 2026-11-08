@@ -1,0 +1,85 @@
+{
+  "exercise_id": "f5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7a8b9c",
+  "slug": "cat-cow",
+  "name": "Cat-Cow",
+  "alternative_names": ["Spinal Flexion-Extension Mobilization", "Cat-Camel"],
+  "description": "Cat-cow is a dynamic spinal mobilization exercise performed on hands and knees that alternates between full spinal flexion (cat) and full spinal extension (cow). Moving through the full range of sagittal plane spinal motion warms up the intervertebral joints and muscles, promotes synovial fluid circulation, and is widely used as a preparatory movement before training or as morning mobility work. It is suitable for virtually all populations.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis" }
+    ],
+    "secondary": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a tabletop position on hands and knees. Wrists directly under shoulders, knees directly under hips. Spine neutral.",
+    "setup_instructions": "Use a mat for comfort on the knees and wrists.",
+    "steps": [
+      "Step 1: Begin in a neutral tabletop with spine parallel to the floor.",
+      "Step 2: CAT — Exhale and round the spine toward the ceiling, tucking the tailbone under and dropping the head. Hold 2 seconds.",
+      "Step 3: Return slowly through neutral.",
+      "Step 4: COW — Inhale and allow the spine to extend, letting the belly drop toward the floor while lifting the head and tailbone. Hold 2 seconds.",
+      "Step 5: Return to neutral. Repeat the cycle 10–15 times."
+    ],
+    "breathing_instructions": "Exhale into the cat (flexion) position. Inhale into the cow (extension) position. Let the breath drive the movement.",
+    "common_mistakes": [
+      "Only moving in the lumbar spine — try to distribute the motion through the thoracic and cervical spine as well",
+      "Moving too quickly — this is a slow, mindful mobilization",
+      "Not reaching full range in both directions"
+    ],
+    "safety_considerations": [
+      "If wrist discomfort occurs, make fists to reduce wrist extension load",
+      "Those with severe spinal pathology should consult a clinician before performing flexion-based movements"
+    ],
+    "range_of_motion_guidance": "Aim for full spinal flexion in cat and full extension in cow. Move through as much range as is comfortable.",
+    "tempo_recommendations": "2–3 seconds per position, 10–15 cycles.",
+    "coaching_cues": [
+      "Start from the tailbone — curl the pelvis first, then move segment by segment up the spine",
+      "In cow, imagine filling your belly with air as you drop it toward the floor",
+      "In cat, press the floor away with your hands to maximize the spinal flexion"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 3 }
+    ],
+    "rest_periods": { "mobility": 15 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["spine", "mobility", "yoga", "dynamic-stretch", "beginner", "warm-up"]
+  }
+}

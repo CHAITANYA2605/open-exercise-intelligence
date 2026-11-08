@@ -1,0 +1,69 @@
+{
+  "exercise_id": "sh010036-f3a2-4c1e-9b8d-7e6f5a4c3c17",
+  "slug": "high-cable-rear-delt-fly",
+  "name": "High Cable Rear Delt Fly",
+  "alternative_names": ["Face Pull Rear Delt Variation", "High-to-Low Cable Fly", "Upper Cable Rear Fly"],
+  "description": "The high cable rear delt fly is performed with both cable pulleys set at above-head height, gripping the opposing handles and pulling them down and outward in a horizontal arc to the sides of the body. The high-to-low angle applies a unique line of force on the posterior deltoid and scapular retractors compared to low-cable or dumbbell variations, targeting the rear deltoid from a mechanically different angle and improving overall posterior shoulder development.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "rear-delt-fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand between a cable crossover station with both pulleys set above head height. Reach across and grip the left pulley handle with the right hand, and right pulley with the left hand (cables cross). Arms extended upward.",
+    "setup_instructions": "Because cables cross, the motion pulls them apart and downward. Use very light weight — rear deltoids have limited absolute strength.",
+    "steps": [
+      "Step 1: Cross-grip the cable handles above head height. Arms extended overhead.",
+      "Step 2: With arms remaining straight (slight elbow bend), pull the cables downward and outward.",
+      "Step 3: Continue the arc until arms are level with the shoulders and wide to the sides.",
+      "Step 4: Squeeze the rear delts at the bottom of the pull.",
+      "Step 5: Return under control to the starting overhead position."
+    ],
+    "breathing_instructions": "Exhale on the pull, inhale on the return.",
+    "common_mistakes": [
+      "Bending the elbows too much — the arms should remain nearly straight throughout",
+      "Using too heavy a load, which recruits the traps and lats instead of the rear delts"
+    ],
+    "safety_considerations": ["The cables cross above the head — ensure the cable crossover station height is appropriate before starting"],
+    "range_of_motion_guidance": "From cables crossed overhead to arms wide at shoulder height.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Straight arms — pull with the rear delts not the elbows", "High to wide", "Squeeze the back of the shoulder at the bottom"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "rear-delt", "cable", "isolation", "fly"]
+  }
+}

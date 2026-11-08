@@ -1,0 +1,84 @@
+{
+  "exercise_id": "c4b615be-0794-4c73-8017-37597c21dbed",
+  "slug": "deficit-handstand-push-up",
+  "name": "Deficit Handstand Push-Up",
+  "alternative_names": ["Deep Handstand Push-Up", "Elevated Hands HSPU"],
+  "description": "The deficit handstand push-up places the hands on elevated surfaces (parallettes, blocks, or plates) to allow the head to descend below hand level, dramatically increasing the range of motion compared to a standard wall HSPU. The greater depth significantly increases the stretch placed on the anterior deltoid and upper pectoralis, and demands substantially more shoulder strength and stability through the extended range.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place parallettes, yoga blocks, or stable elevated surfaces at appropriate hand positions. Kick to a handstand against a wall with hands on the elevated surface. Hands at shoulder width or slightly wider.",
+    "setup_instructions": "Elevation of 10-20 cm is a typical starting deficit. Ensure the elevated surfaces are stable and non-slip before loading.",
+    "steps": [
+      "Step 1: Kick up to a handstand with hands on elevated surfaces.",
+      "Step 2: Lower the head below hand level — the degree of descent depends on the elevation height.",
+      "Step 3: Hold the bottom position briefly if training strength.",
+      "Step 4: Press back to full arm extension.",
+      "Step 5: Maintain rigid body position — no arch or piked hips."
+    ],
+    "breathing_instructions": "Inhale descending. Exhale pressing.",
+    "common_mistakes": [
+      "Attempting too large a deficit before the standard HSPU is mastered",
+      "Instability in the elevated surface — safety first"
+    ],
+    "safety_considerations": [
+      "Prerequisites: 10+ clean wall HSPUs before adding a deficit",
+      "Start with a small deficit (5-10 cm) and progress gradually"
+    ],
+    "range_of_motion_guidance": "Full arm extension to head below hand level.",
+    "tempo_recommendations": "3-0-2-0",
+    "coaching_cues": [
+      "Let the head descend below the hands",
+      "Press all the way to full arm extension",
+      "Body stays straight — no hip pike"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 1, "max_reps": 5 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 240 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "handstand", "deficit", "overhead-press", "advanced"]
+  }
+}

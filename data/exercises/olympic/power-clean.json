@@ -1,0 +1,91 @@
+{
+  "exercise_id": "a1b2c3d4-f005-4000-a000-000000000205",
+  "slug": "power-clean",
+  "name": "Power Clean",
+  "alternative_names": ["Power Clean"],
+  "description": "The power clean is a variation of the Olympic clean in which the bar is received above parallel — in a quarter squat rather than a full front squat — requiring greater bar height and power output from the second pull. It is widely used in sport conditioning programs for developing explosive hip extension power and is more accessible than the full clean due to reduced demands on front rack mobility and squat depth. The power clean is a staple exercise in American football, rugby, and many team sports training programs.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "clean",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Bar over mid-foot, shoulder-width grip, flat back, hips slightly above knees, shoulders over or slightly in front of the bar.",
+    "setup_instructions": "Use bumper plates. Set the bar on the floor. Establish a neutral spine and proper hip hinge position before each rep.",
+    "steps": [
+      "Step 1: First pull — press the floor away, keeping the back angle constant and bar close to the body.",
+      "Step 2: Second pull — explosively extend the hips as the bar passes the knees and hip crease.",
+      "Step 3: At full triple extension (ankle, knee, hip), shrug the traps and pull the elbows high and outside.",
+      "Step 4: Rotate the elbows under the bar and receive it in the front rack on the shoulders in a quarter squat (above parallel).",
+      "Step 5: Stand to full extension, return the bar to the floor with control."
+    ],
+    "breathing_instructions": "Brace before the pull. Hold through the second pull. Exhale after standing from the catch.",
+    "common_mistakes": [
+      "Catching below parallel (this is a full clean — the power clean catch must be above parallel)",
+      "Pulling with the arms before hip extension",
+      "Letting the bar drift away from the body"
+    ],
+    "safety_considerations": [
+      "Use bumper plates. Practice the hip drive and high pull before combining into a full power clean.",
+      "Wrist pain can occur in the front rack — develop wrist flexibility progressively."
+    ],
+    "range_of_motion_guidance": "Full hip extension before the third pull. Catch above parallel in a stable front rack position.",
+    "tempo_recommendations": "Explosive pull. Brief pause in front rack. Controlled lower.",
+    "coaching_cues": [
+      "Hips through — extend completely before pulling",
+      "High elbows — the bar should land on the shoulders, not the hands",
+      "Catch above parallel"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 1, "max_reps": 5},
+      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 4, "max_sets": 8},
+      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"power": 180, "strength": 180},
+    "training_goals": ["power", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["olympic", "weightlifting", "power", "advanced", "sport"]
+  }
+}

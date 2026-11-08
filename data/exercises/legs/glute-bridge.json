@@ -1,0 +1,132 @@
+{
+  "exercise_id": "d4e5f6a7-0010-4000-8004-000000000010",
+  "slug": "glute-bridge",
+  "name": "Glute Bridge",
+  "alternative_names": [
+    "Floor Glute Bridge",
+    "Bodyweight Hip Thrust"
+  ],
+  "description": "The glute bridge is a bodyweight or lightly loaded hip extension exercise performed flat on the floor. It is an accessible entry-level glute activation exercise that trains the glutes through hip extension and is frequently used in warm-ups, rehabilitation, and beginner training programs before progressing to the barbell hip thrust.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "bridge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bridge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on your back with knees bent at approximately 90 degrees and feet flat on the floor hip-width apart. Arms at the sides.",
+    "setup_instructions": "No equipment needed. Can be performed anywhere. Place feet close enough that heels are under or slightly behind the knees.",
+    "steps": [
+      "Press through the heels and squeeze the glutes to lift the hips toward the ceiling.",
+      "At the top, the body from knees to shoulders forms a straight line.",
+      "Hold the top position and squeeze the glutes firmly for one to two seconds.",
+      "Lower the hips under control back toward the floor."
+    ],
+    "breathing_instructions": "Exhale on the hip drive up. Inhale on the descent.",
+    "common_mistakes": [
+      "Thrusting with the lower back rather than squeezing the glutes",
+      "Feet too far from the body \u2014 this reduces glute activation"
+    ],
+    "safety_considerations": [
+      "Safe for most populations including beginners and those in rehabilitation"
+    ],
+    "range_of_motion_guidance": "Full hip extension at the top, hips nearly touching the floor at the bottom.",
+    "tempo_recommendations": "1-2-1-0",
+    "coaching_cues": [
+      "Squeeze your glutes \u2014 do not just raise your hips",
+      "Imagine you are trying to push your hips through the ceiling"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 20,
+        "max_reps": 30
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "glutes",
+      "bodyweight",
+      "beginner",
+      "bridge"
+    ]
+  }
+}

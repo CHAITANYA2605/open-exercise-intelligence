@@ -1,0 +1,82 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e01",
+  "slug": "ring-flye",
+  "name": "Ring Flye",
+  "alternative_names": ["Gymnastic Ring Chest Flye"],
+  "description": "The ring flye is an advanced chest isolation exercise performed on gymnastic rings. With arms extended to the sides and elbows slightly bent, the athlete drives the hands together in a wide arc, creating intense pectoral stretch and contraction. The unstable nature of the rings demands significantly greater rotator cuff and serratus anterior activation compared to cable or dumbbell flyes.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Adjust rings to approximately chest height when standing. Grip one ring in each hand, lean forward, and extend arms out to the sides with a slight bend in the elbows. Body is inclined forward, weight on the balls of the feet.",
+    "setup_instructions": "Set gymnastic rings at a height where your body angle creates appropriate difficulty — lower rings make the exercise harder. Ensure rings are secured and level.",
+    "steps": [
+      "Step 1: Begin with arms extended out to the sides, elbows slightly bent, body leaning forward at an angle determined by your strength level.",
+      "Step 2: Drive both hands together in a wide arc, maintaining the same elbow angle throughout — do not bend the elbows further.",
+      "Step 3: Squeeze the pectorals at the peak, hands meeting in front of your chest.",
+      "Step 4: Slowly reverse the motion, allowing the arms to open wide and stretch the chest under control."
+    ],
+    "breathing_instructions": "Exhale as you bring the rings together. Inhale during the controlled lowering phase.",
+    "common_mistakes": [
+      "Bending the elbows excessively, turning it into a push-up",
+      "Losing body tension and sagging at the hips",
+      "Allowing rings to rotate outward at the top position"
+    ],
+    "safety_considerations": [
+      "This exercise places significant stress on the shoulder joint — ensure adequate rotator cuff strength before attempting",
+      "Start with a steeper body angle (more upright) to reduce difficulty and progress gradually",
+      "Never lock out elbows under load on rings"
+    ],
+    "range_of_motion_guidance": "Open arms as wide as comfortable without shoulder pain, aiming for a full pectoral stretch. Bring hands together at mid-chest level at the top.",
+    "tempo_recommendations": "2-0-2-1 (2s open, no pause, 2s close, 1s squeeze)",
+    "coaching_cues": [
+      "Hug a barrel — maintain the same arm shape throughout",
+      "Keep your chest proud and shoulders packed down away from ears"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "chest", "isolation", "gymnastics"]
+  }
+}

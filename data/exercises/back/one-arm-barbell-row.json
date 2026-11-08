@@ -1,0 +1,152 @@
+{
+  "exercise_id": "e4cb2d8f-f3fb-4eee-91e9-ff90b6c25fcc",
+  "slug": "one-arm-barbell-row",
+  "name": "One-Arm Barbell Row",
+  "alternative_names": [
+    "Single-Arm Barbell Row",
+    "Meadows Row"
+  ],
+  "description": "A unilateral back exercise using a barbell loaded on one end (the other end is anchored in a landmine or wedged into a corner). The single-arm pulling pattern allows greater range of motion than many cable or dumbbell rows and loads the lat, rhomboid, and rear deltoid through a unique diagonal force vector.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "latissimus-dorsi"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "rhomboids"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "posterior-deltoid"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Straddle the barbell end with one foot forward. Hinge at the hips and grip the loaded end of the barbell with the outside hand.",
+    "setup_instructions": "Anchor a barbell in a landmine attachment or corner. Load the free end. Stand beside the weighted end in a staggered stance.",
+    "steps": [
+      "Step 1: Hinge at the hips to approximately 45 degrees with the core braced.",
+      "Step 2: Pull the loaded end of the bar up toward the hip, driving the elbow back and out.",
+      "Step 3: At the top, rotate the shoulder slightly to increase lat contraction.",
+      "Step 4: Lower under control to full arm extension and repeat."
+    ],
+    "breathing_instructions": "Exhale on the pull. Inhale on the return.",
+    "common_mistakes": [
+      "Rotating the torso excessively to assist the pull",
+      "Not hinging forward enough"
+    ],
+    "safety_considerations": [
+      "This row allows the shoulder to pronate at the top for increased range \u2014 this is intentional"
+    ],
+    "range_of_motion_guidance": "Full arm extension at the bottom. Bar pulled to the hip at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Drive the elbow back and out",
+      "Full stretch at the bottom"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "back",
+      "lats",
+      "unilateral",
+      "landmine",
+      "meadows-row"
+    ]
+  }
+}

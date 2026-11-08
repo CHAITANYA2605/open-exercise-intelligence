@@ -1,0 +1,71 @@
+{
+  "exercise_id": "sh010026-f3a2-4c1e-9b8d-7e6f5a4c3c07",
+  "slug": "barbell-front-raise",
+  "name": "Barbell Front Raise",
+  "alternative_names": ["Barbell Anterior Raise", "BB Front Raise"],
+  "description": "The barbell front raise targets the anterior deltoid by raising a barbell from the thighs to shoulder height in front of the body. The bilateral nature and pronated grip load both anterior deltoids simultaneously and provide a simple progressive overload path compared to dumbbell variations. It is a straightforward anterior deltoid isolation exercise suitable for adding volume to shoulder training.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "front-raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright holding a barbell with a pronated (overhand) grip at approximately shoulder width. The bar hangs at thigh level with arms nearly straight.",
+    "setup_instructions": "Use a relatively light load. The anterior deltoid is already heavily stressed from pressing — treat this as supplemental volume work.",
+    "steps": [
+      "Step 1: Hold the bar at thigh level with an overhand grip.",
+      "Step 2: Keeping the arms nearly straight (slight elbow bend), raise the bar in front of the body.",
+      "Step 3: Raise until the bar is at shoulder height or slightly above.",
+      "Step 4: Pause at the top briefly.",
+      "Step 5: Lower under full control to the thighs."
+    ],
+    "breathing_instructions": "Exhale as you raise, inhale as you lower.",
+    "common_mistakes": [
+      "Using body momentum by leaning back or rocking",
+      "Raising too high — above shoulder level recruits the traps excessively",
+      "Bending the elbows too much, turning it into a curl-raise hybrid"
+    ],
+    "safety_considerations": ["Keep the lower back neutral — do not hyperextend as the bar rises"],
+    "range_of_motion_guidance": "Thigh level to shoulder height (90 degrees).",
+    "tempo_recommendations": "2-0-3-0",
+    "coaching_cues": ["Arms like a robot — controlled arc", "No lean back", "Stop at shoulder height"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "front-raise", "barbell", "anterior-deltoid", "isolation"]
+  }
+}

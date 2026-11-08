@@ -1,0 +1,84 @@
+{
+  "exercise_id": "a7b8c9d0-e1f2-4a3b-4c5d-e6f7a8b9c407",
+  "slug": "low-to-high-cable-fly",
+  "name": "Low-to-High Cable Fly",
+  "alternative_names": ["Low Cable Fly", "Cable Fly (Low Pulley)"],
+  "description": "The low-to-high cable fly is performed with the cable pulleys set at the lowest position. The upward arc of the movement targets the clavicular (upper) portion of the pectoralis major, which is mechanically activated when the arm moves in an upward adduction pattern. This makes it complementary to flat and high-to-low fly variations for complete pectoral development.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+    ]
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_optional": ["eq000011-0000-4000-a000-000000000011"],
+  "execution": {
+    "starting_position": "Set both cable pulleys to the lowest position. Grasp the handles, stand between the stacks, and step forward. Begin with hands at approximately hip height, arms wide with a slight bend at the elbow.",
+    "setup_instructions": "Set cable pulleys to floor level. Use single-handle attachments. Select a weight that allows smooth control through the full upward arc.",
+    "steps": [
+      "Step 1: Position pulleys at the lowest setting and grasp handles. Step forward and stagger the stance.",
+      "Step 2: Start with hands at hip level, arms extended down and to the sides with elbows slightly bent.",
+      "Step 3: Exhale and arc both arms upward and inward in a scooping motion, meeting the hands at approximately chest to eye level.",
+      "Step 4: Squeeze the upper chest at the top, then inhale and slowly lower the hands back to hip level."
+    ],
+    "breathing_instructions": "Exhale as you arc the cables upward and in; inhale as you return to the low position.",
+    "common_mistakes": [
+      "Letting the elbows bend excessively, turning this into a curl",
+      "Allowing torso rotation instead of moving only at the shoulder joint"
+    ],
+    "safety_considerations": [
+      "Keep a consistent, slight elbow bend — do not lock out the arms",
+      "Control the eccentric to avoid jerking the shoulder at the bottom"
+    ],
+    "range_of_motion_guidance": "Full arc from hip height up to eye level, feeling a stretch at the bottom and a contraction at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Scoop from low to high as if lifting a large ball from your sides to above your head",
+      "Feel the upper chest squeeze at the top of the movement"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["cable-fly", "high-to-low-cable-fly"],
+    "equipment_alternatives": ["incline-dumbbell-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "upper-chest", "isolation", "fly"]
+  }
+}

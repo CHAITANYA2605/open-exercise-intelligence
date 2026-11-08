@@ -1,0 +1,89 @@
+{
+  "exercise_id": "c8b9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+  "slug": "seal-row",
+  "name": "Seal Row",
+  "alternative_names": ["Prone Barbell Row", "Bench Seal Row"],
+  "description": "The seal row is a prone barbell row performed with the chest resting on an elevated flat bench, so the arms hang completely freely and the bar travels from full extension to contact with the underside of the bench on every repetition. This setup eliminates all lower back involvement and momentum, forcing the upper back to do all the work through the full range of motion.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
+      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Elevate a flat bench on safeties, boxes, or plates so there is enough clearance beneath it for the barbell and loaded plates. Lie prone on the bench with the chest supported. Load the barbell underneath and grasp it with an overhand grip slightly wider than shoulder-width. Arms should be fully extended.",
+    "setup_instructions": "Place a flat bench on two sturdy boxes or power rack safeties so the underside of the bench is high enough to allow the loaded barbell to pass underneath freely. Load the barbell before mounting the bench.",
+    "steps": [
+      "Step 1: Begin with arms hanging, the barbell at full extension below the bench.",
+      "Step 2: Row the barbell up toward the underside of the bench by driving the elbows up and back.",
+      "Step 3: Touch or nearly touch the bar to the underside of the bench — this is the range-of-motion marker.",
+      "Step 4: Squeeze the shoulder blades together at the top.",
+      "Step 5: Lower the barbell fully, allowing the shoulder blades to protract, before the next rep."
+    ],
+    "breathing_instructions": "Exhale as you row the bar up. Inhale as you lower it.",
+    "common_mistakes": [
+      "Not elevating the bench high enough, restricting the range of motion",
+      "Failing to lower to full arm extension on each rep",
+      "Letting the bar swing forward rather than keeping it in a vertical path"
+    ],
+    "safety_considerations": [
+      "Ensure the bench supports are extremely stable before lying on the bench",
+      "Have a partner load the bar or load it before mounting the bench"
+    ],
+    "range_of_motion_guidance": "Full dead hang at the bottom to bar contact with the bench at the top. This is the longest available ROM for a horizontal pull.",
+    "tempo_recommendations": "1-1-3-0 (1s concentric, 1s hold, 3s eccentric)",
+    "coaching_cues": [
+      "Let the bar hang completely at the bottom — no short reps",
+      "Touch the bench every single rep",
+      "Imagine pulling the bench down onto the bar, not the bar up to the bench"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 5, "max_reps": 8 },
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 4, "max_sets": 5 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 150, "hypertrophy": 90 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "row", "prone", "full-rom", "upper-back"]
+  }
+}

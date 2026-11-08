@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50025",
+  "slug": "standing-calf-raise-wedge",
+  "name": "Standing Calf Raise on Wedge Board",
+  "alternative_names": ["Wedge Calf Raise", "Incline Board Calf Raise"],
+  "description": "A standing calf raise performed with the heels elevated on a wedge board, which pre-loads the ankle into dorsiflexion before the plantarflexion movement begins. The wedge position places the calf under a greater stretch at the bottom of each repetition and is used in Achilles tendinopathy rehabilitation to bias the soleus and reduce the range demands at the ankle compared to a full-range step calf raise. The wedge reduces the risk of tendon overloading while still providing therapeutic loading.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral"}
+    ],
+    "secondary": [{"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with both heels on the elevated end of a 15-25 degree wedge board, toes on the lower end. This places the ankle in partial dorsiflexion as the starting position. Hold a wall or bar for balance.",
+    "setup_instructions": "A foam or wooden wedge board angled between 15-25 degrees is ideal. Alternatively, place a folded mat or wedge under the heels. The steeper the wedge, the more dorsiflexion pre-load.",
+    "steps": [
+      "Step 1: Stand on the wedge with heels elevated, feeling the initial calf stretch from the wedge position.",
+      "Step 2: Rise onto the balls of the feet to full plantarflexion.",
+      "Step 3: Hold the top position briefly.",
+      "Step 4: Lower slowly back to the wedge starting position. The wedge provides the dorsiflexion range; do not go below it."
+    ],
+    "breathing_instructions": "Exhale as you rise onto the toes. Inhale as you lower.",
+    "common_mistakes": ["Letting the heels drop off the back of the wedge — stay on the wedge surface at all times", "Using partial range at the top — press to full plantarflexion", "Rushing the eccentric — the slow lowering is the therapeutic component"],
+    "safety_considerations": ["The wedge reduces the risk of Achilles tendon overload compared to step calf raises, but loading should still be progressed gradually under physiotherapy guidance for rehabilitation", "Ensure the wedge is stable and cannot slide"],
+    "range_of_motion_guidance": "Full plantarflexion at the top. Bottom position is defined by the wedge surface — do not force below it.",
+    "tempo_recommendations": "2s rise, 1s top hold, 3s slow eccentric lower",
+    "coaching_cues": ["Press through the big toe knuckle at the top of each rep", "Slow on the way down — 3 seconds minimum for the lowering phase", "Keep the knees straight (for gastrocnemius emphasis) or slightly bent (for soleus emphasis)"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20},
+      {"goal": "strength", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 60, "strength": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calves", "Achilles", "rehabilitation", "ankle", "wedge"]
+  }
+}

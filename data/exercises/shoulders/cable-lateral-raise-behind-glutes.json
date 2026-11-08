@@ -1,0 +1,82 @@
+{
+  "exercise_id": "68532787-6ba6-4ade-b550-2eed10e31a55",
+  "slug": "cable-lateral-raise-behind-glutes",
+  "name": "Cable Lateral Raise (Cable Behind Glutes)",
+  "alternative_names": ["Behind-Body Cable Lateral Raise", "Rear Cable Lateral Raise"],
+  "description": "The cable lateral raise with the cable passing behind the glutes positions the cable at the low-back or glute level before the lift, changing the angle of resistance throughout the raise. This positioning maintains lateral deltoid tension through the bottom portion of the movement — where dumbbell raises have minimal tension — making it mechanically advantageous for complete medial deltoid loading across the full range.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand side-on to a low cable pulley. Reach behind the body and grasp the cable handle with the far hand, so the cable passes behind the glutes. Stand tall.",
+    "setup_instructions": "The cable should run behind the lower back and under the opposite arm's side. Grip the handle with the arm that is furthest from the cable stack.",
+    "steps": [
+      "Step 1: Begin with the cable behind the glutes, arm at the side.",
+      "Step 2: Raise the working arm out to the side and upward to shoulder height.",
+      "Step 3: The cable will pull from behind — this unique angle provides early-range tension.",
+      "Step 4: Lower under control.",
+      "Step 5: Complete all reps then turn and repeat on the other side."
+    ],
+    "breathing_instructions": "Exhale raising. Inhale lowering.",
+    "common_mistakes": [
+      "Not actually passing the cable behind the glutes — the cable must run behind the body",
+      "Excessive lean toward the cable — maintain upright posture"
+    ],
+    "safety_considerations": [
+      "Light loads — this is a finisher or detail exercise, not a strength builder",
+      "Ensure cable attachment does not catch on clothing"
+    ],
+    "range_of_motion_guidance": "Arm at side to shoulder height.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Cable runs behind your back — not to the side",
+      "Lead with the elbow, not the hand",
+      "Feel the tension from the very bottom of the movement"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 60 },
+    "training_goals": ["hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "lateral-raise", "behind-glutes", "deltoid", "shoulder"]
+  }
+}

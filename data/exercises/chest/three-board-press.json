@@ -1,0 +1,78 @@
+{
+  "exercise_id": "e5f6a7b8-c9d0-4123-e456-f78a90b12345",
+  "slug": "three-board-press",
+  "name": "3-Board Bench Press",
+  "alternative_names": ["Board Press (3 Board)"],
+  "description": "The 3-Board Bench Press stacks three 2-inch boards on the chest, leaving only the top 5-6 inches of the press range to complete. At this board height the movement is almost entirely triceps-driven, with minimal pectoral stretch-shortening involvement. It is used specifically for lockout strength development and as a heavy overload tool.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Lie on a flat bench. Partner holds three stacked boards against the chest. Grip the bar at shoulder-width or slightly narrower to maximize tricep involvement.",
+    "setup_instructions": "Stack three 2x6 boards or use a padded board block. The bar need only travel 5-6 inches to complete the movement. Load can be significantly above full ROM maximum.",
+    "steps": [
+      "Step 1: Unrack bar and lower to the board stack.",
+      "Step 2: Touch and briefly pause.",
+      "Step 3: Drive explosively to full lockout.",
+      "Step 4: Return under control and repeat."
+    ],
+    "breathing_instructions": "Brace fully before each rep. Exhale at lockout.",
+    "common_mistakes": [
+      "Using an overly wide grip that shifts load back to the chest rather than triceps",
+      "Failing to reach full elbow lockout"
+    ],
+    "safety_considerations": [
+      "Very heavy loads are possible — trained spotters are mandatory",
+      "Do not attempt without reliable partner support"
+    ],
+    "range_of_motion_guidance": "Top 5-6 inches of pressing ROM only. Full lockout required.",
+    "tempo_recommendations": "2-1-X-0 (explosive concentric)",
+    "coaching_cues": [
+      "Squeeze the triceps hard at lockout",
+      "Think 'push the ceiling away' for maximum extension"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 3}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 300},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["powerlifting", "lockout", "triceps", "board-press"]
+  }
+}

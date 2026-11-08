@@ -1,0 +1,67 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50018",
+  "slug": "scapular-wall-slides-foam-roller",
+  "name": "Scapular Wall Slides with Foam Roller",
+  "alternative_names": ["Foam Roller Wall Angels", "Wall Slide Roller Variation"],
+  "description": "Wall slides performed with a foam roller held between the forearms and the wall, adding tactile feedback and proprioceptive challenge to the standard wall angel pattern. The foam roller requires the exerciser to maintain even pressure through both forearms simultaneously, detecting asymmetries in scapular movement and motor control. This variation is used in shoulder rehabilitation programs to develop conscious scapular control and bilateral symmetry in overhead movement.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing a wall with a foam roller held vertically between both forearms and the wall surface. Begin with elbows at shoulder height, goal-post position, pressing the roller lightly against the wall.",
+    "setup_instructions": "Use a half-roller or cylindrical foam roller approximately 30-45 cm long. The roller should be held with both forearms pressing equally against it.",
+    "steps": [
+      "Step 1: Stand with both forearms pressing the foam roller against the wall, elbows at shoulder height.",
+      "Step 2: Slowly slide both forearms and the roller upward, keeping even pressure on both sides of the roller.",
+      "Step 3: Raise as high as shoulder mobility allows without compensating at the lower back or shrugging.",
+      "Step 4: Slide back down to the starting position with the same even pressure. Repeat."
+    ],
+    "breathing_instructions": "Exhale as you slide upward. Inhale as you return.",
+    "common_mistakes": ["Applying more pressure through one forearm than the other — the roller will tilt if asymmetry is present", "Losing wall contact with the forearms at the top of the movement", "Shrugging the shoulder blades upward rather than rotating them upward"],
+    "safety_considerations": ["If the foam roller rolling reveals strong asymmetry, address the weaker side with single-arm work before returning to this bilateral drill", "Avoid if shoulder pain increases with overhead movement — stay in pain-free range"],
+    "range_of_motion_guidance": "Slide the roller as high as bilaterally even pressure can be maintained. This is typically less than the range in the unloaded wall angel.",
+    "tempo_recommendations": "3s slide up, 2s hold, 3s slide down",
+    "coaching_cues": ["Keep the roller perfectly vertical — it will tilt if one arm is working more than the other", "Light pressure on the roller — this is not a strength exercise; it is a motor control exercise", "Think about reaching long through the elbows, not about how high you get"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 8, "max_reps": 12},
+      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 60, "mobility": 60},
+    "training_goals": ["mobility", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["scapular", "rehabilitation", "overhead-mobility", "shoulder", "foam-roller"]
+  }
+}

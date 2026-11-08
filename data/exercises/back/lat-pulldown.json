@@ -1,0 +1,137 @@
+{
+  "exercise_id": "b2c3d4e5-0006-4000-8002-000000000006",
+  "slug": "lat-pulldown",
+  "name": "Lat Pulldown",
+  "alternative_names": [
+    "Cable Lat Pulldown"
+  ],
+  "description": "The lat pulldown is a cable-based vertical pulling exercise that trains the latissimus dorsi and upper back. It is functionally similar to the pull-up but allows precise load adjustment, making it accessible to beginners and useful for high-repetition back training. It is one of the most effective machine-based exercises for developing back width.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "teres-major"
+      },
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "rhomboid-major"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000030-0000-4000-a000-000000000030"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit at the lat pulldown machine with thighs secured under the pads. Grip the bar slightly wider than shoulder width with a pronated grip. Arms extended above, slight backward lean from the hips.",
+    "setup_instructions": "Adjust the knee pad height to firmly secure the thighs. Select an appropriate weight. A slight rearward torso angle of 10\u201315 degrees is normal.",
+    "steps": [
+      "Depress the shoulder blades and initiate the pull by driving the elbows down toward the floor.",
+      "Pull the bar to the upper chest, squeezing the lats hard at the bottom position.",
+      "Control the bar back to the starting position with fully extended arms."
+    ],
+    "breathing_instructions": "Exhale as you pull the bar down. Inhale as you return it.",
+    "common_mistakes": [
+      "Pulling the bar behind the neck, which stresses the cervical spine",
+      "Leaning excessively backward, turning it into a rowing movement",
+      "Not achieving full arm extension at the top"
+    ],
+    "safety_considerations": [
+      "Always pull to the front of the body \u2014 never behind the neck"
+    ],
+    "range_of_motion_guidance": "Full arm extension at the top, bar to upper chest at the bottom.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Put your shoulder blades in your back pockets as you pull",
+      "Think about pulling your elbows to your hips"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "back",
+      "cable",
+      "lat-pulldown",
+      "machine"
+    ]
+  }
+}

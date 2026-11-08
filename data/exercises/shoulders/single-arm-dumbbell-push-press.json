@@ -1,0 +1,86 @@
+{
+  "exercise_id": "a5c1cbf1-9141-42a3-a8fe-5cdce95ecebc",
+  "slug": "single-arm-dumbbell-push-press",
+  "name": "Single-Arm Dumbbell Push-Press",
+  "alternative_names": ["Unilateral Dumbbell Push-Press", "One-Arm Dumbbell Power Press"],
+  "description": "The single-arm dumbbell push-press uses a dip-and-drive from the legs to initiate upward momentum, then completes the press overhead with one arm. The unilateral variation requires significant core lateral stabilization to prevent the loaded side from dropping the torso, training anti-lateral-flexion core strength alongside the shoulder and triceps pressing musculature. It is an effective power development tool for overhead athletes.",
+  "category": "power",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" },
+      { "muscle_id": "55555555-0003-4000-a000-000000000005", "muscle_slug": "gluteus-maximus" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with one dumbbell at shoulder height on the working side. Free hand on the hip or at the side. Feet shoulder-width apart.",
+    "setup_instructions": "Set up in a neutral stance with the dumbbell resting on the shoulder. Use a weight heavier than you would use for a strict press.",
+    "steps": [
+      "Step 1: Dip the knees 10-15 cm, maintaining an upright torso.",
+      "Step 2: Drive upward explosively through the legs.",
+      "Step 3: Use the upward momentum to initiate the dumbbell's upward path.",
+      "Step 4: Complete the press by extending the arm fully overhead.",
+      "Step 5: Lower the dumbbell under control back to the shoulder. Repeat, then switch sides."
+    ],
+    "breathing_instructions": "Inhale and brace before the dip. Exhale explosively through the drive and press.",
+    "common_mistakes": [
+      "Lateral torso lean toward the working side — maintain upright position",
+      "Too deep a dip — 10-15 cm is sufficient; excessive depth loses power transfer"
+    ],
+    "safety_considerations": [
+      "Learn the bilateral push-press first before the unilateral version",
+      "High demand on the core — build anti-lateral flexion strength before heavy loading"
+    ],
+    "range_of_motion_guidance": "Shoulder height to full overhead lockout.",
+    "tempo_recommendations": "Explosive drive, 2s lower",
+    "coaching_cues": [
+      "Dip straight down — no forward lean",
+      "Drive with the legs, finish with the arm",
+      "Stay tall — no lean to the side"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "power", "min_reps": 3, "max_reps": 6 },
+      { "goal": "hypertrophy", "min_reps": 6, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "power", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "power": 180, "hypertrophy": 90 },
+    "training_goals": ["power", "strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "push-press", "unilateral", "power", "overhead"]
+  }
+}

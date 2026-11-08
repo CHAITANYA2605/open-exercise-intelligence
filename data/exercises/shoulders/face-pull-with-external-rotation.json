@@ -1,0 +1,84 @@
+{
+  "exercise_id": "a5b6c7d8-e9f0-4a1b-2c3d-e4f5a6b7c425",
+  "slug": "face-pull-with-external-rotation",
+  "name": "Face Pull with External Rotation",
+  "alternative_names": ["Shoulder ER Face Pull", "Rotator Cuff Face Pull"],
+  "description": "The face pull with external rotation is an enhanced variation of the standard face pull that adds an external rotation of the shoulder at the end of the pulling motion. By pulling the rope to the face level and then rotating the forearms upward and back, it simultaneously trains the posterior deltoid, rotator cuff external rotators, and middle trapezius, making it one of the most comprehensive exercises for shoulder health and long-term pressing longevity.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "execution": {
+    "starting_position": "Attach a rope to a high-pulley cable machine at face height. Grip the rope with both hands, palms facing each other. Stand back enough to create tension with arms extended toward the cable.",
+    "setup_instructions": "Set the cable pulley to approximately eye or forehead level. Attach a rope attachment. Use a light to moderate weight — form matters more than load here.",
+    "steps": [
+      "Step 1: Grip the rope with both hands. Step back so the cable is under tension. Elbows slightly bent at the start.",
+      "Step 2: Pull the rope toward the face by driving the elbows out and back, aiming to pull the hands to either side of the face.",
+      "Step 3: At the end of the pull, externally rotate the shoulders by pulling the forearms and hands upward and back — the forearms should now point toward the ceiling.",
+      "Step 4: Pause at the top, squeezing the rear delts and infraspinatus, then return slowly to the start."
+    ],
+    "breathing_instructions": "Exhale as you pull and rotate; inhale on the return.",
+    "common_mistakes": [
+      "Skipping the external rotation component at the end of the pull",
+      "Using too heavy a weight, which causes the torso to rock backward"
+    ],
+    "safety_considerations": [
+      "Keep the cable at face height — not overhead — to protect the shoulder",
+      "Light weight is recommended; heavy loads undermine the form"
+    ],
+    "range_of_motion_guidance": "Pull until the hands reach the sides of the face; then rotate forearms fully upward.",
+    "tempo_recommendations": "2-2-2-0 (hold with external rotation for 2 seconds)",
+    "coaching_cues": [
+      "Pull to your ears, not your chin",
+      "Finish with forearms pointing to the ceiling — that is the external rotation you want"
+    ]
+  },
+  "variants": {
+    "easier": ["face-pull", "band-pull-apart"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["face-pull"],
+    "equipment_alternatives": ["band-pull-apart", "w-raises"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"endurance": 45},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "rear-delt", "rotator-cuff", "prehab", "shoulder-health", "face-pull"]
+  }
+}

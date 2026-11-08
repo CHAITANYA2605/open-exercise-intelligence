@@ -1,0 +1,89 @@
+{
+  "exercise_id": "a1b2c3d4-0041-4000-a000-glut00000009",
+  "slug": "reverse-hyperextension",
+  "name": "Reverse Hyperextension",
+  "alternative_names": ["Reverse Hyper", "Prone Hip Extension on Table"],
+  "description": "The reverse hyperextension is performed face-down on an elevated surface — a reverse hyper machine, a high bench, or a GHD — with the legs hanging free. The legs are swung rearward and upward to full hip extension using gluteus maximus and hamstring strength. Unlike most hip hinge exercises, the spine decompresses during the descent phase, making this exercise popular for simultaneously training the posterior chain and rehabilitating lower back issues.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hip-hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "ffffffff-0001-4000-a000-00000000000f", "muscle_slug": "adductors"}
+    ]
+  },
+  "equipment_required": ["eq000040-0000-4000-a000-000000000040"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie face-down on a hyperextension bench or elevated surface with hips at the edge, legs hanging straight down. Hold the handles or grip the bench edge securely.",
+    "setup_instructions": "Position the hips at or just past the pad edge so the legs can hang freely. Grip the bench or handles firmly. For added load, hold a dumbbell between the feet.",
+    "steps": [
+      "Step 1: Lie prone on the bench with hips at the edge, legs hanging down. Hold the bench firmly.",
+      "Step 2: With control, raise both legs backward and upward by extending the hips — squeeze the glutes.",
+      "Step 3: Raise until the legs are parallel to the floor or slightly above — no hyperextension of the lumbar spine.",
+      "Step 4: Hold briefly at the top.",
+      "Step 5: Lower the legs slowly under control, allowing the spine to gently decompress at the bottom."
+    ],
+    "breathing_instructions": "Exhale as you raise the legs. Inhale as you lower.",
+    "common_mistakes": [
+      "Swinging the legs with momentum — the movement should be controlled, not ballistic",
+      "Hyperextending the lumbar spine at the top — stop when the legs are parallel",
+      "Not holding the bench firmly — the torso must be anchored"
+    ],
+    "safety_considerations": [
+      "Avoid excessive lumbar hyperextension at the top",
+      "If you have acute lower back pain, consult a professional before performing this exercise"
+    ],
+    "range_of_motion_guidance": "Legs hang toward the floor at the bottom. Raise to parallel with the floor at the top — not higher.",
+    "tempo_recommendations": "2-1-3-0 (slow, controlled lowering)",
+    "coaching_cues": [
+      "Squeeze the glutes — not the lower back — at the top",
+      "Let the legs drop slowly — don't just fall",
+      "Control the movement — no swinging"
+    ]
+  },
+  "variants": {
+    "easier": ["donkey-kick", "barbell-glute-bridge"],
+    "harder": ["barbell-hip-thrust"],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": ["barbell-glute-bridge"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 6, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy", "rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "hamstring", "posterior-chain", "rehab", "spinal-decompression"]
+  }
+}

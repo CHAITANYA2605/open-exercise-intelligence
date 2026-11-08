@@ -1,0 +1,122 @@
+{
+  "exercise_id": "f6a7b8c9-0003-4000-8006-000000000003",
+  "slug": "crunch",
+  "name": "Crunch",
+  "alternative_names": [
+    "Abdominal Crunch"
+  ],
+  "description": "The crunch is a foundational abdominal exercise that trains the rectus abdominis through a short-range trunk flexion movement. Unlike the sit-up, the crunch limits the range of motion to protect the lumbar spine, keeping the lower back on the floor and moving only the upper back and shoulders off the ground.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "crunch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on your back with knees bent and feet flat on the floor. Place hands lightly behind the head or crossed on the chest.",
+    "setup_instructions": "Keep the lower back in contact with the floor throughout. The movement range is short \u2014 only the upper back and shoulders come off the floor.",
+    "steps": [
+      "Breathe out and curl the shoulders and upper back off the floor toward the knees.",
+      "Hold the top position briefly, squeezing the abdominals.",
+      "Lower under control back to the starting position."
+    ],
+    "breathing_instructions": "Exhale as you crunch up. Inhale on the descent.",
+    "common_mistakes": [
+      "Pulling the neck with the hands",
+      "Using momentum by bouncing the head up",
+      "Raising the lower back off the floor"
+    ],
+    "safety_considerations": [
+      "If neck pain occurs, cross arms on chest instead of placing hands behind the head"
+    ],
+    "range_of_motion_guidance": "Upper back and shoulders come 2\u20134 inches off the floor. Lower back remains in contact with the floor.",
+    "tempo_recommendations": "1-1-2-0",
+    "coaching_cues": [
+      "Think about bringing your ribcage toward your pelvis \u2014 not your head toward your knees",
+      "Keep your neck neutral \u2014 do not lead with the chin"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 15,
+        "max_reps": 25
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 25,
+        "max_reps": 50
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 60,
+      "endurance": 30
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "abs",
+      "crunch",
+      "bodyweight",
+      "beginner"
+    ]
+  }
+}

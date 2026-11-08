@@ -1,0 +1,88 @@
+{
+  "exercise_id": "a1b2c3d4-h011-4000-a000-000000000411",
+  "slug": "crawling-pattern",
+  "name": "Crawling Pattern",
+  "alternative_names": ["Leopard Crawl", "Commando Crawl", "Ground Movement Pattern"],
+  "description": "The crawling pattern is a broad category of contralateral ground locomotion exercises performed close to the floor, including variations such as the leopard crawl, army crawl, and lateral crawl. All variations emphasize the same neurological contralateral coordination pattern as the bear crawl but with the torso positioned lower to the ground, further increasing the demands on shoulder stability, hip flexor engagement, and spinal control in a more mechanically challenging position.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "plank",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "crawl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a low plank or prone position depending on variation. For leopard crawl: in a low quadruped close to the floor.",
+    "setup_instructions": "No equipment required. Adequate clean floor space for crawling distance. Consider knee pads on hard surfaces.",
+    "steps": [
+      "Step 1: Begin in the low quadruped position with the body close to the floor.",
+      "Step 2: Move contralaterally — right hand and left foot advance simultaneously.",
+      "Step 3: Keep the torso parallel to and close to the floor throughout.",
+      "Step 4: Continue forward for the prescribed distance, maintaining body position.",
+      "Step 5: Can also be performed laterally, backward, or in combination patterns."
+    ],
+    "breathing_instructions": "Breathe continuously. The low position can restrict breathing — keep breaths controlled.",
+    "common_mistakes": [
+      "Rising too high — the body should stay low to the floor",
+      "Moving ipsilateral limbs — the contralateral pattern is essential",
+      "Letting the core sag and hips drop to the floor"
+    ],
+    "safety_considerations": [
+      "Floor hygiene is relevant for direct skin contact in army-crawl variants.",
+      "High hip flexor and shoulder demand — progress gradually."
+    ],
+    "range_of_motion_guidance": "Full forward reach on each step. Body remains consistently close to the floor.",
+    "tempo_recommendations": "10–20 meters per set. Quality of movement over speed.",
+    "coaching_cues": [
+      "Stay low — belly close to the floor",
+      "Opposite arm and leg",
+      "Breathe through the movement"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "crawl", "core", "coordination", "bodyweight"]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "exercise_id": "2f662857-754d-45d4-967b-d6ce650b19b5",
+  "slug": "arnold-press-pause-midpoint",
+  "name": "Arnold Press with Midpoint Pause",
+  "alternative_names": ["Paused Arnold Press Mid", "Arnold Press Stop at Mid"],
+  "description": "The Arnold press with midpoint pause pauses for 2-3 seconds at the halfway point of the rotation — when the palms face out to the sides and the elbows are at shoulder height — before continuing the press to lockout. The midpoint pause occurs at the most demanding position in the movement, maximizing deltoid recruitment at the transition from the anterior to lateral head activation pattern and training strength specifically through that challenging mid-range.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Seated with dumbbells in Arnold press starting position — palms facing body, elbows forward.",
+    "setup_instructions": "Reduce load by 20-30% compared to standard Arnold press to accommodate the mid-range pause.",
+    "steps": [
+      "Step 1: Begin pressing and rotating the wrists outward.",
+      "Step 2: At the midpoint — palms facing out, elbows at shoulder height — stop and hold for 2-3 seconds.",
+      "Step 3: Hold strictly — no relaxing, no sinking.",
+      "Step 4: Continue pressing to full lockout, completing the rotation to pronated.",
+      "Step 5: Return under control, pausing again at the midpoint on the way down if desired."
+    ],
+    "breathing_instructions": "Exhale pressing to midpoint. Hold during pause. Exhale completing the press.",
+    "common_mistakes": [
+      "Dropping the elbows below shoulder height during the pause",
+      "Not holding for full 2-3 seconds — the pause is the key variable"
+    ],
+    "safety_considerations": [
+      "Reduce load relative to standard Arnold press",
+      "High demand on the shoulder joints at the midpoint — moderate loads only"
+    ],
+    "range_of_motion_guidance": "Full range from supinated start to overhead lockout with 2-3s midpoint hold.",
+    "tempo_recommendations": "2-3 hold-2-0",
+    "coaching_cues": [
+      "Stop when palms face outward — that is the midpoint",
+      "Hold it — no sinking through the pause",
+      "Drive overhead after the hold"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 6, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 120 },
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "arnold-press", "pause", "mid-range", "deltoid"]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/open-exercise-intelligence/oei/blob/main/schema/exercise.schema.json",
+  "title": "Exercise",
+  "description": "A single exercise record in the Open Exercise Intelligence dataset",
+  "type": "object",
+  "required": [
+    "exercise_id",
+    "slug",
+    "name",
+    "description",
+    "category",
+    "exercise_type",
+    "difficulty_level",
+    "movement_pattern",
+    "laterality",
+    "status",
+    "muscles",
+    "execution",
+    "metadata"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "exercise_id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Stable, globally unique identifier for this exercise. Never reuse or reassign."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "minLength": 2,
+      "maxLength": 120,
+      "description": "URL-safe, human-readable identifier. Stable across dataset versions."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 200,
+      "description": "The canonical name of the exercise."
+    },
+    "alternative_names": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 2,
+        "maxLength": 200
+      },
+      "uniqueItems": true,
+      "description": "Other names this exercise is commonly known by."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 50,
+      "description": "An original description of the exercise. Must not be copied from copyrighted sources."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "strength",
+        "cardio",
+        "flexibility",
+        "balance",
+        "plyometric",
+        "sport",
+        "rehabilitation"
+      ],
+      "description": "The primary training category."
+    },
+    "exercise_type": {
+      "type": "string",
+      "enum": [
+        "compound",
+        "isolation",
+        "cardio",
+        "stretching",
+        "plyometric",
+        "calisthenics"
+      ],
+      "description": "The functional type of the exercise."
+    },
+    "difficulty_level": {
+      "type": "string",
+      "enum": [
+        "beginner",
+        "intermediate",
+        "advanced",
+        "expert"
+      ],
+      "description": "General difficulty level for a typical healthy adult."
+    },
+    "movement_pattern": {
+      "type": "string",
+      "enum": [
+        "push",
+        "pull",
+        "hinge",
+        "squat",
+        "lunge",
+        "carry",
+        "rotation",
+        "anti-rotation",
+        "gait",
+        "overhead",
+        "bridge",
+        "plank"
+      ],
+      "description": "The fundamental movement pattern this exercise represents."
+    },
+    "force_type": {
+      "type": "string",
+      "enum": [
+        "push",
+        "pull",
+        "static"
+      ],
+      "description": "Whether the exercise involves pushing, pulling, or isometric (static) force."
+    },
+    "mechanics_type": {
+      "type": "string",
+      "enum": [
+        "compound",
+        "isolation"
+      ],
+      "description": "Whether the exercise involves multiple joints (compound) or a single joint (isolation)."
+    },
+    "laterality": {
+      "type": "string",
+      "enum": [
+        "bilateral",
+        "unilateral",
+        "alternating"
+      ],
+      "description": "Whether the exercise uses both sides simultaneously, one side at a time, or alternating."
+    },
+    "exercise_family": {
+      "type": "string",
+      "maxLength": 100,
+      "description": "The movement family this exercise belongs to, e.g. 'bench press', 'deadlift', 'squat'."
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "deprecated"
+      ],
+      "description": "Publication status of this exercise record."
+    },
+    "muscles": {
+      "type": "object",
+      "required": ["primary"],
+      "additionalProperties": false,
+      "properties": {
+        "primary": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/definitions/muscle_reference" },
+          "description": "Muscles that are the primary movers in this exercise."
+        },
+        "secondary": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/muscle_reference" },
+          "description": "Muscles that assist the primary movers."
+        },
+        "stabilizers": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/muscle_reference" },
+          "description": "Muscles that stabilize joints during the exercise without being primary or secondary movers."
+        }
+      }
+    },
+    "equipment_required": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "description": "Equipment IDs that are required to perform this exercise."
+    },
+    "equipment_optional": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "description": "Equipment IDs that are optional (e.g. a bench for incline push-ups)."
+    },
+    "execution": {
+      "type": "object",
+      "required": ["steps"],
+      "additionalProperties": false,
+      "properties": {
+        "starting_position": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Description of the correct starting position."
+        },
+        "setup_instructions": {
+          "type": "string",
+          "description": "How to set up equipment before beginning the exercise."
+        },
+        "steps": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "string",
+            "minLength": 10
+          },
+          "description": "Ordered execution steps. Each step is one discrete action."
+        },
+        "breathing_instructions": {
+          "type": "string",
+          "description": "When to inhale and exhale during the exercise."
+        },
+        "common_mistakes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 10
+          },
+          "description": "Frequently observed form errors."
+        },
+        "safety_considerations": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 10
+          },
+          "description": "Safety warnings relevant to this exercise."
+        },
+        "range_of_motion_guidance": {
+          "type": "string",
+          "description": "Guidance on the appropriate range of motion."
+        },
+        "tempo_recommendations": {
+          "type": "string",
+          "description": "General tempo guidance, e.g. '2 seconds down, pause, 1 second up'."
+        },
+        "coaching_cues": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 5
+          },
+          "description": "Short, memorable cues to reinforce correct technique."
+        }
+      }
+    },
+    "variants": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "easier": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/exercise_reference" },
+          "description": "Easier versions of this exercise for beginners or those with limitations."
+        },
+        "harder": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/exercise_reference" },
+          "description": "More challenging progressions of this exercise."
+        },
+        "unilateral": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/exercise_reference" },
+          "description": "One-sided (unilateral) versions of this exercise."
+        },
+        "bilateral": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/exercise_reference" },
+          "description": "Two-sided (bilateral) versions of a unilateral exercise."
+        },
+        "equipment_alternatives": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/exercise_reference" },
+          "description": "Exercises that target the same muscles using different equipment."
+        }
+      }
+    },
+    "training_parameters": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "recommended_rep_ranges": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["goal", "min_reps", "max_reps"],
+            "additionalProperties": false,
+            "properties": {
+              "goal": {
+                "type": "string",
+                "enum": ["strength", "hypertrophy", "endurance", "power", "mobility"]
+              },
+              "min_reps": { "type": "integer", "minimum": 1 },
+              "max_reps": { "type": "integer", "minimum": 1 }
+            }
+          },
+          "description": "General rep range recommendations by training goal. These are general guidelines, not clinical prescriptions."
+        },
+        "recommended_set_ranges": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["goal", "min_sets", "max_sets"],
+            "additionalProperties": false,
+            "properties": {
+              "goal": {
+                "type": "string",
+                "enum": ["strength", "hypertrophy", "endurance", "power", "mobility"]
+              },
+              "min_sets": { "type": "integer", "minimum": 1 },
+              "max_sets": { "type": "integer", "minimum": 1 }
+            }
+          }
+        },
+        "rest_periods": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "strength": { "type": "integer", "minimum": 0, "description": "Rest in seconds" },
+            "hypertrophy": { "type": "integer", "minimum": 0 },
+            "endurance": { "type": "integer", "minimum": 0 },
+            "power": { "type": "integer", "minimum": 0 },
+            "mobility": { "type": "integer", "minimum": 0 }
+          }
+        },
+        "training_goals": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["strength", "hypertrophy", "endurance", "mobility", "power"]
+          },
+          "uniqueItems": true,
+          "description": "Training goals this exercise is well-suited for."
+        }
+      }
+    },
+    "media": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "thumbnail": {
+          "type": "string",
+          "description": "Asset ID of the thumbnail image."
+        },
+        "images": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Asset IDs of execution images."
+        },
+        "videos": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Asset IDs of demonstration videos."
+        },
+        "anatomical_illustrations": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Asset IDs of anatomical illustrations."
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["created_at", "updated_at", "version"],
+      "additionalProperties": false,
+      "properties": {
+        "created_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "created_by": {
+          "type": "string",
+          "description": "GitHub username or contributor identifier."
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$",
+          "description": "Dataset version when this record was last modified."
+        },
+        "sources": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Bibliographic references (book titles, journal articles). Not URLs to other exercise databases."
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 50
+          },
+          "uniqueItems": true
+        }
+      }
+    }
+  },
+  "definitions": {
+    "muscle_reference": {
+      "type": "object",
+      "required": ["muscle_id"],
+      "additionalProperties": false,
+      "properties": {
+        "muscle_id": {
+          "type": "string",
+          "format": "uuid",
+          "description": "Reference to a muscle ID in data/muscles/muscles.json"
+        },
+        "muscle_group": {
+          "type": "string",
+          "description": "Human-readable muscle group name for display convenience."
+        },
+        "side": {
+          "type": "string",
+          "enum": ["left", "right", "bilateral"],
+          "description": "Which side of the body, for unilateral exercises."
+        }
+      }
+    },
+    "exercise_reference": {
+      "type": "object",
+      "required": ["exercise_id", "slug"],
+      "additionalProperties": false,
+      "properties": {
+        "exercise_id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "relationship_note": {
+          "type": "string",
+          "description": "Brief explanation of why this is listed as a variant."
+        }
+      }
+    }
+  }
+}

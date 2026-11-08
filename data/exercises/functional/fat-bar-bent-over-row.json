@@ -1,0 +1,71 @@
+{
+  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50017",
+  "slug": "fat-bar-bent-over-row",
+  "name": "Fat Bar Bent-Over Row",
+  "alternative_names": ["Thick Bar Barbell Row", "Axle Bar Bent-Over Row"],
+  "description": "A barbell bent-over row performed with a thick-diameter bar (fat bar or axle bar, typically 2-inch diameter versus the standard 1-inch). The increased diameter forces the hands to remain in a more neutral, open grip position and dramatically increases the demand on the forearm flexors and grip musculature to maintain hold of the bar throughout the row. The back and lat mechanics are identical to a standard bent-over row, but the grip limitation often becomes the performance-limiting factor. Used in grip-strength development programs, strongman training, and as a plateau-breaking variation for intermediate lifters.",
+  "category": "functional",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Load a fat bar or axle bar and position it on the floor or in a rack at a pulling height. Hinge at the hips to 45-70 degrees torso inclination with the bar hanging at arm's length.",
+    "setup_instructions": "No straps — the entire point of the fat bar variation is grip development. Expect to use less weight than a standard barbell row. The thicker bar requires a more open hand position.",
+    "steps": [
+      "Step 1: Grip the fat bar with an overhand or underhand grip, hands just outside hip width. Hinge to the rowing position with a neutral spine.",
+      "Step 2: Row the bar toward the lower sternum or navel by driving the elbows back and squeezing the shoulder blades.",
+      "Step 3: Hold at the top of the row for 1 second, feeling the lats and mid-back contract.",
+      "Step 4: Lower the bar under control to full arm extension. Maintain a firm grip throughout."
+    ],
+    "breathing_instructions": "Brace the core and inhale before initiating the row. Exhale forcefully at the top. Inhale as you lower the bar.",
+    "common_mistakes": ["Using straps — this negates the purpose of the fat bar", "Gripping with just the fingers instead of the full hand — wrap the whole hand around the bar", "Rounding the lower back due to the grip failing — reduce weight before this occurs"],
+    "safety_considerations": ["The grip will fatigue faster than the back — stop the set when grip fails rather than compromising spinal position", "Ensure the bar has consistent knurling or texture to maintain grip safety"],
+    "range_of_motion_guidance": "Full elbow extension at the bottom. Bar touches or nearly touches the torso at the top.",
+    "tempo_recommendations": "1s pull, 1s hold at top, 3s controlled eccentric.",
+    "coaching_cues": ["Squeeze the bar as hard as possible — the fat diameter requires maximum grip tension", "Lead with the elbows, not the hands", "Think chest to the bar, not bar to the chest — keep the torso still"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["fat-bar", "axle-bar", "row", "grip", "back", "strongman"]
+  }
+}

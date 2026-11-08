@@ -1,0 +1,84 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e11",
+  "slug": "ring-dip-to-l-sit",
+  "name": "Ring Dip to L-Sit Transition",
+  "alternative_names": ["Ring Dip L-Sit"],
+  "description": "An expert-level gymnastic combination movement that links a full ring dip directly into an L-sit hold at the top. The dip phase heavily loads the pectoralis major, anterior deltoid, and triceps, while the subsequent L-sit isometric demands intense hip flexor and rectus abdominis activation to hold the legs parallel to the ground. This movement develops both upper body pressing strength and core compression simultaneously.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "expert",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "dip",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Support yourself on gymnastic rings with arms fully extended, rings turned out. Body hangs in a straight line below.",
+    "setup_instructions": "Set rings high enough that the legs will clear the floor when in the L-sit position. Rings should be approximately head height when standing.",
+    "steps": [
+      "Step 1: Begin with arms extended on rings (top of dip position, rings turned out if possible).",
+      "Step 2: Bend the elbows and lower the body until the upper arms are parallel to the ground (full dip depth).",
+      "Step 3: Press powerfully back to the top position, fully extending the arms.",
+      "Step 4: At the top, immediately compress the hip flexors and abs to lift both legs straight in front of you to hip height, holding the L-sit for 2–3 seconds.",
+      "Step 5: Lower legs and descend into the next dip. Repeat."
+    ],
+    "breathing_instructions": "Inhale on the dip descent, exhale on the press upward, hold breath briefly during L-sit contraction.",
+    "common_mistakes": [
+      "Reaching for the L-sit before fully locking out the arms",
+      "Allowing rings to wobble during the transition",
+      "Bent knees in the L-sit — legs must be straight for full difficulty"
+    ],
+    "safety_considerations": [
+      "Requires strong ring dips and standalone L-sit ability as prerequisites",
+      "Do not attempt if shoulder stability is insufficient for ring dips",
+      "Ensure rings are high enough to prevent legs contacting the floor"
+    ],
+    "range_of_motion_guidance": "Full dip depth (upper arm parallel to ground) and full L-sit (legs straight, parallel to floor).",
+    "tempo_recommendations": "3-0-1-3 (3s dip descent, 1s press, 3s L-sit hold)",
+    "coaching_cues": [
+      "Press the rings apart slightly at the top — this helps initiate the L-sit",
+      "Legs stay locked out in the L-sit — squeeze quads, point toes"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 180},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "dip", "l-sit", "gymnastics", "expert", "core"]
+  }
+}

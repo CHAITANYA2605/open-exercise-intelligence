@@ -1,0 +1,74 @@
+{
+  "exercise_id": "f8a9b0c1-d2e3-4456-f789-a01b23c45678",
+  "slug": "lying-svend-press",
+  "name": "Lying Dumbbell Svend Press",
+  "alternative_names": ["Lying Squeeze Press", "Lying Plate Press"],
+  "description": "The Lying Svend Press is performed flat on a bench, extending and returning a weight plate or two pressed-together dumbbells from the chest while maintaining continuous inward squeezing force. The lying position allows slightly greater loads than the standing version and targets the sternal head of the pectoralis major more directly.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000022-0000-4000-a000-000000000022"],
+  "execution": {
+    "starting_position": "Lie flat on a bench holding two dumbbells or a weight plate pressed together at chest level, arms slightly bent.",
+    "setup_instructions": "Use a flat bench. Hold a light plate or two pressed dumbbells above the lower chest. Begin with the weight resting on the sternum.",
+    "steps": [
+      "Step 1: Squeeze the weight firmly together and press upward from the chest to full arm extension.",
+      "Step 2: Hold the squeeze and lower slowly back to the chest.",
+      "Step 3: Touch the chest and immediately press again without releasing tension.",
+      "Step 4: Keep constant adduction force throughout all reps."
+    ],
+    "breathing_instructions": "Exhale as you press up. Inhale as you lower.",
+    "common_mistakes": [
+      "Releasing the squeeze at the chest",
+      "Flaring the elbows wide rather than keeping them somewhat tucked"
+    ],
+    "safety_considerations": [
+      "Light loads only — this is a finishing or isolation exercise",
+      "If using round dumbbells, they may slip — hex preferred"
+    ],
+    "range_of_motion_guidance": "Full arm extension at top; controlled return to chest.",
+    "tempo_recommendations": "2-1-2-1",
+    "coaching_cues": [
+      "Constant squeeze — no relaxation between reps",
+      "Feel the inner chest working"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["inner-chest", "finisher", "adduction"]
+  }
+}

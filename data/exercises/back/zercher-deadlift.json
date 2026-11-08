@@ -1,0 +1,148 @@
+{
+  "exercise_id": "71b1a8d4-c6d5-4f3d-bc74-c3baf54b32dd",
+  "slug": "zercher-deadlift",
+  "name": "Zercher Deadlift",
+  "alternative_names": [],
+  "description": "A deadlift variation where the barbell is cradled in the elbow crooks rather than held in the hands. The Zercher deadlift shifts loading anteriorly, reduces spinal shear forces compared to a conventional deadlift, and significantly increases core stability demand while still training the entire posterior chain.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "execution": {
+    "starting_position": "Squat down and cradle a barbell in the elbow crooks at approximately knee height. Bar is on the floor or set at a low height.",
+    "setup_instructions": "Set the barbell in a rack at knee height or use it from the floor. Squat down and position the bar in the elbow crooks before lifting.",
+    "steps": [
+      "Step 1: Brace the core and keep the torso as upright as possible.",
+      "Step 2: Drive through the floor to stand, extending the hips and knees simultaneously.",
+      "Step 3: Lock out at the top with hips and knees fully extended.",
+      "Step 4: Lower the bar back to the starting position under control."
+    ],
+    "breathing_instructions": "Inhale and brace before the pull. Exhale at lockout.",
+    "common_mistakes": [
+      "Rounding the lower back due to insufficient core bracing",
+      "Allowing the elbows to drop, losing the bar"
+    ],
+    "safety_considerations": [
+      "The Zercher position puts pressure on the forearms \u2014 use padding if needed",
+      "This is not a maximum-strength lift \u2014 use moderate loads"
+    ],
+    "range_of_motion_guidance": "Full hip and knee extension at lockout. Bar controlled to the starting position on the return.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Drive the elbows up to hold the bar",
+      "Stand tall at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "back",
+      "glutes",
+      "hamstrings",
+      "zercher",
+      "advanced"
+    ]
+  }
+}

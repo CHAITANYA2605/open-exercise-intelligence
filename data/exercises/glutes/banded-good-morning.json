@@ -1,0 +1,158 @@
+{
+  "exercise_id": "b1d72cee-93d1-4587-8a19-9b9edf596b62",
+  "slug": "banded-good-morning",
+  "name": "Banded Good Morning",
+  "alternative_names": [
+    "Resistance Band Good Morning"
+  ],
+  "description": "A good morning exercise performed with a resistance band looped over the neck and under the feet, providing accommodating resistance that increases as the athlete stands. The band version allows training the hip hinge pattern with minimal equipment and is excellent for warming up the posterior chain or higher-rep conditioning work.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "equipment_optional": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "execution": {
+    "starting_position": "Stand with a resistance band loop under both feet and looped over the upper back or neck. Stand tall with knees soft.",
+    "setup_instructions": "Step both feet onto the center of a resistance band loop. Loop the top over the back of the neck like a barbell.",
+    "steps": [
+      "Step 1: Keep the knees slightly bent and the spine neutral.",
+      "Step 2: Hinge at the hips and push the hips back, allowing the torso to lower forward.",
+      "Step 3: Lower until a strong hamstring stretch is felt or the torso is roughly parallel to the floor.",
+      "Step 4: Drive the hips forward to return to standing, squeezing the glutes at the top."
+    ],
+    "breathing_instructions": "Inhale on the hinge. Exhale on the drive to standing.",
+    "common_mistakes": [
+      "Rounding the lower back during the hinge",
+      "Bending the knees excessively, turning it into a squat"
+    ],
+    "safety_considerations": [
+      "Keep the knees soft but fixed \u2014 the bend should not change during the movement"
+    ],
+    "range_of_motion_guidance": "Hinge until a strong hamstring stretch is felt. Full hip extension at the top.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Push the hips back",
+      "Squeeze the glutes at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "hamstrings",
+      "back",
+      "band",
+      "beginner",
+      "warm-up"
+    ]
+  }
+}

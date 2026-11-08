@@ -1,0 +1,129 @@
+{
+  "exercise_id": "ex-zercher--smn-4000-a000-658441700913",
+  "slug": "zercher-yoke-walk",
+  "name": "Zercher Yoke Walk",
+  "alternative_names": [],
+  "description": "A yoke walk variation where the bar is held in the Zercher (elbow crease) position rather than on the shoulders. This eliminates neck and shoulder stress while increasing anterior chain, bicep, and core demand. The Zercher grip is preferred by some strongman athletes for comfort.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Zercher Yoke Walk in proper strongman position.",
+    "setup_instructions": "Prepare all equipment and body position for Zercher Yoke Walk.",
+    "steps": [
+      "Step 1: Position yoke bar in elbow creases at appropriate height.",
+      "Step 2: Stand and step clear of rack with controlled movement.",
+      "Step 3: Walk briskly with quick, controlled steps for target distance.",
+      "Step 4: Set yoke down with control at the end of walk."
+    ],
+    "breathing_instructions": "Brace core maximally before every lift. Breathe between reps if needed.",
+    "common_mistakes": [
+      "Slow shuffling steps",
+      "Leaning excessively forward"
+    ],
+    "safety_considerations": [
+      "Use collars on all loaded barbells.",
+      "Ensure clear path for carries.",
+      "Have spotters for overhead movements."
+    ],
+    "range_of_motion_guidance": "Full range of motion specific to the implement being used.",
+    "tempo_recommendations": "Explosive concentric phase, controlled eccentric.",
+    "coaching_cues": [
+      "Quick controlled steps win events",
+      "Keep the bar tight to body"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 3
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 240,
+      "power": 300
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

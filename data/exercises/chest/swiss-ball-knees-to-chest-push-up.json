@@ -1,0 +1,84 @@
+{
+  "exercise_id": "e9f0a1b2-c3d4-4567-e890-f12a34b56c41",
+  "slug": "swiss-ball-knees-to-chest-push-up",
+  "name": "Swiss Ball Knees-to-Chest Push-Up",
+  "alternative_names": ["Ball Tuck Push-Up", "Swiss Ball Tuck and Press"],
+  "description": "A dynamic push-up variation where the feet rest on a swiss ball and each repetition is paired with a knee tuck that rolls the ball toward the chest. The push-up phase loads the pectoralis major and triceps while the knee tuck activates the hip flexors and rectus abdominis in a compound, full-body movement. The alternating push-and-tuck pattern creates a unique time-under-tension pattern and high core demand.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000046-0000-4000-a000-000000000046"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a push-up plank with shins/feet resting on top of a swiss ball, hands on the floor. Body forms a straight line.",
+    "setup_instructions": "Fully inflate the ball. Place the ball directly behind and position shins on top. Ensure non-slip floor surface. The ball should be directly under the lower legs at the start.",
+    "steps": [
+      "Step 1: Establish the plank position with shins on the ball, hands shoulder-width on floor.",
+      "Step 2: Perform a push-up: lower the chest toward the floor.",
+      "Step 3: As you press back up, simultaneously tuck the knees toward the chest by rolling the ball forward.",
+      "Step 4: At the top of the push-up, knees are tucked and ball is near the hands.",
+      "Step 5: Extend the legs back out, rolling the ball to the start. That is one rep."
+    ],
+    "breathing_instructions": "Inhale on the descent, exhale as you press and tuck simultaneously.",
+    "common_mistakes": [
+      "Tucking the knees before completing the push-up — the two movements should be coordinated",
+      "Ball rolling sideways due to uneven pressure from the feet",
+      "Hips rising too high during the tuck, reducing the push-up challenge"
+    ],
+    "safety_considerations": [
+      "Master swiss ball plank and standard swiss ball push-ups before adding the tuck",
+      "Start with partial knee tucks until coordination is established",
+      "Ensure ball is fully inflated and on a non-slip surface"
+    ],
+    "range_of_motion_guidance": "Full push-up depth and full knee tuck — knees near the chest at the top of the press.",
+    "tempo_recommendations": "2-0-2-1 (2s down, coordinated press and tuck, 1s reset)",
+    "coaching_cues": [
+      "Press and tuck at the same time — they happen together",
+      "Roll the ball with control — the hip flexors drive the tuck, the chest drives the press"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 12},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy", "functional"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["push-up", "swiss-ball", "tuck", "core", "advanced", "dynamic"]
+  }
+}

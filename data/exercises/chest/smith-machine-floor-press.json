@@ -1,0 +1,79 @@
+{
+  "exercise_id": "e3f4a5b6-c7d8-4901-e234-f56a78b90123",
+  "slug": "smith-machine-floor-press",
+  "name": "Smith Machine Floor Press",
+  "alternative_names": [],
+  "description": "The Smith Machine Floor Press combines the floor press's ROM restriction and triceps emphasis with the Smith machine's fixed bar path and self-spotting capability. The floor eliminates leg drive and limits the eccentric to 90 degrees of elbow flexion, making it an effective triceps and upper chest exercise for home gym setups where a traditional bench may not be available.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000006-0000-4000-a000-000000000006"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lower the Smith machine bar to a few inches above where your elbows touch the floor when lying beneath it. Lie on the floor under the bar and grip it at shoulder-width.",
+    "setup_instructions": "Adjust Smith machine bar height carefully for the floor position. Place a mat on the floor for comfort. Have the safety catches set appropriately in case of failure.",
+    "steps": [
+      "Step 1: Rotate bar off hooks and hold at arm's length above the chest.",
+      "Step 2: Lower bar until upper arms touch the floor (elbows at approximately 90 degrees).",
+      "Step 3: Pause on the floor for 1 second.",
+      "Step 4: Press back to full lockout and repeat."
+    ],
+    "breathing_instructions": "Inhale before descent. Exhale through lockout.",
+    "common_mistakes": [
+      "Not pausing on the floor, using momentum",
+      "Setting the bar height too low, making unracking difficult"
+    ],
+    "safety_considerations": [
+      "The floor catches the bar if grip fails — this is a self-spotting exercise",
+      "Set the bar height precisely before lying down"
+    ],
+    "range_of_motion_guidance": "Elbows touch the floor at the bottom; full extension at top. Shorter ROM than bench press.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Let the floor stop you — don't relax tension when you touch",
+      "Pause and press with intent"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["floor-press", "triceps", "partial-rom", "smith-machine"]
+  }
+}

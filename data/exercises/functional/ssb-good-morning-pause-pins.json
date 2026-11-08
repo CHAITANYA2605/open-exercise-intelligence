@@ -1,0 +1,70 @@
+{
+  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50007",
+  "slug": "ssb-good-morning-pause-pins",
+  "name": "Safety Squat Bar Good Morning — Pause on Pins",
+  "alternative_names": ["SSB Good Morning Pause", "Cambered Bar Good Morning Pin Pause"],
+  "description": "A good morning variation performed with a safety squat bar (SSB) and a pause against power rack safety pins at the bottom of the range. The SSB's camber places the load in front of the lifter's center of mass, increasing the moment arm on the lower back compared to a straight bar good morning. The pause against the pins at the bottom eliminates the stretch reflex, requiring the posterior chain to initiate the ascent from a dead stop. This is an advanced posterior chain developer used in powerlifting accessory programming.",
+  "category": "functional",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "good-morning",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000005-0000-4000-a000-000000000005", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up in a power rack with the safety pins at the height where the SSB bar makes contact when the torso is at approximately parallel to the floor. Load the SSB and unrack it. Stand with feet hip-width, slight knee bend.",
+    "setup_instructions": "Set the safety pins to touch the bar when the torso reaches the target hinge angle (typically parallel or slightly below). Never let the spine round to reach the pins — set them at the appropriate height for your current flexibility.",
+    "steps": [
+      "Step 1: Unrack the SSB and brace the core. Begin with a slight knee bend.",
+      "Step 2: Hinge at the hip, keeping the spine rigid and neutral, until the bar makes contact with the safety pins.",
+      "Step 3: Fully relax the bar weight onto the pins for 1-2 seconds (this removes the stretch reflex).",
+      "Step 4: Rebrace and drive the hips forward to extend back to standing. The concentric begins from a dead stop."
+    ],
+    "breathing_instructions": "Inhale and brace before hinging. Take a secondary brace during the pause. Exhale forcefully during the ascent.",
+    "common_mistakes": ["Rounding the lower back to reach the pins — set the pins higher if this occurs", "Using the bounce off the pins rather than pausing fully", "Using the SSB's yoke to assist the lift — the arms should remain relaxed on the bar handles"],
+    "safety_considerations": ["This is an advanced exercise requiring a thorough understanding of the hip hinge pattern before loading", "Start light — the SSB increases the moment arm compared to straight bar good mornings", "Never set pins so low that lumbar rounding is required to reach them"],
+    "range_of_motion_guidance": "Hinge until the bar contacts the pins — this is set by pin height, not by flexibility. Work within a pain-free range.",
+    "tempo_recommendations": "3s eccentric, 2s full pause on pins, 2s concentric drive",
+    "coaching_cues": ["Hinge like you're trying to push your hips to the wall behind you — not just bow forward", "During the pause: fully release the tension and let the bar rest on the pins before rebuilding your brace", "Drive the floor away with the feet to initiate the ascent from the dead stop"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 2, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["good-morning", "SSB", "functional", "posterior-chain", "powerlifting"]
+  }
+}

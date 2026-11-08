@@ -1,0 +1,78 @@
+{
+  "exercise_id": "b2c3d4e5-f6a7-4890-b123-c45d67e89f14",
+  "slug": "single-arm-cable-crossover-punch",
+  "name": "Single-Arm Cable Crossover Punch",
+  "alternative_names": ["Cable Chest Punch", "Standing Cable Punch"],
+  "description": "A single-arm cable movement that mimics a cross-body punching motion, pulling the cable from a high or mid pulley position across the body while rotating the torso. This integrates horizontal adduction of the pectoralis major with rotational core engagement, training the chest in a functional, sport-relevant movement plane.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "cable",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand side-on to a cable machine set at shoulder height. Grip the handle with the far hand, arm extended to the side toward the cable stack. Stand with a slight staggered stance.",
+    "setup_instructions": "Set the cable pulley to shoulder or mid-chest height. Attach a single handle. Stand far enough from the stack that the cable is taut at the start position.",
+    "steps": [
+      "Step 1: Grip the handle with the hand farthest from the machine, arm extended toward the stack. Slight bend in the elbow.",
+      "Step 2: Drive the handle across your body in a punching motion — extend the arm forward and across the midline while rotating the torso toward the cable.",
+      "Step 3: At full extension, the arm crosses the centerline of the body and the torso has rotated to face the direction of the punch.",
+      "Step 4: Return with control to the starting position, resisting the cable's pull back. Repeat all reps on one side, then switch."
+    ],
+    "breathing_instructions": "Exhale forcefully on the punch, inhale on the return.",
+    "common_mistakes": [
+      "Using momentum from the shoulders instead of driving through the chest",
+      "Not rotating the torso — the punch should involve the whole core",
+      "Standing too close, losing cable tension at the end position"
+    ],
+    "safety_considerations": [
+      "Keep the shoulder packed — avoid hyperextending the joint at the end of the punch",
+      "Control the return — do not let the cable yank the arm back"
+    ],
+    "range_of_motion_guidance": "Full extension across the body midline. Torso rotates 30–45 degrees through the movement.",
+    "tempo_recommendations": "1-0-2-1 (explosive punch, 2s controlled return, 1s reset)",
+    "coaching_cues": [
+      "Punch from the chest — the hand follows, not leads",
+      "Rotate the torso at the end — your front shoulder should face forward at full extension"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "power", "min_reps": 5, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "unilateral", "chest", "rotation", "functional", "sport-specific"]
+  }
+}

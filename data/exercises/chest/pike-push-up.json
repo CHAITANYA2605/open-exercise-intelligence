@@ -1,0 +1,90 @@
+{
+  "exercise_id": "e5f6a7b8-c9d0-4e1f-2a3b-c4d5e6f7a405",
+  "slug": "pike-push-up",
+  "name": "Pike Push-Up",
+  "alternative_names": ["Downward Dog Push-Up"],
+  "description": "The pike push-up is a bodyweight pressing exercise performed in a pike (inverted V) body position, with hips raised and the torso angled toward vertical. This positions the shoulder joint in a more overhead alignment, making the anterior and lateral deltoids the primary movers rather than the pectorals. It serves as an accessible progression toward handstand push-ups.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Start in a push-up position, then walk the hands back toward the feet while raising the hips until the body forms an inverted V shape. Heels may be slightly lifted. Arms and back should be nearly straight.",
+    "setup_instructions": "No equipment required. The higher the hip position, the more vertical the torso and the greater the shoulder demand.",
+    "steps": [
+      "Step 1: Begin in a push-up position, then walk hands toward feet and raise the hips to form an inverted V.",
+      "Step 2: Brace core. Ensure hands are shoulder-width apart with fingers spread.",
+      "Step 3: Inhale and bend the elbows to lower the top of the head toward the floor between the hands.",
+      "Step 4: When the head nearly touches the floor or reaches the bottom of your range, exhale and press back to the starting inverted-V position."
+    ],
+    "breathing_instructions": "Inhale on the descent; exhale as you press back up.",
+    "common_mistakes": [
+      "Letting the hips drop during the movement, which shifts load to the chest",
+      "Flaring the elbows wide rather than allowing them to track naturally"
+    ],
+    "safety_considerations": [
+      "Develop adequate shoulder strength before progressing to fully vertical handstand push-ups",
+      "If you feel neck pain when the head approaches the floor, reduce range of motion"
+    ],
+    "range_of_motion_guidance": "Lower until the top of the head is 1–2 cm from the floor, then press back to the pike position.",
+    "tempo_recommendations": "3-0-1-0",
+    "coaching_cues": [
+      "Push the floor away as you think about pressing your hips toward the ceiling",
+      "Keep shoulders packed away from the ears throughout the movement"
+    ]
+  },
+  "variants": {
+    "easier": ["decline-push-up"],
+    "harder": ["handstand-push-up"],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": ["dumbbell-overhead-press", "barbell-overhead-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 12, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 75, "endurance": 45},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["push-up", "shoulders", "bodyweight", "intermediate", "handstand-progression"]
+  }
+}

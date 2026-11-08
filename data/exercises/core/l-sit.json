@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-e004-4000-a000-000000000104",
+  "slug": "l-sit",
+  "name": "L-Sit",
+  "alternative_names": ["L-Sit Hold"],
+  "description": "The L-sit is an advanced calisthenics isometric hold performed on dip bars, parallel bars, or the floor, in which the athlete supports their entire body on straight arms while holding the legs parallel to the floor, forming an L-shape with the body. It simultaneously demands significant triceps and shoulder pressing strength to depress the scapulae and hold the torso up, while the hip flexors and rectus abdominis maintain the legs in the horizontal position. It is a core gymnastics skill and a prerequisite for more advanced bar movements.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "advanced",
+  "movement_pattern": "plank",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "l-sit",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000021-0000-4000-a000-000000000021"],
+  "equipment_optional": ["eq000042-0000-4000-a000-000000000042"],
+  "execution": {
+    "starting_position": "Stand between dip bars with hands gripping each bar. Arms are fully extended and the body hangs with feet off the floor.",
+    "setup_instructions": "Set dip bars at a width that allows comfortable hand placement. Alternatively perform on the floor between two yoga blocks or plates.",
+    "steps": [
+      "Step 1: Grip the dip bars with straight arms and depress the scapulae (push shoulders down away from ears).",
+      "Step 2: Raise both legs simultaneously until they are parallel to the floor, keeping them straight and together.",
+      "Step 3: Maintain fully extended elbows and a tall torso throughout the hold.",
+      "Step 4: Point the toes and squeeze the thighs together.",
+      "Step 5: Hold for the prescribed duration, then lower the legs with control."
+    ],
+    "breathing_instructions": "Breathe shallowly during the hold. Avoid deep breaths that break core tension.",
+    "common_mistakes": [
+      "Bending the elbows instead of pressing down into straight arms",
+      "Allowing the shoulders to shrug upward instead of actively depressing the scapulae",
+      "Bending the knees when hip flexor strength is insufficient",
+      "Letting the legs drop below parallel"
+    ],
+    "safety_considerations": [
+      "Build prerequisite triceps pressing strength (dips) and hip flexor strength (hanging knee raises) before attempting the full L-sit.",
+      "Wrist discomfort is common on the floor variation — use parallel bars or push-up handles to reduce wrist extension."
+    ],
+    "range_of_motion_guidance": "Legs must be fully extended and held parallel to the ground. The torso must remain upright throughout.",
+    "tempo_recommendations": "Hold for 5–30 seconds. Accumulate total time over multiple sets. Progress from tuck L-sit → one leg extended → full L-sit.",
+    "coaching_cues": [
+      "Push the floor or bars away from you",
+      "Depress the scapulae — shoulders down, not shrugged",
+      "Legs are a shelf — keep them flat"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 120},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["gymnastics", "core", "isometric", "advanced", "calisthenics"]
+  }
+}

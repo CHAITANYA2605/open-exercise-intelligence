@@ -1,0 +1,131 @@
+{
+  "exercise_id": "cdac71e3-6f01-4280-893a-0ad7398f9938",
+  "slug": "cheat-curl",
+  "name": "Cheat Curl",
+  "alternative_names": [
+    "Body English Curl",
+    "Power Curl"
+  ],
+  "description": "A barbell curl variation that uses a slight body swing to initiate the movement, allowing the lifter to use heavier loads than a strict curl. The overloaded eccentric phase provides a strong hypertrophy stimulus for the biceps as the weight is lowered under control, making cheat curls a classic bodybuilding technique.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      },
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000003-0000-4000-a000-000000000003"
+  ],
+  "execution": {
+    "starting_position": "Stand holding a barbell with an underhand grip, arms extended down. Feet shoulder-width apart.",
+    "setup_instructions": "Pick up a barbell heavier than you would use for strict curls. Stand with feet shoulder-width apart and core engaged.",
+    "steps": [
+      "Step 1: Use a slight hip and knee dip to initiate momentum and swing the bar upward.",
+      "Step 2: Continue the curl motion, bringing the bar to the chest.",
+      "Step 3: Lower the bar very slowly and under strict control over 3 to 4 seconds.",
+      "Step 4: At the bottom, use the next swing to begin the following rep."
+    ],
+    "breathing_instructions": "Exhale during the curl. Inhale slowly during the controlled eccentric descent.",
+    "common_mistakes": [
+      "Excessive body English that turns the movement into a full-body swing",
+      "Not controlling the eccentric \u2014 the eccentric is the purpose of the exercise"
+    ],
+    "safety_considerations": [
+      "The weight should be heavier than a strict curl but not so heavy that form completely breaks down",
+      "Do not use this technique as a crutch \u2014 it is a deliberate advanced technique"
+    ],
+    "range_of_motion_guidance": "Full range of curl at the top. Fully extend at the bottom before the next rep.",
+    "tempo_recommendations": "1-0-4-0 (explosive concentric, 4s controlled eccentric)",
+    "coaching_cues": [
+      "Use the momentum to get it up",
+      "Take your time on the way down"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "biceps",
+      "cheat-curl",
+      "bodybuilding",
+      "advanced"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "exercise_id": "72d51ed0-ca65-43ae-a8e2-5857a4bc61f3",
+  "slug": "single-arm-dumbbell-row-isometric",
+  "name": "Single-Arm Dumbbell Row with Isometric Hold",
+  "alternative_names": ["Paused Dumbbell Row", "Iso-Hold Dumbbell Row"],
+  "description": "The isometric-hold dumbbell row adds a 3-5 second contraction pause at the top of each repetition, sustaining peak lat and rhomboid tension through an extended hold. This technique increases time under tension without adding load, making it valuable for building the mind-muscle connection and hypertrophy in the upper back without excessive joint stress.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "One knee and hand on a bench, other foot on the floor. Dumbbell hanging in working hand, arm extended.",
+    "setup_instructions": "Use a moderate weight — the isometric hold will make even lighter loads challenging. Focus on quality of contraction, not load.",
+    "steps": [
+      "Step 1: Row the dumbbell to the hip or lower ribcage.",
+      "Step 2: At the top position, hold for 3-5 seconds while actively squeezing the lat and rhomboid.",
+      "Step 3: Maintain the hold — do not allow the elbow to drop.",
+      "Step 4: Lower slowly (3 seconds) under full control.",
+      "Step 5: Repeat for all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale on the pull. Hold breath lightly during the isometric. Exhale during the lower.",
+    "common_mistakes": [
+      "Releasing tension during the hold — actively squeeze rather than passively hold",
+      "Using too heavy a weight — the hold becomes impossible and form breaks"
+    ],
+    "safety_considerations": [
+      "Moderate loads only — the isometric reduces reliance on heavy weight",
+      "Maintain neutral spine throughout"
+    ],
+    "range_of_motion_guidance": "Full extension to full contraction, with isometric hold at peak.",
+    "tempo_recommendations": "2-5-3-0 (2s pull, 5s hold, 3s lower)",
+    "coaching_cues": [
+      "Squeeze as hard as possible during the hold",
+      "Think about pulling your elbow to the sky and keeping it there",
+      "Own the negative — 3 full seconds"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "row", "isometric", "time-under-tension", "hypertrophy"]
+  }
+}

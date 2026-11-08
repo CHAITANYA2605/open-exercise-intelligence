@@ -1,0 +1,154 @@
+{
+  "exercise_id": "7e69a49c-f5d0-41a4-9799-88b538a418d1",
+  "slug": "ring-dip",
+  "name": "Ring Dip",
+  "alternative_names": [
+    "Gymnastic Ring Dip"
+  ],
+  "description": "A dip exercise performed on gymnastics rings rather than a fixed dipping bar. The unstable nature of the rings requires significant shoulder girdle stability and demands greater pectoralis, triceps, and anterior deltoid activation throughout the movement compared to bar dips, while also training the small stabilizing muscles of the shoulder.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "dip",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "pectoralis-major"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "anterior-deltoid"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "pectoralis-minor"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "medial-deltoid"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "serratus-anterior"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000019-0000-4000-a000-000000000019"
+  ],
+  "equipment_optional": [
+    "eq000021-0000-4000-a000-000000000021"
+  ],
+  "execution": {
+    "starting_position": "Support your body above the rings with arms fully extended, rings turned out slightly, body upright.",
+    "setup_instructions": "Set the rings at a height that allows full dip depth without touching the floor. Mount by jumping up to ring support position.",
+    "steps": [
+      "Step 1: Lower your body by bending the elbows, allowing a slight forward torso lean.",
+      "Step 2: Descend until the upper arms are parallel to the floor or the shoulders are level with the elbows.",
+      "Step 3: Turn the rings outward at the bottom for stability and shoulder health.",
+      "Step 4: Press through the palms to fully extend the elbows and return to the top position."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale on the press up.",
+    "common_mistakes": [
+      "Failing to turn the rings outward at the bottom, increasing shoulder impingement risk",
+      "Dipping too fast without controlling the rings"
+    ],
+    "safety_considerations": [
+      "Ensure you can perform 10 clean parallel bar dips before attempting ring dips",
+      "Have a spotter or mat below when learning"
+    ],
+    "range_of_motion_guidance": "Descend until upper arms are parallel to the floor. Full elbow extension at the top.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": [
+      "Turn the rings out at the bottom",
+      "Squeeze the rings together as you press up"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "triceps",
+      "rings",
+      "gymnastics",
+      "advanced"
+    ]
+  }
+}

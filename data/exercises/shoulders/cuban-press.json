@@ -1,0 +1,72 @@
+{
+  "exercise_id": "sh010029-f3a2-4c1e-9b8d-7e6f5a4c3c10",
+  "slug": "cuban-press",
+  "name": "Cuban Press",
+  "alternative_names": ["Cuban Rotation Press", "External Rotation Press"],
+  "description": "The Cuban press is a three-phase shoulder exercise that combines an upright row, external rotation, and an overhead press in a single movement. It trains the full rotator cuff through a functional arc, particularly emphasizing the external rotators and infraspinatus. Originally developed for overhead athletes requiring rotator cuff health and shoulder mobility, the Cuban press is used both as a corrective exercise and as a warm-up for heavy overhead pressing sessions.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rotator-cuff",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000002-0000-4000-a000-000000000002"],
+  "execution": {
+    "starting_position": "Stand holding dumbbells (or a barbell) at thigh level with an overhand grip.",
+    "setup_instructions": "Use very light weights — this is a technique and health exercise, not a strength movement. 2.5-10 lbs per dumbbell is typical.",
+    "steps": [
+      "Step 1: Begin with dumbbells at the thighs.",
+      "Step 2: Upright row phase: raise the elbows up and out to bring the weights to shoulder height with elbows at 90 degrees and upper arms parallel to the floor.",
+      "Step 3: External rotation phase: rotate the forearms upward until forearms are vertical (elbows still at 90 degrees, now pointing up).",
+      "Step 4: Press phase: press the dumbbells overhead to full lockout.",
+      "Step 5: Reverse the motion through each phase back to the starting position."
+    ],
+    "breathing_instructions": "Breathe naturally — this is typically used for warm-up or corrective purposes.",
+    "common_mistakes": [
+      "Using too much weight, which corrupts the rotation technique",
+      "Skipping the controlled return through all three phases",
+      "Rushing through the exercise without pausing at each transition"
+    ],
+    "safety_considerations": ["This exercise should feel comfortable — any shoulder pain is a signal to stop and assess"],
+    "range_of_motion_guidance": "Full upright row height, full external rotation, full overhead lockout — three distinct positions.",
+    "tempo_recommendations": "Slow and deliberate through each phase — no specific tempo beyond controlled execution",
+    "coaching_cues": ["Three distinct movements — row, rotate, press", "Light weight — quality of motion matters", "Reverse every phase on the way down"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 60},
+    "training_goals": ["rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "rotator-cuff", "corrective", "warm-up", "overhead-athletes"]
+  }
+}

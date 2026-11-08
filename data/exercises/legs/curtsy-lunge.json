@@ -1,0 +1,91 @@
+{
+  "exercise_id": "a1b2c3d4-0014-4000-a000-legs00000014",
+  "slug": "curtsy-lunge",
+  "name": "Curtsy Lunge",
+  "alternative_names": ["Cross-Behind Lunge"],
+  "description": "The curtsy lunge steps the rear foot behind and across the midline of the body, creating an adducted hip position that increases the demand on the gluteus medius and tensor fasciae latae of the working (front) leg. The crossed foot position forces the hip of the front leg to work in an abducted position against additional resistance, making this a particularly effective exercise for lateral hip development and glute medius targeting.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "lunge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Stand with feet together, hands on hips or holding dumbbells at the sides.",
+    "setup_instructions": "No equipment needed for bodyweight version. Dumbbells add load. Perform slowly and with control, especially as a beginner.",
+    "steps": [
+      "Step 1: Take a large step backward and across the midline with one foot — as though performing a curtsy.",
+      "Step 2: Lower the rear knee toward the floor while keeping the front knee tracking over the front foot.",
+      "Step 3: The front knee should track slightly to the outside as the hip of the front leg works against the adducted position of the rear foot.",
+      "Step 4: Drive through the front heel to return to standing.",
+      "Step 5: Alternate sides each rep."
+    ],
+    "breathing_instructions": "Inhale as you lower. Exhale as you return to standing.",
+    "common_mistakes": [
+      "Not crossing the rear foot far enough across the midline, which reduces the glute medius emphasis",
+      "Allowing the front knee to cave inward",
+      "Placing excessive bodyweight on the rear toes instead of using the front leg"
+    ],
+    "safety_considerations": [
+      "The crossed position can stress the knee ligaments if the knee tracks medially — ensure the front knee stays in line with or outside the foot",
+      "Reduce stride width if balance is compromised"
+    ],
+    "range_of_motion_guidance": "Rear knee descends to just above the floor. Front shin remains mostly vertical.",
+    "tempo_recommendations": "2-0-1-0",
+    "coaching_cues": [
+      "Cross behind as if stepping over a low rope",
+      "Keep the front knee over the pinky toe",
+      "Drive up through the front foot"
+    ]
+  },
+  "variants": {
+    "easier": ["reverse-lunge", "lateral-lunge"],
+    "harder": ["bulgarian-split-squat"],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 12},
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["lunge", "glute-medius", "lateral-hip"]
+  }
+}

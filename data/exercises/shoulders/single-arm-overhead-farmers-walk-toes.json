@@ -1,0 +1,84 @@
+{
+  "exercise_id": "b9c0d1e2-0345-4123-4567-890123456012",
+  "slug": "single-arm-overhead-farmers-walk-toes",
+  "name": "Single-Arm Overhead Farmer's Walk (On Toes)",
+  "alternative_names": ["Overhead Waiter's Walk on Toes", "Unilateral Overhead Carry Toes Elevated"],
+  "description": "The single-arm overhead farmer's walk on toes adds a calf-raise walking component to the standard overhead carry, requiring the athlete to walk on the balls of the feet while maintaining a dumbbell or kettlebell locked out overhead in one hand. The toe-walking increases the postural demand, activates the calf complex, and forces additional core lateral stability, as the reduced base of support increases the demand on the hip abductors and ankle stabilizers on each step.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "44444444-0001-4000-a000-000000000004", "muscle_slug": "trapezius-upper" }
+    ],
+    "secondary": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "33333333-0005-4000-a000-000000000003", "muscle_slug": "infraspinatus" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000003-0000-4000-a000-000000000003"],
+  "execution": {
+    "starting_position": "Press a dumbbell or kettlebell overhead with one arm to full lockout. Rise onto the toes of both feet. Free arm held at the side.",
+    "setup_instructions": "Master the standard single-arm overhead carry before the toe-walking variation. Begin with a light load.",
+    "steps": [
+      "Step 1: Press the dumbbell overhead to full lockout. Pack the shoulder — the working shoulder should be depressed, not shrugged.",
+      "Step 2: Rise onto the toes of both feet.",
+      "Step 3: Walk a designated distance (10-20 metres) while remaining on the toes.",
+      "Step 4: Maintain a vertical torso — no lateral lean toward the loaded side.",
+      "Step 5: Return to the start, switch hands and repeat."
+    ],
+    "breathing_instructions": "Breathe freely but maintain a braced core throughout.",
+    "common_mistakes": [
+      "Lateral torso lean — the torso must remain vertical",
+      "Shrugged working shoulder — pack the shoulder down"
+    ],
+    "safety_considerations": [
+      "Learn the standard overhead carry first",
+      "Very light load on the first attempt — the balance demand is significant"
+    ],
+    "range_of_motion_guidance": "Maintained lockout overhead for the duration of the carry.",
+    "tempo_recommendations": "Continuous walking at a controlled pace",
+    "coaching_cues": [
+      "Shoulder packed — not shrugged",
+      "Walk tall on the toes",
+      "No lean to the loaded side"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 1, "max_reps": 1 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "strength": 120 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["overhead-carry", "farmers-walk", "unilateral", "toes", "stability", "advanced"]
+  }
+}

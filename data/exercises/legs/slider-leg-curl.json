@@ -1,0 +1,70 @@
+{
+  "exercise_id": "a1b2c3d4-0025-4000-a000-100000000025",
+  "slug": "slider-leg-curl",
+  "name": "Sliding Towel / Slider Leg Curl",
+  "alternative_names": ["Towel Hamstring Curl", "Furniture Slider Leg Curl"],
+  "description": "The slider leg curl is performed on a smooth floor using a towel or furniture sliders under the heels. The lifter begins in a supine bridge and slides the heels toward the hips to curl the hamstrings, then slides back to full extension. Because the floor provides no catch, the eccentric phase demands significant hamstring control. It is an effective, equipment-free hamstring exercise that can be progressed to single-leg variations.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on your back on a smooth floor. Place a small towel or furniture sliders under both heels. Legs extended, arms at sides.",
+    "setup_instructions": "Use a smooth floor surface (hardwood or tile). Fold a towel and place it under both heels so they slide easily.",
+    "steps": [
+      "Step 1: Drive the hips up into a bridge, forming a straight line from shoulders to heels.",
+      "Step 2: While maintaining the bridge, slide the heels toward your hips by bending the knees.",
+      "Step 3: Slide until the heels are close to the glutes.",
+      "Step 4: Slide the heels back to the starting extended position with control, maintaining the hip bridge."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on the return.",
+    "common_mistakes": ["Hips sagging during the return phase", "Sliding too fast — use the hamstrings to control the eccentric", "Heels sliding outward"],
+    "safety_considerations": ["Ensure the floor surface is smooth and consistent", "The eccentric return is high hamstring demand — control it carefully"],
+    "range_of_motion_guidance": "Full extension to maximum knee flexion (heels near glutes).",
+    "tempo_recommendations": "2-0-4-0 (2s curl, 4s return)",
+    "coaching_cues": ["Hips stay high — squeeze your glutes", "Control the return slide", "Heels stay hip-width apart"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 12},
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hamstring", "bodyweight", "home-gym", "eccentric"]
+  }
+}

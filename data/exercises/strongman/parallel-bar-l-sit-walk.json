@@ -1,0 +1,124 @@
+{
+  "exercise_id": "ex-parallel-smn-4000-a000-594518742519",
+  "slug": "parallel-bar-l-sit-walk",
+  "name": "Parallel Bar L-Sit Walk",
+  "alternative_names": [],
+  "description": "An L-sit hold on parallel bars where the athlete walks the bars forward by alternating hand placements while maintaining the L-position. This requires the core to maintain compression while the arms propel the body forward. An advanced gymnastic strength and coordination exercise.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "expert",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000021-0000-4000-a000-000000000021"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Parallel Bar L-Sit Walk in proper strongman position.",
+    "setup_instructions": "Prepare all equipment and body position for Parallel Bar L-Sit Walk.",
+    "steps": [
+      "Step 1: Set up in full L-sit on parallel bars with legs horizontal.",
+      "Step 2: Maintaining L-sit, shift weight to one hand and move other hand forward.",
+      "Step 3: Alternate hand placements to walk forward along bars.",
+      "Step 4: Complete distance while holding L-sit position throughout."
+    ],
+    "breathing_instructions": "Brace core maximally before every lift. Breathe between reps if needed.",
+    "common_mistakes": [
+      "Dropping legs during hand transition",
+      "Moving too quickly"
+    ],
+    "safety_considerations": [
+      "Use collars on all loaded barbells.",
+      "Ensure clear path for carries.",
+      "Have spotters for overhead movements."
+    ],
+    "range_of_motion_guidance": "Full range of motion specific to the implement being used.",
+    "tempo_recommendations": "Explosive concentric phase, controlled eccentric.",
+    "coaching_cues": [
+      "Full L-sit mastery required before this",
+      "Slow controlled transitions"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 3
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 240,
+      "power": 300
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50003",
+  "slug": "monster-walks-band",
+  "name": "Monster Walks with Band Around Ankles",
+  "alternative_names": ["Lateral Band Walks — Ankles", "Banded Monster Walk"],
+  "description": "Monster walks are a dynamic hip abductor exercise performed by walking laterally with a resistance band looped around the ankles. Maintaining a quarter-squat position throughout keeps constant tension on the hip abductors. This exercise is commonly used in warm-up protocols and rehabilitation to strengthen the gluteus medius, improve lateral hip stability, and address knee valgus patterns during athletic movement.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "gait",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [{"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"},
+      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "cccccccc-0001-4000-a000-00000000000c", "muscle_slug": "quadriceps"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ]
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place a resistance band around both ankles. Stand with feet hip-width apart in a quarter-squat position — knees slightly bent, hips pushed back slightly, chest tall.",
+    "setup_instructions": "Choose a band that creates meaningful resistance without causing the torso to tip side to side during each step. Clear a path of at least 3-4 meters for lateral movement.",
+    "steps": [
+      "Step 1: Adopt a quarter-squat stance with the band taut between the ankles.",
+      "Step 2: Step laterally with the lead foot, widening the stance beyond shoulder width.",
+      "Step 3: Follow with the trail foot, returning to shoulder-width — do not let feet come fully together.",
+      "Step 4: Continue for the prescribed distance or steps, then repeat in the opposite direction."
+    ],
+    "breathing_instructions": "Breathe rhythmically throughout. Exhale on each step if needed; do not hold your breath.",
+    "common_mistakes": ["Allowing the torso to sway laterally with each step", "Letting feet come fully together (releases band tension)", "Standing fully upright rather than maintaining the squat position"],
+    "safety_considerations": ["If you have knee pain, reduce band resistance and ensure knees track over toes", "Stop if you feel hip flexor cramping — reduce range or band resistance"],
+    "range_of_motion_guidance": "Each lateral step should be wide enough to maintain continuous band tension. Avoid shuffling with feet too close together.",
+    "tempo_recommendations": "Controlled — 1 second per step, maintaining consistent tension throughout",
+    "coaching_cues": ["Stay low throughout — do not bob up and down", "Drive through the outer hip to step, not the knee", "Keep toes pointing forward — avoid external rotation compensation"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20},
+      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 45, "mobility": 60},
+    "training_goals": ["mobility", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hip", "rehabilitation", "glute-med", "lateral-stability"]
+  }
+}

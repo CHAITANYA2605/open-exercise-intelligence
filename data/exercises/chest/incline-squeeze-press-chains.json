@@ -1,0 +1,79 @@
+{
+  "exercise_id": "f0a1b2c3-d4e5-4678-f901-a23b45c67d42",
+  "slug": "incline-squeeze-press-chains",
+  "name": "Incline Squeeze Press with Chains",
+  "alternative_names": ["Chain-Loaded Incline Squeeze Press", "Incline Hex Press Chains"],
+  "description": "An incline squeeze press — both dumbbells pressed together — with chains attached to each dumbbell for accommodating resistance. The continuous adduction squeeze targets the medial clavicular pectoral fibers, while the chains progressively load the lockout, maximizing tension through the top range where free weights typically feel easiest. This combination of technique and load variety creates an unusually high stimulus for the upper chest.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on an incline bench (30–45 degrees). Attach chains to both dumbbells so they drape to the floor from the bottom of the press. Hold dumbbells pressed together at upper chest level, palms facing each other.",
+    "setup_instructions": "Use hex dumbbells for flat-face contact. Secure chains to handles. Reduce dumbbell weight below normal squeeze press weight due to chain addition. Chains should begin engaging near the mid-range of the press.",
+    "steps": [
+      "Step 1: Begin with dumbbells pressed firmly together at the upper chest, chains draping to floor.",
+      "Step 2: Squeeze the dumbbells together and press them upward as a unit. Chains progressively engage as the dumbbells rise.",
+      "Step 3: At full lockout, all chains are suspended. Maintain the inward squeeze throughout.",
+      "Step 4: Lower under control, allowing chains to re-contact the floor, deloading the bottom. Repeat."
+    ],
+    "breathing_instructions": "Inhale at the bottom, exhale forcefully through the press.",
+    "common_mistakes": [
+      "Letting the dumbbells separate — the squeeze must be constant throughout",
+      "Using too much dumbbell weight before adding chain load",
+      "Chains not engaging — means they are too long or not properly attached"
+    ],
+    "safety_considerations": [
+      "Secure chain attachments before beginning",
+      "Significantly reduce dumbbell weight relative to standard squeeze press",
+      "Have a spotter hand the dumbbells into position with chains attached"
+    ],
+    "range_of_motion_guidance": "Full range from upper chest to lockout, squeeze maintained throughout.",
+    "tempo_recommendations": "3-1-2-1",
+    "coaching_cues": [
+      "Squeeze the dumbbells together as hard as you can the entire set",
+      "Press hard to the top — the chains reward complete lockout"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "chains", "incline", "squeeze-press", "accommodating-resistance", "upper-chest"]
+  }
+}

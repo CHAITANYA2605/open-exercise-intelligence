@@ -1,0 +1,78 @@
+{
+  "exercise_id": "f4a5b6c7-d8e9-4012-f345-a67b89c01234",
+  "slug": "incline-machine-chest-press",
+  "name": "Incline Machine Chest Press",
+  "alternative_names": ["Incline Plate-Loaded Chest Press"],
+  "description": "The Incline Machine Chest Press uses a selectorized or plate-loaded machine set at an inclined angle to target the clavicular head of the pectoralis major. The machine guides the press path, reducing stabilization demands and allowing higher training volumes or isolation work at the end of a session when stabilizers are fatigued.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000032-0000-4000-a000-000000000032"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Adjust the seat height so the handles align with the upper chest. Sit back against the pad with feet flat on the floor.",
+    "setup_instructions": "Set the seat height on the incline machine so the pressing handles are at upper chest level. Adjust the starting position handle if present to bring the handles to the starting position.",
+    "steps": [
+      "Step 1: Grip the handles at upper chest level.",
+      "Step 2: Press forward and upward along the machine's guided path to full arm extension.",
+      "Step 3: Squeeze the chest at the peak.",
+      "Step 4: Return under control to the starting position."
+    ],
+    "breathing_instructions": "Exhale as you press. Inhale as you return.",
+    "common_mistakes": [
+      "Seat set too low, turning it into a flat press rather than incline",
+      "Releasing the weight stack at the bottom, losing continuous tension"
+    ],
+    "safety_considerations": [
+      "Adjust seat height for each user — do not assume it is set correctly",
+      "Control the weight on the return — do not let the stack drop"
+    ],
+    "range_of_motion_guidance": "Full extension at top; return until chest is fully stretched without losing tension.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Lead with the chest, not the shoulders",
+      "Squeeze at the top of every rep"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 75, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["upper-chest", "machine", "beginner-friendly"]
+  }
+}

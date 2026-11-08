@@ -1,0 +1,119 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/open-exercise-intelligence/oei/blob/main/schema/media-asset.schema.json",
+  "title": "MediaAsset",
+  "description": "A media asset record with provenance and licensing information",
+  "type": "object",
+  "required": [
+    "asset_id",
+    "exercise_id",
+    "asset_type",
+    "file_format",
+    "file_path",
+    "creator",
+    "license",
+    "commercial_usage_allowed",
+    "redistribution_allowed",
+    "modification_allowed",
+    "approval_status"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "asset_id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Stable, globally unique identifier for this asset."
+    },
+    "exercise_id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "The exercise this asset belongs to."
+    },
+    "asset_type": {
+      "type": "string",
+      "enum": [
+        "thumbnail",
+        "start_position",
+        "end_position",
+        "execution_sequence",
+        "animated_gif",
+        "video_mp4",
+        "video_webm",
+        "anatomical_front",
+        "anatomical_rear",
+        "muscle_activation_overlay"
+      ]
+    },
+    "file_format": {
+      "type": "string",
+      "description": "File extension without dot, e.g. 'jpg', 'webp', 'gif', 'mp4', 'svg'."
+    },
+    "file_path": {
+      "type": "string",
+      "description": "Relative path to the asset file from the repository root."
+    },
+    "resolution": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "width": { "type": "integer", "minimum": 1 },
+        "height": { "type": "integer", "minimum": 1 }
+      },
+      "required": ["width", "height"],
+      "description": "Pixel dimensions. Not applicable to SVG (use null)."
+    },
+    "creator": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Name of the person or organization who created the asset."
+    },
+    "source": {
+      "type": "string",
+      "description": "Where the asset was obtained from, if not created originally for OEI."
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1,
+      "description": "SPDX license identifier or a recognized license name, e.g. 'CC0-1.0', 'CC-BY-4.0', 'MIT'."
+    },
+    "attribution": {
+      "type": "string",
+      "description": "Required attribution text, if any. Empty string if no attribution is required (CC0)."
+    },
+    "commercial_usage_allowed": {
+      "type": "boolean",
+      "description": "Whether the license permits commercial use."
+    },
+    "redistribution_allowed": {
+      "type": "boolean",
+      "description": "Whether the license permits redistribution."
+    },
+    "modification_allowed": {
+      "type": "boolean",
+      "description": "Whether the license permits modification."
+    },
+    "provenance_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the original source of the asset or its license page."
+    },
+    "approval_status": {
+      "type": "string",
+      "enum": ["pending", "approved", "rejected"],
+      "description": "Whether a maintainer has verified the licensing information."
+    },
+    "approved_by": {
+      "type": "string",
+      "description": "GitHub username of the maintainer who approved this asset."
+    },
+    "approved_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When the asset was approved."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Any additional notes about the asset, its license, or required handling."
+    }
+  }
+}

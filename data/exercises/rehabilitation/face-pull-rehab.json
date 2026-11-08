@@ -1,0 +1,130 @@
+{
+  "exercise_id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+  "slug": "face-pull-rehab",
+  "name": "Band Face Pull",
+  "alternative_names": [
+    "Resistance Band Face Pull",
+    "Face Pull Rehab"
+  ],
+  "description": "The band face pull is a rehabilitation exercise for the posterior deltoid, infraspinatus, and middle trapezius, performed by pulling a resistance band toward the face with elbows flared high. It directly counteracts the internal rotation and forward shoulder posture associated with heavy pressing and prolonged sitting. It is used in rotator cuff rehabilitation, shoulder impingement treatment, and general shoulder health maintenance.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "shoulder-external-rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "posterior-deltoid"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "22222222-0003-4000-a000-000000000002",
+        "muscle_slug": "middle-trapezius"
+      },
+      {
+        "muscle_id": "22222222-0005-4000-a000-000000000002",
+        "muscle_slug": "rhomboids"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "lower-trapezius"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Anchor the resistance band loop at face height or slightly above. Grip the band with both hands using a neutral or overhand grip, arms extended in front at shoulder height.",
+    "setup_instructions": "Anchor the band at a door frame, rack, or any stable point at face height. Stand far enough back to have tension in the band with arms extended.",
+    "steps": [
+      "Step 1: Hold the band with both hands at shoulder width, arms extended toward the anchor.",
+      "Step 2: Pull the band toward the face, leading with the elbows flared outward and upward.",
+      "Step 3: As the hands approach the face, externally rotate the shoulders so the hands splay outward and the elbows point to the sides.",
+      "Step 4: Hold briefly at full contraction \u2014 elbows should be at or above shoulder height and hands near the temples.",
+      "Step 5: Slowly extend the arms back to the start under control."
+    ],
+    "breathing_instructions": "Exhale as you pull toward the face. Inhale on the return.",
+    "common_mistakes": [
+      "Keeping the elbows low \u2014 elbows must flare high to recruit the posterior rotator cuff",
+      "Pulling toward the neck or chest instead of the face",
+      "Excessive torso lean or momentum from the lower body"
+    ],
+    "safety_considerations": [
+      "Use a light band for rehabilitation \u2014 this is a high-rep, low-load exercise",
+      "If impingement symptoms occur with elbows high, temporarily reduce elbow height"
+    ],
+    "range_of_motion_guidance": "Full extension of the arms at the start, full retraction with elbows flared and hands near face at the end.",
+    "tempo_recommendations": "2-second pull, 1-second hold, 2-second return. 15\u201320 reps \u00d7 3 sets.",
+    "coaching_cues": [
+      "Lead with the elbows \u2014 pull them back and apart",
+      "Think about showing your armpits at the top",
+      "Squeeze the shoulder blades together at the end of each rep"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "rehabilitation",
+      "shoulder",
+      "rotator-cuff",
+      "posture",
+      "band",
+      "beginner"
+    ]
+  }
+}

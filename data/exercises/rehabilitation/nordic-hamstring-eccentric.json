@@ -1,0 +1,84 @@
+{
+  "exercise_id": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
+  "slug": "nordic-hamstring-eccentric",
+  "name": "Nordic Hamstring Curl Eccentric",
+  "alternative_names": ["Nordic Curl", "Natural Leg Curl", "Nordic Lower"],
+  "description": "The Nordic hamstring curl eccentric is a high-load hamstring exercise in which the exerciser slowly lowers the body forward from a kneeling position while the hamstrings eccentrically resist. It produces the highest eccentric hamstring forces of any bodyweight exercise and is extensively supported by research for reducing hamstring strain injury rates. It is used in both injury prevention programs and hamstring rehabilitation after strain.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "advanced",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "hamstring-curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head" },
+      { "muscle_id": "dddddddd-0003-4000-a000-00000000000d", "muscle_slug": "semitendinosus" },
+      { "muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semimembranosus" }
+    ],
+    "secondary": [],
+    "stabilizers": [
+      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kneel on a mat with the ankles secured under a fixed object (a loaded barbell, a partner holding the ankles, or under a GHD pad). The body is upright with hips fully extended.",
+    "setup_instructions": "Secure the ankles under a barbell, have a partner hold them, or use a GHD machine. Use a mat under the knees. Keep the hips extended throughout — do not allow them to flex.",
+    "steps": [
+      "Step 1: Kneel with ankles secured and body upright in a tall kneeling position.",
+      "Step 2: Keeping the hips extended and body in a straight line from knees to head, slowly lower the entire body forward toward the floor.",
+      "Step 3: Use the hamstrings eccentrically to resist the fall as long as possible.",
+      "Step 4: When the hamstrings can no longer hold the descent, catch yourself with the hands and push back to the start.",
+      "Step 5: Use the hands to assist the return to upright — the concentric phase is not the training goal."
+    ],
+    "breathing_instructions": "Exhale during the descent. Inhale at the bottom before pushing back up.",
+    "common_mistakes": [
+      "Hips flexing during the descent — the body must remain in a straight line from knees to head",
+      "Descending too fast in early stages — control the tempo",
+      "Skipping progression — beginners should start with heavily assisted eccentrics (hands very close to knees) before attempting a full lowering"
+    ],
+    "safety_considerations": [
+      "Very high hamstring load — this is classified as advanced and should not be performed in the first 2 weeks post-hamstring strain",
+      "DOMS (delayed onset muscle soreness) is very common after the first session — start with 2–3 reps only",
+      "Progress from 3×5 over several weeks before attempting high volumes"
+    ],
+    "range_of_motion_guidance": "Descend as slowly as possible to the floor or as far as the hamstrings can control. Full range is from upright to prone.",
+    "tempo_recommendations": "Start: 3–5 reps × 2 sets. Progress over 4–6 weeks to 3×10. The descent should take 3–5 seconds.",
+    "coaching_cues": [
+      "Keep your hips locked out — do not let them break backward",
+      "Think about fighting gravity for as long as possible",
+      "The hands are there to catch you, not to assist the descent"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 3, "max_reps": 10 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 120 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "hamstring", "eccentric", "injury-prevention", "advanced", "nordic"]
+  }
+}

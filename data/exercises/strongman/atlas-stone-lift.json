@@ -1,0 +1,94 @@
+{
+  "exercise_id": "sm000004-0000-4000-a000-000000000004",
+  "slug": "atlas-stone-lift",
+  "name": "Atlas Stone Lift and Load",
+  "alternative_names": ["Atlas Stone", "Stone Lift", "Stone Load"],
+  "description": "The Atlas stone is a spherical concrete or stone implement used in strongman competition. The lift-and-load movement requires the athlete to roll the stone onto their thighs, hug it into the chest and abdomen, then extend the hips explosively to load it onto a platform or over a bar at a specified height. The Atlas stone imposes compressive loading on the spine and demands maximal effort from the entire posterior chain, biceps, and core in a movement pattern unlike any barbell exercise. It is an expert-level lift with significant injury risk if executed without proper technique and adequate preparation.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "expert",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "strongman",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "The stone is on the floor. Straddle the stone with feet wider than hip-width. Squat down, reaching around the stone with both arms in a 'bear hug' grip. The chest and abdomen make contact with the stone.",
+    "setup_instructions": "Apply tacky (a sticky compound used in strongman) to the forearms for grip on competition-style stones. Set the loading platform or bar height before beginning. Have a spotter/judge present for all heavy attempts.",
+    "steps": [
+      "Step 1: Straddle the stone, squat deeply, and wrap both arms around it. Lock the hands together or grasp opposing wrists beneath the stone.",
+      "Step 2: Extend the hips and knees to drive the stone upward while pulling it into the lap and abdomen. The stone sits on the upper thighs at the lap position.",
+      "Step 3: Re-grip the stone — shift the hands higher up the stone's surface as it comes into the lap. This is the re-grip or 'lapping' phase.",
+      "Step 4: Drive the hips forward explosively, extending fully. Simultaneously pull the stone up the body and roll it over the platform edge or loading pin.",
+      "Step 5: Once the stone is on the platform, step back and release. Do not follow the stone over the platform."
+    ],
+    "breathing_instructions": "Brace maximally with a Valsalva manoeuvre (held breath) at the initial pull from the floor. Breathe again at the lap position before the final load.",
+    "common_mistakes": [
+      "Not getting the chest and abs fully against the stone — the stone must be hugged in tight, not held with the hands alone",
+      "Attempting to muscle the stone up with the arms rather than using hip extension as the primary power source",
+      "Failing to re-grip (lap) the stone at the thighs before the final load — trying to load it in one continuous motion usually fails on heavy stones"
+    ],
+    "safety_considerations": [
+      "Never attempt a heavy Atlas stone without first training with lighter stones to develop technique and tendon strength in the forearms",
+      "The biceps tendon is at risk on heavy stones if the arms are not properly positioned — keep the elbows out and under the stone, not reaching over the top",
+      "Wear appropriate protective clothing — the stone will abrade bare skin",
+      "Always have a handler/spotter present for competition-weight attempts",
+      "Warm up the lower back, hips, and biceps extensively before heavy stone work"
+    ],
+    "range_of_motion_guidance": "Full hip extension at the final load phase. The stone travels from the floor to above the platform height — typically 1.0–1.5 metres.",
+    "tempo_recommendations": "Competition: maximum reps in 60 seconds. Training: 1–3 reps per set × 3–5 sets. Rest 3–5 minutes between sets.",
+    "coaching_cues": [
+      "Hug the stone — do not grab it",
+      "Lap it first, then load it",
+      "The power comes from the hips — pop them through"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 3}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 300},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["strongman", "atlas-stone", "competition", "expert", "posterior-chain"]
+  }
+}

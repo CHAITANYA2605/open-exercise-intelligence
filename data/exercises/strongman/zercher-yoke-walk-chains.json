@@ -1,0 +1,129 @@
+{
+  "exercise_id": "ex-zercher--smn-4000-a000-634764986475",
+  "slug": "zercher-yoke-walk-chains",
+  "name": "Zercher Yoke Walk with Chains",
+  "alternative_names": [],
+  "description": "A Zercher yoke walk with chains added to the implement for accommodating resistance. The chains increase weight as the athlete stands taller and decrease weight in the bottom position. This variation trains the entire walk with varied loading and builds lockout strength.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "expert",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Zercher Yoke Walk with Chains in proper strongman position.",
+    "setup_instructions": "Prepare all equipment and body position for Zercher Yoke Walk with Chains.",
+    "steps": [
+      "Step 1: Attach chains to Zercher yoke. Cradle yoke in elbow creases.",
+      "Step 2: Stand and step clear of rack as chains lift from floor.",
+      "Step 3: Walk briskly as chains swing and provide dynamic resistance.",
+      "Step 4: Set down at end of walk managing chain pendulum motion."
+    ],
+    "breathing_instructions": "Brace core maximally before every lift. Breathe between reps if needed.",
+    "common_mistakes": [
+      "Walking too fast increasing chain swing",
+      "Losing Zercher position"
+    ],
+    "safety_considerations": [
+      "Use collars on all loaded barbells.",
+      "Ensure clear path for carries.",
+      "Have spotters for overhead movements."
+    ],
+    "range_of_motion_guidance": "Full range of motion specific to the implement being used.",
+    "tempo_recommendations": "Explosive concentric phase, controlled eccentric.",
+    "coaching_cues": [
+      "Smooth steps reduce chain oscillation",
+      "Keep elbows tight to cradle bar"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 3
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 240,
+      "power": 300
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

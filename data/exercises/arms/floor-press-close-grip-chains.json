@@ -1,0 +1,123 @@
+{
+  "exercise_id": "ex-floor-pr-ains-4000-a000-052487334408",
+  "slug": "floor-press-close-grip-chains",
+  "name": "Floor Press Close-Grip with Chains",
+  "alternative_names": [],
+  "description": "A close-grip floor press with chain accommodating resistance added to the barbell. Chains reduce weight at the bottom and add resistance at lockout, training the triceps hardest where they are strongest. This is a powerlifting accessory for lockout strength.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Floor Press Close-Grip with Chains in the appropriate position.",
+    "setup_instructions": "Prepare equipment and body position for Floor Press Close-Grip with Chains.",
+    "steps": [
+      "Step 1: Set up chains hanging from barbell ends. Lie on floor with close grip.",
+      "Step 2: Lower bar to floor level as triceps contact ground, elbows tucked.",
+      "Step 3: Pause briefly then press bar up as chains lift and add weight.",
+      "Step 4: Lock out hard at top with full tricep extension."
+    ],
+    "breathing_instructions": "Exhale during the exertion phase, inhale during the return.",
+    "common_mistakes": [
+      "Bouncing from floor",
+      "Letting elbows drift at lockout"
+    ],
+    "safety_considerations": [
+      "Keep joints aligned throughout the movement.",
+      "Use controlled weight appropriate for skill level."
+    ],
+    "range_of_motion_guidance": "Move through full range of motion without compromising joint integrity.",
+    "tempo_recommendations": "2-0-2 for hypertrophy, controlled throughout.",
+    "coaching_cues": [
+      "Chains should touch floor at the bottom",
+      "Accelerate through the sticking point"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

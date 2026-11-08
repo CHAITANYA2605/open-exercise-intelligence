@@ -1,0 +1,79 @@
+{
+  "exercise_id": "ba010004-f3a2-4c1e-9b8d-7e6f5a4c3b2d",
+  "slug": "behind-the-neck-pulldown",
+  "name": "Behind-the-Neck Lat Pulldown",
+  "alternative_names": ["Behind-Neck Pulldown"],
+  "description": "The behind-the-neck lat pulldown pulls the bar down behind the head to touch the base of the neck. While it creates a different angle of lat engagement and places greater emphasis on the rear deltoid and rhomboids, this exercise places the shoulder joint in an impingement-prone position and is contraindicated for individuals with shoulder or cervical spine issues. It should only be performed by experienced trainees with demonstrated shoulder mobility.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pull",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"}
+    ]
+  },
+  "equipment_required": ["eq000030-0000-4000-a000-000000000030"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit at a lat pulldown machine with a wide-grip bar attachment. Grip the bar with an overhand grip 4-6 inches wider than shoulder width. Lean the torso slightly forward and tuck the chin to the chest.",
+    "setup_instructions": "Secure thighs under the pads. Set an appropriate weight. Tuck the chin before each repetition.",
+    "steps": [
+      "Step 1: Grip the bar wide with an overhand grip.",
+      "Step 2: Tuck the chin firmly to the chest before initiating the movement.",
+      "Step 3: Pull the bar downward and behind the head, aiming to touch the base of the neck.",
+      "Step 4: Squeeze the shoulder blades together at the bottom position.",
+      "Step 5: Return the bar under control to full arm extension."
+    ],
+    "breathing_instructions": "Exhale on the pull, inhale on the return.",
+    "common_mistakes": [
+      "Not tucking the chin, risking impact with the cervical vertebrae",
+      "Using excessive weight, forcing poor positioning",
+      "Pulling too aggressively with shoulder impingement concerns"
+    ],
+    "safety_considerations": [
+      "Not recommended for individuals with shoulder impingement, rotator cuff issues, or cervical spine problems",
+      "Always tuck the chin before each repetition",
+      "Many coaches recommend the standard front pulldown as a safer alternative with comparable lat activation"
+    ],
+    "range_of_motion_guidance": "Full arm extension at top to bar touching the base of the neck at the bottom.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Chin tucked before every rep", "Bar to the base of the skull, not lower", "Retract shoulder blades at the bottom"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 6, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "pulldown", "advanced"]
+  }
+}

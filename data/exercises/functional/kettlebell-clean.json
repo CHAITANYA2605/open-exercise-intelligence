@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-h002-4000-a000-000000000402",
+  "slug": "kettlebell-clean",
+  "name": "Kettlebell Clean",
+  "alternative_names": ["KB Clean", "Single Arm Kettlebell Clean"],
+  "description": "The kettlebell clean is a single-arm ballistic exercise in which the kettlebell is swung from between the legs to a racked position at the shoulder using a hip hinge and arm pull. Unlike a barbell clean, the kettlebell is guided into the rack by the forearm rather than caught with the hands, requiring specific wrist positioning and elbow control. It trains hip hinge power transfer, shoulder girdle stability in the racked position, and the coordination of the lower and upper body in force transmission.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "kettlebell-clean",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart. Kettlebell on the floor between the feet, hinged forward to grip with one hand.",
+    "setup_instructions": "Choose a weight manageable for clean technique — wrist bruising usually means the bell is swinging out too wide before the catch.",
+    "steps": [
+      "Step 1: Hinge at the hip to grip the kettlebell. Hike it back between the legs like a hike pass in American football.",
+      "Step 2: Explosively extend the hips and drive the kettlebell upward, pulling the elbow high as the bell rises.",
+      "Step 3: As the bell rises to shoulder height, rotate the hand and guide the bell into the racked position — bell resting on the forearm at the shoulder.",
+      "Step 4: Stand tall in the racked position. The bell should sit quietly without banging the forearm.",
+      "Step 5: Hinge back and let the bell descend in a controlled arc back between the legs for the next rep."
+    ],
+    "breathing_instructions": "Exhale sharply at hip extension. Inhale during the swing back.",
+    "common_mistakes": [
+      "Letting the bell loop out wide — guide it in a tight arc close to the body",
+      "Catching the bell with a limp wrist — the forearm and wrist must be firm",
+      "Not fully extending the hips at the top of the drive"
+    ],
+    "safety_considerations": [
+      "Wrist bruising is a learning artifact of incorrect bell path, not a training adaptation — fix technique.",
+      "Start with lighter weight to learn the racking position."
+    ],
+    "range_of_motion_guidance": "Full hip extension at the top of the drive. Bell fully racked at shoulder.",
+    "tempo_recommendations": "5–10 reps per arm per set. Fluid, rhythmic cadence.",
+    "coaching_cues": [
+      "Hike hard — drive the hips",
+      "Pull the elbow high and tight",
+      "Guide the bell in — don't let it loop out"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "endurance", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 120, "endurance": 60},
+    "training_goals": ["strength", "power", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "kettlebell", "power", "hinge", "unilateral"]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50022",
+  "slug": "quadruped-thoracic-windmill",
+  "name": "Quadruped Thoracic Windmill",
+  "alternative_names": ["Quadruped Thoracic Rotation", "Thread the Needle Windmill"],
+  "description": "A thoracic spine rotation mobility exercise performed from the quadruped position. One hand is placed behind the head, and the elbow rotates downward threading under the body before opening upward toward the ceiling in a windmill motion. This targets segmental thoracic rotation, challenges thoracic extension and rotation simultaneously, and mobilizes the facet joints of the upper and mid back. Used in rehabilitation for thoracic stiffness, shoulder impingement secondary to poor thoracic mobility, and low back pain related to limited thoracic rotation.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a quadruped position with wrists under shoulders and knees under hips. Place one hand behind the head with the elbow pointing out to the side.",
+    "setup_instructions": "No equipment needed. A mat is recommended for knee comfort.",
+    "steps": [
+      "Step 1: Begin in quadruped with right hand behind head, elbow pointing right.",
+      "Step 2: Thread the right elbow downward and under the body, rotating the thoracic spine to the left and reaching the elbow as far left as possible.",
+      "Step 3: Reverse the rotation, opening the right elbow upward toward the ceiling, following it with the gaze. Rotate as far as the thoracic spine allows.",
+      "Step 4: Return to the neutral position. Each down-then-up rotation equals one repetition. Complete all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale as you thread under. Inhale as you open upward and rotate toward the ceiling.",
+    "common_mistakes": ["Rotating through the lumbar spine rather than the thoracic spine — the lower back and hips should remain stable", "Rushing through the range without pausing at the end of rotation in each direction", "Using the supporting arm to push into rotation rather than allowing the movement to come from the thoracic spine"],
+    "safety_considerations": ["If you feel any joint locking or sharp pain in the thoracic spine during rotation, reduce range and consult a physiotherapist", "Avoid if you have an acute thoracic disc herniation unless prescribed by a physiotherapist"],
+    "range_of_motion_guidance": "Work at the end-range of comfortable thoracic rotation in each direction. The hips and lower back must not rotate.",
+    "tempo_recommendations": "2s thread down, 1s end-range hold, 2s open up, 1s end-range hold",
+    "coaching_cues": ["Imagine your hips are locked in place — only the upper back rotates", "Follow the elbow with your eyes — the gaze leads the thoracic rotation", "Breathe into the chest as you open upward"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "mobility", "min_reps": 5, "max_reps": 10},
+      {"goal": "endurance", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"mobility": 60, "endurance": 45},
+    "training_goals": ["mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["thoracic", "rotation", "rehabilitation", "mobility", "spine"]
+  }
+}

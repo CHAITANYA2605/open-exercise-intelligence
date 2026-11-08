@@ -1,0 +1,90 @@
+{
+  "exercise_id": "sm000002-0000-4000-a000-000000000002",
+  "slug": "sandbag-carry",
+  "name": "Weighted Sandbag Shoulder Carry",
+  "alternative_names": ["Sandbag Bear Hug Carry", "Sandbag Shoulder Walk"],
+  "description": "The sandbag shoulder carry involves hoisting a heavy sandbag onto one shoulder and walking a prescribed distance, then alternating shoulders. The shifting, unstable load of the sandbag demands continuous core engagement to prevent lateral trunk collapse, making it a highly effective functional strength and conditioning tool that transfers directly to athletic and occupational performance. Unlike rigid implements, the sandbag's shifting contents require constant neuromuscular adjustments that challenge stabilizing muscles far more than a comparable barbell load.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "The sandbag rests on the ground. Stand beside it in an athletic stance, hips back, chest up.",
+    "setup_instructions": "Fill the sandbag to the target weight. Filler bags should be sealed. Begin with a sandbag at 25–40% of bodyweight for carry training.",
+    "steps": [
+      "Step 1: Deadlift the sandbag from the floor to lap height, then hug it into the chest.",
+      "Step 2: Rotate and load the sandbag onto one shoulder. The bag rests across the shoulder and upper back.",
+      "Step 3: Hold the bag in place with the same-side hand and stabilize the torso upright. The opposite hand can be held out for balance.",
+      "Step 4: Walk the prescribed distance with an upright posture. Resist lateral trunk lean.",
+      "Step 5: At the midpoint or end of the distance, switch the sandbag to the opposite shoulder and return."
+    ],
+    "breathing_instructions": "Breathe short and regularly throughout the carry. Take a full bracing breath before the initial lift from the floor.",
+    "common_mistakes": [
+      "Allowing the torso to collapse laterally toward the loaded shoulder, overloading the QL and lateral trunk",
+      "Rounding the back when picking up the bag from the floor",
+      "Walking too fast and letting the bag shift uncontrollably"
+    ],
+    "safety_considerations": [
+      "Drop the bag to the side rather than forward if you lose control — do not fall with it",
+      "Start with a lighter sandbag and build tolerance to the awkward loading before adding weight"
+    ],
+    "range_of_motion_guidance": "Walk distance: 20–50 metres per set. Shoulder alternation: switch at the midpoint of each length.",
+    "tempo_recommendations": "2–4 lengths of 20–25 metres per set, switching shoulders each length. Rest 2–3 minutes. 3–5 sets.",
+    "coaching_cues": [
+      "Resist the lean — stay tall and stack the shoulder over the hip",
+      "Keep the core braced throughout — do not relax mid-walk",
+      "Look ahead, not at the bag"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 4},
+      {"goal": "endurance", "min_reps": 2, "max_reps": 6}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 180, "endurance": 120},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["strongman", "carry", "functional", "sandbag", "core"]
+  }
+}

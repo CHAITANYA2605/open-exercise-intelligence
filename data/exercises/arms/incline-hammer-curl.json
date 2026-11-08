@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-0108-4000-a000-100000000108",
+  "slug": "incline-hammer-curl",
+  "name": "Incline Hammer Curl",
+  "alternative_names": ["Incline Neutral-Grip Dumbbell Curl"],
+  "description": "The incline hammer curl is performed seated on an incline bench with the arms hanging behind the torso at the bottom, stretching the biceps and brachialis in the lengthened position before the curl. The neutral grip and incline angle together emphasize the brachialis and long head of the biceps. The pre-stretched starting position is associated with enhanced muscle growth stimulus.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set an adjustable bench to 45-60 degrees. Sit with the back against the pad, dumbbells hanging at the sides in a neutral grip, arms fully extended behind the body line.",
+    "setup_instructions": "Set the bench to approximately 45 degrees. Use lighter weight than standing hammer curls due to the stretch position.",
+    "steps": [
+      "Step 1: Begin with arms fully extended downward, neutral grip, feeling the stretch.",
+      "Step 2: Curl both dumbbells simultaneously upward, maintaining neutral grip.",
+      "Step 3: Curl until maximum elbow flexion.",
+      "Step 4: Lower slowly back to the hanging position."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on the return.",
+    "common_mistakes": ["Swinging the torso off the bench", "Rotating the grip during the curl", "Rushing the eccentric and losing the stretch benefit"],
+    "safety_considerations": ["The stretched position increases injury risk — use controlled weight"],
+    "range_of_motion_guidance": "Full hang at the bottom to maximum elbow flexion.",
+    "tempo_recommendations": "2-1-4-0 (slow 4s eccentric)",
+    "coaching_cues": ["Feel the stretch at the bottom", "Neutral grip all the way up", "Slow on the way down"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["brachialis", "bicep", "isolation", "dumbbell", "incline", "stretch"]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "exercise_id": "c5d6e7f8-a9b0-4c1d-2e3f-a4b5c6d7e445",
+  "slug": "forearm-roller",
+  "name": "Forearm Roller",
+  "alternative_names": ["Wrist Roller", "Forearm Winder"],
+  "description": "The forearm roller is a forearm conditioning exercise that uses a weighted cylinder attached to a rope or cord, which is wound up and then unwound by alternating wrist flexion and extension. It simultaneously trains both the wrist flexors and wrist extensors through the full range of motion against continuous resistance. Because of the extended time under tension, it produces significant forearm hypertrophy and grip endurance improvements that are difficult to replicate with other exercises.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"},
+      {"muscle_id": "88888888-0004-4000-a000-000000000008", "muscle_slug": "extensor-carpi-radialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hold the roller handle with both hands using an overhand grip, arms extended straight out in front at shoulder height. The weight hangs from the rope beneath the roller.",
+    "setup_instructions": "A forearm roller is a short bar or cylinder with a rope through its center attached to a weight plate. Begin with a very light plate (2.5–5 kg) as the sustained tension is significantly more challenging than it appears.",
+    "steps": [
+      "Step 1: Hold the roller at arm's length in front of the body at shoulder height. Weight hangs beneath on the rope.",
+      "Step 2: Alternate wrist flexion on each hand to wind the rope upward, lifting the weight toward the bar.",
+      "Step 3: Continue winding until the weight reaches the bar (rope fully wound).",
+      "Step 4: Reverse the direction, alternating wrist extension on each hand to lower the weight back to the starting position in a controlled manner."
+    ],
+    "breathing_instructions": "Breathe continuously — do not hold the breath. Use short rhythmic breaths throughout the extended set.",
+    "common_mistakes": [
+      "Starting with too much weight — the sustained isometric hold fatigues the shoulders and forearms very quickly",
+      "Letting the arms drop below shoulder height partway through the set, reducing forearm engagement"
+    ],
+    "safety_considerations": [
+      "Keep the arms at shoulder height throughout — if they drop significantly, the set is over",
+      "Stop if sharp elbow or wrist pain is felt"
+    ],
+    "range_of_motion_guidance": "Wind fully upward until the weight touches the bar; unwind fully downward until the rope is extended.",
+    "tempo_recommendations": "Continuous alternating motion — no specific tempo; controlled throughout",
+    "coaching_cues": [
+      "Arms stay straight out — your shoulders will burn too, and that is part of the work",
+      "Wind all the way up and all the way down — no shortcuts"
+    ]
+  },
+  "variants": {
+    "easier": ["wrist-curl", "reverse-wrist-curl"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["wrist-curl", "reverse-wrist-curl"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 1, "max_reps": 3}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"endurance": 90},
+    "training_goals": ["endurance", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearms", "wrist-flexors", "wrist-extensors", "grip", "roller", "endurance"]
+  }
+}

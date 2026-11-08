@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-0113-4000-a000-100000000113",
+  "slug": "kettlebell-curl",
+  "name": "Kettlebell Curl",
+  "alternative_names": ["KB Curl"],
+  "description": "The kettlebell curl uses a kettlebell's offset center of mass, which hangs below the handle, creating a different lever and tension pattern than dumbbells. At the bottom of the curl, the hanging bell creates more tension than a dumbbell at the same arm position. The kettlebell can be held by the handle for a neutral-to-supinated curl or by the horns for a supinated grip curl, offering useful variation.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright holding one or two kettlebells by the handle. Arms extended at sides.",
+    "setup_instructions": "Hold by the handle for a neutral/supinated curl. Can hold by the horns for more supination.",
+    "steps": [
+      "Step 1: Begin with arms extended, kettlebell(s) hanging.",
+      "Step 2: Curl the kettlebell(s) upward by flexing the elbows, supinating the grip as you curl.",
+      "Step 3: Curl until maximum elbow flexion.",
+      "Step 4: Lower with control."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on the return.",
+    "common_mistakes": ["Letting the kettlebell swing outward", "Using body sway"],
+    "safety_considerations": ["The offset weight can torque the wrist — control the bell"],
+    "range_of_motion_guidance": "Full extension to full flexion.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Let the bell hang — control it", "Supinate at the top", "No swing"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["bicep", "isolation", "kettlebell"]
+  }
+}

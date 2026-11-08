@@ -1,0 +1,27 @@
+{
+  "_instructions": "Use this template to report an error in an existing exercise record. Copy to community/submissions/correction-<exercise-slug>-<field>.json, fill every REQUIRED field, then open a Pull Request.",
+
+  "submission_type": "correction",
+  "submitted_at": "REQUIRED: ISO 8601 timestamp. Example: '2026-11-08T12:00:00Z'",
+  "contributor": "REQUIRED: Your GitHub username or display name",
+
+  "exercise_slug": "REQUIRED: Slug of the exercise to correct. Example: 'barbell-bench-press'",
+  "exercise_id": "OPTIONAL: UUID of the exercise if known — helps disambiguate slug conflicts",
+
+  "field_name": "REQUIRED: Dot-notation path to the field being corrected. Examples: 'name', 'muscles.primary[0].muscle_slug', 'execution.steps[2]', 'training_parameters.rep_ranges.hypertrophy'",
+
+  "current_value": "REQUIRED: The exact current value of the field as it appears in the dataset. Can be a string, number, array, or object.",
+
+  "proposed_value": "REQUIRED: The correct value that should replace the current value. Must be the same type as current_value.",
+
+  "reason": "REQUIRED: A clear explanation of why the current value is incorrect and why the proposed value is correct. Minimum 20 characters.",
+
+  "severity": "REQUIRED: One of: critical | major | minor — 'critical' means the data causes harm or is factually wrong in a way that could mislead training; 'major' means significantly incorrect; 'minor' means a typo or cosmetic issue",
+
+  "sources": [
+    "REQUIRED: At least one source supporting your correction. Can be a URL, DOI, book title + page, or other citable reference.",
+    "OPTIONAL: Additional supporting source"
+  ],
+
+  "notes": "OPTIONAL: Any additional context, caveats, or nuance the reviewer should know about."
+}

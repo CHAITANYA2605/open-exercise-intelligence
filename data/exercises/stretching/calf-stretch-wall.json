@@ -1,0 +1,82 @@
+{
+  "exercise_id": "f9a0b1c2-d3e4-4f5a-6b7c-8d9e0f1a2b3c",
+  "slug": "calf-stretch-wall",
+  "name": "Wall Calf Stretch",
+  "alternative_names": ["Standing Calf Stretch", "Wall Gastrocnemius Stretch"],
+  "description": "The wall calf stretch uses a wall for support and targets the gastrocnemius with the knee straight and the soleus with the knee bent. With the knee straight, the gastrocnemius — which crosses the knee — is placed on maximal tension as the heel is pressed toward the floor and the foot dorsiflexed. The bent-knee version specifically isolates the soleus, which does not cross the knee joint.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "gait",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial" },
+      { "muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing a wall at arm's length. Place both hands on the wall for support.",
+    "setup_instructions": "Stand near a solid wall. No equipment needed.",
+    "steps": [
+      "Step 1: Place both hands on the wall and step one foot back approximately 60–90 cm.",
+      "Step 2: Keep the rear knee straight and press the rear heel firmly into the floor.",
+      "Step 3: Lean gently into the wall by bending the front knee, dorsiflexing the rear ankle.",
+      "Step 4: Hold until a stretch is felt in the calf of the rear leg — 30–60 seconds.",
+      "Step 5: To target the soleus, slightly bend the rear knee while keeping the heel down. Hold again."
+    ],
+    "breathing_instructions": "Breathe naturally and steadily throughout the hold.",
+    "common_mistakes": [
+      "Lifting the heel of the rear foot off the floor, which eliminates the stretch",
+      "Rotating the rear foot outward rather than keeping it straight",
+      "Not stepping back far enough to feel the stretch"
+    ],
+    "safety_considerations": [
+      "Avoid this stretch during acute Achilles tendon injury — consult a clinician first",
+      "Ensure the wall can support body weight without slipping"
+    ],
+    "range_of_motion_guidance": "Lean into the wall until a noticeable but comfortable calf stretch is felt. The rear heel must remain on the floor.",
+    "tempo_recommendations": "30–60 seconds straight-leg for gastrocnemius, 30–60 seconds bent-knee for soleus. 2–3 rounds.",
+    "coaching_cues": [
+      "Press the heel through the floor — the stretch comes from the floor pushing back",
+      "Keep the rear foot pointing straight ahead",
+      "Bend the rear knee slightly to shift the stretch from the gastrocnemius to the soleus"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+    ],
+    "rest_periods": { "mobility": 10 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calf", "gastrocnemius", "soleus", "stretch", "beginner", "ankle"]
+  }
+}

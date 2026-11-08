@@ -1,0 +1,66 @@
+{
+  "exercise_id": "a1b2c3d4-0019-4000-a000-100000000019",
+  "slug": "single-leg-extension",
+  "name": "Single-Leg Machine Leg Extension",
+  "alternative_names": ["Unilateral Leg Extension", "One-Leg Extension"],
+  "description": "The single-leg machine leg extension trains one quadriceps at a time using the leg extension machine, with the non-working leg hanging free. Training unilaterally ensures equal development of both legs and allows greater focus on the mind-muscle connection. It is particularly useful during rehabilitation after knee injuries when the injured limb requires specific, isolated strengthening.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000027-0000-4000-a000-000000000027"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on the leg extension machine. Place one leg under the pad with the knee at approximately 90 degrees. The other leg is free and not on the pad.",
+    "setup_instructions": "Adjust the seat and pad to fit one leg. Set an appropriate weight — use less than the bilateral version.",
+    "steps": [
+      "Step 1: Grip the handles and brace lightly.",
+      "Step 2: Extend the working knee to bring the leg to full extension.",
+      "Step 3: Squeeze the quadriceps at the top of the movement.",
+      "Step 4: Lower with control back to the starting position."
+    ],
+    "breathing_instructions": "Exhale on extension, inhale on the return.",
+    "common_mistakes": ["Using momentum to swing the weight", "Not reaching full extension", "Excessive compensatory hip movement"],
+    "safety_considerations": ["Very high patellar load — use controlled tempo and appropriate weight", "If you have patellar issues, limit range to pain-free only"],
+    "range_of_motion_guidance": "Full extension at the top. Return to 90 degrees of flexion at the bottom.",
+    "tempo_recommendations": "2-1-3-0 (slow eccentric is especially valuable for quad development)",
+    "coaching_cues": ["Squeeze the quad at the top", "Control the return", "No hip rocking"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 12},
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["unilateral", "isolation", "quad", "machine"]
+  }
+}

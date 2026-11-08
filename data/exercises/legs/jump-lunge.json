@@ -1,0 +1,93 @@
+{
+  "exercise_id": "a1b2c3d4-0015-4000-a000-legs00000015",
+  "slug": "jump-lunge",
+  "name": "Jump Lunge",
+  "alternative_names": ["Lunge Jump", "Split Jump", "Jumping Split Squat"],
+  "description": "The jump lunge is a plyometric exercise in which the lifter starts in a lunge position and explosively jumps into the air, switching the position of the feet mid-air to land in a lunge on the opposite leg. It trains explosive hip and knee extension power, cardiovascular conditioning, and single-leg landing mechanics. The continuous alternating nature makes it one of the most demanding bodyweight lower body exercises.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "advanced",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "lunge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a lunge position with one foot forward and the rear knee just above the floor. Arms are bent at the sides or in running position.",
+    "setup_instructions": "Ensure adequate ceiling height and clear landing space. Master the stationary lunge before progressing to the jump lunge.",
+    "steps": [
+      "Step 1: Start in the bottom of a lunge with one foot forward, back knee near the floor.",
+      "Step 2: Swing the arms explosively and drive through both feet to jump vertically off the ground.",
+      "Step 3: While airborne, switch the position of the legs so that the previously rear leg is now forward.",
+      "Step 4: Land softly by absorbing through the toes, then ball of foot, then heel — landing back in a lunge position.",
+      "Step 5: Immediately upon landing, absorb and spring back up into the next jump."
+    ],
+    "breathing_instructions": "Breathe rhythmically — exhale sharply at takeoff, inhale during flight, absorb on landing.",
+    "common_mistakes": [
+      "Landing stiff-legged instead of absorbing through the hip and knee — high injury risk",
+      "Landing with the feet too close together, reducing stability",
+      "Using too shallow a lunge on landing, reducing the eccentric braking benefit"
+    ],
+    "safety_considerations": [
+      "Land softly — impact forces during plyometric landing can be 3–5 times bodyweight",
+      "Develop adequate single-leg strength before performing jump lunges",
+      "Avoid on hard surfaces — rubber flooring or grass is preferable"
+    ],
+    "range_of_motion_guidance": "Lunge depth at both takeoff and landing should be near the bottom of a standard lunge.",
+    "tempo_recommendations": "Performed for time (20–60 seconds) or for reps with maximal effort on each jump",
+    "coaching_cues": [
+      "Use your arms — they help drive the jump height",
+      "Land soft like a feather — quiet feet",
+      "Deep lunge on landing before you launch again"
+    ]
+  },
+  "variants": {
+    "easier": ["walking-lunge", "reverse-lunge"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 40}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 30},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "conditioning", "advanced", "lunge"]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "exercise_id": "f6a7b8c9-d0e1-4234-f567-a89b01c23456",
+  "slug": "pin-press",
+  "name": "Pin Press / Anderson Bench Press",
+  "alternative_names": ["Anderson Bench Press", "Safety Pin Bench Press"],
+  "description": "The Pin Press starts with the barbell resting on the safety pins of a power rack at a predetermined height, eliminating the eccentric phase and any stretch-shortening cycle contribution. Each repetition begins from a dead stop, training maximal concentric pressing force from the most difficult position in the range of motion.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set the safety pins inside a power rack so the bar rests at the desired starting height (chest level, mid-ROM, or near lockout). Lie under the bar and position yourself as for a bench press.",
+    "setup_instructions": "Set pins at the desired height. Rest the bar on the pins. Lie on the bench under the bar, establish contact with the bar, retract the shoulder blades, brace the core.",
+    "steps": [
+      "Step 1: Position hands on the bar at the chosen grip width while it rests on the pins.",
+      "Step 2: Take a full breath, brace, and press the bar off the pins from a dead stop.",
+      "Step 3: Drive to full lockout.",
+      "Step 4: Lower the bar back to the pins with control. Reset and repeat from a dead stop — do not bounce off the pins."
+    ],
+    "breathing_instructions": "Breathe and brace before each rep. Exhale at lockout. Reset breath between reps.",
+    "common_mistakes": [
+      "Bouncing the bar off the pins rather than pressing from a true dead stop",
+      "Setting pins at a height that is too low, reducing the specificity benefit"
+    ],
+    "safety_considerations": [
+      "The power rack is mandatory — this exercise cannot be performed without one",
+      "Start conservatively with load; there is no elastic energy to assist the initial drive"
+    ],
+    "range_of_motion_guidance": "Partial ROM from pin height to lockout. Set pin height to match your specific sticking point.",
+    "tempo_recommendations": "0-1-X-0 (dead stop start, explosive press)",
+    "coaching_cues": [
+      "Treat every rep as a max effort single",
+      "Pull the bar apart and try to bend it before you press"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 240},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["powerlifting", "dead-stop", "concentric", "sticking-point"]
+  }
+}

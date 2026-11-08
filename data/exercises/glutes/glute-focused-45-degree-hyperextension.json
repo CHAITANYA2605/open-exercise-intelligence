@@ -1,0 +1,142 @@
+{
+  "exercise_id": "b08271e9-716c-4cb9-92c7-f610d2959feb",
+  "slug": "glute-focused-45-degree-hyperextension",
+  "name": "Glute-Focused 45-Degree Hyperextension",
+  "alternative_names": [
+    "Glute Hyper",
+    "Hip-Dominant Hyperextension"
+  ],
+  "description": "A hyperextension machine exercise performed with a rounded lower back and posterior pelvic tilt to isolate the glutes rather than the erector spinae. By flexing the spine slightly and driving the hips into extension, the glutes become the primary mover rather than the back extensors.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000030-0000-4000-a000-000000000030"
+  ],
+  "equipment_optional": [
+    "eq000001-0000-4000-a000-000000000001",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "execution": {
+    "starting_position": "Position yourself in the 45-degree hyperextension machine with the pad below the hip crease, not across the hips. Begin with the torso hanging forward.",
+    "setup_instructions": "Set the hyperextension bench pad below the hip crease so the hips can fully flex. Optionally hold a plate at chest for load.",
+    "steps": [
+      "Step 1: Allow the torso to drop forward so the hips are fully flexed.",
+      "Step 2: Drive the hips up by squeezing the glutes, keeping the lower back slightly rounded.",
+      "Step 3: Extend the hips fully at the top \u2014 the goal is hip extension, not lumbar extension.",
+      "Step 4: Lower back to the starting position with control."
+    ],
+    "breathing_instructions": "Exhale on the drive up. Inhale on the lower.",
+    "common_mistakes": [
+      "Hyperextending the lumbar spine at the top instead of stopping at hip extension",
+      "Using momentum to swing up"
+    ],
+    "safety_considerations": [
+      "The lower back should be slightly rounded to shift the emphasis to the glutes away from the erectors"
+    ],
+    "range_of_motion_guidance": "Full hip flexion at the bottom. Full hip extension at the top \u2014 stop before lumbar hyperextension.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Squeeze the glutes, not the back",
+      "Drive the hips up, not the chest up"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "glute-max",
+      "hyperextension",
+      "isolation"
+    ]
+  }
+}

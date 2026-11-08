@@ -1,0 +1,148 @@
+{
+  "exercise_id": "d4e5f6a7-0014-4000-8004-000000000014",
+  "slug": "sumo-deadlift",
+  "name": "Sumo Deadlift",
+  "alternative_names": [
+    "Wide-Stance Deadlift"
+  ],
+  "description": "The sumo deadlift is a variation of the conventional deadlift performed with a wide stance and toes pointed significantly outward. The grip is placed inside the legs rather than outside. This stance reduces the range of motion and shifts relative emphasis toward the hip adductors, glutes, and quadriceps compared to the conventional deadlift, while also generally requiring less lower back extension.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "equipment_optional": [
+    "eq000050-0000-4000-a000-000000000050"
+  ],
+  "execution": {
+    "starting_position": "Stand with feet 1.5 to 2 times shoulder width apart, toes pointed out 45\u201360 degrees. Grip the bar inside the legs with either a double overhand or mixed grip. Hips lower than conventional, shins more vertical.",
+    "setup_instructions": "Place the barbell over mid-foot as with the conventional deadlift. The wider stance means the bar can be lifted over a shorter distance.",
+    "steps": [
+      "Squeeze the knees outward, bracing the core hard.",
+      "Drive the floor apart with your feet (externally rotate) while lifting the bar.",
+      "Keep the bar close to the body \u2014 drag it up the inner thighs.",
+      "Lock out the hips and knees at the top."
+    ],
+    "breathing_instructions": "Full breath and brace before the pull. Exhale at lockout.",
+    "common_mistakes": [
+      "Knees caving inward \u2014 actively push them out in line with the toes",
+      "Hips rising faster than the shoulders, turning it into a stiff-leg deadlift",
+      "Bar drifting forward away from the body"
+    ],
+    "safety_considerations": [
+      "Hip mobility is a prerequisite \u2014 not suitable if hip external rotation is severely limited",
+      "Avoid if groin strain is present"
+    ],
+    "range_of_motion_guidance": "Full extension at lockout. Bar starts on the floor.",
+    "tempo_recommendations": "1-0-2-0",
+    "coaching_cues": [
+      "Push the floor apart \u2014 spread the floor with your feet",
+      "Lead with your chest as you lift \u2014 do not let the hips shoot up first"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 8
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 240,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "deadlift",
+      "barbell",
+      "sumo",
+      "glutes"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "exercise_id": "e5f6a7b8-0009-4000-8005-000000000009",
+  "slug": "dips",
+  "name": "Tricep Dip",
+  "alternative_names": [
+    "Parallel Bar Tricep Dip",
+    "Upright Dip"
+  ],
+  "description": "The tricep dip is a bodyweight or weighted vertical pushing exercise using parallel bars. By maintaining an upright torso with minimal forward lean, the emphasis shifts to the triceps rather than the pectorals. It is an effective compound movement for triceps mass and elbow extension strength.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "dip",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000021-0000-4000-a000-000000000021"
+  ],
+  "equipment_optional": [
+    "eq000049-0000-4000-a000-000000000049"
+  ],
+  "execution": {
+    "starting_position": "Support yourself on parallel bars with arms extended. Keep the torso upright with minimal forward lean. Feet may hang freely or cross behind.",
+    "setup_instructions": "Keeping the torso upright is what distinguishes a tricep dip from a chest dip. Avoid leaning more than 10 degrees forward.",
+    "steps": [
+      "Lower yourself by bending the elbows, keeping the torso upright.",
+      "Descend until the upper arms are parallel to the floor.",
+      "Press back up to full arm extension."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on the press.",
+    "common_mistakes": [
+      "Excessive forward lean shifting emphasis to the chest",
+      "Dipping below shoulder-level if mobility is limited"
+    ],
+    "safety_considerations": [
+      "If shoulder discomfort occurs, limit depth and ensure the torso is upright"
+    ],
+    "range_of_motion_guidance": "Descend to upper arms parallel to the floor. Full arm extension at the top.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": [
+      "Stay upright \u2014 your torso is a flagpole",
+      "Lock out completely at the top \u2014 squeeze the triceps hard"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "triceps",
+      "dip",
+      "bodyweight",
+      "compound"
+    ]
+  }
+}

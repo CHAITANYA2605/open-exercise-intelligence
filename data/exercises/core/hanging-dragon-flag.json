@@ -1,0 +1,128 @@
+{
+  "exercise_id": "ex-hanging--core-4000-a000-059995729810",
+  "slug": "hanging-dragon-flag",
+  "name": "Hanging Dragon Flag",
+  "alternative_names": [],
+  "description": "A dragon flag variation where the body hangs from a pull-up bar, lowering the legs from vertical to horizontal while supporting only by the arms. This targets the entire anterior chain through an enormous range of motion. The hanging version adds lat and grip demands.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "expert",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000018-0000-4000-a000-000000000018"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Hanging Dragon Flag in proper position.",
+    "setup_instructions": "Prepare body and equipment for Hanging Dragon Flag.",
+    "steps": [
+      "Step 1: Hang from pull-up bar with straight arms. Raise legs to vertical.",
+      "Step 2: Lower legs slowly in a rigid plank from vertical toward horizontal.",
+      "Step 3: Maintain body rigidity without bending hips or knees.",
+      "Step 4: Lower to 10 degrees from horizontal then return to vertical."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Hinging at hips to cheat",
+      "Dropping too fast"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Body must remain perfectly rigid",
+      "5+ second lowering tempo"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

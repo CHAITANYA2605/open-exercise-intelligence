@@ -1,0 +1,66 @@
+{
+  "exercise_id": "a1b2c3d4-0140-4000-a000-100000000140",
+  "slug": "reverse-grip-pushdown",
+  "name": "Reverse-Grip Cable Tricep Pushdown",
+  "alternative_names": ["Supinated Grip Pushdown", "Underhand Pushdown"],
+  "description": "The reverse-grip pushdown uses a supinated (underhand) grip on a straight bar or EZ-bar attached to a high cable. The supinated position shifts greater emphasis to the medial head of the tricep compared to the standard pronated pushdown. The underhand grip also involves the forearm flexors more as stabilizers. It is a useful variation for developing the lower and inner tricep for complete three-dimensional arm development.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a straight bar to a high cable. Grip with a supinated (underhand) grip at shoulder width. Elbows at the sides.",
+    "setup_instructions": "Use a straight bar. The supinated grip is the defining feature — maintain it throughout.",
+    "steps": [
+      "Step 1: Begin with elbows at the sides, bar at chest height with supinated grip.",
+      "Step 2: Extend the elbows by pushing the bar down.",
+      "Step 3: Push to full elbow extension.",
+      "Step 4: Return slowly, maintaining the supinated grip."
+    ],
+    "breathing_instructions": "Exhale on the pushdown, inhale on the return.",
+    "common_mistakes": ["Rotating the grip to neutral during the movement", "Elbows flaring", "Using less weight than the pronated version — this is normal"],
+    "safety_considerations": ["The supinated grip can stress the wrist — keep wrists straight and don't use excessive weight"],
+    "range_of_motion_guidance": "Full elbow extension at the bottom.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Palms face up throughout", "Wrists stay neutral — don't break them", "Elbows pinned to the sides"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tricep", "medial-head", "isolation", "cable", "pushdown"]
+  }
+}

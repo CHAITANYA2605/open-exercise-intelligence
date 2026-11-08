@@ -1,0 +1,114 @@
+{
+  "exercise_id": "e5f6a7b8-0007-4000-8005-000000000007",
+  "slug": "skull-crusher",
+  "name": "Skull Crusher",
+  "alternative_names": [
+    "Lying Tricep Extension",
+    "EZ-Bar Skull Crusher"
+  ],
+  "description": "The skull crusher is a lying triceps extension exercise performed on a bench with an EZ-curl bar or dumbbells. By lowering the bar toward the forehead or skull from a fully extended arm position, the triceps are trained through a full range of elbow flexion and extension with particular emphasis on the long head.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000003-0000-4000-a000-000000000003",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench holding an EZ-curl bar with a narrow pronated grip. Press the bar to full extension above the chest with upper arms vertical.",
+    "setup_instructions": "Keep the upper arms perpendicular to the floor throughout. The bar moves in an arc from above the chest toward the forehead.",
+    "steps": [
+      "With upper arms stationary and vertical, lower the bar by bending the elbows.",
+      "Lower toward the forehead or slightly behind the head to maximize long-head stretch.",
+      "Extend the elbows to press the bar back to the starting position."
+    ],
+    "breathing_instructions": "Inhale on the descent toward the forehead. Exhale on extension.",
+    "common_mistakes": [
+      "Allowing the elbows to flare outward widely",
+      "Moving the upper arms \u2014 the elbows should hinge, not the shoulder"
+    ],
+    "safety_considerations": [
+      "Use a spotter for heavy sets \u2014 the bar is directly above the face",
+      "Do not bounce or lose control at the bottom"
+    ],
+    "range_of_motion_guidance": "Lower until the bar almost touches the forehead or slightly behind it. Full extension at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Keep your elbows pointing straight at the ceiling throughout",
+      "The bar moves like a hinge \u2014 upper arms do not move"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "triceps",
+      "lying-extension",
+      "isolation"
+    ]
+  }
+}

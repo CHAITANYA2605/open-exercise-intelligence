@@ -1,0 +1,71 @@
+{
+  "exercise_id": "c1d2e3f4-a5b6-4789-c0d1-e2f3a4b50002",
+  "slug": "jefferson-deadlift-alternating-grips",
+  "name": "Jefferson Deadlift — Alternating Grips",
+  "alternative_names": ["Jefferson Squat", "Straddle Deadlift", "Trigger Point Deadlift"],
+  "description": "The Jefferson deadlift is a unique straddle-stance deadlift where the barbell passes between the lifter's legs and the two hands grip the bar at different positions — one in front and one behind. This unconventional stance loads the spine asymmetrically in rotation while the hips and legs drive the bar upward. By alternating which hand is in front and which is behind across sets, the rotational loading is balanced. The Jefferson deadlift challenges hip adductor strength, core anti-rotation, and hip external rotation simultaneously.",
+  "category": "functional",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Straddle the barbell with one foot in front and one foot behind, feet approximately shoulder-width apart in a lunge-like orientation. Bend down to grip the bar with one hand in front of the leading thigh and one hand behind the trailing thigh.",
+    "setup_instructions": "Begin with a light load to learn the unusual stance geometry. The bar should sit at the same height as a standard deadlift. Alternate which side is 'leading' every set.",
+    "steps": [
+      "Step 1: Straddle the barbell with one foot forward and one back. Grip the bar with an overhand grip on both hands — one in front, one behind.",
+      "Step 2: Take a breath, brace the core, and begin the pull by driving both feet into the floor simultaneously.",
+      "Step 3: Rise to standing, keeping the bar close to the body (it will pass between the thighs).",
+      "Step 4: Lower the bar under control by hinging at the hips and bending the knees until the bar returns to the floor."
+    ],
+    "breathing_instructions": "Inhale and brace before the pull. Exhale at the top or during the descent.",
+    "common_mistakes": ["Setting up with too narrow a stance — the bar must pass between the thighs cleanly", "Not alternating grip orientation across sets — this causes asymmetrical loading over time", "Rounding the lower back as the bar rises through the thighs"],
+    "safety_considerations": ["The Jefferson deadlift places rotational stress on the spine — start light and prioritize technique before loading", "Keep the spine neutral throughout — no twisting of the torso to assist the lift"],
+    "range_of_motion_guidance": "Full deadlift range — bar from floor to full hip extension at the top.",
+    "tempo_recommendations": "2s pull, 1s lockout, 3s eccentric lower",
+    "coaching_cues": ["Both feet drive into the floor equally — this is a squat-deadlift hybrid", "Keep the bar between the thighs, not to one side", "Switch your foot and grip orientation every set to balance the rotational load"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "endurance", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 180, "endurance": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["deadlift", "functional", "adductor", "specialty-barbell", "rotation"]
+  }
+}

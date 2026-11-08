@@ -1,0 +1,87 @@
+{
+  "exercise_id": "6643c70a-1060-46ee-8b30-a250b0d9d68f",
+  "slug": "kipping-muscle-up",
+  "name": "Kipping Muscle-Up",
+  "alternative_names": ["CrossFit Muscle-Up", "Dynamic Muscle-Up"],
+  "description": "The kipping muscle-up uses a hip-generated swing to create upward momentum that assists the transition from hanging to support position above the bar. Commonly used in functional fitness competitions, it places high demand on the shoulder complex and core during the aggressive hip-kick phase and requires exceptional timing to coordinate the kip with the pulling transition.",
+  "category": "power",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "triceps-brachii" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "66666666-0001-4000-a000-000000000006", "muscle_slug": "rectus-abdominis" },
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000006-0000-4000-a000-000000000006"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hang from the pull-up bar with a shoulder-width overhand grip. Begin a controlled kipping swing — arch and hollow alternately.",
+    "setup_instructions": "Master the kipping pull-up and the strict muscle-up independently before combining them. Use chalk for grip security.",
+    "steps": [
+      "Step 1: Establish a controlled kipping swing by alternating between hollow and arch positions.",
+      "Step 2: At the peak of the front swing (hollow position), aggressively drive the hips upward.",
+      "Step 3: Simultaneously pull the bar down to hip level, riding the momentum upward.",
+      "Step 4: As the hips rise above bar level, transition by pressing the bar down and leaning forward.",
+      "Step 5: Lock out the elbows at the top of the dip position.",
+      "Step 6: Lower under control or redrop into the swing for the next repetition."
+    ],
+    "breathing_instructions": "Breathe rhythmically with the kipping swing cycle; hold breath through the transition.",
+    "common_mistakes": [
+      "Initiating the pull before the hip kick is at peak — timing is critical",
+      "Insufficient hip drive producing insufficient upward momentum",
+      "Missing the false grip, making the transition impossible"
+    ],
+    "safety_considerations": [
+      "High shoulder shear forces during the kip — not suitable for shoulder injuries",
+      "Prerequisite: proficiency in strict pull-ups and dips is essential"
+    ],
+    "range_of_motion_guidance": "Full dead hang through to lockout in dip support position.",
+    "tempo_recommendations": "Explosive and rhythmic; rep speed driven by kipping timing",
+    "coaching_cues": [
+      "Hips drive up first, then the arms pull",
+      "Think 'jump the bar' with your hips",
+      "Link the kip to the pull — do not pause between them"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "power", "min_reps": 3, "max_reps": 8 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "power", "min_sets": 3, "max_sets": 5 }
+    ],
+    "rest_periods": { "power": 180 },
+    "training_goals": ["power", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "advanced", "muscle-up", "kipping", "crossfit"]
+  }
+}

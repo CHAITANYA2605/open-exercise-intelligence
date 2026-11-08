@@ -1,0 +1,61 @@
+{
+  "exercise_id": "co000043-0000-4000-a000-000000000043",
+  "slug": "dumbbell-side-bend",
+  "name": "Dumbbell Side Bend",
+  "alternative_names": ["Standing Dumbbell Lateral Flexion", "Weighted Side Bend"],
+  "description": "The dumbbell side bend trains lateral flexion of the spine against a unilateral resistance load, primarily targeting the obliques and quadratus lumborum on the working side while the contralateral side resists gravitational pull isometrically. The exercise is commonly performed with a single dumbbell in one hand, allowing a full lateral range of motion. It is important to perform the exercise bilaterally to avoid asymmetrical development.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "lateral-flexion",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright holding a dumbbell in one hand at the side, feet shoulder-width apart, free hand placed lightly behind the head or on the hip.",
+    "setup_instructions": "Choose a moderate weight — excessive load encourages compensation through the hips rather than pure lateral spinal flexion.",
+    "steps": [
+      "Step 1: Stand tall with the dumbbell at the side, spine neutral.",
+      "Step 2: Laterally flex the spine toward the dumbbell side, lowering the weight along the outer thigh.",
+      "Step 3: Return to upright by contracting the opposite-side obliques.",
+      "Step 4: Optionally continue past neutral to the opposite side for a full range of motion bend.",
+      "Step 5: Complete all reps then switch the dumbbell to the other hand."
+    ],
+    "breathing_instructions": "Inhale at neutral. Exhale as returning to upright.",
+    "common_mistakes": [
+      "Bending forward or backward instead of purely laterally",
+      "Rotating the torso — the movement should be in the frontal plane only"
+    ],
+    "safety_considerations": ["Use controlled movement — avoid lateral flexion under load with momentum"],
+    "range_of_motion_guidance": "Full comfortable lateral flexion range on each side. Quality of movement over depth.",
+    "tempo_recommendations": "2-1-2-0. Controlled in both directions.",
+    "coaching_cues": ["Slide the dumbbell down the leg — no rotation", "Think of your spine as a hinge opening sideways"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [{"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "obliques", "lateral-flexion", "dumbbell"]}
+}

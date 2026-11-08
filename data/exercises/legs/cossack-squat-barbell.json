@@ -1,0 +1,163 @@
+{
+  "exercise_id": "0845625c-1a38-41b0-bedb-ad571d339f1c",
+  "slug": "cossack-squat-barbell",
+  "name": "Barbell Cossack Squat",
+  "alternative_names": [
+    "Loaded Cossack Squat"
+  ],
+  "description": "A barbell-loaded version of the cossack squat, a lateral squat pattern that trains unilateral quad and hip strength through a large range of lateral motion. The loaded version increases mechanical demand on the working leg's quad, adductor, and glute while also training hip mobility under load.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "ffffffff-0003-4000-a000-00000000000f",
+        "muscle_slug": "adductor-longus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "ffffffff-0005-4000-a000-00000000000f",
+        "muscle_slug": "gracilis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009",
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "execution": {
+    "starting_position": "Position a barbell on your upper back as for a back squat. Stand with feet significantly wider than shoulder width.",
+    "setup_instructions": "Set up the barbell in a rack to the correct height for a back squat. Unrack and walk out to a wide stance.",
+    "steps": [
+      "Step 1: Shift your weight to one side, bending that knee deeply while keeping the opposite leg straight.",
+      "Step 2: Lower yourself into a full lateral squat on the working side, keeping the working foot fully flat.",
+      "Step 3: The straight leg remains extended on the floor with the toes pointing up or slightly outward.",
+      "Step 4: Drive through the working leg heel to return to the center and repeat on the opposite side."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale on the drive to center.",
+    "common_mistakes": [
+      "Allowing the working heel to lift off the floor",
+      "Collapsing the torso forward excessively"
+    ],
+    "safety_considerations": [
+      "Ensure adequate hip mobility before loading \u2014 practice the bodyweight version first",
+      "Keep the bar securely on the upper back"
+    ],
+    "range_of_motion_guidance": "Deep lateral squat with the working thigh well below parallel. Opposite leg extended.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Foot stays flat on the working side",
+      "Sit into the hip of the working leg"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "adductors",
+      "mobility",
+      "advanced"
+    ]
+  }
+}

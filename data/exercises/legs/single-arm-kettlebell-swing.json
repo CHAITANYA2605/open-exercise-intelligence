@@ -1,0 +1,70 @@
+{
+  "exercise_id": "a1b2c3d4-0030-4000-a000-100000000030",
+  "slug": "single-arm-kettlebell-swing",
+  "name": "Single-Arm Kettlebell Swing",
+  "alternative_names": ["One-Arm Kettlebell Swing"],
+  "description": "The single-arm kettlebell swing applies the hip hinge mechanics of the two-handed swing to one arm, which introduces an anti-rotation challenge for the core and demands greater grip strength. The free arm can be used as a counterbalance or held at the side. Training one arm at a time addresses left-right imbalances and builds rotational core stability that bilateral swings cannot replicate.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet hip-width, kettlebell between feet. Hinge at the hips and grasp the handle with one hand.",
+    "setup_instructions": "Master two-handed swings before moving to single-arm. Use the same weight or slightly less than your two-handed swing.",
+    "steps": [
+      "Step 1: Hike the kettlebell back between the legs as in a standard swing.",
+      "Step 2: Drive the hips forward explosively, swinging the kettlebell to shoulder height.",
+      "Step 3: Keep the free arm swinging naturally as a counterbalance — it can swing opposite the kettlebell.",
+      "Step 4: Control the bell back between the legs and repeat for reps, then switch sides."
+    ],
+    "breathing_instructions": "Exhale sharply at the hip snap, inhale on the downswing.",
+    "common_mistakes": ["Rotating the torso toward the working arm", "Letting the shoulder shrug upward at the top", "Leaning to one side"],
+    "safety_considerations": ["Keep the spine neutral — resist torso rotation", "Build up gradually — the unilateral demand is high"],
+    "range_of_motion_guidance": "Hip hinge to full hip extension with bell at shoulder height.",
+    "tempo_recommendations": "Ballistic — controlled descent",
+    "coaching_cues": ["Hips drive the bell — not the arm", "Stay square to the front", "Soft knees on the downswing"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 5, "max_reps": 10},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60, "endurance": 30},
+    "training_goals": ["power", "endurance", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "hamstring", "power", "kettlebell", "unilateral"]
+  }
+}

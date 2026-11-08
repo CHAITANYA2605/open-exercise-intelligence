@@ -1,0 +1,144 @@
+{
+  "exercise_id": "c3d4e5f6-0002-4000-8003-000000000002",
+  "slug": "dumbbell-overhead-press",
+  "name": "Dumbbell Overhead Press",
+  "alternative_names": [
+    "Seated Dumbbell Press",
+    "DB Shoulder Press"
+  ],
+  "description": "The dumbbell overhead press trains the deltoids and triceps in an overhead pressing pattern using independent dumbbells, which allows each arm to move freely and reduces the risk of one side compensating for the other. It can be performed seated or standing, with the seated variation providing lumbar support.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
+  "execution": {
+    "starting_position": "Sit on a bench with back support (or stand) holding a dumbbell in each hand at shoulder height. Palms face forward, elbows at approximately 90 degrees and slightly in front of the torso.",
+    "setup_instructions": "If seated, set the bench back to 90 degrees for spinal support. Use knee-kick technique to bring heavy dumbbells into position.",
+    "steps": [
+      "Press both dumbbells upward and slightly inward until arms are fully extended overhead.",
+      "At the top, the dumbbells can touch lightly without clashing.",
+      "Lower the dumbbells under control back to shoulder height with elbows at 90 degrees."
+    ],
+    "breathing_instructions": "Exhale on the press. Inhale on the descent.",
+    "common_mistakes": [
+      "Pressing with palms facing each other (neutral grip) reduces anterior delt involvement",
+      "Allowing the elbows to flare excessively wide behind the torso"
+    ],
+    "safety_considerations": [
+      "Avoid if shoulder impingement is present \u2014 neutral grip or reduced range may help",
+      "Use knee-kick technique to avoid shoulder injury when loading heavy dumbbells"
+    ],
+    "range_of_motion_guidance": "Full extension overhead, return to 90-degree elbow angle at the bottom.",
+    "tempo_recommendations": "2-0-1-0",
+    "coaching_cues": [
+      "Press up and in slightly \u2014 finish with biceps close to your ears",
+      "Keep your ribcage down \u2014 do not flare it to fake overhead mobility"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "shoulders",
+      "dumbbell",
+      "press",
+      "compound"
+    ]
+  }
+}

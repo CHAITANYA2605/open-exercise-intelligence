@@ -1,0 +1,123 @@
+{
+  "exercise_id": "ex-iron-cro-core-4000-a000-522852782744",
+  "slug": "iron-cross-hold",
+  "name": "Iron Cross Hold",
+  "alternative_names": [],
+  "description": "A rings gymnastic skill where the arms are held out to the sides at shoulder height while the body hangs vertically. The massive internal rotation force demands extraordinary pectoral and shoulder strength. This is considered one of the ultimate tests of upper body strength in gymnastics.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "expert",
+  "movement_pattern": "push",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000042-0000-4000-a000-000000000042"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Iron Cross Hold in proper position.",
+    "setup_instructions": "Prepare body and equipment for Iron Cross Hold.",
+    "steps": [
+      "Step 1: Mount rings with arms overhead. Lower body while spreading arms to the sides.",
+      "Step 2: Arms reach out at shoulder height with elbows slightly bent.",
+      "Step 3: Body hangs vertically below rings in rigid position.",
+      "Step 4: Hold position then slowly bring rings overhead to exit."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Fully locked elbows causing injury",
+      "Attempting without prerequisites"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Slight elbow bend for safety",
+      "Years of ring strength needed first"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

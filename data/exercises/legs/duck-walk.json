@@ -1,0 +1,169 @@
+{
+  "exercise_id": "3109751b-b39f-4486-8ccc-dfe1a3ce48d2",
+  "slug": "duck-walk",
+  "name": "Duck Walk",
+  "alternative_names": [
+    "Plie Walk",
+    "Sumo Walk",
+    "Loaded Duck Walk"
+  ],
+  "description": "A loaded locomotion exercise performed in a deep squat position, walking forward with short steps while maintaining a consistent low position. The duck walk builds quad endurance, glute strength, and challenges hip mobility over a large range of motion under sustained muscular tension.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000009-0000-4000-a000-000000000009",
+    "eq000022-0000-4000-a000-000000000022"
+  ],
+  "execution": {
+    "starting_position": "Hold a dumbbell at chest height in a goblet position or at both sides. Descend into a deep squat position with feet shoulder-width apart.",
+    "setup_instructions": "Select a moderate weight. Clear a straight path of at least 10 to 15 meters. Begin in a deep squat.",
+    "steps": [
+      "Step 1: Lower into a deep squat, keeping your chest up and feet flat on the floor.",
+      "Step 2: Take small deliberate steps forward while maintaining the low squat position throughout.",
+      "Step 3: Keep knees tracking over your toes with each step.",
+      "Step 4: Continue for the prescribed distance or duration, then stand to rest."
+    ],
+    "breathing_instructions": "Breathe rhythmically throughout. Short breaths are normal due to trunk compression.",
+    "common_mistakes": [
+      "Allowing the hips to rise during the walk, reducing the squat depth",
+      "Letting the heels come off the floor"
+    ],
+    "safety_considerations": [
+      "Avoid if you have significant patellar tendinopathy or acute knee injuries",
+      "Start with bodyweight before adding load"
+    ],
+    "range_of_motion_guidance": "Maintain thighs at or below parallel throughout the entire walk.",
+    "tempo_recommendations": "Continuous movement \u2014 deliberate steps",
+    "coaching_cues": [
+      "Stay low throughout",
+      "Knees track over toes on every step"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "glutes",
+      "functional",
+      "advanced"
+    ]
+  }
+}

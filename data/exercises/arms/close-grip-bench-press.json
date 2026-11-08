@@ -1,0 +1,140 @@
+{
+  "exercise_id": "e5f6a7b8-0010-4000-8005-000000000010",
+  "slug": "close-grip-bench-press",
+  "name": "Close-Grip Bench Press",
+  "alternative_names": [
+    "Narrow-Grip Bench Press"
+  ],
+  "description": "The close-grip bench press is a barbell pressing variation using a narrower grip (shoulder-width or slightly inside), which reduces pectoral involvement and shifts the primary load to the triceps. It allows heavy triceps training with more load than isolation exercises and is a staple accessory for pressing strength development.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench. Grip the barbell at shoulder width or slightly inside with an overhand grip. Unrack and hold with arms extended over the mid-chest.",
+    "setup_instructions": "Do not go excessively narrow \u2014 shoulder-width grip is sufficient. Going too narrow increases wrist stress without benefiting tricep isolation.",
+    "steps": [
+      "Lower the bar to the lower chest keeping elbows tucked close to the torso.",
+      "Touch the chest and immediately press back to full arm extension.",
+      "Re-rack after the final rep."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on the press.",
+    "common_mistakes": [
+      "Gripping too narrow \u2014 inside shoulder width increases wrist discomfort",
+      "Flaring the elbows wide, negating the tricep emphasis"
+    ],
+    "safety_considerations": [
+      "Use a spotter or rack safety catches",
+      "Keep thumbs wrapped around the bar"
+    ],
+    "range_of_motion_guidance": "Full extension at top, bar touches lower chest at bottom.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": [
+      "Keep elbows close to the body \u2014 tuck them in toward the ribs",
+      "Press the bar in a straight line upward"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "triceps",
+      "barbell",
+      "bench-press",
+      "compound"
+    ]
+  }
+}

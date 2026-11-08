@@ -1,0 +1,129 @@
+{
+  "exercise_id": "6766389e-d3bc-4e89-96c4-4f326b8e699e",
+  "slug": "barbell-finger-curls",
+  "name": "Barbell Finger Curls",
+  "alternative_names": [
+    "Forearm Finger Curls",
+    "Wrist Roller Curls"
+  ],
+  "description": "An isolated forearm exercise performed by holding a barbell with an overhand grip and allowing the bar to roll down to the fingertips before curling the fingers and wrists back up. This exercise strengthens the finger flexors, forearm flexors, and grip in a unique fingertip-to-wrist range.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "wrist-curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000003-0000-4000-a000-000000000003"
+  ],
+  "execution": {
+    "starting_position": "Sit at the end of a bench with forearms resting on the thighs. Hold a barbell with an underhand (supinated) grip, hands close together.",
+    "setup_instructions": "Sit with forearms resting on the thighs, wrists just past the knees. Hold a relatively light barbell with an underhand grip.",
+    "steps": [
+      "Step 1: Open the fingers and allow the bar to roll down toward the fingertips.",
+      "Step 2: Curl the fingers closed to grip the bar again.",
+      "Step 3: Flex the wrist to curl the bar upward fully.",
+      "Step 4: Lower the bar back to the fingertips and repeat."
+    ],
+    "breathing_instructions": "Breathe steadily throughout \u2014 this is a low-load forearm exercise.",
+    "common_mistakes": [
+      "Using too heavy a load, which prevents the bar from rolling to the fingertips",
+      "Moving the forearms off the thighs"
+    ],
+    "safety_considerations": [
+      "Keep the forearms firmly rested on the thighs throughout"
+    ],
+    "range_of_motion_guidance": "Full extension (bar at fingertips) to full wrist flexion.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Let the bar roll down to the fingertips",
+      "Curl the fingers first, then the wrist"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "forearms",
+      "grip",
+      "finger-curls",
+      "isolation"
+    ]
+  }
+}

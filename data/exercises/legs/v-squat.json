@@ -1,0 +1,70 @@
+{
+  "exercise_id": "a1b2c3d4-0034-4000-a000-100000000034",
+  "slug": "v-squat",
+  "name": "V-Squat Machine",
+  "alternative_names": ["V-Squat", "Recoil Squat Machine"],
+  "description": "The V-squat machine guides the lifter along a fixed V-shaped arc, placing the load on shoulder pads while the feet remain on the floor or a low platform in front of the body. The angled path of the machine produces a movement pattern that is deeper than a standard hack squat machine while keeping the spine supported. It is a popular alternative to the squat and leg press for lifters who want significant quad loading with reduced spinal loading.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Step into the machine, positioning the shoulder pads on your shoulders. Feet on the platform, hip-width apart. Stand upright with the machine unlatched.",
+    "setup_instructions": "Adjust shoulder pads to fit comfortably. Set foot position on the platform to target quad emphasis (higher = more glute) or quad (lower feet).",
+    "steps": [
+      "Step 1: Unlatch the machine and control the descent by bending the knees along the guided arc.",
+      "Step 2: Descend until the thighs reach at least parallel to the floor or deeper if flexibility allows.",
+      "Step 3: Drive through the heels and quads to press upward along the arc to the starting position.",
+      "Step 4: Lock out at the top without hyperextending the knees."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on ascent.",
+    "common_mistakes": ["Knees caving inward", "Rising onto the toes", "Not reaching sufficient depth"],
+    "safety_considerations": ["Engage the safety latches before stepping in or out of the machine"],
+    "range_of_motion_guidance": "Thighs to at least parallel; full depth preferred if mobility allows.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": ["Knees track over toes", "Heels stay flat", "Full depth — don't stop at parallel"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["quad", "machine", "compound"]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "exercise_id": "co000030-0000-4000-a000-000000000030",
+  "slug": "high-cable-crunch",
+  "name": "High Cable Rope Crunch",
+  "alternative_names": ["Kneeling Cable Crunch", "Rope Crunch", "Cable Ab Crunch"],
+  "description": "The high cable rope crunch uses a rope attachment on a high pulley to provide constant tension throughout the entire range of spinal flexion, unlike bodyweight crunches where tension drops as the crunch deepens. The athlete kneels facing the cable stack, holds the rope behind the head, and flexes the spine downward to bring the elbows toward the knees. This constant-tension loading makes it one of the most effective loaded abdominal exercises and allows progressive overload of the rectus abdominis in a way that bodyweight crunches cannot replicate.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "crunch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "secondary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a rope to the high pulley. Kneel facing the cable machine, approximately 60–80 cm from the base of the stack. Hold the rope with both hands, thumbs pointed inward, and position the rope on either side of the head. The hips remain fixed throughout.",
+    "setup_instructions": "Set the cable height to the high pulley. Attach a rope handle. Kneel on a mat for comfort. Choose a weight that allows full range of motion with controlled eccentric.",
+    "steps": [
+      "Step 1: Kneel facing the cable machine with rope held at the sides of the head. Hips remain stationary throughout — do not sit back.",
+      "Step 2: Flex the spine forward and downward, bringing the elbows toward the floor in front of the knees. Focus on rounding the spine, not simply hinging at the hips.",
+      "Step 3: Hold the contracted position for 1–2 seconds, feeling the maximal contraction of the rectus abdominis.",
+      "Step 4: Slowly return to the starting position, allowing a full stretch of the abs at the top. Do not allow the spine to hyperextend.",
+      "Step 5: Repeat for the prescribed number of repetitions."
+    ],
+    "breathing_instructions": "Exhale forcefully at the bottom of the crunch (fully contracted position). Inhale on the controlled return to the start.",
+    "common_mistakes": [
+      "Hinging at the hips and sitting back rather than flexing the spine — this uses the hip flexors, not the abs",
+      "Using momentum by swinging forward rather than contracting the abs deliberately",
+      "Not allowing a full stretch at the top of the movement, limiting the range of motion"
+    ],
+    "safety_considerations": [
+      "Avoid neck strain by keeping the rope at the sides of the head, not behind it — the hands should not pull the head forward"
+    ],
+    "range_of_motion_guidance": "Full spinal flexion from an extended position at the top to maximum forward flex at the bottom. Elbows should travel toward the floor.",
+    "tempo_recommendations": "2-1-2-0 (2 seconds down, 1 second hold, 2 seconds up). Do not rush the eccentric.",
+    "coaching_cues": [
+      "Round the spine — do not hinge at the hips",
+      "Imagine trying to bring your sternum to your pelvis",
+      "The hips do not move"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["core", "abs", "cable", "crunch", "loaded"]
+  }
+}

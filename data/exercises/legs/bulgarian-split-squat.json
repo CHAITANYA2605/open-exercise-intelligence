@@ -1,0 +1,152 @@
+{
+  "exercise_id": "d4e5f6a7-0015-4000-8004-000000000015",
+  "slug": "bulgarian-split-squat",
+  "name": "Bulgarian Split Squat",
+  "alternative_names": [
+    "Rear-Foot Elevated Split Squat",
+    "RFESS"
+  ],
+  "description": "The Bulgarian split squat is a unilateral lower body exercise in which the rear foot is elevated on a bench while the front foot bears most of the load. It provides deep quadriceps and glute stimulation with a significant hip flexor stretch on the rear leg. It is considered one of the most challenging and effective single-leg movements for hypertrophy.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "lunge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b",
+        "muscle_slug": "psoas-major"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "execution": {
+    "starting_position": "Stand about two feet in front of a bench. Place the top of the rear foot on the bench. Front foot should be far enough forward that the shin remains near-vertical at the bottom of the movement.",
+    "setup_instructions": "Test the front foot position before adding load. If the front knee tracks excessively over the toes, step the front foot further forward.",
+    "steps": [
+      "Lower the body by bending the front knee, keeping the torso upright.",
+      "Descend until the rear knee is just above the floor.",
+      "Drive through the front heel to return to the starting position."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on the drive up.",
+    "common_mistakes": [
+      "Front foot too close to the bench \u2014 causes excessive forward knee travel",
+      "Torso leaning excessively forward",
+      "Knee caving inward on the front leg"
+    ],
+    "safety_considerations": [
+      "If balance is an issue, hold onto a fixed surface with one hand initially",
+      "Hip flexor on the rear leg will be stretched aggressively \u2014 ease into depth"
+    ],
+    "range_of_motion_guidance": "Rear knee nearly touching the floor at the bottom. Full extension of front leg at top.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Drop straight down \u2014 do not lean forward",
+      "Front shin stays close to vertical throughout the descent"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 150,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "lunge",
+      "unilateral",
+      "quad",
+      "glutes"
+    ]
+  }
+}

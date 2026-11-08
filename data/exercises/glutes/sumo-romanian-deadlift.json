@@ -1,0 +1,150 @@
+{
+  "exercise_id": "e2599fc0-6ad4-4824-bfd0-2a079264f111",
+  "slug": "sumo-romanian-deadlift",
+  "name": "Sumo Romanian Deadlift",
+  "alternative_names": [
+    "Wide Stance RDL"
+  ],
+  "description": "A Romanian deadlift performed with a wide sumo stance and toes pointed out. This stance shifts loading emphasis to the adductors, inner hamstrings, and glutes compared to a conventional RDL, and allows a more upright torso while still training the hip hinge pattern under load.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "ffffffff-0003-4000-a000-00000000000f",
+        "muscle_slug": "adductor-longus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000004-0000-4000-a000-000000000004"
+  ],
+  "execution": {
+    "starting_position": "Stand with feet wider than shoulder-width, toes pointing outward at 30 to 45 degrees. Grip a barbell with a double-overhand grip, hands inside the knees.",
+    "setup_instructions": "Set a barbell on a rack or start from the floor in a sumo stance. Feet wide, toes flared, bar over mid-foot.",
+    "steps": [
+      "Step 1: Brace the core and hinge at the hips, keeping the knees in line with the toes.",
+      "Step 2: Lower the bar along the inner thighs and legs, feeling the inner hamstrings and adductors stretch.",
+      "Step 3: Once a strong stretch is felt through the posterior chain, drive the hips forward.",
+      "Step 4: Extend the hips fully and squeeze the glutes at the top."
+    ],
+    "breathing_instructions": "Inhale and brace before hinging. Exhale on the drive to standing.",
+    "common_mistakes": [
+      "Allowing the knees to cave inward during the movement",
+      "Rounding the lower back at the bottom"
+    ],
+    "safety_considerations": [
+      "Ensure the knees track in line with the toes throughout the movement"
+    ],
+    "range_of_motion_guidance": "Lower until a strong hamstring and inner thigh stretch is felt. Full hip extension at the top.",
+    "tempo_recommendations": "3-0-2-0",
+    "coaching_cues": [
+      "Push the knees out in line with the toes",
+      "Feel the stretch in the inner hamstrings"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "hamstrings",
+      "adductors",
+      "sumo",
+      "hinge"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-g008-4000-a000-000000000308",
+  "slug": "squat-jump",
+  "name": "Squat Jump",
+  "alternative_names": ["Jump Squat", "Vertical Jump"],
+  "description": "The squat jump is a bilateral plyometric exercise in which the athlete descends to a quarter or half squat and then jumps as high as possible, focusing on maximum vertical displacement. Unlike the box jump, the squat jump lands back on the same surface, making it a continuous or repeated power exercise. It directly trains the explosive leg drive mechanics and vertical power output of the quadriceps, glutes, and calves, and is a foundational drill for athletes requiring vertical power.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "jump",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart. Arms at sides or hands behind the head.",
+    "setup_instructions": "No equipment required. Adequate overhead clearance needed.",
+    "steps": [
+      "Step 1: Stand feet shoulder-width apart.",
+      "Step 2: Quickly descend to a quarter or half squat while swinging the arms back.",
+      "Step 3: Explode upward as powerfully as possible, extending fully through the hips, knees, and ankles and driving the arms upward.",
+      "Step 4: Land softly by absorbing through the ankles, knees, and hips back into a squat position.",
+      "Step 5: Immediately repeat for continuous reps or pause between for maximum effort reps."
+    ],
+    "breathing_instructions": "Exhale sharply at takeoff. Inhale during the squat descent.",
+    "common_mistakes": [
+      "Not fully extending at takeoff — partial extension significantly reduces jump height",
+      "Landing with locked legs — the landing must be absorbed through the lower limb chain",
+      "Hesitating at the bottom before jumping — the dip-jump should be one fluid motion"
+    ],
+    "safety_considerations": [
+      "Adequate warm-up of the ankles, knees, and hips before jumping.",
+      "Land on the full foot — not just the toes."
+    ],
+    "range_of_motion_guidance": "Full extension at takeoff. Soft, controlled landing back into a squat position.",
+    "tempo_recommendations": "Maximum effort. For power: 3–6 reps with full rest. For conditioning: 8–15 reps continuous.",
+    "coaching_cues": [
+      "Dip fast, jump hard",
+      "Extend everything — ankle, knee, hip at takeoff",
+      "Land soft — quiet feet, bent knees"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 3, "max_reps": 8},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"power": 120, "endurance": 60},
+    "training_goals": ["power", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "power", "beginner", "vertical-jump"]
+  }
+}

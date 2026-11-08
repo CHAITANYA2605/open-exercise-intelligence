@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-0107-4000-a000-100000000107",
+  "slug": "cross-body-hammer-curl",
+  "name": "Cross-Body Hammer Curl",
+  "alternative_names": ["Cross-Body Curl"],
+  "description": "The cross-body hammer curl is performed by curling the dumbbell across the body toward the opposite shoulder rather than straight up. This altered path places more emphasis on the brachialis and brachioradialis than a standard hammer curl and allows the elbow to flex through a slightly longer arc. The alternating arm action also provides a brief rest between reps, allowing slightly more weight or reps per set.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "alternating",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"},
+      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright holding a dumbbell in each hand, arms at sides, neutral grip (palms facing the body).",
+    "setup_instructions": "Choose a moderate weight. Stand with feet hip-width, slight core brace.",
+    "steps": [
+      "Step 1: Begin curling one dumbbell but direct it diagonally across the body toward the opposite shoulder.",
+      "Step 2: Curl until the dumbbell is near the opposite shoulder, maintaining neutral grip.",
+      "Step 3: Lower slowly back to the starting position.",
+      "Step 4: Alternate arms, curling the other dumbbell across the body."
+    ],
+    "breathing_instructions": "Exhale on each curl, inhale on each return.",
+    "common_mistakes": ["Rotating the grip to supination — keep it neutral", "Using momentum by swinging the torso", "Pulling too high"],
+    "safety_considerations": ["Keep the shoulder down and relaxed"],
+    "range_of_motion_guidance": "Full extension to opposite shoulder height.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Neutral grip throughout", "Curl to the opposite shoulder", "No swing"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["brachialis", "brachioradialis", "isolation", "dumbbell"]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "exercise_id": "d4e5f6a7-0013-4000-8004-000000000013",
+  "slug": "hack-squat",
+  "name": "Hack Squat",
+  "alternative_names": [
+    "Machine Hack Squat",
+    "Plate-Loaded Hack Squat"
+  ],
+  "description": "The hack squat is a machine-based squat variation where the lifter stands on an angled platform and pushes a sled upward. The fixed back-pad support eliminates lower back involvement, allowing very heavy quadriceps loading. Foot position can be varied to emphasize different portions of the quads.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000035-0000-4000-a000-000000000035"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand on the platform with feet shoulder-width apart and the back and shoulders against the pads. Unhook the safety handles. Feet can be placed lower for more quad emphasis.",
+    "setup_instructions": "Load the machine with appropriate weight. Set the sled to a starting position you can safely unrack. Keep the back flat against the pad throughout.",
+    "steps": [
+      "Release the safety handles and lower the sled by bending the knees.",
+      "Descend until knees reach approximately 90 degrees or deeper.",
+      "Press through the whole foot to extend the knees and push the sled back to the top position."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on the press.",
+    "common_mistakes": [
+      "Heels lifting off the platform \u2014 place feet high enough on the platform",
+      "Locking the knees out aggressively at the top"
+    ],
+    "safety_considerations": [
+      "Always use the safety catches \u2014 do not unrack without them engaged first",
+      "Re-engage safety catches before stepping off the machine"
+    ],
+    "range_of_motion_guidance": "90-degree knee flexion at the bottom. Full extension (no hyperextension) at the top.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Press through the whole foot \u2014 do not rise onto the toes",
+      "Keep the back welded to the pad throughout the entire set"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quad",
+      "machine",
+      "squat"
+    ]
+  }
+}

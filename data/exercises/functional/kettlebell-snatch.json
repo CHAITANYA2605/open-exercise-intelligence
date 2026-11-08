@@ -1,0 +1,91 @@
+{
+  "exercise_id": "a1b2c3d4-h003-4000-a000-000000000403",
+  "slug": "kettlebell-snatch",
+  "name": "Kettlebell Snatch",
+  "alternative_names": ["KB Snatch", "One-Arm Kettlebell Snatch"],
+  "description": "The kettlebell snatch is a single-arm ballistic exercise in which the kettlebell is swung from between the legs directly overhead in one continuous motion, arriving in a locked-out overhead position on the same side as the working hand. It is considered the king of kettlebell exercises, demanding explosive hip extension power, shoulder stability, overhead mobility, and the precise timing to guide the bell into a safe overhead position. The kettlebell snatch is used in competitive kettlebell sport as well as general athletic conditioning.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "overhead",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "kettlebell-snatch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart, kettlebell on the floor between the feet. Hinge to grip with one hand.",
+    "setup_instructions": "Master the kettlebell swing and clean before attempting the snatch. Choose a moderate weight.",
+    "steps": [
+      "Step 1: Hike the kettlebell between the legs with a sharp hip hinge.",
+      "Step 2: Explosively extend the hips to drive the kettlebell upward in a tight arc close to the body.",
+      "Step 3: As the bell rises past the shoulder, punch the hand up and forward to rotate underneath the bell.",
+      "Step 4: Lock out the arm overhead, with the bell resting against the back of the forearm and the arm fully extended.",
+      "Step 5: Hold briefly, then hinge back and guide the bell down in a controlled descent back between the legs."
+    ],
+    "breathing_instructions": "Exhale sharply at hip drive. Inhale on the descent.",
+    "common_mistakes": [
+      "Letting the bell loop away from the body — keep it tight on the way up",
+      "Punching late — if timed wrong, the bell flips over and bangs the wrist",
+      "Not locking out the elbow fully overhead"
+    ],
+    "safety_considerations": [
+      "Wrist impact during the punch-through phase is a common beginner hazard — use lighter weight until timing is established.",
+      "Shoulder instability contraindicates this exercise."
+    ],
+    "range_of_motion_guidance": "Full hip extension at drive. Full elbow lockout overhead. Full controlled descent.",
+    "tempo_recommendations": "5–10 reps per arm. Used in timed sets (5–10 minutes) in kettlebell sport.",
+    "coaching_cues": [
+      "Tight arc — bell stays close",
+      "Punch through at the top",
+      "Lock out — pause — then descend"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 120, "endurance": 60},
+    "training_goals": ["strength", "power", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "kettlebell", "power", "overhead", "unilateral", "advanced"]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50019",
+  "slug": "side-lying-leg-raise-toe-down",
+  "name": "Side-Lying Leg Raise — Toe Down",
+  "alternative_names": ["Side-Lying Hip Abduction Toe Down", "Internal Rotation Hip Abduction"],
+  "description": "A side-lying hip abduction exercise performed with the foot internally rotated (toe pointing toward the floor). This internal rotation position preferentially activates the gluteus medius over the tensor fasciae latae (TFL), which is important in rehabilitation programs targeting IT band syndrome or TFL dominance. The exercise isolates the posterior gluteus medius fibers and is a key component of hip abduction rehabilitation.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"}
+    ],
+    "secondary": [],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "execution": {
+    "starting_position": "Lie on your side with your body in a straight line, bottom arm extended and head resting on it. Internally rotate the top leg so the toes point toward the floor (not the ceiling).",
+    "setup_instructions": "No equipment needed. A resistance band above the knees can be added for greater challenge. Ensure the spine stays neutral throughout.",
+    "steps": [
+      "Step 1: Lie on your side with hips stacked and the top foot internally rotated so toes face the floor.",
+      "Step 2: Keeping the leg straight and internally rotated, raise the top leg upward to approximately 30-45 degrees.",
+      "Step 3: Hold the top position briefly, maintaining the internal rotation throughout.",
+      "Step 4: Lower the leg slowly back to the starting position. Complete all reps before switching sides."
+    ],
+    "breathing_instructions": "Exhale as you raise the leg. Inhale as you lower.",
+    "common_mistakes": ["Allowing the foot to rotate outward (externally) during the raise — this recruits TFL instead of posterior glute med", "Rotating the entire pelvis backward as the leg rises — the hip must remain stacked", "Lifting too high, which causes lumbar spine compensation"],
+    "safety_considerations": ["If you have an IT band syndrome diagnosis, ensure this is prescribed by a physiotherapist as part of a structured program", "Avoid if internal hip rotation is acutely painful"],
+    "range_of_motion_guidance": "Lift to approximately 30-45 degrees. The foot must stay internally rotated throughout the entire range.",
+    "tempo_recommendations": "2s raise, 1s hold, 3s lower",
+    "coaching_cues": ["Imagine the bottom of the foot is facing the ceiling — it should be facing the floor throughout the movement", "The small range of motion is correct — do not force height", "Feel the outer hip (gluteus medius) contracting, not the front of the hip (TFL)"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20},
+      {"goal": "mobility", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 45, "mobility": 60},
+    "training_goals": ["endurance", "mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glutes", "hip-abduction", "IT-band", "rehabilitation", "gluteus-medius"]
+  }
+}

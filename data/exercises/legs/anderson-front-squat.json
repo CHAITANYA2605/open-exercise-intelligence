@@ -1,0 +1,148 @@
+{
+  "exercise_id": "2a7545c4-53f1-46c1-81f0-b89b42929721",
+  "slug": "anderson-front-squat",
+  "name": "Anderson Front Squat",
+  "alternative_names": [
+    "Pin Front Squat",
+    "Dead-Stop Front Squat"
+  ],
+  "description": "A front squat performed from a dead stop with the barbell resting on safety pins inside a power rack, starting from the bottom position. Eliminating the stretch reflex removes elastic energy contribution and forces the lifter to generate strength from a fully stopped position, targeting the sticking point of the squat.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "equipment_optional": [
+    "eq000005-0000-4000-a000-000000000005"
+  ],
+  "execution": {
+    "starting_position": "Set safety pins inside a power rack at a height corresponding to the bottom of your front squat. Bar rests on the pins. Duck under and take the front rack position.",
+    "setup_instructions": "Set safety pins at the correct height for your squat depth. Load the bar on the pins, then position yourself under it in the front rack before beginning each rep.",
+    "steps": [
+      "Step 1: Position yourself under the bar in the front rack with elbows high.",
+      "Step 2: Brace your core hard from a complete dead-stop position.",
+      "Step 3: Drive through your legs to lift the bar off the pins and ascend to full lockout.",
+      "Step 4: Lower the bar back to the pins with control. Reset and repeat."
+    ],
+    "breathing_instructions": "Inhale and brace fully before each individual rep. Exhale at lockout.",
+    "common_mistakes": [
+      "Rushing the start \u2014 ensure a full brace before each lift off the pins",
+      "Dropping the elbows and losing the front rack during the lift"
+    ],
+    "safety_considerations": [
+      "Use significantly less weight than your regular front squat \u2014 no stretch reflex means much less force production"
+    ],
+    "range_of_motion_guidance": "Full extension at lockout. Bottom position is predetermined by pin height.",
+    "tempo_recommendations": "Dead stop \u2014 0-1-1-0",
+    "coaching_cues": [
+      "Dead stop means dead stop",
+      "Elbows stay high through the entire lift"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 180
+    },
+    "training_goals": [
+      "strength"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "glutes",
+      "front-squat",
+      "pin-squat",
+      "advanced"
+    ]
+  }
+}

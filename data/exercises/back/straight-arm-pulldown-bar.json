@@ -1,0 +1,77 @@
+{
+  "exercise_id": "ba010008-f3a2-4c1e-9b8d-7e6f5a4c3b31",
+  "slug": "straight-arm-pulldown-bar",
+  "name": "Straight-Arm Cable Pulldown — Straight Bar",
+  "alternative_names": ["Bar Straight-Arm Pulldown", "Lat Prayer"],
+  "description": "The straight-arm pulldown with a straight bar is performed identically to the rope version but with both hands fixed to a rigid bar, keeping the hands in a pronated position throughout. The fixed grip limits the ability to externally rotate the hands at the bottom compared to a rope, but allows for heavier loads and a more consistent pulling path. It is a reliable lat isolation finisher.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "pull",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"},
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a straight bar to a high-pulley cable. Stand facing the cable, hinge slightly at the hips, and grip the bar with an overhand grip, arms extended toward the cable.",
+    "setup_instructions": "Position body 2-3 feet from the cable stack. Slight forward lean increases lat engagement at the top.",
+    "steps": [
+      "Step 1: Stand with arms extended toward the cable at approximately head height, overhand grip on bar.",
+      "Step 2: Keeping the arms straight (soft elbow), initiate the pull by contracting the lats.",
+      "Step 3: Drive the bar in a downward arc, keeping it close to the body.",
+      "Step 4: Finish with the bar pressed against the thighs and lats maximally contracted.",
+      "Step 5: Slowly return to start against cable resistance."
+    ],
+    "breathing_instructions": "Exhale on pull, inhale on return.",
+    "common_mistakes": [
+      "Bending the elbows and converting to a pulldown",
+      "Swinging the torso to generate momentum",
+      "Not fully straightening the arms at the top"
+    ],
+    "safety_considerations": [
+      "Light isolation load only — do not load this movement heavily",
+      "Keep soft bend at elbow to protect the joint"
+    ],
+    "range_of_motion_guidance": "Arms extended to roughly head height at the start, bar pressed to thighs at the finish.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Arms stay straight", "Think: lats are pulling, not arms", "Full extension at the top before every rep"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 75, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "cable", "isolation", "lat"]
+  }
+}

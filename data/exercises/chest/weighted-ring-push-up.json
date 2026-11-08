@@ -1,0 +1,82 @@
+{
+  "exercise_id": "b4c5d6e7-f8a9-4012-b345-c67d89e01f26",
+  "slug": "weighted-ring-push-up",
+  "name": "Weighted Ring Push-Up",
+  "alternative_names": ["Ring Push-Up with Weight Vest", "Loaded Ring Push-Up"],
+  "description": "A ring push-up performed with additional load, typically via a weight vest or a plate suspended from a dip belt. The gymnastic rings create an unstable surface that maximizes stabilizer recruitment, while the added external load increases the progressive overload on the pectoralis major and triceps beyond what bodyweight alone provides. This bridges the gap between bodyweight and barbell pressing.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set rings low enough for push-up position (approximately 15–30 cm off the ground). Don a weight vest or attach a plate to a dip belt. Get into push-up position with hands in the rings, body straight.",
+    "setup_instructions": "Set rings at appropriate height. Put on weight vest before getting into position. Ensure extra load is secure before beginning.",
+    "steps": [
+      "Step 1: Establish push-up plank on the rings. Keep rings turned out slightly for shoulder health.",
+      "Step 2: Lower the chest toward the ring level, controlling the inherent ring rotation.",
+      "Step 3: Descend until chest is at ring height.",
+      "Step 4: Press powerfully back to full arm extension, maintaining ring control."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on press.",
+    "common_mistakes": [
+      "Adding weight before mastering unweighted ring push-ups",
+      "Rings swinging out uncontrollably on descent",
+      "Weight vest riding up during the movement, shifting center of gravity"
+    ],
+    "safety_considerations": [
+      "Master bodyweight ring push-ups with controlled descent/ascent before adding load",
+      "Start with minimal added weight (5–10 kg) and progress conservatively",
+      "Ensure ring straps are secure before beginning loaded sets"
+    ],
+    "range_of_motion_guidance": "Full push-up range, chest to ring level at the bottom, full lockout at top.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Turn the rings out at the top for maximum shoulder stability",
+      "Keep the rings close to the body — wide rings are harder to control"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 6}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "push-up", "weighted", "advanced", "chest", "gymnastics"]
+  }
+}

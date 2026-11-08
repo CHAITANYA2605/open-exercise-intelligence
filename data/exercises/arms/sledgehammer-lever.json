@@ -1,0 +1,62 @@
+{
+  "exercise_id": "a1b2c3d4-0128-4000-a000-100000000128",
+  "slug": "sledgehammer-lever",
+  "name": "Sledgehammer Lever (Forearm Levering)",
+  "alternative_names": ["Hammer Lever", "Forearm Lever", "One-Arm Hammer Levering"],
+  "description": "The sledgehammer lever involves holding a sledgehammer at the very end of its handle with one hand extended and slowly lowering it forward or to the side from a vertical position, then raising it back — using wrist and forearm strength to control the extreme lever arm. The long handle creates significant torque on the forearm even with a lightweight hammer, making it one of the most effective single-tool wrist extensor exercises.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0004-4000-a000-000000000008", "muscle_slug": "extensor-carpi-radialis"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000045-0000-4000-a000-000000000045"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hold a sledgehammer at the very end of the handle with one hand, arm at the side, hammer vertical with head up.",
+    "setup_instructions": "Begin with a 2-4kg sledgehammer. The lever arm is the challenge, not the head weight. Stand with feet hip-width.",
+    "steps": [
+      "Step 1: Hold the hammer vertical, arm extended slightly forward.",
+      "Step 2: Slowly lower the hammer forward (or to the side) by extending the wrist, controlling the lever.",
+      "Step 3: Lower as far as wrist control allows without losing the grip.",
+      "Step 4: Raise the hammer back to vertical using wrist flexion."
+    ],
+    "breathing_instructions": "Exhale on the raise, inhale on the lower.",
+    "common_mistakes": ["Gripping too close to the head — the grip must be at the very end of the handle", "Moving too fast"],
+    "safety_considerations": ["Start with a light hammer — the lever arm is deceptively difficult", "Perform over a rubber mat in case of drop"],
+    "range_of_motion_guidance": "Vertical to horizontal (or as far as controlled).",
+    "tempo_recommendations": "3-0-3-0",
+    "coaching_cues": ["Grip the very end of the handle", "Slow and controlled in both directions", "Feel the forearm extensors work"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 60},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearm", "wrist-extensors", "isolation", "strongman"]
+  }
+}

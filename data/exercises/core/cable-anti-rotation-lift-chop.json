@@ -1,0 +1,128 @@
+{
+  "exercise_id": "ex-cable-an-core-4000-a000-870340628003",
+  "slug": "cable-anti-rotation-lift-chop",
+  "name": "Cable Anti-Rotation Lift and Chop",
+  "alternative_names": [],
+  "description": "A combined cable movement pairing a low-to-high lift with a high-to-low chop through the frontal plane. The anti-rotation demand comes from resisting the cable's rotational pull throughout the full arc. This integrates oblique and transverse abdominis function in sport-specific patterns.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000011-0000-4000-a000-000000000011"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Cable Anti-Rotation Lift and Chop in proper position.",
+    "setup_instructions": "Prepare body and equipment for Cable Anti-Rotation Lift and Chop.",
+    "steps": [
+      "Step 1: Stand sideways to low cable. Grip handle with both hands at hip level.",
+      "Step 2: Rotate and lift cable diagonally across body to high opposite position.",
+      "Step 3: Reverse the motion, chopping back down to starting position.",
+      "Step 4: Complete reps on one side then switch."
+    ],
+    "breathing_instructions": "Breathe steadily; never hold breath during static holds.",
+    "common_mistakes": [
+      "Using momentum instead of muscular control",
+      "Excessive spinal flexion"
+    ],
+    "safety_considerations": [
+      "Build prerequisite strength before attempting advanced variations.",
+      "Stop if joint pain occurs."
+    ],
+    "range_of_motion_guidance": "Full range of motion with control at all times.",
+    "tempo_recommendations": "Controlled throughout; hold positions deliberately.",
+    "coaching_cues": [
+      "Move from your core, not your arms",
+      "Full rotation with stable base"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 5,
+        "max_reps": 10
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 120
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

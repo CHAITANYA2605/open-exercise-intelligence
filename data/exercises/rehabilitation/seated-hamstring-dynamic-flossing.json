@@ -1,0 +1,63 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50029",
+  "slug": "seated-hamstring-dynamic-flossing",
+  "name": "Seated Dynamic Hamstring Flossing",
+  "alternative_names": ["Dynamic Neural Floss Seated", "Seated Sciatic Nerve Mobilization"],
+  "description": "A dynamic variant of seated hamstring neural flossing where the exerciser performs continuous alternating cycles of knee extension with ankle plantarflexion and knee flexion with ankle dorsiflexion. Unlike the static neural glide, the dynamic flossing version is performed rhythmically and with slightly greater amplitude, progressively working toward full knee extension as neural mobility improves. Used in advanced stages of sciatic nerve mobilization and hamstring neural tension rehabilitation.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit upright in a chair with both feet flat on the floor. Maintain a neutral or slightly extended lumbar spine. The working leg is the one being flossed.",
+    "setup_instructions": "No equipment needed. Sit toward the front of a chair so the foot can extend forward freely.",
+    "steps": [
+      "Step 1: Begin with the working knee bent at 90 degrees, foot on the floor.",
+      "Step 2: Extend the knee forward while simultaneously pointing the toes (plantarflexion) — this moderately tensions the sciatic nerve.",
+      "Step 3: Immediately bend the knee back while pulling the toes toward the shin (dorsiflexion) — this releases tension on the distal nerve while tensioning it proximally.",
+      "Step 4: Continue this rhythmic alternating motion for the prescribed repetitions. The cadence should be approximately 1 full cycle per 2 seconds."
+    ],
+    "breathing_instructions": "Breathe continuously throughout. Do not hold the breath.",
+    "common_mistakes": ["Creating sharp, electrical, or radiating pain — stop immediately if this occurs", "Extending the knee to end range if it reproduces symptoms — work within a comfortable range initially", "Performing the exercise too quickly — moderate pace allows neural tissue to adapt"],
+    "safety_considerations": ["CRITICAL: Stop immediately if any sharp, electrical, radiating, or shooting pain occurs down the leg", "This is a progression from static neural flossing — ensure static flossing is tolerated before beginning the dynamic version", "Not appropriate for active disc herniations without physiotherapy supervision"],
+    "range_of_motion_guidance": "Work within a pain-free range. The range will progressively improve as neural mobility increases.",
+    "tempo_recommendations": "1 repetition = 1 full extend-then-flex cycle. Approximately 2 seconds per cycle.",
+    "coaching_cues": ["Keep breathing — do not hold your breath during the leg extension", "Work within a range that creates mild tension only — no pain", "Gradually increase the knee extension range as your neural mobility improves over sessions"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "mobility", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"mobility": 60},
+    "training_goals": ["mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hamstring", "neural-flossing", "sciatic", "rehabilitation", "dynamic"]
+  }
+}

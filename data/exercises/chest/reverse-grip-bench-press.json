@@ -1,0 +1,79 @@
+{
+  "exercise_id": "f2a3b4c5-d6e7-4890-f123-a45b67c89012",
+  "slug": "reverse-grip-bench-press",
+  "name": "Reverse-Grip Barbell Bench Press",
+  "alternative_names": ["Supinated Grip Bench Press"],
+  "description": "The Reverse-Grip Bench Press is performed with a supinated (underhand) grip, meaning the palms face toward the head. This grip changes elbow mechanics, keeping them closer to the body throughout the press and shifting activation toward the upper pectoral fibers (clavicular head) and triceps. It is a useful variation for upper chest development and for lifters with certain shoulder issues.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Lie on a flat bench. Grip the bar with palms facing toward your face (supinated). Use a grip slightly inside shoulder-width for comfort. Thumbs wrap around the bar.",
+    "setup_instructions": "It is strongly recommended to use a power rack. Have a spotter available as the supinated grip is biomechanically weaker and the bar can roll out of control if grip fails. Use a weight below your standard bench max.",
+    "steps": [
+      "Step 1: Unrack bar with a supinated grip. The bar will feel different — elbows naturally tuck closer to the torso.",
+      "Step 2: Lower the bar slowly to touch the lower chest, keeping elbows at approximately 45-50 degrees from the torso.",
+      "Step 3: Press up and slightly back toward the rack to reach lockout.",
+      "Step 4: Control the bar carefully on the return."
+    ],
+    "breathing_instructions": "Inhale and brace before descent. Exhale at lockout.",
+    "common_mistakes": [
+      "Using too wide a grip, creating uncomfortable wrist torque with a supinated grip",
+      "Failing to inform the spotter of the grip type before attempting"
+    ],
+    "safety_considerations": [
+      "The supinated grip is weaker — reduce load by 15-25% from your standard bench",
+      "Bar control is different — always use a spotter or power rack safeties",
+      "Discontinue if wrist or elbow discomfort occurs"
+    ],
+    "range_of_motion_guidance": "Full ROM — bar touches lower chest, elbows extend to lockout.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Keep elbows tucked — this is the nature of the grip",
+      "Think about pressing the bar toward the ceiling, not toward your feet"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["upper-chest", "supinated-grip", "grip-variation"]
+  }
+}

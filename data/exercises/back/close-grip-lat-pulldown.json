@@ -1,0 +1,90 @@
+{
+  "exercise_id": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+  "slug": "close-grip-lat-pulldown",
+  "name": "Close-Grip Lat Pulldown",
+  "alternative_names": ["Narrow Grip Lat Pulldown", "V-Bar Pulldown"],
+  "description": "The close-grip lat pulldown uses a V-bar or narrow handle attachment that positions the elbows close to the torso during the pull. This grip allows a greater range of elbow travel and places substantial load on the biceps alongside the lats, making it a preferred variation for lifters seeking combined lat and biceps development or for those transitioning toward chin-up proficiency.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "pulldown",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+    ],
+    "secondary": [
+      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" },
+      { "muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis" },
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ]
+  },
+  "equipment_required": ["eq000030-0000-4000-a000-000000000030"],
+  "equipment_optional": ["eq000010-0000-4000-a000-000000000010"],
+  "execution": {
+    "starting_position": "Sit at a lat pulldown machine and attach a V-bar or close-grip handle. Adjust the thigh pad to secure the legs. Grasp the handle with a neutral grip and extend the arms fully overhead, allowing the lats to stretch.",
+    "setup_instructions": "Attach a V-bar or close-grip handle to the lat pulldown machine pulley. Set an appropriate weight. Secure thighs under the pad.",
+    "steps": [
+      "Step 1: Begin seated with arms fully extended overhead, lats on stretch.",
+      "Step 2: Depress the shoulder blades and initiate the pull by driving the elbows down toward the hips.",
+      "Step 3: Pull the bar toward the upper chest, bringing the elbows close to the sides of the torso.",
+      "Step 4: At the bottom, squeeze the lats and hold briefly.",
+      "Step 5: Return slowly to full arm extension, maintaining scapular control."
+    ],
+    "breathing_instructions": "Exhale as you pull the bar down. Inhale as you return to the starting position.",
+    "common_mistakes": [
+      "Leaning back excessively, which turns the movement into a partial row",
+      "Pulling the bar behind the head, which stresses the cervical spine",
+      "Using momentum by rocking the torso"
+    ],
+    "safety_considerations": [
+      "Never pull behind the head — always pull to the front of the chest",
+      "Maintain a neutral or slightly arched lumbar spine throughout"
+    ],
+    "range_of_motion_guidance": "Full extension at the top to the bar reaching the upper chest at the bottom.",
+    "tempo_recommendations": "2-1-2-0 (2s pull, 1s hold, 2s eccentric)",
+    "coaching_cues": [
+      "Lead with the elbows, not the hands",
+      "Think 'elbows to ribs' and they will naturally come to the right position",
+      "Let your chest rise slightly to meet the bar at the bottom"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 5, "max_reps": 8 },
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 },
+      { "goal": "endurance", "min_reps": 15, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 4, "max_sets": 5 },
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 },
+      { "goal": "endurance", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 150, "hypertrophy": 90, "endurance": 45 },
+    "training_goals": ["strength", "hypertrophy", "endurance"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["pulldown", "cable", "lat", "v-bar", "close-grip"]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "exercise_id": "8672d038-66ce-4335-8110-fa9a6f192787",
+  "slug": "leaning-cable-front-raise",
+  "name": "Leaning Cable Front Raise",
+  "alternative_names": ["Inclined Cable Front Raise", "Lean-Away Cable Front Raise"],
+  "description": "The leaning cable front raise leans the torso away from a low cable pulley, increasing the range of motion of the anterior deltoid by starting with the working arm pulled behind the hip at a greater angle. The lean increases the stretch placed on the anterior deltoid and upper pec at the bottom while maintaining constant cable tension through the top, making it one of the most complete anterior deltoid loading options available.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-lateral" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with one side facing away from a low cable. Grasp the handle with the near hand. Lean the torso away from the cable — 10-20 degrees. The working arm is pulled behind the hip by the cable.",
+    "setup_instructions": "Set the cable to the lowest position. Lean against a fixed object if balance is challenging initially.",
+    "steps": [
+      "Step 1: Establish the lean with the cable pulling the arm behind the hip.",
+      "Step 2: Raise the working arm forward and upward to shoulder height or slightly above.",
+      "Step 3: Hold 1 second at peak.",
+      "Step 4: Lower under control back to the extended behind-hip position.",
+      "Step 5: Complete all reps then switch sides."
+    ],
+    "breathing_instructions": "Exhale raising. Inhale lowering.",
+    "common_mistakes": [
+      "Not leaning enough — the lean is what creates the extended starting position",
+      "Torso swinging forward during the raise"
+    ],
+    "safety_considerations": [
+      "Moderate lean — do not lean so far that balance is compromised",
+      "Light loads — anterior deltoid isolation"
+    ],
+    "range_of_motion_guidance": "Arm behind hip to shoulder height, using the full extended range created by the lean.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Lean creates the stretch — maintain it throughout",
+      "No torso swing — stay leaned back",
+      "Feel the front of the shoulder through the full arc"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 60 },
+    "training_goals": ["hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "front-raise", "leaning", "anterior-deltoid", "shoulder"]
+  }
+}

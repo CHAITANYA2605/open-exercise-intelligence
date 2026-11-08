@@ -1,0 +1,91 @@
+{
+  "exercise_id": "sm000003-0000-4000-a000-000000000003",
+  "slug": "sandbag-clean",
+  "name": "Sandbag Clean",
+  "alternative_names": ["Sandbag Power Clean", "Sandbag Lap Clean"],
+  "description": "The sandbag clean is an explosive hip-extension movement that drives a heavy sandbag from the floor to the shoulder or chest, training the same posterior chain muscles as the barbell power clean but with an awkward, shifting implement that demands superior grip strength and core stability. The unstable load prevents the precise bar path of Olympic lifting, instead requiring the athlete to adapt dynamically throughout each repetition. It is an excellent power development tool for athletes and tactical populations who need to handle irregular loads.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "clean",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "The sandbag is on the floor in front of the feet. Hinge at the hips, grab the sandbag handles or hug the bag with both arms, back flat, chest up.",
+    "setup_instructions": "Choose a sandbag weight that allows an explosive clean without losing postural control — typically 30–50% of bodyweight to start. Use a sandbag with handles for the first attempts.",
+    "steps": [
+      "Step 1: Deadlift the sandbag from the floor to mid-thigh, keeping it close to the body.",
+      "Step 2: Extend the hips explosively — the same hip pop as a kettlebell swing. Drive the elbows high as you pull the bag upward.",
+      "Step 3: As the bag rises, drop under it slightly and 'catch' it at the shoulder or chest level, rotating the elbows forward.",
+      "Step 4: Stand tall in the catch position with the bag at the chest or shoulder, core braced.",
+      "Step 5: Lower the bag to the floor with control by hinging at the hips. Repeat."
+    ],
+    "breathing_instructions": "Exhale sharply at the hip extension (the most explosive moment). Inhale on the way back down to the floor.",
+    "common_mistakes": [
+      "Lifting with the back and arms instead of using explosive hip extension as the primary driver",
+      "Not pulling the elbows high enough, causing the bag to crash into the chest",
+      "Soft catch — always brace the core hard at the moment the bag arrives at the shoulder"
+    ],
+    "safety_considerations": [
+      "If the bag slips, let it drop — do not catch it awkwardly to protect the lower back",
+      "Master the deadlift pattern and kettlebell swing before loading the sandbag clean heavily"
+    ],
+    "range_of_motion_guidance": "Full hip extension at the top of the drive. The bag should travel from the floor to shoulder height in one continuous movement.",
+    "tempo_recommendations": "Power development: 3–5 reps × 4–6 sets. Rest 2–3 minutes. Conditioning: 8–10 reps × 3–4 sets with 90 seconds rest.",
+    "coaching_cues": [
+      "Hips first — do not muscle it up with the arms",
+      "Hug the bag tight to your body throughout the pull",
+      "Drive the elbows high at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 5},
+      {"goal": "endurance", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 6},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "endurance": 90},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["strongman", "clean", "power", "sandbag", "functional"]
+  }
+}

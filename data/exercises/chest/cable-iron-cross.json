@@ -1,0 +1,79 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78e02",
+  "slug": "cable-iron-cross",
+  "name": "Cable Iron Cross",
+  "alternative_names": ["Standing Cable Iron Cross", "High Cable Iron Cross"],
+  "description": "The cable iron cross is a chest isolation exercise that mimics the gymnastic iron cross position. Standing between two high cable pulleys, the athlete holds a handle in each hand with arms extended to the sides at shoulder height, then pulls both cables downward and inward to meet at the midline. The constant cable tension provides consistent pectoral loading through the entire arc of motion.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand centered between two high cable pulleys set at shoulder height or above. Grip a single handle in each hand with arms extended straight out to the sides, forming a T-shape. Step slightly forward to put tension on the cables.",
+    "setup_instructions": "Set both pulleys to the highest position on a functional trainer. Attach single-grip handles to each cable. Select equal weight on both sides.",
+    "steps": [
+      "Step 1: Stand tall with arms extended out to the sides at shoulder height, slight forward lean from the hips.",
+      "Step 2: Keeping arms as straight as possible (elbows almost locked, very slight bend), pull both handles downward and inward in a large arc.",
+      "Step 3: Bring hands together at hip or lower-chest level, squeezing the pectorals at peak contraction.",
+      "Step 4: Slowly return to the start position, resisting the cable pull and feeling the chest stretch."
+    ],
+    "breathing_instructions": "Exhale as hands come together toward the midline. Inhale as you return to the starting position.",
+    "common_mistakes": [
+      "Bending the elbows and turning the movement into a cable crossover",
+      "Using momentum by swinging the torso",
+      "Setting cables too heavy, compromising straight-arm position"
+    ],
+    "safety_considerations": [
+      "Keep weight light — this movement has poor mechanical leverage with straight arms",
+      "Avoid if experiencing shoulder impingement or rotator cuff issues"
+    ],
+    "range_of_motion_guidance": "Full extension of arms to the sides with a wide arc downward to the midline. The straighter the arms, the greater the pectoral demand.",
+    "tempo_recommendations": "3-1-2-1 (3s arc, 1s squeeze, 2s return, 1s hold)",
+    "coaching_cues": [
+      "Keep the elbows almost locked — this is not a crossover",
+      "Think of the hands moving in a wide circle rather than a straight line"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 75, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "chest", "isolation", "straight-arm"]
+  }
+}

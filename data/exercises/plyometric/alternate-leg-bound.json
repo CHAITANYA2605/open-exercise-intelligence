@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-g007-4000-a000-000000000307",
+  "slug": "alternate-leg-bound",
+  "name": "Alternate Leg Bound",
+  "alternative_names": ["Alternating Bounds", "Skipping Bounds"],
+  "description": "Alternate leg bounding is an advanced plyometric drill in which the athlete performs exaggerated, explosive strides — alternating single-leg push-offs and landings across the ground with maximum stride length and height. Each stride resembles a running step taken with maximum power output. It develops unilateral explosive hip extension, stride power, and the stretch-shortening cycle in the hip extensors and plantarflexors, with strong carryover to sprinting acceleration.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "advanced",
+  "movement_pattern": "gait",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "jump",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a standing position. Transition to movement immediately at the start of the drill.",
+    "setup_instructions": "Use a flat, non-slip surface with 30–50 meters of clear running space.",
+    "steps": [
+      "Step 1: Begin with a short run-up to initiate momentum.",
+      "Step 2: Drive off the right foot explosively, extending fully through the hip, knee, and ankle.",
+      "Step 3: Drive the left knee high and forward while the right arm mirrors with an aggressive drive.",
+      "Step 4: Land on the left foot and immediately drive off again with equal force.",
+      "Step 5: Continue alternating for the prescribed distance, maximizing each stride's length and height."
+    ],
+    "breathing_instructions": "Breathe rhythmically throughout the drill.",
+    "common_mistakes": [
+      "Shuffling rather than bounding — each stride must be a true explosive effort",
+      "Insufficient knee lift of the swing leg",
+      "Weak arm drive — the arms contribute significantly to stride power"
+    ],
+    "safety_considerations": [
+      "High demand on the Achilles tendon and hamstrings. Not appropriate in the early season or after lower limb injury.",
+      "Progress from single-leg hops before adding alternate leg bounds."
+    ],
+    "range_of_motion_guidance": "Maximum stride length and height. Full hip and knee extension at each takeoff.",
+    "tempo_recommendations": "Performed for 20–40 meter sets. Maximum effort on each stride.",
+    "coaching_cues": [
+      "Drive the knee up and push the ground away",
+      "Swing the arms hard — opposite arm to leg",
+      "Cover ground — big, powerful strides"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 6}
+    ],
+    "rest_periods": {"power": 180},
+    "training_goals": ["power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "power", "sprint", "sport", "advanced"]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "exercise_id": "3a5652bd-94e7-4838-a802-fc7104328d0b",
+  "slug": "trap-bar-romanian-deadlift",
+  "name": "Trap Bar Romanian Deadlift",
+  "alternative_names": [
+    "Hex Bar RDL"
+  ],
+  "description": "A Romanian deadlift performed with a trap bar (hex bar). The trap bars neutral grip and symmetrical loading reduces torque on the lumbar spine compared to a standard barbell RDL, while still training the hip hinge pattern with an emphasis on glute and hamstring development through a large range of eccentric loading.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "ffffffff-0002-4000-a000-00000000000f",
+        "muscle_slug": "adductor-magnus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "88888888-0003-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-ulnaris"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000004-0000-4000-a000-000000000004"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand inside the trap bar with feet hip-width apart, gripping the handles. Bar should be loaded on the floor or start from the top position.",
+    "setup_instructions": "Load the trap bar. Stand inside it, grip the handles, and stand upright with hips fully extended as the starting position.",
+    "steps": [
+      "Step 1: Keeping the knees soft and spine neutral, hinge at the hips and push them back.",
+      "Step 2: Lower the bar along the sides of the thighs, feeling a progressive stretch in the hamstrings.",
+      "Step 3: Once a strong hamstring stretch is felt (typically mid-shin), drive the hips forward.",
+      "Step 4: Extend the hips fully at the top, squeezing the glutes, and return to the starting position."
+    ],
+    "breathing_instructions": "Inhale and brace before hinging. Exhale on the drive to standing.",
+    "common_mistakes": [
+      "Rounding the lower back at the bottom of the movement",
+      "Bending the knees excessively, turning it into a deadlift"
+    ],
+    "safety_considerations": [
+      "Keep the bar close to your body throughout the movement",
+      "Do not hyperextend the lower back at the top"
+    ],
+    "range_of_motion_guidance": "Lower until a strong hamstring stretch is felt. Full hip extension at the top.",
+    "tempo_recommendations": "3-0-2-0",
+    "coaching_cues": [
+      "Push the hips back, not the chest down",
+      "Feel the hamstring stretch at the bottom"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "glutes",
+      "hamstrings",
+      "hinge",
+      "trap-bar",
+      "rdl"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "exercise_id": "e0d1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+  "slug": "archer-pull-up",
+  "name": "Archer Pull-Up",
+  "alternative_names": ["Side-to-Side Pull-Up", "Typewriter Pull-Up Variation"],
+  "description": "The archer pull-up is an advanced calisthenics progression toward the one-arm pull-up. The lifter pulls up while simultaneously extending one arm out to the side straight, so the working arm performs most of the pulling while the extended arm assists with balance and grip. This creates a large strength imbalance that develops unilateral pulling strength without fully committing to a one-arm pull-up.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+    ],
+    "secondary": [
+      { "muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head" },
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus" }
+    ]
+  },
+  "equipment_required": ["eq000018-0000-4000-a000-000000000018"],
+  "equipment_optional": ["eq000020-0000-4000-a000-000000000020", "eq000019-0000-4000-a000-000000000019"],
+  "execution": {
+    "starting_position": "Hang from a pull-up bar with a wide overhand grip, arms fully extended.",
+    "setup_instructions": "Use a wide pull-up bar or gymnastic rings set wide enough to allow one arm to extend laterally. Ensure the bar or anchor point can support your full weight.",
+    "steps": [
+      "Step 1: Begin in a dead hang with both hands gripping the bar wide.",
+      "Step 2: Initiate a pull-up toward one side, bending that elbow and pulling the chest toward the working hand.",
+      "Step 3: Simultaneously extend the opposite arm straight out to the side, keeping it relatively straight but with a slight soft elbow.",
+      "Step 4: At the top, the chin should be near or above the working hand, with the other arm extended.",
+      "Step 5: Lower under control back to a dead hang, then repeat on the opposite side."
+    ],
+    "breathing_instructions": "Exhale as you pull up. Inhale on the descent.",
+    "common_mistakes": [
+      "Not extending the assisting arm fully, which makes it too similar to a standard pull-up",
+      "Kipping or using momentum rather than strict pulling strength",
+      "Not controlling the descent, which skips the eccentric stimulus"
+    ],
+    "safety_considerations": [
+      "This is an advanced exercise — only attempt after achieving 10+ strict pull-ups with ease",
+      "Ensure grip is secure before each rep"
+    ],
+    "range_of_motion_guidance": "Full dead hang at the bottom to chin above working hand at the top.",
+    "tempo_recommendations": "Controlled concentric (2–3s), 1s hold, 3s eccentric",
+    "coaching_cues": [
+      "Think of it as a one-arm pull-up with a training wheel on the other side",
+      "The extended arm should feel like it is barely helping",
+      "Keep the core tight to prevent swinging"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 2, "max_reps": 5 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 6 }
+    ],
+    "rest_periods": { "strength": 180 },
+    "training_goals": ["strength", "power"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calisthenics", "pull-up", "advanced", "one-arm-progression"]
+  }
+}

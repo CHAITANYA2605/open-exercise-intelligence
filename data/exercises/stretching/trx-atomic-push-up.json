@@ -1,0 +1,65 @@
+{
+  "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50020",
+  "slug": "trx-atomic-push-up",
+  "name": "TRX Atomic Push-Up",
+  "alternative_names": ["TRX Push-Up with Knee Tuck", "Suspended Atomic Push-Up"],
+  "description": "The TRX atomic push-up combines a push-up with a simultaneous knee tuck, performed with both feet in TRX foot cradles. The push-up phase challenges the chest, triceps, and anterior shoulder; the knee tuck phase challenges the hip flexors and anterior core in compression. The TRX suspension element makes both phases harder by creating instability in multiple planes. This is a highly demanding combined push and core exercise.",
+  "category": "stretching",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "mobility",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place both feet in the TRX foot cradles and assume a push-up plank position with hands on the floor. The TRX straps should be at approximately mid-calf height.",
+    "setup_instructions": "Adjust the TRX to a medium height. Begin with the standard TRX push-up and TRX knee tuck separately before combining them.",
+    "steps": [
+      "Step 1: Begin in the push-up plank with both feet in the TRX cradles.",
+      "Step 2: Lower the chest to the floor in a controlled push-up.",
+      "Step 3: As you press back up, simultaneously drive both knees toward the chest in a knee tuck.",
+      "Step 4: Extend both legs back to the plank position. That is one repetition."
+    ],
+    "breathing_instructions": "Inhale during the push-up descent. Exhale forcefully during the press-up and tuck simultaneously.",
+    "common_mistakes": ["Hips rising during the knee tuck rather than tucking from the core", "Doing the push-up and tuck sequentially rather than simultaneously", "Losing rigid plank on the return — the body must stay straight as the legs extend back"],
+    "safety_considerations": ["This is advanced — master TRX push-up and TRX knee tuck separately before combining", "Wrist discomfort may require push-up handles or reduced range"],
+    "range_of_motion_guidance": "Full push-up range combined with a full knee tuck to chest.",
+    "tempo_recommendations": "3s eccentric push-up, then explosive simultaneous press-up and tuck, then 2s controlled extension back to plank.",
+    "coaching_cues": ["Press up and tuck at the same time — not one then the other", "Squeeze the core hard during the tuck — the knees come to the chest, not toward the hands", "Control the return — do not let the legs swing back to the plank position"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "strength", "min_reps": 4, "max_reps": 10}],
+    "recommended_set_ranges": [{"goal": "strength", "min_sets": 2, "max_sets": 3}],
+    "rest_periods": {"strength": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["TRX", "push-up", "core", "functional", "suspension"]
+  }
+}

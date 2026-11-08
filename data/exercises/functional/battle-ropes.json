@@ -1,0 +1,88 @@
+{
+  "exercise_id": "a1b2c3d4-h005-4000-a000-000000000405",
+  "slug": "battle-ropes",
+  "name": "Battle Ropes",
+  "alternative_names": ["Battling Ropes", "Heavy Ropes", "Rope Slams"],
+  "description": "Battle ropes are a conditioning exercise in which the athlete alternates or simultaneously waves heavy ropes anchored at one end, sustaining powerful arm and shoulder drive patterns for a timed interval. The continuous undulating motion of the ropes requires sustained explosive upper body work while the lower body is maintained in a stable athletic stance, creating high metabolic demand. Battle rope training is used for upper body power endurance, cardiovascular conditioning, and grip strength.",
+  "category": "cardio",
+  "exercise_type": "cardio",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "battle-ropes",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing the anchor point with feet shoulder-width apart in an athletic squat stance, one rope end in each hand. Slight hip hinge, slight knee bend.",
+    "setup_instructions": "Anchor a heavy rope (38–50mm diameter) at a fixed point. Stand at a distance that keeps the rope slightly slack. Maintain a consistent athletic stance throughout.",
+    "steps": [
+      "Step 1: Hold one rope end in each hand with an overhand grip.",
+      "Step 2: Begin alternating waves: drive the right arm up and immediately bring it down while driving the left arm up.",
+      "Step 3: Keep the waves large and continuous — the rope should form visible undulations moving toward the anchor.",
+      "Step 4: Maintain an athletic stance throughout — do not let the torso collapse or the knees straighten.",
+      "Step 5: Continue for the prescribed duration at maximum sustainable effort."
+    ],
+    "breathing_instructions": "Breathe continuously at a rhythm matching the work rate. Do not hold breath.",
+    "common_mistakes": [
+      "Standing up too tall — the athletic stance with hips back keeps the core engaged",
+      "Letting the waves die — maintain large, powerful waves throughout",
+      "Only moving from the elbows — the motion should initiate from the shoulders"
+    ],
+    "safety_considerations": [
+      "High demand on the shoulders and forearms — adequate warm-up required.",
+      "Build interval duration progressively — do not start at full intensity with long intervals."
+    ],
+    "range_of_motion_guidance": "Large amplitude waves — full shoulder range. Rope must reach the anchor on each wave.",
+    "tempo_recommendations": "Typically performed for 20–40 second intervals with equal rest. 5–8 rounds.",
+    "coaching_cues": [
+      "Athletic stance — stay low",
+      "Big waves — full range",
+      "Drive from the shoulder — not just the elbow"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 5, "max_sets": 8}
+    ],
+    "rest_periods": {"endurance": 40},
+    "training_goals": ["endurance", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "conditioning", "upper-body", "cardio", "battle-ropes"]
+  }
+}

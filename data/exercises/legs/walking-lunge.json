@@ -1,0 +1,146 @@
+{
+  "exercise_id": "d4e5f6a7-0008-4000-8004-000000000008",
+  "slug": "walking-lunge",
+  "name": "Walking Lunge",
+  "alternative_names": [
+    "Dumbbell Walking Lunge",
+    "Bodyweight Walking Lunge"
+  ],
+  "description": "The walking lunge is a unilateral lower body exercise that trains the quadriceps, glutes, and hamstrings in a dynamic stepping pattern. By stepping forward and alternating legs, it trains single-leg strength and balance while requiring the muscles of the hip and knee to work through full range of motion.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "lunge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "lunge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "execution": {
+    "starting_position": "Stand tall with feet together and core braced. If using dumbbells, hold one in each hand at the sides.",
+    "setup_instructions": "Ensure adequate floor space to walk several meters. Bodyweight is recommended before adding load.",
+    "steps": [
+      "Step forward with one leg, landing heel first.",
+      "Lower the rear knee toward the floor until the front thigh is roughly parallel to the floor.",
+      "Drive through the front heel to bring the rear foot forward and step into the next lunge on the other leg.",
+      "Continue alternating legs for the prescribed distance or rep count."
+    ],
+    "breathing_instructions": "Exhale as you push off the front foot. Inhale as you step forward.",
+    "common_mistakes": [
+      "Front knee caving inward \u2014 push the knee out in line with the toes",
+      "Leaning excessively forward with the torso",
+      "Taking too short a stride, forcing the knee too far over the toes"
+    ],
+    "safety_considerations": [
+      "If knee pain is present, reduce range of motion or switch to a split squat"
+    ],
+    "range_of_motion_guidance": "Front thigh parallel to floor or lower. Rear knee just above or touching the floor.",
+    "tempo_recommendations": "Controlled \u2014 1-2 seconds per rep",
+    "coaching_cues": [
+      "Long stride \u2014 your shin on the front leg should be close to vertical",
+      "Tall torso throughout \u2014 do not let your upper body collapse forward"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 16
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 16,
+        "max_reps": 30
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "lunge",
+      "unilateral",
+      "dumbbell"
+    ]
+  }
+}

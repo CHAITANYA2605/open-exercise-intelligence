@@ -1,0 +1,62 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50035",
+  "slug": "monster-walks-forefeet",
+  "name": "Monster Walks on Forefeet",
+  "alternative_names": ["Tiptoe Monster Walks", "Elevated Monster Walk Band"],
+  "description": "A monster walk variation performed on the balls of the feet (tiptoe position) while maintaining a mini band resistance above the knees. Rising onto the forefeet during the lateral walk adds a continuous calf and ankle stability demand to the standard gluteus medius activation of monster walks, creating a combined lower limb rehabilitation stimulus. This variation is used in advanced ankle rehabilitation, calf strengthening, and hip-ankle integration programs.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "gait",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"},
+      {"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}
+    ],
+    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place a mini band loop above the knees. Rise onto the balls of both feet. Assume a quarter-squat position with hips pushed back slightly, feet hip-width apart.",
+    "setup_instructions": "Ensure adequate space for 10-12 lateral steps in each direction. Begin with a lighter band to master the balance before adding resistance.",
+    "steps": [
+      "Step 1: Rise onto the forefeet with the band above the knees and maintain this elevated position throughout.",
+      "Step 2: Take a lateral step to the right, keeping the toes forward and the band taut.",
+      "Step 3: Bring the left foot partially in (maintaining some width) to keep band tension.",
+      "Step 4: Continue walking laterally for the prescribed steps, then reverse direction. The forefeet stay elevated throughout."
+    ],
+    "breathing_instructions": "Breathe continuously. The sustained tiptoe position is demanding — do not hold the breath.",
+    "common_mistakes": ["Lowering the heels during the walk — the forefoot elevation must be sustained throughout", "Letting the feet drift parallel or together, losing band tension", "Excessive forward lean — maintain an upright torso"],
+    "safety_considerations": ["If ankle stability is compromised, begin with standard monster walks before this elevated variation", "Perform near a wall for safety during initial attempts"],
+    "range_of_motion_guidance": "Lateral step width should maintain band tension without forcing knee valgus. Stay on the forefeet throughout.",
+    "tempo_recommendations": "1 step per 1-1.5 seconds. Controlled — not rushing.",
+    "coaching_cues": ["Heels never touch the floor — stay on the balls of the feet the whole time", "Keep toes pointing forward — not outward", "Feel both the outer hip and the calf working simultaneously"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 10, "max_reps": 20}],
+    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 3}],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glutes", "calves", "rehabilitation", "band", "lateral"]
+  }
+}

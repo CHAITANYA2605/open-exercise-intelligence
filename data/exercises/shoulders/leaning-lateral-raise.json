@@ -1,0 +1,68 @@
+{
+  "exercise_id": "sh010024-f3a2-4c1e-9b8d-7e6f5a4c3c05",
+  "slug": "leaning-lateral-raise",
+  "name": "Leaning Dumbbell Lateral Raise",
+  "alternative_names": ["Inclined Lateral Raise", "Side-Leaning Lateral Raise"],
+  "description": "The leaning lateral raise is performed by holding a fixed support with one hand and leaning the body away, then raising a dumbbell with the free arm in a lateral arc. The lateral lean places the medial deltoid under a greater stretch at the bottom position and creates a more consistent resistance profile throughout the range of motion compared to a vertical stance. This enhanced stretch at the bottom makes it one of the most effective dumbbell lateral raise variations for medial deltoid hypertrophy.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "lateral-raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand beside an upright support (rack post, cable column). Grip the support with the inside hand. Lean the body away from the support, creating a straight angled line from feet to head. Hold a dumbbell in the outside hand with arm hanging down.",
+    "setup_instructions": "The lean angle determines the bottom stretch — a greater lean creates a greater stretch. Begin with a moderate lean of 15-20 degrees.",
+    "steps": [
+      "Step 1: Hold the support, lean away, dumbbell at the side.",
+      "Step 2: Raise the dumbbell laterally in an arc from the hanging position.",
+      "Step 3: Raise until the arm is parallel to the floor.",
+      "Step 4: Lower slowly under control, letting the dumbbell hang for a full stretch.",
+      "Step 5: Complete all reps, switch sides."
+    ],
+    "breathing_instructions": "Exhale on the raise, inhale on the lowering.",
+    "common_mistakes": [
+      "Not using the full hang at the bottom — the stretch is a key advantage of this variation",
+      "Excessive trap shrug at the top"
+    ],
+    "safety_considerations": ["Ensure the fixed support is stable before leaning"],
+    "range_of_motion_guidance": "Full hang at the bottom (enhanced stretch position), raise to shoulder height.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Let it hang fully at the bottom", "Raise from the elbow, not the wrist", "Feel the stretch — that's the point"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "lateral-raise", "dumbbell", "unilateral", "stretch"]
+  }
+}

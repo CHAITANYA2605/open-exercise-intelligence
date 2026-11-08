@@ -1,0 +1,84 @@
+{
+  "exercise_id": "3f3b6c72-f91c-46e7-af82-8bdc97d82b9b",
+  "slug": "bent-over-row-snatch-grip",
+  "name": "Bent-Over Row with Snatch Grip",
+  "alternative_names": ["Snatch Grip Barbell Row", "Wide Grip Bent-Over Row"],
+  "description": "The snatch-grip bent-over row uses an extra-wide grip (wider than the standard clean-grip row) that places the shoulder blades at maximum abduction at the bottom of the movement, allowing greater scapular excursion and therefore a fuller contraction of the middle and lower trapezius on each rep. The wide grip also reduces elbow flexion range, shifting more emphasis to the rhomboids and trapezius relative to the biceps.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet hip-width apart. Grip the barbell in a snatch-width grip (roughly 1.5 times shoulder width, or use the bar's snatch-grip markings). Hinge to 45-70 degrees, arms extended.",
+    "setup_instructions": "The snatch grip on most bars places the hands just inside or at the outer knurling rings. Use straps if grip limits training volume.",
+    "steps": [
+      "Step 1: Begin hinged with the wide-grip barbell hanging.",
+      "Step 2: Row the bar toward the lower abdomen, driving the elbows out wide.",
+      "Step 3: At peak, hold 1 second with shoulder blades fully retracted.",
+      "Step 4: Lower under control — feel the shoulder blades protract fully at the bottom.",
+      "Step 5: Repeat."
+    ],
+    "breathing_instructions": "Exhale on the row. Inhale returning.",
+    "common_mistakes": [
+      "Elbows tracking close to the body — the wide grip requires wide elbow tracking",
+      "Using a narrower grip than true snatch width — the wide grip is what differentiates this variation"
+    ],
+    "safety_considerations": [
+      "The snatch grip puts the wrists in greater extension — assess wrist mobility before loading",
+      "Moderate loads; this is a technique and upper-back variation, not a max-load lift"
+    ],
+    "range_of_motion_guidance": "Full scapular protraction at bottom to full retraction at top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Wide grip, wide elbows",
+      "Think 'shoulder blades apart at the bottom, together at the top'",
+      "Upright chest at peak — do not round"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "row", "snatch-grip", "wide-grip", "trapezius"]
+  }
+}

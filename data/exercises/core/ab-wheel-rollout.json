@@ -1,0 +1,122 @@
+{
+  "exercise_id": "f6a7b8c9-0006-4000-8006-000000000006",
+  "slug": "ab-wheel-rollout",
+  "name": "Ab Wheel Rollout",
+  "alternative_names": [
+    "Ab Roller Rollout",
+    "Kneeling Ab Rollout"
+  ],
+  "description": "The ab wheel rollout is an anti-extension core exercise in which the lifter rolls an ab wheel forward from a kneeling position and then uses core tension to pull it back. It is one of the most effective exercises for training the transverse abdominis and rectus abdominis under significant load, as the lever arm created by the extended arms is very long.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "anti-rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rollout",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "latissimus-dorsi"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000048-0000-4000-a000-000000000048"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kneel on the floor holding the ab wheel with both hands. Place the wheel directly in front of your knees. Core braced, back flat.",
+    "setup_instructions": "Beginners should use a limited range of motion (rolling forward 1\u20132 feet) before progressing to a full rollout. A mat under the knees is recommended.",
+    "steps": [
+      "Roll the wheel forward, extending the arms and hips while maintaining a rigid spine.",
+      "Go as far as your core can maintain a neutral spine \u2014 do not let the lower back sag.",
+      "Pull the wheel back toward the knees using core contraction and lats."
+    ],
+    "breathing_instructions": "Exhale during the rollout. Inhale on the return or hold breath with a brace.",
+    "common_mistakes": [
+      "Allowing the lower back to sag and hyperextend during the rollout",
+      "Starting at too long a range before the core is strong enough"
+    ],
+    "safety_considerations": [
+      "Lower back pain may result if the core is not strong enough \u2014 start with partial rollouts"
+    ],
+    "range_of_motion_guidance": "Roll out until the body is as extended as can be controlled, then return.",
+    "tempo_recommendations": "3-0-3-0",
+    "coaching_cues": [
+      "Brace like you are about to take a punch before each rep",
+      "Do not let your hips sag \u2014 your body is a rigid board from knees to shoulders"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "ab-wheel",
+      "anti-extension",
+      "compound"
+    ]
+  }
+}

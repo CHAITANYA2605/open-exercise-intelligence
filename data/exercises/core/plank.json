@@ -1,0 +1,129 @@
+{
+  "exercise_id": "f6a7b8c9-0001-4000-8006-000000000001",
+  "slug": "plank",
+  "name": "Plank",
+  "alternative_names": [
+    "Front Plank",
+    "Prone Plank",
+    "Forearm Plank"
+  ],
+  "description": "The plank is an isometric core stability exercise in which the body is held in a push-up position with the forearms or hands on the floor. It trains the transverse abdominis, rectus abdominis, and stabilizing muscles of the spine to resist extension, making it fundamental for core stability, lower back health, and athletic performance.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "plank",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "99999999-0002-4000-a000-000000000009",
+        "muscle_slug": "rectus-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a",
+        "muscle_slug": "external-oblique"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie face down. Place forearms on the floor with elbows directly below the shoulders. Push up onto the forearms and toes so the body forms a straight line from head to heels.",
+    "setup_instructions": "No equipment required. Use a mat for forearm comfort. Keep the body in one rigid line \u2014 no hip sag or piking.",
+    "steps": [
+      "Squeeze the glutes and brace the core by tightening the abdominals.",
+      "Maintain a neutral spine \u2014 the head, hips, and heels should form a straight line.",
+      "Hold the position for the prescribed duration while breathing normally."
+    ],
+    "breathing_instructions": "Breathe in and out normally throughout the hold \u2014 do not hold your breath.",
+    "common_mistakes": [
+      "Hips sagging downward \u2014 squeeze the glutes to prevent this",
+      "Hips raised too high, piking at the waist",
+      "Neck too low or raised \u2014 keep a neutral head position"
+    ],
+    "safety_considerations": [
+      "If lower back pain occurs, reduce duration or perform on knees"
+    ],
+    "range_of_motion_guidance": "Isometric hold. No joint movement \u2014 maintain the position for the target duration.",
+    "tempo_recommendations": "Hold for 20\u201360 seconds per set, progressing duration over time",
+    "coaching_cues": [
+      "Squeeze your glutes hard \u2014 this automatically protects the lower back",
+      "Think about pulling your elbows toward your feet \u2014 this activates the core further"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "endurance",
+        "min_reps": 3,
+        "max_reps": 5
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "endurance",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "endurance": 30
+    },
+    "training_goals": [
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "core",
+      "plank",
+      "isometric",
+      "bodyweight",
+      "beginner"
+    ]
+  }
+}

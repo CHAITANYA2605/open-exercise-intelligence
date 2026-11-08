@@ -1,0 +1,61 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50026",
+  "slug": "tibialis-wall-raises-hold",
+  "name": "Tibialis Wall Raise with Isometric Hold",
+  "alternative_names": ["Wall Tibialis Raise Hold", "Isometric Dorsiflexion Wall"],
+  "description": "A tibialis anterior strengthening exercise performed standing with the back against a wall and heels a short distance from the wall. The exerciser raises the toes and forefoot off the floor (dorsiflexion) and holds the top position for a prescribed duration. The isometric hold component greatly increases time-under-tension for the tibialis anterior compared to repetitive raises, making it effective for shin splint rehabilitation and tibialis anterior endurance development.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [{"muscle_id": "22222222-0005-4000-b000-000000000022", "muscle_slug": "tibialis-anterior"}],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with the back flat against a wall, feet approximately 30-40 cm from the wall, heels on the floor. The calves rest gently against the wall for proprioceptive feedback.",
+    "setup_instructions": "No equipment needed. Any wall works. Ensure the floor surface is non-slip.",
+    "steps": [
+      "Step 1: Stand with back against the wall, heels on the floor, feet slightly away from the wall.",
+      "Step 2: Raise both forefeet off the floor to maximum dorsiflexion — toes pointing toward the ceiling.",
+      "Step 3: Hold the dorsiflexed position for the prescribed duration (5-30 seconds), maintaining maximum height.",
+      "Step 4: Lower slowly to the floor. Rest briefly and repeat."
+    ],
+    "breathing_instructions": "Breathe continuously during the hold. Do not hold your breath.",
+    "common_mistakes": ["Partial dorsiflexion — not raising the toes to their full height", "Pushing through the toes rather than lifting the forefoot", "Leaning forward away from the wall — maintain full back-wall contact"],
+    "safety_considerations": ["If acute shin splints are present, begin with very short holds (3-5 seconds) and progress as symptoms allow", "Pain during the exercise above 3/10 suggests the load or duration should be reduced"],
+    "range_of_motion_guidance": "Full dorsiflexion — toes as high as possible from the floor.",
+    "tempo_recommendations": "2s raise, 5-30s isometric hold, 2s lower. Begin at 5s holds and progress to 30s.",
+    "coaching_cues": ["Lift the toes as high as possible toward the ceiling", "Feel the outer shin muscles working — that is the tibialis anterior", "Keep breathing during the hold — count seconds to track duration"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 5, "max_reps": 10},
+      {"goal": "strength", "min_reps": 3, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4},
+      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 30, "strength": 60},
+    "training_goals": ["endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tibialis-anterior", "shin", "rehabilitation", "isometric", "dorsiflexion"]
+  }
+}

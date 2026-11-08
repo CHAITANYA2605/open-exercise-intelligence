@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-0038-4000-a000-glut00000006",
+  "slug": "clamshell",
+  "name": "Clamshell",
+  "alternative_names": ["Hip External Rotation", "Side-Lying Clamshell"],
+  "description": "The clamshell is a side-lying hip external rotation exercise in which the feet remain stacked and together while the top knee is raised toward the ceiling, mimicking the opening of a clamshell. It isolates the gluteus medius with a focus on external rotation and abduction, making it one of the most prescribed exercises in physical therapy for hip, knee, and lower back rehabilitation. A resistance band above the knees increases the load.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "abduction",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0004-4000-a000-00000000000e", "muscle_slug": "gluteus-minimus"},
+      {"muscle_id": "11111111-0002-4000-b000-000000000011", "muscle_slug": "tensor-fasciae-latae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000013-0000-4000-a000-000000000013"],
+  "execution": {
+    "starting_position": "Lie on one side with hips stacked, knees bent to approximately 45°, and feet together. The head rests on the lower arm.",
+    "setup_instructions": "No equipment needed for bodyweight. Place a mini loop band just above the knees for added resistance.",
+    "steps": [
+      "Step 1: Lie on your side with hips stacked and knees bent at 45°. Keep the feet together throughout.",
+      "Step 2: Keeping the feet together, raise the top knee toward the ceiling by externally rotating the hip.",
+      "Step 3: Open until the top knee is as high as possible without letting the pelvis roll backward.",
+      "Step 4: Hold the peak position, then lower the knee back to the start under control.",
+      "Step 5: Complete all reps on one side then switch."
+    ],
+    "breathing_instructions": "Exhale as you open the knee. Inhale as you close.",
+    "common_mistakes": [
+      "Rolling the pelvis backward to increase range — the hip should rotate, not the spine",
+      "Raising the knee so high that the pelvis tilts — control the range",
+      "Using momentum instead of a slow, controlled movement"
+    ],
+    "safety_considerations": [
+      "Very low-risk exercise suitable for all fitness levels",
+      "Often prescribed in rehabilitation for IT band syndrome, patellofemoral pain, and hip pain"
+    ],
+    "range_of_motion_guidance": "Open the knee as far as possible without pelvic roll. Quality of rotation matters more than range.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Open like a clamshell — feet stay touching",
+      "Don't let the pelvis roll back — keep the hips stacked",
+      "Squeeze the glute at the top"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["fire-hydrant", "side-lying-abduction", "hip-abduction-machine"],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": ["fire-hydrant"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 15, "max_reps": 25},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 45, "endurance": 30},
+    "training_goals": ["hypertrophy", "rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute-medius", "abduction", "beginner", "rehab", "bodyweight", "physical-therapy"]
+  }
+}

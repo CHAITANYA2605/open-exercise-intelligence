@@ -1,0 +1,128 @@
+{
+  "exercise_id": "ex-tiger-be-h-up-4000-a000-855764280437",
+  "slug": "tiger-bend-push-up",
+  "name": "Tiger Bend Push-Up",
+  "alternative_names": [],
+  "description": "An advanced calisthenics movement that combines a forearm position with a tricep-driven press. Starting from a forearm plank, the lifter uses the triceps to press up to straight arms then lowers back. This builds tremendous tricep strength and shoulder stability.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      },
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Tiger Bend Push-Up in the appropriate position.",
+    "setup_instructions": "Prepare equipment and body position for Tiger Bend Push-Up.",
+    "steps": [
+      "Step 1: Start in forearm plank position, elbows under shoulders.",
+      "Step 2: Push through forearms and hands simultaneously to extend elbows.",
+      "Step 3: Finish in a standard push-up top position with arms extended.",
+      "Step 4: Lower back to forearm position with control."
+    ],
+    "breathing_instructions": "Exhale during the exertion phase, inhale during the return.",
+    "common_mistakes": [
+      "Dropping hips",
+      "Using momentum instead of tricep strength"
+    ],
+    "safety_considerations": [
+      "Keep joints aligned throughout the movement.",
+      "Use controlled weight appropriate for skill level."
+    ],
+    "range_of_motion_guidance": "Move through full range of motion without compromising joint integrity.",
+    "tempo_recommendations": "2-0-2 for hypertrophy, controlled throughout.",
+    "coaching_cues": [
+      "Drive hands into floor",
+      "Keep body rigid throughout"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

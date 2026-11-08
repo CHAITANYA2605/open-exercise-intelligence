@@ -1,0 +1,64 @@
+{
+  "exercise_id": "co000041-0000-4000-a000-000000000041",
+  "slug": "landmine-rotation",
+  "name": "Landmine Rotational Torso Twist",
+  "alternative_names": ["Landmine Twist", "Landmine Rotation", "Standing Landmine Rotation"],
+  "description": "The landmine rotational torso twist uses a barbell anchored in a landmine attachment to train transverse-plane rotation against a fixed arc of resistance, loading the obliques and hip rotators in a standing, sport-specific movement pattern. The arc of the barbell naturally guides the movement through a smooth path that is joint-friendly for the shoulder and spine compared to free-weight rotational exercises. The fixed end-range of the landmine also provides a natural loading curve that increases resistance toward the end of the range.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ],
+    "secondary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand facing the barbell end, feet shoulder-width apart. Cup the end of the barbell with both hands, interlaced, at chest height. Barbell is centered in front of the body.",
+    "setup_instructions": "Insert one end of the barbell into a landmine attachment or corner of a wall/rack with padding. Load the free end appropriately.",
+    "steps": [
+      "Step 1: Begin with the barbell end at chest center, arms slightly bent.",
+      "Step 2: Rotate the trunk and swing the barbell end to one side, keeping the arms relatively straight and pivoting the trailing foot.",
+      "Step 3: Allow the barbell to arc to roughly hip height on one side.",
+      "Step 4: Return through center and continue to the opposite side in a continuous pendulum motion.",
+      "Step 5: Drive the rotation from the hips and trunk — not the arms."
+    ],
+    "breathing_instructions": "Exhale forcefully at each end of the rotation. Inhale at center.",
+    "common_mistakes": [
+      "Using too much arm movement — this is a trunk rotation exercise",
+      "Using such heavy load that rotation range is restricted — keep load moderate"
+    ],
+    "safety_considerations": ["Pivot the rear foot to protect the knee during rotation"],
+    "range_of_motion_guidance": "Full comfortable rotation arc from side to side, maintaining spine length.",
+    "tempo_recommendations": "Moderate and rhythmic. 2-0-2-0 per side.",
+    "coaching_cues": ["Rotate from the hips, not the arms", "Keep the spine tall throughout the arc"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [{"goal": "strength", "min_sets": 3, "max_sets": 4}],
+    "rest_periods": {"strength": 60},
+    "training_goals": ["strength", "sport"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "rotation", "obliques", "landmine", "functional"]}
+}

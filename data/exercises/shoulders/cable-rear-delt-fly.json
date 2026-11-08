@@ -1,0 +1,84 @@
+{
+  "exercise_id": "e7f8a9b0-c1d2-4e3f-4a5b-c6d7e8f9a417",
+  "slug": "cable-rear-delt-fly",
+  "name": "Cable Rear Delt Fly",
+  "alternative_names": ["Cable Reverse Fly", "Cable Bent-Over Rear Delt Fly"],
+  "description": "The cable rear delt fly targets the posterior deltoid and upper back musculature by pulling a cable across the body in a horizontal abduction pattern. Using cables maintains tension throughout the full range of motion. This exercise is essential for shoulder health and postural balance, counteracting the forward shoulder position often caused by excessive pressing work.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "22222222-0004-4000-a000-000000000002", "muscle_slug": "rhomboid-minor"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ]
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012"],
+  "equipment_optional": ["eq000010-0000-4000-a000-000000000010"],
+  "execution": {
+    "starting_position": "Stand between two cable stacks set at face height with handles crossed (right hand to left cable, left hand to right cable). Hold handles with palms facing down. Lean forward slightly at the hip or stand upright.",
+    "setup_instructions": "Set both cable pulleys to face or upper-chest height. Cross the cables and grasp handles so each arm crosses to the opposite stack at the start.",
+    "steps": [
+      "Step 1: Cross-grip the cable handles (right to left pulley, left to right pulley) with arms crossed in front at face height.",
+      "Step 2: Begin with arms extended slightly in front and crossed, feeling tension in the cables.",
+      "Step 3: Exhale and pull the handles outward and back in a wide arc, extending the arms to either side.",
+      "Step 4: Squeeze the rear delts and rhomboids at the peak, then inhale and slowly return to the crossed start position."
+    ],
+    "breathing_instructions": "Exhale as you pull outward; inhale on the return.",
+    "common_mistakes": [
+      "Bending the elbows heavily during the movement, turning it into a row",
+      "Using body momentum by rocking — keep the torso still"
+    ],
+    "safety_considerations": [
+      "Keep a consistent, slight elbow bend — do not lock out the arms"
+    ],
+    "range_of_motion_guidance": "Pull until the arms are fully spread to either side with the rear delts maximally contracted.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Lead with your elbows behind you, not with your hands outward",
+      "Feel the squeeze behind your shoulder at the end of each rep"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["rear-delt-fly", "face-pull"],
+    "equipment_alternatives": ["rear-delt-fly"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "rear-delt", "shoulders", "isolation", "posture"]
+  }
+}

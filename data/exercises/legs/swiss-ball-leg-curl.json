@@ -1,0 +1,71 @@
+{
+  "exercise_id": "a1b2c3d4-0024-4000-a000-100000000024",
+  "slug": "swiss-ball-leg-curl",
+  "name": "Swiss Ball Leg Curl",
+  "alternative_names": ["Exercise Ball Leg Curl", "Stability Ball Leg Curl", "Ball Hamstring Curl"],
+  "description": "The Swiss ball leg curl is a bodyweight hamstring exercise performed with the heels resting on a stability ball. The lifter begins in a supine bridge position, then curls the ball toward the hips using knee flexion while maintaining a hip bridge. The instability of the ball increases glute and core activation compared to a lying machine curl. It is an accessible exercise requiring no gym equipment beyond a stability ball.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "dddddddd-0005-4000-a000-00000000000d", "muscle_slug": "semimembranosus"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000046-0000-4000-a000-000000000046"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on your back. Place both heels on a Swiss ball with legs extended. Arms by sides or slightly out for stability.",
+    "setup_instructions": "Inflate the Swiss ball to firm. Place it on a non-slip surface. Lie supine with heels on the ball.",
+    "steps": [
+      "Step 1: Drive the hips up into a bridge position, body forming a straight line from shoulders to heels.",
+      "Step 2: While maintaining the hip bridge, curl the ball toward your hips by bending the knees.",
+      "Step 3: Pull the ball until the knees are at approximately 90 degrees.",
+      "Step 4: Extend the knees to roll the ball back out, maintaining the hip bridge throughout."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on the extension.",
+    "common_mistakes": ["Hips dropping during the curl, losing the bridge position", "Ball rolling to one side due to uneven foot pressure", "Rushing the eccentric extension"],
+    "safety_considerations": ["Ensure the ball is on a non-slip surface", "Keep the core braced throughout to protect the lumbar spine"],
+    "range_of_motion_guidance": "Full leg extension at the start, curl to 90 degrees or more of knee flexion.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Hips stay high throughout", "Curl the ball with your heels", "Control the roll back out"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 12},
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hamstring", "stability-ball", "bodyweight", "home-gym"]
+  }
+}

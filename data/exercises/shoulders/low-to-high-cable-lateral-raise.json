@@ -1,0 +1,68 @@
+{
+  "exercise_id": "sh010037-f3a2-4c1e-9b8d-7e6f5a4c3c18",
+  "slug": "low-to-high-cable-lateral-raise",
+  "name": "Low-to-High Cable Lateral Raise",
+  "alternative_names": ["Low Pulley Lateral Raise", "Cable Side Raise Low"],
+  "description": "The low-to-high cable lateral raise uses a cable pulley set at the lowest position, pulling upward and outward in a lateral arc. Unlike dumbbells that have minimal tension at the bottom of the movement, the low cable provides meaningful tension at the starting position near the hip and maintains it throughout the raise. This creates a more consistent resistance profile and can be particularly effective for medial deltoid isolation and hypertrophy.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "lateral-raise",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand beside a cable machine with the pulley at the lowest setting. Grip the handle with the outside hand. The arm hangs at the side, cable pulling slightly toward the machine.",
+    "setup_instructions": "Stand at a slight distance from the machine to ensure the cable angle is consistent from the start. The handle should cross in front of the body slightly.",
+    "steps": [
+      "Step 1: Stand beside the machine, grip the low-pulley handle with the outside hand.",
+      "Step 2: Begin from the hanging position with the cable pulling slightly toward the machine.",
+      "Step 3: Raise the arm upward and outward in a lateral arc.",
+      "Step 4: Raise until the arm is at shoulder height.",
+      "Step 5: Lower under control, maintaining tension throughout. Complete all reps, switch sides."
+    ],
+    "breathing_instructions": "Exhale on the raise, inhale on the descent.",
+    "common_mistakes": [
+      "Standing too close to the cable machine, reducing the tension at the starting position",
+      "Raising the arm in front rather than directly to the side"
+    ],
+    "safety_considerations": ["Adjust your distance from the machine until the cable provides a natural lateral pull"],
+    "range_of_motion_guidance": "Hip level (hanging position) to shoulder height.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Constant tension from start to top", "Pull wide — not forward", "Slow on the way down"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "lateral-raise", "cable", "medial-deltoid", "unilateral"]
+  }
+}

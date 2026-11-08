@@ -1,0 +1,72 @@
+{
+  "exercise_id": "sh010035-f3a2-4c1e-9b8d-7e6f5a4c3c16",
+  "slug": "alternating-dumbbell-shoulder-press",
+  "name": "Alternating Dumbbell Shoulder Press",
+  "alternative_names": ["Alternating DB Press", "See-Saw Press"],
+  "description": "The alternating dumbbell shoulder press involves pressing one dumbbell overhead while the other remains at shoulder height, then alternating. The alternating pattern keeps one shoulder under constant work while the other rests briefly, extending the time under tension for each shoulder and creating an anti-lateral-flexion demand from the alternating load. It bridges the benefits of unilateral and bilateral pressing by maintaining both shoulder positions throughout the set.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit or stand with a dumbbell in each hand at shoulder height, palms facing forward or inward. Both dumbbells begin in the press-ready position.",
+    "setup_instructions": "Can be performed seated or standing. When standing, the core demand is higher. Count a rep as one press on each side.",
+    "steps": [
+      "Step 1: Begin with both dumbbells at shoulder height.",
+      "Step 2: Press the right dumbbell overhead while keeping the left at shoulder height.",
+      "Step 3: As the right descends, begin pressing the left overhead.",
+      "Step 4: Continue alternating in a smooth, see-saw rhythm.",
+      "Step 5: One rep = one press per side."
+    ],
+    "breathing_instructions": "Breathe naturally with the alternating rhythm — typically exhale on each press.",
+    "common_mistakes": [
+      "Leaning toward the pressing side — maintain an upright posture",
+      "Letting the resting arm drop below shoulder height between presses"
+    ],
+    "safety_considerations": ["If the torso sways significantly, reduce the load"],
+    "range_of_motion_guidance": "Shoulder height to full overhead lockout per arm.",
+    "tempo_recommendations": "2-0-2-0 per arm",
+    "coaching_cues": ["See-saw rhythm — smooth alternation", "Stay upright — no lean", "Full lockout each arm"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulders", "dumbbell", "alternating", "press", "core"]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_instructions": "Copy this file to community/submissions/<your-slug>.json, fill every field, then open a Pull Request. Remove all _comment fields before submitting. Fields marked REQUIRED must be present. Fields marked OPTIONAL may be omitted if not applicable.",
+
+  "exercise_id": "REQUIRED: Generate a UUID v4 — e.g. use `node -e \"console.log(crypto.randomUUID())\"`. Never reuse an existing ID.",
+  "slug": "REQUIRED: URL-safe lowercase identifier matching ^[a-z0-9]+(-[a-z0-9]+)*$. Example: 'barbell-romanian-deadlift'",
+  "name": "REQUIRED: Exercise name in Title Case. Example: 'Barbell Romanian Deadlift'",
+  "alternative_names": ["OPTIONAL: Other common names for this exercise", "Example: 'Stiff-Leg Deadlift'"],
+  "description": "REQUIRED: An original description of the exercise written by you. Minimum 50 characters. Must NOT be copied from any copyrighted source. Describe what the exercise is, how it works, and its primary training purpose.",
+
+  "category": "REQUIRED: One of: strength | cardio | flexibility | balance | plyometric | sport | rehabilitation",
+  "exercise_type": "REQUIRED: One of: compound | isolation | cardio | stretching | plyometric | calisthenics",
+  "difficulty_level": "REQUIRED: One of: beginner | intermediate | advanced | elite",
+  "movement_pattern": "REQUIRED: One of: push | pull | hinge | squat | carry | rotation | gait | isometric | other",
+  "laterality": "REQUIRED: One of: bilateral | unilateral_left | unilateral_right | unilateral_alternating | unilateral_either",
+  "status": "REQUIRED: Set to 'active' for new submissions",
+
+  "muscles": {
+    "_comment": "REQUIRED: At least one primary muscle. Use slug values from data/muscles/muscles.json.",
+    "primary": [
+      {
+        "muscle_slug": "REQUIRED: Slug from data/muscles/muscles.json. Example: 'hamstrings'",
+        "activation_level": "REQUIRED: One of: very_high | high | moderate | low"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_slug": "OPTIONAL: Secondary muscle slug",
+        "activation_level": "OPTIONAL: One of: moderate | low"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_slug": "OPTIONAL: Stabilizer muscle slug",
+        "activation_level": "low"
+      }
+    ]
+  },
+
+  "equipment": {
+    "_comment": "OPTIONAL: Slugs from data/equipment/equipment.json.",
+    "required": ["OPTIONAL: Equipment slug required to perform this exercise. Example: 'barbell'"],
+    "optional": ["OPTIONAL: Equipment slug that is optional. Example: 'weight-belt'"]
+  },
+
+  "execution": {
+    "_comment": "REQUIRED: Full execution details.",
+    "setup": "REQUIRED: Describe the starting position and equipment setup.",
+    "steps": [
+      "REQUIRED: Step 1 — describe the first movement",
+      "REQUIRED: Step 2 — describe the next phase",
+      "Add as many steps as needed to fully describe the movement"
+    ],
+    "coaching_cues": [
+      "OPTIONAL: A short, memorable coaching cue. Example: 'Keep your spine neutral throughout'",
+      "OPTIONAL: Another cue. Example: 'Drive through the heels, not the toes'"
+    ],
+    "common_mistakes": [
+      "OPTIONAL: Describe a common mistake. Example: 'Rounding the lower back under load'",
+      "OPTIONAL: Another common mistake"
+    ],
+    "range_of_motion_guidance": "OPTIONAL: Describe the ideal range of motion for this exercise.",
+    "breathing_pattern": "OPTIONAL: Describe the breathing pattern. Example: 'Inhale at the top, exhale during the exertion phase'"
+  },
+
+  "training_parameters": {
+    "_comment": "OPTIONAL: Recommended training parameters.",
+    "rep_ranges": {
+      "strength": "OPTIONAL: Example: '1–5'",
+      "hypertrophy": "OPTIONAL: Example: '6–12'",
+      "endurance": "OPTIONAL: Example: '15–25'"
+    },
+    "rest_periods": {
+      "strength_seconds": "OPTIONAL: Integer. Example: 180",
+      "hypertrophy_seconds": "OPTIONAL: Integer. Example: 90",
+      "endurance_seconds": "OPTIONAL: Integer. Example: 45"
+    },
+    "tempo": "OPTIONAL: Tempo in ECSC format. Example: '3-1-1-0' (eccentric-pause-concentric-pause)"
+  },
+
+  "safety": {
+    "_comment": "OPTIONAL but strongly encouraged.",
+    "contraindications": ["OPTIONAL: Medical condition or injury that makes this exercise inadvisable. Example: 'Active lumbar disc herniation'"],
+    "injury_risk_factors": ["OPTIONAL: Risk factor to be aware of. Example: 'Excessive forward lean increases shear force on the lumbar spine'"],
+    "prerequisites": ["OPTIONAL: Prerequisite skill or movement. Example: 'Basic hip hinge mechanics'"],
+    "modifications": [
+      {
+        "name": "OPTIONAL: Modification name. Example: 'Resistance Band Romanian Deadlift'",
+        "description": "OPTIONAL: Description of the modification and when to use it"
+      }
+    ]
+  },
+
+  "variants": {
+    "_comment": "OPTIONAL: Exercises that are progressions, regressions, or related.",
+    "progressions": ["OPTIONAL: Slug of a harder variation. Example: 'deficit-romanian-deadlift'"],
+    "regressions": ["OPTIONAL: Slug of an easier variation. Example: 'dumbbell-romanian-deadlift'"],
+    "substitutions": ["OPTIONAL: Slug of an equivalent exercise. Example: 'cable-pull-through'"]
+  },
+
+  "tags": ["OPTIONAL: Free-form tags for search. Example: 'posterior-chain'", "Example: 'hip-dominant'"],
+
+  "metadata": {
+    "_comment": "REQUIRED: Provenance and licensing information.",
+    "created_at": "REQUIRED: ISO 8601 timestamp. Example: '2026-11-08T00:00:00Z'",
+    "updated_at": "REQUIRED: Same as created_at for a new submission.",
+    "version": 1,
+    "source": "REQUIRED: Set to 'community_submission'",
+    "license": "REQUIRED: Set to 'CC0-1.0' — by submitting you release this work into the public domain",
+    "contributor": "REQUIRED: Your GitHub username or display name",
+    "references": ["OPTIONAL: URL or citation to a source that informed this submission (not copied — only used for reference)"]
+  }
+}

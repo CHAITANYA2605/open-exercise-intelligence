@@ -1,0 +1,80 @@
+{
+  "exercise_id": "ba010024-f3a2-4c1e-9b8d-7e6f5a4c3b47",
+  "slug": "snatch-grip-deadlift",
+  "name": "Snatch-Grip Deadlift",
+  "alternative_names": ["Wide-Grip Deadlift", "Olympic Deadlift"],
+  "description": "The snatch-grip deadlift uses the wide grip position typical of the Olympic snatch, requiring the bar to travel a greater distance and demanding superior upper back and trap strength to maintain position. The wide grip drops the hips significantly, increasing quad, upper back, and trap demands relative to conventional deadlift. It is widely used by Olympic weightlifters and strength athletes to develop postural strength and reinforce the snatch starting position.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0001-4000-a000-00000000000c", "muscle_slug": "quadriceps"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Grip the bar with a snatch-width grip — typically hands outside shoulder width, often indexed off the rings on the bar. The wide grip will lower your hips significantly. Maintain a proud chest and neutral spine.",
+    "setup_instructions": "Reduce load substantially from conventional deadlift maximum. Wrist straps are recommended due to the wide grip stress on the wrists.",
+    "steps": [
+      "Step 1: Set up with the snatch-width grip. The hips will be lower than in a conventional deadlift due to the wider hand position.",
+      "Step 2: Brace the core, retract the scapulae, and set the upper back tight.",
+      "Step 3: Drive through the floor as in a conventional deadlift, keeping the bar close to the body throughout.",
+      "Step 4: Maintain the upright torso position through the pull — this is more quad-dominant than a conventional deadlift.",
+      "Step 5: Lock out hips and knees at the top. Return under full control."
+    ],
+    "breathing_instructions": "Valsalva brace before each rep. Exhale at lockout.",
+    "common_mistakes": [
+      "Letting the bar drift away from the body — it must stay close due to the wide grip",
+      "Using too heavy a load, which collapses the upper back",
+      "Forgetting the bar travels further — treat it as a training tool at submaximal weights"
+    ],
+    "safety_considerations": [
+      "Wrist discomfort is common — use lifting straps",
+      "Requires significant upper back strength and flexibility — master conventional deadlift first"
+    ],
+    "range_of_motion_guidance": "Full hip extension at lockout. The wide grip means the bar hangs lower relative to the hips at the top.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": ["Bar stays in contact with the thighs", "Proud chest throughout", "Drive the hips forward at lockout"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 2, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 240, "hypertrophy": 150},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "deadlift", "olympic", "snatch", "advanced"]
+  }
+}

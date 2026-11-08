@@ -1,0 +1,90 @@
+{
+  "exercise_id": "sm000009-0000-4000-a000-000000000009",
+  "slug": "prowler-push-low",
+  "name": "Prowler Sled Push — Low Handles",
+  "alternative_names": ["Low Handle Prowler Push", "Sled Push Low"],
+  "description": "The low-handle prowler push requires the athlete to grip the lower posts of the sled (near ground level), producing a more horizontal body position that places greater demand on the quadriceps and hip extensors through deep knee bend angles. This position resembles a sprint start and trains explosive leg drive at angles highly specific to sprinting acceleration mechanics. Because the sled push involves no eccentric loading phase, it produces minimal muscle damage while still creating a significant training stimulus — making it an ideal tool for high-frequency conditioning or active recovery at light loads.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "sled",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Grip the low handles of the prowler sled with both hands. Lean the body forward at approximately 45–60° from vertical. Drive the feet into the floor behind the body in a sprint-start-like position.",
+    "setup_instructions": "Load the sled to the target weight. Ensure the pushing surface is astroturf, smooth concrete, or appropriate sled surface. Use smooth-soled shoes on turf sleds, training shoes on concrete.",
+    "steps": [
+      "Step 1: Grip the low handles and position the body in a forward-leaning, athletic push position with arms nearly straight.",
+      "Step 2: Drive one foot into the ground forcefully and push the sled forward, then immediately drive the other foot. Quick, alternating leg drive is the goal.",
+      "Step 3: Maintain a rigid body position from the hands through the core to the pushing leg — do not let the hips drop or rise excessively.",
+      "Step 4: Push hard for the prescribed distance, maintaining maximum effort throughout.",
+      "Step 5: At the end of the distance, slow the sled and release the handles."
+    ],
+    "breathing_instructions": "Breathe forcefully throughout. Do not hold the breath. Exhale in short, sharp bursts with each push step.",
+    "common_mistakes": [
+      "Letting the hips rise too high, reducing the low-handle advantage and shifting the load from quads to lower back",
+      "Taking too long, slow strides — fast, short steps generate more power and speed",
+      "Not maintaining a rigid upper body — the core must transmit force from legs to handles without buckling"
+    ],
+    "safety_considerations": [
+      "Ensure the surface is appropriate for the sled type — wrong surface combinations damage the sled and create uneven resistance",
+      "Check that weight plates are secured before pushing at speed"
+    ],
+    "range_of_motion_guidance": "Full leg extension on each push step. Distance per set: 20–40 metres for strength, 40–80 metres for conditioning.",
+    "tempo_recommendations": "Sprint: 20m maximum effort × 6–10 sets. Rest 60–120 seconds. Conditioning: 40m at moderate load × 4–6 sets. Rest 60–90 seconds.",
+    "coaching_cues": [
+      "Hips back, chest forward — stay horizontal",
+      "Drive the foot through the floor with every step",
+      "Push the earth away — do not lean on the sled"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 4},
+      {"goal": "endurance", "min_reps": 2, "max_reps": 6}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 8}
+    ],
+    "rest_periods": {"strength": 120, "endurance": 60},
+    "training_goals": ["strength", "power", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["strongman", "sled", "conditioning", "no-eccentric", "speed-strength"]
+  }
+}

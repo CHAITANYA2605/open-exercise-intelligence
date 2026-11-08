@@ -1,0 +1,81 @@
+{
+  "exercise_id": "c3d4e5f6-a7b8-4c9d-0e1f-a2b3c4d5e433",
+  "slug": "cable-hammer-curl",
+  "name": "Cable Hammer Curl",
+  "alternative_names": ["Rope Hammer Curl", "Cable Neutral Curl"],
+  "description": "The cable hammer curl is a biceps and brachialis exercise using a cable machine with a rope attachment, performed with a neutral (palms-facing) grip. The neutral grip activates the brachioradialis to a greater degree than a supinated grip and maintains constant cable tension throughout the arc, unlike dumbbells. This variation effectively builds the outer arm thickness and brachialis definition.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"},
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "66666666-0003-4000-a000-000000000006", "muscle_slug": "biceps-brachii-short-head"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": ["eq000012-0000-4000-a000-000000000012"],
+  "execution": {
+    "starting_position": "Attach a rope to the low pulley of a cable machine. Stand facing the machine, holding each end of the rope with a neutral grip (palms facing each other). Arms extended toward the cable.",
+    "setup_instructions": "Attach a rope to the low pulley. Stand close enough to the machine that the rope is taut at full arm extension with the hands near the thighs.",
+    "steps": [
+      "Step 1: Hold the rope ends with a neutral grip, arms fully extended toward the low pulley.",
+      "Step 2: Brace the core and keep the upper arms stationary at the sides.",
+      "Step 3: Exhale and curl the rope upward by bending the elbows, keeping the neutral grip throughout.",
+      "Step 4: Curl to full contraction, then inhale and lower back to full extension."
+    ],
+    "breathing_instructions": "Exhale on the curl; inhale on the return.",
+    "common_mistakes": [
+      "Letting the elbows drift forward — keep the upper arms pinned at the sides",
+      "Supinating the wrists at the top — maintain neutral grip"
+    ],
+    "safety_considerations": [
+      "Keep the wrists neutral and in line with the forearm — avoid wrist flexion or extension"
+    ],
+    "range_of_motion_guidance": "Full extension at the bottom; full curl at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Keep the pinkies up and grip the ends of the rope firmly",
+      "Elbows stay at your sides — they are the pivot point"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["hammer-curl"],
+    "equipment_alternatives": ["hammer-curl"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "biceps", "brachioradialis", "neutral-grip", "curl", "arms"]
+  }
+}

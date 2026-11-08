@@ -1,0 +1,94 @@
+{
+  "exercise_id": "a1b2c3d4-f010-4000-a000-000000000210",
+  "slug": "overhead-squat",
+  "name": "Overhead Squat",
+  "alternative_names": ["OHS", "Snatch Squat"],
+  "description": "The overhead squat is a full squat performed with the barbell held locked out overhead in a wide snatch grip, demanding exceptional shoulder, thoracic, and ankle mobility alongside significant core stability and quadriceps strength. It is used in Olympic weightlifting as the catch position of the snatch, and independently as a mobility assessment tool and accessory exercise. The overhead position creates a large moment arm at the shoulders and spine, making core bracing critical throughout the movement.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Bar held overhead in a wide snatch grip with elbows locked out. Feet shoulder-width or slightly wider, toes turned out slightly.",
+    "setup_instructions": "Press out on the bar actively during the entire movement. Warm up shoulders, thoracic spine, and ankles thoroughly. Begin with a PVC pipe or empty bar.",
+    "steps": [
+      "Step 1: Stand with bar overhead, locked out in a wide grip. Brace the core and press out against the bar.",
+      "Step 2: Initiate the squat by pushing the knees out in line with the toes and sitting back and down.",
+      "Step 3: Descend to full depth (hip crease below the knee) while maintaining bar position directly over the mid-foot.",
+      "Step 4: Keep the torso as upright as possible — the bar should remain over the base of support throughout.",
+      "Step 5: Drive through the full foot to stand, maintaining bar lockout throughout."
+    ],
+    "breathing_instructions": "Breathe in and brace before the descent. Exhale as you drive through the top of the squat.",
+    "common_mistakes": [
+      "Bar drifting forward during the descent",
+      "Insufficient ankle or thoracic mobility causing the torso to fold forward",
+      "Letting the elbows bend under load",
+      "Knees caving inward"
+    ],
+    "safety_considerations": [
+      "This is a highly demanding mobility exercise. Develop prerequisite shoulder, thoracic, and ankle mobility before loading.",
+      "If unable to perform with an empty bar, use a PVC pipe to drill the pattern.",
+      "Be prepared to drop the bar safely forward."
+    ],
+    "range_of_motion_guidance": "Full depth squat — hip crease below the knee. Bar remains overhead and locked out throughout.",
+    "tempo_recommendations": "3-1-1-0: 3 second descent, 1 second pause at bottom, 1 second drive up.",
+    "coaching_cues": [
+      "Press out on the bar — elbows locked",
+      "Bar over mid-foot — the whole way down",
+      "Knees out, chest up, sit between your legs"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 3, "max_reps": 8}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 240, "hypertrophy": 120},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["olympic", "weightlifting", "squat", "mobility", "advanced"]
+  }
+}

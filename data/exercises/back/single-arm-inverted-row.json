@@ -1,0 +1,87 @@
+{
+  "exercise_id": "5b2aef56-ed31-4785-9955-4d3ddf0c6003",
+  "slug": "single-arm-inverted-row",
+  "name": "Single-Arm Inverted Row",
+  "alternative_names": ["One-Arm Ring Row", "Unilateral Inverted Row"],
+  "description": "The single-arm inverted row is a unilateral horizontal pulling exercise performed with one hand on a bar or ring while the other arm rests at the side or is held in front. It demands significantly greater core anti-rotation strength than the bilateral version and allows for independent loading of each side to identify and address left-right strength imbalances.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000006-0000-4000-a000-000000000006"],
+  "equipment_optional": ["eq000042-0000-4000-a000-000000000042"],
+  "execution": {
+    "starting_position": "Grip one side of a bar or ring with one hand. Place the non-working hand across the chest or extended forward. Lean back into the starting position with the working arm extended.",
+    "setup_instructions": "Set bar/ring height to control difficulty. Begin with a steeper body angle; progress to more horizontal as strength improves.",
+    "steps": [
+      "Step 1: Begin in the angled dead-hang position on the working arm.",
+      "Step 2: Row the chest toward the hand, driving the working elbow behind the torso.",
+      "Step 3: Maintain strict anti-rotation in the torso — hips and shoulders stay square.",
+      "Step 4: Lower under control back to the starting position.",
+      "Step 5: Complete all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale on the pull. Inhale on the descent.",
+    "common_mistakes": [
+      "Rotating the torso toward the working side — maintain square shoulders",
+      "Using the free hand to assist — it must remain off the bar",
+      "Allowing the hips to drop"
+    ],
+    "safety_considerations": [
+      "Regress to bilateral inverted rows until sufficient unilateral strength exists",
+      "Progress slowly — single-arm pressing and pulling loads the shoulder asymmetrically"
+    ],
+    "range_of_motion_guidance": "Full arm extension to hand at or near the working-side chest.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": [
+      "Hips stay square — no rotation",
+      "Imagine a broom handle through your shoulders — keep it level",
+      "Full extension on every rep"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 5, "max_reps": 8 },
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 120, "hypertrophy": 90 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["unilateral", "inverted-row", "anti-rotation", "core"]
+  }
+}

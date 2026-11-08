@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-g011-4000-a000-000000000311",
+  "slug": "medicine-ball-slam",
+  "name": "Medicine Ball Slam",
+  "alternative_names": ["Ball Slam", "Med Ball Slam"],
+  "description": "The medicine ball slam is a full-body plyometric exercise in which a slam ball or medicine ball is raised overhead and then slammed forcefully into the ground using a whole-body hip hinge. The simultaneous extension and flexion chain, from full overhead reach to rapid hip hinge and forceful arm drive downward, trains the anterior chain's ability to rapidly generate and transfer force. The exercise is used for power development, conditioning, and as an outlet for high-intensity effort.",
+  "category": "plyometric",
+  "exercise_type": "plyometric",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "medicine-ball",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000045-0000-4000-a000-000000000045"],
+  "equipment_optional": ["eq000044-0000-4000-a000-000000000044"],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart, holding the slam ball with both hands at hip height.",
+    "setup_instructions": "Use a slam ball (non-bouncing) on a hard floor or rubber surface. Ensure adequate overhead and surrounding clearance.",
+    "steps": [
+      "Step 1: Hold the slam ball at hip height with both hands.",
+      "Step 2: Raise the ball overhead by extending the hips and reaching the arms fully overhead.",
+      "Step 3: Immediately initiate a powerful hip hinge and simultaneous arm drive downward.",
+      "Step 4: Slam the ball into the floor as forcefully as possible, hinging deeply at the hips and bending the knees slightly.",
+      "Step 5: Pick the ball up (or catch the rebound if using a medicine ball) and repeat."
+    ],
+    "breathing_instructions": "Exhale forcefully as the ball is slammed. Inhale on the way back up.",
+    "common_mistakes": [
+      "Only using the arms — the hip hinge and trunk flexion must generate most of the force",
+      "Releasing the ball at the wrong point — release as arms reach the bottom of the arc",
+      "Not reaching fully overhead at the top — shortens range and reduces force potential"
+    ],
+    "safety_considerations": [
+      "Use a slam ball (not a standard rubber medicine ball that may bounce back unpredictably at high force).",
+      "Ensure nobody is standing nearby — a ball can bounce sideways."
+    ],
+    "range_of_motion_guidance": "Full overhead extension. Full hip hinge at the bottom.",
+    "tempo_recommendations": "Maximum effort on each slam. 8–12 reps for conditioning. 5–8 for maximum power.",
+    "coaching_cues": [
+      "Reach high — then slam hard",
+      "Hinge at the hip — not just a crunch",
+      "Put everything into it"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "power", "min_reps": 5, "max_reps": 8},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "power", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"power": 120, "endurance": 60},
+    "training_goals": ["power", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plyometric", "power", "medicine-ball", "full-body"]
+  }
+}

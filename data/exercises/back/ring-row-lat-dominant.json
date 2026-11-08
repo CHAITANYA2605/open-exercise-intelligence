@@ -1,0 +1,84 @@
+{
+  "exercise_id": "a2d76e60-55bc-42ca-9599-0c01c4e32bb7",
+  "slug": "ring-row-lat-dominant",
+  "name": "Ring Row (Lat-Dominant)",
+  "alternative_names": ["Supinated Ring Row", "High Elbow Ring Row"],
+  "description": "The lat-dominant ring row modifies standard ring rowing by pulling with the elbows flared wide and high, directing the force through the latissimus dorsi more than the rhomboids or middle trapezius. The elbows track outward rather than into the torso, mimicking the lat engagement pattern of a vertical pull within a horizontal plane.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": ["eq000043-0000-4000-a000-000000000043"],
+  "execution": {
+    "starting_position": "Set rings at approximately waist height. Grip rings with palms facing each other. Lean back with arms extended, body in a plank at a moderate angle.",
+    "setup_instructions": "Lower the rings or walk feet forward to increase difficulty. The more horizontal the body position, the harder the exercise.",
+    "steps": [
+      "Step 1: Begin in the extended arm position, body rigid.",
+      "Step 2: Row by driving the elbows out to the sides and upward, rather than straight back.",
+      "Step 3: Pull until the hands reach the chest, with elbows elevated wide.",
+      "Step 4: Lower under control back to full arm extension.",
+      "Step 5: Focus on feeling the lat stretch and contract with each rep."
+    ],
+    "breathing_instructions": "Exhale rowing up. Inhale lowering.",
+    "common_mistakes": [
+      "Driving elbows straight back — this shifts emphasis to the rhomboids",
+      "Allowing hips to sag — maintain plank alignment"
+    ],
+    "safety_considerations": [
+      "Wide elbow rowing increases shoulder impingement risk in those with existing shoulder issues",
+      "Start with a steeper body angle (less horizontal) and progress gradually"
+    ],
+    "range_of_motion_guidance": "Full arm extension to hands at chest with elbows above torso line.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Elbows go wide and high, not behind you",
+      "Think of pulling the rings apart and up simultaneously",
+      "Squeeze the lats at the top — not the shoulder blades together"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "row", "lat-dominant", "calisthenics"]
+  }
+}

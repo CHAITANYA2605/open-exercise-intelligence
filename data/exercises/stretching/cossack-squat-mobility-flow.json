@@ -1,0 +1,67 @@
+{
+  "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50001",
+  "slug": "cossack-squat-mobility-flow",
+  "name": "Cossack Squat Mobility Flow",
+  "alternative_names": ["Cossack Squat Complex", "Lateral Squat Flow"],
+  "description": "A dynamic hip and ankle mobility flow based on the Cossack squat pattern. The exerciser moves continuously from side to side in deep lateral squats, spending time at the bottom of each position to load the hip into adduction and the ankle into dorsiflexion. This flowing version covers more ground than a static stretch and trains hip mobility through its full adduction and external rotation range simultaneously, making it valuable for dancers, martial artists, and anyone addressing hip mobility deficits.",
+  "category": "stretching",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "mobility",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet approximately 2-2.5 times shoulder-width apart and toes pointed slightly outward.",
+    "setup_instructions": "Wear flat-soled shoes or perform barefoot. Have a wall or pole available for balance assistance during learning.",
+    "steps": [
+      "Step 1: Shift your weight to the right side and bend the right knee deeply, lowering your hips toward the floor on the right side.",
+      "Step 2: At the bottom of the right Cossack squat, the left leg is fully extended with the left foot flat or heel up.",
+      "Step 3: Hold the right bottom position for 3-5 seconds.",
+      "Step 4: Transition through the center by rising slightly, then shift weight to the left and descend into the left Cossack squat. Hold 3-5 seconds. Continue flowing side to side."
+    ],
+    "breathing_instructions": "Exhale as you descend into each side. Breathe deeply at the bottom position. Inhale as you transition through center.",
+    "common_mistakes": ["Lifting the heel of the squatting side — work on ankle dorsiflexion if this occurs", "Leaning excessively forward with the torso", "Rushing through the transition without pausing at the bottom of each side"],
+    "safety_considerations": ["Avoid if you have acute hip labral tears or medial knee pain with deep adductor loading", "Begin with a reduced depth and wider foot position if hip or ankle mobility is limited"],
+    "range_of_motion_guidance": "Descend as deep as the hip and ankle allow while maintaining the heel on the floor.",
+    "tempo_recommendations": "3-5s hold at each bottom position. Slow controlled transitions through center.",
+    "coaching_cues": ["Keep the squatting heel down — this is the primary mobility goal", "Let the hip open at the bottom — feel the deep groin stretch", "Transition slowly — the value is at the bottom, not in the movement"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "mobility", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"mobility": 60},
+    "training_goals": ["mobility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hip-mobility", "adductor", "stretching", "ankle-mobility", "squat"]
+  }
+}

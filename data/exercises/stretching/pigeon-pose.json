@@ -1,0 +1,85 @@
+{
+  "exercise_id": "d7e8f9a0-b1c2-4d3e-4f5a-6b7c8d9e0f1a",
+  "slug": "pigeon-pose",
+  "name": "Pigeon Pose",
+  "alternative_names": ["Half Pigeon", "Hip External Rotator Stretch"],
+  "description": "Pigeon pose is a yoga-derived hip stretch that places the front leg in external rotation and the rear leg in extension, creating a simultaneous stretch for the hip external rotators and piriformis of the front leg and the hip flexors of the rear leg. It is widely regarded as one of the most effective static stretches for deep hip external rotator tightness and is commonly used by athletes and desk workers alike.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "lunge",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus" },
+      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+    ],
+    "secondary": [
+      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" },
+      { "muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a tabletop position on hands and knees. Slide one knee forward toward the opposite hand and lower the shin to the floor at an angle. The rear leg extends straight back. The front shin may be more or less perpendicular to the torso depending on flexibility.",
+    "setup_instructions": "Use a mat or padded surface. Those with tight hips may place a folded blanket or yoga block under the hip of the front leg for support.",
+    "steps": [
+      "Step 1: From a tabletop or downward dog position, bring one knee forward and place it behind the same-side wrist.",
+      "Step 2: Lower the shin and ankle to the floor, with the foot closer to or further from the groin depending on comfort.",
+      "Step 3: Extend the rear leg straight behind you, keeping the hip square to the floor.",
+      "Step 4: Lower the torso forward over the front shin, resting on forearms or forehead on the floor.",
+      "Step 5: Breathe deeply and hold 60–120 seconds. Gently push back up and switch sides."
+    ],
+    "breathing_instructions": "Breathe slowly and deeply. Allow each exhale to release tension in the hip.",
+    "common_mistakes": [
+      "Letting the hip of the front leg collapse to the floor excessively, reducing the stretch",
+      "Front shin perpendicular to the torso when hip flexibility does not allow it — the ankle should be closer to the groin initially",
+      "Collapsing the torso to one side rather than squaring the hips"
+    ],
+    "safety_considerations": [
+      "Avoid if there is knee pain or medial knee discomfort — consider using the figure-four stretch on the back as an alternative",
+      "Ensure the knee is not being torqued — the stretch sensation should be in the hip, not the knee"
+    ],
+    "range_of_motion_guidance": "The front shin should be at the angle the hip allows — do not force a wider angle. Hold comfortably in the deepest position achievable without knee discomfort.",
+    "tempo_recommendations": "Hold 60–120 seconds per side. 2–3 rounds.",
+    "coaching_cues": [
+      "Press both hips equally toward the floor",
+      "If the front hip is floating, place a prop underneath it",
+      "Melt into the floor — do not fight the sensation"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+    ],
+    "rest_periods": { "mobility": 15 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hip", "stretch", "glutes", "yoga", "mobility", "external-rotation"]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "exercise_id": "ca000008-0000-4000-a000-000000000008",
+  "slug": "jump-rope-steady",
+  "name": "Jump Rope — Steady State",
+  "alternative_names": ["Skipping Rope", "Jump Rope Cardio", "Skipping"],
+  "description": "Steady-state jump rope is a continuous rhythmic cardiovascular exercise that develops coordination, calf strength, and aerobic capacity simultaneously. The repetitive small-amplitude jumps demand rapid and repeated plantarflexion from the gastrocnemius and soleus, while the wrist rotation engages the forearms and the rhythm demands precise coordination between upper and lower body. Jump rope is one of the most calorie-dense and equipment-minimal forms of cardiovascular training available, burning approximately 10–16 calories per minute depending on pace and bodyweight.",
+  "category": "cardio",
+  "exercise_type": "cardio",
+  "difficulty_level": "beginner",
+  "movement_pattern": "gait",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "cardio",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"},
+      {"muscle_id": "22222222-0003-4000-b000-000000000022", "muscle_slug": "gastrocnemius-lateral"},
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet together on a flat, non-slip surface. Hold the rope handles at hip width, with the rope hanging behind the heels. Stand tall with a slight bend in the knees.",
+    "setup_instructions": "Size the rope correctly: step on the middle of the rope and the handles should reach armpit height. Use a jump mat or sprung floor to reduce impact. Wear supportive footwear.",
+    "steps": [
+      "Step 1: Hold one handle in each hand with the rope hanging behind. Swing the rope overhead and begin turning the wrists in small circles — the wrists, not the arms, drive the rotation.",
+      "Step 2: As the rope sweeps under the feet, jump just high enough to clear it — 1–2 inches off the ground.",
+      "Step 3: Land softly on the balls of the feet with knees slightly bent. Do not land flat-footed.",
+      "Step 4: Maintain a consistent rhythm. Keep the elbows close to the body and the rope motion driven by wrist rotation.",
+      "Step 5: Continue for the target duration, starting with 30–60 second bouts if new to jump rope."
+    ],
+    "breathing_instructions": "Breathe rhythmically throughout. Nasal breathing at moderate intensity helps regulate pace. At higher intensities, breathe through both nose and mouth.",
+    "common_mistakes": [
+      "Using large arm swings to turn the rope instead of small wrist rotations — this wastes energy and disrupts rhythm",
+      "Jumping too high, which is exhausting and unnecessary",
+      "Landing heavily on the heels, increasing joint impact"
+    ],
+    "safety_considerations": [
+      "Jump on a forgiving surface — avoid concrete without a mat",
+      "Beginners should start with short intervals (30–60 seconds) to allow calf adaptation before longer steady-state sessions"
+    ],
+    "range_of_motion_guidance": "Jump height should be just enough to clear the rope — 2–3 cm off the ground. Feet stay close together. Wrist circles are small and fast.",
+    "tempo_recommendations": "Beginner: 30 seconds on / 30 seconds off × 10. Intermediate steady-state: 5–10 minutes continuous. Advanced: 20–30 minutes continuous at 120–140 RPM.",
+    "coaching_cues": [
+      "Turn with the wrists, not the arms",
+      "Stay on the balls of your feet",
+      "Think light — imagine the floor is hot"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 1, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 1, "max_sets": 10}
+    ],
+    "rest_periods": {"endurance": 30},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cardio", "jump-rope", "calves", "coordination", "minimal-equipment"]
+  }
+}

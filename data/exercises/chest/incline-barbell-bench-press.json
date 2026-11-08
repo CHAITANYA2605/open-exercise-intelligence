@@ -1,0 +1,158 @@
+{
+  "exercise_id": "a1b2c3d4-0003-4000-8001-000000000003",
+  "slug": "incline-barbell-bench-press",
+  "name": "Incline Barbell Bench Press",
+  "alternative_names": [
+    "Incline Bench Press"
+  ],
+  "description": "The incline barbell bench press is performed on a bench set to 30\u201345 degrees, shifting emphasis toward the clavicular (upper) head of the pectoralis major and the anterior deltoid. It is a staple exercise for developing the upper chest and creating a fuller, more complete pectoral appearance.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0009-4000-a000-000000000002",
+        "muscle_slug": "subscapularis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "execution": {
+    "starting_position": "Set an adjustable bench to 30\u201345 degrees and position it inside a rack. Lie back with eyes under the bar, shoulder blades retracted, and feet flat on the floor. Grip the bar slightly wider than shoulder width.",
+    "setup_instructions": "Set bench to 30\u201345 degrees \u2014 higher angles increase anterior deltoid involvement at the expense of pectoral activation. Position the barbell in the rack so it unracks with arms nearly extended.",
+    "steps": [
+      "Unrack the bar and position it directly over your upper chest with arms extended.",
+      "Lower the bar under control to your upper chest, keeping elbows at about 60\u201375 degrees from your torso.",
+      "Touch the bar lightly to your upper chest without losing upper back tension.",
+      "Press the bar back to the starting position, exhaling as you push."
+    ],
+    "breathing_instructions": "Inhale and brace before the descent. Exhale on the concentric press.",
+    "common_mistakes": [
+      "Setting the bench too steep (above 45 degrees), turning the exercise into a shoulder press",
+      "Letting the bar drift down to the lower chest \u2014 keep it at the clavicular region",
+      "Losing upper back tightness as the weight gets heavy"
+    ],
+    "safety_considerations": [
+      "Use a spotter or set safety bars in the rack",
+      "A 30-degree incline is generally safer for the shoulder than 45 degrees"
+    ],
+    "range_of_motion_guidance": "Lower the bar until it touches the upper chest. Press to full extension without hyperextending the elbows.",
+    "tempo_recommendations": "2-1-1-0",
+    "coaching_cues": [
+      "Think about pressing the bar up and slightly back toward the rack",
+      "Keep the upper back welded to the bench throughout the set"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 6
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "strength"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "upper-chest",
+      "barbell",
+      "incline"
+    ]
+  }
+}

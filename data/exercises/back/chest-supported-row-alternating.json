@@ -1,0 +1,82 @@
+{
+  "exercise_id": "2bad50f0-3681-46c8-910b-a82a94d90370",
+  "slug": "chest-supported-row-alternating",
+  "name": "Chest-Supported Row (Alternating Arms)",
+  "alternative_names": ["Alternating Incline Dumbbell Row", "Alternating Chest-Supported Dumbbell Row"],
+  "description": "The alternating chest-supported row performs each arm separately on an incline bench, allowing the non-working arm to hold at peak contraction while the other arm descends and returns. This creates a unique combination of isometric and dynamic loading within a single set, increasing total upper back time under tension while maintaining strict torso support.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie prone on an incline bench set to 30-45 degrees. Hold a dumbbell in each hand, arms hanging down.",
+    "setup_instructions": "Set the incline bench so that the chest is fully supported throughout the movement. Use a weight that allows clean alternating reps.",
+    "steps": [
+      "Step 1: Row both dumbbells to the top position simultaneously to start.",
+      "Step 2: Hold the left dumbbell at peak contraction.",
+      "Step 3: Lower the right dumbbell to full extension while holding the left.",
+      "Step 4: Row the right dumbbell back to the top.",
+      "Step 5: Hold right at top; lower left; repeat the alternating pattern."
+    ],
+    "breathing_instructions": "Breathe continuously — do not hold breath for the entire set.",
+    "common_mistakes": [
+      "Not actually holding at peak — both arms should not move simultaneously",
+      "Losing scapular retraction during the hold phase"
+    ],
+    "safety_considerations": [
+      "The chest-supported position eliminates lower back stress — suitable for lower back pain sufferers",
+      "Keep the head in a neutral position — do not crane the neck"
+    ],
+    "range_of_motion_guidance": "Full arm extension to elbows behind torso on each arm.",
+    "tempo_recommendations": "2-2 hold-3-0 per arm cycle",
+    "coaching_cues": [
+      "One arm holds while the other works",
+      "Keep both shoulder blades retracted throughout",
+      "Full stretch on every descent"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 90 },
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest-supported", "row", "alternating", "dumbbell", "hypertrophy"]
+  }
+}

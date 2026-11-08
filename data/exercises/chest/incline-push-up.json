@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4a7b-8c9d-e0f1a2b3c401",
+  "slug": "incline-push-up",
+  "name": "Incline Push-Up",
+  "alternative_names": ["Elevated Push-Up"],
+  "description": "The incline push-up is a modified push-up performed with the hands on an elevated surface such as a bench, box, or step. Elevating the hands shifts the loading emphasis toward the lower (sternal) portion of the pectoralis major and reduces the total bodyweight lifted, making this an accessible entry point for beginners building pressing strength.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000015-0000-4000-a000-000000000015"],
+  "execution": {
+    "starting_position": "Place both hands on a bench or elevated surface slightly wider than shoulder-width apart. Walk your feet back until your body forms a straight diagonal line from head to heels, with arms fully extended.",
+    "setup_instructions": "Choose a surface height that matches your current strength level — higher elevation means easier. Ensure the surface is stable and will not slide.",
+    "steps": [
+      "Step 1: Position hands on the elevated surface slightly wider than shoulder-width, fingers pointing forward.",
+      "Step 2: Walk feet back to form a straight plank line from head to heels. Brace the core.",
+      "Step 3: Inhale and lower the chest toward the surface by bending the elbows, keeping them at roughly 45 degrees from the torso.",
+      "Step 4: Pause when the chest is an inch from the surface, then exhale and press back to the starting position."
+    ],
+    "breathing_instructions": "Inhale as you lower toward the surface; exhale as you push back up.",
+    "common_mistakes": [
+      "Allowing the hips to sag or pike — maintain a rigid plank throughout",
+      "Flaring the elbows out to 90 degrees, which stresses the shoulder joint"
+    ],
+    "safety_considerations": [
+      "Keep wrists stacked directly under the shoulders to minimize wrist stress"
+    ],
+    "range_of_motion_guidance": "Lower until the chest nearly touches the surface, then press fully back to arm extension without locking the elbows aggressively.",
+    "tempo_recommendations": "3-0-1-0 (3 seconds down, 1 second up)",
+    "coaching_cues": [
+      "Keep your body as stiff as a board from head to heels",
+      "Think about spreading the floor apart with your hands as you press up"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["push-up", "decline-push-up"],
+    "unilateral": [],
+    "bilateral": ["push-up"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 40}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 2, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy", "endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["push-up", "chest", "beginner", "bodyweight"]
+  }
+}

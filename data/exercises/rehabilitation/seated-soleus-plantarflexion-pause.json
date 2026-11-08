@@ -1,0 +1,61 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50027",
+  "slug": "seated-soleus-plantarflexion-pause",
+  "name": "Seated Soleus Raise with Pause",
+  "alternative_names": ["Paused Seated Calf Raise", "Soleus Isometric Pause Raise"],
+  "description": "A seated calf raise performed with a deliberate pause at the top of the movement (maximum plantarflexion), increasing time-under-tension for the soleus muscle. Because the seated position with bent knees isolates the soleus from the gastrocnemius, this exercise is particularly effective for Achilles tendinopathy rehabilitation at the soleus-tendon junction, distal Achilles insertional issues, and plantar fasciitis programs. The pause amplifies the therapeutic loading stimulus at the top.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [{"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}],
+    "secondary": [{"muscle_id": "22222222-0002-4000-b000-000000000022", "muscle_slug": "gastrocnemius-medial"}],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit on a bench or chair with knees bent at approximately 90 degrees. Place a dumbbell or weight plate on the thighs just above the knees. Position the balls of the feet on the edge of a small block or plate for full range.",
+    "setup_instructions": "The key setup requirement is a 90-degree (or greater) knee angle, which disables the gastrocnemius and isolates the soleus. Use a step or block under the forefeet for maximum range.",
+    "steps": [
+      "Step 1: Begin with heels lowered below the forefeet for the full stretch position.",
+      "Step 2: Press through the balls of the feet to rise to the full plantarflexed (tiptoe) position.",
+      "Step 3: PAUSE at the top for 2-3 seconds, maintaining maximum plantarflexion and squeezing the soleus.",
+      "Step 4: Lower slowly (3-4 seconds) back to the full stretch. Repeat."
+    ],
+    "breathing_instructions": "Exhale as you rise. Breathe during the top pause. Inhale slowly as you lower.",
+    "common_mistakes": ["Skipping the pause — the pause is what differentiates this from a standard seated calf raise", "Partial range at the top — rise to true maximum plantarflexion", "Rushing the eccentric — 3-4 second lowering is prescribed"],
+    "safety_considerations": ["For insertional Achilles tendinopathy, do not let the heel drop below the level of the forefoot — this can aggravate the insertion", "For mid-portion tendinopathy, full range is typically better tolerated and therapeutically indicated"],
+    "range_of_motion_guidance": "Full dorsiflexion to full plantarflexion. The pause occurs at maximum plantarflexion.",
+    "tempo_recommendations": "2s raise, 3s pause at top, 3s slow eccentric lower",
+    "coaching_cues": ["Feel the deep calf (soleus) hold the pause at the top — not the gastrocnemius (which is inactive at 90-degree knee angle)", "Squeeze the calf hard during the pause", "Let the heel drop for the full stretch — feel the tension through the lower calf and Achilles"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 2, "max_sets": 3},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 90, "endurance": 60},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["calves", "soleus", "Achilles", "rehabilitation", "paused"]
+  }
+}

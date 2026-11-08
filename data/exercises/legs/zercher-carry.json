@@ -1,0 +1,155 @@
+{
+  "exercise_id": "0ee2a4e6-51eb-45b7-969b-ef124879acfb",
+  "slug": "zercher-carry",
+  "name": "Zercher Carry",
+  "alternative_names": [
+    "Zercher Farmer Walk"
+  ],
+  "description": "A loaded carry performed with the barbell cradled in the elbow crooks in the Zercher position. The Zercher carry uniquely combines anterior core bracing, bicep and forearm endurance, and lower body locomotion, making it a comprehensive full-body conditioning and strength exercise.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "carry",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a",
+        "muscle_slug": "internal-oblique"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      },
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "execution": {
+    "starting_position": "Cradle a barbell in the elbow crooks with forearms parallel to the floor. Stand tall and walk.",
+    "setup_instructions": "Set a barbell at waist height in a rack. Cradle it in the elbow crooks, secure the grip, then step back to begin walking.",
+    "steps": [
+      "Step 1: Brace the core hard and stand tall with the bar cradled in the elbows.",
+      "Step 2: Walk forward for the prescribed distance with controlled steps.",
+      "Step 3: Keep the torso upright \u2014 do not allow excessive forward lean.",
+      "Step 4: At the end of the distance, carefully return the bar to the rack."
+    ],
+    "breathing_instructions": "Breathe steadily throughout the walk. Use short rhythmic breaths.",
+    "common_mistakes": [
+      "Allowing the torso to fold forward under the weight",
+      "Taking overly long strides that destabilize the carry"
+    ],
+    "safety_considerations": [
+      "The bar will press into the forearms \u2014 use padding if skin tenderness is an issue",
+      "Return the bar to the rack safely \u2014 do not drop it"
+    ],
+    "range_of_motion_guidance": "Walk for 10-30 meters or the prescribed distance while maintaining the Zercher position.",
+    "tempo_recommendations": "Continuous walking",
+    "coaching_cues": [
+      "Chest up, elbows forward",
+      "Walk tall and breathe"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "endurance": 45
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "core",
+      "carry",
+      "zercher",
+      "functional",
+      "strongman"
+    ]
+  }
+}

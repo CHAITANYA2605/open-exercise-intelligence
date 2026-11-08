@@ -1,0 +1,82 @@
+{
+  "exercise_id": "f6a7b8c9-d0e1-4234-f567-a89b01c23d18",
+  "slug": "band-resisted-dumbbell-bench-press",
+  "name": "Band-Resisted Dumbbell Bench Press",
+  "alternative_names": ["Dumbbell Bench Press with Bands", "Accommodating Resistance Dumbbell Press"],
+  "description": "A flat bench press variation where resistance bands are looped around the dumbbells and anchored under the bench legs, adding accommodating resistance that increases load through the lockout portion of the lift. This creates an ascending resistance curve that matches the strength curve of the pectoralis major and triceps, maximizing tension at the top where free weights become lighter.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015", "eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench. Loop a resistance band around each dumbbell and anchor the other end securely under the bench legs. Hold dumbbells at chest level, elbows at 45–75 degrees.",
+    "setup_instructions": "Use light-to-medium bands — the dumbbell weight plus band tension at lockout should be your working load. Secure bands under bench legs before lying down. Test band security before full sets.",
+    "steps": [
+      "Step 1: Lie on the bench with dumbbells at chest level. Feel the bands pulling the dumbbells downward with added force.",
+      "Step 2: Press dumbbells up and together toward the ceiling. Notice the resistance increases as you approach lockout.",
+      "Step 3: Fully extend arms at the top — this is where peak band tension occurs.",
+      "Step 4: Lower under full control. The band assistance on the way down helps deload the bottom position. Repeat."
+    ],
+    "breathing_instructions": "Inhale at the bottom, exhale forcefully through the press.",
+    "common_mistakes": [
+      "Using bands that are too heavy, overwhelming the dumbbell weight",
+      "Inadequate band anchor — bands must be stable throughout the set",
+      "Pressing without committing to full lockout, missing the high-tension zone"
+    ],
+    "safety_considerations": [
+      "Verify band anchors are secure before each set",
+      "Start with lighter bands to understand the resistance curve before adding more tension",
+      "Have a spotter when using significant band tension"
+    ],
+    "range_of_motion_guidance": "Full range from chest to full lockout. The lockout is intentional — this is where the bands provide maximum training stimulus.",
+    "tempo_recommendations": "2-1-2-1",
+    "coaching_cues": [
+      "Press hard all the way to lockout — the bands are testing you there",
+      "Control the negative — the bands will try to pull the dumbbells down faster than free weights would"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 6},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["dumbbell", "bands", "accommodating-resistance", "bench-press", "advanced"]
+  }
+}

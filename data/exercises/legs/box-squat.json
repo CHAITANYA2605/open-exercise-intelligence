@@ -1,0 +1,92 @@
+{
+  "exercise_id": "a1b2c3d4-0005-4000-a000-legs00000005",
+  "slug": "box-squat",
+  "name": "Box Squat",
+  "alternative_names": [],
+  "description": "The box squat involves sitting back onto a box or bench at the bottom of a squat movement before returning to standing. By sitting back to the box, the movement emphasizes hip-hinge mechanics and posterior chain engagement more than a standard back squat. The brief pause on the box eliminates momentum from the stretch-shortening reflex and teaches controlled descent with hip-dominant mechanics.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": ["eq000015-0000-4000-a000-000000000015"],
+  "execution": {
+    "starting_position": "Position a sturdy box or bench of appropriate height (parallel or just below parallel) behind you. Set up as for a back squat with the bar on the upper traps.",
+    "setup_instructions": "Choose a box height that positions your hips at or below parallel when seated. Stand close enough to the box that you will sit back onto it at the bottom without having to search for it.",
+    "steps": [
+      "Step 1: Unrack the bar and position yourself directly in front of the box. Feet wider than shoulder-width is common. Brace the core.",
+      "Step 2: Initiate the descent by sitting the hips back aggressively — more so than a standard back squat — while pushing the knees outward.",
+      "Step 3: Sit fully onto the box in a controlled manner. Pause completely, maintaining core tension and an upright spine.",
+      "Step 4: Drive forcefully through the entire foot — particularly the heel and midfoot — to stand back up. Do not lean forward excessively off the box.",
+      "Step 5: Exhale at the top and reset."
+    ],
+    "breathing_instructions": "Inhale and brace before descent. Hold through the pause and ascent. Exhale at the top.",
+    "common_mistakes": [
+      "Rocking forward on the box to build momentum instead of pausing with tension",
+      "Using a box that is too high, which prevents reaching proper depth",
+      "Placing feet too close together, reducing hip-back mechanics"
+    ],
+    "safety_considerations": [
+      "Ensure the box is stable and can support the weight of the lifter plus barbell",
+      "Do not use a wheeled box or any unstable surface"
+    ],
+    "range_of_motion_guidance": "Hips should reach the box when thighs are parallel to or below the floor.",
+    "tempo_recommendations": "3-2-X-0 (controlled descent, 2s pause on box, explosive concentric)",
+    "coaching_cues": [
+      "Sit back — don't just sit down",
+      "Stay tight on the box — don't relax",
+      "Push the floor away, not forward"
+    ]
+  },
+  "variants": {
+    "easier": ["barbell-squat"],
+    "harder": ["pause-squat"],
+    "unilateral": [],
+    "bilateral": ["barbell-squat"],
+    "equipment_alternatives": ["goblet-squat"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 2, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10},
+      {"goal": "endurance", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 240, "hypertrophy": 120, "endurance": 60},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["squat", "powerlifting", "glute"]
+  }
+}

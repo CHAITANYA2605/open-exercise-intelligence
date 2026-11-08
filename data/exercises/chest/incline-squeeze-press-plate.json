@@ -1,0 +1,75 @@
+{
+  "exercise_id": "d2e3f4a5-b6c7-4890-d123-e45f67a89b34",
+  "slug": "incline-squeeze-press-plate",
+  "name": "Incline Squeeze Press with Plate",
+  "alternative_names": ["Incline Plate Press Squeeze", "Plate Squeeze Press Incline"],
+  "description": "An incline pressing variation where both palms press against opposite sides of a weight plate, maintaining continuous adduction force throughout the movement. The incline angle targets the clavicular pectoralis major while the sustained lateral squeeze on the plate creates constant isometric adduction that significantly increases medial pectoral fiber activation.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000022-0000-4000-a000-000000000022", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on an incline bench (30–45 degrees). Hold a weight plate with both palms pressing inward against its flat sides. Begin with arms extended above the upper chest.",
+    "setup_instructions": "Select a weight plate appropriate for pressing — typically 10–25 kg. The plate should be held vertically with both palms on the faces. Lie on the incline bench.",
+    "steps": [
+      "Step 1: Begin with the plate held above the upper chest, arms extended. Squeeze the plate hard inward with both palms.",
+      "Step 2: Lower the plate toward the upper chest, maintaining maximum inward pressure.",
+      "Step 3: Touch the upper chest gently with the plate and press back up.",
+      "Step 4: At the top, maintain the squeeze and repeat. The squeeze never stops."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on press.",
+    "common_mistakes": [
+      "Relaxing the inward squeeze — the constant pressure is essential to the technique",
+      "Using a plate too heavy to hold with palm-to-face grip",
+      "Elbows flaring away — keep them pointing relatively forward due to the neutral grip"
+    ],
+    "safety_considerations": [
+      "Use a plate with smooth outer faces — textured plates can cause hand pain",
+      "Ensure a secure grip before pressing — the plate should feel firmly held between both palms"
+    ],
+    "range_of_motion_guidance": "Full range from upper chest to lockout. Squeeze maintained throughout.",
+    "tempo_recommendations": "3-1-2-1",
+    "coaching_cues": [
+      "Try to press your palms through the plate — the squeeze generates the chest tension",
+      "Think of crushing the plate: that internal force activates the medial pecs"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["plate", "incline", "squeeze", "press", "upper-chest", "adduction"]
+  }
+}

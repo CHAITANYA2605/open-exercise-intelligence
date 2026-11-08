@@ -1,0 +1,77 @@
+{
+  "exercise_id": "c7d8e9f0-a1b2-4345-c678-d90e12f34a39",
+  "slug": "cable-crossover-seated-bench",
+  "name": "Seated Bench Cable Crossover",
+  "alternative_names": ["Seated Cable Fly", "Bench-Seated Cable Crossover"],
+  "description": "A cable crossover performed while seated on a flat bench placed centrally between two cable stacks. The seated position eliminates leg drive and postural compensation, ensuring the movement is driven entirely by the pectoralis major and anterior deltoid. The bench also anchors the torso, allowing the arms to sweep fully without the torso swaying, which can improve mind-muscle connection and consistency.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "cable",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place a flat bench centered between two cable stacks. Set both pulleys to shoulder height when seated. Sit on the bench, hold one handle in each hand with arms extended to the sides.",
+    "setup_instructions": "Position the bench so the seat is at the exact midpoint between the two stacks. Adjust pulley height to shoulder level in the seated position. Sit tall with the spine neutral.",
+    "steps": [
+      "Step 1: Sit tall on the bench, arms extended to the sides at shoulder height, slight elbow bend.",
+      "Step 2: Bring both handles together in front of the chest in a sweeping arc.",
+      "Step 3: At the midpoint, hands cross slightly (crossover) and squeeze hard.",
+      "Step 4: Return under control, letting handles sweep back to the sides. Alternate which hand crosses on top each rep."
+    ],
+    "breathing_instructions": "Exhale on the crossover, inhale on the return.",
+    "common_mistakes": [
+      "Leaning forward during the movement — maintain an upright seated position throughout",
+      "Bending elbows too much — keep the slight, fixed bend throughout the arc",
+      "Bench placed off-center, creating uneven cable tension"
+    ],
+    "safety_considerations": [
+      "Ensure the bench is stable and not at risk of tipping",
+      "Keep the spine neutral — avoid rounding forward during the crossover"
+    ],
+    "range_of_motion_guidance": "Full sweep from arms extended to full crossover. The seated position and bench anchor point define the natural range.",
+    "tempo_recommendations": "2-1-2-1",
+    "coaching_cues": [
+      "Sit tall — imagine a string pulling you up from the crown of your head",
+      "Sweep from the chest — think of hugging a barrel"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "crossover", "seated", "isolation", "chest", "flye"]
+  }
+}

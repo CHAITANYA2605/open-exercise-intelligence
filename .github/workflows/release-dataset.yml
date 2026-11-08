@@ -1,0 +1,63 @@
+name: Release Dataset
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release version (e.g. 1.1.0)'
+        required: true
+        type: string
+      release_notes:
+        description: 'Short release notes (optional)'
+        required: false
+        default: ''
+
+jobs:
+  release:
+    name: Cut Dataset Release
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate dataset before release
+        run: node scripts/validate.js
+
+      - name: Run dataset health checks
+        run: node scripts/check-dataset.js
+
+      - name: Export release bundle
+        run: node scripts/admin/export-release.js --version ${{ inputs.version }}
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/oei-dataset.json data/oei-index.json data/dataset-version.json
+          git diff --cached --quiet || git commit -m "chore: release dataset v${{ inputs.version }}"
+
+      - name: Create GitHub release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          NOTES="Dataset release v${{ inputs.version }}"
+          if [ -n "${{ inputs.release_notes }}" ]; then
+            NOTES="${NOTES} — ${{ inputs.release_notes }}"
+          fi
+          gh release create "v${{ inputs.version }}" \
+            --title "Dataset v${{ inputs.version }}" \
+            --notes "${NOTES}" \
+            data/oei-dataset.json \
+            data/oei-index.json \
+            data/dataset-version.json

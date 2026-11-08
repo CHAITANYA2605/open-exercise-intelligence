@@ -1,0 +1,120 @@
+{
+  "exercise_id": "ex-incline--ress-4000-a000-197918323658",
+  "slug": "incline-dumbbell-tate-press",
+  "name": "Incline Dumbbell Tate Press",
+  "alternative_names": [],
+  "description": "The Tate press performed on an incline bench, shifting the angle of triceps recruitment. The incline creates a greater stretch position for the long head of the triceps. This variation challenges coordination and targets the triceps from a fresh angle.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000016-0000-4000-a000-000000000016"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Incline Dumbbell Tate Press in the appropriate position.",
+    "setup_instructions": "Prepare equipment and body position for Incline Dumbbell Tate Press.",
+    "steps": [
+      "Step 1: Set bench to 30-45 degree incline. Lie back holding dumbbells with elbows wide.",
+      "Step 2: Lower dumbbells in Tate arc toward upper chest with elbows flared.",
+      "Step 3: Lightly touch upper chest region at bottom of arc.",
+      "Step 4: Press back to straight arms through tricep drive."
+    ],
+    "breathing_instructions": "Exhale during the exertion phase, inhale during the return.",
+    "common_mistakes": [
+      "Closing elbows during the press",
+      "Bench angle too steep"
+    ],
+    "safety_considerations": [
+      "Keep joints aligned throughout the movement.",
+      "Use controlled weight appropriate for skill level."
+    ],
+    "range_of_motion_guidance": "Move through full range of motion without compromising joint integrity.",
+    "tempo_recommendations": "2-0-2 for hypertrophy, controlled throughout.",
+    "coaching_cues": [
+      "Elbows remain flared throughout",
+      "Adjust angle to feel long head stretch"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

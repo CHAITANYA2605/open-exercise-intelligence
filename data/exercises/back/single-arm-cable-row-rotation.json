@@ -1,0 +1,79 @@
+{
+  "exercise_id": "ba010015-f3a2-4c1e-9b8d-7e6f5a4c3b38",
+  "slug": "single-arm-cable-row-rotation",
+  "name": "Single-Arm Cable Row with Rotation",
+  "alternative_names": ["Rotational Cable Row", "Single-Arm Rotational Row"],
+  "description": "The single-arm cable row with rotation adds a deliberate thoracic rotation to the standard seated cable row. As the elbow pulls back, the working side of the torso rotates to follow, increasing the range of lat contraction and recruiting the obliques and spinal rotators. This variation more closely mimics sporting actions such as throwing and rowing and develops rotational power alongside back strength.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a single handle to a low cable pulley. Sit sideways or face the cable and grip the handle with one hand. The working arm should be fully extended toward the cable.",
+    "setup_instructions": "The cable can be performed seated on a bench or standing. The seated variation provides better base stability for learning the movement.",
+    "steps": [
+      "Step 1: Begin with the arm fully extended and the torso rotated slightly toward the cable.",
+      "Step 2: Initiate the row by retracting the scapula and pulling the elbow back.",
+      "Step 3: As the elbow passes the torso, allow the working-side shoulder to rotate back naturally.",
+      "Step 4: At the end, the elbow is behind the torso and the working shoulder is rotated back fully.",
+      "Step 5: Reverse the motion under control, allowing the torso to rotate forward as the arm extends."
+    ],
+    "breathing_instructions": "Exhale as you row and rotate, inhale as you return.",
+    "common_mistakes": [
+      "Rotating the hips instead of the thoracic spine",
+      "Using momentum from the rotation rather than muscle contraction",
+      "Not allowing enough rotation — treating it as a strict row"
+    ],
+    "safety_considerations": [
+      "Thoracic rotation is the target — lumbar rotation should be minimal",
+      "If lumbar discomfort is felt, reduce the rotation range"
+    ],
+    "range_of_motion_guidance": "Full arm extension with torso rotated forward at the start, arm fully rowed with torso rotated back at the finish.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Let your chest follow your elbow", "Rotate through the upper back, not the lower", "Full reach at the start, full retraction at the end"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 8, "max_reps": 12},
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 75},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "row", "cable", "rotation", "unilateral"]
+  }
+}

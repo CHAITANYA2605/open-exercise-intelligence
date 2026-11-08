@@ -1,0 +1,83 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a012-b34c56d78901",
+  "slug": "spoto-press",
+  "name": "Spoto Press",
+  "alternative_names": ["Paused Bench Press (Off-Chest)"],
+  "description": "The Spoto Press is a bench press variation where the bar is deliberately stopped one to two inches above the chest rather than touching it. This eliminates the elastic rebound from touching the chest, increasing time under tension at the most mechanically demanding point of the lift and building strength at the sticking point.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Lie on a flat bench under a racked barbell. Grip the bar slightly wider than shoulder-width. Unrack and hold the bar at arm's length above the chest.",
+    "setup_instructions": "Set the bench in a power rack. Position the bar above the lower chest. Retract and depress the shoulder blades firmly into the bench before unracking.",
+    "steps": [
+      "Step 1: Lower the barbell under control toward the lower chest.",
+      "Step 2: Stop the bar 1-2 inches above the chest without allowing it to rest or touch.",
+      "Step 3: Hold the pause for 1-2 seconds while maintaining full tension throughout the chest and arms.",
+      "Step 4: Drive the bar back to the starting position by pressing through the chest and triceps until elbows are fully extended."
+    ],
+    "breathing_instructions": "Inhale and brace the core before lowering. Hold the breath through the pause. Exhale as you press the bar back up.",
+    "common_mistakes": [
+      "Letting the bar drift down and briefly rest on the chest, losing the purpose of the variation",
+      "Relaxing tension during the pause instead of maintaining active muscle engagement",
+      "Using too much weight relative to full ROM bench press"
+    ],
+    "safety_considerations": [
+      "Use a power rack with safety bars set just below the sticking point",
+      "Start lighter than your full ROM bench press max until the movement pattern is established"
+    ],
+    "range_of_motion_guidance": "Full elbow extension at the top; stop 1-2 inches off the chest at the bottom. Do not allow the bar to touch or rest on the sternum.",
+    "tempo_recommendations": "3-2-1-0 (3s eccentric, 2s pause off-chest, 1s concentric)",
+    "coaching_cues": [
+      "Pretend the bar has a hot surface you cannot let touch your chest",
+      "Stay tight through the pause — do not relax",
+      "Drive the floor away with your feet to maintain leg drive and body position"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5},
+      {"goal": "hypertrophy", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 6},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 240, "hypertrophy": 120},
+    "training_goals": ["strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["powerlifting", "sticking-point", "paused-press"]
+  }
+}

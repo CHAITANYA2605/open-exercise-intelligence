@@ -1,0 +1,79 @@
+{
+  "exercise_id": "c1d2e3f4-a5b6-4789-c012-d34e56f78901",
+  "slug": "smith-machine-decline-bench-press",
+  "name": "Smith Machine Decline Bench Press",
+  "alternative_names": [],
+  "description": "The Smith Machine Decline Bench Press uses a decline angle (feet elevated above head) to target the sternal and lower fibers of the pectoralis major. The fixed bar path of the Smith machine provides stability and allows training without a spotter, making the decline angle more accessible than with a free barbell.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000006-0000-4000-a000-000000000006", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set an adjustable bench to a decline angle (feet 15-30 degrees higher than head). Secure feet under the ankle pads. Position bar at lower chest height in the Smith machine.",
+    "setup_instructions": "Lock ankle pads before lying back. Adjust the Smith machine bar height so it aligns with the lower sternum when the bench is at the decline angle chosen.",
+    "steps": [
+      "Step 1: Unrack by rotating the bar off the hooks.",
+      "Step 2: Lower the bar to the lower chest with controlled speed.",
+      "Step 3: Press back to full extension along the fixed bar path.",
+      "Step 4: Rerack carefully after the final rep."
+    ],
+    "breathing_instructions": "Inhale before descent. Exhale through lockout.",
+    "common_mistakes": [
+      "Steep decline causing blood to rush to the head — limit to 15-20 degrees for most people",
+      "Failing to secure feet before lying back"
+    ],
+    "safety_considerations": [
+      "Always ensure ankle pads are secured before getting into position",
+      "Avoid very steep declines if you have high blood pressure"
+    ],
+    "range_of_motion_guidance": "Full touch to lower sternum; full elbow extension.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Press up and slightly back — do not press straight up",
+      "Squeeze the lower pecs at the top"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["lower-chest", "smith-machine", "decline"]
+  }
+}

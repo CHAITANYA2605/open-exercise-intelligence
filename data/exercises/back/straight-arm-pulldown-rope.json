@@ -1,0 +1,77 @@
+{
+  "exercise_id": "ba010007-f3a2-4c1e-9b8d-7e6f5a4c3b30",
+  "slug": "straight-arm-pulldown-rope",
+  "name": "Straight-Arm Cable Pulldown — Rope",
+  "alternative_names": ["Rope Straight-Arm Pulldown", "Cable Straight-Arm Lat Extension"],
+  "description": "The straight-arm pulldown with a rope attachment is a lat isolation exercise where the arms remain extended throughout the entire movement, eliminating bicep assistance. The rope allows the hands to separate at the bottom, increasing the range of lat contraction and recruiting the posterior deltoid alongside the lats. It is performed standing, hinging forward slightly at the hips.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "pull",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"},
+      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a rope to a high-pulley cable. Stand facing the cable stack approximately 2-3 feet away, hinge at the hips to 15-30 degrees forward lean. Grip both rope ends with arms extended overhead.",
+    "setup_instructions": "Set cable to shoulder height or above. The slight forward lean increases lat stretch at the top position.",
+    "steps": [
+      "Step 1: Stand with hips slightly hinged, arms extended up toward the cable.",
+      "Step 2: With arms kept straight (soft elbow allowed), initiate movement by pulling the hands down and back.",
+      "Step 3: Drive the hands downward in an arc, keeping them close to the body as they pass the hips.",
+      "Step 4: At the bottom, separate the rope ends and squeeze the lats hard.",
+      "Step 5: Return under control to the starting position with arms extended overhead."
+    ],
+    "breathing_instructions": "Exhale as you pull down, inhale as you return.",
+    "common_mistakes": [
+      "Bending the elbows and turning it into a pulldown rather than a straight-arm movement",
+      "Using too much weight, forcing elbow flexion",
+      "Not hinging at the hips, reducing lat stretch at the top"
+    ],
+    "safety_considerations": [
+      "Keep a soft bend in the elbow to avoid hyperextension at the elbow joint",
+      "Do not use heavy loads — this is an isolation movement"
+    ],
+    "range_of_motion_guidance": "Arms extended overhead at start, pulled to hip level with hands separated at the finish.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Keep arms straight", "Think about tucking your elbows to your pockets", "Separate the rope at the bottom to maximize lat contraction"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 75, "endurance": 45},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "cable", "isolation", "lat"]
+  }
+}

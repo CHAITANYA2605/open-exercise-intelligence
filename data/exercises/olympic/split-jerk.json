@@ -1,0 +1,92 @@
+{
+  "exercise_id": "a1b2c3d4-f008-4000-a000-000000000208",
+  "slug": "split-jerk",
+  "name": "Split Jerk",
+  "alternative_names": ["Jerk", "Olympic Jerk"],
+  "description": "The split jerk is the most commonly used jerk technique in Olympic weightlifting competition, in which the athlete drives the bar overhead from the front rack position and catches it with one foot forward and one foot back in a lunge-like split stance. The split position allows a lower catch height and a more stable bilateral base, making it the preferred technique for maximum loads. It requires exceptional bar drive from the legs, quick footwork, and stable overhead positioning.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "jerk",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000022-0000-4000-a000-000000000022"],
+  "equipment_optional": ["eq000023-0000-4000-a000-000000000023"],
+  "execution": {
+    "starting_position": "Bar in the front rack position on the shoulders, elbows slightly in front of the bar, feet hip-width apart, torso vertical.",
+    "setup_instructions": "Received from a clean or taken from the rack. Establish a stable front rack before initiating the dip.",
+    "steps": [
+      "Step 1: Stand with bar in front rack, torso vertical.",
+      "Step 2: Dip straight down — bend the knees 10–15 cm while keeping the torso perfectly vertical.",
+      "Step 3: Drive explosively upward, pressing the bar off the shoulders and pressing overhead.",
+      "Step 4: Simultaneously split the feet — step one foot forward into a lunge, one foot back.",
+      "Step 5: Lock out the elbows with the bar over the base of the neck. Recover by stepping front foot back, then back foot forward. Stand to full extension."
+    ],
+    "breathing_instructions": "Deep breath and brace before the dip. Exhale after standing from the split.",
+    "common_mistakes": [
+      "Dipping forward (the torso must remain vertical throughout the dip)",
+      "Not splitting the feet far enough — inadequate depth of split",
+      "Catching with bent elbows — the lockout must be instantaneous"
+    ],
+    "safety_considerations": [
+      "Practice the dip-drive and split footwork with an empty bar before loading.",
+      "The split stance must be wide enough for a stable catch — a narrow split is a common failure point."
+    ],
+    "range_of_motion_guidance": "Full overhead lockout. Front shin vertical. Back knee slightly bent. Recover to full standing before lowering the bar.",
+    "tempo_recommendations": "Explosive dip and drive. Fast split. Stable catch before recovery.",
+    "coaching_cues": [
+      "Dip straight — not forward",
+      "Drive the bar up — not forward",
+      "Split wide and lock out fast"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 3},
+      {"goal": "power", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 8},
+      {"goal": "power", "min_sets": 4, "max_sets": 8}
+    ],
+    "rest_periods": {"strength": 240, "power": 180},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["olympic", "weightlifting", "jerk", "power", "advanced"]
+  }
+}

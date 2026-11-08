@@ -1,0 +1,85 @@
+{
+  "exercise_id": "f2a3b4c5-d6e7-4f8a-9b0c-d1e2f3a4b412",
+  "slug": "close-grip-push-up",
+  "name": "Close-Grip Push-Up",
+  "alternative_names": ["Narrow Push-Up", "Tricep Push-Up"],
+  "description": "The close-grip push-up is a push-up variation where the hands are placed directly beneath the shoulders or slightly closer together than a standard push-up. The reduced hand spacing shifts the mechanical advantage toward the triceps brachii while maintaining significant pectoral involvement. It is easier than the diamond push-up but more tricep-focused than the standard push-up.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a plank position with hands placed directly beneath or slightly inside the shoulders. Fingers point forward. Body forms a straight line from head to heels.",
+    "setup_instructions": "No equipment required. Use a mat for wrist comfort if needed.",
+    "steps": [
+      "Step 1: Position hands shoulder-width or slightly narrower, directly under or slightly inside the shoulders.",
+      "Step 2: Hold a rigid plank body position with core engaged.",
+      "Step 3: Inhale and lower the chest toward the hands by bending the elbows, which track close to the sides of the torso.",
+      "Step 4: Pause at the bottom, then exhale and press back to the top."
+    ],
+    "breathing_instructions": "Inhale on the descent; exhale on the press.",
+    "common_mistakes": [
+      "Flaring the elbows wide, which shifts the exercise back to a standard push-up",
+      "Letting hips sag or rise"
+    ],
+    "safety_considerations": [
+      "If wrist discomfort occurs, use push-up handles or rotate hands slightly outward"
+    ],
+    "range_of_motion_guidance": "Full range from near chest-to-floor to full arm extension.",
+    "tempo_recommendations": "3-0-1-0",
+    "coaching_cues": [
+      "Keep the elbows tracking along the sides of the torso like train tracks",
+      "Think 'elbows in' on the descent"
+    ]
+  },
+  "variants": {
+    "easier": ["push-up"],
+    "harder": ["diamond-push-up"],
+    "unilateral": [],
+    "bilateral": ["push-up"],
+    "equipment_alternatives": ["close-grip-bench-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 90, "hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["push-up", "triceps", "chest", "bodyweight"]
+  }
+}

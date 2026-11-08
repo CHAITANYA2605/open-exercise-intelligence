@@ -1,0 +1,77 @@
+{
+  "exercise_id": "ba010029-f3a2-4c1e-9b8d-7e6f5a4c3b52",
+  "slug": "rack-pull-above-knee",
+  "name": "Rack Pull Above Knee",
+  "alternative_names": ["High Rack Pull", "Partial Deadlift Above Knee"],
+  "description": "The above-knee rack pull sets the starting pin height just above the knee, leaving only the final hip-extension lockout portion of the deadlift. This shortened range of motion allows for supramaximal loading and directly trains the lockout mechanics, upper back, and trapezius under heavier loads than a full deadlift allows. It is used by powerlifters to reinforce lockout strength and by athletes to build upper back and grip capacity.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0001-4000-a000-00000000000d", "muscle_slug": "hamstrings"},
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Set the safety pins of a power rack just above knee height. Load the bar on the pins. Grip the bar in the same position as a conventional deadlift. The torso will be nearly vertical due to the high starting position.",
+    "setup_instructions": "Because of the short range of motion, loads can be significantly higher than conventional deadlift — often 110-130%. Lifting straps are commonly used.",
+    "steps": [
+      "Step 1: Position yourself behind the bar with pins set just above knee height.",
+      "Step 2: Grip the bar with a double-overhand or mixed grip, brace the core.",
+      "Step 3: Drive the hips forward in a hip-extension motion, pulling the bar to lockout.",
+      "Step 4: Squeeze the glutes and stand fully erect at the top.",
+      "Step 5: Return the bar to the pins under control."
+    ],
+    "breathing_instructions": "Brace before each rep. Exhale at lockout.",
+    "common_mistakes": [
+      "Jerking the bar off the pins — set the tension first, then pull",
+      "Not achieving full lockout at the top",
+      "Hyperextending the lower back at lockout — the goal is hip extension, not lumbar hyperextension"
+    ],
+    "safety_considerations": [
+      "High loads place significant demand on the grip and upper back — do not neglect warmup sets",
+      "Ensure pins are level and secure before loading"
+    ],
+    "range_of_motion_guidance": "Short range — from just above the knee to full lockout only.",
+    "tempo_recommendations": "1-1-2-0",
+    "coaching_cues": ["Take up the slack — don't yank off the pins", "Drive the hips forward to lock out", "Squeeze everything at the top"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"strength": 240},
+    "training_goals": ["strength", "power"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "deadlift", "rack-pull", "powerlifting", "strength"]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "exercise_id": "9a023f48-06ac-4afd-ba9c-47db4a2533f6",
+  "slug": "leg-press-single-leg-high-foot",
+  "name": "Single-Leg High-Foot Leg Press",
+  "alternative_names": [
+    "High-Foot Single-Leg Press"
+  ],
+  "description": "A unilateral leg press with the foot positioned high on the platform, shifting the loading emphasis from the quadriceps to the glutes and hamstrings. By positioning only one foot high on the platform and pressing with that leg alone, the hip-dominant pattern is intensified and bilateral load sharing is eliminated.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-medius"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000026-0000-4000-a000-000000000026"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Position yourself in the leg press machine with one foot high on the platform, near the top edge. The other foot rests off the platform.",
+    "setup_instructions": "Set the leg press to a comfortable range-of-motion stop. Load conservatively for the unilateral variation.",
+    "steps": [
+      "Step 1: Unrack the sled with both legs, then lift one leg off the platform.",
+      "Step 2: Lower the sled slowly by bending the working knee, allowing the high-placed foot to drive the hip into flexion.",
+      "Step 3: Descend until the hip is well flexed and the thigh approaches the chest.",
+      "Step 4: Drive through the heel to press the sled back to the starting position."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale on the press.",
+    "common_mistakes": [
+      "Letting the lower back round off the pad at the bottom",
+      "Using too much weight for the unilateral variation"
+    ],
+    "safety_considerations": [
+      "Ensure the lower back stays in contact with the pad throughout",
+      "Start with roughly 50-60% of your bilateral leg press load"
+    ],
+    "range_of_motion_guidance": "Full hip flexion at the bottom (thigh approaching chest). Full extension without locking the knee forcefully.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Drive through the heel",
+      "Keep the lower back on the pad"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "glutes",
+      "hamstrings",
+      "leg-press",
+      "unilateral"
+    ]
+  }
+}

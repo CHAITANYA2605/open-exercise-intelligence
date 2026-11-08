@@ -1,0 +1,63 @@
+{
+  "exercise_id": "co000040-0000-4000-a000-000000000040",
+  "slug": "cable-woodchopper-low-to-high",
+  "name": "Low-to-High Cable Woodchopper",
+  "alternative_names": ["Diagonal Cable Chop Low to High", "Cable Upward Chop", "Reverse Woodchopper"],
+  "description": "The low-to-high cable woodchopper trains diagonal trunk rotation in an upward arc from a low starting position, heavily emphasizing the internal oblique on the leading side and contralateral external oblique. This movement pattern mirrors upward striking, throwing from low positions, and the drive phase of many sport actions. The low starting position also engages the hip extensors to initiate the movement, adding a functional lower-body component to the rotational chain.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ],
+    "secondary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"}
+    ]
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set the cable pulley to its lowest position. Stand side-on to the machine. Squat and rotate toward the stack to grip the handle with both hands near the outside of the lower knee.",
+    "setup_instructions": "Attach a rope or single handle to the low pulley. Stand far enough away that there is tension on the cable at the starting position.",
+    "steps": [
+      "Step 1: Begin in a rotated, partially squatted position with the handle near the low outside knee.",
+      "Step 2: Drive upward and rotate the trunk away from the cable stack, extending the hips and knees simultaneously.",
+      "Step 3: Pull the handle in a diagonal upward arc, finishing with arms extended above and outside the far shoulder.",
+      "Step 4: Resist the cable and return in a controlled arc to the starting low position.",
+      "Step 5: Complete all reps then switch sides."
+    ],
+    "breathing_instructions": "Exhale as the handle rises. Inhale on the controlled return.",
+    "common_mistakes": [
+      "Using only the arms — the drive should come from extending the hip and rotating the torso",
+      "Starting too upright — the low-loading position is essential for the full exercise stimulus"
+    ],
+    "safety_considerations": ["Avoid if hip or lumbar rotation is limited — the combined hip and spinal movement requires adequate mobility"],
+    "range_of_motion_guidance": "Full diagonal arc from low outside the near knee to high outside the far shoulder.",
+    "tempo_recommendations": "2-0-2-0. Drive upward, controlled return.",
+    "coaching_cues": ["Extend the hip to start the upward drive", "Finish tall with the arms extended high"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [{"goal": "strength", "min_sets": 3, "max_sets": 4}],
+    "rest_periods": {"strength": 60},
+    "training_goals": ["strength", "sport"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "rotation", "obliques", "cable", "functional", "sport"]}
+}

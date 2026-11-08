@@ -1,0 +1,63 @@
+{
+  "exercise_id": "a1b2c3d4-0114-4000-a000-100000000114",
+  "slug": "reverse-ez-bar-curl",
+  "name": "Reverse EZ-Bar Curl",
+  "alternative_names": ["Overhand EZ-Bar Curl"],
+  "description": "The reverse EZ-bar curl uses an overhand (pronated) grip on an EZ-curl bar to target the brachioradialis and brachialis rather than the biceps brachii, which is in a mechanically disadvantaged position in pronation. The EZ-bar's angle reduces wrist stress compared to a straight bar reverse curl. This exercise builds the forearm and arm thickness from the outside and helps balance pulling strength.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "66666666-0005-4000-a000-000000000006", "muscle_slug": "brachioradialis"},
+      {"muscle_id": "66666666-0004-4000-a000-000000000006", "muscle_slug": "brachialis"}
+    ],
+    "secondary": [
+      {"muscle_id": "88888888-0004-4000-a000-000000000008", "muscle_slug": "extensor-carpi-radialis"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000003-0000-4000-a000-000000000003"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand upright holding an EZ-bar with a pronated (overhand) grip at the outer grip positions. Arms extended.",
+    "setup_instructions": "Use the outer grip on the EZ-bar for the most comfortable wrist angle. Use lighter weight than underhand curls.",
+    "steps": [
+      "Step 1: Curl the EZ-bar upward with a pronated grip.",
+      "Step 2: Keep the elbows at the sides and curl to maximum elbow flexion.",
+      "Step 3: Lower slowly back to the starting position."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on the return.",
+    "common_mistakes": ["Rotating to a neutral grip during the curl", "Excessive wrist extension at the bottom", "Using momentum"],
+    "safety_considerations": ["Avoid wrist hyperextension — keep wrists straight throughout"],
+    "range_of_motion_guidance": "Full extension to maximum elbow flexion.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Pronated grip stays all the way", "Wrists straight — don't break them", "Elbows at the sides"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["brachioradialis", "brachialis", "forearm", "isolation", "ez-bar"]
+  }
+}

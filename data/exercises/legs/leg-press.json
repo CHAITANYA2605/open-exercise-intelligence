@@ -1,0 +1,150 @@
+{
+  "exercise_id": "d4e5f6a7-0003-4000-8004-000000000003",
+  "slug": "leg-press",
+  "name": "Leg Press",
+  "alternative_names": [
+    "Machine Leg Press",
+    "Sled Leg Press"
+  ],
+  "description": "The leg press is a machine-based lower body pushing exercise in which the lifter pushes a weighted platform away from the body with both feet. Because the spine is supported, it allows very heavy loading of the quadriceps with minimal lower back involvement, making it an effective accessory or primary leg exercise.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000026-0000-4000-a000-000000000026"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit in the leg press machine with the back and head against the pad. Place feet shoulder-width apart on the platform, toes pointing slightly outward. Release the safety handles.",
+    "setup_instructions": "Adjust the seat so the knees are at approximately 90 degrees with feet on the platform. Do not place the feet so low that heels lift at the bottom.",
+    "steps": [
+      "Release the safety catches and control the platform toward your body by bending the knees.",
+      "Lower until knees are at approximately 90 degrees or slightly more.",
+      "Press the platform away by extending the knees and hips back to the starting position."
+    ],
+    "breathing_instructions": "Inhale as the platform descends. Exhale on the press.",
+    "common_mistakes": [
+      "Placing feet too low on the platform, causing heels to lift and rounding the lower back",
+      "Locking the knees out aggressively at the top",
+      "Allowing the knees to collapse inward"
+    ],
+    "safety_considerations": [
+      "Never remove the safety catches while weight is on the sled",
+      "Do not go so deep that the lower back rounds off the pad"
+    ],
+    "range_of_motion_guidance": "Approximately 90\u2013100 degrees of knee flexion at the bottom. Full extension (without hyperextension) at the top.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Push the platform away through your heels and mid-foot, not just the toes",
+      "Keep knees tracking over toes throughout the movement"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 4,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "machine",
+      "quad",
+      "press"
+    ]
+  }
+}

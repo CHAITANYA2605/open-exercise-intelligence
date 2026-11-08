@@ -1,0 +1,64 @@
+{
+  "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50016",
+  "slug": "stability-ball-hamstring-rollout",
+  "name": "Stability Ball Hamstring Rollout",
+  "alternative_names": ["Swiss Ball Leg Curl", "Stability Ball Leg Curl"],
+  "description": "A hamstring exercise and hip mobility drill performed with the heels on a stability ball. From a supine bridge position with heels on the ball, the exerciser rolls the ball toward the hips by bending the knees (hamstring curl) and then rolls it back out to full extension. The instability of the ball demands continuous core and hip stabilization, while the leg curl motion provides a hamstring strength stimulus through a range that includes hip extension. Used in both rehabilitation and functional training.",
+  "category": "stretching",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "bridge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "mobility",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "dddddddd-0004-4000-a000-00000000000d", "muscle_slug": "semitendinosus"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0004-4000-b000-000000000022", "muscle_slug": "soleus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on your back with both heels on top of a stability ball. Arms are at the sides for balance. Drive the hips up into a bridge position, forming a straight line from heels to shoulders.",
+    "setup_instructions": "Use a stability ball sized appropriately for your height (55-65 cm is standard). The ball should be stable and fully inflated.",
+    "steps": [
+      "Step 1: Begin in the supine bridge with heels on the ball and hips elevated.",
+      "Step 2: Bend both knees and roll the ball toward the hips, curling the hamstrings.",
+      "Step 3: Hold briefly with the ball under the bent knees and hips fully extended.",
+      "Step 4: Slowly roll the ball back out to the straight-leg bridge position. Repeat."
+    ],
+    "breathing_instructions": "Exhale as you curl the ball in. Inhale as you roll it back out.",
+    "common_mistakes": ["Letting the hips drop during the rollout — the bridge height must be maintained throughout", "Rushing the rollout — the eccentric is where most of the hamstring challenge occurs", "Using a ball that is too large or too small for the exerciser's leg length"],
+    "safety_considerations": ["If hamstring cramping occurs during the curl, reduce range and stretch between sets", "If lower back pain occurs, reduce the bridge height or perform from a modified position"],
+    "range_of_motion_guidance": "Full extension of the leg at the rollout and full knee bend at the curl-in. Hips stay elevated throughout.",
+    "tempo_recommendations": "2s curl in, 1s hold, 3s slow rollout.",
+    "coaching_cues": ["Keep the hips high — squeeze the glutes to prevent hip drop during the rollout", "Slow the rollout — that is the most challenging and productive phase", "Press the heels into the ball throughout — this keeps the hamstrings engaged"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 8, "max_reps": 15}],
+    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 3}],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["hamstring", "stability-ball", "bridge", "functional", "stretching"]
+  }
+}

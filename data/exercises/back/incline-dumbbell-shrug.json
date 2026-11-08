@@ -1,0 +1,68 @@
+{
+  "exercise_id": "ba010028-f3a2-4c1e-9b8d-7e6f5a4c3b51",
+  "slug": "incline-dumbbell-shrug",
+  "name": "Incline Dumbbell Shrug",
+  "alternative_names": ["Prone Incline Shrug", "Face-Down Incline Shrug"],
+  "description": "The incline dumbbell shrug is performed face-down on an incline bench set to 45 degrees, with dumbbells hanging beneath the shoulders. The prone position pre-stretches the upper trapezius and eliminates postural cheating, ensuring pure scapular elevation. This setup isolates the upper trapezius more effectively than standing shrug variations, as the torso support removes lower body momentum and spinal compensation.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "shrug",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set an adjustable bench to 45 degrees. Lie face-down with the chest on the pad, head slightly up, and arms hanging straight below the shoulders holding dumbbells.",
+    "setup_instructions": "Use lighter weight than standing shrugs. The prone position eliminates momentum and isolates the traps effectively at lower loads.",
+    "steps": [
+      "Step 1: Lie prone on the incline bench with dumbbells hanging below.",
+      "Step 2: Begin from a fully depressed (hanging) scapular position to maximize stretch.",
+      "Step 3: Elevate the shoulders as high as possible, moving the scapulae straight upward.",
+      "Step 4: Pause at the top for 1-2 seconds for maximum contraction.",
+      "Step 5: Lower fully under control, allowing the scapulae to depress completely."
+    ],
+    "breathing_instructions": "Exhale on the shrug, inhale on the lowering phase.",
+    "common_mistakes": [
+      "Not lowering fully between reps — the full hang is where the stretch occurs",
+      "Using too heavy a weight, which prevents full elevation"
+    ],
+    "safety_considerations": ["Ensure the bench is stable before beginning"],
+    "range_of_motion_guidance": "Full scapular depression at the bottom (deep hang), full elevation at the top.",
+    "tempo_recommendations": "1-2-2-0",
+    "coaching_cues": ["Full hang between every rep", "Elevate straight up — no roll", "Feel the trap squeeze at the top"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "traps", "shrug", "dumbbell", "isolation"]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_instructions": "Use this template to submit a media asset (illustration, diagram, photo, video) for an exercise. Copy to community/submissions/media-<exercise-slug>-<asset-type>.json and open a Pull Request. The asset itself should be attached to the PR or linked via source_url.",
+
+  "submission_type": "media",
+  "submitted_at": "REQUIRED: ISO 8601 timestamp. Example: '2026-11-08T12:00:00Z'",
+  "contributor": "REQUIRED: Your GitHub username or display name",
+
+  "exercise_slug": "REQUIRED: Slug of the exercise this media depicts. Example: 'barbell-bench-press'",
+
+  "asset_type": "REQUIRED: One of: illustration | diagram | photo | animation | video — 'illustration' is a drawn/vector image; 'diagram' shows muscle activation or movement mechanics; 'photo' is a photograph; 'animation' is an animated GIF or similar; 'video' is a video file or embed",
+
+  "source_url": "REQUIRED: Publicly accessible URL where the asset can be downloaded or reviewed. If attaching to the PR, use the GitHub attachment URL after uploading.",
+
+  "file_format": "REQUIRED: File extension without the dot. Examples: 'svg', 'png', 'jpg', 'gif', 'mp4', 'webm'",
+
+  "dimensions": {
+    "width_px": "OPTIONAL: Width in pixels for raster images. Leave null for SVG.",
+    "height_px": "OPTIONAL: Height in pixels for raster images. Leave null for SVG."
+  },
+
+  "license_spdx": "REQUIRED: SPDX license identifier. Must be one of: CC0-1.0 | CC-BY-4.0 | CC-BY-SA-4.0 — only open licenses are accepted. Preferred: CC0-1.0",
+
+  "attribution_text": "REQUIRED if license is not CC0-1.0. The exact attribution string that must accompany this asset when used. For CC0-1.0 assets this can be an empty string.",
+
+  "original_author": "REQUIRED: Full name or handle of the original creator of this asset. If you created it, put your name/username.",
+
+  "is_original_work": "REQUIRED: true or false — 'true' means you created this asset yourself and are releasing it under the stated license. 'false' means it is a third-party asset you are nominating for inclusion (maintainers will verify licensing independently).",
+
+  "depicts_view": "OPTIONAL: The view angle or perspective this asset shows. Examples: 'lateral', 'anterior', 'posterior', 'isometric', 'top-down', 'sequence'",
+
+  "depicts_phase": "OPTIONAL: Which phase of the exercise this asset depicts. Examples: 'start', 'midpoint', 'end', 'full-sequence'",
+
+  "notes": "OPTIONAL: Any additional information about the asset — quality notes, recommended usage context, known limitations, or anything a reviewer should know."
+}

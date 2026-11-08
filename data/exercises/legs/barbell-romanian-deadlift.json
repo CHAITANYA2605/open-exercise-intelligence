@@ -1,0 +1,147 @@
+{
+  "exercise_id": "d4e5f6a7-0004-4000-8004-000000000004",
+  "slug": "barbell-romanian-deadlift",
+  "name": "Barbell Romanian Deadlift",
+  "alternative_names": [
+    "RDL",
+    "Romanian Deadlift"
+  ],
+  "description": "The barbell Romanian deadlift is a hip-hinge exercise that primarily targets the hamstrings and gluteus maximus through a loaded eccentric stretch. Unlike the conventional deadlift, the barbell does not touch the floor between reps \u2014 the movement focuses on stretching the hamstrings under load by hinging at the hips with a slight knee bend and a neutral spine.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "deadlift",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "dddddddd-0003-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-short-head"
+      },
+      {
+        "muscle_id": "dddddddd-0004-4000-a000-00000000000d",
+        "muscle_slug": "semitendinosus"
+      },
+      {
+        "muscle_id": "dddddddd-0005-4000-a000-00000000000d",
+        "muscle_slug": "semimembranosus"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [
+    "eq000050-0000-4000-a000-000000000050"
+  ],
+  "execution": {
+    "starting_position": "Stand with feet hip-width apart holding a barbell at hip level with an overhand grip. Maintain a neutral spine with the chest up and shoulders back.",
+    "setup_instructions": "Begin with the barbell held at the thighs after lifting it to standing. Engage the lats and brace the core before each rep.",
+    "steps": [
+      "Initiate the movement by pushing the hips backward while maintaining a slight bend in the knees.",
+      "Lower the barbell along the front of the legs, keeping it close to the body.",
+      "Descend until you feel a strong stretch in the hamstrings \u2014 typically mid-shin level for most.",
+      "Drive the hips forward to return to the standing position, squeezing the glutes at the top."
+    ],
+    "breathing_instructions": "Inhale and brace before the descent. Exhale as you drive the hips forward on the ascent.",
+    "common_mistakes": [
+      "Rounding the lower back \u2014 the movement is a hip hinge, not a spine flex",
+      "Bending the knees excessively, turning it into a deadlift",
+      "Lowering the barbell too far \u2014 only go as low as the hamstrings allow without spinal flexion"
+    ],
+    "safety_considerations": [
+      "If you feel the stretch in the lower back rather than the hamstrings, reduce range and focus on the hip hinge pattern",
+      "Use lifting straps for heavy sets to prevent grip from being the limiting factor"
+    ],
+    "range_of_motion_guidance": "Lower until a strong hamstring stretch is felt. Typically between knee and mid-shin depending on individual hamstring flexibility.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Push your hips back to a wall behind you",
+      "Keep the bar dragging up your legs on the way up \u2014 you should feel it on your shins"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 6,
+        "max_reps": 12
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 12,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 60
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "hamstrings",
+      "barbell",
+      "hinge",
+      "rdl"
+    ]
+  }
+}

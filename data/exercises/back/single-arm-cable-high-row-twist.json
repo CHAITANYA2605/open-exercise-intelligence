@@ -1,0 +1,84 @@
+{
+  "exercise_id": "dfb9c6e2-8608-4d11-901c-b5c28998b3a5",
+  "slug": "single-arm-cable-high-row-twist",
+  "name": "Single-Arm Cable High Row with Rotation",
+  "alternative_names": ["Rotational Cable High Row", "Single-Arm High Cable Row Twist"],
+  "description": "The single-arm cable high row with rotation pulls from a high cable pulley with one hand while adding a torso rotation at peak contraction toward the working side. The rotation engages the obliques and thoracic rotators alongside the standard lat and upper back muscles, training the pulling pattern in a more athletically functional context that mirrors rotational sport movements.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ],
+    "secondary": [
+      { "muscle_id": "11111111-0001-4000-a000-000000000001", "muscle_slug": "biceps-brachii" },
+      { "muscle_id": "66666666-0001-4000-a000-000000000006", "muscle_slug": "rectus-abdominis" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand side-on to a high cable pulley. Grasp the handle with the near hand, arm extended upward toward the pulley. Feet staggered or parallel at shoulder width.",
+    "setup_instructions": "Set the cable to the highest available position. Stand far enough from the stack to achieve full arm extension at the starting position.",
+    "steps": [
+      "Step 1: Begin with arm extended toward the high pulley.",
+      "Step 2: Pull the cable handle toward the hip or lower ribcage, driving the elbow down.",
+      "Step 3: At peak contraction, rotate the torso toward the working side.",
+      "Step 4: Hold 1 second at peak rotation.",
+      "Step 5: Reverse the motion — unwind the torso then return the arm — to full extension."
+    ],
+    "breathing_instructions": "Exhale on the pull and rotation. Inhale on the return.",
+    "common_mistakes": [
+      "Rotating before the pull completes — the row and rotation should sequence, not co-occur",
+      "Using momentum from the rotation to assist the pull — the lat should drive the pull"
+    ],
+    "safety_considerations": [
+      "Thoracic rotation under load can stress spinal structures — keep loads moderate",
+      "Avoid if experiencing thoracic or lumbar spine pain"
+    ],
+    "range_of_motion_guidance": "Full arm extension to full torso rotation at peak contraction.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Pull first, then rotate",
+      "Drive the elbow to the hip before the torso turns",
+      "Control the reverse sequence on the way back"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "strength": 90 },
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "row", "rotation", "unilateral", "functional"]
+  }
+}

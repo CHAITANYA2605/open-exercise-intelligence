@@ -1,0 +1,75 @@
+{
+  "exercise_id": "ba010027-f3a2-4c1e-9b8d-7e6f5a4c3b50",
+  "slug": "behind-the-back-shrug",
+  "name": "Behind-the-Back Barbell Shrug",
+  "alternative_names": ["Reverse Grip Shrug", "Back Shrug"],
+  "description": "The behind-the-back barbell shrug places the bar behind the body against the glutes, shifting the line of force to target the mid and upper trapezius with the shoulders in a slightly retracted position. This altered angle can reduce the anterior shoulder dominance common with front-loaded shrug variations and improve the peak contraction quality of the upper traps. It is typically performed from a power rack or Smith machine for safety.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "shrug",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000006-0000-4000-a000-000000000006", "eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Stand with the barbell behind the body, gripped with a pronated (overhand) grip at approximately hip width. The bar rests against the upper glutes. Stand upright.",
+    "setup_instructions": "Best performed from a power rack with the bar set at hip height, or using a Smith machine. The range of motion is slightly more limited than a front shrug.",
+    "steps": [
+      "Step 1: Unrack the bar behind the body. Stand tall with arms straight.",
+      "Step 2: Elevate the shoulders as high as possible, drawing them directly upward.",
+      "Step 3: Hold the peak contraction for one second.",
+      "Step 4: Lower the shoulders under full control to the starting position.",
+      "Step 5: Allow the shoulders to depress fully before the next rep."
+    ],
+    "breathing_instructions": "Exhale on the shrug upward, inhale on the descent.",
+    "common_mistakes": [
+      "Rolling the shoulders forward or backward — the motion is straight up and straight down",
+      "Using excessive load, which prevents full elevation",
+      "Failing to lower completely between reps, limiting the total range of motion"
+    ],
+    "safety_considerations": [
+      "The bar can scrape the lower back if gripped too wide — use a hip-width grip",
+      "Avoid this exercise if there is any lower back or glute pain from the bar contact"
+    ],
+    "range_of_motion_guidance": "Full shoulder elevation at the top, full depression at the bottom.",
+    "tempo_recommendations": "1-1-2-0",
+    "coaching_cues": ["Shrug straight up — not forward or backward", "Touch your ears with your shoulders", "Full drop between every rep"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "strength", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90, "strength": 120},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "traps", "shrug", "barbell", "intermediate"]
+  }
+}

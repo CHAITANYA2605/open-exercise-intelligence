@@ -1,0 +1,129 @@
+{
+  "exercise_id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+  "slug": "side-lying-external-rotation",
+  "name": "Side-Lying External Rotation",
+  "alternative_names": [
+    "SLER",
+    "Side-Lying ER",
+    "Rotator Cuff ER"
+  ],
+  "description": "Side-lying external rotation is a foundational rotator cuff rehabilitation exercise targeting the infraspinatus and teres minor \u2014 the primary external rotators of the glenohumeral joint. Performed with the elbow bent to 90 degrees and resting at the side, it isolates the posterior rotator cuff with minimal deltoid or periscapular compensation. It is a standard component of shoulder impingement, rotator cuff tear, and post-surgical rehabilitation programs.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "shoulder-external-rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0006-4000-a000-000000000002",
+        "muscle_slug": "teres-minor"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "supraspinatus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "lower-trapezius"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000001-0000-4000-a000-000000000001"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "execution": {
+    "starting_position": "Lie on the non-working side. The working arm is on top with the elbow bent to 90 degrees and upper arm resting against the side of the torso. A small rolled towel may be placed under the upper arm to place the shoulder in neutral.",
+    "setup_instructions": "No equipment required for bodyweight version. A light dumbbell (0.5\u20132 kg) or band may be added for progressive resistance.",
+    "steps": [
+      "Step 1: Lie on the non-working side with the working elbow bent to 90 degrees, upper arm against the torso.",
+      "Step 2: Starting position has the forearm resting across the abdomen.",
+      "Step 3: Rotate the forearm upward toward the ceiling, keeping the elbow pinned to the side.",
+      "Step 4: Stop when the forearm is parallel to the floor or slightly above.",
+      "Step 5: Slowly return to the starting position with full control."
+    ],
+    "breathing_instructions": "Exhale on the external rotation (forearm rising). Inhale on return.",
+    "common_mistakes": [
+      "Lifting the elbow away from the side \u2014 the elbow must stay anchored to the torso",
+      "Using too much weight, which causes the shoulder to shrug and involve the deltoid",
+      "Moving too fast \u2014 this requires slow, deliberate movement to target the small cuff muscles"
+    ],
+    "safety_considerations": [
+      "If sharp pain occurs in the shoulder, stop immediately",
+      "Start with no weight and add resistance only when pain-free movement is established",
+      "Consult a clinician before starting if a rotator cuff tear has been diagnosed"
+    ],
+    "range_of_motion_guidance": "Rotate until the forearm is parallel to the floor, or to the pain-free range. Do not force end-range if discomfort occurs.",
+    "tempo_recommendations": "2-second up, 2-second down. 2\u20133 sets of 15\u201320 reps.",
+    "coaching_cues": [
+      "Keep the elbow pinned to your side throughout",
+      "Move slowly \u2014 this is about quality, not load",
+      "Think about rotating your palm to face the ceiling"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "strength": 60
+    },
+    "training_goals": [
+      "strength",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "rehabilitation",
+      "rotator-cuff",
+      "shoulder",
+      "external-rotation",
+      "beginner"
+    ]
+  }
+}

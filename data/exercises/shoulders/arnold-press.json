@@ -1,0 +1,132 @@
+{
+  "exercise_id": "c3d4e5f6-0003-4000-8003-000000000003",
+  "slug": "arnold-press",
+  "name": "Arnold Press",
+  "alternative_names": [
+    "Arnold Dumbbell Press",
+    "Rotational Shoulder Press"
+  ],
+  "description": "The Arnold press is a dumbbell shoulder exercise that incorporates a pronation-to-supination rotation of the forearm during the pressing motion. By starting with palms facing the body and rotating to a forward-facing position at the top, all three heads of the deltoid are engaged across a fuller range of motion than a standard overhead press.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      },
+      {
+        "muscle_id": "33333333-0003-4000-a000-000000000003",
+        "muscle_slug": "deltoid-lateral"
+      },
+      {
+        "muscle_id": "33333333-0004-4000-a000-000000000003",
+        "muscle_slug": "deltoid-posterior"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0003-4000-a000-000000000007",
+        "muscle_slug": "triceps-lateral-head"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      },
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007"
+  ],
+  "equipment_optional": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
+  "execution": {
+    "starting_position": "Sit on a bench holding dumbbells at shoulder height with palms facing your body (supinated) and elbows pointing forward in front of the chest.",
+    "setup_instructions": "Start with dumbbells in front of the face at chin height with palms facing you, elbows low and in front.",
+    "steps": [
+      "As you press the dumbbells upward, simultaneously rotate the forearms outward so palms face forward by the time the arms are overhead.",
+      "Press to full extension.",
+      "On the descent, reverse the rotation, returning to the starting position with palms facing the body."
+    ],
+    "breathing_instructions": "Exhale on the press and rotation. Inhale on the return.",
+    "common_mistakes": [
+      "Rushing the rotation and doing it separately from the press instead of simultaneously",
+      "Using too heavy a weight that prevents controlled rotation"
+    ],
+    "safety_considerations": [
+      "The rotational component adds shoulder complexity \u2014 reduce weight compared to a standard press"
+    ],
+    "range_of_motion_guidance": "Full overhead extension at the top, elbows forward and palms facing body at the bottom.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Let the rotation happen naturally as you press \u2014 think of opening a jar as you push up",
+      "Full rotation at the top \u2014 thumbs should be pointing backward at lockout"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "shoulders",
+      "dumbbell",
+      "arnold",
+      "rotational"
+    ]
+  }
+}

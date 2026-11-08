@@ -1,0 +1,83 @@
+{
+  "exercise_id": "b2dce843-9152-4325-8126-118e385f0fd6",
+  "slug": "scapular-pull-up-rings",
+  "name": "Scapular Pull-Up on Rings",
+  "alternative_names": ["Ring Scapular Pull-Up", "Ring Scap Pull"],
+  "description": "The ring scapular pull-up is performed identically to the bar version — shoulder blades depressed and retracted without elbow flexion — but the unstable ring surface adds a rotational challenge that increases demand on the serratus anterior and rotator cuff stabilizers. It is a superior proprioceptive warm-up and shoulder health drill for ring athletes.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "pull-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" },
+      { "muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ]
+  },
+  "equipment_required": ["eq000042-0000-4000-a000-000000000042"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hang from gymnastic rings at shoulder width with arms fully extended. Rings should be turned out slightly.",
+    "setup_instructions": "Set ring height to allow full dead-hang with feet off the ground. Use a grip with palms facing each other (neutral grip).",
+    "steps": [
+      "Step 1: Begin in a dead hang, body relaxed.",
+      "Step 2: Without bending elbows, depress and retract the scapulae, elevating the body slightly.",
+      "Step 3: Hold the depressed position 1-2 seconds.",
+      "Step 4: Return slowly to the resting dead-hang.",
+      "Step 5: Repeat."
+    ],
+    "breathing_instructions": "Exhale as scapulae depress. Inhale returning to dead hang.",
+    "common_mistakes": [
+      "Bending elbows — this defeats the purpose of the drill",
+      "Allowing the rings to swing excessively — maintain control"
+    ],
+    "safety_considerations": [
+      "Inspect ring straps and anchor points before hanging",
+      "Build wrist and grip tolerance before full dead hangs"
+    ],
+    "range_of_motion_guidance": "Shoulder blades travel from resting elevated position to maximally depressed.",
+    "tempo_recommendations": "1-2-1-0",
+    "coaching_cues": [
+      "Shoulder blades into your back pockets",
+      "Arms stay straight throughout",
+      "Control the rings — do not let them spin"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "rehabilitation", "min_reps": 10, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "rehabilitation", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "rehabilitation": 60 },
+    "training_goals": ["rehabilitation", "mobility", "strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rings", "scapular", "gymnastics", "shoulder-health"]
+  }
+}

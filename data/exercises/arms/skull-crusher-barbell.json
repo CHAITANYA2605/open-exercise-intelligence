@@ -1,0 +1,65 @@
+{
+  "exercise_id": "a1b2c3d4-0130-4000-a000-100000000130",
+  "slug": "skull-crusher-barbell",
+  "name": "Barbell Skull Crusher",
+  "alternative_names": ["Lying Barbell Tricep Extension", "French Press Barbell", "Nose Breakers"],
+  "description": "The barbell skull crusher is performed lying on a flat bench, lowering a barbell toward the forehead or just above the head by bending only the elbows. It places the triceps under maximum stretch at the bottom position, particularly loading the long head. Because the arms are vertical at the top and angled at the bottom, the triceps work through a large range of motion under significant load. The long eccentric with a heavy bar makes it one of the most effective tricep mass builders.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench, bar pressed to full arm extension above the chest. Grip the bar slightly inside shoulder width, supinated grip.",
+    "setup_instructions": "Have a spotter hand the bar off, or take it from a low rack. Use a close grip for maximum tricep isolation.",
+    "steps": [
+      "Step 1: Begin with the bar above the chest at full elbow extension.",
+      "Step 2: Keeping the upper arms vertical, bend only the elbows to lower the bar toward the forehead.",
+      "Step 3: Lower until the bar is just above the forehead or nose.",
+      "Step 4: Extend the elbows to press the bar back to the starting position."
+    ],
+    "breathing_instructions": "Inhale on the descent, exhale on the press.",
+    "common_mistakes": ["Upper arms drifting backward during the descent", "Using shoulder movement rather than elbow flexion", "Bar path going too far behind the head (increases long head strain)"],
+    "safety_considerations": ["Never perform to failure without a spotter — bar failure over the face is dangerous", "Use collars to prevent plates sliding"],
+    "range_of_motion_guidance": "Full elbow extension at top, bar just above forehead at bottom.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": ["Upper arms vertical and still", "Lower to the forehead — not past it", "Press straight up"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tricep", "isolation", "barbell", "compound"]
+  }
+}

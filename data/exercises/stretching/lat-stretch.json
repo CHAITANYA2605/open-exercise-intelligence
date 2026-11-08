@@ -1,0 +1,82 @@
+{
+  "exercise_id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+  "slug": "lat-stretch",
+  "name": "Lat Stretch",
+  "alternative_names": ["Doorway Lat Stretch", "Overhead Lat Stretch"],
+  "description": "The lat stretch lengthens the latissimus dorsi by combining shoulder flexion with lateral trunk flexion, placing the broad back muscle on its full stretch. Because the lats originate from the lumbar spine and iliac crest and insert on the humerus, they are most effectively stretched when the arm is raised overhead and the torso bends away. This stretch directly counteracts the lat tightness that often develops from heavy pulling exercises.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0005-4000-a000-000000000002", "muscle_slug": "teres-major" },
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand or kneel. For the kneeling version, place hands on a bench or high surface and sit back.",
+    "setup_instructions": "No equipment required for the standing version. For a supported version, use a doorway, rack upright, or sturdy surface to grip.",
+    "steps": [
+      "Step 1: Raise one arm overhead and grip a fixed surface (doorway, rack post) or simply raise the arm.",
+      "Step 2: Allow the torso to bend away from the raised arm, creating a lateral lean.",
+      "Step 3: Breathe into the side of the ribcage on the raised-arm side — this increases the lat stretch.",
+      "Step 4: Hold 30–60 seconds until the stretch is felt running from the outer hip up to the armpit.",
+      "Step 5: Return to neutral and switch sides."
+    ],
+    "breathing_instructions": "Inhale into the side being stretched — this uses the ribcage expansion to increase tension on the lat.",
+    "common_mistakes": [
+      "Not leaning laterally enough — many people only raise the arm without getting the lateral trunk component",
+      "Holding the breath rather than breathing into the stretch",
+      "Rotating the torso rather than pure lateral lean"
+    ],
+    "safety_considerations": [
+      "Avoid if there is shoulder impingement — the overhead position may aggravate it",
+      "Support the grip with a stable surface to avoid loading the spine under stretch"
+    ],
+    "range_of_motion_guidance": "Lean until a clear stretch is felt running from the hip along the side of the torso to the armpit.",
+    "tempo_recommendations": "Hold 30–60 seconds. 2–3 rounds per side.",
+    "coaching_cues": [
+      "Breathe into your armpit — expand that side of the ribcage",
+      "Think of making yourself as tall as possible on the stretched side",
+      "Let the hip slide away from the raised arm"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+    ],
+    "rest_periods": { "mobility": 10 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["lat", "latissimus-dorsi", "stretch", "beginner", "side-stretch"]
+  }
+}

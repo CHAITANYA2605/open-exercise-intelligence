@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-0142-4000-a000-100000000142",
+  "slug": "tate-press",
+  "name": "Tate Press",
+  "alternative_names": ["Elbows-Out Extension", "Dumbbell Tate Press"],
+  "description": "The Tate press is a dumbbell tricep exercise where the elbows flare outward and the dumbbells are lowered toward the chest with the forearms folding down, then pressed back up. Named after powerlifter Dave Tate, this movement keeps the upper arms stationary with elbows high and wide, creating a unique load angle that targets the medial and lateral tricep heads. The exercise is performed lying on a bench and is used heavily by powerlifters for tricep accessory work.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench. Hold a dumbbell in each hand with the dumbbells touching above the chest, palms facing away (pronated). Elbows pointing out to the sides.",
+    "setup_instructions": "Begin with the dumbbells at the top position, touching above the chest. The elbows should be high and pointing outward throughout.",
+    "steps": [
+      "Step 1: Begin with dumbbells above the chest, elbows pointing to the sides.",
+      "Step 2: Lower the dumbbells by bending the elbows, letting the forearms fold down toward the chest.",
+      "Step 3: The dumbbells lower toward the chest while the elbows stay high and pointed out.",
+      "Step 4: Extend the elbows to press the dumbbells back to the starting position."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on press.",
+    "common_mistakes": ["Elbows dropping toward the body (this becomes a press rather than a Tate press)", "Rotating the hands during the movement"],
+    "safety_considerations": ["Use moderate weight — the flared elbow position is not suitable for heavy loads"],
+    "range_of_motion_guidance": "Dumbbells lower to chest level, full extension at the top.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": ["Elbows stay high and wide", "Forearms fold down — not the elbows", "Squeeze at the top"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tricep", "isolation", "dumbbell", "powerlifting"]
+  }
+}

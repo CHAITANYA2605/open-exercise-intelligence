@@ -1,0 +1,83 @@
+{
+  "exercise_id": "c4d5e6f7-b890-4cde-f012-345678901bcd",
+  "slug": "cross-cable-rear-delt-row",
+  "name": "Cross-Cable Rear Delt Row",
+  "alternative_names": ["Crossover Cable Rear Delt Row", "X-Cable Rear Delt Pull"],
+  "description": "The cross-cable rear delt row uses a cable crossover station with the cables set at upper chest height and crossed (right hand grips left cable, left hand grips right cable). The crossed configuration creates a unique pulling vector that emphasizes horizontal abduction with an adducted scapular endpoint, maximally loading the posterior deltoid and rhomboids through the full range of motion. The cable tension remains constant through the entire pull — unlike dumbbells, which lose tension at the beginning of the movement.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "33333333-0005-4000-a000-000000000003", "muscle_slug": "infraspinatus" }
+    ]
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand in the center of a cable crossover machine. Set both pulleys to upper chest height. Cross the cables — grip the right cable handle with the left hand and the left cable handle with the right hand. Arms extended forward at chest height.",
+    "setup_instructions": "Moderate weight on each stack. Stand with feet staggered slightly for balance.",
+    "steps": [
+      "Step 1: Begin with arms extended forward, cables crossed at chest height.",
+      "Step 2: Pull both handles outward and back simultaneously, leading with the elbows.",
+      "Step 3: Keep the elbows at shoulder height through the entire pull.",
+      "Step 4: At the end of the row, the hands are out to the sides and the rear delts are fully contracted.",
+      "Step 5: Hold 1 second. Return under control."
+    ],
+    "breathing_instructions": "Exhale pulling back. Inhale returning.",
+    "common_mistakes": [
+      "Elbows dropping below shoulder level — keep them at shoulder height throughout",
+      "Using torso rotation to generate momentum"
+    ],
+    "safety_considerations": [
+      "Moderate load — the constant cable tension accumulates quickly",
+      "Keep the core braced to avoid torso rotation"
+    ],
+    "range_of_motion_guidance": "Full extension (cables crossed at chest) to full horizontal abduction (hands at sides).",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Elbows at shoulder height — not dropping",
+      "Pull apart like you're opening a door wide",
+      "Squeeze the rear delts at the endpoint"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "hypertrophy", "min_reps": 12, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "hypertrophy", "min_sets": 3, "max_sets": 4 }
+    ],
+    "rest_periods": { "hypertrophy": 60 },
+    "training_goals": ["hypertrophy"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "rear-delt", "crossover", "row", "posterior-deltoid"]
+  }
+}

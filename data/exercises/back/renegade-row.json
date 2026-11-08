@@ -1,0 +1,80 @@
+{
+  "exercise_id": "ba010021-f3a2-4c1e-9b8d-7e6f5a4c3b44",
+  "slug": "renegade-row",
+  "name": "Renegade Row",
+  "alternative_names": ["Push-Up Position Dumbbell Row", "Plank Row"],
+  "description": "The renegade row combines a plank position with a unilateral dumbbell row, performed with both hands gripping dumbbells on the floor in a push-up stance. The movement demands simultaneous anti-rotation core stability, pushing muscle endurance in the support arm and pressing muscles, and pulling strength in the rowing arm. It is a highly efficient full-body exercise that trains the back, core, and shoulder stabilizers in a single movement.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place two dumbbells on the floor, shoulder-width apart. Get into a push-up position with hands gripping the dumbbell handles, body forming a straight line from head to heels.",
+    "setup_instructions": "Use hex dumbbells, which sit flat and provide a stable base. Feet wider than hip-width increases stability and reduces anti-rotation demand.",
+    "steps": [
+      "Step 1: Assume a high plank position with both hands on dumbbell handles.",
+      "Step 2: Brace the core and squeeze the glutes to prevent hip rotation.",
+      "Step 3: Row one dumbbell to the hip by driving the elbow straight up.",
+      "Step 4: Lower the dumbbell to the floor under control.",
+      "Step 5: Repeat on the other side. Each side counts as one rep."
+    ],
+    "breathing_instructions": "Exhale as you row, inhale as you return to the floor.",
+    "common_mistakes": [
+      "Rotating the hips as you row — the hips must stay square",
+      "Using light dumbbells that allow too wide a foot stance, reducing the core challenge",
+      "Rushing the row, losing core position"
+    ],
+    "safety_considerations": [
+      "Use flat-bottomed hex dumbbells — round dumbbells on a hard floor are unstable and dangerous",
+      "Do not perform this exercise with wrist injuries or shoulder instability"
+    ],
+    "range_of_motion_guidance": "Dumbbell stays on the floor at the start, pulled to hip level at the top while maintaining rigid plank.",
+    "tempo_recommendations": "2-1-2-0 per side",
+    "coaching_cues": ["Hips square — no tilting", "Make a T with your body when rowing", "If your hips rotate, spread your feet wider"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "row", "core", "anti-rotation", "compound", "advanced"]
+  }
+}

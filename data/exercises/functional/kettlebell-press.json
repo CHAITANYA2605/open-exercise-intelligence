@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-h004-4000-a000-000000000404",
+  "slug": "kettlebell-press",
+  "name": "Kettlebell Press",
+  "alternative_names": ["KB Military Press", "Single Arm Kettlebell Press", "Kettlebell Shoulder Press"],
+  "description": "The kettlebell press is a unilateral overhead pressing exercise performed from the kettlebell rack position, pressing the bell directly overhead to full arm lockout. The offset center of mass of the kettlebell compared to a dumbbell requires greater forearm and wrist stability to control the bell path. As a strict press with no leg drive, it isolates the deltoid, triceps, and upper trapezius, while the unilateral nature demands significant anti-lateral flexion core engagement throughout.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "unilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000009-0000-4000-a000-000000000009"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with feet shoulder-width apart. Kettlebell in the rack position on the right side — bell resting on the forearm, elbow close to the body, upper arm vertical.",
+    "setup_instructions": "Clean the kettlebell into the rack position to begin. Stand tall with the torso upright.",
+    "steps": [
+      "Step 1: Begin in the racked position with the bell at shoulder height, elbow close to the torso.",
+      "Step 2: Press the kettlebell directly overhead by extending the elbow and driving the hand upward.",
+      "Step 3: Lock out the arm fully overhead — the bicep should be near the ear.",
+      "Step 4: Lower the bell under control back to the rack position.",
+      "Step 5: Complete all reps on one side before switching."
+    ],
+    "breathing_instructions": "Exhale on the press. Inhale on the return to rack.",
+    "common_mistakes": [
+      "Side-bending away from the bell — maintain an upright torso",
+      "Not fully locking out the elbow at the top",
+      "Starting with the elbow flared out — it should be close to the body in the rack"
+    ],
+    "safety_considerations": [
+      "Shoulder impingement or instability should be assessed before heavy overhead pressing.",
+      "Ensure full lockout on each rep to protect the shoulder joint."
+    ],
+    "range_of_motion_guidance": "Full elbow lockout overhead. Full return to racked position.",
+    "tempo_recommendations": "3–8 reps per side. Controlled tempo — 2 seconds up, pause at top, 2 seconds down.",
+    "coaching_cues": [
+      "Press straight up — not forward",
+      "Lock out — bicep near the ear",
+      "Stay tall — no lean"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["functional", "kettlebell", "shoulder", "overhead-press", "unilateral"]
+  }
+}

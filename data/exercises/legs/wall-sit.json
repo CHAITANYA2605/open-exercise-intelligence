@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-0010-4000-a000-legs00000010",
+  "slug": "wall-sit",
+  "name": "Wall Sit",
+  "alternative_names": ["Wall Squat Hold"],
+  "description": "The wall sit is an isometric lower body exercise in which the lifter holds a squat position with the back flat against a wall, thighs parallel to the floor, and knees at 90°. Because it requires no movement, it trains muscular endurance and time-under-tension of the quadriceps. It is used for rehabilitation, athletic conditioning, and as a simple test of quad endurance.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "squat",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis"},
+      {"muscle_id": "cccccccc-0004-4000-a000-00000000000c", "muscle_slug": "vastus-medialis"},
+      {"muscle_id": "cccccccc-0005-4000-a000-00000000000c", "muscle_slug": "vastus-intermedius"}
+    ],
+    "secondary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand with your back flat against a smooth wall. Walk your feet forward until they are approximately 60–90 cm from the wall.",
+    "setup_instructions": "Find a smooth, flat wall. Wear shoes with grip. The feet should be shoulder-width apart and directly below the knees when in position.",
+    "steps": [
+      "Step 1: Slide your back down the wall until your thighs are parallel to the floor and your knees are at 90°.",
+      "Step 2: Ensure your knees are directly over your ankles — not in front of them.",
+      "Step 3: Keep your back flat against the wall throughout. Do not lean forward.",
+      "Step 4: Hold the position for the target duration while breathing steadily.",
+      "Step 5: To exit, slide back up the wall to standing or step forward."
+    ],
+    "breathing_instructions": "Breathe steadily throughout the hold. Do not hold the breath for extended durations — this increases blood pressure unnecessarily.",
+    "common_mistakes": [
+      "Knees extending past the toes due to feet placed too close to the wall",
+      "Back peeling away from the wall due to core fatigue",
+      "Thighs not reaching parallel — reduces quad demand significantly"
+    ],
+    "safety_considerations": [
+      "Those with knee pain should check that knees track over toes and that feet are positioned appropriately",
+      "Avoid performing to failure on a slippery floor"
+    ],
+    "range_of_motion_guidance": "Thighs must reach parallel to the floor. Anything shallower significantly reduces the training stimulus.",
+    "tempo_recommendations": "Isometric hold — measure in seconds or minutes rather than reps",
+    "coaching_cues": [
+      "Thighs parallel — don't cheat with a shallow squat",
+      "Back flat to the wall at all times",
+      "Breathe steadily — don't hold your breath"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["single-leg-squat"],
+    "unilateral": [],
+    "bilateral": ["barbell-squat"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 4}
+    ],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["endurance", "rehabilitation"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["isometric", "beginner", "rehab", "quad"]
+  }
+}

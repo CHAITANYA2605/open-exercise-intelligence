@@ -1,0 +1,137 @@
+{
+  "exercise_id": "a1b2c3d4-0006-4000-8001-000000000006",
+  "slug": "dumbbell-fly",
+  "name": "Dumbbell Fly",
+  "alternative_names": [
+    "Dumbbell Chest Fly",
+    "DB Fly"
+  ],
+  "description": "The dumbbell fly is a chest isolation exercise that trains the pectorals in a horizontal adduction arc. Unlike pressing movements, the fly provides maximal pectoral stretch at the bottom position with minimal triceps involvement, making it effective for targeting chest development and improving chest flexibility.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-clavicular"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "33333333-0002-4000-a000-000000000003",
+        "muscle_slug": "deltoid-anterior"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0008-4000-a000-000000000002",
+        "muscle_slug": "supraspinatus"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench holding a dumbbell in each hand. Press the dumbbells to the starting position above the chest with palms facing each other and a slight bend in the elbows.",
+    "setup_instructions": "Use a weight that allows controlled movement \u2014 this is an isolation exercise. Maintain a fixed, slight elbow bend throughout the movement; do not let the elbow angle change.",
+    "steps": [
+      "With a fixed elbow bend, open your arms out to the sides in an arc, lowering the dumbbells toward the level of the bench.",
+      "Lower until you feel a strong stretch in the chest \u2014 upper arms roughly parallel to the floor.",
+      "Reverse the arc, bringing the dumbbells back together above the chest as if hugging a barrel.",
+      "Squeeze the chest at the top of the movement before the next rep."
+    ],
+    "breathing_instructions": "Inhale as you open the arms outward. Exhale as you bring the dumbbells back together.",
+    "common_mistakes": [
+      "Bending the elbows too much, turning it into a press",
+      "Lowering the dumbbells too far, stressing the anterior capsule of the shoulder",
+      "Using too much weight, which forces a pressing motion"
+    ],
+    "safety_considerations": [
+      "Keep a consistent bend in the elbows to protect the elbow joint from hyperextension under load",
+      "If you feel anterior shoulder pain, reduce range of motion"
+    ],
+    "range_of_motion_guidance": "Lower until upper arms are parallel to the floor or the stretch becomes uncomfortable. Do not force a greater range than your shoulder mobility allows.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": [
+      "Think about hugging a giant tree trunk",
+      "Maintain the same elbow bend from start to finish \u2014 do not let elbows straighten or bend more"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 20
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 75,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "isolation",
+      "dumbbell",
+      "fly"
+    ]
+  }
+}

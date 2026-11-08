@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-0139-4000-a000-100000000139",
+  "slug": "cable-pushdown-vbar",
+  "name": "Cable Tricep Pushdown V-Bar",
+  "alternative_names": ["V-Bar Pushdown", "Triangle Bar Pushdown"],
+  "description": "The V-bar (or triangle bar) pushdown attachment on a high cable creates a pronated grip angle that emphasizes the lateral and medial heads of the tricep. The rigid V-bar allows the lifter to generate maximum downward force with both hands simultaneously without any cable or rope instability. Many lifters find the V-bar pushdown allows the most weight of any pushdown variation, making it effective for strength and hypertrophy.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a V-bar to a high cable pulley. Stand facing the cable, grip the V-bar with a pronated grip, elbows at the sides, bar at chest level.",
+    "setup_instructions": "Set the high cable pulley. The V-bar hangs in a pronated (overhand) position when gripped.",
+    "steps": [
+      "Step 1: Begin with the elbows at the sides and the V-bar at chest/upper abdomen level.",
+      "Step 2: Push the V-bar straight down by extending the elbows.",
+      "Step 3: Push until the elbows are fully extended.",
+      "Step 4: Return with control to the starting position."
+    ],
+    "breathing_instructions": "Exhale on the pushdown, inhale on the return.",
+    "common_mistakes": ["Flaring the elbows away from the body", "Leaning over the bar to use body weight", "Not fully extending the elbows at the bottom"],
+    "safety_considerations": ["Keep the elbows pinned to the sides throughout"],
+    "range_of_motion_guidance": "Upper arm vertical, full elbow extension at the bottom.",
+    "tempo_recommendations": "1-1-2-0 (1s hold at bottom)",
+    "coaching_cues": ["Elbows stay at the sides", "Straighten the arms fully", "Squeeze the triceps at the bottom"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tricep", "isolation", "cable", "pushdown"]
+  }
+}

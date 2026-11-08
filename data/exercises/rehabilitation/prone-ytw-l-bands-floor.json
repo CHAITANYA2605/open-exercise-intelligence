@@ -1,0 +1,69 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50030",
+  "slug": "prone-ytw-l-bands-floor",
+  "name": "Prone YTW-L with Mini Bands on Floor",
+  "alternative_names": ["Banded Prone YTW-L", "Prone Shoulder Complex Bands"],
+  "description": "A resistance-band progression of the bodyweight prone YTW-L exercise. With a light resistance band looped around both wrists, each arm position (Y, T, W, L) is performed against additional resistance, increasing the demand on the lower trapezius, middle trapezius, rhomboids, and infraspinatus. The band provides accommodating resistance — meaning the load increases as the arms move outward or upward where the band stretches more. This is an intermediate-level scapular and rotator cuff rehabilitation exercise for shoulder health programs.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"}
+    ],
+    "secondary": [
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor"},
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000013-0000-4000-a000-000000000013"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie face down with arms at the sides and forehead resting on the floor. Loop a very light mini resistance band around both wrists.",
+    "setup_instructions": "Use the lightest available band. The band should provide only mild resistance in the Y and T positions. If the band prevents full range of motion, it is too heavy.",
+    "steps": [
+      "Step 1 (Y): With the band looped around wrists, raise both arms to the Y angle (45 degrees overhead). The band stretches as arms move apart. Hold 2 seconds, lower.",
+      "Step 2 (T): Raise arms to the T position (90 degrees from body). The band provides lateral resistance. Hold 2 seconds, lower.",
+      "Step 3 (W): With elbows bent to 90 degrees and arms in W position, externally rotate against the band. Hold 2 seconds, lower.",
+      "Step 4 (L): Elbows at 90 degrees bent close to the body, externally rotate both arms forward against the band. Hold 2 seconds, lower."
+    ],
+    "breathing_instructions": "Exhale during each lift. Inhale as you lower.",
+    "common_mistakes": ["Using a band that is too heavy — this reduces range and trains compensation patterns", "Shrugging during the Y or T positions instead of engaging the lower trapezius", "Not completing the hold at each position — the holds are where most of the training stimulus occurs"],
+    "safety_considerations": ["If any position causes pain, omit that position and consult a physiotherapist", "Start without resistance and add the band only once bodyweight version is tolerated"],
+    "range_of_motion_guidance": "Full range in each position. If the band reduces range, switch to a lighter band.",
+    "tempo_recommendations": "2s lift, 2s hold, 2s lower for each of the four positions",
+    "coaching_cues": ["Use a very light band — the range and muscle engagement matter more than the resistance", "Feel the lower shoulder blades activating in the Y position", "In the W and L positions, the external rotators are the primary target — squeeze them during the hold"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 5, "max_reps": 12},
+      {"goal": "strength", "min_reps": 5, "max_reps": 10}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "strength", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 60, "strength": 90},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["scapular", "rotator-cuff", "rehabilitation", "band", "shoulder"]
+  }
+}

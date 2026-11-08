@@ -1,0 +1,77 @@
+{
+  "exercise_id": "a3b4c5d6-e7f8-4901-a234-b56c78d90123",
+  "slug": "hex-press",
+  "name": "Dumbbell Hex Press / Squeeze Press",
+  "alternative_names": ["Squeeze Press", "Dumbbell Squeeze Press"],
+  "description": "The Hex Press (or Squeeze Press) is performed by holding two dumbbells pressed flat together and maintaining that pressing contact throughout the entire movement. The continuous inward squeezing force creates constant isometric adduction demand on the pectoral muscles throughout the press, providing a unique chest contraction stimulus that differs from standard dumbbell pressing.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench holding two dumbbells pressed flat against each other with a neutral grip (palms facing each other). Position the dumbbells above the chest.",
+    "setup_instructions": "Choose dumbbells with flat sides (hex dumbbells work best). Start light — the constant adduction effort is fatiguing. Lie back on the bench and press the dumbbells together before starting the movement.",
+    "steps": [
+      "Step 1: Hold both dumbbells pressed firmly together with neutral grip above the chest.",
+      "Step 2: Lower them together toward the lower chest, maintaining constant inward pressing force.",
+      "Step 3: Touch the chest and press back up to the starting position.",
+      "Step 4: Squeeze the dumbbells together as hard as possible throughout — if they separate, you have lost the key stimulus."
+    ],
+    "breathing_instructions": "Inhale before lowering. Exhale as you press up.",
+    "common_mistakes": [
+      "Letting the dumbbells separate, removing the adduction stimulus",
+      "Using too heavy a load, making it impossible to maintain the squeeze"
+    ],
+    "safety_considerations": [
+      "If dumbbells are round, they may roll apart — hex dumbbells are significantly safer for this exercise",
+      "Start with light weight and focus on maintaining contact"
+    ],
+    "range_of_motion_guidance": "Lower to light chest contact; full extension at top.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Pretend you are trying to crush both dumbbells into one",
+      "Squeeze harder at the top — peak chest contraction happens at lockout"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest-peak", "adduction", "squeeze"]
+  }
+}

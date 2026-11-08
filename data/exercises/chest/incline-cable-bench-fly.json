@@ -1,0 +1,82 @@
+{
+  "exercise_id": "a1b2c3d4-0003-4000-a000-chest0000003",
+  "slug": "incline-cable-bench-fly",
+  "name": "Incline Cable Bench Flye",
+  "alternative_names": ["Incline Cable Fly", "High Cable Flye on Incline Bench"],
+  "description": "The incline cable bench flye targets the clavicular head of the pectoralis major by combining the stretch-loaded arc of a cable fly with an inclined torso position. The constant tension from cables provides superior stimulus to the upper chest fibers compared to free-weight alternatives.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "chest-fly",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000012-0000-4000-a000-000000000012", "eq000016-0000-4000-a000-000000000016"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set an adjustable bench to a 30-45 degree incline and position it between dual low cable pulleys. Lie back on the bench, holding one D-handle in each hand with arms extended above the upper chest.",
+    "setup_instructions": "Attach D-handles to the lowest pulley setting on both sides of a dual cable machine. Set the bench incline between 30 and 45 degrees and center it in the cable station.",
+    "steps": [
+      "Step 1: Lie on the incline bench and grasp both handles, arms extended up and inward.",
+      "Step 2: Open the arms out to the sides in a wide arc, lowering until a stretch is felt across the upper chest.",
+      "Step 3: Squeeze the chest and drive both handles together, meeting above the upper pectorals.",
+      "Step 4: Pause briefly at the peak contraction before slowly reversing the motion.",
+      "Step 5: Maintain a fixed elbow angle and avoid letting the shoulder blades lift off the bench."
+    ],
+    "breathing_instructions": "Exhale as you bring the cables together. Inhale as you lower the arms out to the sides.",
+    "common_mistakes": [
+      "Setting the cables too high, reducing target stretch on the clavicular head",
+      "Straightening the elbows fully under load",
+      "Letting the shoulders creep toward the ears"
+    ],
+    "safety_considerations": [
+      "Retract and depress the shoulder blades before beginning",
+      "Start with lighter weight to find comfortable range of motion",
+      "Stop if you feel pinching in the anterior shoulder"
+    ],
+    "range_of_motion_guidance": "Lower arms until the elbows are roughly level with the bench, allowing a full upper chest stretch. Bring hands together above the upper chest for a strong peak contraction.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Push through the outer arm, not the hands", "Upper chest is the target — feel it stretch wide", "Squeeze and hold for a beat at the top"]
+  },
+  "variants": {
+    "easier": ["incline-dumbbell-press"],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": ["incline-cable-bench-fly"],
+    "equipment_alternatives": ["dumbbell-fly", "low-to-high-cable-fly"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 45},
+    "training_goals": ["hypertrophy", "upper_chest_development"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "upper-chest", "cable", "fly", "incline"]
+  }
+}

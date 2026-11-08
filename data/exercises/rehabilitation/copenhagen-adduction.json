@@ -1,0 +1,85 @@
+{
+  "exercise_id": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8e",
+  "slug": "copenhagen-adduction",
+  "name": "Copenhagen Adduction",
+  "alternative_names": ["Copenhagen Hip Adduction", "Side Plank Adduction"],
+  "description": "The Copenhagen adduction exercise is a high-load hip adductor strengthening exercise performed in a side-plank position with the top foot supported on a bench or partner. The bottom leg performs adduction to lift the body or hold isometrically. It produces very high adductor longus forces compared to other adductor exercises, making it effective for groin injury prevention and rehabilitation of adductor strains. Research has demonstrated its effectiveness in reducing groin injury rates in football players.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "carry",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "hip-adduction",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "ffffffff-0001-4000-a000-00000000000f", "muscle_slug": "adductor-longus" },
+      { "muscle_id": "ffffffff-0002-4000-a000-00000000000f", "muscle_slug": "adductor-magnus" }
+    ],
+    "secondary": [
+      { "muscle_id": "ffffffff-0003-4000-a000-00000000000f", "muscle_slug": "gracilis" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "obliques" },
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on one side on the floor. Support the upper body on the forearm. Rest the top foot on a bench or box at hip height. The bottom leg is free below the bench.",
+    "setup_instructions": "Use a bench or plyo box at hip height. Begin with the isometric hold version before progressing to the dynamic version.",
+    "steps": [
+      "Step 1: Lie on your side with forearm on the floor. Rest the top foot on a bench at hip height.",
+      "Step 2: The bottom leg hangs freely below the bench level.",
+      "Step 3: Lift the bottom leg up to meet the top leg, using the inner thigh (adductors) of the bottom leg.",
+      "Step 4: Hold the lifted position for 2 seconds.",
+      "Step 5: Lower the bottom leg slowly with control. Complete reps on one side, then switch."
+    ],
+    "breathing_instructions": "Exhale as the bottom leg lifts. Inhale on the return.",
+    "common_mistakes": [
+      "Using momentum or hip flexion rather than pure adduction",
+      "Not controlling the eccentric — the lowering phase is where the injury-prevention benefit occurs",
+      "Bench set too high, which reduces the adductor load"
+    ],
+    "safety_considerations": [
+      "High load exercise — begin with isometric holds before the dynamic version",
+      "In acute adductor strain, start very conservatively and progress by clinical guidance"
+    ],
+    "range_of_motion_guidance": "Lift the bottom leg from hanging below the bench to meeting the top leg. The key is the eccentric control on the way down.",
+    "tempo_recommendations": "2-second lift, 2-second hold, 3-second lower. 8–12 reps × 2–3 sets per side.",
+    "coaching_cues": [
+      "Focus on the slow, controlled lowering — that is the key training stimulus",
+      "Do not let the bottom leg just drop",
+      "Think about squeezing the inner thighs together"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 90 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "adductor", "groin", "hip", "intermediate", "injury-prevention"]
+  }
+}

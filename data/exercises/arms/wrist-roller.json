@@ -1,0 +1,63 @@
+{
+  "exercise_id": "a1b2c3d4-0123-4000-a000-100000000123",
+  "slug": "wrist-roller",
+  "name": "Wrist Roller",
+  "alternative_names": ["Forearm Roller", "Wrist Roll"],
+  "description": "The wrist roller uses a short bar with a rope attached to the center, weighted at the rope's end. The lifter holds the bar at arm's length (or at shoulder height) and winds the rope upward by alternately rotating each wrist, then unwinds it. This continuous motion trains both wrist flexors and extensors through their full range repeatedly, producing an intense forearm pump. It is one of the most demanding forearm exercises available.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"},
+      {"muscle_id": "88888888-0004-4000-a000-000000000008", "muscle_slug": "extensor-carpi-radialis"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000044-0000-4000-a000-000000000044"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Hold the wrist roller bar with both hands, arms extended forward at shoulder height. The rope and weight hang below.",
+    "setup_instructions": "Attach the desired weight to the rope. Hold with shoulder-width grip.",
+    "steps": [
+      "Step 1: Begin with arms extended forward at shoulder height, weight hanging.",
+      "Step 2: Rotate one wrist forward (overhand roll) to wind the rope upward.",
+      "Step 3: Alternate wrists, continuing to roll until the weight reaches the bar.",
+      "Step 4: Reverse the direction, slowly unrolling the rope back to the hanging position."
+    ],
+    "breathing_instructions": "Breathe freely throughout — focus on rhythm.",
+    "common_mistakes": ["Dropping the arms during the roll", "Using too much weight causing grip failure", "Rolling too fast to feel the muscles work"],
+    "safety_considerations": ["The rolling motion is demanding on the forearm tendons — start very light"],
+    "range_of_motion_guidance": "Full wind up and full unwind — do not stop partway.",
+    "tempo_recommendations": "Moderate and controlled",
+    "coaching_cues": ["Arms stay level", "Feel the burn in the forearms", "Control the unroll"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 3, "max_reps": 5}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 90},
+    "training_goals": ["hypertrophy", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearm", "wrist-flexors", "wrist-extensors", "isolation"]
+  }
+}

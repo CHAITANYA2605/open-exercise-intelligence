@@ -1,0 +1,80 @@
+{
+  "exercise_id": "ba010009-f3a2-4c1e-9b8d-7e6f5a4c3b32",
+  "slug": "underhand-barbell-row",
+  "name": "Underhand Barbell Row / Yates Row",
+  "alternative_names": ["Yates Row", "Reverse-Grip Bent-Over Row", "Supinated Barbell Row"],
+  "description": "The underhand barbell row, often called the Yates Row after bodybuilder Dorian Yates, uses a supinated (palms-up) grip and a more upright torso angle than a standard Pendlay or overhand row. The supinated grip increases bicep recruitment and shifts lat activation toward the lower fibers, while the more erect posture reduces lower back stress. The elbows travel closer to the body compared to an overhand row.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "row",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "22222222-0002-4000-a000-000000000002", "muscle_slug": "latissimus-dorsi"},
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"}
+    ],
+    "secondary": [
+      {"muscle_id": "66666666-0002-4000-a000-000000000006", "muscle_slug": "biceps-brachii-long-head"},
+      {"muscle_id": "66666666-0003-4000-a000-000000000006", "muscle_slug": "biceps-brachii-short-head"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002"],
+  "equipment_optional": ["eq000050-0000-4000-a000-000000000050"],
+  "execution": {
+    "starting_position": "Stand with feet hip-width apart. Hold a barbell with a supinated (underhand) grip at approximately shoulder width. Hinge at the hips to 45-70 degrees of forward lean — more upright than a Pendlay row.",
+    "setup_instructions": "Set the barbell on the floor or in a rack at mid-shin height. Maintain a neutral spine with shoulders pulled back.",
+    "steps": [
+      "Step 1: Hold the bar with an underhand grip, torso between 45 and 70 degrees from vertical.",
+      "Step 2: Brace the core and retract the scapulae slightly before each rep.",
+      "Step 3: Pull the bar toward the lower abdomen or navel, keeping elbows close to the torso.",
+      "Step 4: At the top, squeeze the lats and rhomboids hard.",
+      "Step 5: Lower the bar under control until arms are extended."
+    ],
+    "breathing_instructions": "Inhale before the pull, exhale during the concentric phase, inhale on the descent.",
+    "common_mistakes": [
+      "Using excessive body swing to initiate the row",
+      "Gripping too wide, reducing bicep and lower lat activation",
+      "Allowing the torso to drop too parallel, shifting the exercise pattern"
+    ],
+    "safety_considerations": [
+      "The supinated grip can place wrist stress at heavy loads — use lifting straps if grip becomes limiting",
+      "Maintain a neutral spine and avoid rounding the lower back"
+    ],
+    "range_of_motion_guidance": "Full arm extension at the bottom to bar touching lower abdomen at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": ["Palms up, elbows in", "Pull to the belly button", "More upright than a standard row"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 4, "max_reps": 8},
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 90},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["back", "row", "barbell", "yates"]
+  }
+}

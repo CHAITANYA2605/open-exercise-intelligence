@@ -1,0 +1,69 @@
+{
+  "exercise_id": "a1b2c3d4-0027-4000-a000-100000000027",
+  "slug": "cable-hip-extension",
+  "name": "Cable Standing Hip Extension / Donkey Kickback",
+  "alternative_names": ["Cable Glute Kickback", "Standing Cable Hip Extension", "Cable Donkey Kick"],
+  "description": "The cable standing hip extension uses a low cable pulley with an ankle cuff to provide resistance against hip extension. The lifter stands facing the cable stack and extends one leg backward, squeezing the glute at the peak of the movement. Unlike machine glute kickbacks, the cable maintains constant resistance throughout the full range of motion. It is a popular isolation exercise for targeting the gluteus maximus.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000011-0000-4000-a000-000000000011"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach an ankle cuff to the low cable pulley. Stand facing the cable machine, holding the frame for balance. Ankle cuff on the working leg.",
+    "setup_instructions": "Set a light to moderate weight. Attach the cuff securely. Stand close to the machine with the working ankle directly over the pulley.",
+    "steps": [
+      "Step 1: Keep the torso upright or with a slight forward lean, bracing the core.",
+      "Step 2: Keeping the knee nearly straight, extend the working leg backward.",
+      "Step 3: Squeeze the glute hard at the peak of the extension.",
+      "Step 4: Return the leg forward in a controlled manner, maintaining cable tension."
+    ],
+    "breathing_instructions": "Exhale on the extension, inhale on the return.",
+    "common_mistakes": ["Hyperextending the lower back instead of using glute force", "Swinging the leg with momentum rather than deliberate contraction", "Leaning forward excessively"],
+    "safety_considerations": ["Keep the lower back neutral — avoid arching to extend further", "Use a moderate weight that allows full glute control"],
+    "range_of_motion_guidance": "Extend as far as the glute can control without lower back compensation.",
+    "tempo_recommendations": "1-1-2-0 (hold at top, slow return)",
+    "coaching_cues": ["Squeeze the glute at the top", "Stand tall — don't arch", "No swinging"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 20, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["glute", "isolation", "cable", "unilateral"]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "exercise_id": "a1b2c3d4-e002-4000-a000-000000000102",
+  "slug": "arch-hold",
+  "name": "Arch Hold",
+  "alternative_names": ["Superman Hold", "Prone Superman"],
+  "description": "The arch hold is a prone isometric exercise where the athlete lies face-down and simultaneously lifts the arms, chest, and legs off the floor, forming an arched shape. It is the antagonist to the hollow hold and develops the posterior chain, particularly the erector spinae and gluteus maximus, under sustained isometric tension. Regular training of the arch hold contributes to spinal extensor endurance and scapular stability.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "plank",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hollow-body",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ],
+    "secondary": [
+      {"muscle_id": "dddddddd-0002-4000-a000-00000000000d", "muscle_slug": "biceps-femoris-long-head"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"},
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0003-4000-a000-000000000002", "muscle_slug": "rhomboid-major"},
+      {"muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie face-down (prone) on the floor with arms extended overhead, palms facing down, and legs straight.",
+    "setup_instructions": "No equipment needed. Use a mat for comfort on a hard floor.",
+    "steps": [
+      "Step 1: Lie prone with arms extended overhead and legs together.",
+      "Step 2: Squeeze the glutes firmly and engage the lower back muscles.",
+      "Step 3: Simultaneously lift both arms and both legs off the floor, raising as high as comfortable without straining the neck.",
+      "Step 4: Hold the arched position with the neck in a neutral position — do not hyperextend the neck upward.",
+      "Step 5: Hold for the prescribed duration, then lower with control."
+    ],
+    "breathing_instructions": "Breathe shallowly through the nose during the hold. Exhale slowly as you lower.",
+    "common_mistakes": [
+      "Hyperextending the neck by looking up excessively",
+      "Allowing the knees to bend during the hold",
+      "Failing to squeeze the glutes, leaving most of the work to the lower back alone",
+      "Holding the breath"
+    ],
+    "safety_considerations": [
+      "Keep the neck neutral — the gaze should be toward the floor, not the ceiling.",
+      "Avoid if experiencing acute lumbar hyperextension pain."
+    ],
+    "range_of_motion_guidance": "Lift arms and legs as high as can be maintained with a neutral neck and engaged glutes. Do not force range at the expense of form.",
+    "tempo_recommendations": "Hold for 20–60 seconds per set. Practice in conjunction with hollow holds to develop balanced spinal strength.",
+    "coaching_cues": [
+      "Squeeze your glutes like you are holding a coin",
+      "Long arms, long legs — reach in opposite directions",
+      "Keep your eyes on the floor"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 1, "max_reps": 1},
+      {"goal": "endurance", "min_reps": 1, "max_reps": 1}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 60, "endurance": 45},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["gymnastics", "core", "isometric", "posterior-chain"]
+  }
+}

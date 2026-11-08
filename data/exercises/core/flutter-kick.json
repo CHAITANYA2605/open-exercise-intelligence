@@ -1,0 +1,87 @@
+{
+  "exercise_id": "a1b2c3d4-e010-4000-a000-000000000110",
+  "slug": "flutter-kick",
+  "name": "Flutter Kick",
+  "alternative_names": ["Scissor Kick", "Lying Flutter Kick"],
+  "description": "Flutter kicks are a supine endurance core exercise borrowed from swimming training in which the athlete alternately raises and lowers each leg in a small, rapid, continuous motion while keeping both legs straight and the lower back pressed to the floor. The exercise trains the hip flexors and rectus abdominis under sustained anti-extension loading across a large number of repetitions, making it a popular conditioning finisher and military fitness staple.",
+  "category": "strength",
+  "exercise_type": "calisthenics",
+  "difficulty_level": "beginner",
+  "movement_pattern": "plank",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "core-endurance",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "bbbbbbbb-0002-4000-a000-00000000000b", "muscle_slug": "iliacus"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "secondary": [
+      {"muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris"},
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie flat on your back with arms at your sides or under the lower back for support. Legs extended, heels slightly off the floor.",
+    "setup_instructions": "Use a mat for comfort. Place hands under the lumbar curve if lower back arching is an issue.",
+    "steps": [
+      "Step 1: Lie supine with legs straight. Press the lower back into the floor.",
+      "Step 2: Raise both feet approximately 15–30 cm off the floor.",
+      "Step 3: Rapidly alternate kicking each leg up and down in small amplitude oscillations, like swimming freestyle.",
+      "Step 4: Keep the lower back pressed to the floor throughout — if it arches, raise leg height.",
+      "Step 5: Continue for the prescribed duration or rep count."
+    ],
+    "breathing_instructions": "Breathe continuously in a relaxed rhythm throughout the set. Do not hold the breath.",
+    "common_mistakes": [
+      "Allowing the lower back to arch away from the floor",
+      "Using too large an amplitude — small, rapid kicks are correct",
+      "Relaxing the leg muscles and letting the knees bend"
+    ],
+    "safety_considerations": [
+      "If the lower back arches despite effort, raise leg height or place hands under the lower back as a proprioceptive cue.",
+      "Not suitable during acute lower back pain flare-ups."
+    ],
+    "range_of_motion_guidance": "Legs move through a small arc of approximately 20–30 cm. The focus is speed and endurance, not amplitude.",
+    "tempo_recommendations": "Performed for time (20–60 seconds) or count (20–50 kicks per leg). Moderate to high speed.",
+    "coaching_cues": [
+      "Press your back into the floor — there should be no gap",
+      "Quick, small kicks — not big swings",
+      "Point your toes and squeeze your quads"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 20, "max_reps": 50}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 3, "max_sets": 5}
+    ],
+    "rest_periods": {"endurance": 45},
+    "training_goals": ["endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["core", "endurance", "conditioning", "military"]
+  }
+}

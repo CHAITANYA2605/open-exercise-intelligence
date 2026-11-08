@@ -1,0 +1,153 @@
+{
+  "exercise_id": "c78f4123-3fa7-488a-8305-91d5253b0ef7",
+  "slug": "hatfield-ssb-squat",
+  "name": "Hatfield Safety Squat Bar Squat",
+  "alternative_names": [
+    "Hatfield Squat",
+    "Self-Assisted Squat"
+  ],
+  "description": "A squat performed with a safety squat bar while the hands brace against the upright posts of a power rack. The rack contact eliminates balance demands, allowing higher training intensities or deeper ranges of motion. The SSB's camber promotes an upright torso naturally, making this a useful tool for athletes with shoulder or wrist mobility restrictions.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "squat",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "squat",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      },
+      {
+        "muscle_id": "cccccccc-0003-4000-a000-00000000000c",
+        "muscle_slug": "vastus-lateralis"
+      },
+      {
+        "muscle_id": "cccccccc-0004-4000-a000-00000000000c",
+        "muscle_slug": "vastus-medialis"
+      },
+      {
+        "muscle_id": "cccccccc-0005-4000-a000-00000000000c",
+        "muscle_slug": "vastus-intermedius"
+      },
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "dddddddd-0002-4000-a000-00000000000d",
+        "muscle_slug": "biceps-femoris-long-head"
+      },
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      },
+      {
+        "muscle_id": "22222222-0002-4000-b000-000000000022",
+        "muscle_slug": "gastrocnemius-medial"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000005-0000-4000-a000-000000000005",
+    "eq000023-0000-4000-a000-000000000023"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand inside a power rack with the safety squat bar on your upper back. Grip the rack uprights at a comfortable height with both hands.",
+    "setup_instructions": "Set the SSB in the rack at the correct height. Load the bar. Stand inside the rack and grip the uprights before unracking.",
+    "steps": [
+      "Step 1: Brace your core and unrack the bar, gripping the uprights lightly.",
+      "Step 2: Descend into a squat while keeping hands lightly on the rack uprights for balance \u2014 do not press off the rack to aid the ascent.",
+      "Step 3: Reach depth (at or below parallel) with an upright torso.",
+      "Step 4: Drive through the heels to return to standing."
+    ],
+    "breathing_instructions": "Inhale and brace before descent. Exhale during the ascent.",
+    "common_mistakes": [
+      "Pressing hard off the rack uprights to cheat the ascent",
+      "Excessive forward lean due to overloading"
+    ],
+    "safety_considerations": [
+      "Use the uprights only for balance \u2014 pressing off them turns this into an assisted exercise rather than a true squat"
+    ],
+    "range_of_motion_guidance": "Squat to at least parallel. The SSB's camber angle naturally encourages an upright torso.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Sit between your heels",
+      "Use the rack for balance only, not assistance"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 8
+      },
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      },
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "strength": 180,
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "strength",
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "legs",
+      "quads",
+      "ssb",
+      "squat",
+      "advanced"
+    ]
+  }
+}

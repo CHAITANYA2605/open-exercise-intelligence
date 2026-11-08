@@ -1,0 +1,143 @@
+{
+  "exercise_id": "16e47bde-51af-4763-83d0-7f1ef87a129b",
+  "slug": "banded-pull-apart",
+  "name": "Banded Pull-Apart",
+  "alternative_names": [
+    "Band Pull-Apart",
+    "Resistance Band Pull-Apart"
+  ],
+  "description": "A simple but highly effective rear deltoid, rhomboid, and rotator cuff exercise performed by pulling a resistance band apart horizontally at chest height. The pull-apart is frequently used as a warm-up, postural corrective exercise, and high-volume accessory for upper back and shoulder health.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "pull-apart",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0004-4000-a000-000000000001",
+        "muscle_slug": "posterior-deltoid"
+      },
+      {
+        "muscle_id": "44444444-0004-4000-a000-000000000004",
+        "muscle_slug": "rhomboids"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-middle"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "44444444-0003-4000-a000-000000000004",
+        "muscle_slug": "trapezius-lower"
+      },
+      {
+        "muscle_id": "22222222-0007-4000-a000-000000000002",
+        "muscle_slug": "infraspinatus"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000014-0000-4000-a000-000000000014"
+  ],
+  "equipment_optional": [
+    "eq000013-0000-4000-a000-000000000013"
+  ],
+  "execution": {
+    "starting_position": "Stand tall holding a resistance band with both hands at chest height, arms extended forward, hands shoulder-width apart.",
+    "setup_instructions": "Select a light to medium resistance band. Hold it with palms facing down or facing each other.",
+    "steps": [
+      "Step 1: Keep the arms relatively straight (elbows soft, not locked).",
+      "Step 2: Pull the band apart by moving both hands outward and backward.",
+      "Step 3: Continue until the band touches or nearly touches the chest, squeezing the rear delts and rhomboids.",
+      "Step 4: Return slowly to the starting position."
+    ],
+    "breathing_instructions": "Exhale on the pull apart. Inhale on the return.",
+    "common_mistakes": [
+      "Using a band that is too heavy, causing the arms to bend excessively",
+      "Moving through too fast without feeling the rear delt contraction"
+    ],
+    "safety_considerations": [
+      "This exercise should be performed for higher reps (15-25) with a light band for best results"
+    ],
+    "range_of_motion_guidance": "Full extension of the band behind the chest at the back position.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Arms stay relatively straight",
+      "Squeeze the shoulder blades together at the end"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      },
+      {
+        "goal": "endurance",
+        "min_reps": 15,
+        "max_reps": 25
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      },
+      {
+        "goal": "endurance",
+        "min_sets": 2,
+        "max_sets": 3
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90,
+      "endurance": 45
+    },
+    "training_goals": [
+      "hypertrophy",
+      "endurance"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "shoulders",
+      "rear-deltoid",
+      "band",
+      "posture",
+      "beginner",
+      "warm-up"
+    ]
+  }
+}

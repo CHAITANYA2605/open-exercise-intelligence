@@ -1,0 +1,88 @@
+{
+  "exercise_id": "f8a9b0c1-d2e3-4f4a-5b6c-d7e8f9a0b418",
+  "slug": "machine-shoulder-press",
+  "name": "Machine Shoulder Press",
+  "alternative_names": ["Seated Machine Press", "Shoulder Press Machine"],
+  "description": "The machine shoulder press is a seated overhead pressing exercise performed on a dedicated shoulder press machine. The guided movement path reduces the stabilization demand compared to free weights, making it accessible for beginners and useful for high-rep training or working through shoulder rehabilitation. The anterior and lateral deltoids are the primary movers.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "overhead",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "33333333-0003-4000-a000-000000000003", "muscle_slug": "deltoid-lateral"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"},
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0008-4000-a000-000000000002", "muscle_slug": "supraspinatus"},
+      {"muscle_id": "22222222-0009-4000-a000-000000000002", "muscle_slug": "subscapularis"}
+    ]
+  },
+  "equipment_required": ["eq000034-0000-4000-a000-000000000034"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit in the shoulder press machine with the back against the pad and feet flat on the floor. Adjust the seat height so the handles are at or just above shoulder level when seated. Grip the handles.",
+    "setup_instructions": "Adjust seat height so handles begin at approximately ear to shoulder level. Engage the seat pad to your preference for lumbar support.",
+    "steps": [
+      "Step 1: Sit with your back against the pad, feet flat on the floor. Grip the handles at shoulder height.",
+      "Step 2: Brace the core and keep the lower back against the seat.",
+      "Step 3: Exhale and press both handles upward until the arms are extended overhead.",
+      "Step 4: Inhale and lower the handles back to the starting position in a controlled manner."
+    ],
+    "breathing_instructions": "Exhale on the press; inhale on the descent.",
+    "common_mistakes": [
+      "Letting the lower back arch excessively away from the seat",
+      "Shrugging the shoulders upward at the top of the press"
+    ],
+    "safety_considerations": [
+      "If shoulder pain is felt, reduce the range of motion or see a professional before continuing",
+      "Do not go behind head with handles — keep press in front plane"
+    ],
+    "range_of_motion_guidance": "Press to full arm extension overhead; return handles to ear/shoulder level.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": [
+      "Keep the rib cage down — don't flare it upward as you press",
+      "Press straight up, not forward"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["barbell-overhead-press", "dumbbell-overhead-press"],
+    "unilateral": [],
+    "bilateral": ["barbell-overhead-press", "dumbbell-overhead-press"],
+    "equipment_alternatives": ["barbell-overhead-press", "dumbbell-overhead-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 4},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"strength": 150, "hypertrophy": 75, "endurance": 45},
+    "training_goals": ["hypertrophy", "strength"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["machine", "shoulders", "press", "beginner", "overhead"]
+  }
+}

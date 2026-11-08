@@ -1,0 +1,64 @@
+{
+  "exercise_id": "a1b2c3d4-0138-4000-a000-100000000138",
+  "slug": "cross-body-cable-extension",
+  "name": "Cross-Body Cable Tricep Extension",
+  "alternative_names": ["Cross-Cable Tricep Extension"],
+  "description": "The cross-body cable extension uses a cable set at shoulder height on one side while the lifter stands facing away or perpendicular, extending the arm across the body in a diagonal path. The cross-body path creates a unique torque on the tricep and allows the elbow to travel through a wider arc than standard pushdowns. It is an excellent cable tricep variation for targeting the lateral and medial heads with constant tension.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Attach a single handle to a high cable on one side. Stand perpendicular to the cable or facing away from the cable on the same side. Grasp the handle with the near hand, elbow bent.",
+    "setup_instructions": "The arm extends diagonally across the body — the cable should pull from the side, not from above.",
+    "steps": [
+      "Step 1: Begin with the elbow bent and the handle near the shoulder.",
+      "Step 2: Extend the elbow, pressing the handle diagonally across and downward.",
+      "Step 3: Hold at full extension for one second.",
+      "Step 4: Return with control to the bent position."
+    ],
+    "breathing_instructions": "Exhale on extension, inhale on return.",
+    "common_mistakes": ["Using the shoulder to push rather than tricep extension", "Torso rotating"],
+    "safety_considerations": ["Keep the shoulder stable — only the elbow joint moves"],
+    "range_of_motion_guidance": "Full elbow flexion to full extension.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": ["Extension only — don't rotate", "Squeeze at lockout", "Upper arm stays still"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tricep", "isolation", "cable", "unilateral"]
+  }
+}

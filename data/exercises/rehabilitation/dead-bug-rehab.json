@@ -1,0 +1,85 @@
+{
+  "exercise_id": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
+  "slug": "dead-bug-rehab",
+  "name": "Dead Bug",
+  "alternative_names": ["Supine Dead Bug", "Dead Bug Core Exercise"],
+  "description": "The dead bug is a supine core stability exercise that challenges the ability to maintain a neutral lumbar spine while simultaneously moving the opposite arm and leg. The key training stimulus is anti-extension — resisting the tendency of the lower back to arch away from the floor as the limbs extend. It is a preferred core exercise in lumbar rehabilitation because it allows full core engagement without spinal loading, making it appropriate in early recovery stages.",
+  "category": "rehabilitation",
+  "exercise_type": "strength",
+  "difficulty_level": "beginner",
+  "movement_pattern": "carry",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "alternating",
+  "exercise_family": "core-stability",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis" },
+      { "muscle_id": "99999999-0001-4000-a000-000000000009", "muscle_slug": "rectus-abdominis" }
+    ],
+    "secondary": [
+      { "muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "obliques" },
+      { "muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on the back with the lower back pressed flat against the floor. Arms point straight toward the ceiling. Hips and knees are both bent to 90 degrees (tabletop position).",
+    "setup_instructions": "No equipment required. Use a mat.",
+    "steps": [
+      "Step 1: Lie supine with arms vertical, hips and knees at 90 degrees (table-top).",
+      "Step 2: Take a deep breath in. On the exhale, brace the core hard and press the lower back firmly into the floor.",
+      "Step 3: Simultaneously lower the right arm overhead (toward the floor behind the head) and extend the left leg toward the floor.",
+      "Step 4: Lower as far as the lower back can remain flat on the floor — stop if the low back begins to arch.",
+      "Step 5: Return both limbs to the starting position on the next exhale. Switch sides."
+    ],
+    "breathing_instructions": "Exhale forcefully to brace before each limb extension. Breathe in at the top.",
+    "common_mistakes": [
+      "Letting the lower back arch off the floor — this is the main error; range must be reduced if it occurs",
+      "Moving too fast and using momentum rather than deliberate control",
+      "Neck tension from trying to hold the head up — rest the head on the floor"
+    ],
+    "safety_considerations": [
+      "Safe for most low back pain patients — often one of the first exercises reintroduced",
+      "If pain increases during the movement, stop and consult a clinician"
+    ],
+    "range_of_motion_guidance": "Full extension of the working arm and leg to just above the floor — only go as far as lumbar neutrality can be maintained.",
+    "tempo_recommendations": "3-second lowering, 1-second pause near floor, 2-second return. 8–12 reps each side × 2–3 sets.",
+    "coaching_cues": [
+      "Flatten your back into the floor before each movement",
+      "Move like you are lowering in slow motion",
+      "If your back lifts off the floor, only go halfway"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "strength", "min_reps": 8, "max_reps": 12 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "strength", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "strength": 60 },
+    "training_goals": ["strength"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["rehabilitation", "core", "lumbar", "anti-extension", "stability", "beginner"]
+  }
+}

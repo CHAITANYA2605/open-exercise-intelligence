@@ -1,0 +1,84 @@
+{
+  "exercise_id": "a4b5c6d7-e8f9-4a0b-1c2d-3e4f5a6b7c8d",
+  "slug": "quad-stretch",
+  "name": "Standing Quadriceps Stretch",
+  "alternative_names": ["Standing Quad Stretch", "Standing Thigh Stretch"],
+  "description": "The standing quadriceps stretch targets the rectus femoris and other quadriceps muscles through knee flexion while standing on one leg. Because the rectus femoris crosses both the hip and knee, the stretch is enhanced by simultaneously extending the hip of the stretching leg, which is achieved by drawing the foot toward the glute while maintaining an upright posture.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "lunge",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "cccccccc-0002-4000-a000-00000000000c", "muscle_slug": "rectus-femoris" },
+      { "muscle_id": "cccccccc-0003-4000-a000-00000000000c", "muscle_slug": "vastus-lateralis" }
+    ],
+    "secondary": [
+      { "muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "eeeeeeee-0003-4000-a000-00000000000e", "muscle_slug": "gluteus-medius" }
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand on one foot. Bend the other knee and grasp the ankle of the bent leg with the hand on the same side. Stand upright.",
+    "setup_instructions": "If balance is a challenge, hold onto a wall or sturdy surface with the free hand.",
+    "steps": [
+      "Step 1: Stand on one leg with knees together.",
+      "Step 2: Grasp the ankle of the opposite leg and draw the heel toward the glute.",
+      "Step 3: Squeeze the glute of the stretching leg to extend the hip slightly, increasing the stretch on the rectus femoris.",
+      "Step 4: Keep both knees together and the torso upright — do not let the hip of the raised leg flare outward.",
+      "Step 5: Hold 30–60 seconds, then switch legs."
+    ],
+    "breathing_instructions": "Breathe slowly and deeply throughout the hold.",
+    "common_mistakes": [
+      "Letting the knee of the stretching leg flare sideways — keep knees aligned",
+      "Leaning forward at the hip, which reduces the stretch on the rectus femoris",
+      "Pulling the heel into the glute with excessive force, stressing the knee joint"
+    ],
+    "safety_considerations": [
+      "Those with knee pain should ensure the stretch is felt in the thigh, not the knee",
+      "Do not wrench the ankle — a gentle hold is sufficient"
+    ],
+    "range_of_motion_guidance": "Bring the heel toward the glute as far as comfortable without discomfort in the knee.",
+    "tempo_recommendations": "Hold 30–60 seconds per side. 2–3 rounds.",
+    "coaching_cues": [
+      "Squeeze the glute of the leg you are stretching to increase the stretch",
+      "Stand tall — imagine a string pulling you up through the top of your head",
+      "Keep the knees touching or close together"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+    ],
+    "rest_periods": { "mobility": 10 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["quad", "stretch", "rectus-femoris", "beginner", "mobility"]
+  }
+}

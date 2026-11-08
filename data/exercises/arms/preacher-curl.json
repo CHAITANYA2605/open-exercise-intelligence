@@ -1,0 +1,113 @@
+{
+  "exercise_id": "e5f6a7b8-0004-4000-8005-000000000004",
+  "slug": "preacher-curl",
+  "name": "Preacher Curl",
+  "alternative_names": [
+    "EZ-Bar Preacher Curl",
+    "Scott Curl"
+  ],
+  "description": "The preacher curl is a biceps curl variation performed with the upper arms resting on an angled arm pad, which prevents elbow movement and places the biceps under constant tension. The preacher bench position provides a greater stretch on the long head of the biceps at the bottom and prevents cheating with the torso.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000003-0000-4000-a000-000000000003",
+    "eq000017-0000-4000-a000-000000000017"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit at the preacher bench with the upper arms resting flat on the angled pad. Hold an EZ-curl bar or dumbbells with a supinated or semi-supinated grip. Arms nearly fully extended.",
+    "setup_instructions": "Adjust the bench seat height so the upper arms lie flat on the pad with the armpits at the top edge of the pad.",
+    "steps": [
+      "Curl the bar upward by flexing the elbows, keeping the upper arms in contact with the pad.",
+      "Raise until full biceps contraction is achieved.",
+      "Lower slowly and under control \u2014 the eccentric portion is especially important here."
+    ],
+    "breathing_instructions": "Exhale on the curl, inhale on descent.",
+    "common_mistakes": [
+      "Lifting the upper arms off the pad to gain leverage",
+      "Not lowering to full extension, missing the stretch"
+    ],
+    "safety_considerations": [
+      "The preacher position can stress the distal biceps tendon at full extension \u2014 control the descent"
+    ],
+    "range_of_motion_guidance": "Near-full extension at the bottom (avoid hyperextension), full contraction at the top.",
+    "tempo_recommendations": "2-1-3-0",
+    "coaching_cues": [
+      "Keep the upper arms welded to the pad",
+      "Control the descent \u2014 do not let the bar drop"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 10,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 75
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "biceps",
+      "preacher",
+      "isolation"
+    ]
+  }
+}

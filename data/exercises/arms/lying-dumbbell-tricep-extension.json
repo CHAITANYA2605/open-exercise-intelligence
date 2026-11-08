@@ -1,0 +1,63 @@
+{
+  "exercise_id": "a1b2c3d4-0134-4000-a000-100000000134",
+  "slug": "lying-dumbbell-tricep-extension",
+  "name": "Lying Dumbbell Tricep Extension",
+  "alternative_names": ["DB Skull Crusher", "Dumbbell Skull Crusher"],
+  "description": "The lying dumbbell tricep extension is performed with a dumbbell in each hand while lying on a flat bench. Because each arm works independently, unilateral strength imbalances are addressed and each elbow can travel independently. The dumbbells can be held with the palms facing each other (neutral grip) or supinated, allowing different levels of elbow stress. It is a versatile skull crusher alternative that is gentler on the elbows than the barbell version.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "extension",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "77777777-0004-4000-a000-000000000007", "muscle_slug": "triceps-medial-head"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007", "eq000015-0000-4000-a000-000000000015"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on a flat bench, a dumbbell in each hand, arms extended above the chest with a neutral grip (palms facing each other).",
+    "setup_instructions": "Press the dumbbells into position before lying down, or have a partner hand them. Keep the elbows shoulder-width.",
+    "steps": [
+      "Step 1: Begin with arms extended, dumbbells above the face.",
+      "Step 2: Bend the elbows to lower both dumbbells toward the sides of the head.",
+      "Step 3: Lower until maximum elbow flexion.",
+      "Step 4: Extend the elbows to press back to the starting position."
+    ],
+    "breathing_instructions": "Inhale on descent, exhale on press.",
+    "common_mistakes": ["Flaring the elbows wide", "Upper arms moving during the exercise", "Letting the dumbbells tap together at the top"],
+    "safety_considerations": ["Dumbbells are safer than barbells as each arm can move independently if one side fails"],
+    "range_of_motion_guidance": "Full extension to dumbbells at temple/ear level.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": ["Elbows stay shoulder-width", "Upper arms pinned — just the forearms move", "Neutral grip throughout"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 75},
+    "training_goals": ["hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["tricep", "isolation", "dumbbell"]
+  }
+}

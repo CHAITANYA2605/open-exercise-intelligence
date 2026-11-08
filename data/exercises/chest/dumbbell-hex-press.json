@@ -1,0 +1,131 @@
+{
+  "exercise_id": "b93f3fbc-97a5-49eb-a44b-0ba159b9c942",
+  "slug": "dumbbell-hex-press",
+  "name": "Dumbbell Hex Press",
+  "alternative_names": [
+    "Crush Press",
+    "DB Squeeze Press"
+  ],
+  "description": "A chest press variation where two dumbbells are pressed together throughout the entire movement, maintaining constant medial pressure. This squeeze activates the pectoralis major's adduction function and significantly increases sternal head activation, making it a highly effective inner chest exercise.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "22222222-0002-4000-a000-000000000002",
+        "muscle_slug": "pectoralis-major"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      },
+      {
+        "muscle_id": "77777777-0004-4000-a000-000000000007",
+        "muscle_slug": "triceps-medial-head"
+      },
+      {
+        "muscle_id": "11111111-0002-4000-a000-000000000001",
+        "muscle_slug": "anterior-deltoid"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "22222222-0004-4000-a000-000000000002",
+        "muscle_slug": "serratus-anterior"
+      },
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000007-0000-4000-a000-000000000007",
+    "eq000015-0000-4000-a000-000000000015"
+  ],
+  "equipment_optional": [
+    "eq000016-0000-4000-a000-000000000016"
+  ],
+  "execution": {
+    "starting_position": "Lie on a flat bench holding two dumbbells pressed together at chest height with the flat ends facing each other (hence hex).",
+    "setup_instructions": "Select two hex-sided dumbbells that can be pressed together stably. Lie on a flat bench and press them together.",
+    "steps": [
+      "Step 1: Keep the dumbbells pressed together throughout \u2014 do not let them separate.",
+      "Step 2: Lower the dumbbells as a single unit to your chest, elbows tucked at about 45 degrees.",
+      "Step 3: Press back up to lockout while continuing to squeeze the dumbbells together.",
+      "Step 4: Maintain medial pressure throughout the entire set."
+    ],
+    "breathing_instructions": "Inhale on the descent. Exhale on the press.",
+    "common_mistakes": [
+      "Letting the dumbbells separate, reducing the adduction stimulus",
+      "Flaring the elbows wide"
+    ],
+    "safety_considerations": [
+      "Use hex dumbbells or dumbbells with flat sides \u2014 round dumbbells will roll and may be unsafe"
+    ],
+    "range_of_motion_guidance": "Lower until the dumbbells touch the chest. Full extension at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Squeeze the dumbbells together the whole time",
+      "Inner chest is working"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "chest",
+      "inner-chest",
+      "dumbbell",
+      "squeeze-press",
+      "isolation"
+    ]
+  }
+}

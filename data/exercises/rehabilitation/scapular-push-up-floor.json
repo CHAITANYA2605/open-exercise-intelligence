@@ -1,0 +1,67 @@
+{
+  "exercise_id": "a1b2c3d4-e5f6-4789-a0b1-c2d3e4f50007",
+  "slug": "scapular-push-up-floor",
+  "name": "Scapular Push-Up on Floor",
+  "alternative_names": ["Scapular Protraction Push-Up", "Serratus Push-Up"],
+  "description": "The scapular push-up isolates the serratus anterior by performing the protraction-retraction movement of the scapulae while maintaining a rigid plank position. Unlike a standard push-up, the elbows remain fully locked throughout the movement — only the shoulder blades move. This exercise is a cornerstone of shoulder rehabilitation for winging scapula, rotator cuff issues, and overhead athlete conditioning.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "rehab",
+  "status": "active",
+  "muscles": {
+    "primary": [{"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}],
+    "secondary": [
+      {"muscle_id": "44444444-0004-4000-a000-000000000004", "muscle_slug": "trapezius-lower"},
+      {"muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "77777777-0002-4000-a000-000000000007", "muscle_slug": "triceps-long-head"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Assume a standard push-up position with arms fully extended, hands directly under shoulders. Keep the entire body rigid from head to heels.",
+    "setup_instructions": "No equipment required. Ensure a non-slip surface. Can be performed from knees for a modified version.",
+    "steps": [
+      "Step 1: Begin in a push-up plank with elbows fully locked. Do not bend the elbows at any point.",
+      "Step 2: Allow the chest to drop between the shoulder blades by letting the scapulae retract (pinch together).",
+      "Step 3: Push the floor away with both hands to protract the scapulae, making the upper back rounded and scapulae spread wide.",
+      "Step 4: Hold the protracted position briefly, then return to retraction. Repeat."
+    ],
+    "breathing_instructions": "Exhale as you protract (spread the shoulder blades). Inhale as you retract (pinch them together).",
+    "common_mistakes": ["Bending the elbows — this converts it into a regular push-up", "Losing the rigid plank body position and sagging at the hips", "Moving too quickly — slow movement ensures scapular isolation"],
+    "safety_considerations": ["Avoid with acute shoulder impingement presenting with protraction pain", "Consult a physiotherapist if you have diagnosed scapular winging"],
+    "range_of_motion_guidance": "The range is relatively small — focus on maximum protraction vs. retraction of the shoulder blades, not on raising or lowering the torso.",
+    "tempo_recommendations": "2-1-2-1 (2s retract, 1s hold, 2s protract, 1s hold)",
+    "coaching_cues": ["Arms stay straight throughout — only the shoulder blades move", "Push the floor away as hard as possible at the top", "Think about spreading the shoulder blades wide like wings"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 10, "max_reps": 20},
+      {"goal": "mobility", "min_reps": 8, "max_reps": 15}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3},
+      {"goal": "mobility", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"endurance": 45, "mobility": 60},
+    "training_goals": ["mobility", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["scapular", "rehabilitation", "shoulder", "serratus-anterior"]
+  }
+}

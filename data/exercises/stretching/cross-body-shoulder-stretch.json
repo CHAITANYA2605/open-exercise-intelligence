@@ -1,0 +1,82 @@
+{
+  "exercise_id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+  "slug": "cross-body-shoulder-stretch",
+  "name": "Cross-Body Shoulder Stretch",
+  "alternative_names": ["Horizontal Adduction Shoulder Stretch", "Posterior Shoulder Stretch"],
+  "description": "The cross-body shoulder stretch targets the posterior shoulder capsule, posterior deltoid, and teres minor by drawing the arm across the body in horizontal adduction. It is one of the most effective and accessible stretches for the posterior shoulder structures, commonly used to manage shoulder impingement risk factors and improve internal rotation mobility. The key technique point is keeping the shoulder depressed and not elevated during the stretch.",
+  "category": "flexibility",
+  "exercise_type": "stretching",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "static",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "stretch",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" },
+      { "muscle_id": "22222222-0006-4000-a000-000000000002", "muscle_slug": "teres-minor" }
+    ],
+    "secondary": [
+      { "muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Stand or sit upright. Bring one arm across the body at approximately shoulder height.",
+    "setup_instructions": "No equipment needed. This stretch can be done standing, seated, or lying down.",
+    "steps": [
+      "Step 1: Raise one arm to shoulder height and reach it across the body horizontally.",
+      "Step 2: Use the opposite hand or forearm to gently press the extended arm closer to the chest.",
+      "Step 3: Keep the shoulder of the working arm pressed down — do not let it shrug toward the ear.",
+      "Step 4: Hold until a stretch is felt in the back of the shoulder — 30–60 seconds.",
+      "Step 5: Release and switch sides."
+    ],
+    "breathing_instructions": "Breathe slowly throughout the hold.",
+    "common_mistakes": [
+      "Shrugging the shoulder during the stretch — depress and pack the shoulder first",
+      "Pulling too aggressively with the assisting hand",
+      "Flexing the elbow — keep the arm relatively straight for maximum tension on the posterior shoulder"
+    ],
+    "safety_considerations": [
+      "If acute shoulder pain is present, avoid and consult a clinician",
+      "The stretch should be felt in the back of the shoulder — if felt in the front or as a sharp pain, adjust or stop"
+    ],
+    "range_of_motion_guidance": "Draw the arm across the body until a comfortable stretch is felt in the posterior shoulder.",
+    "tempo_recommendations": "Hold 30–60 seconds per side. 2–3 rounds.",
+    "coaching_cues": [
+      "Press the shoulder blade down before you apply any pressure with the other hand",
+      "Feel the stretch in the back of your shoulder, not the top",
+      "Breathe wide"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "mobility", "min_reps": 2, "max_reps": 3 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "mobility", "min_sets": 1, "max_sets": 2 }
+    ],
+    "rest_periods": { "mobility": 10 },
+    "training_goals": ["mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["shoulder", "posterior-deltoid", "stretch", "beginner", "rotator-cuff"]
+  }
+}

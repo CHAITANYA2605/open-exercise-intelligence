@@ -1,0 +1,84 @@
+{
+  "exercise_id": "a1b2c3d4-0014-4000-a000-chest0000014",
+  "slug": "cobra-push-up",
+  "name": "Cobra Push-Up",
+  "alternative_names": ["Dive Bomber Push-Up", "Hindu Push-Up Lower Phase"],
+  "description": "The cobra push-up begins in a downward-dog position and dips the body forward in a sweeping arc until the chest is near the floor, then extends the spine into a cobra-like backbend. This movement trains the chest at the bottom of the arc while also opening the thoracic spine, shoulders, and hip flexors through a full-body coordinated motion.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Begin in a downward-facing dog position: hips high, arms and legs straight, forming an inverted V with the body.",
+    "setup_instructions": "No equipment needed. Clear enough floor space for a full-body extended position.",
+    "steps": [
+      "Step 1: Start in a downward-dog position with hips elevated.",
+      "Step 2: Bend the elbows and dip the head and chest forward and down toward the floor in a sweeping arc.",
+      "Step 3: As the chest passes between the hands, begin extending the elbows and driving the hips toward the floor.",
+      "Step 4: Fully extend the arms and open the chest upward into a cobra or upward-dog back extension.",
+      "Step 5: Reverse the motion or return to the downward-dog position to complete one rep."
+    ],
+    "breathing_instructions": "Exhale as you dip forward and down. Inhale as you extend up into the cobra position.",
+    "common_mistakes": [
+      "Skipping the arc and just doing an up-down movement",
+      "Letting the hips touch the floor during the dip phase",
+      "Not opening the chest fully at the top"
+    ],
+    "safety_considerations": [
+      "Avoid if you have lumbar spine issues — the cobra extension loads the low back",
+      "Warm up wrists and shoulders before performing",
+      "Progress from a modified version if thoracic mobility is limited"
+    ],
+    "range_of_motion_guidance": "The dip phase brings the chest close to the floor between the hands. The cobra phase extends fully overhead without letting the hips touch down.",
+    "tempo_recommendations": "2-0-2-0",
+    "coaching_cues": ["Dive down through the arms, not straight into the floor", "Open the chest to the sky at the top", "Think about drawing a 'U' shape with your body"]
+  },
+  "variants": {
+    "easier": ["push-up"],
+    "harder": ["pseudo-planche-push-up"],
+    "unilateral": [],
+    "bilateral": ["cobra-push-up"],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 8, "max_reps": 15},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 25}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"hypertrophy": 60, "endurance": 30},
+    "training_goals": ["hypertrophy", "functional_fitness", "mobility", "flexibility"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "bodyweight", "push-up", "mobility", "full-body", "yoga-inspired"]
+  }
+}

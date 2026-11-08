@@ -1,0 +1,80 @@
+{
+  "exercise_id": "a39f98f5-eb39-4a93-969d-a96c4e97ca31",
+  "slug": "cable-external-rotation-high-pulley",
+  "name": "Cable External Rotation (High Pulley)",
+  "alternative_names": ["High Cable External Rotation", "Overhead External Rotation Cable"],
+  "description": "Cable external rotation from a high pulley trains the infraspinatus and teres minor with the shoulder in an elevated (flexed) starting position, pulling the cable from overhead and externally rotating the shoulder against the resistance. This overhead starting position is used in overhead sport rehabilitation protocols where the rotator cuff must be strengthened at angles of elevated humeral position.",
+  "category": "rehabilitation",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "rotation",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "unilateral",
+  "exercise_family": "rotation",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0005-4000-a000-000000000003", "muscle_slug": "infraspinatus" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000010-0000-4000-a000-000000000010"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set a cable pulley to the highest position. Grip the handle and position the working arm at approximately 120-150 degrees of flexion (angled overhead). Elbow bent to 90 degrees.",
+    "setup_instructions": "Stand at a distance that keeps the cable taut in the starting position. Use very light weight.",
+    "steps": [
+      "Step 1: Begin with arm elevated forward-overhead, elbow bent to 90 degrees, forearm roughly parallel to floor.",
+      "Step 2: Externally rotate the shoulder — forearm moves upward and backward.",
+      "Step 3: Continue rotation as far as comfortable.",
+      "Step 4: Return to starting position.",
+      "Step 5: Complete all reps then switch sides."
+    ],
+    "breathing_instructions": "Exhale rotating out. Inhale returning.",
+    "common_mistakes": [
+      "Dropping the entire arm rather than rotating at the shoulder",
+      "Moving too fast — this is a slow, controlled rehabilitation exercise"
+    ],
+    "safety_considerations": [
+      "Very light loads — rotator cuff rehabilitation exercise",
+      "If pain occurs at any elevation level, reduce range or stop"
+    ],
+    "range_of_motion_guidance": "Available pain-free range of external rotation with arm elevated.",
+    "tempo_recommendations": "3-1-3-0",
+    "coaching_cues": [
+      "Elbow stays fixed — only the forearm moves",
+      "Smooth rotation — no jerky movement",
+      "Light weight, high precision"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "rehabilitation", "min_reps": 12, "max_reps": 20 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "rehabilitation": 60 },
+    "training_goals": ["rehabilitation"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["cable", "external-rotation", "high-pulley", "rotator-cuff", "rehabilitation"]
+  }
+}

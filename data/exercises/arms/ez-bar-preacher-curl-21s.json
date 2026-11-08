@@ -1,0 +1,123 @@
+{
+  "exercise_id": "dea17095-55b7-40c0-bedf-d06786a430a0",
+  "slug": "ez-bar-preacher-curl-21s",
+  "name": "EZ Bar Preacher Curl 21s",
+  "alternative_names": [
+    "Preacher 21s"
+  ],
+  "description": "A preacher curl 21s protocol using an EZ bar on a preacher bench. The preacher bench eliminates cheating by fixing the upper arm against the pad, and the 21s protocol applies partial and full-range stress to maximize bicep time under tension.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "66666666-0003-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-short-head"
+      },
+      {
+        "muscle_id": "66666666-0004-4000-a000-000000000006",
+        "muscle_slug": "brachialis"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "66666666-0002-4000-a000-000000000006",
+        "muscle_slug": "biceps-brachii-long-head"
+      },
+      {
+        "muscle_id": "66666666-0005-4000-a000-000000000006",
+        "muscle_slug": "brachioradialis"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "88888888-0002-4000-a000-000000000008",
+        "muscle_slug": "flexor-carpi-radialis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000003-0000-4000-a000-000000000003",
+    "eq000017-0000-4000-a000-000000000017"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Sit at a preacher bench with the upper arms firmly against the angled pad. Grip an EZ bar with an underhand grip.",
+    "setup_instructions": "Set up the preacher bench. Load a light EZ bar. Position upper arms on the pad.",
+    "steps": [
+      "Step 1 (reps 1-7): Curl from full extension to the halfway point (forearms parallel to floor). Return and repeat 7 times.",
+      "Step 2 (reps 8-14): Start from the halfway point and curl to full contraction. Return to halfway and repeat 7 times.",
+      "Step 3 (reps 15-21): Perform 7 full-range reps from full extension to full contraction."
+    ],
+    "breathing_instructions": "Exhale on each curl, inhale on each lowering.",
+    "common_mistakes": [
+      "Lifting the upper arms off the pad to assist the movement",
+      "Using too heavy a weight"
+    ],
+    "safety_considerations": [
+      "Upper arms must remain on the pad throughout \u2014 the pad is the stabilizer"
+    ],
+    "range_of_motion_guidance": "Full extension (arms straight) in segment 1. Full contraction in segment 2 and 3.",
+    "tempo_recommendations": "2-0-2-0 per rep",
+    "coaching_cues": [
+      "Upper arms stay on the pad",
+      "Feel the bottom stretch in segment 1"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_reps": 8,
+        "max_reps": 15
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "hypertrophy",
+        "min_sets": 3,
+        "max_sets": 4
+      }
+    ],
+    "rest_periods": {
+      "hypertrophy": 90
+    },
+    "training_goals": [
+      "hypertrophy"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [
+      "arms",
+      "biceps",
+      "preacher",
+      "21s",
+      "ez-bar"
+    ]
+  }
+}

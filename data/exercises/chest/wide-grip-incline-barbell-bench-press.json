@@ -1,0 +1,80 @@
+{
+  "exercise_id": "c5d6e7f8-a9b0-4123-c456-d78e90f12a27",
+  "slug": "wide-grip-incline-barbell-bench-press",
+  "name": "Wide-Grip Incline Barbell Bench Press",
+  "alternative_names": ["Wide Grip Incline Press"],
+  "description": "An incline barbell bench press performed with a grip wider than shoulder-width. The wide grip reduces the range of motion required at the elbow and shifts the shoulder position to greater horizontal abduction, increasing the stretch on the pectoralis major clavicular fibers at the bottom position. This grip is commonly used by powerlifters and bodybuilders to maximize chest contribution in incline pressing.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "22222222-0007-4000-a000-000000000002", "muscle_slug": "infraspinatus"},
+      {"muscle_id": "11111111-0004-4000-a000-000000000001", "muscle_slug": "pectoralis-minor"}
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000016-0000-4000-a000-000000000016", "eq000023-0000-4000-a000-000000000023"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie on an incline bench (30–45 degrees) under a racked barbell. Grip the bar with hands outside the standard bench press grip — typically with pinkies near the outer ring marks on most bars.",
+    "setup_instructions": "Set incline to 30–45 degrees. Rack height should allow unracking with slightly bent arms. Use collars on the barbell.",
+    "steps": [
+      "Step 1: Unrack the bar with a wide grip and position it above the upper chest.",
+      "Step 2: Lower the bar to the upper chest, allowing the elbows to flare wider than a standard grip would permit.",
+      "Step 3: Touch the clavicular area lightly and press back to full lockout.",
+      "Step 4: Keep the upper back pinched against the bench throughout."
+    ],
+    "breathing_instructions": "Inhale before descent, exhale through the press.",
+    "common_mistakes": [
+      "Grip too wide — beyond the outer ring marks places excessive stress on the wrists and shoulders",
+      "Excessive elbow flare that strains the shoulder joint",
+      "Bar drifting toward the belly during the press — maintain the vertical bar path"
+    ],
+    "safety_considerations": [
+      "Wide grip incline pressing places greater shoulder stress — start with less weight than standard grip",
+      "Use a spotter, particularly when the grip is wider and control may be compromised",
+      "Avoid taking the grip to the extreme — 1–2 finger widths outside standard grip is sufficient"
+    ],
+    "range_of_motion_guidance": "Full range from chest contact to lockout. The wide grip slightly reduces the range of motion needed at the elbow.",
+    "tempo_recommendations": "3-1-2-0",
+    "coaching_cues": [
+      "Lead the bar with the chest, not the elbows",
+      "Keep the shoulder blades pulled together — this protects the shoulder in the wide grip position"
+    ]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 3, "max_reps": 6},
+      {"goal": "hypertrophy", "min_reps": 6, "max_reps": 12}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 4, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 180, "hypertrophy": 120},
+    "training_goals": ["strength", "hypertrophy"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["barbell", "incline", "wide-grip", "bench-press", "upper-chest"]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "exercise_id": "a3b4c5d6-e7f8-4a9b-0c1d-e2f3a4b5c443",
+  "slug": "wrist-curl",
+  "name": "Wrist Curl",
+  "alternative_names": ["Palms-Up Wrist Curl", "Forearm Flexion Curl"],
+  "description": "The wrist curl is an isolation exercise for the wrist flexor muscles of the forearm, performed with the forearms resting on a flat surface and the wrists hanging free beyond the edge. The palms face upward, and the wrists flex to curl the weight toward the forearm. It directly targets the flexor carpi radialis and flexor carpi ulnaris, with contribution from the finger flexors. It is a fundamental forearm-strengthening exercise for grip-dependent sports and activities.",
+  "category": "strength",
+  "exercise_type": "isolation",
+  "difficulty_level": "beginner",
+  "movement_pattern": "pull",
+  "force_type": "pull",
+  "mechanics_type": "isolation",
+  "laterality": "bilateral",
+  "exercise_family": "curl",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "88888888-0002-4000-a000-000000000008", "muscle_slug": "flexor-carpi-radialis"},
+      {"muscle_id": "88888888-0003-4000-a000-000000000008", "muscle_slug": "flexor-carpi-ulnaris"}
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": ["eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": ["eq000015-0000-4000-a000-000000000015", "eq000003-0000-4000-a000-000000000003"],
+  "execution": {
+    "starting_position": "Sit on a bench. Rest the forearms on the thighs or on the bench surface with the wrists hanging beyond the edge, palms facing up. Hold a dumbbell (or barbell) in the hands with the fingers curled around it.",
+    "setup_instructions": "Sit on a flat bench. Place both forearms on the thighs or bench pad so they are fully supported. The wrists hang off the edge. Use a relatively light weight — the forearm flexors fatigue quickly.",
+    "steps": [
+      "Step 1: Forearms resting on a surface, wrists hanging off the edge, palms facing upward, weight in hands.",
+      "Step 2: Allow the wrists to relax fully downward into extension before each rep.",
+      "Step 3: Exhale and flex the wrists, curling the weight upward as far as possible.",
+      "Step 4: Inhale and slowly lower the wrists back to full extension."
+    ],
+    "breathing_instructions": "Exhale on the curl; inhale on the lowering.",
+    "common_mistakes": [
+      "Not allowing the wrists to fully extend at the bottom, reducing the range of motion",
+      "Using excessively heavy weight, which forces the forearms off the support surface"
+    ],
+    "safety_considerations": [
+      "Keep forearms fully supported on the bench or thighs throughout",
+      "Stop if sharp pain is felt at the wrist or elbow"
+    ],
+    "range_of_motion_guidance": "Full wrist extension (drop) at the bottom; maximum wrist flexion (curl) at the top.",
+    "tempo_recommendations": "2-1-2-0",
+    "coaching_cues": [
+      "Let the weight roll to the fingertips at the bottom — full drop",
+      "Curl only the wrists — the forearms stay on the bench"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": ["reverse-wrist-curl", "forearm-roller"],
+    "unilateral": [],
+    "bilateral": ["reverse-wrist-curl"],
+    "equipment_alternatives": ["resistance-band wrist curl"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "hypertrophy", "min_reps": 12, "max_reps": 20},
+      {"goal": "endurance", "min_reps": 15, "max_reps": 30}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4},
+      {"goal": "endurance", "min_sets": 2, "max_sets": 3}
+    ],
+    "rest_periods": {"hypertrophy": 45, "endurance": 30},
+    "training_goals": ["hypertrophy", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["forearms", "wrist-flexors", "isolation", "dumbbell", "grip"]
+  }
+}

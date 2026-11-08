@@ -1,0 +1,58 @@
+[
+  {
+    "category_id": "cat-0001-strength",
+    "slug": "strength",
+    "name": "Strength Training",
+    "description": "Exercises designed to increase muscular force production through progressive overload. Includes free-weight, machine, and bodyweight exercises performed with the goal of maximizing force output or developing relative strength. Typically characterized by lower repetitions and higher loads.",
+    "primary_training_goal": "strength",
+    "examples": ["Barbell Squat", "Deadlift", "Bench Press", "Overhead Press"]
+  },
+  {
+    "category_id": "cat-0002-cardio",
+    "slug": "cardio",
+    "name": "Cardiovascular",
+    "description": "Exercises that elevate heart rate and challenge the cardiovascular and respiratory systems. Includes both steady-state aerobic activities and high-intensity interval training. Primarily develops aerobic capacity, work capacity, and caloric expenditure.",
+    "primary_training_goal": "endurance",
+    "examples": ["Running", "Rowing", "Jumping Jacks", "Burpees", "Jump Rope"]
+  },
+  {
+    "category_id": "cat-0003-flexibility",
+    "slug": "flexibility",
+    "name": "Flexibility & Mobility",
+    "description": "Exercises designed to improve range of motion at joints and extensibility of muscles. Includes static stretching, dynamic stretching, and mobility drills. Improves posture, reduces injury risk, and enhances movement quality.",
+    "primary_training_goal": "mobility",
+    "examples": ["Hip Flexor Stretch", "Thoracic Rotation", "World's Greatest Stretch", "Couch Stretch"]
+  },
+  {
+    "category_id": "cat-0004-balance",
+    "slug": "balance",
+    "name": "Balance & Stability",
+    "description": "Exercises that challenge the body's ability to maintain equilibrium and control center of mass over the base of support. Develops proprioception, joint stability, and neuromuscular coordination.",
+    "primary_training_goal": "strength",
+    "examples": ["Single-Leg Balance", "Bosu Ball Squat", "Single-Leg Romanian Deadlift", "Stability Ball Plank"]
+  },
+  {
+    "category_id": "cat-0005-plyometric",
+    "slug": "plyometric",
+    "name": "Plyometric / Power",
+    "description": "Exercises that train the stretch-shortening cycle to develop explosive power. Involve rapid loading and unloading of muscles to maximize force production in minimal time. Used for athletic performance and power development.",
+    "primary_training_goal": "power",
+    "examples": ["Box Jump", "Broad Jump", "Depth Jump", "Clap Push-Up", "Medicine Ball Slam"]
+  },
+  {
+    "category_id": "cat-0006-sport",
+    "slug": "sport",
+    "name": "Sport-Specific",
+    "description": "Exercises designed to train movement patterns, energy systems, and physical qualities specific to a particular sport or athletic activity. May overlap with other categories but are selected and programmed with sport performance as the primary goal.",
+    "primary_training_goal": "strength",
+    "examples": ["Power Clean", "Rotational Medicine Ball Throw", "Lateral Shuffle", "Agility Ladder Drills"]
+  },
+  {
+    "category_id": "cat-0007-rehabilitation",
+    "slug": "rehabilitation",
+    "name": "Rehabilitation & Prehab",
+    "description": "Exercises used in the context of injury rehabilitation or injury prevention. Typically involve lower loads, controlled movement, and focus on restoring or maintaining joint health, motor control, and tissue capacity. NOTE: OEI exercise descriptions are general fitness education and are not medical advice. Consult a qualified healthcare professional for personal rehabilitation guidance.",
+    "primary_training_goal": "mobility",
+    "examples": ["Clamshell", "Banded Hip Abduction", "Shoulder External Rotation", "Terminal Knee Extension"]
+  }
+]

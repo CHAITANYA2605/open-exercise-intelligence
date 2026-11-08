@@ -1,0 +1,62 @@
+{
+  "exercise_id": "b1c2d3e4-f5a6-4789-b0c1-d2e3f4a50023",
+  "slug": "medicine-ball-slam-kneeling",
+  "name": "Medicine Ball Slam — Kneeling",
+  "alternative_names": ["Kneeling Med Ball Slam", "Half-Kneeling Ball Slam"],
+  "description": "A medicine ball slam performed from the kneeling position (both knees on the floor), which removes the leg drive component and places the full power generation demand on the core and upper body. The overhead-to-ground throw trains explosive hip flexion and spinal flexion with no hip extension assist, creating a unique anti-extension-to-flexion power pattern. Used in core power development, rehabilitation programs where standing is contraindicated, and metabolic conditioning.",
+  "category": "stretching",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "rotation",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "conditioning",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"},
+      {"muscle_id": "bbbbbbbb-0003-4000-a000-00000000000b", "muscle_slug": "psoas-major"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"}
+    ],
+    "secondary": [
+      {"muscle_id": "44444444-0002-4000-a000-000000000004", "muscle_slug": "trapezius-upper"},
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"}
+    ],
+    "stabilizers": [{"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"}]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Kneel on a mat with both knees and shins on the floor. Hold a slam medicine ball with both hands in front of the chest.",
+    "setup_instructions": "Use a non-bounce slam ball (dead ball). Kneel on a mat for comfort. Begin with a lighter weight (4-6 kg) before increasing.",
+    "steps": [
+      "Step 1: Kneel upright with the ball at chest height.",
+      "Step 2: Raise the ball overhead with arms fully extended, rising tall through the torso.",
+      "Step 3: Slam the ball to the floor in front of the knees with maximum force, allowing the spine to flex through the motion.",
+      "Step 4: Catch or retrieve the ball and return to the overhead position. Repeat."
+    ],
+    "breathing_instructions": "Exhale forcefully during the slam. Inhale as you raise overhead.",
+    "common_mistakes": ["Using a bouncy ball that creates safety hazard — only use slam (dead) balls", "Leaning back excessively overhead rather than simply raising the arms", "Not following through the slam — the torso should flex fully through the throw"],
+    "safety_considerations": ["Use a dead ball only — a rubber bounce ball can rebound dangerously from the floor", "Do not perform near low ceilings", "Knee comfort requires a thick mat"],
+    "range_of_motion_guidance": "Full overhead extension on the wind-up. Full spinal flexion through the slam.",
+    "tempo_recommendations": "1 repetition every 2-3 seconds. Explosive slam, controlled pickup.",
+    "coaching_cues": ["Reach tall overhead before you slam — the full extension before the flexion is key", "Slam through the floor — not just to the floor", "Drive the ball down with the entire upper body — not just the arms"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [{"goal": "endurance", "min_reps": 8, "max_reps": 15}],
+    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 2, "max_sets": 4}],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["medicine-ball", "slam", "kneeling", "conditioning", "core-power"]
+  }
+}

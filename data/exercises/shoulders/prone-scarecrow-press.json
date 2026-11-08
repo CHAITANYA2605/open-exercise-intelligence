@@ -1,0 +1,83 @@
+{
+  "exercise_id": "b3d4e5f6-a789-4bcd-ef01-234567890abc",
+  "slug": "prone-scarecrow-press",
+  "name": "Prone Scarecrow Press",
+  "alternative_names": ["Prone Scarecrow", "Floor Scarecrow External Rotation"],
+  "description": "The prone scarecrow press combines an external rotation at 90 degrees of shoulder abduction with a finishing overhead press, performed lying face-down on a bench. The scarecrow portion (elbows at shoulder height, forearms hanging down) isolates the infraspinatus and teres minor through external rotation in the vulnerable abducted position, then the press completes the movement in the overhead plane. This sequence trains rotator cuff function together with deltoid pressing, making it valuable for shoulder health and athletic development.",
+  "category": "rehabilitation",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "overhead-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      { "muscle_id": "33333333-0005-4000-a000-000000000003", "muscle_slug": "infraspinatus" }
+    ],
+    "secondary": [
+      { "muscle_id": "33333333-0001-4000-a000-000000000003", "muscle_slug": "deltoid-anterior" },
+      { "muscle_id": "44444444-0003-4000-a000-000000000004", "muscle_slug": "trapezius-middle" }
+    ],
+    "stabilizers": [
+      { "muscle_id": "33333333-0004-4000-a000-000000000003", "muscle_slug": "deltoid-posterior" }
+    ]
+  },
+  "equipment_required": ["eq000002-0000-4000-a000-000000000002", "eq000007-0000-4000-a000-000000000007"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Lie face-down on an incline bench (30-45 degrees). Hold light dumbbells. Upper arms abducted to shoulder height, elbows bent 90 degrees, forearms hanging perpendicular to the floor.",
+    "setup_instructions": "Very light weight — 2-5 kg. This is a rotator cuff and shoulder health exercise.",
+    "steps": [
+      "Step 1: Begin in the scarecrow position — elbows at shoulder height, forearms hanging down.",
+      "Step 2: Externally rotate both shoulders, raising the forearms until they are parallel to the floor (forearms now pointing forward).",
+      "Step 3: From this horizontally extended position, press the dumbbells overhead to full arm extension.",
+      "Step 4: Reverse the sequence — lower overhead to horizontal, then internally rotate back to the scarecrow hang.",
+      "Step 5: Repeat."
+    ],
+    "breathing_instructions": "Exhale through the external rotation and press. Inhale on the return.",
+    "common_mistakes": [
+      "Using too much weight — reduces the external rotation range of motion",
+      "Skipping the external rotation — pressing directly from the hang misses the rehabilitation benefit"
+    ],
+    "safety_considerations": [
+      "Very light loads only",
+      "Stop if shoulder impingement symptoms occur during the external rotation phase"
+    ],
+    "range_of_motion_guidance": "Full external rotation range before pressing overhead.",
+    "tempo_recommendations": "2-1-2-1",
+    "coaching_cues": [
+      "Scarecrow arms first — elbows at shoulder height",
+      "Rotate the forearms up before pressing",
+      "Reverse it on the way back — press down, then rotate the forearms back down"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      { "goal": "rehabilitation", "min_reps": 10, "max_reps": 15 }
+    ],
+    "recommended_set_ranges": [
+      { "goal": "rehabilitation", "min_sets": 2, "max_sets": 3 }
+    ],
+    "rest_periods": { "rehabilitation": 60 },
+    "training_goals": ["rehabilitation", "mobility"]
+  },
+  "media": { "thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": [] },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["scarecrow", "external-rotation", "prone", "rotator-cuff", "rehabilitation"]
+  }
+}

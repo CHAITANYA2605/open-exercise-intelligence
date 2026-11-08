@@ -1,0 +1,129 @@
+{
+  "exercise_id": "ex-block-cl-smn-4000-a000-833264520763",
+  "slug": "block-clean-and-jerk",
+  "name": "Block Clean and Jerk",
+  "alternative_names": [],
+  "description": "A strongman variant of the Olympic clean and jerk performed with a heavy implement starting from blocks or a platform at knee height. The elevated start reduces the range of pull and allows greater loads. This builds explosive hip extension for transferring power from the floor.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "advanced",
+  "movement_pattern": "hinge",
+  "force_type": "pull",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "hinge",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "eeeeeeee-0002-4000-a000-00000000000e",
+        "muscle_slug": "gluteus-maximus"
+      },
+      {
+        "muscle_id": "cccccccc-0002-4000-a000-00000000000c",
+        "muscle_slug": "rectus-femoris"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "55555555-0001-4000-a000-000000000005",
+        "muscle_slug": "erector-spinae"
+      },
+      {
+        "muscle_id": "44444444-0002-4000-a000-000000000004",
+        "muscle_slug": "trapezius-upper"
+      }
+    ],
+    "stabilizers": [
+      {
+        "muscle_id": "99999999-0003-4000-a000-000000000009",
+        "muscle_slug": "transverse-abdominis"
+      }
+    ]
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Set up for Block Clean and Jerk in proper strongman position.",
+    "setup_instructions": "Prepare all equipment and body position for Block Clean and Jerk.",
+    "steps": [
+      "Step 1: Set blocks to knee height with heavy barbell loaded.",
+      "Step 2: Perform clean pull from blocks, driving hips explosively.",
+      "Step 3: Catch bar in front rack position with elbows high.",
+      "Step 4: Dip and drive to jerk bar overhead to lockout."
+    ],
+    "breathing_instructions": "Brace core maximally before every lift. Breathe between reps if needed.",
+    "common_mistakes": [
+      "Slow bar speed at the hip",
+      "Soft elbows in front rack"
+    ],
+    "safety_considerations": [
+      "Use collars on all loaded barbells.",
+      "Ensure clear path for carries.",
+      "Have spotters for overhead movements."
+    ],
+    "range_of_motion_guidance": "Full range of motion specific to the implement being used.",
+    "tempo_recommendations": "Explosive concentric phase, controlled eccentric.",
+    "coaching_cues": [
+      "Explode through the hip at blocks",
+      "Fast elbows in the catch"
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 1,
+        "max_reps": 5
+      },
+      {
+        "goal": "power",
+        "min_reps": 1,
+        "max_reps": 3
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 6
+      },
+      {
+        "goal": "power",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 240,
+      "power": 300
+    },
+    "training_goals": [
+      "strength",
+      "power"
+    ]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": []
+  }
+}

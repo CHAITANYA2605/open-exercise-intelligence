@@ -1,0 +1,85 @@
+{
+  "exercise_id": "a1b2c3d4-0011-4000-a000-chest0000011",
+  "slug": "deficit-push-up",
+  "name": "Deficit Push-Up",
+  "alternative_names": ["Elevated Push-Up", "Deep Push-Up"],
+  "description": "The deficit push-up is performed with the hands elevated on platforms, blocks, or dumbbells, allowing the chest to descend below the level of the hands for a deeper range of motion than a standard push-up. This extended stretch under load increases time under tension and pectoral recruitment, making it a more demanding bodyweight pressing variation.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"},
+      {"muscle_id": "11111111-0002-4000-a000-000000000001", "muscle_slug": "pectoralis-major-clavicular"}
+    ],
+    "secondary": [
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "77777777-0003-4000-a000-000000000007", "muscle_slug": "triceps-lateral-head"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "aaaaaaaa-0003-4000-a000-00000000000a", "muscle_slug": "external-oblique"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": ["eq000007-0000-4000-a000-000000000007"],
+  "execution": {
+    "starting_position": "Place hands on two elevated platforms (push-up handles, dumbbells, or sturdy blocks) slightly wider than shoulder width. Assume a push-up position with straight body alignment.",
+    "setup_instructions": "Set the platforms at an equal height between 4 and 6 inches. Ensure they are stable and will not slide on the surface.",
+    "steps": [
+      "Step 1: Begin in a high plank position with hands on the platforms, body in a straight line.",
+      "Step 2: Lower the chest between and below the platforms by bending the elbows to roughly 45 degrees.",
+      "Step 3: Continue lowering until the chest is below the level of the hands, feeling a deep stretch.",
+      "Step 4: Press powerfully upward through the palms, extending the elbows fully at the top.",
+      "Step 5: Maintain a rigid plank body position from head to heels throughout."
+    ],
+    "breathing_instructions": "Inhale as you lower the chest toward the floor. Exhale forcefully as you push back up.",
+    "common_mistakes": [
+      "Allowing the hips to sag downward on the descent",
+      "Not descending low enough to benefit from the deficit",
+      "Flaring the elbows to 90 degrees, increasing shoulder stress"
+    ],
+    "safety_considerations": [
+      "Ensure the platforms are on a non-slip surface",
+      "Only perform this variation if you can complete standard push-ups with solid form",
+      "Avoid if you have shoulder instability or rotator cuff issues"
+    ],
+    "range_of_motion_guidance": "Descend until the chest drops 2–4 inches below the hand level for a meaningful deficit. Full elbow extension at the top.",
+    "tempo_recommendations": "3-1-1-0",
+    "coaching_cues": ["Chest drops below the hands — that's the whole point", "Keep the body rigid from heels to crown", "Press hard through the platforms on the way up"]
+  },
+  "variants": {
+    "easier": ["push-up"],
+    "harder": ["pseudo-planche-push-up", "single-arm-push-up"],
+    "unilateral": ["single-arm-push-up"],
+    "bilateral": ["deficit-push-up"],
+    "equipment_alternatives": ["dumbbell-bench-press"]
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "strength", "min_reps": 5, "max_reps": 10},
+      {"goal": "hypertrophy", "min_reps": 10, "max_reps": 20}
+    ],
+    "recommended_set_ranges": [
+      {"goal": "strength", "min_sets": 3, "max_sets": 5},
+      {"goal": "hypertrophy", "min_sets": 3, "max_sets": 4}
+    ],
+    "rest_periods": {"strength": 120, "hypertrophy": 60},
+    "training_goals": ["strength", "hypertrophy", "bodyweight_training"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {
+    "created_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
+    "created_by": "oei-contributors",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["chest", "bodyweight", "push-up", "deficit", "range-of-motion"]
+  }
+}

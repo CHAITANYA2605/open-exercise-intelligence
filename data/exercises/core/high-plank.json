@@ -1,0 +1,64 @@
+{
+  "exercise_id": "co000048-0000-4000-a000-000000000048",
+  "slug": "high-plank",
+  "name": "High Push-Up Position Plank",
+  "alternative_names": ["High Plank", "Push-Up Position Hold", "Extended Arm Plank"],
+  "description": "The high push-up position plank is a foundational isometric core stability exercise in which the body is held in a rigid, straight line from head to heel while supported on the hands and toes. Compared to the forearm plank, the extended-arm position places greater demand on the shoulder girdle stabilizers and serratus anterior, while the core musculature functions identically to maintain spinal stiffness. It is a prerequisite position for push-up and many other calisthenic progressions and should be mastered before advancing to dynamic variations.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "plank",
+  "force_type": "static",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "plank",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {"muscle_id": "99999999-0003-4000-a000-000000000009", "muscle_slug": "transverse-abdominis"},
+      {"muscle_id": "99999999-0002-4000-a000-000000000009", "muscle_slug": "rectus-abdominis"}
+    ],
+    "secondary": [
+      {"muscle_id": "55555555-0001-4000-a000-000000000005", "muscle_slug": "erector-spinae"},
+      {"muscle_id": "33333333-0002-4000-a000-000000000003", "muscle_slug": "deltoid-anterior"},
+      {"muscle_id": "11111111-0003-4000-a000-000000000001", "muscle_slug": "pectoralis-major-sternal"}
+    ],
+    "stabilizers": [
+      {"muscle_id": "aaaaaaaa-0002-4000-a000-00000000000a", "muscle_slug": "internal-oblique"},
+      {"muscle_id": "eeeeeeee-0002-4000-a000-00000000000e", "muscle_slug": "gluteus-maximus"}
+    ]
+  },
+  "equipment_required": ["eq000001-0000-4000-a000-000000000001"],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Place the hands on the floor directly under the shoulders. Extend the legs behind, toes on the floor. The body forms a straight line from head to heel.",
+    "setup_instructions": "No equipment needed. Use a mat for wrist comfort on hard surfaces.",
+    "steps": [
+      "Step 1: Position hands under shoulders, fingers spread for grip.",
+      "Step 2: Drive the floor away — imagine pushing the ground down. Protract the scapulae slightly.",
+      "Step 3: Squeeze the glutes and brace the core. Lock out the knees.",
+      "Step 4: Keep the body in a straight line — no hip hiking, sagging, or piking.",
+      "Step 5: Hold for the target duration, maintaining perfect alignment throughout."
+    ],
+    "breathing_instructions": "Breathe continuously with shallow breaths. Do not hold the breath.",
+    "common_mistakes": [
+      "Hips piking up — this reduces core demand and places it on the shoulders",
+      "Hips sagging — this compresses the lumbar spine under load"
+    ],
+    "safety_considerations": ["Avoid if wrist pain is present — substitute forearm plank"],
+    "range_of_motion_guidance": "Isometric hold. Perfect alignment must be maintained for the full duration.",
+    "tempo_recommendations": "Hold for target time: beginners 20–30 s; intermediate 45–60 s; advanced 60–90 s+.",
+    "coaching_cues": ["Push the floor away", "Squeeze the glutes — the whole posterior chain is a unit", "Long spine — from crown to heel"]
+  },
+  "variants": {"easier": [], "harder": [], "unilateral": [], "bilateral": [], "equipment_alternatives": []},
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {"goal": "endurance", "min_reps": 1, "max_reps": 3}
+    ],
+    "recommended_set_ranges": [{"goal": "endurance", "min_sets": 3, "max_sets": 5}],
+    "rest_periods": {"endurance": 60},
+    "training_goals": ["strength", "endurance"]
+  },
+  "media": {"thumbnail": null, "images": [], "videos": [], "anatomical_illustrations": []},
+  "metadata": {"created_at": "2026-11-07T00:00:00Z", "updated_at": "2026-11-07T00:00:00Z", "created_by": "oei-contributors", "version": "1.0.0", "sources": [], "tags": ["core", "plank", "bodyweight", "beginner", "isometric"]}
+}
