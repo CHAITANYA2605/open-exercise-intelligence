@@ -289,7 +289,7 @@ export default function MediaContribution() {
           {[
             { label: 'Wikimedia Commons', url: 'https://commons.wikimedia.org/', desc: 'Preferred source for CC0 anatomical images' },
             { label: 'Creative Commons', url: 'https://creativecommons.org/licenses/', desc: 'Understand CC license versions and terms' },
-            { label: 'CONTRIBUTING.md', url: 'https://github.com/open-exercise-intelligence/oei/blob/main/CONTRIBUTING.md', desc: 'Full contributor guide including media section' },
+            { label: 'CONTRIBUTING.md', url: 'https://github.com/CHAITANYA2605/open-exercise-intelligence/blob/main/CONTRIBUTING.md', desc: 'Full contributor guide including media section' },
           ].map((link) => (
             <a
               key={link.url}

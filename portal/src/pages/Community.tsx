@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 
-const GITHUB_URL = 'https://github.com/open-exercise-intelligence/oei'
+const GITHUB_URL = 'https://github.com/CHAITANYA2605/open-exercise-intelligence'
 
 const stats = [
   { label: 'Exercises', value: '866' },

@@ -22,8 +22,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/open-exercise-intelligence/oei"
-Repository = "https://github.com/open-exercise-intelligence/oei"
+Homepage = "https://github.com/CHAITANYA2605/open-exercise-intelligence"
+Repository = "https://github.com/CHAITANYA2605/open-exercise-intelligence"
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -1,0 +1,62 @@
+{
+  "exercise_id": "dddddddd-0001-4000-8001-000000000004",
+  "slug": "fixture-broken-refs",
+  "name": "Fixture Broken Refs Exercise",
+  "alternative_names": [],
+  "description": "This fixture tests that exercises with nonexistent muscle and equipment references fail referential integrity checks.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "00000000-dead-4000-beef-000000000000",
+        "muscle_slug": "nonexistent-muscle"
+      }
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "00000000-dead-4000-beef-111111111111"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "N/A",
+    "steps": ["Step one."],
+    "common_mistakes": [],
+    "coaching_cues": []
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "training_goals": []
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-01T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-fixtures",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": [],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "open-exercise-intelligence",
+  "version": "0.9.0-beta",
+  "description": "An open-source, structured exercise knowledge base for fitness apps, workout platforms and AI coaches.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "validate:verbose": "node scripts/validate.js --verbose",
+    "check": "node scripts/check-dataset.js",
+    "release:check": "node scripts/release-check.js",
+    "release:check:verbose": "node scripts/release-check.js --verbose",
+    "build:dataset": "node scripts/generation/build-dataset.js",
+    "search:test": "node search/index.js",
+    "analytics": "node scripts/analytics/dataset-report.js",
+    "analytics:json": "node scripts/analytics/dataset-report.js --json",
+    "test": "node tests/search.test.js && node tests/contract/dataset-format.test.js",
+    "test:search": "node tests/search.test.js",
+    "test:contract": "node tests/contract/dataset-format.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CHAITANYA2605/open-exercise-intelligence.git"
+  }
+}

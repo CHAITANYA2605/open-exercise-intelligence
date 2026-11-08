@@ -1,0 +1,52 @@
+name: Release Safety Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/exercises/**'
+      - 'data/muscles/**'
+      - 'data/equipment/**'
+      - 'schema/**'
+      - 'scripts/release-check.js'
+      - 'scripts/validate.js'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'data/exercises/**'
+      - 'data/muscles/**'
+      - 'data/equipment/**'
+      - 'schema/**'
+  workflow_dispatch:
+
+jobs:
+  release-check:
+    name: Release Safety Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run release dry-run
+        run: node scripts/release-check.js
+
+      - name: Run dataset validator
+        run: node scripts/validate.js
+
+      - name: Build dataset artifacts
+        run: node scripts/generation/build-dataset.js
+
+      - name: Run contract tests
+        run: node tests/contract/dataset-format.test.js
+
+      - name: Run search tests
+        run: node tests/search.test.js
+
+      - name: Dataset analytics summary
+        run: node scripts/analytics/dataset-report.js
+        continue-on-error: true  # Analytics is informational, not blocking

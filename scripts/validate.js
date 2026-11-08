@@ -19,6 +19,7 @@ const fileArg = (() => {
   return idx !== -1 ? process.argv[idx + 1] : null;
 })();
 
+// data/taxonomy/categories.json is the authoritative category source of truth
 const VALID_CATEGORIES = ['strength','cardio','flexibility','functional','plyometric','power','mobility','rehabilitation','stretching'];
 const VALID_EXERCISE_TYPES = ['compound','isolation','cardio','stretching','plyometric','calisthenics'];
 const VALID_DIFFICULTY = ['beginner','intermediate','advanced','expert'];
@@ -27,6 +28,7 @@ const VALID_FORCE = ['push','pull','static'];
 const VALID_MECHANICS = ['compound','isolation'];
 const VALID_LATERALITY = ['bilateral','unilateral','alternating'];
 const VALID_STATUS = ['draft','active','deprecated'];
+const VALID_REVIEW_STATUSES = new Set(['UNREVIEWED','IN_REVIEW','APPROVED','REJECTED','NEEDS_REVISION']);
 const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
 const SLUG_RE = /^[a-z0-9-]+$/;
 
@@ -130,6 +132,27 @@ function validateExercise(filePath, exercise, muscleIds, equipmentIds, errors) {
   // training_parameters
   if (!exercise.training_parameters || !Array.isArray(exercise.training_parameters.training_goals) || exercise.training_parameters.training_goals.length === 0) {
     err('Missing or empty training_parameters.training_goals');
+  }
+
+  // review_status enforcement
+  if (exercise.metadata) {
+    const { review_status, approved_at, approved_by, review_notes } = exercise.metadata;
+    if (review_status && !VALID_REVIEW_STATUSES.has(review_status)) {
+      err(`Invalid review_status: ${review_status}`);
+    }
+    if (review_status === 'APPROVED') {
+      if (!approved_at || typeof approved_at !== 'string' || approved_at.trim() === '') {
+        err('APPROVED exercise must have metadata.approved_at');
+      }
+      if (!approved_by || typeof approved_by !== 'string' || approved_by.trim() === '') {
+        err('APPROVED exercise must have metadata.approved_by');
+      }
+    }
+    if (review_status === 'NEEDS_REVISION') {
+      if (!review_notes || typeof review_notes !== 'string' || review_notes.trim() === '') {
+        err('NEEDS_REVISION exercise must have metadata.review_notes explaining required changes');
+      }
+    }
   }
 }
 

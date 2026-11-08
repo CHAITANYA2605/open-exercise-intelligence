@@ -25,3 +25,19 @@ export async function loadExercisesFromDir(dir: string): Promise<Exercise[]> {
   walk(dir);
   return exercises;
 }
+
+/**
+ * Load exercises from a generated dataset bundle (oei-dataset-all.json or oei-dataset-approved.json).
+ * Handles both the versioned wrapper format ({exercises: [...]}) and legacy flat array format.
+ */
+export async function loadExercisesFromBundle(bundlePath: string): Promise<Exercise[]> {
+  const raw = fs.readFileSync(bundlePath, 'utf8');
+  const parsed = JSON.parse(raw);
+  if (Array.isArray(parsed)) {
+    return parsed as Exercise[];
+  }
+  if (parsed && Array.isArray(parsed.exercises)) {
+    return parsed.exercises as Exercise[];
+  }
+  throw new Error(`Unrecognised dataset format in ${bundlePath}. Expected array or {exercises: [...]} wrapper.`);
+}

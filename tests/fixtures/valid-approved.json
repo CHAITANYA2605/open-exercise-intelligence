@@ -1,0 +1,100 @@
+{
+  "exercise_id": "aaaaaaaa-0001-4000-8001-000000000001",
+  "slug": "fixture-approved-exercise",
+  "name": "Fixture Approved Exercise",
+  "alternative_names": [],
+  "description": "A canonical test fixture exercise used to verify that APPROVED exercises pass schema validation and appear in approved dataset exports.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "intermediate",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "bench-press",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
+    ],
+    "secondary": [
+      {
+        "muscle_id": "77777777-0002-4000-a000-000000000007",
+        "muscle_slug": "triceps-long-head"
+      }
+    ],
+    "stabilizers": []
+  },
+  "equipment_required": [
+    "eq000002-0000-4000-a000-000000000002"
+  ],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Starting position description.",
+    "setup_instructions": "Setup instructions.",
+    "steps": [
+      "Step one.",
+      "Step two.",
+      "Step three."
+    ],
+    "breathing_instructions": "Exhale on exertion, inhale on return.",
+    "common_mistakes": [
+      "Mistake one."
+    ],
+    "safety_considerations": [
+      "Safety note one."
+    ],
+    "coaching_cues": [
+      "Cue one."
+    ]
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [
+      {
+        "goal": "strength",
+        "min_reps": 3,
+        "max_reps": 5
+      }
+    ],
+    "recommended_set_ranges": [
+      {
+        "goal": "strength",
+        "min_sets": 3,
+        "max_sets": 5
+      }
+    ],
+    "rest_periods": {
+      "strength": 180
+    },
+    "training_goals": ["strength"]
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-01T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-fixtures",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["test", "fixture"],
+    "license": "CC0-1.0",
+    "review_status": "APPROVED",
+    "contributor_attestation": "original-cc0",
+    "approved_at": "2026-11-08T12:00:00Z",
+    "approved_by": "maintainer-test"
+  }
+}

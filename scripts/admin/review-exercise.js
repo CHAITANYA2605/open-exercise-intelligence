@@ -96,6 +96,27 @@ function approveExercise(slug) {
   console.log(`APPROVED: ${slug} (${filePath})`);
 }
 
+function needsRevisionExercise(slug, reason) {
+  if (!reason) {
+    console.error('--reason is required when marking needs-revision');
+    process.exit(1);
+  }
+  const filePath = findExerciseFile(slug);
+  if (!filePath) {
+    console.error(`Exercise not found: ${slug}`);
+    process.exit(1);
+  }
+  const ex = readExercise(filePath);
+  if (!ex.metadata) ex.metadata = {};
+  ex.metadata.review_status = 'NEEDS_REVISION';
+  ex.metadata.review_notes = reason;
+  ex.metadata.updated_at = new Date().toISOString();
+  delete ex.metadata.approved_at;
+  delete ex.metadata.approved_by;
+  writeExercise(filePath, ex);
+  console.log(`NEEDS_REVISION: ${slug} — ${reason}`);
+}
+
 function rejectExercise(slug, reason) {
   if (!reason) {
     console.error('--reason is required when rejecting');
@@ -139,7 +160,7 @@ function listUnreviewed() {
 
 function showStats() {
   const allFiles = getAllExerciseFiles();
-  const counts = { UNREVIEWED: 0, IN_REVIEW: 0, APPROVED: 0, REJECTED: 0 };
+  const counts = { UNREVIEWED: 0, IN_REVIEW: 0, NEEDS_REVISION: 0, APPROVED: 0, REJECTED: 0 };
   for (const { filePath } of allFiles) {
     const ex = readExercise(filePath);
     const status = (ex.metadata && ex.metadata.review_status) || 'UNREVIEWED';
@@ -160,10 +181,11 @@ OEI Exercise Review Tool
 
 Usage:
   node scripts/admin/review-exercise.js <slug>                        # show exercise for review
-  node scripts/admin/review-exercise.js <slug> --approve              # mark APPROVED
-  node scripts/admin/review-exercise.js <slug> --reject --reason "..."  # mark REJECTED
-  node scripts/admin/review-exercise.js --list-unreviewed             # list all UNREVIEWED
-  node scripts/admin/review-exercise.js --stats                       # count by status
+  node scripts/admin/review-exercise.js <slug> --approve                           # mark APPROVED
+  node scripts/admin/review-exercise.js <slug> --reject --reason "..."            # mark REJECTED
+  node scripts/admin/review-exercise.js <slug> --needs-revision --reason "..."   # mark NEEDS_REVISION
+  node scripts/admin/review-exercise.js --list-unreviewed                         # list all UNREVIEWED
+  node scripts/admin/review-exercise.js --stats                                   # count by status
 `);
 }
 
@@ -185,6 +207,10 @@ if (args[0] === '--list-unreviewed') {
     const reasonIdx = args.indexOf('--reason');
     const reason = reasonIdx !== -1 ? args[reasonIdx + 1] : null;
     rejectExercise(slug, reason);
+  } else if (args.includes('--needs-revision')) {
+    const reasonIdx = args.indexOf('--reason');
+    const reason = reasonIdx !== -1 ? args[reasonIdx + 1] : null;
+    needsRevisionExercise(slug, reason);
   } else {
     showExercise(slug);
   }

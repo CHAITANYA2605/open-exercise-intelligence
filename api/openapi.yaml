@@ -51,7 +51,13 @@ paths:
           in: query
           schema:
             type: string
-            enum: [strength, cardio, flexibility, functional, plyometric, power, mobility, rehabilitation, stretching]
+            enum: [strength, cardio, stretching, functional, power, mobility, plyometrics, balance, strongman]
+        - name: review_status
+          in: query
+          description: Filter by review status (default returns all)
+          schema:
+            type: string
+            enum: [UNREVIEWED, IN_REVIEW, APPROVED, REJECTED, NEEDS_REVISION]
         - name: difficulty_level
           in: query
           schema:
@@ -168,6 +174,53 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/Error"
+
+  /exercises/{idOrSlug}/alternatives:
+    get:
+      operationId: getExerciseAlternatives
+      tags: [exercises]
+      summary: Get alternative exercises (equipment substitutions, related movements)
+      parameters:
+        - name: idOrSlug
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: equipment_ids
+          in: query
+          description: Comma-separated equipment UUIDs available to the user (limits alternatives)
+          schema:
+            type: string
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 20
+            default: 5
+      responses:
+        "200":
+          description: Alternative exercises with explanation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  alternatives:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        exercise:
+                          $ref: "#/components/schemas/ExerciseSummary"
+                        relationship_type:
+                          type: string
+                          enum: [EQUIPMENT_SUBSTITUTION, VARIATION, ALTERNATIVE, RELATED]
+                        reason:
+                          type: string
+                          description: Human-readable explanation of why this was recommended
+        "404":
+          $ref: "#/components/responses/NotFound"
 
   /exercises/{idOrSlug}/related:
     get:
@@ -358,6 +411,19 @@ paths:
         "404":
           $ref: "#/components/responses/NotFound"
 
+  /dataset/versions:
+    get:
+      operationId: getDatasetVersions
+      tags: [meta]
+      summary: Get the current dataset version and review statistics
+      responses:
+        "200":
+          description: Dataset version and review stats
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/DatasetVersion"
+
   /dataset-version:
     get:
       operationId: getDatasetVersion
@@ -438,6 +504,34 @@ components:
           type: object
           additionalProperties: { type: integer }
 
+    ExerciseRelationship:
+      type: object
+      required: [target_slug, relationship_type]
+      properties:
+        target_slug: { type: string }
+        relationship_type:
+          type: string
+          enum: [PROGRESSION, REGRESSION, VARIATION, EQUIPMENT_SUBSTITUTION, UNILATERAL_COUNTERPART, BILATERAL_COUNTERPART, ALTERNATIVE, RELATED]
+        rationale: { type: string }
+        difficulty_dimension:
+          type: string
+          enum: [strength, power, coordination, balance, mobility, cardiovascular, technical_complexity]
+        review_status:
+          type: string
+          enum: [UNREVIEWED, APPROVED]
+
+    DifficultyDimensions:
+      type: object
+      description: Optional 0-10 difficulty scores per physical quality. Subjective — not clinically validated.
+      properties:
+        strength: { type: number, minimum: 0, maximum: 10 }
+        power: { type: number, minimum: 0, maximum: 10 }
+        coordination: { type: number, minimum: 0, maximum: 10 }
+        balance: { type: number, minimum: 0, maximum: 10 }
+        mobility: { type: number, minimum: 0, maximum: 10 }
+        cardiovascular: { type: number, minimum: 0, maximum: 10 }
+        technical_complexity: { type: number, minimum: 0, maximum: 10 }
+
     ExerciseMetadata:
       type: object
       properties:
@@ -445,6 +539,17 @@ components:
         updated_at: { type: string, format: date-time }
         created_by: { type: string }
         version: { type: string }
+        review_status:
+          type: string
+          enum: [UNREVIEWED, IN_REVIEW, APPROVED, REJECTED, NEEDS_REVISION]
+        approved_at: { type: string, format: date-time }
+        approved_by: { type: string }
+        review_notes: { type: string }
+        content_version: { type: string }
+        contributor_attestation:
+          type: string
+          enum: [original-cc0, ai-generated-unreviewed, human-authored]
+        license: { type: string }
         sources:
           type: array
           items: { type: string }
@@ -486,6 +591,12 @@ components:
           $ref: "#/components/schemas/TrainingParameters"
         metadata:
           $ref: "#/components/schemas/ExerciseMetadata"
+        relationships:
+          type: array
+          items:
+            $ref: "#/components/schemas/ExerciseRelationship"
+        difficulty_dimensions:
+          $ref: "#/components/schemas/DifficultyDimensions"
 
     ExerciseSummary:
       type: object
@@ -571,9 +682,12 @@ components:
       type: object
       properties:
         version: { type: string }
-        exercise_count: { type: integer }
-        last_updated: { type: string, format: date }
         schema_version: { type: string }
+        exercise_count: { type: integer }
+        approved_count: { type: integer }
+        unreviewed_count: { type: integer }
+        last_updated: { type: string, format: date }
+        review_note: { type: string }
 
     Error:
       type: object

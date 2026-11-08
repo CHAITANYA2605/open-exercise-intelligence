@@ -1,0 +1,70 @@
+{
+  "exercise_id": "bbbbbbbb-0001-4000-8001-000000000002",
+  "slug": "fixture-unreviewed-exercise",
+  "name": "Fixture Unreviewed Exercise",
+  "alternative_names": [],
+  "description": "A canonical test fixture exercise used to verify that UNREVIEWED exercises pass schema validation but are excluded from approved dataset exports.",
+  "category": "strength",
+  "exercise_type": "compound",
+  "difficulty_level": "beginner",
+  "movement_pattern": "push",
+  "force_type": "push",
+  "mechanics_type": "compound",
+  "laterality": "bilateral",
+  "exercise_family": "push-up",
+  "status": "active",
+  "muscles": {
+    "primary": [
+      {
+        "muscle_id": "11111111-0003-4000-a000-000000000001",
+        "muscle_slug": "pectoralis-major-sternal"
+      }
+    ],
+    "secondary": [],
+    "stabilizers": []
+  },
+  "equipment_required": [],
+  "equipment_optional": [],
+  "execution": {
+    "starting_position": "Starting position description.",
+    "setup_instructions": "Setup instructions.",
+    "steps": [
+      "Step one.",
+      "Step two."
+    ],
+    "breathing_instructions": "Breathe naturally.",
+    "common_mistakes": [],
+    "safety_considerations": [],
+    "coaching_cues": []
+  },
+  "variants": {
+    "easier": [],
+    "harder": [],
+    "unilateral": [],
+    "bilateral": [],
+    "equipment_alternatives": []
+  },
+  "training_parameters": {
+    "recommended_rep_ranges": [],
+    "recommended_set_ranges": [],
+    "rest_periods": {},
+    "training_goals": []
+  },
+  "media": {
+    "thumbnail": null,
+    "images": [],
+    "videos": [],
+    "anatomical_illustrations": []
+  },
+  "metadata": {
+    "created_at": "2026-11-01T00:00:00Z",
+    "updated_at": "2026-11-08T00:00:00Z",
+    "created_by": "oei-fixtures",
+    "version": "1.0.0",
+    "sources": [],
+    "tags": ["test", "fixture"],
+    "license": "CC0-1.0",
+    "review_status": "UNREVIEWED",
+    "contributor_attestation": "ai-generated-unreviewed"
+  }
+}

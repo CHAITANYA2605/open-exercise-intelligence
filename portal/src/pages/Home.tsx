@@ -41,50 +41,56 @@ const features = [
   },
 ]
 
-const jsExample = `import { OEIClient } from 'oei-js'
+const jsExample = `import { OEIClient } from '@oei/exercise-sdk'
 
-const client = new OEIClient()
+const client = new OEIClient({
+  dataPath: './data/generated/oei-dataset-all.json'
+})
 await client.load()
 
-// Search for push exercises
+// Search with fuzzy matching and pagination
 const results = client.search({
   q: 'bench press',
   category: 'strength',
   difficulty: 'intermediate',
+  per_page: 10,
 })
 
-console.log(\`Found \${results.total} exercises\`)
+console.log(\`Found \${results.total} exercises (\${results.total_pages} pages)\`)
 results.exercises.forEach(e => console.log(e.name))`
 
 const pythonExample = `from oei import OEIClient
 
-client = OEIClient()
+client = OEIClient(data_path="data/generated/oei-dataset-all.json")
 client.load()
 
-# Filter by muscle
+# Filter by muscle with pagination
 results = client.search(
     muscle="chest",
     difficulty="beginner",
-    per_page=10
+    per_page=10,
+    page=1,
 )
 
+print(f"Found {results.total} exercises")
 for exercise in results.exercises:
     print(exercise.name)`
 
-const curlExample = `# Start the API server
+const curlExample = `# Start the API (builds dataset first)
+node scripts/generation/build-dataset.js
 docker compose up -d
 
-# List strength exercises
-curl "http://localhost:8080/v1/exercises?category=strength&per_page=5"
+# List approved exercises only
+curl "http://localhost:8080/v1/exercises?review_status=APPROVED&per_page=5"
 
-# Full-text search
-curl "http://localhost:8080/v1/exercises?q=bench+press"
+# Fuzzy full-text search
+curl "http://localhost:8080/v1/exercises?q=benchpress&category=strength"
 
 # Get a single exercise
-curl "http://localhost:8080/v1/exercises/bench-press"
+curl "http://localhost:8080/v1/exercises/barbell-bench-press"
 
-# Related exercises
-curl "http://localhost:8080/v1/exercises/bench-press/related"`
+# Find equipment substitutions
+curl "http://localhost:8080/v1/exercises/barbell-bench-press/alternatives"`
 
 export default function Home() {
   return (
@@ -157,7 +163,7 @@ export default function Home() {
               <h3 className="text-white font-semibold mb-3 flex items-center gap-2">
                 <span className="text-yellow-400">JS</span> JavaScript / TypeScript
               </h3>
-              <CodeBlock code={`npm install oei-js`} language="bash" title="Install" />
+              <CodeBlock code={`# Not yet on npm — local install:\nnpm install ./sdks/js`} language="bash" title="Install" />
               <div className="mt-3">
                 <CodeBlock code={jsExample} language="typescript" title="Usage" />
               </div>
@@ -167,7 +173,7 @@ export default function Home() {
               <h3 className="text-white font-semibold mb-3 flex items-center gap-2">
                 <span className="text-blue-400">Py</span> Python
               </h3>
-              <CodeBlock code={`pip install oei`} language="bash" title="Install" />
+              <CodeBlock code={`# Not yet on PyPI — local install:\npip install ./sdks/python`} language="bash" title="Install" />
               <div className="mt-3">
                 <CodeBlock code={pythonExample} language="python" title="Usage" />
               </div>
@@ -177,11 +183,7 @@ export default function Home() {
               <h3 className="text-white font-semibold mb-3 flex items-center gap-2">
                 <span className="text-red-400">☕</span> Java (Maven)
               </h3>
-              <CodeBlock code={`<dependency>
-  <groupId>io.oei</groupId>
-  <artifactId>oei-sdk</artifactId>
-  <version>1.0.0</version>
-</dependency>`} language="xml" title="pom.xml" />
+              <CodeBlock code={`<!-- Not yet on Maven Central — build locally: -->\n<!-- cd sdks/java && mvn install -->\n<dependency>\n  <groupId>io.oei</groupId>\n  <artifactId>exercise-sdk</artifactId>\n  <version>0.9.0-beta</version>\n</dependency>`} language="xml" title="pom.xml" />
             </div>
 
             <div>
@@ -210,7 +212,7 @@ export default function Home() {
               How to Contribute
             </Link>
             <a
-              href="https://github.com/open-exercise-intelligence/oei"
+              href="https://github.com/CHAITANYA2605/open-exercise-intelligence"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary text-center flex items-center justify-center gap-2"
@@ -247,7 +249,7 @@ export default function Home() {
           <div className="flex gap-6">
             <Link to="/docs" className="hover:text-white transition-colors">Docs</Link>
             <Link to="/community" className="hover:text-white transition-colors">Community</Link>
-            <a href="https://github.com/open-exercise-intelligence/oei" className="hover:text-white transition-colors">GitHub</a>
+            <a href="https://github.com/CHAITANYA2605/open-exercise-intelligence" className="hover:text-white transition-colors">GitHub</a>
             <Link to="/admin" className="hover:text-white transition-colors">Admin</Link>
           </div>
         </div>

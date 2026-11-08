@@ -6,7 +6,7 @@
   "unreviewed_count": 866,
   "muscle_count": 75,
   "equipment_count": 50,
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "review_note": "All exercises are AI-generated and unreviewed. Suitable for development use. Not yet suitable for production health/fitness applications without human expert review.",
   "checksum_algorithm": "sha256",
   "notes": "All exercises are original works released under CC0 1.0. No proprietary exercise data was used. Exercise names are factual and not copyrightable. Dataset sourced from open/factual sources only.",

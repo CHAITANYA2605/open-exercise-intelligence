@@ -58,7 +58,7 @@ mvn package -DskipTests
 java -jar target/oei-api-1.0.0.jar
 ```
 
-The API will start on `http://localhost:8080`. The dataset is loaded from `data/oei-dataset.json` relative to the working directory.
+The API will start on `http://localhost:8080`. The dataset is loaded from `data/generated/oei-dataset-all.json` relative to the working directory (run `npm run build:dataset` first if you haven't already).
 
 ### Developer Portal
 
@@ -79,29 +79,33 @@ The portal includes:
 
 ## SDK Installation
 
+> **Note:** SDKs are not yet published to package registries. Use local installation until registry publishing is complete (planned for v1.0.0-rc).
+
 ### JavaScript / TypeScript
 
 ```bash
-npm install oei-js
+# Not yet on npm — local install:
+npm install ./sdks/js
 ```
 
 ```typescript
-import { OEIClient } from 'oei-js';
+import { OEIClient } from '@oei/exercise-sdk';
 
-const client = new OEIClient({ dataPath: './data/oei-dataset.json' });
+const client = new OEIClient({ dataPath: './data/generated/oei-dataset-all.json' });
 const results = await client.search({ query: 'squat', category: 'strength' });
 ```
 
 ### Python
 
 ```bash
-pip install oei
+# Not yet on PyPI — local install:
+pip install ./sdks/python
 ```
 
 ```python
 from oei import OEIClient
 
-client = OEIClient(data_path="data/oei-dataset.json")
+client = OEIClient(data_path="data/generated/oei-dataset-all.json")
 results = client.search(query="deadlift", difficulty="intermediate")
 ```
 
@@ -158,13 +162,14 @@ Base URL: `http://localhost:8080` (self-hosted) or your deployed instance.
 | `GET /v1/exercises` | List/search exercises with filters |
 | `GET /v1/exercises/{idOrSlug}` | Get a single exercise |
 | `GET /v1/exercises/{idOrSlug}/related` | Related exercises by muscle overlap |
+| `GET /v1/exercises/{idOrSlug}/alternatives` | Equipment-based substitutions |
 | `GET /v1/facets` | Aggregated counts for all filterable fields |
 | `GET /v1/muscles` | Full muscle taxonomy |
 | `GET /v1/equipment` | Full equipment list |
 | `GET /v1/dataset-version` | Dataset version metadata |
 | `GET /actuator/health` | Health check |
 
-**Common query params for `/v1/exercises`:** `q`, `category`, `difficulty`, `muscle`, `equipment`, `movement_pattern`, `exercise_type`, `page`, `per_page`
+**Common query params for `/v1/exercises`:** `q`, `category`, `difficulty`, `muscle`, `equipment`, `movement_pattern`, `exercise_type`, `review_status`, `page`, `per_page`
 
 Full OpenAPI spec: [`api/openapi.yaml`](api/openapi.yaml)
 
@@ -174,20 +179,45 @@ Full OpenAPI spec: [`api/openapi.yaml`](api/openapi.yaml)
 
 | Directory | Contents |
 |---|---|
-| `data/oei-dataset.json` | 866-exercise flat JSON bundle (3 MB) |
-| `data/oei-index.json` | Lightweight summary index |
+| `data/generated/oei-dataset-all.json` | All 866 exercises (versioned wrapper, includes UNREVIEWED) |
+| `data/generated/oei-dataset-approved.json` | APPROVED exercises only (empty until human review complete) |
+| `data/generated/oei-index-all.json` | Lightweight summary index (all exercises) |
+| `data/generated/oei-index-approved.json` | Lightweight summary index (approved only) |
+| `data/exercises/` | Source exercise JSON files (by category subdirectory) |
 | `data/muscles/muscles.json` | Complete muscle taxonomy |
 | `data/equipment/equipment.json` | Equipment definitions |
-| `data/categories/categories.json` | Exercise category definitions |
-| `data/movement-patterns/` | Movement pattern taxonomy |
+| `data/taxonomy/categories.json` | Canonical category definitions (single source of truth) |
+
+> **Important:** `oei-dataset-all.json` contains AI-generated, unreviewed content. Use `oei-dataset-approved.json` for production applications — it will only contain human-verified exercises.
 
 ### Dataset statistics
 
-- **866** exercises
-- **9** categories (strength, cardio, flexibility, mobility, plyometric, power, rehabilitation, functional, stretching)
-- **50+** individual muscles
-- **20+** equipment types
-- **15** movement patterns
+- **866** source exercises (all UNREVIEWED as of v0.9.0-beta)
+- **9** canonical categories: strength, cardio, stretching, functional, power, mobility, plyometrics, balance, strongman
+- **75** individual muscles in taxonomy
+- **50** equipment types
+- **Schema version:** 1.1.0
+
+### Regenerate datasets
+
+```bash
+node scripts/generation/build-dataset.js
+# Outputs: data/generated/oei-dataset-all.json, oei-dataset-approved.json, indexes, checksums
+```
+
+### Release dry-run
+
+```bash
+npm run release:check
+# Reports: total, by-status, broken refs, placeholder text, production-eligible count
+```
+
+### Dataset analytics
+
+```bash
+npm run analytics
+# Reports: by-category, by-difficulty, by-review-status, content gaps
+```
 
 ---
 

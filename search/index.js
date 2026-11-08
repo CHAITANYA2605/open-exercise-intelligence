@@ -61,6 +61,83 @@ function buildIndex(exercises) {
 }
 
 // ---------------------------------------------------------------------------
+// Synonym expansion — common gym terms mapped to canonical counterparts
+// ---------------------------------------------------------------------------
+
+const SYNONYMS = {
+  chest: ['pectoralis', 'pecs', 'pectoral'],
+  back: ['latissimus', 'lats', 'rhomboids', 'trapezius'],
+  shoulders: ['deltoids', 'delts'],
+  biceps: ['bicep', 'brachii'],
+  triceps: ['tricep'],
+  legs: ['quadriceps', 'hamstrings', 'glutes'],
+  quads: ['quadriceps'],
+  glutes: ['gluteus', 'gluteal'],
+  calves: ['gastrocnemius', 'soleus'],
+  abs: ['abdominals', 'core', 'rectus abdominis'],
+  benchpress: ['bench press'],
+  pushup: ['push-up', 'push up'],
+  pullup: ['pull-up', 'pull up'],
+  squat: ['squats'],
+  deadlift: ['deadlifts'],
+  row: ['rows'],
+};
+
+/** Expand a query string by injecting synonyms for known terms. */
+function expandSynonyms(query) {
+  let expanded = query;
+  const lower = query.toLowerCase();
+  for (const [term, expansions] of Object.entries(SYNONYMS)) {
+    if (lower.includes(term)) {
+      expanded += ' ' + expansions.join(' ');
+    }
+  }
+  return expanded;
+}
+
+// ---------------------------------------------------------------------------
+// Fuzzy matching — Levenshtein distance
+// ---------------------------------------------------------------------------
+
+function levenshtein(a, b) {
+  const m = a.length, n = b.length;
+  if (m === 0) return n;
+  if (n === 0) return m;
+  const dp = Array.from({ length: m + 1 }, (_, i) => [i, ...Array(n).fill(0)]);
+  for (let j = 0; j <= n; j++) dp[0][j] = j;
+  for (let i = 1; i <= m; i++) {
+    for (let j = 1; j <= n; j++) {
+      dp[i][j] = a[i - 1] === b[j - 1]
+        ? dp[i - 1][j - 1]
+        : 1 + Math.min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]);
+    }
+  }
+  return dp[m][n];
+}
+
+/** Max edit distance for fuzzy match, based on term length. */
+function fuzzyThreshold(len) {
+  if (len >= 5) return 2;
+  if (len >= 3) return 1;
+  return 0;
+}
+
+/** Score a doc for fuzzy match against tokens. Returns 0 if no fuzzy match, else fuzzy score. */
+function fuzzyScoreDoc(doc, tokens) {
+  if (tokens.length === 0) return 0;
+  const words = doc.searchText.split(/\s+/).filter(Boolean);
+  let totalScore = 0;
+  for (const token of tokens) {
+    const threshold = fuzzyThreshold(token.length);
+    if (threshold === 0) continue;
+    const matched = words.some(w => levenshtein(token, w) <= threshold);
+    if (!matched) return 0; // AND semantics — all tokens must fuzzy-match
+    totalScore += 5; // fuzzy hit score (lower than exact/contains)
+  }
+  return totalScore;
+}
+
+// ---------------------------------------------------------------------------
 // Accent normalization
 // ---------------------------------------------------------------------------
 
@@ -105,6 +182,11 @@ function tokenize(query) {
   return normalizeAccents(query.toLowerCase()).replace(/[^a-z0-9 -]/g, ' ').split(/\s+/).filter(Boolean);
 }
 
+/** Tokenize after synonym expansion. */
+function tokenizeExpanded(query) {
+  return tokenize(expandSynonyms(query));
+}
+
 function scoreDoc(doc, tokens) {
   if (tokens.length === 0) return 1;
   let score = 0;
@@ -141,6 +223,11 @@ function matchesFilter(ex, filters) {
   if (filters.laterality && ex.laterality !== filters.laterality) return false;
   if (filters.force_type && ex.force_type !== filters.force_type) return false;
   if (filters.status && ex.status !== filters.status) return false;
+
+  if (filters.review_status) {
+    const exReviewStatus = (ex.metadata && ex.metadata.review_status) || ex.review_status;
+    if (exReviewStatus !== filters.review_status) return false;
+  }
 
   if (filters.muscle_slug) {
     const slugs = new Set([
@@ -254,29 +341,41 @@ function search(index, params = {}) {
     include_related = false,
   } = params;
 
-  const tokens = tokenize(q);
+  // Expand synonyms before tokenizing
+  const expandedQ = q ? expandSynonyms(q) : '';
+  const tokens = tokenize(expandedQ);
+  const rawTokens = tokenize(q); // original tokens for fuzzy fallback
   const perPage = Math.min(Math.max(1, per_page), 100);
   const pageNum = Math.max(1, page);
 
   // Resolve muscle aliases: if query looks like a muscle group name, inject a filter
   const muscleAliasParts = q ? getMuscleAliasTokens(q) : null;
 
-  // Filter then score
-  let matched = index
+  // Filter first
+  const filtered = index
     .filter(doc => matchesFilter(doc.exercise, filters))
     .filter(doc => {
       if (!muscleAliasParts) return true;
-      // Check if any muscle slug contains one of the alias parts
       const allMuscles = [
         ...(doc.exercise.muscles && doc.exercise.muscles.primary || []),
         ...(doc.exercise.muscles && doc.exercise.muscles.secondary || []),
         ...(doc.exercise.muscles && doc.exercise.muscles.stabilizers || []),
       ].map(m => (m.muscle_slug || '').toLowerCase());
       return muscleAliasParts.some(part => allMuscles.some(slug => slug.includes(part)));
-    })
+    });
+
+  // Score with expanded tokens (exact/prefix/contains)
+  let matched = filtered
     .map(doc => ({ ...doc, score: scoreDoc(doc, tokens) }))
     .filter(doc => doc.score > 0 || (muscleAliasParts && doc.score === 0 && tokens.length === 0))
     .map(doc => muscleAliasParts && doc.score === 0 ? { ...doc, score: 1 } : doc);
+
+  // Fuzzy fallback: if no results and query was given, try fuzzy match
+  if (matched.length === 0 && rawTokens.length > 0) {
+    matched = filtered
+      .map(doc => ({ ...doc, score: fuzzyScoreDoc(doc, rawTokens) }))
+      .filter(doc => doc.score > 0);
+  }
 
   // Sort
   const sorted = sortResults(matched, sort_by, sort_order);

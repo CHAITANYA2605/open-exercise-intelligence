@@ -35,7 +35,7 @@ export default function Navbar() {
               </Link>
             ))}
             <a
-              href="https://github.com/open-exercise-intelligence/oei"
+              href="https://github.com/CHAITANYA2605/open-exercise-intelligence"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-2 text-slate-400 hover:text-white transition-colors"

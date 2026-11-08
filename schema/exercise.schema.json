@@ -249,6 +249,49 @@
         }
       }
     },
+    "relationships": {
+      "type": "array",
+      "description": "Typed, reviewable relationships between exercises. Preferred over the legacy variants object for new content.",
+      "items": {
+        "type": "object",
+        "required": ["target_slug", "relationship_type"],
+        "additionalProperties": false,
+        "properties": {
+          "target_slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "relationship_type": {
+            "type": "string",
+            "enum": ["PROGRESSION","REGRESSION","VARIATION","EQUIPMENT_SUBSTITUTION","UNILATERAL_COUNTERPART","BILATERAL_COUNTERPART","ALTERNATIVE","RELATED"]
+          },
+          "rationale": { "type": "string", "minLength": 5 },
+          "difficulty_dimension": {
+            "type": "string",
+            "enum": ["strength","power","coordination","balance","mobility","cardiovascular","technical_complexity"]
+          },
+          "review_status": {
+            "type": "string",
+            "enum": ["UNREVIEWED","APPROVED"],
+            "default": "UNREVIEWED"
+          },
+          "created_by": { "type": "string" },
+          "approved_by": { "type": "string" },
+          "reviewed_at": { "type": "string", "format": "date-time" }
+        }
+      }
+    },
+    "difficulty_dimensions": {
+      "type": "object",
+      "description": "Optional multi-dimensional difficulty ratings on a 0-10 scale. Document the methodology before assigning values.",
+      "additionalProperties": false,
+      "properties": {
+        "strength":            { "type": "number", "minimum": 0, "maximum": 10 },
+        "power":               { "type": "number", "minimum": 0, "maximum": 10 },
+        "coordination":        { "type": "number", "minimum": 0, "maximum": 10 },
+        "balance":             { "type": "number", "minimum": 0, "maximum": 10 },
+        "mobility":            { "type": "number", "minimum": 0, "maximum": 10 },
+        "cardiovascular":      { "type": "number", "minimum": 0, "maximum": 10 },
+        "technical_complexity":{ "type": "number", "minimum": 0, "maximum": 10 }
+      }
+    },
     "variants": {
       "type": "object",
       "additionalProperties": false,
@@ -406,9 +449,10 @@
             "UNREVIEWED",
             "IN_REVIEW",
             "APPROVED",
-            "REJECTED"
+            "REJECTED",
+            "NEEDS_REVISION"
           ],
-          "description": "Review lifecycle status. UNREVIEWED = generated or submitted, awaiting review. IN_REVIEW = currently being checked by a maintainer. APPROVED = reviewed and suitable for release. REJECTED = incorrect, unsafe, duplicated, or unsuitable."
+          "description": "Review lifecycle status. UNREVIEWED = generated or submitted, awaiting review. IN_REVIEW = currently being checked by a maintainer. APPROVED = reviewed and suitable for release. REJECTED = incorrect, unsafe, duplicated, or unsuitable. NEEDS_REVISION = reviewed but requires corrections before approval."
         },
         "contributor_attestation": {
           "type": "string",
@@ -430,7 +474,33 @@
         "rejected_reason": {
           "type": "string",
           "description": "Reason this exercise was rejected."
+        },
+        "review_notes": {
+          "type": "string",
+          "description": "Reviewer notes. Required when review_status is NEEDS_REVISION."
+        },
+        "content_version": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Monotonically increasing version number, incremented on each content change."
         }
+      }
+    }
+  },
+  "if": {
+    "properties": {
+      "metadata": {
+        "properties": {
+          "review_status": { "const": "APPROVED" }
+        },
+        "required": ["review_status"]
+      }
+    }
+  },
+  "then": {
+    "properties": {
+      "metadata": {
+        "required": ["approved_at", "approved_by"]
       }
     }
   },
