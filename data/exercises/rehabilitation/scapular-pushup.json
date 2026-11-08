@@ -8,7 +8,7 @@
   ],
   "description": "The scapular push-up is a rehabilitation drill that trains serratus anterior strength and scapular protraction control in a push-up position. Unlike a standard push-up, the elbows remain locked throughout and only the shoulder blades move \u2014 protracting (spreading apart) and retracting (pinching together). It is prescribed for serratus anterior weakness, scapular winging, and shoulder instability.",
   "category": "rehabilitation",
-  "exercise_type": "strength",
+  "exercise_type": "isolation",
   "difficulty_level": "beginner",
   "movement_pattern": "push",
   "force_type": "push",
@@ -104,7 +104,7 @@
   },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
-    "updated_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],

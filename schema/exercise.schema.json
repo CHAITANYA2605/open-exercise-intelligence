@@ -94,18 +94,20 @@
     "movement_pattern": {
       "type": "string",
       "enum": [
-        "push",
-        "pull",
-        "hinge",
-        "squat",
-        "lunge",
-        "carry",
-        "rotation",
         "anti-rotation",
-        "gait",
-        "overhead",
+        "balance",
         "bridge",
-        "plank"
+        "carry",
+        "gait",
+        "hinge",
+        "lunge",
+        "overhead",
+        "plank",
+        "plyometric",
+        "pull",
+        "push",
+        "rotation",
+        "squat"
       ],
       "description": "The fundamental movement pattern this exercise represents."
     },
@@ -151,23 +153,31 @@
     },
     "muscles": {
       "type": "object",
-      "required": ["primary"],
+      "required": [
+        "primary"
+      ],
       "additionalProperties": false,
       "properties": {
         "primary": {
           "type": "array",
           "minItems": 1,
-          "items": { "$ref": "#/definitions/muscle_reference" },
+          "items": {
+            "$ref": "#/definitions/muscle_reference"
+          },
           "description": "Muscles that are the primary movers in this exercise."
         },
         "secondary": {
           "type": "array",
-          "items": { "$ref": "#/definitions/muscle_reference" },
+          "items": {
+            "$ref": "#/definitions/muscle_reference"
+          },
           "description": "Muscles that assist the primary movers."
         },
         "stabilizers": {
           "type": "array",
-          "items": { "$ref": "#/definitions/muscle_reference" },
+          "items": {
+            "$ref": "#/definitions/muscle_reference"
+          },
           "description": "Muscles that stabilize joints during the exercise without being primary or secondary movers."
         }
       }
@@ -190,7 +200,9 @@
     },
     "execution": {
       "type": "object",
-      "required": ["steps"],
+      "required": [
+        "steps"
+      ],
       "additionalProperties": false,
       "properties": {
         "starting_position": {
@@ -254,27 +266,63 @@
       "description": "Typed, reviewable relationships between exercises. Preferred over the legacy variants object for new content.",
       "items": {
         "type": "object",
-        "required": ["target_slug", "relationship_type"],
+        "required": [
+          "target_slug",
+          "relationship_type"
+        ],
         "additionalProperties": false,
         "properties": {
-          "target_slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "target_slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
           "relationship_type": {
             "type": "string",
-            "enum": ["PROGRESSION","REGRESSION","VARIATION","EQUIPMENT_SUBSTITUTION","UNILATERAL_COUNTERPART","BILATERAL_COUNTERPART","ALTERNATIVE","RELATED"]
+            "enum": [
+              "PROGRESSION",
+              "REGRESSION",
+              "VARIATION",
+              "EQUIPMENT_SUBSTITUTION",
+              "UNILATERAL_COUNTERPART",
+              "BILATERAL_COUNTERPART",
+              "ALTERNATIVE",
+              "RELATED"
+            ]
           },
-          "rationale": { "type": "string", "minLength": 5 },
+          "rationale": {
+            "type": "string",
+            "minLength": 5
+          },
           "difficulty_dimension": {
             "type": "string",
-            "enum": ["strength","power","coordination","balance","mobility","cardiovascular","technical_complexity"]
+            "enum": [
+              "strength",
+              "power",
+              "coordination",
+              "balance",
+              "mobility",
+              "cardiovascular",
+              "technical_complexity"
+            ]
           },
           "review_status": {
             "type": "string",
-            "enum": ["UNREVIEWED","APPROVED"],
+            "enum": [
+              "UNREVIEWED",
+              "APPROVED"
+            ],
             "default": "UNREVIEWED"
           },
-          "created_by": { "type": "string" },
-          "approved_by": { "type": "string" },
-          "reviewed_at": { "type": "string", "format": "date-time" }
+          "created_by": {
+            "type": "string"
+          },
+          "approved_by": {
+            "type": "string"
+          },
+          "reviewed_at": {
+            "type": "string",
+            "format": "date-time"
+          }
         }
       }
     },
@@ -283,13 +331,41 @@
       "description": "Optional multi-dimensional difficulty ratings on a 0-10 scale. Document the methodology before assigning values.",
       "additionalProperties": false,
       "properties": {
-        "strength":            { "type": "number", "minimum": 0, "maximum": 10 },
-        "power":               { "type": "number", "minimum": 0, "maximum": 10 },
-        "coordination":        { "type": "number", "minimum": 0, "maximum": 10 },
-        "balance":             { "type": "number", "minimum": 0, "maximum": 10 },
-        "mobility":            { "type": "number", "minimum": 0, "maximum": 10 },
-        "cardiovascular":      { "type": "number", "minimum": 0, "maximum": 10 },
-        "technical_complexity":{ "type": "number", "minimum": 0, "maximum": 10 }
+        "strength": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "power": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "coordination": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "balance": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "mobility": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "cardiovascular": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "technical_complexity": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        }
       }
     },
     "variants": {
@@ -298,27 +374,37 @@
       "properties": {
         "easier": {
           "type": "array",
-          "items": { "$ref": "#/definitions/exercise_reference" },
+          "items": {
+            "$ref": "#/definitions/exercise_reference"
+          },
           "description": "Easier versions of this exercise for beginners or those with limitations."
         },
         "harder": {
           "type": "array",
-          "items": { "$ref": "#/definitions/exercise_reference" },
+          "items": {
+            "$ref": "#/definitions/exercise_reference"
+          },
           "description": "More challenging progressions of this exercise."
         },
         "unilateral": {
           "type": "array",
-          "items": { "$ref": "#/definitions/exercise_reference" },
+          "items": {
+            "$ref": "#/definitions/exercise_reference"
+          },
           "description": "One-sided (unilateral) versions of this exercise."
         },
         "bilateral": {
           "type": "array",
-          "items": { "$ref": "#/definitions/exercise_reference" },
+          "items": {
+            "$ref": "#/definitions/exercise_reference"
+          },
           "description": "Two-sided (bilateral) versions of a unilateral exercise."
         },
         "equipment_alternatives": {
           "type": "array",
-          "items": { "$ref": "#/definitions/exercise_reference" },
+          "items": {
+            "$ref": "#/definitions/exercise_reference"
+          },
           "description": "Exercises that target the same muscles using different equipment."
         }
       }
@@ -331,15 +417,31 @@
           "type": "array",
           "items": {
             "type": "object",
-            "required": ["goal", "min_reps", "max_reps"],
+            "required": [
+              "goal",
+              "min_reps",
+              "max_reps"
+            ],
             "additionalProperties": false,
             "properties": {
               "goal": {
                 "type": "string",
-                "enum": ["strength", "hypertrophy", "endurance", "power", "mobility"]
+                "enum": [
+                  "strength",
+                  "hypertrophy",
+                  "endurance",
+                  "power",
+                  "mobility"
+                ]
               },
-              "min_reps": { "type": "integer", "minimum": 1 },
-              "max_reps": { "type": "integer", "minimum": 1 }
+              "min_reps": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "max_reps": {
+                "type": "integer",
+                "minimum": 1
+              }
             }
           },
           "description": "General rep range recommendations by training goal. These are general guidelines, not clinical prescriptions."
@@ -348,15 +450,31 @@
           "type": "array",
           "items": {
             "type": "object",
-            "required": ["goal", "min_sets", "max_sets"],
+            "required": [
+              "goal",
+              "min_sets",
+              "max_sets"
+            ],
             "additionalProperties": false,
             "properties": {
               "goal": {
                 "type": "string",
-                "enum": ["strength", "hypertrophy", "endurance", "power", "mobility"]
+                "enum": [
+                  "strength",
+                  "hypertrophy",
+                  "endurance",
+                  "power",
+                  "mobility"
+                ]
               },
-              "min_sets": { "type": "integer", "minimum": 1 },
-              "max_sets": { "type": "integer", "minimum": 1 }
+              "min_sets": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "max_sets": {
+                "type": "integer",
+                "minimum": 1
+              }
             }
           }
         },
@@ -364,18 +482,40 @@
           "type": "object",
           "additionalProperties": false,
           "properties": {
-            "strength": { "type": "integer", "minimum": 0, "description": "Rest in seconds" },
-            "hypertrophy": { "type": "integer", "minimum": 0 },
-            "endurance": { "type": "integer", "minimum": 0 },
-            "power": { "type": "integer", "minimum": 0 },
-            "mobility": { "type": "integer", "minimum": 0 }
+            "strength": {
+              "type": "integer",
+              "minimum": 0,
+              "description": "Rest in seconds"
+            },
+            "hypertrophy": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "endurance": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "power": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "mobility": {
+              "type": "integer",
+              "minimum": 0
+            }
           }
         },
         "training_goals": {
           "type": "array",
           "items": {
             "type": "string",
-            "enum": ["strength", "hypertrophy", "endurance", "mobility", "power"]
+            "enum": [
+              "strength",
+              "hypertrophy",
+              "endurance",
+              "mobility",
+              "power"
+            ]
           },
           "uniqueItems": true,
           "description": "Training goals this exercise is well-suited for."
@@ -392,24 +532,34 @@
         },
         "images": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Asset IDs of execution images."
         },
         "videos": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Asset IDs of demonstration videos."
         },
         "anatomical_illustrations": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Asset IDs of anatomical illustrations."
         }
       }
     },
     "metadata": {
       "type": "object",
-      "required": ["created_at", "updated_at", "version"],
+      "required": [
+        "created_at",
+        "updated_at",
+        "version"
+      ],
       "additionalProperties": false,
       "properties": {
         "created_at": {
@@ -431,7 +581,9 @@
         },
         "sources": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Bibliographic references (book titles, journal articles). Not URLs to other exercise databases."
         },
         "tags": {
@@ -491,23 +643,32 @@
     "properties": {
       "metadata": {
         "properties": {
-          "review_status": { "const": "APPROVED" }
+          "review_status": {
+            "const": "APPROVED"
+          }
         },
-        "required": ["review_status"]
+        "required": [
+          "review_status"
+        ]
       }
     }
   },
   "then": {
     "properties": {
       "metadata": {
-        "required": ["approved_at", "approved_by"]
+        "required": [
+          "approved_at",
+          "approved_by"
+        ]
       }
     }
   },
   "definitions": {
     "muscle_reference": {
       "type": "object",
-      "required": ["muscle_id"],
+      "required": [
+        "muscle_id"
+      ],
       "additionalProperties": false,
       "properties": {
         "muscle_id": {
@@ -521,14 +682,21 @@
         },
         "side": {
           "type": "string",
-          "enum": ["left", "right", "bilateral"],
+          "enum": [
+            "left",
+            "right",
+            "bilateral"
+          ],
           "description": "Which side of the body, for unilateral exercises."
         }
       }
     },
     "exercise_reference": {
       "type": "object",
-      "required": ["exercise_id", "slug"],
+      "required": [
+        "exercise_id",
+        "slug"
+      ],
       "additionalProperties": false,
       "properties": {
         "exercise_id": {

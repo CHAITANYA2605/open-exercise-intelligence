@@ -9,7 +9,7 @@
   ],
   "description": "Side-lying hip abduction is a classic rehabilitation exercise for the gluteus medius and tensor fasciae latae. Performed lying on the side with the top leg raised directly upward in the frontal plane, it provides direct strengthening of the hip abductors without requiring upright balance or complex movement patterns. It is prescribed for IT band syndrome, patellofemoral pain, hip weakness, low back pain, and as a foundational glute exercise for all populations.",
   "category": "rehabilitation",
-  "exercise_type": "strength",
+  "exercise_type": "isolation",
   "difficulty_level": "beginner",
   "movement_pattern": "carry",
   "force_type": "pull",
@@ -113,7 +113,7 @@
   },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
-    "updated_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],

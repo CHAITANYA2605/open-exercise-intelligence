@@ -1,0 +1,178 @@
+{
+  "migration": "taxonomy-fix-2026-11-08",
+  "generated_at": "2026-11-08T12:25:07.084582Z",
+  "total_fixed": 15,
+  "records": [
+    {
+      "slug": "good-morning-squat-hybrid",
+      "file": "data/exercises/back/good-morning-squat-hybrid.json",
+      "changes": [
+        {
+          "field": "movement_pattern",
+          "old": "hip-hinge",
+          "new": "hinge"
+        }
+      ]
+    },
+    {
+      "slug": "prone-y-t-w",
+      "file": "data/exercises/rehabilitation/prone-y-t-w.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "hip-90-90-rotation",
+      "file": "data/exercises/rehabilitation/hip-90-90-rotation.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "single-leg-balance",
+      "file": "data/exercises/rehabilitation/single-leg-balance.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "calisthenics"
+        }
+      ]
+    },
+    {
+      "slug": "scapular-pushup",
+      "file": "data/exercises/rehabilitation/scapular-pushup.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "face-pull-rehab",
+      "file": "data/exercises/rehabilitation/face-pull-rehab.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "pallof-press-rehab",
+      "file": "data/exercises/rehabilitation/pallof-press-rehab.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "terminal-knee-extension",
+      "file": "data/exercises/rehabilitation/terminal-knee-extension.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "dead-bug-rehab",
+      "file": "data/exercises/rehabilitation/dead-bug-rehab.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "compound"
+        }
+      ]
+    },
+    {
+      "slug": "glute-med-strengthening",
+      "file": "data/exercises/rehabilitation/glute-med-strengthening.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "nordic-hamstring-eccentric",
+      "file": "data/exercises/rehabilitation/nordic-hamstring-eccentric.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "band-clamshell-rehab",
+      "file": "data/exercises/rehabilitation/band-clamshell-rehab.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "copenhagen-adduction",
+      "file": "data/exercises/rehabilitation/copenhagen-adduction.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "wall-angel",
+      "file": "data/exercises/rehabilitation/wall-angel.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    },
+    {
+      "slug": "side-lying-external-rotation",
+      "file": "data/exercises/rehabilitation/side-lying-external-rotation.json",
+      "changes": [
+        {
+          "field": "exercise_type",
+          "old": "strength",
+          "new": "isolation"
+        }
+      ]
+    }
+  ],
+  "rationale": {
+    "exercise_type_strength_to_isolation": "strength is not a structural exercise_type; isolation correctly describes single-joint rehab exercises",
+    "exercise_type_strength_to_compound": "dead-bug involves coordinated contralateral limb movement (multi-joint)",
+    "exercise_type_strength_to_calisthenics": "single-leg-balance is bodyweight proprioception with no resistance equipment",
+    "hip_hinge_to_hinge": "hip-hinge is a duplicate of the canonical hinge pattern; normalized to match schema enum"
+  }
+}

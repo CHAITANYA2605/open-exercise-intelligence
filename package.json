@@ -16,7 +16,10 @@
     "analytics:json": "node scripts/analytics/dataset-report.js --json",
     "test": "node tests/search.test.js && node tests/contract/dataset-format.test.js",
     "test:search": "node tests/search.test.js",
-    "test:contract": "node tests/contract/dataset-format.test.js"
+    "test:contract": "node tests/contract/dataset-format.test.js",
+    "test:taxonomy": "node tests/taxonomy.test.js",
+    "taxonomy:migrate": "node scripts/validation/taxonomy-migrate.js",
+    "taxonomy:migrate:apply": "node scripts/validation/taxonomy-migrate.js --apply"
   },
   "engines": {
     "node": ">=18.0.0"

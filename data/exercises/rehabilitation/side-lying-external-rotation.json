@@ -9,7 +9,7 @@
   ],
   "description": "Side-lying external rotation is a foundational rotator cuff rehabilitation exercise targeting the infraspinatus and teres minor \u2014 the primary external rotators of the glenohumeral joint. Performed with the elbow bent to 90 degrees and resting at the side, it isolates the posterior rotator cuff with minimal deltoid or periscapular compensation. It is a standard component of shoulder impingement, rotator cuff tear, and post-surgical rehabilitation programs.",
   "category": "rehabilitation",
-  "exercise_type": "strength",
+  "exercise_type": "isolation",
   "difficulty_level": "beginner",
   "movement_pattern": "rotation",
   "force_type": "pull",
@@ -114,7 +114,7 @@
   },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
-    "updated_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],

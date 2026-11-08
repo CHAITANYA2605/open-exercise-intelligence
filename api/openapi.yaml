@@ -569,9 +569,9 @@ components:
           items: { type: string }
         description: { type: string }
         category: { type: string }
-        exercise_type: { type: string, enum: [compound, isolation] }
-        difficulty_level: { type: string, enum: [beginner, intermediate, advanced] }
-        movement_pattern: { type: string }
+        exercise_type: { type: string, enum: [compound, isolation, cardio, stretching, plyometric, calisthenics] }
+        difficulty_level: { type: string, enum: [beginner, intermediate, advanced, expert] }
+        movement_pattern: { type: string, enum: [anti-rotation, balance, bridge, carry, gait, hinge, lunge, overhead, plank, plyometric, pull, push, rotation, squat] }
         force_type: { type: string }
         mechanics_type: { type: string }
         laterality: { type: string, enum: [bilateral, unilateral] }

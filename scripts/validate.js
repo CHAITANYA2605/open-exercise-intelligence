@@ -23,7 +23,7 @@ const fileArg = (() => {
 const VALID_CATEGORIES = ['strength','cardio','flexibility','functional','plyometric','power','mobility','rehabilitation','stretching'];
 const VALID_EXERCISE_TYPES = ['compound','isolation','cardio','stretching','plyometric','calisthenics'];
 const VALID_DIFFICULTY = ['beginner','intermediate','advanced','expert'];
-const VALID_MOVEMENT = ['push','pull','hinge','squat','lunge','carry','rotation','anti-rotation','gait','overhead','bridge','plank'];
+const VALID_MOVEMENT = ['anti-rotation','balance','bridge','carry','gait','hinge','lunge','overhead','plank','plyometric','pull','push','rotation','squat'];
 const VALID_FORCE = ['push','pull','static'];
 const VALID_MECHANICS = ['compound','isolation'];
 const VALID_LATERALITY = ['bilateral','unilateral','alternating'];

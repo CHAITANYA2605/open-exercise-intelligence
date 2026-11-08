@@ -8,7 +8,7 @@
   ],
   "description": "The band face pull is a rehabilitation exercise for the posterior deltoid, infraspinatus, and middle trapezius, performed by pulling a resistance band toward the face with elbows flared high. It directly counteracts the internal rotation and forward shoulder posture associated with heavy pressing and prolonged sitting. It is used in rotator cuff rehabilitation, shoulder impingement treatment, and general shoulder health maintenance.",
   "category": "rehabilitation",
-  "exercise_type": "strength",
+  "exercise_type": "isolation",
   "difficulty_level": "beginner",
   "movement_pattern": "pull",
   "force_type": "pull",
@@ -114,7 +114,7 @@
   },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
-    "updated_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],

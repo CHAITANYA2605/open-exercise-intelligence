@@ -10,7 +10,7 @@
   "category": "strength",
   "exercise_type": "compound",
   "difficulty_level": "intermediate",
-  "movement_pattern": "hip-hinge",
+  "movement_pattern": "hinge",
   "force_type": "push",
   "mechanics_type": "compound",
   "laterality": "bilateral",
@@ -109,7 +109,7 @@
   },
   "metadata": {
     "created_at": "2026-11-08T00:00:00Z",
-    "updated_at": "2026-11-08T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],

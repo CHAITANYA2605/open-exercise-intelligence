@@ -9,7 +9,7 @@
   ],
   "description": "The Nordic hamstring curl eccentric is a high-load hamstring exercise in which the exerciser slowly lowers the body forward from a kneeling position while the hamstrings eccentrically resist. It produces the highest eccentric hamstring forces of any bodyweight exercise and is extensively supported by research for reducing hamstring strain injury rates. It is used in both injury prevention programs and hamstring rehabilitation after strain.",
   "category": "rehabilitation",
-  "exercise_type": "strength",
+  "exercise_type": "isolation",
   "difficulty_level": "advanced",
   "movement_pattern": "hinge",
   "force_type": "pull",
@@ -110,7 +110,7 @@
   },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
-    "updated_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],

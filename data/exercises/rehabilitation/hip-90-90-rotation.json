@@ -8,7 +8,7 @@
   ],
   "description": "The hip 90/90 rotation is an active mobility drill that trains the ability to transition the hips between internal and external rotation by moving both legs simultaneously from one 90-90 configuration to the opposite. Unlike the passive 90-90 stretch, this version is performed as a controlled active movement. It develops proprioceptive awareness of hip rotation and is used in hip rehabilitation, athletic movement prep, and general hip mobility programs.",
   "category": "rehabilitation",
-  "exercise_type": "strength",
+  "exercise_type": "isolation",
   "difficulty_level": "intermediate",
   "movement_pattern": "rotation",
   "force_type": "static",
@@ -114,7 +114,7 @@
   },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
-    "updated_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],

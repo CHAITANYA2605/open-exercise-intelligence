@@ -8,7 +8,7 @@
   ],
   "description": "The wall angel is a postural rehabilitation drill that trains the ability to elevate the arms overhead while maintaining contact between the head, upper back, and arms with a wall. It simultaneously strengthens the lower trapezius and serratus anterior while stretching the pectoral muscles and improving thoracic extension. It is frequently prescribed for forward head posture, rounded shoulders, and thoracic kyphosis correction.",
   "category": "rehabilitation",
-  "exercise_type": "strength",
+  "exercise_type": "isolation",
   "difficulty_level": "beginner",
   "movement_pattern": "pull",
   "force_type": "push",
@@ -114,7 +114,7 @@
   },
   "metadata": {
     "created_at": "2026-11-07T00:00:00Z",
-    "updated_at": "2026-11-07T00:00:00Z",
+    "updated_at": "2026-11-08T12:25:07Z",
     "created_by": "oei-contributors",
     "version": "1.0.0",
     "sources": [],
