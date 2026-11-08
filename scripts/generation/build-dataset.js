@@ -114,6 +114,7 @@ function main() {
       })),
     };
   }
+  //to rerun actions
 
   const allWrapper = buildWrapper(exercises, 'all');
   const approvedWrapper = buildWrapper(approvedExercises, 'approved-only');
