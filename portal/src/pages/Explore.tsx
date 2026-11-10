@@ -6,6 +6,8 @@ import { useExercises } from '../hooks/useExercises'
 
 const PER_PAGE = 24
 
+const SEARCH_HINTS = ['bench press', 'squat', 'deadlift', 'shoulder', 'glutes', 'beginner chest', 'barbell pull']
+
 export default function Explore() {
   const [q, setQ] = useState('')
   const [filters, setFilters] = useState<Filters>({
@@ -42,14 +44,38 @@ export default function Explore() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <div className="mb-8">
+      <div className="mb-6">
         <h1 className="text-3xl font-bold text-white mb-2">Explore Exercises</h1>
-        <p className="text-slate-400">Browse all 866 exercises. Loaded directly from the dataset — no server required.</p>
+        <p className="text-slate-400 mb-1">866 exercises loaded directly in your browser — no server required.</p>
+        <p className="text-slate-500 text-xs">Click any card to see full details · Use filters on the left to narrow down · Supports fuzzy search and synonyms</p>
       </div>
 
-      <div className="mb-6">
-        <SearchBar value={q} onChange={handleSearch} placeholder="Search by name, muscle, or keyword..." />
+      <div className="mb-3">
+        <SearchBar value={q} onChange={handleSearch} placeholder="Search by name, muscle, keyword, or synonym…" />
       </div>
+
+      {/* Search hint chips — only shown when search is empty */}
+      {!q && (
+        <div className="flex flex-wrap gap-2 mb-6">
+          <span className="text-xs text-slate-500 self-center">Try:</span>
+          {SEARCH_HINTS.map(hint => (
+            <button
+              key={hint}
+              onClick={() => handleSearch(hint)}
+              className="text-xs bg-slate-800 hover:bg-slate-700 border border-slate-700 hover:border-indigo-600 text-slate-300 hover:text-white px-2.5 py-1 rounded-full transition-colors"
+            >
+              {hint}
+            </button>
+          ))}
+        </div>
+      )}
+      {/* Active search indicator */}
+      {q && (
+        <div className="flex items-center gap-2 mb-6">
+          <span className="text-xs text-indigo-400">Searching for "{q}"</span>
+          <button onClick={() => handleSearch('')} className="text-xs text-slate-500 hover:text-white transition-colors underline">clear</button>
+        </div>
+      )}
 
       <div className="flex flex-col lg:flex-row gap-6">
         {/* Sidebar */}

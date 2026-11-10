@@ -93,9 +93,39 @@ function expandSynonyms(query: string): string {
 }
 
 async function fetchDataset(): Promise<Dataset> {
-  const res = await fetch('/generated/oei-dataset-all.json')
-  if (!res.ok) throw new Error(`Failed to load dataset: ${res.status}`)
-  return res.json()
+  // Try the generated wrapper format first, fall back to legacy flat file
+  const urls = ['/data/generated/oei-dataset-all.json', '/data/oei-dataset.json']
+  let lastError = ''
+
+  for (const url of urls) {
+    try {
+      const res = await fetch(url)
+      if (!res.ok) { lastError = `${url} → ${res.status}`; continue }
+
+      const contentType = res.headers.get('content-type') ?? ''
+      if (contentType.includes('text/html')) {
+        // Vite SPA fallback — file not found at this path
+        lastError = `${url} → returned HTML (file not found in publicDir)`
+        continue
+      }
+
+      const raw = await res.json()
+
+      // Handle flat array (legacy oei-dataset.json format)
+      if (Array.isArray(raw)) {
+        return { version: 'legacy', generated_at: '', exercise_count: raw.length, exercises: raw }
+      }
+
+      // Handle versioned wrapper format
+      return raw as Dataset
+    } catch (e) {
+      lastError = `${url} → ${e instanceof Error ? e.message : String(e)}`
+    }
+  }
+
+  throw new Error(
+    `Could not load dataset. Run: docker run --rm -v "$(pwd)":/app -w /app node:20-alpine node scripts/generation/build-dataset.js\n\nDetails: ${lastError}`
+  )
 }
 
 export function useDataset() {

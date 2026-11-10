@@ -25,7 +25,7 @@ public class DatasetService {
 
     private static final Logger log = LoggerFactory.getLogger(DatasetService.class);
 
-    @Value("${oei.dataset.path:data/oei-dataset.json}")
+    @Value("${oei.dataset.path:data/generated/oei-dataset-all.json}")
     private String datasetPath;
 
     private final ObjectMapper objectMapper = new ObjectMapper();

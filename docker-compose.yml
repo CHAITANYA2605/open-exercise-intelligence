@@ -1,4 +1,12 @@
 services:
+  # Builds data/generated/ files before the API starts
+  dataset-builder:
+    image: node:20-alpine
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: node scripts/generation/build-dataset.js
+
   api:
     build: api/server
     ports:
@@ -7,6 +15,10 @@ services:
       - ./data:/app/data:ro
     environment:
       - SPRING_PROFILES_ACTIVE=docker
+      - OEI_DATASET_PATH=data/generated/oei-dataset-all.json
+    depends_on:
+      dataset-builder:
+        condition: service_completed_successfully
     healthcheck:
       test: ["CMD-SHELL", "wget -qO- http://localhost:8080/actuator/health || exit 1"]
       interval: 30s

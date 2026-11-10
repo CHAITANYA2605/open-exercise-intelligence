@@ -161,6 +161,15 @@ export default function ExerciseDetail() {
         <p className="text-slate-300 leading-relaxed">{exercise.description}</p>
       </div>
 
+      <div className="bg-slate-800 border border-slate-700 rounded-xl p-6 flex justify-center">
+        <img
+          src={`/data/illustrations/${exercise.slug}.svg`}
+          alt={`${exercise.name} illustration`}
+          className="w-full max-w-xs h-auto"
+          onError={(e) => { e.currentTarget.parentElement!.style.display = 'none' }}
+        />
+      </div>
+
       <div className="grid md:grid-cols-2 gap-6">
         {/* Muscles */}
         <Section title="Muscles">

@@ -135,6 +135,27 @@ function main() {
       `oei-index-approved.json: ${sha256(JSON.stringify(approvedIndex, null, 2))}`,
     ].join('\n');
     writeOutput(path.join(OUTPUT_DIR, 'checksums.sha256'), checksumLines);
+
+    // Copy generated files into portal/public/data/generated/ so the portal dev server can serve them
+    const PORTAL_PUBLIC = path.join(ROOT, 'portal', 'public', 'data');
+    const PORTAL_GEN = path.join(PORTAL_PUBLIC, 'generated');
+    try {
+      if (!fs.existsSync(PORTAL_PUBLIC)) fs.mkdirSync(PORTAL_PUBLIC, { recursive: true });
+      if (!fs.existsSync(PORTAL_GEN)) fs.mkdirSync(PORTAL_GEN, { recursive: true });
+      const toCopy = ['oei-dataset-all.json', 'oei-dataset-approved.json', 'oei-index-all.json', 'oei-index-approved.json'];
+      for (const f of toCopy) {
+        fs.copyFileSync(path.join(OUTPUT_DIR, f), path.join(PORTAL_GEN, f));
+      }
+      // Also copy the legacy flat-array file for fallback
+      const legacyPath = path.join(ROOT, 'data', 'oei-dataset.json');
+      if (fs.existsSync(legacyPath)) {
+        fs.copyFileSync(legacyPath, path.join(PORTAL_PUBLIC, 'oei-dataset.json'));
+      }
+      console.log('✓ Copied generated files to portal/public/data/');
+    } catch (e) {
+      console.warn('Warning: could not copy to portal/public/data/ —', e.message);
+    }
+
     console.log('\nDataset generation complete.');
     if (approvedExercises.length === 0) {
       console.log('NOTE: oei-dataset-approved.json contains 0 exercises. No exercises are APPROVED yet.');

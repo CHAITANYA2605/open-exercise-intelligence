@@ -49,6 +49,16 @@ export default function ExerciseCard({ exercise }: ExerciseCardProps) {
 
   return (
     <Link to={`/exercise/${exercise.slug}`} className="block bg-slate-800 border border-slate-700 rounded-xl p-4 hover:border-indigo-500 transition-colors cursor-pointer group">
+      <div className="bg-slate-900/60 rounded-lg mb-3 h-32 flex items-center justify-center">
+        <img
+          src={`/data/illustrations/${exercise.slug}.svg`}
+          alt=""
+          loading="lazy"
+          className="h-full w-auto"
+          onError={(e) => { e.currentTarget.style.display = 'none' }}
+        />
+      </div>
+
       <div className="flex items-start justify-between gap-2 mb-2">
         <h3 className="text-white font-semibold text-sm group-hover:text-indigo-300 transition-colors leading-tight">
           {exercise.name}
@@ -81,11 +91,17 @@ export default function ExerciseCard({ exercise }: ExerciseCardProps) {
         </div>
       )}
 
-      {exercise.movement_pattern && (
-        <div className="mt-2 text-xs text-slate-500">
-          {exercise.movement_pattern}
-        </div>
-      )}
+      <div className="mt-3 flex items-center justify-between">
+        {exercise.movement_pattern && (
+          <span className="text-xs text-slate-500">{exercise.movement_pattern}</span>
+        )}
+        <span className="ml-auto text-xs text-indigo-400 group-hover:text-indigo-300 flex items-center gap-1 transition-colors">
+          View
+          <svg className="w-3 h-3 group-hover:translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+          </svg>
+        </span>
+      </div>
     </Link>
   )
 }
