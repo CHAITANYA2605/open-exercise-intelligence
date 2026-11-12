@@ -1,0 +1,501 @@
+{
+  "mapping_version": "0.2.0",
+  "status": "DRAFT_UNREVIEWED",
+  "source_model": {
+    "name": "Z-Anatomy Startup.blend",
+    "source": "https://github.com/Z-Anatomy/Models-of-human-anatomy (Z-Anatomy.zip)",
+    "licence": "CC BY-SA 4.0"
+  },
+  "selection_rule": "Only objects whose names end in .l or .r. Variant objects (.el, .ol, .or, .o1 and similar) are excluded.",
+  "muscles": {
+    "adductor-brevis": {
+      "mesh_objects": [
+        "Adductor brevis.l",
+        "Adductor brevis.r"
+      ]
+    },
+    "adductor-longus": {
+      "mesh_objects": [
+        "Adductor longus.l",
+        "Adductor longus.r"
+      ]
+    },
+    "adductor-magnus": {
+      "mesh_objects": [
+        "Adductor magnus.l",
+        "Adductor magnus.r"
+      ]
+    },
+    "adductors": {
+      "mesh_objects": [
+        "Adductor brevis.l",
+        "Adductor brevis.r",
+        "Adductor longus.l",
+        "Adductor longus.r",
+        "Adductor magnus.l",
+        "Adductor magnus.r",
+        "(Adductor minimus).l",
+        "(Adductor minimus).r"
+      ]
+    },
+    "anterior-deltoid": {
+      "mesh_objects": [
+        "Clavicular part of deltoid muscle.l",
+        "Clavicular part of deltoid muscle.r"
+      ]
+    },
+    "biceps": {
+      "mesh_objects": [
+        "Long head of biceps brachii.l",
+        "Long head of biceps brachii.r",
+        "Short head of biceps brachii.l",
+        "Short head of biceps brachii.r"
+      ]
+    },
+    "biceps-brachii": {
+      "mesh_objects": [
+        "Long head of biceps brachii.l",
+        "Long head of biceps brachii.r",
+        "Short head of biceps brachii.l",
+        "Short head of biceps brachii.r"
+      ]
+    },
+    "biceps-brachii-long-head": {
+      "mesh_objects": [
+        "Long head of biceps brachii.l",
+        "Long head of biceps brachii.r"
+      ],
+      "review_note": "Z-Anatomy splits the heads as separate objects. Confirm the head matches the OEI definition."
+    },
+    "biceps-brachii-short-head": {
+      "mesh_objects": [
+        "Short head of biceps brachii.l",
+        "Short head of biceps brachii.r"
+      ],
+      "review_note": "Z-Anatomy splits the heads as separate objects. Confirm the head matches the OEI definition."
+    },
+    "biceps-femoris": {
+      "mesh_objects": [
+        "Long head of biceps femoris.l",
+        "Long head of biceps femoris.r",
+        "Short head of biceps femoris.l",
+        "Short head of biceps femoris.r"
+      ]
+    },
+    "biceps-femoris-long-head": {
+      "mesh_objects": [
+        "Long head of biceps femoris.l",
+        "Long head of biceps femoris.r"
+      ],
+      "review_note": "Z-Anatomy splits the heads as separate objects. Confirm the head matches the OEI definition."
+    },
+    "biceps-femoris-short-head": {
+      "mesh_objects": [
+        "Short head of biceps femoris.l",
+        "Short head of biceps femoris.r"
+      ],
+      "review_note": "Z-Anatomy splits the heads as separate objects. Confirm the head matches the OEI definition."
+    },
+    "brachialis": {
+      "mesh_objects": [
+        "Brachialis muscle.l",
+        "Brachialis muscle.r"
+      ]
+    },
+    "brachioradialis": {
+      "mesh_objects": [
+        "Brachioradialis muscle.l",
+        "Brachioradialis muscle.r"
+      ]
+    },
+    "deltoid-anterior": {
+      "mesh_objects": [
+        "Clavicular part of deltoid muscle.l",
+        "Clavicular part of deltoid muscle.r"
+      ]
+    },
+    "deltoid-lateral": {
+      "mesh_objects": [
+        "Acromial part of deltoid muscle.l",
+        "Acromial part of deltoid muscle.r"
+      ]
+    },
+    "deltoid-posterior": {
+      "mesh_objects": [
+        "Scapular spinal part of deltoid muscle.l",
+        "Scapular spinal part of deltoid muscle.r"
+      ]
+    },
+    "erector-spinae": {
+      "mesh_objects": [
+        "Iliocostalis lumborum muscle.l",
+        "Iliocostalis lumborum muscle.r",
+        "Iliocostalis thoracis muscle.l",
+        "Iliocostalis thoracis muscle.r",
+        "Longissimus thoracis muscle.l",
+        "Longissimus thoracis muscle.r",
+        "Spinalis thoracis muscle.l",
+        "Spinalis thoracis muscle.r"
+      ]
+    },
+    "extensor-carpi-radialis": {
+      "mesh_objects": [
+        "Extensor carpi radialis brevis.l",
+        "Extensor carpi radialis brevis.r",
+        "Extensor carpi radialis longus.l",
+        "Extensor carpi radialis longus.r"
+      ]
+    },
+    "external-oblique": {
+      "mesh_objects": [
+        "External abdominal oblique muscle.l",
+        "External abdominal oblique muscle.r"
+      ]
+    },
+    "flexor-carpi-radialis": {
+      "mesh_objects": [
+        "Flexor carpi radialis.l",
+        "Flexor carpi radialis.r"
+      ]
+    },
+    "flexor-carpi-ulnaris": {
+      "mesh_objects": [
+        "Humeral head of flexor carpi ulnaris.l",
+        "Humeral head of flexor carpi ulnaris.r",
+        "Ulnar head of flexor carpi ulnaris.l",
+        "Ulnar head of flexor carpi ulnaris.r"
+      ]
+    },
+    "gastrocnemius-lateral": {
+      "mesh_objects": [
+        "Lateral head of gastrocnemius.l",
+        "Lateral head of gastrocnemius.r"
+      ]
+    },
+    "gastrocnemius-medial": {
+      "mesh_objects": [
+        "Medial head of gastrocnemius.l",
+        "Medial head of gastrocnemius.r"
+      ]
+    },
+    "gluteus-maximus": {
+      "mesh_objects": [
+        "Gluteus maximus muscle.l",
+        "Gluteus maximus muscle.r"
+      ]
+    },
+    "gluteus-medius": {
+      "mesh_objects": [
+        "Gluteus medius muscle.l",
+        "Gluteus medius muscle.r"
+      ]
+    },
+    "gluteus-minimus": {
+      "mesh_objects": [
+        "Gluteus minimus muscle.l",
+        "Gluteus minimus muscle.r"
+      ]
+    },
+    "gracilis": {
+      "mesh_objects": [
+        "Gracilis muscle.l",
+        "Gracilis muscle.r"
+      ]
+    },
+    "hamstrings": {
+      "mesh_objects": [
+        "Long head of biceps femoris.l",
+        "Long head of biceps femoris.r",
+        "Short head of biceps femoris.l",
+        "Short head of biceps femoris.r",
+        "Semitendinosus muscle.l",
+        "Semitendinosus muscle.r",
+        "Semimembranosus muscle.l",
+        "Semimembranosus muscle.r"
+      ]
+    },
+    "iliacus": {
+      "mesh_objects": [
+        "Iliacus muscle.l",
+        "Iliacus muscle.r"
+      ]
+    },
+    "iliocostalis": {
+      "mesh_objects": [
+        "Iliocostalis lumborum muscle.l",
+        "Iliocostalis lumborum muscle.r",
+        "Iliocostalis thoracis muscle.l",
+        "Iliocostalis thoracis muscle.r"
+      ]
+    },
+    "infraspinatus": {
+      "mesh_objects": [
+        "Infraspinatus muscle.l",
+        "Infraspinatus muscle.r"
+      ]
+    },
+    "internal-oblique": {
+      "mesh_objects": [
+        "Internal abdominal oblique muscle.l",
+        "Internal abdominal oblique muscle.r"
+      ]
+    },
+    "latissimus-dorsi": {
+      "mesh_objects": [
+        "Latissimus dorsi muscle.l",
+        "Latissimus dorsi muscle.r"
+      ]
+    },
+    "longissimus": {
+      "mesh_objects": [
+        "Longissimus thoracis muscle.l",
+        "Longissimus thoracis muscle.r"
+      ]
+    },
+    "lower-trapezius": {
+      "mesh_objects": [
+        "Descending part of trapezius muscle.l",
+        "Descending part of trapezius muscle.r"
+      ]
+    },
+    "medial-deltoid": {
+      "mesh_objects": [
+        "Acromial part of deltoid muscle.l",
+        "Acromial part of deltoid muscle.r"
+      ]
+    },
+    "middle-trapezius": {
+      "mesh_objects": [
+        "Transverse part of trapezius muscle.l",
+        "Transverse part of trapezius muscle.r"
+      ]
+    },
+    "obliques": {
+      "mesh_objects": [
+        "External abdominal oblique muscle.l",
+        "External abdominal oblique muscle.r",
+        "Internal abdominal oblique muscle.l",
+        "Internal abdominal oblique muscle.r"
+      ]
+    },
+    "pectineus": {
+      "mesh_objects": [
+        "Pectineus muscle.l",
+        "Pectineus muscle.r"
+      ]
+    },
+    "pectoralis-major": {
+      "mesh_objects": [
+        "Sternocostal head of pectoralis major muscle.l",
+        "Sternocostal head of pectoralis major muscle.r",
+        "Clavicular head of pectoralis major muscle.l",
+        "Clavicular head of pectoralis major muscle.r"
+      ]
+    },
+    "pectoralis-major-clavicular": {
+      "mesh_objects": [
+        "Clavicular head of pectoralis major muscle.l",
+        "Clavicular head of pectoralis major muscle.r"
+      ]
+    },
+    "pectoralis-major-sternal": {
+      "mesh_objects": [
+        "Sternocostal head of pectoralis major muscle.l",
+        "Sternocostal head of pectoralis major muscle.r"
+      ]
+    },
+    "pectoralis-minor": {
+      "mesh_objects": [
+        "Pectoralis minor muscle.l",
+        "Pectoralis minor muscle.r"
+      ]
+    },
+    "posterior-deltoid": {
+      "mesh_objects": [
+        "Scapular spinal part of deltoid muscle.l",
+        "Scapular spinal part of deltoid muscle.r"
+      ]
+    },
+    "psoas-major": {
+      "mesh_objects": [
+        "Psoas major.l",
+        "Psoas major.r"
+      ]
+    },
+    "quadriceps": {
+      "mesh_objects": [
+        "Rectus femoris muscle.l",
+        "Rectus femoris muscle.r",
+        "Vastus intermedius muscle.l",
+        "Vastus intermedius muscle.r",
+        "Vastus lateralis muscle.l",
+        "Vastus lateralis muscle.r",
+        "Vastus medialis muscle.l",
+        "Vastus medialis muscle.r"
+      ]
+    },
+    "rectus-abdominis": {
+      "mesh_objects": [
+        "Rectus abdominis muscle.l",
+        "Rectus abdominis muscle.r"
+      ]
+    },
+    "rectus-femoris": {
+      "mesh_objects": [
+        "Rectus femoris muscle.l",
+        "Rectus femoris muscle.r"
+      ]
+    },
+    "rhomboid-major": {
+      "mesh_objects": [
+        "Rhomboid major muscle.l",
+        "Rhomboid major muscle.r"
+      ]
+    },
+    "rhomboid-minor": {
+      "mesh_objects": [
+        "Rhomboid minor muscle.l",
+        "Rhomboid minor muscle.r"
+      ]
+    },
+    "rhomboids": {
+      "mesh_objects": [
+        "Rhomboid major muscle.l",
+        "Rhomboid major muscle.r",
+        "Rhomboid minor muscle.l",
+        "Rhomboid minor muscle.r"
+      ]
+    },
+    "semimembranosus": {
+      "mesh_objects": [
+        "Semimembranosus muscle.l",
+        "Semimembranosus muscle.r"
+      ]
+    },
+    "semitendinosus": {
+      "mesh_objects": [
+        "Semitendinosus muscle.l",
+        "Semitendinosus muscle.r"
+      ]
+    },
+    "serratus-anterior": {
+      "mesh_objects": [
+        "Serratus anterior muscle.l",
+        "Serratus anterior muscle.r"
+      ]
+    },
+    "soleus": {
+      "mesh_objects": [
+        "Soleus muscle.l",
+        "Soleus muscle.r"
+      ]
+    },
+    "subscapularis": {
+      "mesh_objects": [
+        "Subscapularis muscle.l",
+        "Subscapularis muscle.r"
+      ]
+    },
+    "supraspinatus": {
+      "mesh_objects": [
+        "Supraspinatus muscle.l",
+        "Supraspinatus muscle.r"
+      ]
+    },
+    "tensor-fasciae-latae": {
+      "mesh_objects": [
+        "Tensor fasciae latae.l",
+        "Tensor fasciae latae.r"
+      ]
+    },
+    "teres-major": {
+      "mesh_objects": [
+        "Teres major muscle.l",
+        "Teres major muscle.r"
+      ]
+    },
+    "teres-minor": {
+      "mesh_objects": [
+        "Teres minor muscle.l",
+        "Teres minor muscle.r"
+      ]
+    },
+    "tibialis-anterior": {
+      "mesh_objects": [
+        "Tibialis anterior muscle.l",
+        "Tibialis anterior muscle.r"
+      ]
+    },
+    "transverse-abdominis": {
+      "mesh_objects": [
+        "Transversus abdominis muscle.l",
+        "Transversus abdominis muscle.r"
+      ]
+    },
+    "trapezius-lower": {
+      "mesh_objects": [
+        "Descending part of trapezius muscle.l",
+        "Descending part of trapezius muscle.r"
+      ]
+    },
+    "trapezius-middle": {
+      "mesh_objects": [
+        "Transverse part of trapezius muscle.l",
+        "Transverse part of trapezius muscle.r"
+      ]
+    },
+    "trapezius-upper": {
+      "mesh_objects": [
+        "Ascending part of trapezius muscle.l",
+        "Ascending part of trapezius muscle.r"
+      ]
+    },
+    "triceps-brachii": {
+      "mesh_objects": [
+        "Lateral head of triceps brachii.l",
+        "Lateral head of triceps brachii.r",
+        "Long head of triceps brachii.l",
+        "Long head of triceps brachii.r",
+        "Medial head of triceps brachii.l",
+        "Medial head of triceps brachii.r"
+      ]
+    },
+    "triceps-lateral-head": {
+      "mesh_objects": [
+        "Lateral head of triceps brachii.l",
+        "Lateral head of triceps brachii.r"
+      ]
+    },
+    "triceps-long-head": {
+      "mesh_objects": [
+        "Long head of triceps brachii.l",
+        "Long head of triceps brachii.r"
+      ]
+    },
+    "triceps-medial-head": {
+      "mesh_objects": [
+        "Medial head of triceps brachii.l",
+        "Medial head of triceps brachii.r"
+      ]
+    },
+    "vastus-intermedius": {
+      "mesh_objects": [
+        "Vastus intermedius muscle.l",
+        "Vastus intermedius muscle.r"
+      ]
+    },
+    "vastus-lateralis": {
+      "mesh_objects": [
+        "Vastus lateralis muscle.l",
+        "Vastus lateralis muscle.r"
+      ]
+    },
+    "vastus-medialis": {
+      "mesh_objects": [
+        "Vastus medialis muscle.l",
+        "Vastus medialis muscle.r"
+      ]
+    }
+  },
+  "unresolved": []
+}
